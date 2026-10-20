@@ -99,7 +99,8 @@ No total são cerca de 92 s de b-roll em 33 tomadas. Nenhum retoque foi feito na
 2. **Legenda ES que tinha escapado na base:**
    - "y la llevaría a la muerte en un", em 11:02–11:05 (68 quadros);
    - um "ú" solto, em 14:20–14:24 (95 quadros);
-   - um "○" solto ao lado da legenda, em 36:06–36:12 (63 quadros, achado na 2ª revisão).
+   - um "○" solto ao lado da legenda, em 36:06–36:12 (63 quadros, achado na 2ª revisão);
+   - "…acias" num cross-fade de 3 quadros em ~06:00,5, achado na varredura OCR completa (quadros da base usados, a cada 5 quadros). Fora disso, a varredura só achou ruído (bordado, textura).
    - Os dois foram limpos com LaMa (mesmo método da base) só nesses quadros.
    - Uma varredura de todos os quadros usados, procurando pixels de texto na faixa da legenda, não achou outros resíduos de linha.
 3. **Contador pulando no b-roll:** agora mostra o número do momento.
