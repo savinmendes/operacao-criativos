@@ -38,7 +38,7 @@ for k, c in enumerate(chunks):
     if k + 1 < len(chunks): b = min(b, chunks[k + 1][0]["ini"] - T0 - 0.02)
     b = max(b, a + 0.4); b = min(b, DUR)
     txt = " ".join(limpa(x["palavra"]) for x in c).rstrip(",;:–- ")
-    if not re.search(r"\d{1,2}\.$", txt): txt = txt.rstrip(".")  # mantem o ponto do ordinal (am 24.)
+    if not re.search(r"[0-9]{1,2}[.]$", txt): txt = txt.rstrip(".")  # mantem o ponto do ordinal (am 24.)
     txt = txt.replace(" – ", " – ")
     out.append((a, b, txt))
     L.append(f"Dialogue: 0,{ts(a)},{ts(b)},Leg,,0,0,0,,{txt}")

@@ -61,3 +61,4 @@
 - [VSL Lead2 → alemão](project_vsl-lead2-de.md) — VSL 42 min SB ES→DE (19/10), Papa cortado, 37 €, clone PADRE VSL LEAD2, roteiro p/ aprovar antes da voz
 - [Central de Projetos](reference_central-de-projetos.md) — mod do Grupo Chegou instalado em OneDrive/Documentos; projetos = junções em C:/Users/PICHAU/Projetos-Central
 - [Série ranking → SB ES](../../../../Downloads/Produtividade%20com%20ia/contexto/receitas/sb-es-ranking.md) — skill replicar-vencedor-organico + receita contexto/receitas/sb-es-ranking.md; R01–R04 prontos (20/10), R05 guardado, próximos: subir no Meta ou roteiros 06–10
+- [Repo operacao-criativos](reference_repo-operacao-criativos.md) — pasta inteira no GitHub privado p/ outro PC; coletar.py + push / pull + restaurar.ps1

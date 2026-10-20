@@ -1,0 +1,13 @@
+REVISÃO: VSL-LEAD2-DE.mp4
+duração 2299.90s | 720x960 (formato desconhecido) | 30/1 fps | áudio: sim | 429.9 MB
+decodificação: OK
+pts do áudio: 107809 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 62 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/30s): C:\Users\PICHAU\Downloads\VSL-LEAD2-DE\_trabalho\montagem\revisao\v4\VSL-LEAD2-DE_revisao.jpg
+
+=== RESULTADO ===
+PROBLEMA: resolução 720x960 (esperado 720x1280 ou 1080x1920 ou 720x900 ou 1080x1350 ou 720x720 ou 1080x1080)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

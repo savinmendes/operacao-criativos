@@ -1,0 +1,3 @@
+document-skills@anthropic-agent-skills	user
+example-skills@anthropic-agent-skills	user
+central@meus-mods	project

@@ -98,13 +98,14 @@ No total são cerca de 92 s de b-roll em 33 tomadas. Nenhum retoque foi feito na
 1. **"EN VIVO" no fade para preto em 31:26–31:29.** O `selo_live` da base não pegava no fade. Agora o selo LIVE do quadro anterior entra escurecendo junto. A tomada da nave escura saiu das coberturas.
 2. **Legenda ES que tinha escapado na base:**
    - "y la llevaría a la muerte en un", em 11:02–11:05 (68 quadros);
-   - um "ú" solto, em 14:20–14:24 (95 quadros).
+   - um "ú" solto, em 14:20–14:24 (95 quadros);
+   - um "○" solto ao lado da legenda, em 36:06–36:12 (63 quadros, achado na 2ª revisão).
    - Os dois foram limpos com LaMa (mesmo método da base) só nesses quadros.
    - Uma varredura de todos os quadros usados, procurando pixels de texto na faixa da legenda, não achou outros resíduos de linha.
 3. **Contador pulando no b-roll:** agora mostra o número do momento.
 4. **B-roll na parte close sem selo:** entra com zoom, sem selo.
 5. **Depoimento picotado:** as coberturas foram agrupadas. Estátua e púlpito se repetem menos.
-6. **Legenda:** números longos em algarismos e "seelische" com minúscula.
+6. **Legenda:** números longos em algarismos, ponto do ordinal nas datas ("am 24.", "des 23.") e "seelische" com minúscula.
 7. **Pretos do original:** 3 quadros pretos soltos vindos do original (18:35,1 e 24:44,1) foram trocados pelo quadro anterior. Um quadro solto de lipsync antes de cada cobertura também foi eliminado.
 
 ## Imperfeições conhecidas (com tempos)
@@ -133,4 +134,8 @@ No total são cerca de 92 s de b-roll em 33 tomadas. Nenhum retoque foi feito na
 - Whisper `de` em 9 trechos: só alemão, "37 Euro" correto, primeira palavra "Meine Lieben".
 - 24 zooms de boca: sem costura e sem boca dupla.
 - Emendas dos blocos de 300 s: ok.
-- Os 5 bloqueantes e os médios que ele apontou foram corrigidos (ver acima). O resultado da segunda verificação dele está no fim deste relatório.
+- Os 5 bloqueantes e os médios que ele apontou foram corrigidos (ver acima). Na 2ª verificação ele deu OK para "EN VIVO" (varredura a 5 fps no vídeo todo, nenhum), contador, b-roll da parte close, depoimento e números. As duas falhas leves que sobraram (o "○" em 36:08 e o ponto do ordinal) foram corrigidas na versão final.
+
+**Versão final:**
+- `revisar_ad.py` sem whisper: decodificação ok, sem saltos de pts e sem par de cortes a menos de 0,3 s.
+- Áudio: -16,0 LUFS e pico de -1,6 dBFS (ebur128).

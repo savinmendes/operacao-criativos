@@ -54,6 +54,34 @@ def main():
     s.pop("env", None)  # caminhos desta máquina; o guia explica como recriar
     (home / "settings.exemplo.json").write_text(json.dumps(s, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Skills sincronizadas do claude.ai (as próprias; as da Anthropic vêm com qualquer conta)
+    ANTHROPIC = {"built-in-browser", "chrome-browser", "computer-use", "docs", "docx", "pdf", "pptx", "xlsx", "canvas-design",
+                 "skill-creator", "theme-factory", "web-artifacts-builder", "deep-research", "google-workspace", "import-memory"}
+    sync = CASA / "skills" / "synced"
+    for conta in (sync.iterdir() if sync.exists() else []):
+        for sk in (conta.iterdir() if conta.is_dir() else []):
+            if sk.is_dir() and sk.name not in ANTHROPIC:
+                copiar_arvore(sk, home / "skills-claude-ai" / sk.name, so_texto=False)
+    # Plugins instalados (para reinstalar no outro PC)
+    inst = CASA / "plugins" / "installed_plugins.json"
+    if inst.exists():
+        pl = json.loads(inst.read_text(encoding="utf-8")).get("plugins", {})
+        (home / "plugins.txt").write_text("\n".join(f"{nome}\t{v[0].get('scope','user')}" for nome, v in pl.items()) + "\n", encoding="utf-8")
+    # Permissões já liberadas neste projeto (menos pedidos de confirmação)
+    loc = PROJ / ".claude" / "settings.local.json"
+    if loc.exists() and not SENSIVEL.search(loc.read_text(encoding="utf-8")):
+        shutil.copy2(loc, home / "settings.local.projeto.json")
+    # Catálogo automático de todas as skills (projeto + claude.ai)
+    linhas = ["# Catálogo de skills (gerado por coletar.py)", "", "| Skill | Onde | Para que serve |", "|---|---|---|"]
+    def desc(p):
+        t = p.read_text(encoding="utf-8", errors="ignore"); m = re.search(r"^description:\s*(.+)$", t, re.M)
+        return (m.group(1).strip().strip('"') if m else "").replace("|", "/")[:300]
+    for p in sorted((PROJ / ".claude" / "skills").glob("*/SKILL.md")):
+        linhas.append(f"| `{p.parent.name}` | projeto (`.claude/skills`) | {desc(p)} |")
+    for p in sorted((home / "skills-claude-ai").glob("*/SKILL.md")):
+        linhas.append(f"| `{p.parent.name}` | claude.ai (`_portatil/claude-home/skills-claude-ai`) | {desc(p)} |")
+    (RAIZ / "SKILLS-CATALOGO.md").write_text("\n".join(linhas) + "\n", encoding="utf-8")
+
     prod = RAIZ / "producoes"
     if prod.exists(): shutil.rmtree(prod)
     total = 0
