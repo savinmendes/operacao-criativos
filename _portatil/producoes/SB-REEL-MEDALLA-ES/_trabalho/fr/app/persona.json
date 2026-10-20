@@ -1,0 +1,102 @@
+{
+ "slug": "APP",
+ "rosto_selfie": [
+  540,
+  840
+ ],
+ "hook": {
+  "audio": "voz/hook.mp3",
+  "alinhamento": "voz/hook.alinhamento.json",
+  "keep": [
+   [
+    0.0,
+    3.32
+   ],
+   [
+    3.62,
+    4.98
+   ]
+  ]
+ },
+ "reza": {
+  "keep": [
+   [
+    "voz/reza.mp3",
+    0.0,
+    2.97
+   ]
+  ],
+  "lufs": -21.0
+ },
+ "selfie": {
+  "audio": "voz/selfie.mp3",
+  "alinhamento": "voz/selfie.alinhamento.json",
+  "video": "selfie_fr.mp4",
+  "video_offset": 2.72,
+  "cortes": [
+   [
+    2.2,
+    2.74
+   ],
+   [
+    4.52,
+    4.76
+   ],
+   [
+    6.52,
+    6.76
+   ],
+   [
+    8.03,
+    8.48
+   ]
+  ],
+  "frustrado_fim": 2.2,
+  "selfie_trechos": [
+   [
+    2.74,
+    4.52,
+    1.13
+   ],
+   [
+    4.76,
+    6.52,
+    1.0
+   ],
+   [
+    6.76,
+    8.03,
+    1.13
+   ],
+   [
+    8.48,
+    null,
+    1.0
+   ]
+  ]
+ },
+ "cenas": {
+  "gancho": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\app\\completa\\gancho_amplo.mp4",
+   "ss": 0.0,
+   "zoom": 1.08,
+   "centro": [
+    540,
+    1000
+   ],
+   "interp": true
+  },
+  "reza": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\app\\app_noite.mp4",
+   "ss": 0.0
+  },
+  "virada": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\app\\app_dia.mp4",
+   "ss": 0.4
+  },
+  "frustrado": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\app\\completa\\frustrado.mp4",
+   "ss": 0.2
+  }
+ }
+}

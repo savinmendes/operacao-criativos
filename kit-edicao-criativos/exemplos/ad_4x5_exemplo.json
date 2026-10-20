@@ -1,0 +1,13 @@
+{
+  "_doc": "Receita 4:5 (feed). Com resolucao 720 sai 720x900; 1080 -> 1080x1350. Posições em px do quadro BASE 1080x1350 (mesmo em 720) ou *_rel (0–1 da altura). Sem posição = padrão do formato: legenda y=745, selo no topo (y=243, escala 0,85), setas y=1114 (escala 0,85), manchete y=98.",
+  "saida": "ads/AD 09 - DESMALEZADORA-FERNANDO-ES-CL-4x5.mp4",
+  "formato": "4:5",
+  "resolucao": "720",
+  "estilo": "drop",
+  "corpo": "corpo/fernando_es.mp4",
+  "legenda": {"fonte": "alinhamento:corpo/narr.alinhamento.json", "chaves": ["árboles", "pasto", "bencina"]},
+  "manchete": {"texto": "¡DEJA EL PASTO PERFECTO! 😱", "ate": 4.5},
+  "selo": {"linhas": ["SIN BENCINA · 100% ELÉCTRICA", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "desde": 5},
+  "cta": {"palavra": "pide"},
+  "limite_mb": 30
+}

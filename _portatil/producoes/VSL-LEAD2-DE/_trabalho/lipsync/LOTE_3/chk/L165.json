@@ -1,0 +1,14 @@
+{
+ "id": "L165",
+ "quadros_heygen": 336,
+ "quadros": 336,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  -1.0
+ ],
+ "indice_pausa": null,
+ "checar": "AVISO",
+ "saida_checar": "LIPSYNC: L165.mp4 (336 quadros, rosto em 100%, rosto 255,133,146,172 [único rosto])\n  boca x original: dif. boca 7.89 | dif. controle 0.35 | mudou em 100% dos quadros | corr. abertura saída x original 0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.25 (atraso 0 ms) | corr. original -\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.25; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+}

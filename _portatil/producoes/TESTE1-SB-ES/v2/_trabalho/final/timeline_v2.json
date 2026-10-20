@@ -1,0 +1,935 @@
+{
+ "total": 142.5333,
+ "cta_t": 136.307,
+ "itens": [
+  {
+   "id": "react0",
+   "ag": "react",
+   "tipo": "take",
+   "T0": 0.0,
+   "Tend": 2.767,
+   "uso": [
+    0.0,
+    2.7666666666666666
+   ],
+   "texto": "Gente, después dicen que Dios no existe."
+  },
+  {
+   "id": "PIL",
+   "ag": "piloto",
+   "tipo": "fixo",
+   "T0": 2.767,
+   "Tend": 18.067,
+   "uso": [
+    2.7333333333333334,
+    18.033333333333335
+   ],
+   "texto": ""
+  },
+  {
+   "id": "A",
+   "ag": "aurelio",
+   "tipo": "take",
+   "T0": 18.067,
+   "Tend": 26.747,
+   "uso": [
+    0.0,
+    8.64
+   ],
+   "texto": "Sí, me pasó a mí. Y lo peor no fue el golpe… fue llegar a casa y sentir que Dios se había olvidado de mí."
+  },
+  {
+   "id": "audio_separado0",
+   "ag": "aurelio",
+   "tipo": "voz",
+   "T0": 26.927,
+   "Tend": 30.593,
+   "uso": [
+    0.0,
+    3.4459999999999997
+   ],
+   "texto": "Rezaba todos los días y nada cambiaba."
+  },
+  {
+   "id": "B",
+   "ag": "aurelio",
+   "tipo": "take",
+   "T0": 30.593,
+   "Tend": 42.373,
+   "uso": [
+    0.14,
+    11.92
+   ],
+   "texto": "Hasta que aprendí la oración completa de San Benito y la hice después de aquella situación. Al día siguiente, mi carrito se llenó de clientes. No lo podía creer."
+  },
+  {
+   "id": "C",
+   "ag": "aurelio",
+   "tipo": "take",
+   "T0": 42.373,
+   "Tend": 48.573,
+   "uso": [
+    0.0,
+    6.16
+   ],
+   "texto": "¿Podemos poner aquí la transmisión en vivo que enseña esta oración tan poderosa?"
+  },
+  {
+   "id": "CLARO",
+   "ag": "reportera",
+   "tipo": "voz",
+   "T0": 48.653,
+   "Tend": 49.77,
+   "uso": [
+    0,
+    0.817
+   ],
+   "texto": "¡Claro!"
+  },
+  {
+   "id": "SEG",
+   "ag": "reportera",
+   "tipo": "voz",
+   "T0": 49.77,
+   "Tend": 54.989,
+   "uso": [
+    0,
+    4.819
+   ],
+   "texto": "Si tú también rezas y sientes que nada cambia… mira esto."
+  },
+  {
+   "id": "P1",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 54.989,
+   "Tend": 60.064,
+   "uso": [
+    0.05,
+    5.0649999999999995
+   ],
+   "texto": "No es que Dios no te escuche... es que casi nadie conoce la forma correcta de pedirle a San Benito."
+  },
+  {
+   "id": "P2",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 60.124,
+   "Tend": 64.413,
+   "uso": [
+    0.08,
+    4.329
+   ],
+   "texto": "Presten mucha atención, porque este video puede salir del aire muy pronto."
+  },
+  {
+   "id": "narr_L08_no-quieren",
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 64.593,
+   "Tend": 68.881,
+   "uso": [
+    0.020000000000000004,
+    4.0885
+   ],
+   "texto": "No quieren que tengas acceso a esto, porque es una oración muy poderosa."
+  },
+  {
+   "id": "P3",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 68.881,
+   "Tend": 69.868,
+   "uso": [
+    0.078,
+    1.025
+   ],
+   "texto": "Repitan conmigo."
+  },
+  {
+   "id": "REZA",
+   "ag": "padre",
+   "tipo": "fixo",
+   "T0": 70.228,
+   "Tend": 94.908,
+   "uso": [
+    0.0,
+    24.680000000000007
+   ],
+   "texto": ""
+  },
+  {
+   "id": "P4",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 94.908,
+   "Tend": 101.812,
+   "uso": [
+    0.0,
+    6.864
+   ],
+   "texto": "Esta es la poderosísima oración de las doce palabras de San Benito. Están llegando testimonios de bendiciones todos los días."
+  },
+  {
+   "id": "P5",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 101.892,
+   "Tend": 109.084,
+   "uso": [
+    0.08,
+    7.231999999999999
+   ],
+   "texto": "Fue escrita por el propio San Benito y se mantuvo en secreto durante novecientos dieciocho años."
+  },
+  {
+   "id": "narr_L10_monjes-congreso",
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 109.264,
+   "Tend": 125.951,
+   "uso": [
+    0.020000000000000004,
+    16.307
+   ],
+   "texto": "Solo un pequeño grupo de monjes tenía acceso a esta oración completa; yo la traje de un viaje que hice a Italia para compartirla con ustedes. La última vez que enseñé esta oración en un congreso, recibí más de cuatrocientos noventa y siete testimonios de bendiciones al día siguiente. Fue increíble."
+  },
+  {
+   "id": "narr_L11_imagina",
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 125.951,
+   "Tend": 133.762,
+   "uso": [
+    0.0,
+    7.411
+   ],
+   "texto": "Imagina despertar dentro de siete días con las deudas resueltas, la paz de vuelta en tu casa y tu trabajo lleno otra vez."
+  },
+  {
+   "id": "P6",
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 133.762,
+   "Tend": 142.5333,
+   "uso": [
+    0.038000000000000006,
+    8.758
+   ],
+   "texto": "Pero atención: no es una oración común. Toca el botón Ver más, aquí abajo del video, y aprende la forma correcta, mientras todavía está disponible."
+  }
+ ],
+ "planos": [
+  {
+   "t0": 0.0,
+   "t1": 2.767,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\react\\take_react.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "react0",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 0,
+   "n": 83
+  },
+  {
+   "t0": 2.767,
+   "t1": 18.067,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\mont\\corpo.mp4",
+   "vt": 2.7333333333333334,
+   "post": true,
+   "item": "PIL",
+   "q0": 83,
+   "n": 459
+  },
+  {
+   "t0": 18.067,
+   "t1": 19.27,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_A_L05a.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "A",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 542,
+   "n": 36
+  },
+  {
+   "t0": 19.27,
+   "t1": 20.154,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 13.42,
+   "vel": 1.0,
+   "post": true,
+   "item": "A",
+   "broll": "mult1",
+   "q0": 578,
+   "n": 27
+  },
+  {
+   "t0": 20.154,
+   "t1": 23.663,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_A_L05a.mp4",
+   "vt": 2.0869999999999997,
+   "zoom": 1.0,
+   "item": "A",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 605,
+   "n": 105
+  },
+  {
+   "t0": 23.663,
+   "t1": 26.747,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 10.45,
+   "vel": 0.9241245136186776,
+   "post": true,
+   "item": "A",
+   "broll": "vazio",
+   "q0": 710,
+   "n": 92
+  },
+  {
+   "t0": 26.747,
+   "t1": 28.28951336898396,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 92.4,
+   "vel": 0.9724388975559008,
+   "post": false,
+   "item": "audio_separado0",
+   "broll": "hrez",
+   "q0": 802,
+   "n": 47
+  },
+  {
+   "t0": 28.28951336898396,
+   "t1": 29.46182352941177,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 106.56,
+   "vel": 0.972438897555901,
+   "post": false,
+   "item": "audio_separado0",
+   "broll": "mrez1",
+   "q0": 849,
+   "n": 35
+  },
+  {
+   "t0": 29.46182352941177,
+   "t1": 30.593,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 107.7,
+   "vel": 0.9724388975559021,
+   "post": false,
+   "item": "audio_separado0",
+   "broll": "mrez2",
+   "q0": 884,
+   "n": 34
+  },
+  {
+   "t0": 30.593,
+   "t1": 33.361,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_B_L05b.mp4",
+   "vt": 0.14,
+   "zoom": 1.0,
+   "item": "B",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 918,
+   "n": 83
+  },
+  {
+   "t0": 33.361,
+   "t1": 34.326,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 51.45,
+   "vel": 0.829015544041445,
+   "post": false,
+   "item": "B",
+   "broll": "sb_pe",
+   "q0": 1001,
+   "n": 29
+  },
+  {
+   "t0": 34.326,
+   "t1": 36.673,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_B_L05b.mp4",
+   "vt": 3.8730000000000007,
+   "zoom": 1.0,
+   "item": "B",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 1030,
+   "n": 70
+  },
+  {
+   "t0": 36.673,
+   "t1": 40.72,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 15.95,
+   "vel": 0.8030639980232277,
+   "post": true,
+   "item": "B",
+   "broll": "mult2",
+   "q0": 1100,
+   "n": 122
+  },
+  {
+   "t0": 40.72,
+   "t1": 42.373,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_B_L05b.mp4",
+   "vt": 10.267,
+   "zoom": 1.0,
+   "item": "B",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 1222,
+   "n": 49
+  },
+  {
+   "t0": 42.373,
+   "t1": 48.573,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\aurelio\\take_C_L06.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "C",
+   "post": true,
+   "live": false,
+   "modo": null,
+   "q0": 1271,
+   "n": 186
+  },
+  {
+   "t0": 48.573,
+   "t1": 49.77,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 13.42,
+   "vel": 1.0,
+   "post": true,
+   "item": "CLARO",
+   "broll": "mult1",
+   "q0": 1457,
+   "n": 36
+  },
+  {
+   "t0": 49.77,
+   "t1": 51.09509131403119,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 106.56,
+   "vel": 0.8603180685955164,
+   "post": false,
+   "item": "SEG",
+   "broll": "mrez1",
+   "q0": 1493,
+   "n": 40
+  },
+  {
+   "t0": 51.09509131403119,
+   "t1": 52.37368819599109,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 107.7,
+   "vel": 0.8603180685955164,
+   "post": false,
+   "item": "SEG",
+   "broll": "mrez2",
+   "q0": 1533,
+   "n": 38
+  },
+  {
+   "t0": 52.37368819599109,
+   "t1": 53.7104031180401,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 88.82,
+   "vel": 0.8603180685955163,
+   "post": false,
+   "item": "SEG",
+   "broll": "cruz",
+   "q0": 1571,
+   "n": 40
+  },
+  {
+   "t0": 53.7104031180401,
+   "t1": 54.989,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 90.45,
+   "vel": 0.8603180685955198,
+   "post": false,
+   "item": "SEG",
+   "broll": "mont",
+   "q0": 1611,
+   "n": 39
+  },
+  {
+   "t0": 54.989,
+   "t1": 56.291,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P1.mp4",
+   "vt": 0.05,
+   "zoom": 1.0,
+   "item": "P1",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 1650,
+   "n": 39
+  },
+  {
+   "t0": 56.291,
+   "t1": 57.337999999999994,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 58.25,
+   "vel": 1.0,
+   "post": false,
+   "item": "P1",
+   "broll": "mul1",
+   "q0": 1689,
+   "n": 31
+  },
+  {
+   "t0": 57.337999999999994,
+   "t1": 60.064,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P1.mp4",
+   "vt": 2.3989999999999965,
+   "zoom": 1.12,
+   "item": "P1",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 1720,
+   "n": 82
+  },
+  {
+   "t0": 60.064,
+   "t1": 64.413,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P2.mp4",
+   "vt": 0.019999999999997728,
+   "zoom": 1.0,
+   "item": "P2",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 1802,
+   "n": 130
+  },
+  {
+   "t0": 64.413,
+   "t1": 65.513,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 46.75,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L08_no-quieren",
+   "broll": "tecl",
+   "q0": 1932,
+   "n": 33
+  },
+  {
+   "t0": 65.513,
+   "t1": 66.783,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 84.3,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L08_no-quieren",
+   "broll": "perg_b",
+   "q0": 1965,
+   "n": 38
+  },
+  {
+   "t0": 66.783,
+   "t1": 67.883,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 90.45,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L08_no-quieren",
+   "broll": "mont",
+   "q0": 2003,
+   "n": 33
+  },
+  {
+   "t0": 67.883,
+   "t1": 68.881,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 88.82,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L08_no-quieren",
+   "broll": "cruz",
+   "q0": 2036,
+   "n": 30
+  },
+  {
+   "t0": 68.881,
+   "t1": 69.868,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P3.mp4",
+   "vt": 0.078,
+   "zoom": 1.12,
+   "item": "P3",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 2066,
+   "n": 30
+  },
+  {
+   "t0": 69.868,
+   "t1": 71.368,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 92.4,
+   "vel": 1.0,
+   "post": false,
+   "item": "REZA",
+   "broll": "hrez",
+   "q0": 2096,
+   "n": 45
+  },
+  {
+   "t0": 71.368,
+   "t1": 72.338,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 95.86,
+   "vel": 1.0,
+   "post": false,
+   "item": "REZA",
+   "broll": "praia",
+   "q0": 2141,
+   "n": 29
+  },
+  {
+   "t0": 72.338,
+   "t1": 94.908,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\mont\\corpo.mp4",
+   "vt": 68.33,
+   "post": false,
+   "item": "REZA",
+   "q0": 2170,
+   "n": 677
+  },
+  {
+   "t0": 94.908,
+   "t1": 98.61,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P4.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "P4",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 2847,
+   "n": 111
+  },
+  {
+   "t0": 98.61,
+   "t1": 101.057,
+   "src": "chat",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\graficos\\chat_1.png",
+   "item": "P4",
+   "broll": "chat1",
+   "q0": 2958,
+   "n": 74
+  },
+  {
+   "t0": 101.057,
+   "t1": 101.812,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P4.mp4",
+   "vt": 6.149000000000001,
+   "zoom": 1.12,
+   "item": "P4",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 3032,
+   "n": 22
+  },
+  {
+   "t0": 101.812,
+   "t1": 103.562,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 82.55,
+   "vel": 1.0,
+   "post": false,
+   "item": "P5",
+   "broll": "perg_a",
+   "q0": 3054,
+   "n": 53
+  },
+  {
+   "t0": 103.562,
+   "t1": 104.199,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 90.45,
+   "vel": 1.0,
+   "post": false,
+   "item": "P5",
+   "broll": "mont",
+   "q0": 3107,
+   "n": 19
+  },
+  {
+   "t0": 104.199,
+   "t1": 105.30199999999999,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P5.mp4",
+   "vt": 2.3870000000000022,
+   "zoom": 1.0,
+   "item": "P5",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 3126,
+   "n": 33
+  },
+  {
+   "t0": 105.30199999999999,
+   "t1": 108.41,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 52.55,
+   "vel": 0.8848133848133837,
+   "post": false,
+   "item": "P5",
+   "broll": "sb_esc",
+   "q0": 3159,
+   "n": 93
+  },
+  {
+   "t0": 108.41,
+   "t1": 109.084,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P5.mp4",
+   "vt": 6.598000000000001,
+   "zoom": 1.12,
+   "item": "P5",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 3252,
+   "n": 21
+  },
+  {
+   "t0": 109.084,
+   "t1": 109.98062049861495,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 51.45,
+   "vel": 0.8922392486406343,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "sb_pe",
+   "q0": 3273,
+   "n": 26
+  },
+  {
+   "t0": 109.98062049861495,
+   "t1": 113.13,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 55.36,
+   "vel": 0.8922392486406334,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "sb_mar",
+   "q0": 3299,
+   "n": 95
+  },
+  {
+   "t0": 113.13,
+   "t1": 114.59914763231198,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 95.86,
+   "vel": 0.9120934959349586,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "praia",
+   "q0": 3394,
+   "n": 44
+  },
+  {
+   "t0": 114.59914763231198,
+   "t1": 115.8051643454039,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 90.45,
+   "vel": 0.9120934959349586,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "mont",
+   "q0": 3438,
+   "n": 36
+  },
+  {
+   "t0": 115.8051643454039,
+   "t1": 117.066,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 88.82,
+   "vel": 0.9120934959349588,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "cruz",
+   "q0": 3474,
+   "n": 38
+  },
+  {
+   "t0": 117.066,
+   "t1": 119.206,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 99.03,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "congr",
+   "q0": 3512,
+   "n": 64
+  },
+  {
+   "t0": 119.206,
+   "t1": 120.259,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 90.45,
+   "vel": 1.0,
+   "post": false,
+   "item": "narr_L10_monjes-congreso",
+   "broll": "mont",
+   "q0": 3576,
+   "n": 32
+  },
+  {
+   "t0": 120.259,
+   "t1": 125.951,
+   "src": "chat",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\graficos\\chat_2.png",
+   "item": "narr_L10_monjes-congreso",
+   "broll": "chat2",
+   "q0": 3608,
+   "n": 171
+  },
+  {
+   "t0": 125.951,
+   "t1": 133.762,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 132.83,
+   "vel": 0.8756881321213633,
+   "post": false,
+   "item": "narr_L11_imagina",
+   "broll": "divid",
+   "q0": 3779,
+   "n": 234
+  },
+  {
+   "t0": 133.762,
+   "t1": 134.776,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P6.mp4",
+   "vt": 0.038000000000000006,
+   "zoom": 1.0,
+   "item": "P6",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 4013,
+   "n": 30
+  },
+  {
+   "t0": 134.776,
+   "t1": 136.327,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P6.mp4",
+   "vt": 1.05200000000001,
+   "zoom": 1.12,
+   "item": "P6",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 4043,
+   "n": 47
+  },
+  {
+   "t0": 136.327,
+   "t1": 138.479,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P6.mp4",
+   "vt": 2.6029999999999975,
+   "zoom": 1.0,
+   "item": "P6",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 4090,
+   "n": 64
+  },
+  {
+   "t0": 138.479,
+   "t1": 139.491,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\_trabalho\\lama\\base_limpa.mp4",
+   "vt": 58.25,
+   "vel": 1.0,
+   "post": false,
+   "item": "P6",
+   "broll": "mul1",
+   "q0": 4154,
+   "n": 31
+  },
+  {
+   "t0": 139.491,
+   "t1": 142.5333,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v2\\_trabalho\\padre\\take_P6.mp4",
+   "vt": 5.767000000000014,
+   "zoom": 1.12,
+   "item": "P6",
+   "post": false,
+   "live": true,
+   "modo": null,
+   "q0": 4185,
+   "n": 91
+  }
+ ]
+}

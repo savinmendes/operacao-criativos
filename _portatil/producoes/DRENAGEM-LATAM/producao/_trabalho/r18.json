@@ -1,0 +1,7 @@
+{"ad":"ad18","corte":81.25,"saida":"AD 18 - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/5/anonymous/3a8ed6bc-2bff-45e6-8bf4-12eaa5486953.mp4","inicio":0.0,"quadros":64},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/5/anonymous/a785ddd7-d773-4d99-8f31-6f68e20d282d.mp4","inicio":58.933,"quadros":46},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/5/anonymous/a9a9e455-5b72-4fdc-86e5-30b328a65d62.mp4","inicio":63.933,"quadros":28}],
+"textos":[{"de":58.5,"ate":59.95,"caixa":"232,896,488,964","texto":"lymphoria","ref":59.2},
+{"de":77.1,"ate":78.1,"caixa":"232,896,488,964","texto":"lymphoria","ref":77.6}],
+"audios":[{"mp3":"p1.mp3","de":58.6,"ate":60.4},{"mp3":"p2.mp3","de":76.95,"ate":77.97}]}

@@ -1,0 +1,219 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_montado\\TR37_fundo.mp4",
+ "overlays": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov",
+ "sfx": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\sfx",
+ "titulo": null,
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 3.1
+ },
+ "banner": true,
+ "sticker": false,
+ "selo": {
+  "em": "sempre",
+  "png": "selo_bf.png",
+  "x": "W-w-10",
+  "y": 10
+ },
+ "whoosh": false,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": {},
+  "y": 1060,
+  "chaves": [
+   "dewalt",
+   "percutor",
+   "atornillador",
+   "maleta",
+   "cargador",
+   "carbones",
+   "brushless",
+   "led",
+   "recién",
+   "chile",
+   "bueno",
+   "bonito",
+   "barato",
+   "débil",
+   "incluido",
+   "maestro",
+   "madera",
+   "metal",
+   "muro",
+   "modo",
+   "taladro",
+   "versatilidad",
+   "potencia",
+   "fuerza",
+   "liviano",
+   "kit"
+  ],
+  "juntar": [
+   [
+    "Pre",
+    "Black",
+    "Friday"
+   ],
+   [
+    "dos",
+    "baterías"
+   ],
+   [
+    "sin",
+    "carbones"
+   ],
+   [
+    "luz",
+    "LED"
+   ],
+   [
+    "quince",
+    "posiciones"
+   ],
+   [
+    "ajuste",
+    "rápido"
+   ],
+   [
+    "dos",
+    "velocidades"
+   ],
+   [
+    "indicador",
+    "de",
+    "carga"
+   ],
+   [
+    "todo",
+    "Chile"
+   ],
+   [
+    "pagas",
+    "recién"
+   ],
+   [
+    "pega",
+    "pesada"
+   ],
+   [
+    "taladro",
+    "débil"
+   ],
+   [
+    "todo",
+    "incluido"
+   ],
+   [
+    "un",
+    "solo",
+    "kit"
+   ],
+   [
+    "sin",
+    "cables"
+   ],
+   [
+    "en",
+    "segundos"
+   ],
+   [
+    "harto",
+    "tiempo"
+   ],
+   [
+    "bien",
+    "apretado"
+   ],
+   [
+    "la",
+    "obra"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\37.mp4",
+   "tipo": "outro",
+   "zoom": 1.0,
+   "snap": false,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_audio\\trad_37_fundo.wav",
+   "dur": 76.2,
+   "video_ate": 71.4
+  }
+ ],
+ "extras": [
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_taladro-percutor-y-atornillador.png",
+   "de": 0.0,
+   "ate": 11.0
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_2-baterias-2ah-cargador-maleta.png",
+   "de": 11.0,
+   "ate": 16.51
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_mandril-1-2-13-mm.png",
+   "de": 16.51,
+   "ate": 20.76
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_compacto-y-liviano.png",
+   "de": 25.06,
+   "ate": 27.08
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_motor-sin-carbones.png",
+   "de": 27.08,
+   "ate": 29.71
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_2-velocidades.png",
+   "de": 29.71,
+   "ate": 33.92
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_hasta-1-750-rpm.png",
+   "de": 33.92,
+   "ate": 40.5
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_15-posiciones-de-torque.png",
+   "de": 40.5,
+   "ate": 47.0
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_indicador-de-carga.png",
+   "de": 47.0,
+   "ate": 51.5
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_luz-led.png",
+   "de": 61.94,
+   "ate": 64.84
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_pre-black-friday-pagas-al-recibir.png",
+   "de": 71.6,
+   "ate": 76.2
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\cobre37_madera.png",
+   "de": 51.78,
+   "ate": 55.3
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\cobre37_metal.png",
+   "de": 55.3,
+   "ate": 58.27
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\cobre37_muro.png",
+   "de": 58.27,
+   "ate": 60.47
+  }
+ ]
+}

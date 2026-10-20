@@ -1,0 +1,61 @@
+{
+ "idioma": "sem fala (whisper vazio, prob 0.33)",
+ "origem": {
+  "perfil": "@hdequipamentos (TikTok)",
+  "tipo": "loja de equipamentos"
+ },
+ "resolucao": "576x1130 (abaixo de 720p; proporção um pouco mais alta que 9:16)",
+ "duracao_s": 15.1,
+ "cortes": {
+  "n": 2,
+  "tempos_s": [
+   8.0,
+   11.8
+  ],
+  "ritmo": "rápido, handheld"
+ },
+ "formato": "POV loja mostrando produto na mão (detalhes + bateria)",
+ "gancho": {
+  "visual": "close extremo no logo DeWalt 20V MAX BRUSHLESS",
+  "fala": "sem fala",
+  "texto_tela": "nenhum"
+ },
+ "corpo": [
+  {
+   "t": "0-5",
+   "bloco": "giro do produto na mão, LED aceso"
+  },
+  {
+   "t": "5-8",
+   "bloco": "close bateria 20V 2Ah e etiqueta DCD7781"
+  },
+  {
+   "t": "8-12",
+   "bloco": "lateral 'BRUSHLESS MOTOR'"
+  },
+  {
+   "t": "12-15",
+   "bloco": "bateria 20V 2Ah na mão, indicador de carga verde"
+  }
+ ],
+ "cta": "nenhum",
+ "texto_tela": "nenhum",
+ "produto": {
+  "modelo": "DCD7781 (etiqueta legível) com bateria 20V 2Ah; visual idêntico ao DCD7771 e mesma bateria do nosso kit",
+  "nosso_produto": "quase (versão com percussão do mesmo corpo)"
+ },
+ "rosto": {
+  "sim": false,
+  "tempo": "0 (só mão)"
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "sem voz (som ambiente/música; whisper sem segmentos)",
+ "uso": "banco de takes",
+ "uso_motivo": "closes reais de mão: logo brushless, LED, bateria 2Ah com indicador de carga, bons para gancho/prova; evitar o quadro da etiqueta DCD7781",
+ "nota": 4,
+ "nota_just": "takes curtos, sem rosto e sem texto, do produto quase idêntico; só 576p.",
+ "ad": "38",
+ "fala_resumo": "vídeo mudo de fala: takes limpos para banco",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\38.json",
+ "n_segmentos_fala": 0
+}

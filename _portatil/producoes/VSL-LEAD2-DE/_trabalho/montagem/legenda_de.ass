@@ -1,0 +1,1078 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 960
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Leg,Segoe UI Semibold,53,&H00FFFFFF,&H00FFFFFF,&H8C000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,48,48,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.48,0:00:02.52,Leg,,0,0,0,,Meine Lieben, Gott segne alle
+Dialogue: 0,0:00:02.54,0:00:04.00,Leg,,0,0,0,,die hier versammelt sind
+Dialogue: 0,0:00:04.02,0:00:06.15,Leg,,0,0,0,,Das Wort Gottes im Buch Maleachi
+Dialogue: 0,0:00:06.17,0:00:09.38,Leg,,0,0,0,,Kapitel 3, Vers 10, sagt etwas ganz Klares
+Dialogue: 0,0:00:09.40,0:00:11.33,Leg,,0,0,0,,Gott verspricht nicht wenig
+Dialogue: 0,0:00:11.35,0:00:12.89,Leg,,0,0,0,,Gott verspricht Fülle
+Dialogue: 0,0:00:12.91,0:00:14.39,Leg,,0,0,0,,Er verspricht, Ihr Leben
+Dialogue: 0,0:00:14.41,0:00:16.70,Leg,,0,0,0,,Ihr Zuhause und Ihr Schicksal überfließen zu
+Dialogue: 0,0:00:16.72,0:00:17.49,Leg,,0,0,0,,lassen
+Dialogue: 0,0:00:17.51,0:00:19.62,Leg,,0,0,0,,Vielleicht ist Ihr Konto heute leer
+Dialogue: 0,0:00:19.64,0:00:22.48,Leg,,0,0,0,,Ihr Haus still und Ihr Herz voller Angst
+Dialogue: 0,0:00:22.50,0:00:24.43,Leg,,0,0,0,,Doch Gott sagt genau jetzt
+Dialogue: 0,0:00:24.45,0:00:26.82,Leg,,0,0,0,,Mein Kind, mach dich bereit
+Dialogue: 0,0:00:26.84,0:00:28.76,Leg,,0,0,0,,denn was ich ausgießen werde
+Dialogue: 0,0:00:28.78,0:00:31.34,Leg,,0,0,0,,ist so groß, dass der Wohlstand über dein
+Dialogue: 0,0:00:31.36,0:00:33.51,Leg,,0,0,0,,Leben überfließen wird
+Dialogue: 0,0:00:33.69,0:00:35.93,Leg,,0,0,0,,Es ist kein Segen nur für heute
+Dialogue: 0,0:00:35.95,0:00:37.92,Leg,,0,0,0,,es ist ein Segen für Ihr Leben
+Dialogue: 0,0:00:37.94,0:00:39.80,Leg,,0,0,0,,für Ihre Familie und für alle
+Dialogue: 0,0:00:39.82,0:00:41.66,Leg,,0,0,0,,die Ihnen nahestehen
+Dialogue: 0,0:00:42.29,0:00:44.79,Leg,,0,0,0,,Wenn Sie glauben und Ihr Herz jetzt öffnen
+Dialogue: 0,0:00:44.81,0:00:47.04,Leg,,0,0,0,,werden Sie spüren, wie sich die Fenster des
+Dialogue: 0,0:00:47.06,0:00:49.95,Leg,,0,0,0,,Himmels schon über Ihrem Leben öffnen
+Dialogue: 0,0:00:50.08,0:00:51.73,Leg,,0,0,0,,Amen
+Dialogue: 0,0:00:51.75,0:00:55.66,Leg,,0,0,0,,Brüder und Schwestern, in den nächsten 57
+Dialogue: 0,0:00:55.68,0:00:58.19,Leg,,0,0,0,,Sekunden erhalten die Auserwählten Gottes
+Dialogue: 0,0:00:58.21,0:01:01.32,Leg,,0,0,0,,Zugang zum heiligen Benediktusgebet
+Dialogue: 0,0:01:01.34,0:01:04.72,Leg,,0,0,0,,einem Gebet, das finanzielle Wunder bewirkt
+Dialogue: 0,0:01:04.74,0:01:08.13,Leg,,0,0,0,,Krankheiten heilt, Ehen wiederherstellt
+Dialogue: 0,0:01:08.40,0:01:10.48,Leg,,0,0,0,,Frieden in die Familie bringt
+Dialogue: 0,0:01:10.50,0:01:12.98,Leg,,0,0,0,,Wege öffnet, Häuser befreit
+Dialogue: 0,0:01:13.00,0:01:16.50,Leg,,0,0,0,,Wohlstand anzieht und Schicksale wendet
+Dialogue: 0,0:01:33.05,0:01:35.09,Leg,,0,0,0,,Beginnen wir im Namen des Vaters und des
+Dialogue: 0,0:01:35.11,0:01:37.14,Leg,,0,0,0,,Sohnes und des Heiligen Geistes
+Dialogue: 0,0:01:37.16,0:01:38.51,Leg,,0,0,0,,Amen
+Dialogue: 0,0:01:56.10,0:01:58.69,Leg,,0,0,0,,Meine Lieben zu Hause, schreiben Sie jetzt
+Dialogue: 0,0:01:58.71,0:02:00.53,Leg,,0,0,0,,Ihre Anliegen in den Chat
+Dialogue: 0,0:02:00.55,0:02:03.03,Leg,,0,0,0,,Ich lese einige Nachrichten vor
+Dialogue: 0,0:02:03.05,0:02:05.53,Leg,,0,0,0,,Eine Mutter aus Dortmund bittet um unser
+Dialogue: 0,0:02:05.55,0:02:06.47,Leg,,0,0,0,,Gebet
+Dialogue: 0,0:02:06.49,0:02:09.04,Leg,,0,0,0,,Sie ist hoch verschuldet und kann vor lauter
+Dialogue: 0,0:02:09.06,0:02:10.89,Leg,,0,0,0,,Geldsorgen nicht mehr schlafen
+Dialogue: 0,0:02:10.91,0:02:13.18,Leg,,0,0,0,,Ein Familienvater aus Berlin bittet um
+Dialogue: 0,0:02:13.20,0:02:15.41,Leg,,0,0,0,,Segen, damit er Arbeit findet
+Dialogue: 0,0:02:15.71,0:02:17.67,Leg,,0,0,0,,Er ist seit Monaten mit der Miete im
+Dialogue: 0,0:02:17.69,0:02:21.29,Leg,,0,0,0,,Rückstand, und seine Kinder leiden Not
+Dialogue: 0,0:02:21.64,0:02:23.89,Leg,,0,0,0,,Eine Großmutter aus einem kleinen Dorf in
+Dialogue: 0,0:02:23.91,0:02:25.97,Leg,,0,0,0,,Niederbayern bittet um Heilung
+Dialogue: 0,0:02:25.99,0:02:28.24,Leg,,0,0,0,,Gelenkschmerzen, Diabetes
+Dialogue: 0,0:02:28.26,0:02:30.02,Leg,,0,0,0,,sie möchte nur wieder mit ihren Enkeln
+Dialogue: 0,0:02:30.04,0:02:33.09,Leg,,0,0,0,,spielen und ein normales Leben führen
+Dialogue: 0,0:02:33.46,0:02:35.54,Leg,,0,0,0,,Sie alle werden heute gesegnet
+Dialogue: 0,0:02:35.56,0:02:38.11,Leg,,0,0,0,,denn in wenigen Minuten erhalten Sie Zugang
+Dialogue: 0,0:02:38.13,0:02:40.41,Leg,,0,0,0,,zum heiligen Benediktusgebet
+Dialogue: 0,0:02:40.43,0:02:42.20,Leg,,0,0,0,,Doch verstehen Sie eines
+Dialogue: 0,0:02:42.22,0:02:44.42,Leg,,0,0,0,,Das ist kein gewöhnliches Gebet
+Dialogue: 0,0:02:44.44,0:02:46.80,Leg,,0,0,0,,Sie finden es in keiner Suchmaschine
+Dialogue: 0,0:02:46.82,0:02:48.89,Leg,,0,0,0,,auf keiner öffentlichen Website
+Dialogue: 0,0:02:48.91,0:02:50.98,Leg,,0,0,0,,in keinem herkömmlichen Buch
+Dialogue: 0,0:02:51.00,0:02:53.32,Leg,,0,0,0,,Es ist nicht frei zugänglich
+Dialogue: 0,0:02:53.46,0:02:55.12,Leg,,0,0,0,,Es ist etwas Heiliges
+Dialogue: 0,0:02:55.14,0:02:58.16,Leg,,0,0,0,,verborgen, gehütet, geschützt
+Dialogue: 0,0:02:58.22,0:03:00.59,Leg,,0,0,0,,So kraftvoll, dass es noch heute in
+Dialogue: 0,0:03:00.61,0:03:03.13,Leg,,0,0,0,,vertraulichen Studien internationaler
+Dialogue: 0,0:03:03.15,0:03:05.39,Leg,,0,0,0,,wissenschaftlicher Einrichtungen untersucht
+Dialogue: 0,0:03:05.41,0:03:06.07,Leg,,0,0,0,,wird
+Dialogue: 0,0:03:06.09,0:03:08.33,Leg,,0,0,0,,Und zum ersten Mal mussten selbst Menschen
+Dialogue: 0,0:03:08.35,0:03:09.57,Leg,,0,0,0,,die nicht an Gott glaubten
+Dialogue: 0,0:03:09.59,0:03:10.39,Leg,,0,0,0,,anerkennen
+Dialogue: 0,0:03:10.41,0:03:13.31,Leg,,0,0,0,,dass dieses Gebet eine echte Kraft hat
+Dialogue: 0,0:03:13.61,0:03:14.96,Leg,,0,0,0,,Sie selbst sagten
+Dialogue: 0,0:03:14.98,0:03:16.46,Leg,,0,0,0,,Das könnte der Schlüssel sein
+Dialogue: 0,0:03:16.48,0:03:18.02,Leg,,0,0,0,,den Gott hinterlassen hat
+Dialogue: 0,0:03:18.04,0:03:20.07,Leg,,0,0,0,,damit die Menschheit wieder zu den Wundern
+Dialogue: 0,0:03:20.09,0:03:21.03,Leg,,0,0,0,,findet
+Dialogue: 0,0:03:22.08,0:03:24.18,Leg,,0,0,0,,Meine Lieben, was jetzt offenbart wird
+Dialogue: 0,0:03:24.20,0:03:26.69,Leg,,0,0,0,,kann Ihr Leben und das Leben Ihrer Familie
+Dialogue: 0,0:03:26.71,0:03:28.50,Leg,,0,0,0,,vollkommen verändern
+Dialogue: 0,0:03:28.71,0:03:31.11,Leg,,0,0,0,,Aber ich muss Sie auf etwas Wichtiges
+Dialogue: 0,0:03:31.13,0:03:31.98,Leg,,0,0,0,,hinweisen
+Dialogue: 0,0:03:32.00,0:03:33.81,Leg,,0,0,0,,Diese Offenbarung wird nur hier
+Dialogue: 0,0:03:33.83,0:03:37.26,Leg,,0,0,0,,weitergegeben, in dieser Live-Übertragung
+Dialogue: 0,0:03:37.28,0:03:38.97,Leg,,0,0,0,,Schließen Sie diese Seite nicht
+Dialogue: 0,0:03:38.99,0:03:40.41,Leg,,0,0,0,,Prüfen Sie Ihren Akku
+Dialogue: 0,0:03:40.43,0:03:41.99,Leg,,0,0,0,,Verbinden Sie sich im Geist
+Dialogue: 0,0:03:42.01,0:03:43.88,Leg,,0,0,0,,denn eine solche Gelegenheit kommt nicht
+Dialogue: 0,0:03:43.90,0:03:44.37,Leg,,0,0,0,,wieder
+Dialogue: 0,0:03:44.39,0:03:45.69,Leg,,0,0,0,,Bereiten Sie sich darauf vor
+Dialogue: 0,0:03:45.71,0:03:48.50,Leg,,0,0,0,,zu empfangen, was Gott für Sie bereithält
+Dialogue: 0,0:03:49.05,0:03:51.86,Leg,,0,0,0,,Regie, bitte jetzt das Video einspielen
+Dialogue: 0,0:03:52.94,0:03:54.95,Leg,,0,0,0,,Hallo, ich bin Maria Fernández
+Dialogue: 0,0:03:55.07,0:03:56.67,Leg,,0,0,0,,Vor zwei Wochen habe ich angefangen
+Dialogue: 0,0:03:56.69,0:03:58.72,Leg,,0,0,0,,dieses Benediktusgebet zu beten
+Dialogue: 0,0:03:58.74,0:04:01.00,Leg,,0,0,0,,täglich, nur sieben Minuten
+Dialogue: 0,0:04:01.10,0:04:03.45,Leg,,0,0,0,,Ehrlich gesagt hatte ich anfangs Zweifel
+Dialogue: 0,0:04:03.47,0:04:05.85,Leg,,0,0,0,,Aber nach und nach änderte sich etwas
+Dialogue: 0,0:04:05.87,0:04:07.54,Leg,,0,0,0,,Ich bekam mehr Ordnung ins Leben
+Dialogue: 0,0:04:07.56,0:04:09.73,Leg,,0,0,0,,verkaufte Produkte von zu Hause aus
+Dialogue: 0,0:04:09.75,0:04:11.93,Leg,,0,0,0,,regelte meine Schulden und war beim Thema
+Dialogue: 0,0:04:11.95,0:04:14.43,Leg,,0,0,0,,Geld endlich wieder ruhig
+Dialogue: 0,0:04:14.45,0:04:16.18,Leg,,0,0,0,,Heute habe ich Stabilität
+Dialogue: 0,0:04:16.20,0:04:17.63,Leg,,0,0,0,,Aber das Schönste war
+Dialogue: 0,0:04:17.65,0:04:19.03,Leg,,0,0,0,,Mein Mann hat sich verändert
+Dialogue: 0,0:04:19.05,0:04:20.24,Leg,,0,0,0,,zu Gott zurückgefunden
+Dialogue: 0,0:04:20.25,0:04:22.59,Leg,,0,0,0,,betet wieder mit mir – wir gehen unseren Weg
+Dialogue: 0,0:04:22.61,0:04:24.07,Leg,,0,0,0,,wieder gemeinsam
+Dialogue: 0,0:04:24.09,0:04:26.22,Leg,,0,0,0,,Padre Juan, von Herzen Dank
+Dialogue: 0,0:04:26.24,0:04:28.74,Leg,,0,0,0,,Dieses Gebet hat unsere Familie verändert
+Dialogue: 0,0:04:28.76,0:04:30.47,Leg,,0,0,0,,Als ich mit diesem Gebet anfing
+Dialogue: 0,0:04:30.49,0:04:31.93,Leg,,0,0,0,,habe ich schon geglaubt
+Dialogue: 0,0:04:31.95,0:04:34.28,Leg,,0,0,0,,Aber ich ahnte nicht, wie weit Gott gehen
+Dialogue: 0,0:04:34.30,0:04:34.88,Leg,,0,0,0,,kann
+Dialogue: 0,0:04:34.90,0:04:36.35,Leg,,0,0,0,,Ich betete es im Glauben
+Dialogue: 0,0:04:36.37,0:04:39.22,Leg,,0,0,0,,still, jeden Morgen sieben Minuten
+Dialogue: 0,0:04:39.24,0:04:41.18,Leg,,0,0,0,,Und etwas begann sich zu ändern
+Dialogue: 0,0:04:41.19,0:04:43.13,Leg,,0,0,0,,Ich bekam ein Jobangebot
+Dialogue: 0,0:04:43.15,0:04:45.46,Leg,,0,0,0,,genau als ich es am meisten brauchte
+Dialogue: 0,0:04:45.63,0:04:46.86,Leg,,0,0,0,,Eine verschlossene Tür
+Dialogue: 0,0:04:46.88,0:04:47.80,Leg,,0,0,0,,ging auf
+Dialogue: 0,0:04:47.82,0:04:49.24,Leg,,0,0,0,,Heute habe ich Stabilität
+Dialogue: 0,0:04:49.26,0:04:50.37,Leg,,0,0,0,,finanzielle Ruhe
+Dialogue: 0,0:04:50.39,0:04:51.60,Leg,,0,0,0,,Ich schlafe in Frieden
+Dialogue: 0,0:04:51.62,0:04:53.05,Leg,,0,0,0,,ohne Schuldensorgen
+Dialogue: 0,0:04:53.07,0:04:55.33,Leg,,0,0,0,,Aber Gott heilte nicht nur meine Finanzen
+Dialogue: 0,0:04:55.35,0:04:56.85,Leg,,0,0,0,,sondern auch meinen Körper
+Dialogue: 0,0:04:57.10,0:04:59.51,Leg,,0,0,0,,Meine starken Rückenschmerzen sind weg
+Dialogue: 0,0:04:59.53,0:05:00.98,Leg,,0,0,0,,Er heilte meine Seele
+Dialogue: 0,0:05:01.00,0:05:02.36,Leg,,0,0,0,,Zu Hause ist wieder Frieden
+Dialogue: 0,0:05:02.38,0:05:04.41,Leg,,0,0,0,,Kein Zufall – ein Wunder
+Dialogue: 0,0:05:04.43,0:05:06.11,Leg,,0,0,0,,Danke, Padre Juan
+Dialogue: 0,0:05:06.13,0:05:07.65,Leg,,0,0,0,,Danke, heiliger Benedikt
+Dialogue: 0,0:05:07.67,0:05:09.83,Leg,,0,0,0,,Dieses Gebet hat mein Leben verwandelt
+Dialogue: 0,0:05:09.85,0:05:12.13,Leg,,0,0,0,,Mein Geschäft stand kurz vor dem Aus
+Dialogue: 0,0:05:12.15,0:05:13.03,Leg,,0,0,0,,Wirklich
+Dialogue: 0,0:05:13.05,0:05:15.22,Leg,,0,0,0,,keine Kunden, keine Einnahmen
+Dialogue: 0,0:05:15.24,0:05:17.48,Leg,,0,0,0,,und keine Hoffnung mehr
+Dialogue: 0,0:05:17.50,0:05:20.06,Leg,,0,0,0,,Manchmal wollte ich ernsthaft aufgeben
+Dialogue: 0,0:05:20.08,0:05:22.77,Leg,,0,0,0,,Genau da lernte ich Padre Juan kennen
+Dialogue: 0,0:05:22.79,0:05:26.21,Leg,,0,0,0,,und er erzählte mir vom Benediktusgebet
+Dialogue: 0,0:05:26.23,0:05:28.38,Leg,,0,0,0,,Ich wusste nicht, ob es wirkt
+Dialogue: 0,0:05:28.40,0:05:30.09,Leg,,0,0,0,,aber ich habe gebetet
+Dialogue: 0,0:05:30.29,0:05:32.47,Leg,,0,0,0,,Im Glauben, jeden Tag
+Dialogue: 0,0:05:32.49,0:05:35.31,Leg,,0,0,0,,auch wenn ich innerlich am Boden war
+Dialogue: 0,0:05:35.33,0:05:37.58,Leg,,0,0,0,,Und dann begann sich etwas zu verändern
+Dialogue: 0,0:05:37.60,0:05:39.34,Leg,,0,0,0,,Nicht von heute auf morgen
+Dialogue: 0,0:05:39.36,0:05:41.04,Leg,,0,0,0,,aber es kamen Kunden
+Dialogue: 0,0:05:41.06,0:05:43.53,Leg,,0,0,0,,Menschen, die vorher nie aufgetaucht waren
+Dialogue: 0,0:05:43.55,0:05:45.54,Leg,,0,0,0,,riefen plötzlich an
+Dialogue: 0,0:05:45.56,0:05:47.64,Leg,,0,0,0,,Langsam lief das Geschäft wieder
+Dialogue: 0,0:05:47.69,0:05:49.78,Leg,,0,0,0,,Heute habe ich Arbeit, Kunden
+Dialogue: 0,0:05:49.80,0:05:51.35,Leg,,0,0,0,,ein Auskommen
+Dialogue: 0,0:05:51.37,0:05:52.92,Leg,,0,0,0,,Aber das Wichtigste
+Dialogue: 0,0:05:52.94,0:05:55.03,Leg,,0,0,0,,Meine innere Ruhe ist zurück
+Dialogue: 0,0:05:55.05,0:05:55.88,Leg,,0,0,0,,Danke, Gott
+Dialogue: 0,0:05:55.90,0:05:57.64,Leg,,0,0,0,,Danke, heiliger Benedikt
+Dialogue: 0,0:05:57.66,0:05:59.30,Leg,,0,0,0,,Und danke, Padre Juan
+Dialogue: 0,0:05:59.32,0:06:00.60,Leg,,0,0,0,,Von Herzen
+Dialogue: 0,0:06:00.62,0:06:02.34,Leg,,0,0,0,,Für alle, die mich nicht kennen
+Dialogue: 0,0:06:02.36,0:06:04.82,Leg,,0,0,0,,Ich bin Padre Juan Méndez von der Pfarrei
+Dialogue: 0,0:06:04.84,0:06:05.24,Leg,,0,0,0,,St
+Dialogue: 0,0:06:05.10,0:06:06.12,Leg,,0,0,0,,Benedikt
+Dialogue: 0,0:06:06.14,0:06:08.38,Leg,,0,0,0,,Und es gibt einen sehr wichtigen Grund
+Dialogue: 0,0:06:08.40,0:06:10.67,Leg,,0,0,0,,warum ich diese Live-Übertragung für Sie zu
+Dialogue: 0,0:06:10.69,0:06:12.21,Leg,,0,0,0,,Hause angesetzt habe
+Dialogue: 0,0:06:12.23,0:06:14.94,Leg,,0,0,0,,damit Sie diesen Segen empfangen können
+Dialogue: 0,0:06:15.21,0:06:17.44,Leg,,0,0,0,,Zuallererst sollen Sie wissen
+Dialogue: 0,0:06:17.74,0:06:20.28,Leg,,0,0,0,,Ich habe unseren himmlischen Vater inständig
+Dialogue: 0,0:06:20.30,0:06:21.93,Leg,,0,0,0,,angefleht, genau die Menschen
+Dialogue: 0,0:06:21.94,0:06:24.32,Leg,,0,0,0,,hierherzuführen, die dringend Segen und
+Dialogue: 0,0:06:24.34,0:06:26.34,Leg,,0,0,0,,Wunder brauchen
+Dialogue: 0,0:06:26.36,0:06:28.32,Leg,,0,0,0,,Wenn Sie also jetzt bei mir sind
+Dialogue: 0,0:06:28.34,0:06:29.76,Leg,,0,0,0,,hat das einen Grund
+Dialogue: 0,0:06:29.78,0:06:31.86,Leg,,0,0,0,,Gott schenkt Ihnen die Gelegenheit zu
+Dialogue: 0,0:06:31.88,0:06:34.83,Leg,,0,0,0,,verstehen, wie Sie die Kraft freisetzen
+Dialogue: 0,0:06:34.85,0:06:38.04,Leg,,0,0,0,,Wunder in Ihrem Leben zu erfahren
+Dialogue: 0,0:06:38.16,0:06:40.22,Leg,,0,0,0,,Sie sind nicht zufällig hier
+Dialogue: 0,0:06:40.42,0:06:42.43,Leg,,0,0,0,,Gott bereitet die Wege
+Dialogue: 0,0:06:42.45,0:06:45.09,Leg,,0,0,0,,gehen müssen Sie sie selbst
+Dialogue: 0,0:06:45.11,0:06:47.98,Leg,,0,0,0,,Darum bereiten Sie Ihr Herz im Glauben vor
+Dialogue: 0,0:06:48.00,0:06:49.98,Leg,,0,0,0,,denn Sie werden gleich den Segen dieses
+Dialogue: 0,0:06:50.00,0:06:53.13,Leg,,0,0,0,,kraftvollen Benediktusgebets empfangen
+Dialogue: 0,0:06:53.15,0:06:54.88,Leg,,0,0,0,,Und achten Sie genau auf das
+Dialogue: 0,0:06:54.90,0:06:56.88,Leg,,0,0,0,,was ich jetzt offenbare
+Dialogue: 0,0:06:57.00,0:07:00.18,Leg,,0,0,0,,Wir aktivieren die Antenne der Wunder
+Dialogue: 0,0:07:00.19,0:07:01.92,Leg,,0,0,0,,einen Teil unseres Körpers
+Dialogue: 0,0:07:01.94,0:07:03.72,Leg,,0,0,0,,den viele nicht verstehen
+Dialogue: 0,0:07:03.74,0:07:05.54,Leg,,0,0,0,,der aber die Wunder in Ihrem Leben
+Dialogue: 0,0:07:05.56,0:07:08.20,Leg,,0,0,0,,außergewöhnlich vervielfachen kann
+Dialogue: 0,0:07:08.22,0:07:09.64,Leg,,0,0,0,,Wir werden auch ein altes
+Dialogue: 0,0:07:09.66,0:07:11.36,Leg,,0,0,0,,heiliges Rezept verwenden
+Dialogue: 0,0:07:11.38,0:07:13.04,Leg,,0,0,0,,mit nur drei Zutaten
+Dialogue: 0,0:07:13.06,0:07:14.88,Leg,,0,0,0,,mit dem die mächtigsten Priester das
+Dialogue: 0,0:07:14.90,0:07:17.68,Leg,,0,0,0,,wundertätige Wasser zubereiteten
+Dialogue: 0,0:07:17.70,0:07:19.78,Leg,,0,0,0,,Dieses Wasser kann Ihr Leben mit Segen
+Dialogue: 0,0:07:19.80,0:07:22.20,Leg,,0,0,0,,erfüllen, Krankheiten heilen
+Dialogue: 0,0:07:22.22,0:07:24.88,Leg,,0,0,0,,Ihrem Geist Frieden bringen und Sie vor dem
+Dialogue: 0,0:07:24.90,0:07:26.58,Leg,,0,0,0,,Bösen schützen
+Dialogue: 0,0:07:26.60,0:07:28.03,Leg,,0,0,0,,Und es gibt noch mehr
+Dialogue: 0,0:07:28.05,0:07:30.37,Leg,,0,0,0,,einen geheimen Brief, den ein alter Bischof
+Dialogue: 0,0:07:30.39,0:07:32.55,Leg,,0,0,0,,fünf Nächte vor seinem Heimgang geschrieben
+Dialogue: 0,0:07:32.57,0:07:33.42,Leg,,0,0,0,,hat
+Dialogue: 0,0:07:33.44,0:07:35.70,Leg,,0,0,0,,Er liegt bis heute in den alten Archiven des
+Dialogue: 0,0:07:35.72,0:07:37.20,Leg,,0,0,0,,Vatikans verborgen
+Dialogue: 0,0:07:37.22,0:07:39.96,Leg,,0,0,0,,Nur zwölf Worte – doch wer sie im Glauben
+Dialogue: 0,0:07:39.98,0:07:43.20,Leg,,0,0,0,,hört, spürt Gott näher als je zuvor
+Dialogue: 0,0:07:43.22,0:07:45.51,Leg,,0,0,0,,Diese Offenbarung kann Ihr Leben mit Gott in
+Dialogue: 0,0:07:45.53,0:07:47.98,Leg,,0,0,0,,wenigen Wochen vollkommen verändern
+Dialogue: 0,0:07:48.17,0:07:51.34,Leg,,0,0,0,,Was tun, wenn Gebete nicht erhört werden?
+Dialogue: 0,0:07:51.36,0:07:53.72,Leg,,0,0,0,,Eine Nonne aus einem Klausurkloster
+Dialogue: 0,0:07:53.74,0:07:57.03,Leg,,0,0,0,,die 67 Jahre ihres Lebens dem Gebet geweiht
+Dialogue: 0,0:07:57.05,0:07:59.64,Leg,,0,0,0,,hat, zeigt Ihnen den feinen Fehler
+Dialogue: 0,0:07:59.66,0:08:02.51,Leg,,0,0,0,,den 99 Prozent der Gläubigen beim Beten
+Dialogue: 0,0:08:02.53,0:08:04.45,Leg,,0,0,0,,machen – und der verhindert
+Dialogue: 0,0:08:04.47,0:08:06.40,Leg,,0,0,0,,dass Gott sie erhört
+Dialogue: 0,0:08:06.42,0:08:09.40,Leg,,0,0,0,,Das Geheimnis, das mir ein 93-jähriger
+Dialogue: 0,0:08:09.42,0:08:11.85,Leg,,0,0,0,,Bischof über die Freimaurer anvertraute
+Dialogue: 0,0:08:11.87,0:08:13.92,Leg,,0,0,0,,streng unter Verschluss gehalten
+Dialogue: 0,0:08:13.94,0:08:16.41,Leg,,0,0,0,,kann Ihren Geist neu programmieren und in
+Dialogue: 0,0:08:16.43,0:08:18.85,Leg,,0,0,0,,sieben Tagen Reichtum, Gesundheit und Glück
+Dialogue: 0,0:08:18.87,0:08:19.87,Leg,,0,0,0,,bringen
+Dialogue: 0,0:08:19.98,0:08:22.63,Leg,,0,0,0,,Er hat mir den Verhaltenskodex offenbart
+Dialogue: 0,0:08:22.65,0:08:25.36,Leg,,0,0,0,,mit dem die Elite viel Geld anzieht
+Dialogue: 0,0:08:25.38,0:08:28.45,Leg,,0,0,0,,Was Sie hier erhalten, ist 500-mal mehr wert
+Dialogue: 0,0:08:28.47,0:08:31.86,Leg,,0,0,0,,als Gold und tausendmal mehr als Diamanten
+Dialogue: 0,0:08:31.88,0:08:34.09,Leg,,0,0,0,,Selbst dem reichsten Mann der Welt wurde
+Dialogue: 0,0:08:34.11,0:08:35.86,Leg,,0,0,0,,verwehrt, es zu kaufen
+Dialogue: 0,0:08:35.88,0:08:37.96,Leg,,0,0,0,,Heute ist ein Tag, den Sie nie vergessen
+Dialogue: 0,0:08:37.98,0:08:38.51,Leg,,0,0,0,,werden
+Dialogue: 0,0:08:38.53,0:08:40.24,Leg,,0,0,0,,Wahrscheinlich kenne ich Sie nicht
+Dialogue: 0,0:08:40.26,0:08:41.70,Leg,,0,0,0,,aber eines weiß ich
+Dialogue: 0,0:08:41.72,0:08:44.28,Leg,,0,0,0,,Vielleicht leiden Sie, tragen einen tiefen
+Dialogue: 0,0:08:44.30,0:08:46.91,Leg,,0,0,0,,Schmerz wegen etwas, das Ihnen ausweglos
+Dialogue: 0,0:08:46.93,0:08:49.38,Leg,,0,0,0,,erscheint – Schulden, die nur wachsen
+Dialogue: 0,0:08:49.39,0:08:51.39,Leg,,0,0,0,,eine unerträgliche Arbeit
+Dialogue: 0,0:08:51.41,0:08:53.89,Leg,,0,0,0,,eine Krankheit oder Probleme in der Liebe
+Dialogue: 0,0:08:53.91,0:08:56.64,Leg,,0,0,0,,Und all das verursacht schreckliche Angst
+Dialogue: 0,0:08:56.66,0:08:59.68,Leg,,0,0,0,,seelischen Schmerz, Streit in der Familie
+Dialogue: 0,0:08:59.70,0:09:01.58,Leg,,0,0,0,,den Schmerz der Einsamkeit
+Dialogue: 0,0:09:01.60,0:09:03.48,Leg,,0,0,0,,Nichts davon ist leicht
+Dialogue: 0,0:09:03.50,0:09:05.71,Leg,,0,0,0,,Deshalb kann ich Ihnen dieses kraftvolle
+Dialogue: 0,0:09:05.73,0:09:08.24,Leg,,0,0,0,,Gebet unmöglich vorenthalten
+Dialogue: 0,0:09:08.65,0:09:10.37,Leg,,0,0,0,,Ich erhielt es auf meiner jüngsten
+Dialogue: 0,0:09:10.39,0:09:12.63,Leg,,0,0,0,,Italienreise, in einem alten
+Dialogue: 0,0:09:12.65,0:09:15.21,Leg,,0,0,0,,Benediktinerkloster, das dem heiligen
+Dialogue: 0,0:09:15.23,0:09:17.53,Leg,,0,0,0,,Benedikt geweiht ist
+Dialogue: 0,0:09:17.55,0:09:20.25,Leg,,0,0,0,,Hören Sie genau zu, denn Sie erhalten nicht
+Dialogue: 0,0:09:20.27,0:09:22.85,Leg,,0,0,0,,nur Zugang zum mächtigsten Wohlstandsgebet
+Dialogue: 0,0:09:22.87,0:09:25.31,Leg,,0,0,0,,der Welt, sondern erfahren auch die drei
+Dialogue: 0,0:09:25.33,0:09:28.00,Leg,,0,0,0,,Geheimnisse, die der Vatikan unter sieben
+Dialogue: 0,0:09:28.02,0:09:30.39,Leg,,0,0,0,,Siegeln hütet – Geheimnisse
+Dialogue: 0,0:09:30.41,0:09:32.77,Leg,,0,0,0,,die mir persönlich offenbart wurden
+Dialogue: 0,0:09:32.79,0:09:35.78,Leg,,0,0,0,,in den frühen Morgenstunden des 23
+Dialogue: 0,0:09:35.80,0:09:38.75,Leg,,0,0,0,,März 2025
+Dialogue: 0,0:09:38.90,0:09:40.87,Leg,,0,0,0,,Mit ihnen können Sie den Reichtum und die
+Dialogue: 0,0:09:40.89,0:09:42.98,Leg,,0,0,0,,Fülle erlangen, die Sie sich wünschen
+Dialogue: 0,0:09:43.00,0:09:45.09,Leg,,0,0,0,,und Ihre tiefsten Wünsche erfüllen
+Dialogue: 0,0:09:45.11,0:09:46.45,Leg,,0,0,0,,welche auch immer
+Dialogue: 0,0:09:46.47,0:09:48.03,Leg,,0,0,0,,Doch ich muss Sie warnen
+Dialogue: 0,0:09:48.05,0:09:50.26,Leg,,0,0,0,,Dieses heilige Wissen ist allein für
+Dialogue: 0,0:09:50.28,0:09:53.00,Leg,,0,0,0,,ehrliche, fleißige und gottesfürchtige
+Dialogue: 0,0:09:53.02,0:09:54.17,Leg,,0,0,0,,Menschen bestimmt
+Dialogue: 0,0:09:54.19,0:09:56.24,Leg,,0,0,0,,Es darf ausschließlich dazu dienen
+Dialogue: 0,0:09:56.26,0:09:58.69,Leg,,0,0,0,,Ihnen und Ihrer Familie zu helfen und dem
+Dialogue: 0,0:09:58.71,0:10:00.65,Leg,,0,0,0,,Nächsten Gutes zu tun
+Dialogue: 0,0:10:00.67,0:10:03.61,Leg,,0,0,0,,Wenn Ihre Absichten gierig und böse sind
+Dialogue: 0,0:10:03.63,0:10:06.27,Leg,,0,0,0,,dann schließen Sie bitte dieses Video und
+Dialogue: 0,0:10:06.29,0:10:08.01,Leg,,0,0,0,,verlassen Sie diese Messe
+Dialogue: 0,0:10:08.03,0:10:10.46,Leg,,0,0,0,,Ich bin es leid, wie die Eliten dieses
+Dialogue: 0,0:10:10.48,0:10:13.21,Leg,,0,0,0,,Geheimnis nutzen, um immer reicher zu
+Dialogue: 0,0:10:13.23,0:10:16.06,Leg,,0,0,0,,werden, während die Armen immer ärmer und
+Dialogue: 0,0:10:16.08,0:10:17.51,Leg,,0,0,0,,kränker werden
+Dialogue: 0,0:10:17.53,0:10:18.53,Leg,,0,0,0,,Darum
+Dialogue: 0,0:10:18.66,0:10:21.11,Leg,,0,0,0,,Wer bis zum Ende dieser Messe bleibt
+Dialogue: 0,0:10:21.13,0:10:23.86,Leg,,0,0,0,,wird einen unerschöpflichen Vorrat an Segen
+Dialogue: 0,0:10:23.88,0:10:26.29,Leg,,0,0,0,,Wundern und Heilung empfangen
+Dialogue: 0,0:10:26.31,0:10:28.74,Leg,,0,0,0,,Ich gestehe, Sie werden sogar ein wenig
+Dialogue: 0,0:10:28.76,0:10:30.81,Leg,,0,0,0,,empört sein, wenn Sie die ganze Wahrheit
+Dialogue: 0,0:10:30.83,0:10:33.45,Leg,,0,0,0,,hinter diesem Sieben-Minuten-Gebet erfahren
+Dialogue: 0,0:10:33.47,0:10:35.78,Leg,,0,0,0,,Denn es ist so einfach und kraftvoll
+Dialogue: 0,0:10:35.80,0:10:37.22,Leg,,0,0,0,,dass es bei jedem wirkt
+Dialogue: 0,0:10:37.24,0:10:39.74,Leg,,0,0,0,,auch bei Ihnen, egal wie alt Sie sind
+Dialogue: 0,0:10:39.76,0:10:41.47,Leg,,0,0,0,,ob Mann oder Frau
+Dialogue: 0,0:10:41.49,0:10:43.62,Leg,,0,0,0,,Gott macht keinen Unterschied
+Dialogue: 0,0:10:43.64,0:10:45.60,Leg,,0,0,0,,Und es spielt auch keine Rolle
+Dialogue: 0,0:10:45.62,0:10:47.99,Leg,,0,0,0,,welcher Religion Sie angehören
+Dialogue: 0,0:10:48.66,0:10:51.37,Leg,,0,0,0,,Alles begann am 24
+Dialogue: 0,0:10:51.39,0:10:54.72,Leg,,0,0,0,,November 2024
+Dialogue: 0,0:10:55.12,0:10:58.63,Leg,,0,0,0,,Es war ein kalter, trüber Sonntag
+Dialogue: 0,0:10:58.65,0:11:00.62,Leg,,0,0,0,,Ich weiß es noch wie gestern
+Dialogue: 0,0:11:00.64,0:11:02.80,Leg,,0,0,0,,Nach der Messe hatte ich zwölf verpasste
+Dialogue: 0,0:11:02.82,0:11:06.15,Leg,,0,0,0,,Anrufe von meinem älteren Bruder Gabriel
+Dialogue: 0,0:11:06.21,0:11:07.97,Leg,,0,0,0,,Ich rief sofort zurück
+Dialogue: 0,0:11:07.99,0:11:09.82,Leg,,0,0,0,,Bei unserer geliebten Mutter war ein
+Dialogue: 0,0:11:09.84,0:11:11.92,Leg,,0,0,0,,Aneurysma im Gehirn geplatzt
+Dialogue: 0,0:11:11.94,0:11:13.94,Leg,,0,0,0,,man hatte sie ins nächste Krankenhaus
+Dialogue: 0,0:11:13.96,0:11:14.98,Leg,,0,0,0,,gebracht
+Dialogue: 0,0:11:15.00,0:11:16.96,Leg,,0,0,0,,Gott sei Dank überlebte sie
+Dialogue: 0,0:11:17.26,0:11:19.47,Leg,,0,0,0,,Doch man fand eine seltene Erkrankung im
+Dialogue: 0,0:11:19.49,0:11:22.86,Leg,,0,0,0,,Gehirn – laut den Ärzten unheilbar und in
+Dialogue: 0,0:11:22.88,0:11:26.19,Leg,,0,0,0,,spätestens drei Monaten tödlich
+Dialogue: 0,0:11:26.21,0:11:29.09,Leg,,0,0,0,,Es war der größte Schmerz meines Lebens
+Dialogue: 0,0:11:29.29,0:11:31.62,Leg,,0,0,0,,Ich sah die Verzweiflung in den Augen meines
+Dialogue: 0,0:11:31.64,0:11:32.51,Leg,,0,0,0,,Bruders
+Dialogue: 0,0:11:32.64,0:11:34.86,Leg,,0,0,0,,und die Ungewissheit über die Zukunft
+Dialogue: 0,0:11:34.88,0:11:36.55,Leg,,0,0,0,,unserer Mutter
+Dialogue: 0,0:11:36.57,0:11:38.19,Leg,,0,0,0,,Sofort suchten wir nach anderen
+Dialogue: 0,0:11:38.21,0:11:40.67,Leg,,0,0,0,,Möglichkeiten und stießen auf die Cleveland
+Dialogue: 0,0:11:40.69,0:11:43.00,Leg,,0,0,0,,Clinic – eine Spezialklinik mit einer
+Dialogue: 0,0:11:43.02,0:11:45.23,Leg,,0,0,0,,Behandlung, die sich noch in der Erprobung
+Dialogue: 0,0:11:45.25,0:11:48.62,Leg,,0,0,0,,befand und schon für den Beginn rund 90.000
+Dialogue: 0,0:11:48.64,0:11:50.03,Leg,,0,0,0,,Euro kostete
+Dialogue: 0,0:11:50.05,0:11:51.93,Leg,,0,0,0,,Das lag völlig außerhalb unserer
+Dialogue: 0,0:11:51.95,0:11:53.13,Leg,,0,0,0,,Möglichkeiten
+Dialogue: 0,0:11:53.15,0:11:54.84,Leg,,0,0,0,,Mein Bruder war arbeitslos
+Dialogue: 0,0:11:54.86,0:11:56.96,Leg,,0,0,0,,hielt sich mit Fahrerjobs über Wasser
+Dialogue: 0,0:11:56.98,0:11:59.51,Leg,,0,0,0,,und seine Schulden wuchsen immer weiter
+Dialogue: 0,0:11:59.53,0:12:01.37,Leg,,0,0,0,,Und ich als Priester hatte keine
+Dialogue: 0,0:12:01.39,0:12:03.87,Leg,,0,0,0,,Möglichkeit, die Behandlung zu bezahlen
+Dialogue: 0,0:12:03.89,0:12:05.05,Leg,,0,0,0,,Ich weiß noch
+Dialogue: 0,0:12:05.07,0:12:07.92,Leg,,0,0,0,,Mein Kontostand in der Banking-App lag bei
+Dialogue: 0,0:12:07.94,0:12:11.24,Leg,,0,0,0,,49 Euro und 37 Cent
+Dialogue: 0,0:12:11.26,0:12:13.40,Leg,,0,0,0,,Meine Lieben, ich war völlig verloren
+Dialogue: 0,0:12:13.42,0:12:14.26,Leg,,0,0,0,,ganz unten
+Dialogue: 0,0:12:14.28,0:12:15.69,Leg,,0,0,0,,Ich konnte nicht schlafen
+Dialogue: 0,0:12:15.71,0:12:16.88,Leg,,0,0,0,,mein Glaube wankte
+Dialogue: 0,0:12:16.90,0:12:19.33,Leg,,0,0,0,,Ich war ratlos, und die Tage meiner Mutter
+Dialogue: 0,0:12:19.35,0:12:20.61,Leg,,0,0,0,,waren gezählt
+Dialogue: 0,0:12:20.63,0:12:23.18,Leg,,0,0,0,,Am nächsten Morgen, als ich es am wenigsten
+Dialogue: 0,0:12:23.20,0:12:25.38,Leg,,0,0,0,,erwartete, erhielt ich eine Nachricht
+Dialogue: 0,0:12:25.40,0:12:27.20,Leg,,0,0,0,,die mich verstummen ließ
+Dialogue: 0,0:12:27.26,0:12:30.00,Leg,,0,0,0,,Unsere Pfarrei war vom Bischof ausgewählt
+Dialogue: 0,0:12:30.02,0:12:32.62,Leg,,0,0,0,,worden, an einer Pilgerreise nach Italien
+Dialogue: 0,0:12:32.64,0:12:35.23,Leg,,0,0,0,,teilzunehmen – zum Kloster des heiligen
+Dialogue: 0,0:12:35.25,0:12:36.30,Leg,,0,0,0,,Benedikt
+Dialogue: 0,0:12:36.32,0:12:37.65,Leg,,0,0,0,,Es schien nicht vernünftig
+Dialogue: 0,0:12:37.67,0:12:39.54,Leg,,0,0,0,,doch Gott berührte mein Herz
+Dialogue: 0,0:12:39.56,0:12:41.04,Leg,,0,0,0,,Ich sollte fahren
+Dialogue: 0,0:12:41.06,0:12:43.78,Leg,,0,0,0,,Es war die letzte Hoffnung
+Dialogue: 0,0:12:43.80,0:12:46.07,Leg,,0,0,0,,Als ich im Kloster in Italien ankam
+Dialogue: 0,0:12:46.09,0:12:48.80,Leg,,0,0,0,,empfing mich Seine Exzellenz Bischof Felipe
+Dialogue: 0,0:12:48.82,0:12:49.78,Leg,,0,0,0,,Santoro
+Dialogue: 0,0:12:49.80,0:12:52.56,Leg,,0,0,0,,Dieser Diener Gottes kleidete sich demütig
+Dialogue: 0,0:12:52.58,0:12:53.67,Leg,,0,0,0,,und schlicht
+Dialogue: 0,0:12:53.69,0:12:55.83,Leg,,0,0,0,,Doch seine Augen schienen direkt in meine
+Dialogue: 0,0:12:55.85,0:12:57.10,Leg,,0,0,0,,Seele zu blicken
+Dialogue: 0,0:12:57.12,0:12:59.08,Leg,,0,0,0,,Vor dem Heiligtum sagte er etwas
+Dialogue: 0,0:12:59.10,0:13:00.56,Leg,,0,0,0,,das mich tief traf
+Dialogue: 0,0:13:00.58,0:13:03.41,Leg,,0,0,0,,Mein Sohn, lass mich dich segnen
+Dialogue: 0,0:13:03.43,0:13:06.05,Leg,,0,0,0,,Ich spüre, dass dein Herz von Angst bedrückt
+Dialogue: 0,0:13:06.07,0:13:06.59,Leg,,0,0,0,,ist
+Dialogue: 0,0:13:06.61,0:13:09.01,Leg,,0,0,0,,Komm, übergib deine Sorgen dem heiligen
+Dialogue: 0,0:13:09.03,0:13:11.14,Leg,,0,0,0,,Benedikt und vertraue auf die göttliche
+Dialogue: 0,0:13:11.16,0:13:12.46,Leg,,0,0,0,,Vorsehung
+Dialogue: 0,0:13:12.48,0:13:14.69,Leg,,0,0,0,,Er bat mich, die Augen zu schließen und mich
+Dialogue: 0,0:13:14.71,0:13:15.51,Leg,,0,0,0,,zu entspannen
+Dialogue: 0,0:13:15.53,0:13:17.83,Leg,,0,0,0,,Was dann geschah, bewegte mich zutiefst
+Dialogue: 0,0:13:17.85,0:13:20.31,Leg,,0,0,0,,Bischof Felipe bat den heiligen Benedikt um
+Dialogue: 0,0:13:20.33,0:13:22.29,Leg,,0,0,0,,Erlaubnis und begann ein Gebet
+Dialogue: 0,0:13:22.31,0:13:24.30,Leg,,0,0,0,,das ich noch nie in meinem Leben gehört
+Dialogue: 0,0:13:24.32,0:13:25.13,Leg,,0,0,0,,hatte
+Dialogue: 0,0:13:25.22,0:13:27.18,Leg,,0,0,0,,Es war altes Italienisch
+Dialogue: 0,0:13:27.20,0:13:29.49,Leg,,0,0,0,,ich verstand es nicht, aber die Worte
+Dialogue: 0,0:13:29.51,0:13:31.95,Leg,,0,0,0,,schwangen in einer anderen Frequenz
+Dialogue: 0,0:13:32.08,0:13:34.42,Leg,,0,0,0,,Mein Geist wurde in ein wunderschönes grünes
+Dialogue: 0,0:13:34.44,0:13:35.74,Leg,,0,0,0,,Tal getragen
+Dialogue: 0,0:13:35.76,0:13:38.00,Leg,,0,0,0,,Die Vögel sangen, die Blumen blühten
+Dialogue: 0,0:13:38.02,0:13:39.27,Leg,,0,0,0,,und die Sonne schien
+Dialogue: 0,0:13:39.29,0:13:41.08,Leg,,0,0,0,,Ich konnte das Gras riechen
+Dialogue: 0,0:13:41.10,0:13:43.21,Leg,,0,0,0,,All meine Sorgen verdampften wie Wasser auf
+Dialogue: 0,0:13:43.23,0:13:44.55,Leg,,0,0,0,,einem heißen Stein
+Dialogue: 0,0:13:44.57,0:13:47.03,Leg,,0,0,0,,Die Last der Welt fiel von meinen Schultern
+Dialogue: 0,0:13:47.05,0:13:48.57,Leg,,0,0,0,,Als ich die Augen öffnete
+Dialogue: 0,0:13:48.59,0:13:50.90,Leg,,0,0,0,,sagte Bischof Felipe nichts
+Dialogue: 0,0:13:50.92,0:13:52.39,Leg,,0,0,0,,Er lächelte nur
+Dialogue: 0,0:13:52.41,0:13:54.50,Leg,,0,0,0,,Am nächsten Morgen eilte ich zurück ins
+Dialogue: 0,0:13:54.52,0:13:55.50,Leg,,0,0,0,,Kloster
+Dialogue: 0,0:13:55.52,0:13:57.37,Leg,,0,0,0,,Ich erzählte ihm alles
+Dialogue: 0,0:13:57.39,0:13:59.27,Leg,,0,0,0,,von der Krankheit meiner Mutter
+Dialogue: 0,0:13:59.29,0:14:01.62,Leg,,0,0,0,,vom fehlenden Geld und von den Problemen
+Dialogue: 0,0:14:01.64,0:14:03.76,Leg,,0,0,0,,die mein Leben überfluteten
+Dialogue: 0,0:14:03.78,0:14:06.18,Leg,,0,0,0,,Er hörte zu und sagte nach einem Moment der
+Dialogue: 0,0:14:06.20,0:14:06.89,Leg,,0,0,0,,Stille
+Dialogue: 0,0:14:06.91,0:14:09.14,Leg,,0,0,0,,Du hast in deinem Leben viele Opfer
+Dialogue: 0,0:14:09.16,0:14:10.12,Leg,,0,0,0,,gebracht
+Dialogue: 0,0:14:10.13,0:14:12.18,Leg,,0,0,0,,Dann schloss er die Tür des Zimmers
+Dialogue: 0,0:14:12.20,0:14:14.26,Leg,,0,0,0,,schloss die Fenster und sagte
+Dialogue: 0,0:14:14.28,0:14:16.91,Leg,,0,0,0,,Hier im Kloster des heiligen Benedikt ist
+Dialogue: 0,0:14:16.93,0:14:19.11,Leg,,0,0,0,,etwas geschehen, das die Lösung für deine
+Dialogue: 0,0:14:19.13,0:14:21.20,Leg,,0,0,0,,Probleme sein könnte
+Dialogue: 0,0:14:21.22,0:14:23.83,Leg,,0,0,0,,Er erzählte mir von Benedikt von Nursia
+Dialogue: 0,0:14:23.85,0:14:25.47,Leg,,0,0,0,,Die Menschen kamen zu ihm
+Dialogue: 0,0:14:25.49,0:14:27.69,Leg,,0,0,0,,um von schweren Krankheiten geheilt
+Dialogue: 0,0:14:27.71,0:14:30.56,Leg,,0,0,0,,vom Bösen befreit und in Geldnot unterstützt
+Dialogue: 0,0:14:30.58,0:14:31.70,Leg,,0,0,0,,zu werden
+Dialogue: 0,0:14:31.72,0:14:34.51,Leg,,0,0,0,,Der heilige Benedikt führte alles auf seine
+Dialogue: 0,0:14:34.53,0:14:37.19,Leg,,0,0,0,,Gespräche mit seinem Schutzengel zurück
+Dialogue: 0,0:14:37.49,0:14:40.35,Leg,,0,0,0,,Er verband sich auf einzigartige Weise
+Dialogue: 0,0:14:40.37,0:14:44.28,Leg,,0,0,0,,bat um Wunder – und die Wunder geschahen
+Dialogue: 0,0:14:44.30,0:14:46.12,Leg,,0,0,0,,Vor drei Monaten haben wir in der
+Dialogue: 0,0:14:46.13,0:14:48.47,Leg,,0,0,0,,verschlossenen Kammer des heiligen Benedikt
+Dialogue: 0,0:14:48.49,0:14:50.49,Leg,,0,0,0,,eine seiner Handschriften entdeckt
+Dialogue: 0,0:14:50.51,0:14:52.98,Leg,,0,0,0,,Sie beschreibt die Worte und Klangfrequenzen
+Dialogue: 0,0:14:53.00,0:14:55.38,Leg,,0,0,0,,eines heiligen Gebets, das die Gegenwart
+Dialogue: 0,0:14:55.40,0:14:57.83,Leg,,0,0,0,,seines Schutzengels herbeirufen kann
+Dialogue: 0,0:14:57.85,0:15:00.06,Leg,,0,0,0,,Und im selben Augenblick konnte der Engel
+Dialogue: 0,0:15:00.08,0:15:02.54,Leg,,0,0,0,,deine Nöte verstehen und mit seinem Schwert
+Dialogue: 0,0:15:02.56,0:15:04.12,Leg,,0,0,0,,alles Böse durchtrennen
+Dialogue: 0,0:15:04.14,0:15:06.98,Leg,,0,0,0,,jeden Fluch und alle Fesseln der Probleme
+Dialogue: 0,0:15:07.00,0:15:08.90,Leg,,0,0,0,,So schöpfte der heilige Benedikt seine
+Dialogue: 0,0:15:08.92,0:15:09.42,Leg,,0,0,0,,Kraft
+Dialogue: 0,0:15:09.44,0:15:10.61,Leg,,0,0,0,,Der Bischof erzählte mir
+Dialogue: 0,0:15:10.63,0:15:12.90,Leg,,0,0,0,,dass sie es anfangs für Einbildung hielten
+Dialogue: 0,0:15:12.92,0:15:15.36,Leg,,0,0,0,,sich aber entschieden, es zu versuchen
+Dialogue: 0,0:15:15.38,0:15:17.88,Leg,,0,0,0,,Ganz in der Nähe gibt es ein Waisenhaus mit
+Dialogue: 0,0:15:17.90,0:15:19.66,Leg,,0,0,0,,finanziellen Schwierigkeiten
+Dialogue: 0,0:15:19.68,0:15:21.90,Leg,,0,0,0,,Wir gaben der Leiterin das Gebet und die
+Dialogue: 0,0:15:21.92,0:15:24.18,Leg,,0,0,0,,Anleitung, wie man es betet
+Dialogue: 0,0:15:24.20,0:15:26.09,Leg,,0,0,0,,Drei Tage später geschah etwas
+Dialogue: 0,0:15:26.11,0:15:27.40,Leg,,0,0,0,,Außergewöhnliches
+Dialogue: 0,0:15:27.42,0:15:32.14,Leg,,0,0,0,,Es kam eine anonyme Spende über 35.000 Euro
+Dialogue: 0,0:15:32.16,0:15:33.92,Leg,,0,0,0,,In diesem Moment begriff ich
+Dialogue: 0,0:15:33.94,0:15:36.12,Leg,,0,0,0,,dass Gott mir ein Zeichen sandte
+Dialogue: 0,0:15:36.14,0:15:38.44,Leg,,0,0,0,,Wenn dieses Gebet die Lage eines ganzen
+Dialogue: 0,0:15:38.46,0:15:41.05,Leg,,0,0,0,,Waisenhauses in nur drei Tagen verändern
+Dialogue: 0,0:15:41.07,0:15:43.29,Leg,,0,0,0,,konnte, dann durfte ich den Glauben nicht
+Dialogue: 0,0:15:43.31,0:15:44.20,Leg,,0,0,0,,verlieren
+Dialogue: 0,0:15:44.22,0:15:46.92,Leg,,0,0,0,,Meine Lieben, da füllte sich mein Herz mit
+Dialogue: 0,0:15:46.94,0:15:48.45,Leg,,0,0,0,,Glauben und Hoffnung
+Dialogue: 0,0:15:48.58,0:15:50.42,Leg,,0,0,0,,Unsere Engel können in unser Leben
+Dialogue: 0,0:15:50.44,0:15:52.83,Leg,,0,0,0,,eingreifen – doch wir haben die Verbindung
+Dialogue: 0,0:15:52.85,0:15:54.97,Leg,,0,0,0,,zu ihnen verloren
+Dialogue: 0,0:15:55.29,0:15:57.89,Leg,,0,0,0,,Der Bischof forschte unermüdlich im Vatikan
+Dialogue: 0,0:15:57.91,0:16:00.04,Leg,,0,0,0,,und entdeckte, dass unsere Engel sich über
+Dialogue: 0,0:16:00.06,0:16:02.00,Leg,,0,0,0,,die Zirbeldrüse mit uns verbinden
+Dialogue: 0,0:16:02.02,0:16:04.11,Leg,,0,0,0,,er nannte sie liebevoll die Antenne der
+Dialogue: 0,0:16:04.12,0:16:05.12,Leg,,0,0,0,,Wunder
+Dialogue: 0,0:16:05.14,0:16:06.76,Leg,,0,0,0,,Der Satan weiß das
+Dialogue: 0,0:16:06.78,0:16:08.24,Leg,,0,0,0,,Darum benutzt er Unruhe
+Dialogue: 0,0:16:08.26,0:16:10.24,Leg,,0,0,0,,Angst und Sorgen, um diese Antenne zu
+Dialogue: 0,0:16:10.26,0:16:11.41,Leg,,0,0,0,,blockieren
+Dialogue: 0,0:16:11.43,0:16:13.12,Leg,,0,0,0,,Der Bischof offenbarte mir
+Dialogue: 0,0:16:13.14,0:16:15.30,Leg,,0,0,0,,dass das Benediktusgebet genau die
+Dialogue: 0,0:16:15.32,0:16:17.61,Leg,,0,0,0,,Klangfrequenz ist, die die Blockade der
+Dialogue: 0,0:16:17.63,0:16:20.22,Leg,,0,0,0,,Zirbeldrüse löst – damit Sie sich mit Ihrem
+Dialogue: 0,0:16:20.24,0:16:22.43,Leg,,0,0,0,,Schutzengel verbinden und das Wunder
+Dialogue: 0,0:16:22.45,0:16:24.41,Leg,,0,0,0,,empfangen, das Sie brauchen
+Dialogue: 0,0:16:24.43,0:16:26.83,Leg,,0,0,0,,Sie ist wie eine kleine Radioantenne im
+Dialogue: 0,0:16:26.85,0:16:29.14,Leg,,0,0,0,,Kopf, kleiner als ein Reiskorn
+Dialogue: 0,0:16:29.16,0:16:31.25,Leg,,0,0,0,,Deshalb nannte er sie die Antenne der
+Dialogue: 0,0:16:31.27,0:16:32.26,Leg,,0,0,0,,Wunder
+Dialogue: 0,0:16:32.37,0:16:35.54,Leg,,0,0,0,,Doch bei 99 Prozent der Menschen ist diese
+Dialogue: 0,0:16:35.56,0:16:37.21,Leg,,0,0,0,,Antenne abgeschaltet
+Dialogue: 0,0:16:37.23,0:16:39.33,Leg,,0,0,0,,Und es gibt einen ganz einfachen Weg
+Dialogue: 0,0:16:39.35,0:16:42.14,Leg,,0,0,0,,herauszufinden, ob Ihre Antenne der Wunder
+Dialogue: 0,0:16:42.16,0:16:44.15,Leg,,0,0,0,,aktiv ist oder nicht
+Dialogue: 0,0:16:44.26,0:16:46.41,Leg,,0,0,0,,Beantworten Sie nur diese drei Fragen
+Dialogue: 0,0:16:46.43,0:16:48.52,Leg,,0,0,0,,Konnten Sie in den letzten Monaten jemals
+Dialogue: 0,0:16:48.54,0:16:50.58,Leg,,0,0,0,,direkt mit Gott oder mit Ihrem Schutzengel
+Dialogue: 0,0:16:50.60,0:16:51.30,Leg,,0,0,0,,sprechen?
+Dialogue: 0,0:16:51.32,0:16:53.52,Leg,,0,0,0,,Wurden in dieser Zeit all Ihre Gebete
+Dialogue: 0,0:16:53.54,0:16:54.30,Leg,,0,0,0,,erhört?
+Dialogue: 0,0:16:54.32,0:16:56.53,Leg,,0,0,0,,Haben Sie unerwarteten Segen und Wunder
+Dialogue: 0,0:16:56.55,0:16:57.60,Leg,,0,0,0,,empfangen?
+Dialogue: 0,0:16:57.62,0:16:59.88,Leg,,0,0,0,,Wer auch nur eine dieser Fragen mit Nein
+Dialogue: 0,0:16:59.89,0:17:02.59,Leg,,0,0,0,,beantwortet hat, dessen Antenne der Wunder
+Dialogue: 0,0:17:02.61,0:17:04.15,Leg,,0,0,0,,ist abgeschaltet
+Dialogue: 0,0:17:04.17,0:17:07.38,Leg,,0,0,0,,Aber keine Sorge – es ist nicht Ihre Schuld
+Dialogue: 0,0:17:07.40,0:17:09.59,Leg,,0,0,0,,Bei all den täglichen Ablenkungen
+Dialogue: 0,0:17:09.61,0:17:11.53,Leg,,0,0,0,,Sorgen und dem Lärm der Welt
+Dialogue: 0,0:17:11.55,0:17:14.67,Leg,,0,0,0,,Popmusik, Radio, Fernsehen und Handys
+Dialogue: 0,0:17:14.69,0:17:17.05,Leg,,0,0,0,,wird diese Antenne immer schwächer
+Dialogue: 0,0:17:17.07,0:17:20.03,Leg,,0,0,0,,Das entfernt uns von unserem Schutzengel und
+Dialogue: 0,0:17:20.05,0:17:22.49,Leg,,0,0,0,,verhindert, dass göttliche Wunder sichtbar
+Dialogue: 0,0:17:22.51,0:17:23.53,Leg,,0,0,0,,werden
+Dialogue: 0,0:17:23.55,0:17:25.56,Leg,,0,0,0,,Doch wenn Sie jetzt daran denken
+Dialogue: 0,0:17:25.58,0:17:28.58,Leg,,0,0,0,,alle elektronischen Geräte loszuwerden und
+Dialogue: 0,0:17:28.60,0:17:30.74,Leg,,0,0,0,,einsam auf einem Berg zu leben
+Dialogue: 0,0:17:30.76,0:17:33.39,Leg,,0,0,0,,dann irren Sie sich gewaltig
+Dialogue: 0,0:17:33.41,0:17:35.51,Leg,,0,0,0,,Bischof Felipe selbst sagte
+Dialogue: 0,0:17:35.53,0:17:37.92,Leg,,0,0,0,,er habe das fünf Monate lang versucht
+Dialogue: 0,0:17:37.94,0:17:40.20,Leg,,0,0,0,,um seine Antenne der Wunder zu reinigen und
+Dialogue: 0,0:17:40.22,0:17:42.34,Leg,,0,0,0,,wiederherzustellen – und sei kläglich
+Dialogue: 0,0:17:42.36,0:17:43.56,Leg,,0,0,0,,gescheitert
+Dialogue: 0,0:17:43.58,0:17:45.88,Leg,,0,0,0,,Und jetzt fragen Sie sich vielleicht
+Dialogue: 0,0:17:45.90,0:17:48.06,Leg,,0,0,0,,wie man diese Frequenz wiederfindet
+Dialogue: 0,0:17:48.08,0:17:50.75,Leg,,0,0,0,,Genau hier kommt das heilige Benediktusgebet
+Dialogue: 0,0:17:50.77,0:17:51.76,Leg,,0,0,0,,ins Spiel
+Dialogue: 0,0:17:51.78,0:17:54.62,Leg,,0,0,0,,Es besitzt eine vollkommene Kombination aus
+Dialogue: 0,0:17:54.64,0:17:56.76,Leg,,0,0,0,,Worten und Klangfrequenzen
+Dialogue: 0,0:17:56.78,0:17:58.71,Leg,,0,0,0,,die unsere Antenne der Wunder wieder
+Dialogue: 0,0:17:58.73,0:18:01.07,Leg,,0,0,0,,aktiviert und uns erneut mit unserem
+Dialogue: 0,0:18:01.09,0:18:02.85,Leg,,0,0,0,,Schutzengel verbindet
+Dialogue: 0,0:18:02.87,0:18:05.05,Leg,,0,0,0,,Tatsächlich waren Gebete schon immer
+Dialogue: 0,0:18:05.07,0:18:06.81,Leg,,0,0,0,,gegenwärtig – in Kirchen
+Dialogue: 0,0:18:06.83,0:18:09.10,Leg,,0,0,0,,in Klöstern und in den Gotteshäusern aller
+Dialogue: 0,0:18:09.12,0:18:10.35,Leg,,0,0,0,,Religionen
+Dialogue: 0,0:18:10.37,0:18:12.05,Leg,,0,0,0,,Und alle nutzen das Gebet
+Dialogue: 0,0:18:12.07,0:18:13.91,Leg,,0,0,0,,um eine Verbindung zum Göttlichen
+Dialogue: 0,0:18:13.93,0:18:16.91,Leg,,0,0,0,,herzustellen, denn so hören uns die Engel
+Dialogue: 0,0:18:17.32,0:18:20.85,Leg,,0,0,0,,Jesus sagte, es gebe keinen besseren Weg zu
+Dialogue: 0,0:18:20.87,0:18:23.08,Leg,,0,0,0,,Gott als das Gebet
+Dialogue: 0,0:18:23.10,0:18:25.41,Leg,,0,0,0,,Endlich verstand ich, warum unsere Gebete
+Dialogue: 0,0:18:25.43,0:18:26.89,Leg,,0,0,0,,nicht erhört wurden
+Dialogue: 0,0:18:27.02,0:18:28.61,Leg,,0,0,0,,Und das Schlimmste
+Dialogue: 0,0:18:28.91,0:18:30.99,Leg,,0,0,0,,Bei all den Ablenkungen
+Dialogue: 0,0:18:31.01,0:18:33.08,Leg,,0,0,0,,dem Druck und dem ständigen Lärm der
+Dialogue: 0,0:18:33.10,0:18:35.28,Leg,,0,0,0,,modernen Welt, die Ihren Geist und Ihre
+Dialogue: 0,0:18:35.30,0:18:37.48,Leg,,0,0,0,,Seele belasten, ist es egal
+Dialogue: 0,0:18:37.50,0:18:39.97,Leg,,0,0,0,,wie viel Sie arbeiten, lernen oder sich
+Dialogue: 0,0:18:39.99,0:18:41.23,Leg,,0,0,0,,anstrengen
+Dialogue: 0,0:18:41.25,0:18:42.86,Leg,,0,0,0,,Sie werden nie erreichen
+Dialogue: 0,0:18:42.88,0:18:44.91,Leg,,0,0,0,,was Gott für Sie geplant hat
+Dialogue: 0,0:18:44.93,0:18:47.05,Leg,,0,0,0,,Die Moderne hat uns das genommen
+Dialogue: 0,0:18:47.07,0:18:48.88,Leg,,0,0,0,,Aber wir sind kurz davor
+Dialogue: 0,0:18:48.90,0:18:50.89,Leg,,0,0,0,,diese Kraft zurückzugewinnen
+Dialogue: 0,0:18:50.91,0:18:53.00,Leg,,0,0,0,,Denn wenn Sie Zugang zu diesem heiligen
+Dialogue: 0,0:18:53.02,0:18:55.79,Leg,,0,0,0,,Gebet erhalten, wird Ihre Antenne der Wunder
+Dialogue: 0,0:18:55.81,0:18:57.59,Leg,,0,0,0,,in ihren ursprünglichen Zustand
+Dialogue: 0,0:18:57.61,0:18:59.73,Leg,,0,0,0,,zurückversetzt, die Verbindung zu Ihrem
+Dialogue: 0,0:18:59.75,0:19:01.62,Leg,,0,0,0,,Schutzengel wird hergestellt
+Dialogue: 0,0:19:01.64,0:19:03.44,Leg,,0,0,0,,und Sie können seine Gaben und seinen
+Dialogue: 0,0:19:03.46,0:19:05.13,Leg,,0,0,0,,göttlichen Segen empfangen
+Dialogue: 0,0:19:05.15,0:19:07.65,Leg,,0,0,0,,Mit Gottes Erlaubnis kann ich Ihnen sagen
+Dialogue: 0,0:19:07.67,0:19:10.01,Leg,,0,0,0,,Als Priester habe ich schon viel Göttliches
+Dialogue: 0,0:19:10.03,0:19:12.45,Leg,,0,0,0,,erlebt – aber nichts kommt den Geheimnissen
+Dialogue: 0,0:19:12.47,0:19:15.39,Leg,,0,0,0,,dieses heiligen Benediktusgebets gleich
+Dialogue: 0,0:19:15.41,0:19:16.98,Leg,,0,0,0,,Meine lieben Brüder und Schwestern
+Dialogue: 0,0:19:17.00,0:19:18.37,Leg,,0,0,0,,ich schwöre Ihnen
+Dialogue: 0,0:19:18.39,0:19:19.83,Leg,,0,0,0,,In diesem Moment dachte ich
+Dialogue: 0,0:19:19.85,0:19:22.55,Leg,,0,0,0,,das sei fast zu schön, um wahr zu sein
+Dialogue: 0,0:19:22.75,0:19:25.38,Leg,,0,0,0,,Aber ich hatte nichts zu verlieren
+Dialogue: 0,0:19:25.40,0:19:27.03,Leg,,0,0,0,,Also flehte ich ihn an
+Dialogue: 0,0:19:27.05,0:19:29.30,Leg,,0,0,0,,mir eine Fassung des Gebets zu geben
+Dialogue: 0,0:19:29.32,0:19:31.15,Leg,,0,0,0,,um meiner Familie zu helfen
+Dialogue: 0,0:19:31.17,0:19:33.44,Leg,,0,0,0,,Nach langem Überlegen war er von meiner Lage
+Dialogue: 0,0:19:33.46,0:19:35.34,Leg,,0,0,0,,gerührt und ließ mich versprechen
+Dialogue: 0,0:19:35.36,0:19:37.46,Leg,,0,0,0,,es niemandem außer meiner Mutter und meinem
+Dialogue: 0,0:19:37.48,0:19:39.19,Leg,,0,0,0,,Bruder zu offenbaren
+Dialogue: 0,0:19:39.21,0:19:40.96,Leg,,0,0,0,,Daraufhin schickte ich den beiden das
+Dialogue: 0,0:19:40.98,0:19:43.19,Leg,,0,0,0,,ursprüngliche Gebet des heiligen Benedikt
+Dialogue: 0,0:19:43.21,0:19:45.71,Leg,,0,0,0,,mit der Anleitung – und war voller Glauben
+Dialogue: 0,0:19:45.73,0:19:46.83,Leg,,0,0,0,,und Hoffnung
+Dialogue: 0,0:19:46.85,0:19:48.60,Leg,,0,0,0,,Am nächsten Morgen wachte ich auf und
+Dialogue: 0,0:19:48.62,0:19:50.58,Leg,,0,0,0,,erwartete gute Nachrichten von meiner
+Dialogue: 0,0:19:50.60,0:19:51.43,Leg,,0,0,0,,Familie
+Dialogue: 0,0:19:51.45,0:19:53.14,Leg,,0,0,0,,Doch so kam es nicht
+Dialogue: 0,0:19:53.17,0:19:55.15,Leg,,0,0,0,,Die Symptome meiner Mutter verschlimmerten
+Dialogue: 0,0:19:55.17,0:19:57.58,Leg,,0,0,0,,sich, und sie kam notfallmäßig auf die
+Dialogue: 0,0:19:57.60,0:19:59.18,Leg,,0,0,0,,Intensivstation
+Dialogue: 0,0:19:59.20,0:20:01.64,Leg,,0,0,0,,Mein Bruder war weiterhin arbeitslos
+Dialogue: 0,0:20:01.66,0:20:04.12,Leg,,0,0,0,,mit sieben Monatsmieten im Rückstand und
+Dialogue: 0,0:20:04.14,0:20:06.18,Leg,,0,0,0,,jederzeit von der Räumung bedroht
+Dialogue: 0,0:20:06.20,0:20:08.30,Leg,,0,0,0,,Und seine Frau hatte die gemeinsame Tochter
+Dialogue: 0,0:20:08.32,0:20:10.38,Leg,,0,0,0,,genommen und war ausgezogen
+Dialogue: 0,0:20:10.40,0:20:12.04,Leg,,0,0,0,,Sofort fragte ich mich
+Dialogue: 0,0:20:12.06,0:20:14.06,Leg,,0,0,0,,Mein Gott, und jetzt?
+Dialogue: 0,0:20:14.08,0:20:15.85,Leg,,0,0,0,,War dieses Gebet nur eine große
+Dialogue: 0,0:20:15.87,0:20:17.26,Leg,,0,0,0,,Zeitverschwendung?
+Dialogue: 0,0:20:17.28,0:20:18.81,Leg,,0,0,0,,Ich kann es nicht erklären
+Dialogue: 0,0:20:18.83,0:20:20.68,Leg,,0,0,0,,aber ich hielt eine kleine Flamme der
+Dialogue: 0,0:20:20.70,0:20:22.89,Leg,,0,0,0,,Hoffnung am Brennen und bat Gabriel
+Dialogue: 0,0:20:22.91,0:20:25.37,Leg,,0,0,0,,das Sieben-Minuten-Gebet weiter im Glauben
+Dialogue: 0,0:20:25.39,0:20:26.16,Leg,,0,0,0,,zu hören
+Dialogue: 0,0:20:26.18,0:20:28.10,Leg,,0,0,0,,zusammen mit unserer Mutter
+Dialogue: 0,0:20:28.12,0:20:29.73,Leg,,0,0,0,,Und drei Tage später schien es
+Dialogue: 0,0:20:29.75,0:20:31.77,Leg,,0,0,0,,als hätten wir endlich die Verbindung zu
+Dialogue: 0,0:20:31.79,0:20:33.70,Leg,,0,0,0,,unserem Schutzengel gefunden
+Dialogue: 0,0:20:33.72,0:20:35.74,Leg,,0,0,0,,Wie durch ein Wunder ging es meiner Mutter
+Dialogue: 0,0:20:35.76,0:20:38.50,Leg,,0,0,0,,deutlich besser, und sie durfte nach Hause
+Dialogue: 0,0:20:38.52,0:20:40.13,Leg,,0,0,0,,Die Ärzte warnten jedoch
+Dialogue: 0,0:20:40.15,0:20:42.23,Leg,,0,0,0,,ihr blieben weniger als zwei Monate zu
+Dialogue: 0,0:20:42.25,0:20:43.15,Leg,,0,0,0,,leben
+Dialogue: 0,0:20:43.17,0:20:45.57,Leg,,0,0,0,,Am selben Tag bekam Gabriel einen
+Dialogue: 0,0:20:45.59,0:20:48.64,Leg,,0,0,0,,unerwarteten Anruf von einem Jugendfreund
+Dialogue: 0,0:20:48.66,0:20:51.15,Leg,,0,0,0,,Der eröffnete gerade eine Niederlassung
+Dialogue: 0,0:20:51.17,0:20:53.77,Leg,,0,0,0,,seiner Importfirma in Madrid und bat ihn
+Dialogue: 0,0:20:53.79,0:20:56.25,Leg,,0,0,0,,sie zu leiten – weil er ihm voll und ganz
+Dialogue: 0,0:20:56.27,0:20:57.58,Leg,,0,0,0,,vertraute
+Dialogue: 0,0:20:57.60,0:20:58.68,Leg,,0,0,0,,Das Gehalt
+Dialogue: 0,0:20:58.70,0:21:03.23,Leg,,0,0,0,,29.700 Euro im Jahr, plus Provisionen
+Dialogue: 0,0:21:03.25,0:21:06.14,Leg,,0,0,0,,Mein Gott – war das alles nur Zufall oder
+Dialogue: 0,0:21:06.16,0:21:09.14,Leg,,0,0,0,,die Frucht des heiligen Benediktusgebets?
+Dialogue: 0,0:21:09.16,0:21:11.11,Leg,,0,0,0,,Wir hörten es weiter jeden Morgen im
+Dialogue: 0,0:21:11.13,0:21:13.60,Leg,,0,0,0,,Glauben, genau sieben Minuten lang
+Dialogue: 0,0:21:13.62,0:21:15.53,Leg,,0,0,0,,und Sie werden es nicht glauben
+Dialogue: 0,0:21:15.65,0:21:17.86,Leg,,0,0,0,,In der Woche darauf bekam meine Mutter ein
+Dialogue: 0,0:21:17.88,0:21:20.89,Leg,,0,0,0,,neues MRT des Gehirns, und die Befunde
+Dialogue: 0,0:21:20.91,0:21:23.46,Leg,,0,0,0,,zeigten eine unerwartete Rückbildung
+Dialogue: 0,0:21:23.48,0:21:24.93,Leg,,0,0,0,,Obwohl ich Priester bin
+Dialogue: 0,0:21:24.95,0:21:26.85,Leg,,0,0,0,,war ich von dieser Nachricht zutiefst
+Dialogue: 0,0:21:26.87,0:21:27.64,Leg,,0,0,0,,bewegt
+Dialogue: 0,0:21:27.66,0:21:29.97,Leg,,0,0,0,,Ich weinte stundenlang vor Rührung und
+Dialogue: 0,0:21:29.99,0:21:32.62,Leg,,0,0,0,,dankte Gott, dem heiligen Benedikt und
+Dialogue: 0,0:21:32.64,0:21:33.93,Leg,,0,0,0,,unserem Schutzengel
+Dialogue: 0,0:21:33.95,0:21:36.32,Leg,,0,0,0,,Und dann kam das Beste von allem
+Dialogue: 0,0:21:36.34,0:21:38.52,Leg,,0,0,0,,Voller Begeisterung besuchte ich Bischof
+Dialogue: 0,0:21:38.54,0:21:40.71,Leg,,0,0,0,,Felipe, um ihm zu danken
+Dialogue: 0,0:21:40.73,0:21:42.71,Leg,,0,0,0,,Doch ich konnte mich nicht zurückhalten und
+Dialogue: 0,0:21:42.73,0:21:45.39,Leg,,0,0,0,,flehte ihn an, eine Abschrift des Gebets in
+Dialogue: 0,0:21:45.41,0:21:47.93,Leg,,0,0,0,,meine Pfarrei mitnehmen zu dürfen
+Dialogue: 0,0:21:47.96,0:21:50.33,Leg,,0,0,0,,Aber er machte meine Hoffnungen zunichte
+Dialogue: 0,0:21:50.35,0:21:52.20,Leg,,0,0,0,,Dieses Gebet sei nicht öffentlich
+Dialogue: 0,0:21:52.22,0:21:54.67,Leg,,0,0,0,,zugänglich, der Zugang streng beschränkt
+Dialogue: 0,0:21:54.69,0:21:56.81,Leg,,0,0,0,,es dürfe nur mit besonderer Erlaubnis
+Dialogue: 0,0:21:56.83,0:21:59.24,Leg,,0,0,0,,weitergegeben werden – und allein der Hüter
+Dialogue: 0,0:21:59.26,0:22:01.49,Leg,,0,0,0,,der alten Archive des Vatikans dürfe
+Dialogue: 0,0:22:01.51,0:22:03.80,Leg,,0,0,0,,entscheiden, wer es erhält
+Dialogue: 0,0:22:03.82,0:22:05.76,Leg,,0,0,0,,Da tat ich etwas Verrücktes
+Dialogue: 0,0:22:05.78,0:22:08.37,Leg,,0,0,0,,Ich tat es für Sie, die Sie jetzt mit mir in
+Dialogue: 0,0:22:08.39,0:22:10.86,Leg,,0,0,0,,dieser Messe sind – aus einem sehr wichtigen
+Dialogue: 0,0:22:10.88,0:22:11.44,Leg,,0,0,0,,Grund
+Dialogue: 0,0:22:11.46,0:22:13.30,Leg,,0,0,0,,Unsere Gesellschaft schlittert in
+Dialogue: 0,0:22:13.32,0:22:15.26,Leg,,0,0,0,,Katastrophen, die das Leben von
+Dialogue: 0,0:22:15.28,0:22:17.42,Leg,,0,0,0,,Hunderttausenden zerstören
+Dialogue: 0,0:22:17.44,0:22:19.82,Leg,,0,0,0,,Ich spreche nicht von Naturkatastrophen
+Dialogue: 0,0:22:19.84,0:22:21.58,Leg,,0,0,0,,von Stürmen oder Erdbeben
+Dialogue: 0,0:22:21.60,0:22:24.09,Leg,,0,0,0,,Was mich bedrückt und mich traurig macht
+Dialogue: 0,0:22:24.11,0:22:26.27,Leg,,0,0,0,,und was auch Sie beunruhigen sollte
+Dialogue: 0,0:22:26.29,0:22:28.01,Leg,,0,0,0,,sind die körperlichen und seelischen
+Dialogue: 0,0:22:28.03,0:22:29.38,Leg,,0,0,0,,Katastrophen
+Dialogue: 0,0:22:29.39,0:22:32.01,Leg,,0,0,0,,Die soziale und wirtschaftliche Lage ist aus
+Dialogue: 0,0:22:32.03,0:22:34.40,Leg,,0,0,0,,den Fugen geraten, und alles scheint unser
+Dialogue: 0,0:22:34.42,0:22:36.83,Leg,,0,0,0,,Leben zu bedrohen wie nie zuvor
+Dialogue: 0,0:22:36.85,0:22:38.99,Leg,,0,0,0,,Geld, das für die Rechnungen fehlt
+Dialogue: 0,0:22:39.01,0:22:41.36,Leg,,0,0,0,,Depressionen, unheilbare Krankheiten
+Dialogue: 0,0:22:41.38,0:22:43.37,Leg,,0,0,0,,zerbrochene Ehen, Eltern und Kinder im
+Dialogue: 0,0:22:43.39,0:22:45.38,Leg,,0,0,0,,Streit, Diebstahl und Tod
+Dialogue: 0,0:22:45.40,0:22:47.37,Leg,,0,0,0,,Als ich all das sah, wollte ich unbedingt
+Dialogue: 0,0:22:47.39,0:22:49.82,Leg,,0,0,0,,einige Originalfassungen dieses Gebets in
+Dialogue: 0,0:22:49.84,0:22:51.13,Leg,,0,0,0,,meine Pfarrei bringen
+Dialogue: 0,0:22:51.15,0:22:52.46,Leg,,0,0,0,,Und am 23
+Dialogue: 0,0:22:52.48,0:22:56.24,Leg,,0,0,0,,März 2025 bekam ich ein geheimes Treffen mit
+Dialogue: 0,0:22:56.26,0:22:58.52,Leg,,0,0,0,,dem Bischof, der in Rom über die alten
+Dialogue: 0,0:22:58.54,0:23:00.39,Leg,,0,0,0,,Archive des Vatikans wacht
+Dialogue: 0,0:23:00.41,0:23:02.01,Leg,,0,0,0,,damals schon schwer krank
+Dialogue: 0,0:23:02.03,0:23:04.48,Leg,,0,0,0,,und heute in Frieden beim himmlischen Vater
+Dialogue: 0,0:23:04.50,0:23:05.24,Leg,,0,0,0,,ruht
+Dialogue: 0,0:23:05.26,0:23:07.66,Leg,,0,0,0,,Während des Treffens siegte mein Glaube
+Dialogue: 0,0:23:07.68,0:23:09.11,Leg,,0,0,0,,denn was Gott geschrieben hat
+Dialogue: 0,0:23:09.13,0:23:10.89,Leg,,0,0,0,,kann niemand ändern
+Dialogue: 0,0:23:10.91,0:23:12.34,Leg,,0,0,0,,Darum glaube ich
+Dialogue: 0,0:23:12.36,0:23:14.42,Leg,,0,0,0,,Wenn Sie bis hierher geblieben sind
+Dialogue: 0,0:23:14.44,0:23:16.10,Leg,,0,0,0,,gehören Sie zu den Auserwählten
+Dialogue: 0,0:23:16.12,0:23:19.38,Leg,,0,0,0,,die hören sollen, was ich jetzt erzähle
+Dialogue: 0,0:23:19.40,0:23:21.79,Leg,,0,0,0,,Nach drei Stunden Gesprächen und Dutzenden
+Dialogue: 0,0:23:21.81,0:23:24.37,Leg,,0,0,0,,unterschriebener Dokumente übergab mir der
+Dialogue: 0,0:23:24.39,0:23:27.24,Leg,,0,0,0,,Bischof einige der Originalfassungen dieses
+Dialogue: 0,0:23:27.26,0:23:28.95,Leg,,0,0,0,,heiligen Gebets
+Dialogue: 0,0:23:28.97,0:23:31.09,Leg,,0,0,0,,Meine Hände begannen zu zittern
+Dialogue: 0,0:23:31.11,0:23:33.23,Leg,,0,0,0,,ich spürte eine sehr starke Kraft
+Dialogue: 0,0:23:33.25,0:23:34.59,Leg,,0,0,0,,die davon ausging
+Dialogue: 0,0:23:34.61,0:23:36.87,Leg,,0,0,0,,So etwas hatte ich noch nie erlebt
+Dialogue: 0,0:23:36.89,0:23:38.70,Leg,,0,0,0,,Aber ich musste mich verpflichten
+Dialogue: 0,0:23:38.72,0:23:40.68,Leg,,0,0,0,,einige Regeln einzuhalten
+Dialogue: 0,0:23:40.70,0:23:43.16,Leg,,0,0,0,,die Originalfassung auf Italienisch zu
+Dialogue: 0,0:23:43.18,0:23:45.56,Leg,,0,0,0,,bewahren, im alten Dialekt
+Dialogue: 0,0:23:45.58,0:23:48.13,Leg,,0,0,0,,mit den engelsgleichen Klangfrequenzen im
+Dialogue: 0,0:23:48.15,0:23:49.31,Leg,,0,0,0,,Hintergrund
+Dialogue: 0,0:23:49.33,0:23:51.65,Leg,,0,0,0,,es mit dem offiziellen Echtheitssiegel zu
+Dialogue: 0,0:23:51.67,0:23:54.20,Leg,,0,0,0,,versehen, um Nachahmungen zu verhindern
+Dialogue: 0,0:23:54.22,0:23:55.99,Leg,,0,0,0,,und alle, die es erhalten
+Dialogue: 0,0:23:56.01,0:23:59.23,Leg,,0,0,0,,anzuleiten, es mit Weisheit zu gebrauchen
+Dialogue: 0,0:23:59.25,0:24:00.29,Leg,,0,0,0,,Jetzt frage ich Sie
+Dialogue: 0,0:24:00.31,0:24:02.46,Leg,,0,0,0,,Glauben Sie, dass Gott Ihr Leben verändern
+Dialogue: 0,0:24:02.48,0:24:04.86,Leg,,0,0,0,,und Ihnen Fülle und Wohlstand schenken kann?
+Dialogue: 0,0:24:04.88,0:24:07.07,Leg,,0,0,0,,Wenn ja, möchte ich eine Abmachung mit Ihnen
+Dialogue: 0,0:24:07.09,0:24:08.01,Leg,,0,0,0,,treffen
+Dialogue: 0,0:24:08.03,0:24:09.48,Leg,,0,0,0,,An die wenigen Auserwählten
+Dialogue: 0,0:24:09.50,0:24:11.82,Leg,,0,0,0,,die heute live in dieser Messe bei mir sind
+Dialogue: 0,0:24:11.84,0:24:13.73,Leg,,0,0,0,,Wenn Sie Gott sieben Minuten am Tag
+Dialogue: 0,0:24:13.75,0:24:16.42,Leg,,0,0,0,,schenken, mit aufrichtigem Glauben im Herzen
+Dialogue: 0,0:24:16.44,0:24:18.25,Leg,,0,0,0,,– ich habe gesehen, wie Gott selbst in
+Dialogue: 0,0:24:18.27,0:24:20.18,Leg,,0,0,0,,wenigen Tagen Wunder wirkt
+Dialogue: 0,0:24:20.20,0:24:22.09,Leg,,0,0,0,,Ich würde hier nicht mein Gesicht und meine
+Dialogue: 0,0:24:22.11,0:24:24.19,Leg,,0,0,0,,Geschichte zeigen, hätte ich nicht mit
+Dialogue: 0,0:24:24.21,0:24:26.38,Leg,,0,0,0,,eigenen Augen gesehen, was dieses Gebet
+Dialogue: 0,0:24:26.40,0:24:27.41,Leg,,0,0,0,,bewirkt
+Dialogue: 0,0:24:27.43,0:24:29.73,Leg,,0,0,0,,Sie müssen dieses heilige Gebet nur jeden
+Dialogue: 0,0:24:29.75,0:24:32.27,Leg,,0,0,0,,Morgen sieben Minuten lang hören und Gott
+Dialogue: 0,0:24:32.29,0:24:35.37,Leg,,0,0,0,,wirken lassen, was nur Er wirken kann
+Dialogue: 0,0:24:35.39,0:24:37.67,Leg,,0,0,0,,Und Sie können eine beständige Quelle von
+Dialogue: 0,0:24:37.69,0:24:40.60,Leg,,0,0,0,,Wohlstand, Wundern und Segen für Ihre ganze
+Dialogue: 0,0:24:40.62,0:24:42.06,Leg,,0,0,0,,Familie haben
+Dialogue: 0,0:24:42.58,0:24:45.25,Leg,,0,0,0,,Die Nachricht von diesem Gebet verbreitete
+Dialogue: 0,0:24:45.27,0:24:48.21,Leg,,0,0,0,,sich mit erstaunlicher Geschwindigkeit
+Dialogue: 0,0:24:48.23,0:24:50.14,Leg,,0,0,0,,Menschen aus verschiedenen Städten riefen
+Dialogue: 0,0:24:50.16,0:24:52.77,Leg,,0,0,0,,an, schrieben und baten um eine Möglichkeit
+Dialogue: 0,0:24:52.79,0:24:54.15,Leg,,0,0,0,,es zu erhalten
+Dialogue: 0,0:24:54.35,0:24:57.05,Leg,,0,0,0,,Manche boten der Kirche großzügige Spenden
+Dialogue: 0,0:24:57.07,0:24:59.10,Leg,,0,0,0,,an, nur um Zugang zu einer dieser
+Dialogue: 0,0:24:59.12,0:25:01.71,Leg,,0,0,0,,Originalfassungen zu bekommen
+Dialogue: 0,0:25:01.73,0:25:02.82,Leg,,0,0,0,,Das Problem
+Dialogue: 0,0:25:02.84,0:25:04.26,Leg,,0,0,0,,Ich hatte nur die Erlaubnis
+Dialogue: 0,0:25:04.28,0:25:06.88,Leg,,0,0,0,,300 Exemplare weiterzugeben
+Dialogue: 0,0:25:06.90,0:25:09.32,Leg,,0,0,0,,200 davon habe ich den Gläubigen meiner
+Dialogue: 0,0:25:09.34,0:25:11.40,Leg,,0,0,0,,Pfarrei überreicht – und sie waren in
+Dialogue: 0,0:25:11.42,0:25:13.83,Leg,,0,0,0,,weniger als zwei Minuten vergriffen
+Dialogue: 0,0:25:13.85,0:25:15.98,Leg,,0,0,0,,Die übrigen möchte ich denen zur Verfügung
+Dialogue: 0,0:25:16.00,0:25:18.69,Leg,,0,0,0,,stellen, die jetzt gerade live bei mir sind
+Dialogue: 0,0:25:18.71,0:25:21.63,Leg,,0,0,0,,Aber ich muss etwas sehr Wichtiges betonen
+Dialogue: 0,0:25:21.80,0:25:23.69,Leg,,0,0,0,,Das ist ausschließlich für Menschen
+Dialogue: 0,0:25:23.71,0:25:25.85,Leg,,0,0,0,,die eine schwere Zeit durchmachen
+Dialogue: 0,0:25:25.87,0:25:28.31,Leg,,0,0,0,,Schulden, Arbeitslosigkeit
+Dialogue: 0,0:25:28.33,0:25:29.78,Leg,,0,0,0,,körperliche oder seelische
+Dialogue: 0,0:25:29.80,0:25:32.49,Leg,,0,0,0,,Gesundheitsprobleme, auch Schwierigkeiten in
+Dialogue: 0,0:25:32.51,0:25:33.50,Leg,,0,0,0,,der Liebe
+Dialogue: 0,0:25:33.52,0:25:35.11,Leg,,0,0,0,,Wenn Sie also hier sind
+Dialogue: 0,0:25:35.12,0:25:37.65,Leg,,0,0,0,,möchte ich Ihnen das heilige Benediktusgebet
+Dialogue: 0,0:25:37.67,0:25:40.33,Leg,,0,0,0,,anvertrauen, das die Eliten totgeschwiegen
+Dialogue: 0,0:25:40.35,0:25:42.84,Leg,,0,0,0,,haben – allen, die im Herzen spüren
+Dialogue: 0,0:25:42.86,0:25:44.75,Leg,,0,0,0,,dass sie es heute brauchen
+Dialogue: 0,0:25:44.77,0:25:46.20,Leg,,0,0,0,,Und wenn Sie jetzt hier sind
+Dialogue: 0,0:25:46.22,0:25:48.44,Leg,,0,0,0,,ist das kein Zufall – diese Botschaft gilt
+Dialogue: 0,0:25:48.46,0:25:49.16,Leg,,0,0,0,,auch Ihnen
+Dialogue: 0,0:25:49.18,0:25:50.62,Leg,,0,0,0,,Etwas in Ihnen weiß schon
+Dialogue: 0,0:25:50.64,0:25:52.42,Leg,,0,0,0,,dass dies ein wichtiger Moment ist
+Dialogue: 0,0:25:52.44,0:25:55.40,Leg,,0,0,0,,Darum spreche ich klar und in Ruhe zu Ihnen
+Dialogue: 0,0:25:55.42,0:25:57.19,Leg,,0,0,0,,Wenn Sie gleich auf den Button unten
+Dialogue: 0,0:25:57.21,0:25:60.00,Leg,,0,0,0,,klicken, gehen Sie einen einfachen Schritt
+Dialogue: 0,0:26:00.02,0:26:02.58,Leg,,0,0,0,,Sie gelangen in einen geschützten Bereich
+Dialogue: 0,0:26:02.60,0:26:05.16,Leg,,0,0,0,,in dem Sie klar und in Ruhe fortfahren
+Dialogue: 0,0:26:05.18,0:26:06.22,Leg,,0,0,0,,können
+Dialogue: 0,0:26:06.24,0:26:08.67,Leg,,0,0,0,,Dort bestätigen Sie Ihren Zugang
+Dialogue: 0,0:26:08.69,0:26:11.17,Leg,,0,0,0,,indem Sie Ihren Beitrag sicher leisten
+Dialogue: 0,0:26:11.19,0:26:13.57,Leg,,0,0,0,,und wenige Augenblicke später erhalten Sie
+Dialogue: 0,0:26:13.59,0:26:15.83,Leg,,0,0,0,,den vollständigen Zugang
+Dialogue: 0,0:26:15.85,0:26:18.21,Leg,,0,0,0,,Alles kommt per E-Mail mit klaren
+Dialogue: 0,0:26:18.23,0:26:19.58,Leg,,0,0,0,,Anweisungen
+Dialogue: 0,0:26:19.60,0:26:21.33,Leg,,0,0,0,,Es ist nicht kompliziert
+Dialogue: 0,0:26:21.35,0:26:23.73,Leg,,0,0,0,,Sie brauchen keine Vorkenntnisse
+Dialogue: 0,0:26:23.93,0:26:25.71,Leg,,0,0,0,,Und wenn Sie eintreten
+Dialogue: 0,0:26:25.73,0:26:27.94,Leg,,0,0,0,,finden Sie einen Raum, der für Sie
+Dialogue: 0,0:26:27.96,0:26:30.48,Leg,,0,0,0,,vorbereitet ist – in Stille
+Dialogue: 0,0:26:30.50,0:26:32.30,Leg,,0,0,0,,ohne Unterbrechungen
+Dialogue: 0,0:26:32.32,0:26:34.89,Leg,,0,0,0,,in dem Sie dieses Gebet vollständig und noch
+Dialogue: 0,0:26:34.91,0:26:36.92,Leg,,0,0,0,,tiefer hören können
+Dialogue: 0,0:26:36.94,0:26:38.86,Leg,,0,0,0,,Und von diesem Moment an beginnen Sie
+Dialogue: 0,0:26:38.88,0:26:40.50,Leg,,0,0,0,,Veränderungen zu spüren
+Dialogue: 0,0:26:40.52,0:26:42.43,Leg,,0,0,0,,mehr Ruhe, mehr Klarheit
+Dialogue: 0,0:26:42.45,0:26:43.32,Leg,,0,0,0,,mehr Richtung
+Dialogue: 0,0:26:43.34,0:26:45.18,Leg,,0,0,0,,Dinge, die Sie früher belastet haben
+Dialogue: 0,0:26:45.20,0:26:47.80,Leg,,0,0,0,,verlieren an Kraft, und nach und nach kommt
+Dialogue: 0,0:26:47.82,0:26:49.32,Leg,,0,0,0,,alles in Ordnung
+Dialogue: 0,0:26:49.35,0:26:51.47,Leg,,0,0,0,,Wäre dies eine private geistliche
+Dialogue: 0,0:26:51.49,0:26:53.79,Leg,,0,0,0,,Begleitung, hätte sie einen viel höheren
+Dialogue: 0,0:26:53.81,0:26:54.44,Leg,,0,0,0,,Wert
+Dialogue: 0,0:26:54.46,0:26:56.66,Leg,,0,0,0,,Aber diese Mission wurde nicht geschaffen
+Dialogue: 0,0:26:56.68,0:26:59.73,Leg,,0,0,0,,um reich zu werden – sondern um zu helfen
+Dialogue: 0,0:26:59.75,0:27:01.83,Leg,,0,0,0,,Deshalb gibt es heute eine einfache
+Dialogue: 0,0:27:01.85,0:27:04.21,Leg,,0,0,0,,Möglichkeit, diesen Weg weiterzugehen
+Dialogue: 0,0:27:04.23,0:27:06.29,Leg,,0,0,0,,Sie können Ihren Zugang heute mit einem
+Dialogue: 0,0:27:06.31,0:27:10.03,Leg,,0,0,0,,Beitrag von nur 37 Euro bestätigen
+Dialogue: 0,0:27:10.09,0:27:12.77,Leg,,0,0,0,,Das ist kein Preis, sondern ein Versprechen
+Dialogue: 0,0:27:12.79,0:27:15.38,Leg,,0,0,0,,– an Sie selbst, an Ihren Frieden und an
+Dialogue: 0,0:27:15.39,0:27:16.62,Leg,,0,0,0,,diesen Neuanfang
+Dialogue: 0,0:27:16.64,0:27:18.48,Leg,,0,0,0,,Und Sie gehen kein Risiko ein
+Dialogue: 0,0:27:18.50,0:27:20.95,Leg,,0,0,0,,Sie haben 90 Tage Garantie
+Dialogue: 0,0:27:20.97,0:27:22.56,Leg,,0,0,0,,Wenn es nichts für Sie ist
+Dialogue: 0,0:27:22.58,0:27:24.73,Leg,,0,0,0,,können Sie ganz unkompliziert Ihr Geld
+Dialogue: 0,0:27:24.75,0:27:25.77,Leg,,0,0,0,,zurückverlangen
+Dialogue: 0,0:27:25.79,0:27:28.14,Leg,,0,0,0,,Klicken Sie also jetzt und bestätigen Sie
+Dialogue: 0,0:27:28.16,0:27:29.53,Leg,,0,0,0,,Ihren Zugang
+Dialogue: 0,0:27:29.55,0:27:31.00,Leg,,0,0,0,,Und das ist noch nicht alles
+Dialogue: 0,0:27:31.02,0:27:32.89,Leg,,0,0,0,,Ich möchte Ihnen noch mehr schenken
+Dialogue: 0,0:27:32.91,0:27:34.87,Leg,,0,0,0,,denn meine Mission endet nicht mit dem
+Dialogue: 0,0:27:34.89,0:27:35.52,Leg,,0,0,0,,Gebet
+Dialogue: 0,0:27:35.54,0:27:37.82,Leg,,0,0,0,,Ich habe fünf besondere geistliche Hilfen
+Dialogue: 0,0:27:37.84,0:27:39.56,Leg,,0,0,0,,für Sie vorbereitet
+Dialogue: 0,0:27:39.74,0:27:42.68,Leg,,0,0,0,,Die erste heißt Schutz des Hauses
+Dialogue: 0,0:27:42.70,0:27:45.28,Leg,,0,0,0,,eine geistliche Aktivierung für Ihr Zuhause
+Dialogue: 0,0:27:45.30,0:27:48.40,Leg,,0,0,0,,und Ihre Familie, damit der Friede bleibt
+Dialogue: 0,0:27:48.42,0:27:51.14,Leg,,0,0,0,,die Dunkelheit keinen Zutritt hat und der
+Dialogue: 0,0:27:51.16,0:27:54.51,Leg,,0,0,0,,Segen in jedem Winkel Ihres Hauses wohnt
+Dialogue: 0,0:27:54.53,0:27:56.30,Leg,,0,0,0,,Außerdem erhalten Sie das
+Dialogue: 0,0:27:56.32,0:27:58.00,Leg,,0,0,0,,Wohlstands-Protokoll
+Dialogue: 0,0:27:58.02,0:28:00.27,Leg,,0,0,0,,eine geführte geistliche Methode
+Dialogue: 0,0:28:00.29,0:28:02.43,Leg,,0,0,0,,die Ihnen hilft, finanzielle Wege
+Dialogue: 0,0:28:02.45,0:28:05.17,Leg,,0,0,0,,freizulegen und Raum für neue Möglichkeiten
+Dialogue: 0,0:28:05.19,0:28:07.16,Leg,,0,0,0,,zu schaffen, die Gott schon für Sie
+Dialogue: 0,0:28:07.18,0:28:08.87,Leg,,0,0,0,,vorbereitet hat
+Dialogue: 0,0:28:08.89,0:28:11.33,Leg,,0,0,0,,Dazu seelische Heilung
+Dialogue: 0,0:28:11.35,0:28:13.69,Leg,,0,0,0,,ein tiefgehender Leitfaden zur inneren
+Dialogue: 0,0:28:13.71,0:28:15.97,Leg,,0,0,0,,Wiederherstellung – denn oft liegt die Wunde
+Dialogue: 0,0:28:15.99,0:28:19.03,Leg,,0,0,0,,nicht im Körper, sondern in der Seele
+Dialogue: 0,0:28:19.05,0:28:20.58,Leg,,0,0,0,,Und auch das will Gott heilen
+Dialogue: 0,0:28:20.60,0:28:23.52,Leg,,0,0,0,,Sie erhalten außerdem Geistliche Disziplin
+Dialogue: 0,0:28:23.54,0:28:25.61,Leg,,0,0,0,,eine einfache und kraftvolle tägliche
+Dialogue: 0,0:28:25.63,0:28:27.32,Leg,,0,0,0,,Routine, um dranzubleiben
+Dialogue: 0,0:28:27.34,0:28:29.69,Leg,,0,0,0,,sich zu sammeln und Ihre Verbindung zu Gott
+Dialogue: 0,0:28:29.71,0:28:31.47,Leg,,0,0,0,,jeden Tag zu stärken
+Dialogue: 0,0:28:31.49,0:28:33.20,Leg,,0,0,0,,Und zum Schluss erhalten Sie ein
+Dialogue: 0,0:28:33.22,0:28:34.50,Leg,,0,0,0,,Überraschungsgeschenk
+Dialogue: 0,0:28:34.52,0:28:36.56,Leg,,0,0,0,,Darüber darf ich nicht viel mehr sagen
+Dialogue: 0,0:28:36.58,0:28:38.73,Leg,,0,0,0,,denn es ist nicht öffentlich erhältlich und
+Dialogue: 0,0:28:38.75,0:28:40.28,Leg,,0,0,0,,nur für die Menschen bestimmt
+Dialogue: 0,0:28:40.30,0:28:42.34,Leg,,0,0,0,,die vertrauen und Zugang zum heiligen
+Dialogue: 0,0:28:42.36,0:28:44.20,Leg,,0,0,0,,Benediktusgebet erhalten
+Dialogue: 0,0:28:44.22,0:28:46.35,Leg,,0,0,0,,Nur so viel kann ich Ihnen sagen
+Dialogue: 0,0:28:46.37,0:28:48.22,Leg,,0,0,0,,Bei denen, die es erhalten
+Dialogue: 0,0:28:48.24,0:28:51.43,Leg,,0,0,0,,beginnen die Veränderungen in weniger als 48
+Dialogue: 0,0:28:51.45,0:28:52.33,Leg,,0,0,0,,Stunden
+Dialogue: 0,0:28:52.35,0:28:54.87,Leg,,0,0,0,,Das sind keine bloßen Materialien
+Dialogue: 0,0:28:54.89,0:28:57.20,Leg,,0,0,0,,Es sind Werkzeuge des Glaubens
+Dialogue: 0,0:28:57.22,0:28:59.60,Leg,,0,0,0,,die Sie in diesem Neuanfang tragen
+Dialogue: 0,0:28:59.62,0:29:01.93,Leg,,0,0,0,,führen und stärken sollen
+Dialogue: 0,0:29:01.95,0:29:04.02,Leg,,0,0,0,,Das verspricht Ihnen keinen magischen
+Dialogue: 0,0:29:04.04,0:29:06.33,Leg,,0,0,0,,Reichtum – es verspricht Ihnen etwas
+Dialogue: 0,0:29:06.35,0:29:07.58,Leg,,0,0,0,,Kraftvolleres
+Dialogue: 0,0:29:07.60,0:29:10.39,Leg,,0,0,0,,innere Ordnung, geistige Klarheit
+Dialogue: 0,0:29:10.41,0:29:13.67,Leg,,0,0,0,,seelische Stabilität, geistliche Richtung
+Dialogue: 0,0:29:13.69,0:29:15.58,Leg,,0,0,0,,einen gefestigten Glauben
+Dialogue: 0,0:29:15.60,0:29:18.11,Leg,,0,0,0,,inneren Frieden, Disziplin
+Dialogue: 0,0:29:18.13,0:29:21.21,Leg,,0,0,0,,Fokus, Stärke, Bewusstsein
+Dialogue: 0,0:29:21.23,0:29:23.81,Leg,,0,0,0,,und als Folge bessere Entscheidungen
+Dialogue: 0,0:29:23.83,0:29:26.50,Leg,,0,0,0,,bessere Ergebnisse, ein besseres Leben
+Dialogue: 0,0:29:26.52,0:29:28.58,Leg,,0,0,0,,Und jetzt liegt dieser Moment vor Ihnen
+Dialogue: 0,0:29:28.60,0:29:30.55,Leg,,0,0,0,,nicht als etwas Zufälliges
+Dialogue: 0,0:29:30.57,0:29:32.02,Leg,,0,0,0,,sondern als Entscheidung
+Dialogue: 0,0:29:32.04,0:29:33.84,Leg,,0,0,0,,Denn es gibt Momente im Leben
+Dialogue: 0,0:29:33.86,0:29:36.22,Leg,,0,0,0,,in denen alles stillzustehen scheint und
+Dialogue: 0,0:29:36.24,0:29:38.62,Leg,,0,0,0,,sich trotzdem etwas öffnet
+Dialogue: 0,0:29:38.65,0:29:40.93,Leg,,0,0,0,,Und dies ist einer dieser Momente
+Dialogue: 0,0:29:40.95,0:29:43.10,Leg,,0,0,0,,Sie müssen jetzt nicht alles verstehen
+Dialogue: 0,0:29:43.12,0:29:45.07,Leg,,0,0,0,,Sie dürfen ihn nur nicht verstreichen
+Dialogue: 0,0:29:45.09,0:29:45.66,Leg,,0,0,0,,lassen
+Dialogue: 0,0:29:45.68,0:29:47.82,Leg,,0,0,0,,Denn wenn wir solche Rufe überhören
+Dialogue: 0,0:29:47.84,0:29:49.53,Leg,,0,0,0,,bleibt alles, wie es ist
+Dialogue: 0,0:29:49.55,0:29:50.92,Leg,,0,0,0,,Doch wenn wir antworten
+Dialogue: 0,0:29:50.94,0:29:52.97,Leg,,0,0,0,,beginnt sich etwas zu bewegen
+Dialogue: 0,0:29:52.99,0:29:55.67,Leg,,0,0,0,,zuerst in uns und dann in allem anderen
+Dialogue: 0,0:29:55.69,0:29:57.12,Leg,,0,0,0,,Und das verändert alles
+Dialogue: 0,0:29:57.14,0:29:58.95,Leg,,0,0,0,,Was Ihnen hier angeboten wird
+Dialogue: 0,0:29:58.97,0:30:00.39,Leg,,0,0,0,,steht nicht jedem offen
+Dialogue: 0,0:30:00.41,0:30:02.24,Leg,,0,0,0,,Es wird in bestimmten Momenten denen
+Dialogue: 0,0:30:02.26,0:30:04.18,Leg,,0,0,0,,geschenkt, die bleiben und sich entscheiden
+Dialogue: 0,0:30:04.20,0:30:06.26,Leg,,0,0,0,,hier zu sein – denn nicht alle kommen bis an
+Dialogue: 0,0:30:06.28,0:30:07.17,Leg,,0,0,0,,diesen Punkt
+Dialogue: 0,0:30:07.19,0:30:08.95,Leg,,0,0,0,,Und oft geben wir Geld aus für Dinge
+Dialogue: 0,0:30:08.97,0:30:11.61,Leg,,0,0,0,,die nicht bleiben, nichts verwandeln
+Dialogue: 0,0:30:11.63,0:30:13.05,Leg,,0,0,0,,nichts verändern
+Dialogue: 0,0:30:13.07,0:30:15.23,Leg,,0,0,0,,Aber dieser Schritt ist anders
+Dialogue: 0,0:30:15.25,0:30:17.71,Leg,,0,0,0,,Er ist keine Ausgabe, sondern eine
+Dialogue: 0,0:30:17.73,0:30:20.37,Leg,,0,0,0,,Entscheidung, die Ihr Leben wirklich wenden
+Dialogue: 0,0:30:20.39,0:30:21.18,Leg,,0,0,0,,kann
+Dialogue: 0,0:30:21.20,0:30:22.90,Leg,,0,0,0,,Gehen Sie ihn in Ruhe
+Dialogue: 0,0:30:22.92,0:30:26.64,Leg,,0,0,0,,Sie haben 90 Tage – volle 90 Tage
+Dialogue: 0,0:30:26.66,0:30:29.40,Leg,,0,0,0,,um diesen Weg in Ihrem Tempo zu gehen
+Dialogue: 0,0:30:29.42,0:30:33.00,Leg,,0,0,0,,um zuzuhören, anzuwenden und klar zu spüren
+Dialogue: 0,0:30:33.02,0:30:34.91,Leg,,0,0,0,,ob dieser Weg für Sie ist
+Dialogue: 0,0:30:34.93,0:30:36.96,Leg,,0,0,0,,Und wenn nicht, lassen Sie ihn einfach
+Dialogue: 0,0:30:36.98,0:30:39.19,Leg,,0,0,0,,hinter sich – ohne Hürden
+Dialogue: 0,0:30:39.31,0:30:41.94,Leg,,0,0,0,,Außerdem ist der ganze Ablauf geschützt
+Dialogue: 0,0:30:41.96,0:30:43.98,Leg,,0,0,0,,Es ist dieselbe digitale Umgebung
+Dialogue: 0,0:30:44.00,0:30:46.08,Leg,,0,0,0,,die Sie nutzen, wenn Sie bei bekannten
+Dialogue: 0,0:30:46.10,0:30:49.31,Leg,,0,0,0,,Plattformen einkaufen, etwa bei Amazon oder
+Dialogue: 0,0:30:49.33,0:30:51.68,Leg,,0,0,0,,bei Google-Diensten – Ihre Daten sind
+Dialogue: 0,0:30:51.70,0:30:54.74,Leg,,0,0,0,,geschützt, und der Zugang erfolgt sofort
+Dialogue: 0,0:30:54.76,0:30:57.10,Leg,,0,0,0,,Darum können Sie beruhigt weitergehen
+Dialogue: 0,0:30:57.16,0:30:59.90,Leg,,0,0,0,,Es geht nicht um das, was Sie bisher gesehen
+Dialogue: 0,0:30:59.92,0:31:02.75,Leg,,0,0,0,,haben, sondern darum, was Sie jetzt daraus
+Dialogue: 0,0:31:02.77,0:31:03.86,Leg,,0,0,0,,machen
+Dialogue: 0,0:31:03.88,0:31:05.66,Leg,,0,0,0,,Schieben Sie es also nicht auf
+Dialogue: 0,0:31:05.68,0:31:06.97,Leg,,0,0,0,,Gehen Sie diesen Schritt
+Dialogue: 0,0:31:06.99,0:31:08.75,Leg,,0,0,0,,Klicken Sie auf den Button unter diesem
+Dialogue: 0,0:31:08.77,0:31:11.35,Leg,,0,0,0,,Video, sichern Sie sich jetzt Ihren Zugang
+Dialogue: 0,0:31:11.37,0:31:13.78,Leg,,0,0,0,,und lassen Sie hier etwas Neues beginnen
+Dialogue: 0,0:31:13.80,0:31:15.55,Leg,,0,0,0,,Gott begleite Ihre Entscheidung
+Dialogue: 0,0:31:15.57,0:31:17.82,Leg,,0,0,0,,im Namen des Vaters und des Sohnes und des
+Dialogue: 0,0:31:17.84,0:31:19.52,Leg,,0,0,0,,Heiligen Geistes
+Dialogue: 0,0:31:19.54,0:31:20.68,Leg,,0,0,0,,Amen
+Dialogue: 0,0:31:27.15,0:31:28.37,Leg,,0,0,0,,Sie sind noch da?
+Dialogue: 0,0:31:28.39,0:31:30.64,Leg,,0,0,0,,Dann möchte ich Ihnen acht wichtige Fragen
+Dialogue: 0,0:31:30.66,0:31:32.87,Leg,,0,0,0,,beantworten, damit Sie Ihre Entscheidung in
+Dialogue: 0,0:31:32.89,0:31:35.95,Leg,,0,0,0,,Ruhe und ohne jeden Zweifel treffen können
+Dialogue: 0,0:31:36.04,0:31:38.33,Leg,,0,0,0,,Hören Sie gut zu, denn vielleicht ist eine
+Dialogue: 0,0:31:38.35,0:31:39.77,Leg,,0,0,0,,dieser Fragen genau die
+Dialogue: 0,0:31:39.79,0:31:42.19,Leg,,0,0,0,,die Ihnen gerade durch den Kopf geht
+Dialogue: 0,0:31:42.33,0:31:44.26,Leg,,0,0,0,,Renate Schneider fragt
+Dialogue: 0,0:31:44.28,0:31:46.88,Leg,,0,0,0,,Padre Juan, ich habe vor drei Tagen
+Dialogue: 0,0:31:46.90,0:31:48.83,Leg,,0,0,0,,angefangen, das Gebet zu hören
+Dialogue: 0,0:31:48.85,0:31:51.00,Leg,,0,0,0,,und spüre schon mehr Ruhe
+Dialogue: 0,0:31:51.02,0:31:53.22,Leg,,0,0,0,,Außerdem wurde ich nach vielen Monaten ohne
+Dialogue: 0,0:31:53.24,0:31:55.16,Leg,,0,0,0,,Chancen zu einem Vorstellungsgespräch
+Dialogue: 0,0:31:55.18,0:31:56.01,Leg,,0,0,0,,eingeladen
+Dialogue: 0,0:31:56.03,0:31:58.06,Leg,,0,0,0,,Ist es normal, so schnell Veränderungen zu
+Dialogue: 0,0:31:58.08,0:31:59.22,Leg,,0,0,0,,bemerken?
+Dialogue: 0,0:31:59.25,0:32:01.13,Leg,,0,0,0,,Wie lange dauert es, bis man Ergebnisse
+Dialogue: 0,0:32:01.15,0:32:01.79,Leg,,0,0,0,,sieht?
+Dialogue: 0,0:32:01.81,0:32:04.37,Leg,,0,0,0,,Ja, Renate, manche Menschen spüren schon in
+Dialogue: 0,0:32:04.39,0:32:06.89,Leg,,0,0,0,,den ersten Tagen Veränderungen
+Dialogue: 0,0:32:07.04,0:32:09.23,Leg,,0,0,0,,Manchmal geschieht die erste Veränderung im
+Dialogue: 0,0:32:09.25,0:32:09.88,Leg,,0,0,0,,Inneren
+Dialogue: 0,0:32:09.90,0:32:12.28,Leg,,0,0,0,,Man spürt mehr Ruhe, gewinnt die Hoffnung
+Dialogue: 0,0:32:12.30,0:32:14.95,Leg,,0,0,0,,zurück, kann klarer denken und hat wieder
+Dialogue: 0,0:32:14.97,0:32:16.54,Leg,,0,0,0,,Kraft zu handeln
+Dialogue: 0,0:32:16.71,0:32:19.05,Leg,,0,0,0,,Aus dieser inneren Verwandlung heraus
+Dialogue: 0,0:32:19.07,0:32:21.20,Leg,,0,0,0,,erkennt man oft Möglichkeiten
+Dialogue: 0,0:32:21.22,0:32:23.36,Leg,,0,0,0,,die man vorher nicht sehen konnte
+Dialogue: 0,0:32:23.38,0:32:25.11,Leg,,0,0,0,,Andere brauchen mehr Zeit
+Dialogue: 0,0:32:25.13,0:32:27.13,Leg,,0,0,0,,denn jede Geschichte und jeder Weg ist
+Dialogue: 0,0:32:27.15,0:32:28.30,Leg,,0,0,0,,anders
+Dialogue: 0,0:32:28.50,0:32:30.79,Leg,,0,0,0,,Deshalb empfehle ich, das Gebet sieben
+Dialogue: 0,0:32:30.81,0:32:32.55,Leg,,0,0,0,,Minuten am Tag zu hören
+Dialogue: 0,0:32:32.57,0:32:34.96,Leg,,0,0,0,,mindestens sieben Tage hintereinander
+Dialogue: 0,0:32:34.98,0:32:37.67,Leg,,0,0,0,,mit einer aufrichtigen Absicht und indem Sie
+Dialogue: 0,0:32:37.69,0:32:40.08,Leg,,0,0,0,,alle Anweisungen befolgen
+Dialogue: 0,0:32:40.15,0:32:42.47,Leg,,0,0,0,,Vergleichen Sie sich mit niemandem
+Dialogue: 0,0:32:42.49,0:32:44.45,Leg,,0,0,0,,Tun Sie weiter Ihren Teil
+Dialogue: 0,0:32:44.47,0:32:45.68,Leg,,0,0,0,,bereiten Sie sich auf Ihr
+Dialogue: 0,0:32:45.70,0:32:48.54,Leg,,0,0,0,,Vorstellungsgespräch vor und nehmen Sie jede
+Dialogue: 0,0:32:48.56,0:32:50.41,Leg,,0,0,0,,neue Gelegenheit mit Glauben
+Dialogue: 0,0:32:50.43,0:32:53.23,Leg,,0,0,0,,Dankbarkeit und Verantwortung an
+Dialogue: 0,0:32:53.25,0:32:56.61,Leg,,0,0,0,,Kostet der Zugang zum Gebet monatlich etwas?
+Dialogue: 0,0:32:56.91,0:32:57.80,Leg,,0,0,0,,Nein
+Dialogue: 0,0:32:58.00,0:33:01.19,Leg,,0,0,0,,Sie zahlen einmalig 37 Euro und erhalten
+Dialogue: 0,0:33:01.21,0:33:04.00,Leg,,0,0,0,,Zugang zum heiligen Benediktusgebet und zu
+Dialogue: 0,0:33:04.02,0:33:07.03,Leg,,0,0,0,,allen Materialien dieses Angebots
+Dialogue: 0,0:33:07.05,0:33:09.77,Leg,,0,0,0,,Es gibt keine versteckten Monatsgebühren
+Dialogue: 0,0:33:09.79,0:33:12.76,Leg,,0,0,0,,kein automatisches Abo und keine weiteren
+Dialogue: 0,0:33:12.78,0:33:14.93,Leg,,0,0,0,,Abbuchungen für diesen Zugang
+Dialogue: 0,0:33:14.95,0:33:17.52,Leg,,0,0,0,,Es ist eine einmalige Zahlung
+Dialogue: 0,0:33:17.54,0:33:20.00,Leg,,0,0,0,,Nachdem Sie Ihre Anmeldung bestätigt haben
+Dialogue: 0,0:33:20.02,0:33:22.19,Leg,,0,0,0,,erhalten Sie die Anleitung für den Zugang zu
+Dialogue: 0,0:33:22.21,0:33:24.43,Leg,,0,0,0,,den Inhalten direkt per E-Mail
+Dialogue: 0,0:33:24.57,0:33:26.44,Leg,,0,0,0,,Und wenn ich nach dem Einstieg merke
+Dialogue: 0,0:33:26.46,0:33:28.71,Leg,,0,0,0,,dass dieser Weg nichts für mich ist?
+Dialogue: 0,0:33:28.73,0:33:30.72,Leg,,0,0,0,,Sie können ganz beruhigt beginnen
+Dialogue: 0,0:33:30.74,0:33:32.44,Leg,,0,0,0,,denn Ihre Entscheidung ist durch eine
+Dialogue: 0,0:33:32.46,0:33:35.13,Leg,,0,0,0,,90-Tage-Garantie geschützt
+Dialogue: 0,0:33:35.22,0:33:37.50,Leg,,0,0,0,,In dieser Zeit können Sie hineinschauen
+Dialogue: 0,0:33:37.52,0:33:39.23,Leg,,0,0,0,,die Inhalte kennenlernen
+Dialogue: 0,0:33:39.25,0:33:42.51,Leg,,0,0,0,,das Gebet hören und den Anleitungen folgen
+Dialogue: 0,0:33:42.53,0:33:44.17,Leg,,0,0,0,,um in Ruhe zu entscheiden
+Dialogue: 0,0:33:44.19,0:33:47.08,Leg,,0,0,0,,ob dieser Weg für Sie Sinn ergibt
+Dialogue: 0,0:33:47.37,0:33:49.76,Leg,,0,0,0,,Wenn Sie innerhalb der Garantiezeit merken
+Dialogue: 0,0:33:49.78,0:33:51.64,Leg,,0,0,0,,dass Sie nicht weitermachen möchten
+Dialogue: 0,0:33:51.66,0:33:54.21,Leg,,0,0,0,,können Sie sich an unser Support-Team wenden
+Dialogue: 0,0:33:54.23,0:33:56.50,Leg,,0,0,0,,und die Erstattung gemäß den auf der Seite
+Dialogue: 0,0:33:56.52,0:33:59.28,Leg,,0,0,0,,genannten Bedingungen beantragen
+Dialogue: 0,0:33:59.40,0:34:01.25,Leg,,0,0,0,,So müssen Sie Ihre Entscheidung nicht aus
+Dialogue: 0,0:34:01.27,0:34:02.22,Leg,,0,0,0,,Angst treffen
+Dialogue: 0,0:34:02.24,0:34:04.63,Leg,,0,0,0,,Sie haben genug Zeit, alles kennenzulernen
+Dialogue: 0,0:34:04.65,0:34:06.81,Leg,,0,0,0,,was für Sie vorbereitet wurde
+Dialogue: 0,0:34:07.01,0:34:08.80,Leg,,0,0,0,,Wie kann ich bezahlen?
+Dialogue: 0,0:34:08.86,0:34:10.16,Leg,,0,0,0,,Ganz einfach
+Dialogue: 0,0:34:10.28,0:34:12.04,Leg,,0,0,0,,Wenn Sie auf den Button unter diesem Video
+Dialogue: 0,0:34:12.06,0:34:14.09,Leg,,0,0,0,,klicken, gelangen Sie auf eine sichere
+Dialogue: 0,0:34:14.11,0:34:15.65,Leg,,0,0,0,,Bezahlseite
+Dialogue: 0,0:34:15.67,0:34:18.00,Leg,,0,0,0,,Dort wählen Sie bequem eine der angezeigten
+Dialogue: 0,0:34:18.02,0:34:20.36,Leg,,0,0,0,,Zahlungsarten und zahlen den einmaligen
+Dialogue: 0,0:34:20.38,0:34:24.02,Leg,,0,0,0,,Betrag von 37 Euro – ohne Umrechnung und
+Dialogue: 0,0:34:24.04,0:34:25.82,Leg,,0,0,0,,ohne versteckte Kosten
+Dialogue: 0,0:34:25.84,0:34:27.90,Leg,,0,0,0,,Der Bezahlvorgang ist verschlüsselt und
+Dialogue: 0,0:34:27.92,0:34:29.82,Leg,,0,0,0,,dauert nur einen Augenblick
+Dialogue: 0,0:34:29.84,0:34:31.73,Leg,,0,0,0,,Sobald die Zahlung bestätigt ist
+Dialogue: 0,0:34:31.75,0:34:34.40,Leg,,0,0,0,,erhalten Sie die Zugangsdaten per E-Mail
+Dialogue: 0,0:34:34.42,0:34:36.36,Leg,,0,0,0,,Karin Wagner fragt
+Dialogue: 0,0:34:36.47,0:34:38.24,Leg,,0,0,0,,Mein Mann hat gesehen, wie ich mich
+Dialogue: 0,0:34:38.26,0:34:41.25,Leg,,0,0,0,,verändert habe, und möchte jetzt auch beten
+Dialogue: 0,0:34:41.27,0:34:44.57,Leg,,0,0,0,,Kann er das Gebet mit mir zusammen hören?
+Dialogue: 0,0:34:44.59,0:34:45.87,Leg,,0,0,0,,Ja, Karin
+Dialogue: 0,0:34:45.89,0:34:48.29,Leg,,0,0,0,,Ihr Mann kann das Gebet gemeinsam mit Ihnen
+Dialogue: 0,0:34:48.31,0:34:48.92,Leg,,0,0,0,,hören
+Dialogue: 0,0:34:48.94,0:34:51.13,Leg,,0,0,0,,Sie können sich zusammen sieben Minuten
+Dialogue: 0,0:34:51.15,0:34:54.03,Leg,,0,0,0,,nehmen, eine ruhige Atmosphäre schaffen und
+Dialogue: 0,0:34:54.05,0:34:56.13,Leg,,0,0,0,,Ihre Anliegen vor Gott bringen
+Dialogue: 0,0:34:56.15,0:34:58.70,Leg,,0,0,0,,Jeder kann ein anderes Anliegen haben
+Dialogue: 0,0:34:58.83,0:35:01.02,Leg,,0,0,0,,Sie können um Wohlstand und Frieden im Haus
+Dialogue: 0,0:35:01.04,0:35:01.80,Leg,,0,0,0,,bitten
+Dialogue: 0,0:35:01.82,0:35:03.52,Leg,,0,0,0,,während Ihr Mann für seine Arbeit
+Dialogue: 0,0:35:03.54,0:35:06.16,Leg,,0,0,0,,seine Gesundheit, um Schutz oder für ein
+Dialogue: 0,0:35:06.18,0:35:08.77,Leg,,0,0,0,,persönliches Anliegen beten kann
+Dialogue: 0,0:35:08.79,0:35:11.48,Leg,,0,0,0,,Das gemeinsame Gebet als Paar kann auch zu
+Dialogue: 0,0:35:11.50,0:35:13.88,Leg,,0,0,0,,einem besonderen Moment der Verbundenheit
+Dialogue: 0,0:35:13.89,0:35:16.16,Leg,,0,0,0,,des Gesprächs und der geistlichen Stärkung
+Dialogue: 0,0:35:16.18,0:35:17.36,Leg,,0,0,0,,werden
+Dialogue: 0,0:35:17.44,0:35:20.04,Leg,,0,0,0,,Auch die Menschen, die mit Ihnen leben
+Dialogue: 0,0:35:20.06,0:35:21.97,Leg,,0,0,0,,Ihre Kinder eingeschlossen
+Dialogue: 0,0:35:21.99,0:35:25.02,Leg,,0,0,0,,können an diesem Familienmoment teilnehmen
+Dialogue: 0,0:35:25.04,0:35:26.78,Leg,,0,0,0,,Immer mit Liebe, Respekt und einer
+Dialogue: 0,0:35:26.80,0:35:28.70,Leg,,0,0,0,,altersgerechten Begleitung
+Dialogue: 0,0:35:28.72,0:35:30.60,Leg,,0,0,0,,Niemand muss gezwungen werden
+Dialogue: 0,0:35:30.62,0:35:32.16,Leg,,0,0,0,,Laden Sie sie einfach ein
+Dialogue: 0,0:35:32.18,0:35:33.76,Leg,,0,0,0,,einen Moment des Friedens
+Dialogue: 0,0:35:33.78,0:35:35.92,Leg,,0,0,0,,der Dankbarkeit und der Verbindung mit Gott
+Dialogue: 0,0:35:35.94,0:35:37.20,Leg,,0,0,0,,zu teilen
+Dialogue: 0,0:35:37.28,0:35:38.71,Leg,,0,0,0,,Klaus Becker fragt
+Dialogue: 0,0:35:38.73,0:35:41.46,Leg,,0,0,0,,Ich bin nicht katholisch und war seit Jahren
+Dialogue: 0,0:35:41.48,0:35:43.47,Leg,,0,0,0,,in keiner Kirche mehr
+Dialogue: 0,0:35:43.49,0:35:45.76,Leg,,0,0,0,,Kann ich das Benediktusgebet trotzdem
+Dialogue: 0,0:35:45.78,0:35:46.70,Leg,,0,0,0,,nutzen?
+Dialogue: 0,0:35:46.82,0:35:48.06,Leg,,0,0,0,,Ja, Klaus
+Dialogue: 0,0:35:48.08,0:35:49.83,Leg,,0,0,0,,Sie müssen keiner bestimmten Kirche
+Dialogue: 0,0:35:49.85,0:35:52.04,Leg,,0,0,0,,angehören und auch keinen vollkommenen
+Dialogue: 0,0:35:52.06,0:35:54.39,Leg,,0,0,0,,Glauben haben, um zu beginnen
+Dialogue: 0,0:35:54.41,0:35:57.62,Leg,,0,0,0,,Dieser Weg wurde für Menschen vorbereitet
+Dialogue: 0,0:35:57.64,0:36:00.90,Leg,,0,0,0,,die an Gott glauben, das Gebet achten und
+Dialogue: 0,0:36:00.92,0:36:04.24,Leg,,0,0,0,,ihr geistliches Leben stärken möchten
+Dialogue: 0,0:36:04.28,0:36:06.52,Leg,,0,0,0,,Viele Menschen kommen mit Zweifeln
+Dialogue: 0,0:36:06.54,0:36:09.05,Leg,,0,0,0,,nach Jahren fern der Kirche oder in Zeiten
+Dialogue: 0,0:36:09.07,0:36:11.94,Leg,,0,0,0,,in denen ihr Glaube schwach geworden ist
+Dialogue: 0,0:36:11.96,0:36:14.61,Leg,,0,0,0,,Dafür müssen Sie sich nicht unwürdig fühlen
+Dialogue: 0,0:36:14.63,0:36:16.89,Leg,,0,0,0,,Sie müssen nur mit Ehrfurcht zuhören
+Dialogue: 0,0:36:16.91,0:36:18.88,Leg,,0,0,0,,Ihr Herz offen halten und bereit sein
+Dialogue: 0,0:36:18.90,0:36:20.73,Leg,,0,0,0,,sich ein paar Minuten zu nehmen
+Dialogue: 0,0:36:20.75,0:36:22.62,Leg,,0,0,0,,um wieder in Verbindung zu kommen
+Dialogue: 0,0:36:22.64,0:36:24.98,Leg,,0,0,0,,Der Glaube ist nicht immer vollständig da
+Dialogue: 0,0:36:25.00,0:36:27.15,Leg,,0,0,0,,bevor man den ersten Schritt geht
+Dialogue: 0,0:36:27.17,0:36:29.08,Leg,,0,0,0,,Oft wächst er, während wir gehen
+Dialogue: 0,0:36:29.10,0:36:30.42,Leg,,0,0,0,,Elena Vogel fragt
+Dialogue: 0,0:36:30.44,0:36:33.42,Leg,,0,0,0,,Padre, ich verstehe kein Italienisch
+Dialogue: 0,0:36:33.44,0:36:35.07,Leg,,0,0,0,,Muss ich alle Worte verstehen
+Dialogue: 0,0:36:35.09,0:36:37.24,Leg,,0,0,0,,um das Gebet richtig zu beten?
+Dialogue: 0,0:36:37.26,0:36:38.47,Leg,,0,0,0,,Nein, Elena
+Dialogue: 0,0:36:38.49,0:36:41.02,Leg,,0,0,0,,Sie müssen weder Italienisch sprechen noch
+Dialogue: 0,0:36:41.04,0:36:43.58,Leg,,0,0,0,,schwierige Wörter auswendig lernen oder
+Dialogue: 0,0:36:43.60,0:36:45.57,Leg,,0,0,0,,jeden Ausdruck der Originalfassung
+Dialogue: 0,0:36:45.59,0:36:46.51,Leg,,0,0,0,,verstehen
+Dialogue: 0,0:36:46.53,0:36:48.95,Leg,,0,0,0,,Im Programm erhalten Sie klare Anleitungen
+Dialogue: 0,0:36:48.97,0:36:50.16,Leg,,0,0,0,,auf Deutsch
+Dialogue: 0,0:36:50.21,0:36:52.20,Leg,,0,0,0,,wie Sie den Raum vorbereiten
+Dialogue: 0,0:36:52.22,0:36:54.83,Leg,,0,0,0,,wie Sie Ihre Absicht formulieren und wie Sie
+Dialogue: 0,0:36:54.85,0:36:57.22,Leg,,0,0,0,,das Gebet richtig hören
+Dialogue: 0,0:36:57.24,0:36:59.00,Leg,,0,0,0,,Ihr Teil ist ganz einfach
+Dialogue: 0,0:36:59.02,0:37:00.84,Leg,,0,0,0,,Nehmen Sie sich sieben Minuten
+Dialogue: 0,0:37:00.86,0:37:02.87,Leg,,0,0,0,,Suchen Sie einen ruhigen Ort
+Dialogue: 0,0:37:02.89,0:37:05.25,Leg,,0,0,0,,Vermeiden Sie Unterbrechungen und hören Sie
+Dialogue: 0,0:37:05.27,0:37:08.25,Leg,,0,0,0,,aufmerksam und mit Ehrfurcht zu
+Dialogue: 0,0:37:08.27,0:37:10.46,Leg,,0,0,0,,Sie müssen nicht jedes Wort kontrollieren
+Dialogue: 0,0:37:10.48,0:37:11.74,Leg,,0,0,0,,oder analysieren
+Dialogue: 0,0:37:11.76,0:37:14.47,Leg,,0,0,0,,Konzentrieren Sie sich auf Ihre Absicht
+Dialogue: 0,0:37:14.49,0:37:16.86,Leg,,0,0,0,,auf Ihre Verbindung mit Gott und auf die
+Dialogue: 0,0:37:16.88,0:37:18.75,Leg,,0,0,0,,Anweisungen, die Sie Schritt für Schritt
+Dialogue: 0,0:37:18.77,0:37:19.95,Leg,,0,0,0,,erhalten
+Dialogue: 0,0:37:19.97,0:37:21.53,Leg,,0,0,0,,Christian Krämer fragt
+Dialogue: 0,0:37:21.55,0:37:22.86,Leg,,0,0,0,,Ich bin bereit
+Dialogue: 0,0:37:22.88,0:37:24.09,Leg,,0,0,0,,Wie fange ich an?
+Dialogue: 0,0:37:24.11,0:37:25.57,Leg,,0,0,0,,Ganz einfach
+Dialogue: 0,0:37:25.59,0:37:27.51,Leg,,0,0,0,,Klicken Sie auf den Button unter diesem
+Dialogue: 0,0:37:27.53,0:37:28.05,Leg,,0,0,0,,Video
+Dialogue: 0,0:37:28.07,0:37:30.35,Leg,,0,0,0,,Sie gelangen auf eine sichere Seite
+Dialogue: 0,0:37:30.37,0:37:32.63,Leg,,0,0,0,,auf der Sie Ihren Zugang mit der einmaligen
+Dialogue: 0,0:37:32.65,0:37:35.97,Leg,,0,0,0,,Zahlung von 37 Euro bestätigen
+Dialogue: 0,0:37:36.00,0:37:37.89,Leg,,0,0,0,,Nach der Bestätigung erhalten Sie die
+Dialogue: 0,0:37:37.91,0:37:40.22,Leg,,0,0,0,,Anleitung per E-Mail, damit Sie sofort
+Dialogue: 0,0:37:40.24,0:37:42.26,Leg,,0,0,0,,einsteigen und beginnen können
+Dialogue: 0,0:37:42.28,0:37:43.90,Leg,,0,0,0,,Falls die Nachricht nicht in Ihrem
+Dialogue: 0,0:37:43.92,0:37:46.14,Leg,,0,0,0,,Posteingang erscheint, schauen Sie bitte
+Dialogue: 0,0:37:46.16,0:37:48.78,Leg,,0,0,0,,auch im Ordner Werbung oder im Spam-Ordner
+Dialogue: 0,0:37:48.80,0:37:49.93,Leg,,0,0,0,,nach
+Dialogue: 0,0:37:49.95,0:37:52.23,Leg,,0,0,0,,Sie müssen keine komplizierten Programme
+Dialogue: 0,0:37:52.25,0:37:54.43,Leg,,0,0,0,,installieren und sich nicht mit Technik
+Dialogue: 0,0:37:54.45,0:37:55.31,Leg,,0,0,0,,auskennen
+Dialogue: 0,0:37:55.33,0:37:56.63,Leg,,0,0,0,,Sie können mit Ihrem Handy
+Dialogue: 0,0:37:56.65,0:37:59.31,Leg,,0,0,0,,Computer oder Tablet darauf zugreifen
+Dialogue: 0,0:37:59.33,0:38:01.99,Leg,,0,0,0,,Der Button befindet sich direkt hier unten
+Dialogue: 0,0:38:02.01,0:38:03.97,Leg,,0,0,0,,Klicken Sie jetzt, bestätigen Sie Ihren
+Dialogue: 0,0:38:03.99,0:38:06.07,Leg,,0,0,0,,Zugang und beginnen Sie diesen Weg mit dem
+Dialogue: 0,0:38:06.09,0:38:08.20,Leg,,0,0,0,,heiligen Benediktusgebet
+Dialogue: 0,0:38:08.22,0:38:10.02,Leg,,0,0,0,,Gott beschütze Ihr Zuhause
+Dialogue: 0,0:38:10.04,0:38:13.14,Leg,,0,0,0,,stärke Ihre Familie, öffne Ihnen die Wege
+Dialogue: 0,0:38:13.16,0:38:15.60,Leg,,0,0,0,,und leite jede Ihrer Entscheidungen
+Dialogue: 0,0:38:15.62,0:38:17.83,Leg,,0,0,0,,Im Namen des Vaters und des Sohnes und des
+Dialogue: 0,0:38:17.85,0:38:19.14,Leg,,0,0,0,,Heiligen Geistes
+Dialogue: 0,0:38:19.16,0:38:19.90,Leg,,0,0,0,,Amen

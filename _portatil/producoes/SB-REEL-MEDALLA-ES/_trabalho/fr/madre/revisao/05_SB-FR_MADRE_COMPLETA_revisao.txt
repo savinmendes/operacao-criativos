@@ -1,0 +1,51 @@
+REVISÃO: 05_SB-FR_MADRE_COMPLETA.mp4
+duração 62.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 43.4 MB
+decodificação: OK
+pts do áudio: 2939 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\madre\revisao\05_SB-FR_MADRE_COMPLETA_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  5.00 J'ai prié par terre dans ma cuisine, avec les factures sur la table, et voilà ce qui s'est passé.
+   5.50-  8.50 Au glorieux Saint-Benoît, protège mes enfants.
+  11.50- 15.50 Je travaillais du matin au soir et les fins de moi ne passaient de quand même pas.
+  15.50- 18.50 Mon fils m'a demandé pourquoi j'étais toujours triste.
+  18.50- 20.50 J'avais l'impression de les décevoir.
+  20.50- 27.00 Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  27.00- 33.16 des millions de personnes portent cette médaille et personne ne leur a jamais expliqué ce que disent
+  33.16- 38.36 ces lettres. Ce n'est pas un manque de foi, c'est que personne ne leur a appris la bonne façon de
+  38.36- 44.68 la prier. Quand on l'a pris de la bonne façon, la maison s'apaise, la peur s'en va et on recommence
+  44.68- 49.76 à voir des issues là où l'on ne voyait que des portes fermées. C'est pour ça que j'ai
+  49.76- 56.56 laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24h
+  56.56- 62.40 sur 24. Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.00    Pruebo por tierra en mi cocina con las facturas en la tabla, y ahí es lo que pasó.
+   5.00-  9.00    ¡Los gloriosos de Saint Benoît, protegen mis hijos!
+  11.00- 15.00    Trabajé del mañana a la noche y los fines de mes no pasé.
+  15.00- 18.00    Mi hijo me preguntó por qué era siempre triste.
+  18.00- 20.00    Me pareció desesperada.
+  20.00- 27.00    Hasta el día en que un prieste explicó algo que nadie me había dicho sobre la medalla de Saint Benoît.
+  27.00- 30.00    de mil millones de personas portan esta medalla
+  30.00- 34.00    y personas no les habrán explicado lo que dicen las letras
+  34.00- 36.00    no es una manca de veces
+  36.00- 39.00    es que personas no les habrán aprendido la buena forma de prestarla
+  39.00- 41.00    cuando la prendemos de la buena forma
+  41.00- 43.00    la casa se apasiona
+  43.00- 44.00    la fe se va
+  44.00- 46.00    y comenzamos a ver issues
+  46.00- 49.00    ahí donde no se ven que las puertas son cerradas
+  49.00- 51.00    es por eso que dejé la explicación completa
+  51.00- 53.00    letra por letra
+  53.00- 57.56    en una transmisión en directo, abierto, 24 horas por 24.
+  57.56- 62.60    Apuí en saber más, justo debajo, y vienes a cantar con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

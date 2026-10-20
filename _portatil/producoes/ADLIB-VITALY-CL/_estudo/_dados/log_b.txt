@@ -1,0 +1,15 @@
+whisper ok 14
+whisper ok 19
+whisper ok 17
+whisper ok 12
+whisper ok 11
+folha ok 14
+folha ok 19
+folha ok 17
+folha ok 12
+folha ok 11
+ocr ok 14
+ocr ok 19
+ocr ok 17
+ocr ok 12
+ocr ok 11

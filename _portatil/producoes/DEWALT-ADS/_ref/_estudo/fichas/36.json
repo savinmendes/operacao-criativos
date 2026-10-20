@@ -1,0 +1,58 @@
+{
+ "idioma": "pt-BR (whisper 1.0)",
+ "origem": {
+  "perfil": "@isbo.ferramentas (TikTok)",
+  "tipo": "loja de ferramentas"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 30.5,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano contínuo com movimento de mão (scene detect sem cortes), sensação dinâmica"
+ },
+ "formato": "demo de mesa com mãos de luva + narração e legenda destacada",
+ "gancho": {
+  "visual": "furadeira de impacto DeWalt com caixa ao fundo, mãos de luva",
+  "fala": "'Olha isso aqui! Se você ainda sofre com furadeira fraca, a DeWalt 710W vai mudar seu jogo.'",
+  "texto_tela": "legenda com palavra-destaque laranja"
+ },
+ "corpo": [
+  {
+   "t": "0-6",
+   "bloco": "gancho dor: furadeira fraca"
+  },
+  {
+   "t": "6-14",
+   "bloco": "fura concreto, madeira e metal com facilidade absurda, sem travar e sem trepidação chata"
+  },
+  {
+   "t": "14-22",
+   "bloco": "leve, precisa e entrega potência de verdade no dia a dia; ferramenta assim não é luxo, é produtividade"
+  },
+  {
+   "t": "22-30",
+   "bloco": "se você quer trabalhar mais rápido, com menos esforço e resultado profissional, essa é a escolha certa. Garanta já a sua!"
+  }
+ ],
+ "cta": "'Garanta já a sua!'",
+ "texto_tela": "legenda queimada com palavra-chave em laranja; logo ISBO",
+ "produto": {
+  "modelo": "furadeira de impacto com fio DeWalt 710W (caixa não legível; provável DWD502)",
+  "nosso_produto": false
+ },
+ "rosto": {
+  "sim": false,
+  "tempo": "0"
+ },
+ "marca_dagua": "ISBO ferramentas (centro-baixo)",
+ "audio": "narração + legenda (confirmado pela transcrição)",
+ "uso": "traduzir/adaptar",
+ "uso_motivo": "roteiro curto dor -> 3 materiais -> benefícios -> CTA adaptável ao DCD7771 em espanhol chileno (trocar '710W com fio' por '20V sem fio brushless'); takes não servem (produto com fio)",
+ "nota": 3,
+ "nota_just": "estrutura de roteiro enxuta, sem rosto; precisa de takes do nosso produto.",
+ "ad": "36",
+ "fala_resumo": "roteiro completo confirmado = legenda queimada",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\36.json",
+ "n_segmentos_fala": 5
+}

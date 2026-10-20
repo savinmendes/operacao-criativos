@@ -1,0 +1,53 @@
+{
+ "var": "01",
+ "gancho": "G1",
+ "corpo": "20",
+ "genero": "M",
+ "texto": "Vi a mi esposa mirar a mi mejor amigo como antes me miraba a mí. Como si yo no estuviera en la sala. Esto fue lo que pasó.",
+ "Hd": 6.733333333333333,
+ "fala_s": 6.32,
+ "tomadas": [
+  {
+   "src": "20",
+   "ini": 0.158,
+   "dur": 1.3666666666666667
+  },
+  {
+   "src": "20",
+   "ini": 72.142,
+   "dur": 1.3333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 98.342,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 101.391,
+   "dur": 1.1333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 69.425,
+   "dur": 1.6666666666666667
+  }
+ ],
+ "corte": 10.933,
+ "frases": [
+  [
+   "Vi a mi esposa mirar a mi mejor amigo como antes me miraba a mí.",
+   0.035
+  ],
+  [
+   "Como si yo no estuviera en la sala.",
+   3.413
+  ],
+  [
+   "Esto fue lo que pasó.",
+   5.108
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 01 - G1-ESPOSA-AMIGO x AD20.mp4",
+ "seed": 10
+}

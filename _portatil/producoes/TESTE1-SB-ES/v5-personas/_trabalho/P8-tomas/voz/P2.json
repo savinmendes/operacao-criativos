@@ -1,0 +1,140 @@
+{
+"texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…",
+"voz": "sJYGLUA6m2su09XOMEb8",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.12,
+"dur": 7.994,
+"palavras": [
+{
+"w": "Es",
+"ini": 0.035,
+"fim": 0.151
+},
+{
+"w": "que,",
+"ini": 0.197,
+"fim": 0.511
+},
+{
+"w": "igual",
+"ini": 0.731,
+"fim": 0.975
+},
+{
+"w": "que",
+"ini": 1.045,
+"fim": 1.138
+},
+{
+"w": "yo,",
+"ini": 1.184,
+"fim": 1.579
+},
+{
+"w": "lo",
+"ini": 1.765,
+"fim": 1.846
+},
+{
+"w": "estabas",
+"ini": 1.869,
+"fim": 2.171
+},
+{
+"w": "pidiendo",
+"ini": 2.229,
+"fim": 2.577
+},
+{
+"w": "de",
+"ini": 2.612,
+"fim": 2.659
+},
+{
+"w": "la",
+"ini": 2.705,
+"fim": 2.775
+},
+{
+"w": "forma",
+"ini": 2.821,
+"fim": 3.042
+},
+{
+"w": "equivocada.",
+"ini": 3.065,
+"fim": 3.82
+},
+{
+"w": "El",
+"ini": 4.07,
+"fim": 4.198
+},
+{
+"w": "padre",
+"ini": 4.267,
+"fim": 4.558
+},
+{
+"w": "Juan",
+"ini": 4.604,
+"fim": 4.778
+},
+{
+"w": "Méndez",
+"ini": 4.825,
+"fim": 5.15
+},
+{
+"w": "me",
+"ini": 5.254,
+"fim": 5.324
+},
+{
+"w": "enseñó",
+"ini": 5.347,
+"fim": 5.637
+},
+{
+"w": "la",
+"ini": 5.684,
+"fim": 5.753
+},
+{
+"w": "forma",
+"ini": 5.811,
+"fim": 6.032
+},
+{
+"w": "correcta",
+"ini": 6.078,
+"fim": 6.508
+},
+{
+"w": "de",
+"ini": 6.531,
+"fim": 6.578
+},
+{
+"w": "pedirle",
+"ini": 6.624,
+"fim": 6.949
+},
+{
+"w": "a",
+"ini": 6.984,
+"fim": 7.007
+},
+{
+"w": "San",
+"ini": 7.054,
+"fim": 7.193
+},
+{
+"w": "Benito...",
+"ini": 7.239,
+"fim": 7.82
+}
+]
+}

@@ -1,0 +1,94 @@
+{
+ "video": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\originais\\11.mp4",
+ "fundo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\_sep_0711\\htdemucs\\o11\\no_vocals.wav",
+ "narr": "narr.mp3",
+ "segs": [
+  [
+   0.13,
+   35.5
+  ]
+ ],
+ "faixa": [
+  1052,
+  1206,
+  16
+ ],
+ "ops": [
+  {
+   "tipo": "blur",
+   "de": 8.95,
+   "ate": 11.48,
+   "keys": [
+    [
+     0,
+     535,
+     808,
+     720,
+     850
+    ]
+   ],
+   "forca": 25
+  },
+  {
+   "tipo": "blur",
+   "de": 15.58,
+   "ate": 18.32,
+   "keys": [
+    [
+     0,
+     535,
+     808,
+     720,
+     850
+    ]
+   ],
+   "forca": 25
+  },
+  {
+   "tipo": "preto",
+   "de": 8.95,
+   "ate": 11.48,
+   "keys": [
+    [
+     0,
+     8,
+     1020,
+     60,
+     1190
+    ]
+   ]
+  },
+  {
+   "tipo": "preto",
+   "de": 15.58,
+   "ate": 18.32,
+   "keys": [
+    [
+     0,
+     8,
+     1020,
+     60,
+     1190
+    ]
+   ]
+  }
+ ],
+ "trocas": [
+  [
+   "Uáis",
+   "Wyze"
+  ],
+  [
+   "trescientos sesenta",
+   "360"
+  ],
+  [
+   "dos K",
+   "2K"
+  ]
+ ],
+ "pausa_max": 0.7,
+ "pausa_manter": 0.6,
+ "narr_inicio": 0.3,
+ "cauda": 0.7
+}

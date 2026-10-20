@@ -1,0 +1,8 @@
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\curto\parte2.mp4 22.80s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 CURTO - LYMPHORIA-VECINO-ES-LATAM.mp4
+duração : 71.69s | 720x1280 | áudio: sim | 24.4 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 CURTO - LYMPHORIA-VECINO-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 68.51s
+montagem rápida: 8s para 72s de vídeo (0.11x)

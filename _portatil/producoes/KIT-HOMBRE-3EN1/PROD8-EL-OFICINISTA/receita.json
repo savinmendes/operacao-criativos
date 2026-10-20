@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD8-EL-OFICINISTA/PERFUMES-CL_P8_EL-OFICINISTA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD8-EL-OFICINISTA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD8-EL-OFICINISTA/audio/trilha.mp3",
+  "legenda": {"y": 1360, "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD8-EL-OFICINISTA/corpo.alinhamento.json", "chaves": ["perfume", "increíble", "contabilidad", "popular", "árabes", "uno", "Armaf", "lado", "Asad", "segunda", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "EL DE CONTABILIDAD 🤓", "y": 290, "ate": 4.4},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

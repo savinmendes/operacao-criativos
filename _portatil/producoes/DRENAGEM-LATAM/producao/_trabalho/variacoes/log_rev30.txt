@@ -1,0 +1,41 @@
+--- [1/10]
+[21] OK | 720x1280 310.17s 38.9MB | cobertura 1.0
+   gancho: Vi a mi esposo mirar a mi mejor amiga como antes me miraba a mí Como si yo no estuviera en la sala, esto fue lo que pasó
+   emenda: en la sala, esto fue lo que pasó Llegué a casa, me miré en el espejo y por fin entendí Porque durante nuestro complicado
+--- [2/10]
+[22] OK | 720x1280 312.8s 39.2MB | cobertura 0.96
+   gancho: Vi a la mujer por la que mi esposo me dejó, tenía 28 años. Casi me pongo a llorar ahí mismo frente a ella, así empezó todo.
+   emenda: ella, así empezó todo. Llegué a casa, me miré en el espejo y por fin entendí porque durante nuestro complicado
+--- [3/10]
+[23] OK | 720x1280 311.13s 39.0MB | cobertura 0.96
+   gancho: Mi exesposo estaba detrás de mí en la fila, con su novia del brazo. 10 minutos ahí y nunca me reconoció. Esto fue lo que pasó.
+   emenda: reconoció. Esto fue lo que pasó. Llegué a casa, me miré en el espejo y por fin entendí por qué durante nuestro complicado
+--- [4/10]
+[24] PROBLEMAS | 720x1280 309.37s 38.8MB | cobertura 1.0
+   gancho: Durante años pensé que era peso de la menopausia, me equivoqué, no era peso, era lodo, te cuento como lo descubrí Llegué
+   emenda: era lodo, te cuento como lo descubrí Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado
+   !! palavra atravessa a emenda: 'Llegué' 6.6-7.8
+--- [5/10]
+[25] OK | 720x1280 311.13s 39.0MB | cobertura 1.0
+   gancho: Tres semanas lo dejé en el carrito. Siempre decía, mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.
+   emenda: Esta es mi historia. Llegué a casa, me miré en el espejo y por fin entendí porque durante nuestro complicado
+--- [6/10]
+[26] OK | 720x1280 309.03s 38.8MB | cobertura 1.0
+   gancho: Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más. Llegué
+   emenda: de lo que me pasó. Ya no me lo guardo más. Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado
+--- [7/10]
+[27] OK | 720x1280 310.63s 39.0MB | cobertura 1.0
+   gancho: Cuidado con las copias. Hay frascos que se ven idénticos, pero por dentro son otra cosa. Antes de comprar, escucha mi historia.
+   emenda: Antes de comprar, escucha mi historia.
+--- [8/10]
+[28] OK | 720x1280 310.9s 39.0MB | cobertura 1.0
+   gancho: ¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida, muchas veces el cuerpo dejó de drenar, yo lo entendí tarde
+   emenda: dejó de drenar, yo lo entendí tarde Llegué a casa, me miré en el espejo y por fin entendí Porque durante nuestro complicado
+--- [9/10]
+[29] OK | 720x1280 309.17s 38.8MB | cobertura 1.0
+   gancho: ¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya probaste de todo. Escucha esta historia.
+   emenda: ya probaste de todo. Escucha esta historia.
+--- [10/10]
+[30] OK | 720x1280 309.03s 38.8MB | cobertura 0.87
+   gancho: Esa pancita no es grasa, es líquido, atrapado y sedrena, yo tarde años en entenderlo
+   emenda: yo tarde años en entenderlo Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado

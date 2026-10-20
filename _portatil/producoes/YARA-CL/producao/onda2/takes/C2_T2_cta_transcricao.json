@@ -1,0 +1,97 @@
+{
+ "texto": "¿Para qué elegir? Por Black Friday pagas dos y te llevas los tres. Y pagas cuando te llega.",
+ "esperado": "¿Para qué elegir? Por Black Friday pagas dos y te llevas los tres. Y pagas cuando te llega.",
+ "faltam": [],
+ "palavras": [
+  {
+   "p": "¿Para",
+   "ini": 0.02,
+   "fim": 0.68
+  },
+  {
+   "p": "qué",
+   "ini": 0.68,
+   "fim": 0.92
+  },
+  {
+   "p": "elegir?",
+   "ini": 0.92,
+   "fim": 1.6
+  },
+  {
+   "p": "Por",
+   "ini": 2.1,
+   "fim": 2.32
+  },
+  {
+   "p": "Black",
+   "ini": 2.32,
+   "fim": 2.7
+  },
+  {
+   "p": "Friday",
+   "ini": 2.7,
+   "fim": 3.22
+  },
+  {
+   "p": "pagas",
+   "ini": 3.22,
+   "fim": 3.88
+  },
+  {
+   "p": "dos",
+   "ini": 3.88,
+   "fim": 4.34
+  },
+  {
+   "p": "y",
+   "ini": 4.34,
+   "fim": 4.7
+  },
+  {
+   "p": "te",
+   "ini": 4.7,
+   "fim": 4.96
+  },
+  {
+   "p": "llevas",
+   "ini": 4.96,
+   "fim": 5.7
+  },
+  {
+   "p": "los",
+   "ini": 5.7,
+   "fim": 6.18
+  },
+  {
+   "p": "tres.",
+   "ini": 6.18,
+   "fim": 6.66
+  },
+  {
+   "p": "Y",
+   "ini": 7.32,
+   "fim": 7.6
+  },
+  {
+   "p": "pagas",
+   "ini": 7.6,
+   "fim": 8.16
+  },
+  {
+   "p": "cuando",
+   "ini": 8.16,
+   "fim": 8.44
+  },
+  {
+   "p": "te",
+   "ini": 8.44,
+   "fim": 8.76
+  },
+  {
+   "p": "llega.",
+   "ini": 8.76,
+   "fim": 8.94
+  }
+ ]
+}

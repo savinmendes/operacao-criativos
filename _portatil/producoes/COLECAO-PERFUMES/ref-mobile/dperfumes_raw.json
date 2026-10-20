@@ -1,0 +1,493 @@
+{
+ "url": "https://dperfumes.cl/?s=arabe&post_type=product",
+ "title": "arabe - Dperfumes.cl",
+ "cardsFound": 20,
+ "firstCardRect": {
+  "x": 15,
+  "y": 375,
+  "w": 175,
+  "h": 373
+ },
+ "firstImgRect": {
+  "x": 15,
+  "y": 375,
+  "w": 175,
+  "h": 175
+ },
+ "columns": 2,
+ "cardRects": [
+  {
+   "x": 15,
+   "y": 375,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 200,
+   "y": 375,
+   "w": 175,
+   "h": 392
+  },
+  {
+   "x": 15,
+   "y": 806,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 200,
+   "y": 806,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 15,
+   "y": 1219,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 200,
+   "y": 1219,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 15,
+   "y": 1632,
+   "w": 175,
+   "h": 373
+  },
+  {
+   "x": 200,
+   "y": 1632,
+   "w": 175,
+   "h": 373
+  }
+ ],
+ "colGap": 10,
+ "rowGap": 58,
+ "sidePaddingLeft": 15,
+ "sidePaddingRight": 15,
+ "cardTexts": [
+  {
+   "tag": "SPAN",
+   "text": "-",
+   "fs": "11px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "13.2px",
+   "clamp": "none",
+   "h": 13,
+   "w": 7,
+   "relY": 4
+  },
+  {
+   "tag": "SPAN",
+   "text": "10",
+   "fs": "11px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "13.2px",
+   "clamp": "none",
+   "h": 13,
+   "w": 12,
+   "relY": 4
+  },
+  {
+   "tag": "SPAN",
+   "text": "%",
+   "fs": "11px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "13.2px",
+   "clamp": "none",
+   "h": 13,
+   "w": 9,
+   "relY": 4
+  },
+  {
+   "tag": "SPAN",
+   "text": "Cyber Week",
+   "fs": "11px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "13.2px",
+   "clamp": "none",
+   "h": 13,
+   "w": 75,
+   "relY": 4
+  },
+  {
+   "tag": "SPAN",
+   "text": "Envío gratis",
+   "fs": "11px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "13.2px",
+   "clamp": "none",
+   "h": 13,
+   "w": 70,
+   "relY": 30
+  },
+  {
+   "tag": "SPAN",
+   "text": "Añadir al carrito",
+   "fs": "13px",
+   "fw": "600",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "center",
+   "lh": "38px",
+   "clamp": "none",
+   "h": 38,
+   "w": 131,
+   "relY": 175
+  },
+  {
+   "tag": "A",
+   "text": "Montale",
+   "fs": "12.825px",
+   "fw": "400",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(165, 165, 165)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "17.955px",
+   "clamp": "none",
+   "h": 17,
+   "w": 52,
+   "relY": 220
+  },
+  {
+   "tag": "A",
+   "text": "Arabians Tonka Eau de Parfum 100 ml",
+   "fs": "13.5px",
+   "fw": "500",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "18.9px",
+   "clamp": "none",
+   "h": 38,
+   "w": 156,
+   "relY": 242
+  },
+  {
+   "tag": "SPAN",
+   "text": "Dulce",
+   "fs": "10px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(131, 31, 56)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "12px",
+   "clamp": "none",
+   "h": 12,
+   "w": 31,
+   "relY": 357
+  },
+  {
+   "tag": "SPAN",
+   "text": "Oriental",
+   "fs": "10px",
+   "fw": "500",
+   "ff": "Poppins, sans-serif",
+   "color": "rgb(114, 36, 62)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "12px",
+   "clamp": "none",
+   "h": 12,
+   "w": 44,
+   "relY": 357
+  },
+  {
+   "tag": "BDI",
+   "text": "184.000",
+   "fs": "12.15px",
+   "fw": "400",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(187, 187, 187)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "17.01px",
+   "clamp": "none",
+   "h": 17,
+   "w": 52,
+   "relY": 286
+  },
+  {
+   "tag": "SPAN",
+   "text": "$",
+   "fs": "12.15px",
+   "fw": "400",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(187, 187, 187)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "17.01px",
+   "clamp": "none",
+   "h": 17,
+   "w": 8,
+   "relY": 286
+  },
+  {
+   "tag": "BDI",
+   "text": "165.600",
+   "fs": "13.5px",
+   "fw": "700",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(175, 50, 175)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "18.9px",
+   "clamp": "none",
+   "h": 19,
+   "w": 61,
+   "relY": 285
+  },
+  {
+   "tag": "SPAN",
+   "text": "$",
+   "fs": "13.5px",
+   "fw": "700",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(175, 50, 175)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "18.9px",
+   "clamp": "none",
+   "h": 19,
+   "w": 9,
+   "relY": 285
+  },
+  {
+   "tag": "DIV",
+   "text": "6 cuotas sin interés de",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(85, 85, 85)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "15.6px",
+   "clamp": "none",
+   "h": 31,
+   "w": 175,
+   "relY": 312
+  },
+  {
+   "tag": "SPAN",
+   "text": "27.600",
+   "fs": "12px",
+   "fw": "600",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(175, 50, 175)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "15.6px",
+   "clamp": "none",
+   "h": 17,
+   "w": 48,
+   "relY": 326
+  },
+  {
+   "tag": "SPAN",
+   "text": "$",
+   "fs": "12px",
+   "fw": "600",
+   "ff": "Poppins, Arial, Helvetica, sans-serif",
+   "color": "rgb(175, 50, 175)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "15.6px",
+   "clamp": "none",
+   "h": 17,
+   "w": 8,
+   "relY": 326
+  }
+ ],
+ "cardButtons": [
+  {
+   "text": "Añadir al carrito",
+   "x": 15,
+   "y": 550,
+   "w": 175,
+   "h": 38,
+   "relY": 175,
+   "fs": "13px",
+   "fw": "600",
+   "bg": "rgb(175, 50, 175)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "35px",
+   "border": "0px solid rgb(233, 233, 233)"
+  }
+ ],
+ "ratingPresent": false,
+ "h1": {
+  "text": "Resultados de búsqueda: “arabe”",
+  "ff": "Poppins, Arial, Helvetica, sans-serif",
+  "fs": "18px",
+  "fw": "600",
+  "tt": "none",
+  "x": 41,
+  "y": 155,
+  "w": 309,
+  "h": 22
+ },
+ "bodyFont": "Poppins, Arial, Helvetica, sans-serif",
+ "bodyFs": "15px",
+ "h2Font": "Poppins, Arial, Helvetica, sans-serif",
+ "header": {
+  "x": 0,
+  "y": 0,
+  "w": 390,
+  "h": 140,
+  "position": "static"
+ },
+ "chipRows": [],
+ "filterControls": [
+  {
+   "text": "Filtrar",
+   "tag": "BUTTON",
+   "x": -270,
+   "y": 374,
+   "w": 64,
+   "h": 36,
+   "fs": "12px"
+  }
+ ],
+ "productCount": [
+  {
+   "text": "0 items",
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "fs": "0px"
+  },
+  {
+   "text": "0 items",
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "fs": "11px"
+  }
+ ],
+ "longTexts": [
+  {
+   "len": 2423,
+   "x": 0,
+   "y": 0,
+   "w": 390,
+   "h": 40,
+   "start": "Compra online y retira gratis en nuestra tienda física. 🛍️\nEnvío gratis y rápido a todo C",
+   "hidden": false
+  },
+  {
+   "len": 2423,
+   "x": 0,
+   "y": 0,
+   "w": 390,
+   "h": 40,
+   "start": "Compra online y retira gratis en nuestra tienda física. 🛍️\nEnvío gratis y rápido a todo C",
+   "hidden": false
+  },
+  {
+   "len": 2423,
+   "x": 15,
+   "y": 0,
+   "w": 360,
+   "h": 40,
+   "start": "Compra online y retira gratis en nuestra tienda física. 🛍️\nEnvío gratis y rápido a todo C",
+   "hidden": false
+  },
+  {
+   "len": 2681,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "\n\t\t\n\t\t\n\t\n\t\t\n\t\t\t\t\t\t\tCompra online y retira gratis en nuestra tienda física. 🛍️\n\t\t\t\t\t\t\tEnví",
+   "hidden": true
+  }
+ ],
+ "docHeight": 7010,
+ "stickyAtTop": [
+  {
+   "tag": "DIV",
+   "cls": "wd-toolbar wd-toolbar-label-show",
+   "pos": "fixed",
+   "top": 789,
+   "h": 55,
+   "text": "Tienda 0 Favoritos 0 Carrito Mi cuenta"
+  }
+ ],
+ "stickyAfterScroll1500": [
+  {
+   "tag": "DIV",
+   "cls": "wd-toolbar wd-toolbar-label-show",
+   "pos": "fixed",
+   "top": 789,
+   "h": 55,
+   "text": "Tienda 0 Favoritos 0 Carrito Mi cuenta"
+  }
+ ],
+ "site": "dperfumes",
+ "headless": true,
+ "viewport": "390x844 @2x"
+}

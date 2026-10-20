@@ -1,0 +1,86 @@
+[
+ {
+  "texto": "Floors, counters, windows",
+  "ini": 0.0,
+  "fim": 4.0,
+  "caixa": [
+   114,
+   236,
+   580,
+   283
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "carpets,clothes",
+  "ini": 0.0,
+  "fim": 5.0,
+  "caixa": [
+   213,
+   280,
+   505,
+   320
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "clean them all with",
+  "ini": 0.0,
+  "fim": 5.0,
+  "caixa": [
+   202,
+   321,
+   545,
+   359
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ONE steamer!",
+  "ini": 0.0,
+  "fim": 5.0,
+  "caixa": [
+   224,
+   361,
+   484,
+   400
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Floors,counfers,windows,",
+  "ini": 4.0,
+  "fim": 5.0,
+  "caixa": [
+   109,
+   239,
+   588,
+   280
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H2O X5",
+  "ini": 5.0,
+  "fim": 10.0,
+  "caixa": [
+   249,
+   281,
+   463,
+   328
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Steam Cleaner",
+  "ini": 5.0,
+  "fim": 10.0,
+  "caixa": [
+   188,
+   339,
+   551,
+   386
+  ],
+  "marca_ou_alerta": false
+ }
+]

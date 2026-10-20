@@ -1,0 +1,8 @@
+=== ad10 INICIO 03:58
+=== ad10 FIM 0 04:10
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 13049, "psnr_min": 27.86, "psnr_medio": 38.71, "px40_max": 13713, "px40_medio": 168.27, "quadro_px40_max": 9476, "t_px40_max": 315.87}, "parte1_fora_dos_takes": {"quadros": 12363, "px40_max": 57, "t_px40_max": 284.77, "quadros_com_px40>50": 5}, "parte1_dentro_dos_takes": {"quadros": 116, "px40_medio": 539.2}}
+{"quadros": 116, "psnr_medio": 34.75, "px40_medio": 783.8, "px40_max": 1413}
+=== ad14 INICIO 04:10
+=== ad14 FIM 0 04:22
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 13072, "psnr_min": 30.06, "psnr_medio": 37.92, "px40_max": 6641, "px40_medio": 189.0, "quadro_px40_max": 13074, "t_px40_max": 435.8}, "parte1_fora_dos_takes": {"quadros": 12355, "px40_max": 41, "t_px40_max": 244.27, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 396, "px40_medio": 823.7}}
+{"quadros": 407, "psnr_medio": 34.79, "px40_medio": 1102.1, "px40_max": 2805}

@@ -1,0 +1,5 @@
+AD 15: final - original | boca Y U V | face Y U V | degrau boca-face Y V
+s1        boca  -0.4  +0.4  -0.4 | face  +0.1  -0.0  +0.1 | degrau Y  -0.5 V  -0.5
+s2        boca  -0.7  +0.6  -0.7 | face  +0.0  +0.1  +0.0 | degrau Y  -0.7 V  -0.7
+s3        boca  +0.6  +0.6  -0.3 | face  -0.0  +0.1  -0.1 | degrau Y  +0.6 V  -0.2
+TODOS     boca  -0.3  +0.5  -0.6 | face  +0.0  +0.1  +0.0 | degrau Y  -0.3 V  -0.7

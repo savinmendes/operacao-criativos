@@ -1,0 +1,19 @@
+Ranking 03 → SB ES «Despedida cámara» (20/10/2026)
+Entrega: ..\ENTREGA\SB-ES_RANKING03_DESPEDIDA-CAMARA.mp4 (103,9 s, 720x1280, 30 fps, ~28 MB, cor bt601/tv fixa smpte170m) + SB-ES_RANKING03_DESPEDIDA-CAMARA_texto-anuncio.txt
+Remontar sem pagar: python voz.py -> python montar.py -> sh encode_final.sh -> revisar_ad.py (rev\, proibidos em rev\proibidos.txt) + python rev_ocr.py <mp4>
+Vozes (tts.py, rodar com cwd = kit-edicao-criativos, eleven_multilingual_v2): mulher = Gabriela hHjbwzYZW17oh0p05AKv (voz NOVA, diferente da Carolina do R02;
+  já estava na conta, sem clonar), Juan = clone BskzYZ6zvapoZ3mBu93C. Registradas em SB-ES_PADRE-CAPTURADO\_vozes.json.
+Imagens (gpt-image-2.5-sunburst 9:16, flow ElevenLabs B550QvJus3mKb7zBdDbo): avatar\jm_a.png (Juan no cenário do padre original, cena limpa com LaMa
+  em avatar\cena_padre_limpa.png), mulher\m_a.png (selfie chorando), mulher\m_b.png (sorrindo, boca fechada), mulher\c169.png -> c_a.png (chroma verde).
+  ATENÇÃO: o nó de imagem do flow nasce em 16:9; passar aspect_ratio 9:16 (creative_update_node) ANTES de rodar.
+HeyGen Avatar IV 720p medium (IDs em heygen_jobs.txt): C (chroma, W1), M1 (W3), M2 (W4-W5), A (J06-J10), B (J11-J15).
+Gancho: a mulher do chroma original tinha legenda PT em cima da cabeça -> apagada com LaMa (hook_lama.py, rembg + LaMa, 0-2,45 s) e trocada pela
+  mulher nova (C.mp4, chave de verde, escala 0,66, encostada na borda de baixo, na frente do rodapé como no original). Câmera de segurança original
+  0-2,3 s + 3,0-5,5 / 5,9-7,9 / 9,6-11,4 sob a V.O. W2. Faixa ES + rodapé NV / NOTIVISIÓN (logo inventado) opacos: gerar_ov.py -> ov\.
+Selfie M1: o Avatar IV sorriu com dentes na 1ª metade da fala triste (retrato base estava triste) -> coberto por b-roll (rezando + mar);
+  o rosto só aparece no «llorando». M2: celular acendendo (banco SB sagrado_35) cobre «me llamaron con una oferta de trabajo…».
+B-rolls: originais (broll\<nome>; sem pessoa: legenda PT tirada com LaMa via lama_seg.py + broll\lama*.json; com pessoa: caixa opaca 70-650 x 686-800
+  com a legenda nova, que nunca fica vazia). Carro do original (logo na calota) trocado por alivio_11 (deudas pagadas) + alivio_25 (puertas abiertas).
+  ATENÇÃO: a folha de contato com -ss antes do -i e fps=2 derivou ~7 s depois de 1:30; tempos conferidos com seek na saída (ref\scan*.jpg).
+Áudio: selfie com de-esser + shelf -4 dB > 6,5 kHz (mulher\M*_de.wav). Trilha tensão (0 → «¡Alto!») -> esperança (até o fim), -32 LUFS.
+Falso alarme do revisar_ad: «quadro solto 51,63/51,80» = glitch intencional do «¡Alto!».

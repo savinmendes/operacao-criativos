@@ -1,0 +1,50 @@
+{
+ "padre": {
+  "voice_id": "gP52hjM48hyNoVCbizxO",
+  "nome": "Alexandre - Calm, Warm & Authentic"
+ },
+ "medalla": {
+  "voice_id": "b0Ev8lcOOXx2o9ZcF46H",
+  "nome": "Martin - Deep and Conversational"
+ },
+ "app": {
+  "voice_id": "X91kq0xypSEbSMQwWKmf",
+  "nome": "Aurel - Super Realistic & Client Support"
+ },
+ "costurera": {
+  "voice_id": "NEjemlRxgWmL5ZGJetsB",
+  "nome": "Claire - Conversationnel"
+ },
+ "pareja": {
+  "voice_id": "QGfpyFuk3rtPv4pRSQwp",
+  "nome": "Sara - Warm, Professional; Emotional (fr-parisian)"
+ },
+ "pension": {
+  "voice_id": "a2NqrzzRklNWkb04aqW1",
+  "nome": "Hélène – Warm French Documentary Voice (fr-standard)"
+ },
+ "abuela": {
+  "voice_id": "EMuO6fFLrXKOryHzij6K",
+  "nome": "Grandma Clo - Warm Storyteller (fr-standard, old)"
+ },
+ "madre": {
+  "voice_id": "rS7c1woNY04WT3UAS83Y",
+  "nome": "Nathalie - Calm French Storyteller (fr-standard)"
+ },
+ "campesino": {
+  "voice_id": "59dhv4BKONM60oDSKECM",
+  "nome": "HenryD - old French guy (fr-standard)"
+ },
+ "desempleado": {
+  "voice_id": "3HZyQcLKlT0a3RDeXVsP",
+  "nome": "Guillaume - Documentary and Storytelling (fr-standard, grave)"
+ },
+ "uci": {
+  "voice_id": "3fxbs2pB9bs8S6Z1N38A",
+  "nome": "Céline - Chaleureuse et immersive (fr-standard)"
+ },
+ "feria": {
+  "voice_id": "vq479zipNPD44hpCdbIh",
+  "nome": "Atma - Warm, Expressive & Versatile (fr-parisian)"
+ }
+}

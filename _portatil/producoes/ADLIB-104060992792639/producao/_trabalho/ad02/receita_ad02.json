@@ -1,0 +1,10 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/ADLIB-104060992792639/producao/AD 02 - ORACION-TRES-BENDICIONES-SHOPPING-ES-LATAM.mp4",
+  "estilo": "drop",
+  "corpo": "corpo_ad02.mp4",
+  "legenda": {"fonte": "alinhamento:narracao_es.alinhamento.json", "y": 1358},
+  "faixa_sb": false,
+  "cta": {"inicio": 106.44},
+  "resolucao": "720",
+  "limite_mb": 30
+}

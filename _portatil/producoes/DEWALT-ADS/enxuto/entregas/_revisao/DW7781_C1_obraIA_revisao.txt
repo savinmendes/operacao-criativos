@@ -1,0 +1,26 @@
+REVISÃO: DW7781_C1_obraIA.mp4
+duração 45.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 18.3 MB
+decodificação: OK
+pts do áudio: 2120 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: 40.83/40.97
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao\DW7781_C1_obraIA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  9.44 Maestro, con dos baterías la pega no separa, pones el anillo en modo percutor y la broca
+   9.44- 17.24 entra en el muro sin pelear, en madera pasa limpiecita y para atornillar quince posiciones
+  17.24- 25.24 de torque aprietas justo sin pasarte, el secreto, motor sin carbones, de what dice que es 17%
+  25.24- 29.74 más eficiente que un motor con carbones, dos velocidades, fuerza en la primera
+  29.74- 33.58 rapidez en la segunda y trae dos baterías con indicador de carga, mientras una
+  33.58- 39.34 trabaja la otra se carga, compacto y liviano para trabajar todo el día, aprovecha
+  39.34- 45.82 el pre black friday, pídeelo hoy y pagas recién cuando te llegue, envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 40.83s e 40.97s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

@@ -1,0 +1,19 @@
+REVISÃO: V30 - LYMPHORIA-ANTES-AHORA.mp4
+duração 20.30s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 10.7 MB
+decodificação: OK
+pts do áudio: 951 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 19.56-20.30
+cortes de cena: 2 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1005-1162, x 157-563 | no último quadro: sim | faixa escura do rodapé: 1217-1279
+folha de contato (1 q/0.5s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V30\rev\V30 - LYMPHORIA-ANTES-AHORA_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00- 15.32 Se llama Linforia, compre uno y reciba dos, con envío gratis, y pagas al recibir en tu casa,
+  15.32- 19.40 y tienes 90 días de garantía, toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

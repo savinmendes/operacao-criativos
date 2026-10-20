@@ -1,0 +1,29 @@
+{
+ "arquivo": "VAR 24 - G4-NO-ES-PESO-ES-LODO x AD30.mp4",
+ "problemas": [
+  "palavra atravessa a emenda: 'Llegué' 6.6-7.8"
+ ],
+ "res": "720x1280",
+ "dur": 309.37,
+ "mb": 38.8,
+ "whisper_gancho": "Durante años pensé que era peso de la menopausia, me equivoqué, no era peso, era lodo, te cuento como lo descubrí Llegué",
+ "whisper_emenda": "era lodo, te cuento como lo descubrí Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.5,
+  3.033333,
+  4.866667,
+  6.4,
+  7.2,
+  9.566667
+ ],
+ "cortes_plan": [
+  1.5,
+  3.033,
+  4.867,
+  6.4,
+  7.2
+ ],
+ "silencios": [],
+ "ok": false
+}

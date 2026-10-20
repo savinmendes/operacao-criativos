@@ -1,0 +1,73 @@
+{
+"arquivo": "vo_V01.wav",
+"whisper": "No quieren que tengas acceso a esto porque es una oración muy poderosa.",
+"palavras": [
+{
+"w": "No",
+"ini": 0.0,
+"fim": 0.32
+},
+{
+"w": "quieren",
+"ini": 0.32,
+"fim": 0.6
+},
+{
+"w": "que",
+"ini": 0.6,
+"fim": 0.78
+},
+{
+"w": "tengas",
+"ini": 0.78,
+"fim": 1.1
+},
+{
+"w": "acceso",
+"ini": 1.1,
+"fim": 1.4
+},
+{
+"w": "a",
+"ini": 1.4,
+"fim": 1.62
+},
+{
+"w": "esto",
+"ini": 1.62,
+"fim": 1.96
+},
+{
+"w": "porque",
+"ini": 1.96,
+"fim": 2.4
+},
+{
+"w": "es",
+"ini": 2.4,
+"fim": 2.6
+},
+{
+"w": "una",
+"ini": 2.6,
+"fim": 2.7
+},
+{
+"w": "oración",
+"ini": 2.7,
+"fim": 3.12
+},
+{
+"w": "muy",
+"ini": 3.12,
+"fim": 3.46
+},
+{
+"w": "poderosa.",
+"ini": 3.46,
+"fim": 3.94
+}
+],
+"ratio": 1.0,
+"dif": []
+}

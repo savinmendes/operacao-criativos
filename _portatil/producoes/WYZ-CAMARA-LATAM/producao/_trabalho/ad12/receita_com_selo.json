@@ -1,0 +1,46 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 12 - WYZE-SOLAR-CAM-PAN-LA-QUE-QUIERO-ES-LATAM-SELO.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:narr.alinhamento.json",
+  "chaves": [
+   "trescientos",
+   "setenta",
+   "solar",
+   "reflector",
+   "IA.",
+   "quiero.",
+   "suscripción.",
+   "cargarla",
+   "metros",
+   "sol.",
+   "2K",
+   "celular,",
+   "fácil,",
+   "toca"
+  ]
+ },
+ "manchete": {
+  "texto": "LA CÁMARA QUE YO QUIERO ☀️📹",
+  "y": 140,
+  "ate": 3.0,
+  "px": 66
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720",
+ "selo": {
+  "linhas": [
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 5
+ },
+ "_nota": "Versão com selo: só usar quando a oferta COD estiver confirmada. Conferir que o selo não cobre a legenda nem as setas."
+}

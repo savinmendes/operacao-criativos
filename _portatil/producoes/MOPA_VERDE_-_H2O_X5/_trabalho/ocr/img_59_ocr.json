@@ -1,0 +1,266 @@
+[
+ {
+  "texto": "H20X5",
+  "conf": 0.96,
+  "caixa": [
+   203,
+   57,
+   507,
+   124
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "TM",
+  "conf": 1.0,
+  "caixa": [
+   509,
+   57,
+   535,
+   72
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H20",
+  "conf": 0.85,
+  "caixa": [
+   138,
+   80,
+   188,
+   106
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "LIMITEDTIMEOFFER",
+  "conf": 0.99,
+  "caixa": [
+   147,
+   175,
+   544,
+   218
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "$550FF",
+  "conf": 0.97,
+  "caixa": [
+   43,
+   196,
+   653,
+   415
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "ACLEANERHOME",
+  "conf": 0.99,
+  "caixa": [
+   55,
+   452,
+   711,
+   508
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "NATURALLY",
+  "conf": 1.0,
+  "caixa": [
+   53,
+   529,
+   624,
+   598
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "POWERFUL STEAM.REALRESULTS.",
+  "conf": 0.98,
+  "caixa": [
+   50,
+   639,
+   618,
+   662
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "NOHARSHCHEMICALS.",
+  "conf": 1.0,
+  "caixa": [
+   50,
+   668,
+   434,
+   691
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "KILLS 99%",
+  "conf": 0.98,
+  "caixa": [
+   60,
+   840,
+   191,
+   867
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "CHEMICAL",
+  "conf": 1.0,
+  "caixa": [
+   278,
+   840,
+   402,
+   867
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5-IN-1",
+  "conf": 0.99,
+  "caixa": [
+   498,
+   840,
+   580,
+   867
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "OFBACTERIA,",
+  "conf": 0.97,
+  "caixa": [
+   52,
+   868,
+   196,
+   891
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FREE",
+  "conf": 1.0,
+  "caixa": [
+   308,
+   866,
+   370,
+   891
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "MULTI-SURFACE",
+  "conf": 0.99,
+  "caixa": [
+   460,
+   868,
+   621,
+   891
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "VIRUSES&GERMS*",
+  "conf": 0.98,
+  "caixa": [
+   32,
+   891,
+   218,
+   914
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "VERSATILITY",
+  "conf": 0.99,
+  "caixa": [
+   476,
+   892,
+   603,
+   915
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FLOORS",
+  "conf": 0.99,
+  "caixa": [
+   88,
+   1176,
+   183,
+   1203
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "KITCHEN",
+  "conf": 0.99,
+  "caixa": [
+   335,
+   1176,
+   437,
+   1203
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "BATHROOM",
+  "conf": 0.99,
+  "caixa": [
+   563,
+   1174,
+   695,
+   1204
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "CARPETS",
+  "conf": 0.99,
+  "caixa": [
+   827,
+   1175,
+   930,
+   1202
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "WINDOWS",
+  "conf": 0.99,
+  "caixa": [
+   1063,
+   1173,
+   1182,
+   1203
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

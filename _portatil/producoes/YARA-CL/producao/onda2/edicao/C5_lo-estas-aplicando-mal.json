@@ -1,0 +1,108 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C5_yara-kit3_lo-estas-aplicando-mal_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": {
+  "png": "../onda2/overlays/titulo_C5.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "broll"
+ },
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C5_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 2.45,
+   "audio": "../takes/C5_T1_gancho_vzfix.wav",
+   "audio_de": 0.0,
+   "audio_ate": 2.45
+  },
+  {
+   "video": "../takes/C5_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 2.45,
+   "ate": 5.6,
+   "audio": "../takes/C5_T1_gancho_vzfix.wav",
+   "audio_de": 2.45,
+   "audio_ate": 5.6,
+   "zoom": "in"
+  },
+  {
+   "video": "../takes/C5_T2_dicas.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 2.6,
+   "audio": "../takes/C5_T2_dicas_vzfix.wav",
+   "audio_de": 0.0,
+   "audio_ate": 2.6
+  },
+  {
+   "video": "../takes/C5_T2_dicas.mp4",
+   "tipo": "consultora",
+   "de": 2.6,
+   "ate": 5.85,
+   "audio": "../takes/C5_T2_dicas_vzfix.wav",
+   "audio_de": 2.6,
+   "audio_ate": 5.85
+  },
+  {
+   "video": "../takes/C5_T2_dicas.mp4",
+   "tipo": "consultora",
+   "de": 5.85,
+   "ate": 10.05,
+   "audio": "../takes/C5_T2_dicas_vzfix.wav",
+   "audio_de": 5.85,
+   "audio_ate": 10.05
+  },
+  {
+   "video": "../../edicao/b_yara.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C5_N_momento.mp3",
+   "audio_de": 0.0,
+   "audio_ate": 3.75
+  },
+  {
+   "video": "../../edicao/b_elixir.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C5_N_momento.mp3",
+   "audio_de": 3.75,
+   "audio_ate": 5.67
+  },
+  {
+   "video": "../takes/C5_T3_cta.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.5,
+   "audio": "../takes/C5_T3_cta_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.5
+  },
+  {
+   "video": "../takes/C5_T3_cta.mp4",
+   "tipo": "consultora",
+   "de": 4.5,
+   "ate": 9.05,
+   "audio": "../takes/C5_T3_cta_vz.wav",
+   "audio_de": 4.5,
+   "audio_ate": 9.05,
+   "zoom": "in"
+  }
+ ]
+}

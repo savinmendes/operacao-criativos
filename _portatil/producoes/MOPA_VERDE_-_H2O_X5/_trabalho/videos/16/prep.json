@@ -1,0 +1,69 @@
+{
+ "video": "../../../VIDEOS/16 AD.mp4",
+ "res": [
+  720,
+  900
+ ],
+ "fundo": "../../audio/16_no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "../32/narr2.mp3",
+ "offsets": [
+  0.05,
+  2.6,
+  6.8,
+  12.3,
+  14.05,
+  16.2
+ ],
+ "faixas": [
+  {
+   "y": [
+    704,
+    779
+   ],
+   "grad": 14
+  }
+ ],
+ "titulos": [
+  {
+   "linhas": [
+    "Cinco herramientas de limpieza",
+    "en un vaporizador",
+    "liviano y potente"
+   ],
+   "cx": 356,
+   "cy": 425,
+   "cobrir_w": 430,
+   "cobrir_h": 140,
+   "px": 28,
+   "de": 0,
+   "ate": 6.36
+  }
+ ],
+ "pngs": [
+  {
+   "arq": "../_A_ferramentas/selo_45.png"
+  }
+ ],
+ "fim": {
+  "folga": 0.5,
+  "max_total": null
+ },
+ "saida": "corpo.mp4",
+ "trocas": [
+  [
+   "hache dos o equis cinco",
+   "H2O X5"
+  ]
+ ],
+ "cortes": [
+  [
+   0,
+   14.76
+  ],
+  [
+   14.8,
+   16.318
+  ]
+ ]
+}

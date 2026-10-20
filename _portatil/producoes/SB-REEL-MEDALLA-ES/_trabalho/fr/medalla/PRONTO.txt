@@ -1,0 +1,9 @@
+MEDALLA FR - série COMPLETA (14/10/2026) -> C:/Users/PICHAU/Downloads/SB-MEDALLA-COMPLETA-FR/01_SB-FR_MEDALLA_COMPLETA.mp4 (+ _narracion.txt)
+Voz: Martin - Deep and Conversational (b0Ev8lcOOXx2o9ZcF46H), registrada em _vozes_fr.json como 'medalla'. tts_ctx.py (eleven_multilingual_v2, previous_text). ElevenLabs: 390 caracteres.
+Selfie HeyGen: 14331a009f0e68176c176c2f3dca606a (11,1 s), retrato imagens/comerciante_retrato.png (o mesmo do ES). Áudio = voz/selfie_heygen.mp3 (selfie.mp3 a partir da 2ª frase); a 1ª frase fica sobre o take frustrado.
+Montagem: montar_completa_fr.py (cópia do montar_completa_persona.py ES; MEDALLA usa o mesmo script com persona.json reproduzindo o EDL do montar_completa2.py; cópia de referência em medalla/_ref_montar_completa2_ES.py)
+  trocas: vozes FR, selfie FR, legenda FR (legenda_completa.py junta «», 'saint Benoît', 'En savoir plus'), padre e gráficos de fr/_comum; R_PAD/EDL do padre recalculados nas mesmas pausas do ES.
+  Sem quadro segurado: se o HeyGen acaba antes do fim da selfie + pausa, o resto vira corte seco.
+Revisão: revisar_ad.py --idioma fr --idioma-residual es: OK (o aviso de 'setas vermelhas' é esperado: o CTA amarelo é único). Selo FR conferido no 1º e no último quadro. Folha de contato e zoom na boca em _tmp/.
+HeyGen: create_video_from_image, 1080p, 9:16, expressividade low. Saldo 6927 -> 6875 com outros agentes rodando em paralelo; estimativa de ~10-13 créditos por selfie. Flora: US$ 0.
+Observações: Selfie: a boca mostra dentes em alguns quadros e pode ser lida como meio-sorriso. É o mesmo defeito do ES e vem do retrato. A selfie do TTS tinha ~0,8 s de ruído no fim, cortado em 13,45 s.

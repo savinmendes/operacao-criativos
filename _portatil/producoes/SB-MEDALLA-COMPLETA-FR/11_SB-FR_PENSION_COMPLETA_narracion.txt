@@ -1,0 +1,36 @@
+NARRATION — SB-FR_PENSION_COMPLETA.mp4 (1:01) · format COMPLETA (version FR de SB-ES_PENSION_COMPLETA.mp4)
+Temps = moment où commence chaque phrase dans la vidéo finale.
+Personnages fictifs : PROPRIÉTAIRE DE LA MAISON D'HÔTES et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique propre : tension grave (accroche et prière) -> thème d'espoir à partir de la scène « après ».
+Voix : propriétaire Hélène (a2NqrzzRklNWkb04aqW1) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan large : elle à genoux à l'accueil vide ; tableau de clés plein, registre des clients ouvert et vide, fauteuils vides)
+[00:00] PROPRIÉTAIRE (voix ferme, en off) : J'ai prié à l'accueil de ma maison d'hôtes, avec toutes les clés accrochées… et voilà ce qui s'est passé.
+[00:05] PROPRIÉTAIRE (prière chuchotée) : Ô glorieux saint Benoît… sors-moi de cette misère.
+[00:09] (des clients arrivent au comptoir, sans voix)
+
+BLOC 2 — CONNEXION
+[00:11] PROPRIÉTAIRE (en off ; derrière le comptoir, le doigt sur le registre vide, le regard vers la porte) : J'ai passé presque six mois sans un seul client.
+[00:14] PROPRIÉTAIRE (selfie) : La maison que j'ai construite avec mon mari tombait en ruine.
+[00:17] PROPRIÉTAIRE : J'avais l'impression de lui faire défaut.
+[00:19] PROPRIÉTAIRE : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET FUTUR (identique pour toute la série)
+[00:25] PRÊTRE : Des millions de personnes portent cette médaille… et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:32] PRÊTRE : Ce n'est pas un manque de foi. C'est que personne ne leur a appris la bonne façon de la prier.
+[00:37] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va… et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:46] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[00:55] PRÊTRE : Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.
+
+TEXTE DE L'ANNONCE (FR)
+Titre (≤ 40 caractères) : J'ai prié à l'accueil de ma maison vide
+Texte principal :
+Six mois sans un seul client. La maison que nous avions construite, mon mari et moi, tombait en ruine.
+Un jour, à genoux à l'accueil, j'ai prié saint Benoît de tout mon cœur.
+Un prêtre explique, lettre par lettre, ce que dit la médaille de saint Benoît et la bonne façon de la prier, dans une transmission en direct ouverte 24 heures sur 24.
+Appuie sur « En savoir plus » et viens prier avec nous.
+(Vidéo fictive, à but illustratif.)

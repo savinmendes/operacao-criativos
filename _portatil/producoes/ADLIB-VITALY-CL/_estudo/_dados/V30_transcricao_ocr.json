@@ -1,0 +1,50 @@
+{
+ "arquivo": "30 - Vitaly - 917426547905012.mp4",
+ "dur": 9.449375,
+ "segs": [
+  {
+   "ini": 7.9,
+   "fim": 9.3,
+   "txt": "¡SUSCRÍBETE!"
+  }
+ ],
+ "ocr": [
+  {
+   "t": 0,
+   "ocr": "Crop | Asi estaba yo antes | antes de mi drenaje | linfatico con | Vitaly"
+  },
+  {
+   "t": 1,
+   "ocr": "Crop | Asi estaba yo antes | antes de mi drenaje | linfatico con | Vitaly"
+  },
+  {
+   "t": 2,
+   "ocr": "Crop | Asi estaba yo antes | antes de mi drenaje | linfatico con | Vitaly"
+  },
+  {
+   "t": 3,
+   "ocr": "BnUT | DUJUG"
+  },
+  {
+   "t": 4,
+   "ocr": "3AUTA | sisnqmd"
+  },
+  {
+   "t": 5,
+   "ocr": ""
+  },
+  {
+   "t": 6,
+   "ocr": ""
+  },
+  {
+   "t": 7,
+   "ocr": "Y asi estoy ahora"
+  },
+  {
+   "t": 8,
+   "ocr": "Y asi estoy ahora"
+  }
+ ],
+ "video": "720,1280,30/1"
+}

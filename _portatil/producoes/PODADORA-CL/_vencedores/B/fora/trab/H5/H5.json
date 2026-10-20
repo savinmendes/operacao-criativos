@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\H5 - MAMA-TAMBIEN-PUEDE-B-ES-CL.mp4",
+ "resolucao": "720",
+ "limite_mb": 30,
+ "trab": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\fora\\trab\\H5\\gv",
+ "bancos": {
+  "g": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\fora\\trab\\H5\\banco_g.json"
+ },
+ "gancho": {
+  "trecho": [
+   "g",
+   0,
+   4.2
+  ],
+  "fala": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\fora\\voz\\H5.mp3",
+  "lead": 0.45,
+  "cauda": 0.0,
+  "caixa_fixa": {
+   "linhas": [
+    "LIVIANA Y CON RUEDAS"
+   ],
+   "px": 64,
+   "cy": 240,
+   "de": 0,
+   "ate": 5.2
+  },
+  "fundo": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\bed.wav",
+  "fundo_vol": 1.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "ganho_db": 2.0
+ }
+}

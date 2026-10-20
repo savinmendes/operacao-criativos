@@ -1,0 +1,99 @@
+{
+ "limiar": 0.85,
+ "tempos": [
+  0.2,
+  1.0,
+  2.0
+ ],
+ "videos": [
+  "CJ01_YARA-BF_H1_bbywow.mp4",
+  "CJ02_YARA-BF_H2_bbywow.mp4",
+  "CJ03_YARA-BF_H3_bbywow.mp4",
+  "CJ04_YARA-BF_H4_bbywow.mp4",
+  "CJ05_YARA-BF_H5_bbywow.mp4",
+  "CJ06_YARA-BF_AD-A_bbywow.mp4",
+  "CJ07_YARA-BF_AD-C_bbywow.mp4"
+ ],
+ "matriz": [
+  [
+   1.0,
+   0.521,
+   0.526,
+   0.526,
+   0.557,
+   0.896,
+   0.922
+  ],
+  [
+   0.521,
+   1.0,
+   0.609,
+   0.526,
+   0.453,
+   0.51,
+   0.505
+  ],
+  [
+   0.526,
+   0.609,
+   1.0,
+   0.531,
+   0.531,
+   0.578,
+   0.583
+  ],
+  [
+   0.526,
+   0.526,
+   0.531,
+   1.0,
+   0.469,
+   0.516,
+   0.51
+  ],
+  [
+   0.557,
+   0.453,
+   0.531,
+   0.469,
+   1.0,
+   0.578,
+   0.583
+  ],
+  [
+   0.896,
+   0.51,
+   0.578,
+   0.516,
+   0.578,
+   1.0,
+   0.974
+  ],
+  [
+   0.922,
+   0.505,
+   0.583,
+   0.51,
+   0.583,
+   0.974,
+   1.0
+  ]
+ ],
+ "parecidos": [
+  {
+   "a": "CJ06_YARA-BF_AD-A_bbywow.mp4",
+   "b": "CJ07_YARA-BF_AD-C_bbywow.mp4",
+   "similaridade": 0.974
+  },
+  {
+   "a": "CJ01_YARA-BF_H1_bbywow.mp4",
+   "b": "CJ07_YARA-BF_AD-C_bbywow.mp4",
+   "similaridade": 0.922
+  },
+  {
+   "a": "CJ01_YARA-BF_H1_bbywow.mp4",
+   "b": "CJ06_YARA-BF_AD-A_bbywow.mp4",
+   "similaridade": 0.896
+  }
+ ]
+}

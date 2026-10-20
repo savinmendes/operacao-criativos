@@ -1,0 +1,5 @@
+SB-IT-OP2-ASCENSAO pronto em 16/10/2026.
+Arquivo: SB-IT-OP2-ASCENSAO.mp4, 26,9 s, 1080x1920, 30 fps, 19,4 MB.
+Voz: ElevenLabs Jesus The Chosen (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2.
+HeyGen: 4 jobs de lipsync em modo speed (gancho, corpo, clipA, clipB), todos aprovados no checar_lipsync (índice de pausa entre 0,05 e 0,38; o gancho não tem pausa e a boca mudou em 100% dos quadros).
+QA: revisar_ad it ficou OK (whisper it, sem termo proibido, sem salto de pts, sem silêncio); o revisor independente também deu OK.

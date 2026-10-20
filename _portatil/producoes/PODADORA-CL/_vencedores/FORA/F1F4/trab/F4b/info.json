@@ -1,0 +1,46 @@
+{
+ "cod": "F4b",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F4b - COMENTARIO-BATERIA-A-ES-CL.mp4",
+ "gancho_s": 6.3,
+ "tomadas": [
+  {
+   "fonte": "original_04.mp4",
+   "ini": 24.45,
+   "quadros_origem": 48,
+   "quadros": 48,
+   "op": "",
+   "de_s": 0.0
+  },
+  {
+   "fonte": "original_04.mp4",
+   "ini": 35.75,
+   "quadros_origem": 45,
+   "quadros": 45,
+   "op": "",
+   "de_s": 1.6
+  },
+  {
+   "fonte": "original_04.mp4",
+   "ini": 27.47,
+   "quadros_origem": 48,
+   "quadros": 48,
+   "op": "",
+   "de_s": 3.1
+  },
+  {
+   "fonte": "original_04.mp4",
+   "ini": 7.4,
+   "quadros_origem": 48,
+   "quadros": 48,
+   "op": "",
+   "de_s": 4.7
+  }
+ ],
+ "corpo": "A",
+ "corte": 9.0,
+ "total_s": 53.4,
+ "ganho_db": -0.7,
+ "mb": 26.4,
+ "kbps": 4152,
+ "cenas": "máquina com rodas cortando junto às plantas, só pernas (original_04 24,45–26,05) → mesa com as 2 baterias 21V, só mão (35,75–37,25) → close das rodas cortando o mato na calçada (27,47–29,07) → câmera da porta cortando o mato (7,40–9,00, emenda contínua no corpo)"
+}

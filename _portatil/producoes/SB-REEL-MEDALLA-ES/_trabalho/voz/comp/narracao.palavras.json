@@ -1,0 +1,963 @@
+[
+ {
+  "w": "Recé",
+  "ini": 0.058,
+  "fim": 0.511,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "de",
+  "ini": 0.569,
+  "fim": 0.639,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "rodillas",
+  "ini": 0.72,
+  "fim": 1.37,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "en",
+  "ini": 1.451,
+  "fim": 1.521,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "mi",
+  "ini": 1.591,
+  "fim": 1.683,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "restaurante",
+  "ini": 1.753,
+  "fim": 2.543,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "vacío...",
+  "ini": 2.589,
+  "fim": 3.297,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "y",
+  "ini": 3.576,
+  "fim": 3.669,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "esto",
+  "ini": 3.843,
+  "fim": 4.203,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "fue",
+  "ini": 4.319,
+  "fim": 4.574,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "lo",
+  "ini": 4.644,
+  "fim": 4.76,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "que",
+  "ini": 4.818,
+  "fim": 4.911,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "pasó.",
+  "ini": 4.969,
+  "fim": 5.573,
+  "personagem": "comerciante",
+  "parte": "hook"
+ },
+ {
+  "w": "Oh",
+  "ini": 5.917,
+  "fim": 6.13,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "glorioso",
+  "ini": 6.194,
+  "fim": 6.85,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "San",
+  "ini": 6.89,
+  "fim": 7.01,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Benito...",
+  "ini": 7.09,
+  "fim": 8.05,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Sácame",
+  "ini": 8.339,
+  "fim": 8.792,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "de",
+  "ini": 8.845,
+  "fim": 8.952,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "esta",
+  "ini": 8.984,
+  "fim": 9.112,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "escasez.",
+  "ini": 9.152,
+  "fim": 10.232,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Pasé",
+  "ini": 12.91,
+  "fim": 13.386,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "casi",
+  "ini": 13.502,
+  "fim": 13.897,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "seis",
+  "ini": 13.978,
+  "fim": 14.269,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "meses",
+  "ini": 14.385,
+  "fim": 14.872,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "sin",
+  "ini": 14.896,
+  "fim": 15.093,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "clientes.",
+  "ini": 15.151,
+  "fim": 16.103,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Llegaba",
+  "ini": 16.509,
+  "fim": 17.078,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 17.125,
+  "fim": 17.148,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "casa",
+  "ini": 17.241,
+  "fim": 17.798,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "y",
+  "ini": 17.949,
+  "fim": 18.065,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "no",
+  "ini": 18.216,
+  "fim": 18.39,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "podía",
+  "ini": 18.46,
+  "fim": 19.04,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "mirar",
+  "ini": 19.098,
+  "fim": 19.516,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 19.574,
+  "fim": 19.598,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "mi",
+  "ini": 19.656,
+  "fim": 19.749,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "esposa",
+  "ini": 19.783,
+  "fim": 20.341,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 20.387,
+  "fim": 20.41,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "los",
+  "ini": 20.468,
+  "fim": 20.666,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "ojos.",
+  "ini": 20.84,
+  "fim": 21.386,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Me",
+  "ini": 21.626,
+  "fim": 21.777,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "sentía",
+  "ini": 21.823,
+  "fim": 22.415,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 22.473,
+  "fim": 22.52,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "fracasado.",
+  "ini": 22.578,
+  "fim": 23.646,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Hasta",
+  "ini": 23.886,
+  "fim": 24.258,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 24.327,
+  "fim": 24.443,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 24.536,
+  "fim": 24.618,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "padre",
+  "ini": 24.687,
+  "fim": 25.117,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "explicó",
+  "ini": 25.14,
+  "fim": 25.779,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "algo",
+  "ini": 25.895,
+  "fim": 26.243,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 26.313,
+  "fim": 26.429,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "nadie",
+  "ini": 26.58,
+  "fim": 26.986,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "me",
+  "ini": 27.067,
+  "fim": 27.16,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "había",
+  "ini": 27.183,
+  "fim": 27.485,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "dicho",
+  "ini": 27.555,
+  "fim": 27.915,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "sobre",
+  "ini": 27.961,
+  "fim": 28.228,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 28.286,
+  "fim": 28.368,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "medalla",
+  "ini": 28.426,
+  "fim": 28.925,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 28.983,
+  "fim": 29.064,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "San",
+  "ini": 29.111,
+  "fim": 29.273,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benito.",
+  "ini": 29.331,
+  "fim": 30.074,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Millones",
+  "ini": 30.683,
+  "fim": 31.043,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 31.078,
+  "fim": 31.124,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "personas",
+  "ini": 31.182,
+  "fim": 31.565,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "llevan",
+  "ini": 31.589,
+  "fim": 31.867,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "esta",
+  "ini": 31.925,
+  "fim": 32.111,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "medalla...",
+  "ini": 32.158,
+  "fim": 32.773,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 33.214,
+  "fim": 33.307,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nunca",
+  "ini": 33.423,
+  "fim": 33.76,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "les",
+  "ini": 33.806,
+  "fim": 33.934,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "explicaron",
+  "ini": 33.992,
+  "fim": 34.607,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lo",
+  "ini": 34.642,
+  "fim": 34.723,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 34.781,
+  "fim": 34.863,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dicen",
+  "ini": 34.921,
+  "fim": 35.211,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "sus",
+  "ini": 35.257,
+  "fim": 35.443,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "letras.",
+  "ini": 35.524,
+  "fim": 36.14,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "No",
+  "ini": 36.523,
+  "fim": 36.674,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "es",
+  "ini": 36.72,
+  "fim": 36.778,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "falta",
+  "ini": 36.836,
+  "fim": 37.138,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 37.185,
+  "fim": 37.254,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "fe.",
+  "ini": 37.336,
+  "fim": 37.719,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Es",
+  "ini": 37.963,
+  "fim": 38.125,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 38.171,
+  "fim": 38.241,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nadie",
+  "ini": 38.288,
+  "fim": 38.497,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "les",
+  "ini": 38.531,
+  "fim": 38.647,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "enseñó",
+  "ini": 38.694,
+  "fim": 39.019,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 39.054,
+  "fim": 39.112,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "forma",
+  "ini": 39.182,
+  "fim": 39.425,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "correcta",
+  "ini": 39.483,
+  "fim": 39.913,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 39.948,
+  "fim": 39.994,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezarla.",
+  "ini": 40.064,
+  "fim": 40.737,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Cuando",
+  "ini": 41.187,
+  "fim": 41.466,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "se",
+  "ini": 41.524,
+  "fim": 41.593,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "reza",
+  "ini": 41.675,
+  "fim": 41.942,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 41.976,
+  "fim": 42.023,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 42.058,
+  "fim": 42.127,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "forma",
+  "ini": 42.185,
+  "fim": 42.441,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "correcta,",
+  "ini": 42.499,
+  "fim": 43.288,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 43.613,
+  "fim": 43.73,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "casa",
+  "ini": 43.811,
+  "fim": 44.101,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "se",
+  "ini": 44.148,
+  "fim": 44.24,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "calma,",
+  "ini": 44.298,
+  "fim": 44.995,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 45.169,
+  "fim": 45.332,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "miedo",
+  "ini": 45.413,
+  "fim": 45.738,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "se",
+  "ini": 45.796,
+  "fim": 45.878,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "va...",
+  "ini": 45.924,
+  "fim": 46.458,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 46.908,
+  "fim": 46.943,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "uno",
+  "ini": 47.059,
+  "fim": 47.221,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vuelve",
+  "ini": 47.268,
+  "fim": 47.547,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 47.581,
+  "fim": 47.605,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ver",
+  "ini": 47.639,
+  "fim": 47.756,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "salidas",
+  "ini": 47.814,
+  "fim": 48.243,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "donde",
+  "ini": 48.278,
+  "fim": 48.499,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "antes",
+  "ini": 48.545,
+  "fim": 48.835,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "solo",
+  "ini": 48.858,
+  "fim": 49.102,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "veía",
+  "ini": 49.149,
+  "fim": 49.439,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "puertas",
+  "ini": 49.497,
+  "fim": 49.88,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "cerradas.",
+  "ini": 49.903,
+  "fim": 50.646,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Por",
+  "ini": 51.03,
+  "fim": 51.204,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "eso",
+  "ini": 51.25,
+  "fim": 51.389,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dejé",
+  "ini": 51.436,
+  "fim": 51.645,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 51.691,
+  "fim": 51.738,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "explicación",
+  "ini": 51.761,
+  "fim": 52.388,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "completa,",
+  "ini": 52.434,
+  "fim": 53.096,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "letra",
+  "ini": 53.421,
+  "fim": 53.793,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "por",
+  "ini": 53.839,
+  "fim": 53.978,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "letra,",
+  "ini": 54.036,
+  "fim": 54.536,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 54.745,
+  "fim": 54.849,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 54.919,
+  "fim": 55.035,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "transmisión",
+  "ini": 55.081,
+  "fim": 55.615,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 55.674,
+  "fim": 55.743,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vivo",
+  "ini": 55.79,
+  "fim": 56.01,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 56.057,
+  "fim": 56.126,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "está",
+  "ini": 56.15,
+  "fim": 56.358,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "abierta",
+  "ini": 56.405,
+  "fim": 56.846,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "las",
+  "ini": 56.916,
+  "fim": 57.113,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "24",
+  "ini": 57.229,
+  "fim": 57.949,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "horas.",
+  "ini": 58.065,
+  "fim": 58.564,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 59.014,
+  "fim": 59.42,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 59.49,
+  "fim": 59.583,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "<<Más",
+  "ini": 59.641,
+  "fim": 60.14,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "información»,",
+  "ini": 60.233,
+  "fim": 61.232,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "aquí",
+  "ini": 61.441,
+  "fim": 61.742,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "abajo,",
+  "ini": 61.789,
+  "fim": 62.393,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 62.718,
+  "fim": 62.787,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "entra",
+  "ini": 62.88,
+  "fim": 63.147,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 63.17,
+  "fim": 63.194,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezar",
+  "ini": 63.275,
+  "fim": 63.565,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 63.635,
+  "fim": 63.763,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nosotros.",
+  "ini": 63.809,
+  "fim": 64.552,
+  "personagem": "sacerdote"
+ }
+]

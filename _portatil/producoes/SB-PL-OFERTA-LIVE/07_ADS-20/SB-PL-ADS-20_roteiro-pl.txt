@@ -1,0 +1,78 @@
+SB-PL-ADS-20 — Święty Benedykt · polski (Polska)
+Baza: SB-EN-ADS-20 / SB-IT-ADS-20 (ten sam obraz: base_limpa.mp4 z EN, hak HeyGen z heygen_in z oryginalnym audio, ta sama muzyka demucs).
+Cel: modlitwa na żywo. Przycisk Meta: LEARN_MORE („Dowiedz się więcej”). Bez produktu i bez ceny w wideo.
+Czas: ~131,4 s (EN 140,8 s, IT 138,7 s) · 720x1280 · 30 fps.
+Głosy (ElevenLabs, eleven_multilingual_v2, language_code "pl"): hak = "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE); korpus = "Brian" (nPczCjzI2devNBz1zQrb), speed 1.12. Żaden głos nie został utworzony/sklonowany.
+Lipsync gancho: HeyGen speed, 1 job (50de53fdd3284e2ca0e0291d43831603), checar_lipsync índice de pausa 0,20 (APROVADO).
+
+======================================================================
+ROTEIRO EN (base)  ×  ROTEIRO PL (narrado)
+======================================================================
+[GANCHO — Jesus, lipsync HeyGen]
+EN: Did you ask for a sign?
+PL: Prosisz o znak?
+
+EN: And now... you're here.
+PL: A teraz... jesteś tutaj.
+
+
+[CORPO — narrador Brian]
+EN: God stopped you right here, to speak to you. Not by chance, but because this is your last warning. No other message like this will come.
+PL: Bóg zatrzymał cię tutaj, aby do ciebie przemówić. Nie przypadkiem, lecz dlatego, że to twoje ostatnie ostrzeżenie. Drugiego takiego przesłania nie będzie.
+
+EN: What is about to be released from heaven will move your soul. It will touch your life in a way you won't be able to deny.
+PL: To, co zaraz zstąpi z nieba, poruszy twoją duszę. Dotknie twojego życia tak, że nie da się temu zaprzeczyć.
+
+EN: If I were you, I wouldn't close this video, not even for a second, because what you're about to hear has the power to change your destiny.
+PL: Na twoim miejscu nie przerywałbym tego filmu ani na sekundę, bo to, co usłyszysz, może odmienić twój los.
+
+EN: God is showing me that He will break that dependence that kept you tied to someone. You won't need anyone anymore. What's coming is total independence.
+PL: Bóg pokazuje mi, że zerwie zależność, która wiązała cię z kimś. Nie będziesz już nikogo potrzebować. Nadchodzi pełna niezależność.
+
+EN: He is signing a paper in your favor, moving the entire system to give you what is yours. Everything they denied you out of envy, He is decreeing in your name.
+PL: Podpisuje dokument na twoją korzyść i porusza niebo i ziemię, by dać ci to, co twoje. To, czego odmówiono ci z zazdrości, On zapisuje na twoje imię.
+
+EN: I see a change so big that people won't even recognize you. God is in a hurry with you, and what you expected a month from now will manifest in days.
+PL: Widzę zmianę tak wielką, że nikt cię nie pozna. Bóg przyspiesza twoje sprawy: to, co miało przyjść za miesiąc, przyjdzie w kilka dni.
+
+EN: Today marks the beginning of your new story. The humiliation ends. The shame is over. You will no longer have to beg for what belongs to you, because God sealed it with His divine signature.
+PL: Dziś zaczyna się twoja nowa historia. Koniec z upokorzeniem. Koniec ze wstydem. Nie będziesz już błagać o to, co twoje, bo Bóg przypieczętował to własnym podpisem.
+
+EN: And pay attention to this: there are spiritual protections that only activate when the right prayer is made.
+PL: I posłuchaj uważnie: jest duchowa ochrona, która działa dopiero przy właściwej modlitwie.
+
+EN: For centuries, Saint Benedict was known for breaking attacks, blockages, and closed paths, through a powerful prayer that protected not only the person, but everything around them.
+PL: Od wieków święty Benedykt odpierał ataki, zdejmował blokady i otwierał zamknięte drogi potężną modlitwą, która chroniła człowieka i wszystko wokół niego.
+
+EN: This prayer isn't repeated like any other. It is learned, it is made with intention, and it is activated at the right moment. And that moment is now.
+PL: Tej modlitwy nie odmawia się jak innych. Trzeba się jej nauczyć i odmawiać ją świadomie, we właściwej chwili. A ta chwila jest teraz.
+
+EN: Because right now, a special live prayer is taking place, where this prayer of Saint Benedict is explained and guided, especially for people who have been through humiliation, envy, spiritual attacks, and stagnation.
+PL: Bo właśnie teraz trwa wyjątkowa modlitwa na żywo, która krok po kroku prowadzi przez modlitwę do świętego Benedykta, dla tych, którzy doświadczyli upokorzenia, zazdrości, duchowych ataków i zastoju.
+
+EN: Many don't understand why everything gets blocked, why the energy feels so heavy, why nothing flows. But when the right protection comes in, everything starts to fall into place.
+PL: Wielu nie rozumie, dlaczego wszystko się blokuje, dlaczego tak ciężko na duszy, dlaczego nic się nie układa. Ale gdy przychodzi właściwa ochrona, wszystko wraca na swoje miejsce.
+
+EN: Not everyone makes it this far, and not everyone receives this guidance in time. If you feel this message touched you deeper than usual, don't ignore it.
+PL: Nie każdy dociera aż tutaj i nie każdy dostaje tę wskazówkę na czas. Jeśli to przesłanie poruszyło cię głębiej niż zwykle, nie ignoruj go.
+
+EN: Tap Learn More below, and join the live prayer happening right now, where you'll learn how to pray the prayer of Saint Benedict the right way.
+PL: Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo, która trwa teraz. Nauczysz się, jak właściwie odmawiać modlitwę do świętego Benedykta.
+
+EN: Don't leave it for later. This window won't stay open forever, and what God wants to activate in your life begins with this step.
+PL: Nie odkładaj tego. Ta szansa nie będzie czekać wiecznie, a wszystko, co Bóg chce zdziałać w twoim życiu, zaczyna się od tego kroku.
+
+Texto fixo na tela (caixa branca do topo, mesma geometria do EN/IT, linha de emojis original mantida):
+‼️ Ostatnie ostrzeżenie ‼️ / Obejrzyj do samego końca / i posłuchaj bardzo uważnie / 🙏🔮✨❤️‍🩹
+
+Decisões de tradução
+- "Saint Benedict" → "święty Benedykt" (minúscula no meio da frase, como manda a ortografia polonesa; declinado: do świętego Benedykta). "live prayer" → "modlitwa na żywo".
+- "pray the prayer" → "odmawiać modlitwę" (verbo litúrgico correto; nunca "robić modlitwę").
+- CTA no padrão do lote: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo…". Na legenda o botão sai entre aspas polonesas „DOWIEDZ SIĘ WIĘCEJ” (Anton tem „ ” e todos os diacríticos ĄĆĘŁŃÓŚŹŻ; testado).
+- Gênero: o polonês marca gênero no passado da 2ª pessoa (prosiłeś/prosiłaś). Tudo foi escrito neutro: "Prosisz o znak?" (presente), "nie będziesz błagać", "nie będziesz nikogo potrzebować", "to, co miało przyjść za miesiąc" (no lugar de "na co czekałeś").
+- Evitados calques: "break attacks" → "odpierał ataki, zdejmował blokady i otwierał zamknięte drogi"; "moving the entire system" → "porusza niebo i ziemię"; "decreeing in your name" → "zapisuje na twoje imię"; "God is in a hurry with you" → "Bóg przyspiesza twoje sprawy"; "the humiliation ends / the shame is over" → "Koniec z upokorzeniem. Koniec ze wstydem."; "the energy feels heavy" → "tak ciężko na duszy"; "this window" → "ta szansa"; "made with intention" → "odmawiać ją świadomie".
+- Texto condensado (~10%, como no IT): a 1ª leitura PL deu 148,7 s de corpo; enxugado e lido a speed 1.12 (a leitura a 1.08 do mesmo texto saiu arrastada, 145 s). Mesmas ideias e mesmo teor, sem cortar promessa nem urgência ("ostatnie ostrzeżenie", "przyjdzie w kilka dni", "Ta szansa nie będzie czekać wiecznie").
+- "One last warning" → "Ostatnie ostrzeżenie" (cabe na caixa original).
+- O narrador fala em 1ª pessoa masculina ("nie przerywałbym"), coerente com a voz Brian.
+- Revisor independente: sem críticos. Aplicados: legenda do gancho termina 1 quadro antes do corte; preposição/conjunção curta não fica no fim do bloco ("NA ŻYWO", "NA TWOJĄ KORZYŚĆ" juntos); bloco "TO" solto de 0,18 s unido ao seguinte; caixa do topo "i posłuchaj" (aspecto coerente com "Obejrzyj").
+- Não refeito (opcional): "Podpisuje dokument…" sem sujeito explícito (o sujeito Bóg vem da frase anterior; correto em polonês, mas "On podpisuje" seria mais claro).

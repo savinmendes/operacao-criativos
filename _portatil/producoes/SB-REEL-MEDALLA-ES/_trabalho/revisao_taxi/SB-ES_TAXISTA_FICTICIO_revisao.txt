@@ -1,0 +1,30 @@
+REVISÃO: SB-ES_TAXISTA_FICTICIO.mp4
+duração 72.00s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 54.9 MB
+decodificação: OK
+pts do áudio: 3376 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 972-1010, x 529-663 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\revisao_taxi\SB-ES_TAXISTA_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.00 Oh, glorioso San Benito. Hoy pronuncio las palabras grabadas en tu medalla.
+   6.00-  8.00 Sácame de esta escasez.
+   9.00- 11.00 Si me escuchas, ayúdame.
+  14.00- 18.00 Yo pasé casi seis meses casi sin pasajeros.
+  19.00- 21.00 Llegué a pensar en vender mi taxi.
+  22.00- 29.00 Hasta que, en una transmisión en vivo, un padre explicó la forma exacta de pedirle a San Benito.
+  30.00- 36.40 día recupere la paz y poco a poco las puertas empezaron a abrirse.
+  36.40- 42.48 Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió,
+  42.48- 48.04 preparó un regalo poderoso solo para ti. En este video vas a escuchar la oración
+  48.04- 54.60 perdida de San Benito que desbloquea una lluvia de milagros, pero solo si no la rechazas otra
+  54.60- 61.00 vez, toca más información ahora, recibe tu milagro antes de que la puerta se cierre
+  61.00- 66.84 para siempre, ahora mismo está ocurriendo una transmisión en vivo con San Benito,
+  66.84- 71.60 toca el botón ver más aquí abajo del vídeo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

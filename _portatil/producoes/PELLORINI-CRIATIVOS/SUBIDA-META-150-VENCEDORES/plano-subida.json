@@ -1,0 +1,1320 @@
+{
+  "site": "https://pellorini.com",
+  "parametros_url": "utm_source=facebook&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_term={{adset.name}}&utm_content={{ad.name}}",
+  "campanha_vendas": {
+    "nome": "PELLORINI | Vendas | BOGO | EN | ABO",
+    "objetivo": "Vendas (OUTCOME_SALES)",
+    "tipo_orcamento": "ABO (orçamento no conjunto): garante verba a cada conceito no teste",
+    "status_inicial": "PAUSADA",
+    "categoria_especial": "Nenhuma"
+  },
+  "padrao_conjunto": {
+    "orcamento_diario_usd": 20,
+    "otimizacao": "Conversões > Compra (Purchase) no site",
+    "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+    "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+    "paises": [
+      "US",
+      "GB",
+      "CA",
+      "AU"
+    ],
+    "idade": "18–65+",
+    "genero": "Todos",
+    "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+    "posicionamentos": "Advantage+ (todos)",
+    "idioma": "Sem filtro"
+  },
+  "conjuntos": [
+    {
+      "id": "CJ1",
+      "nome": "CJ1 | Masculino | Oferta",
+      "orcamento_diario_usd": 20,
+      "otimizacao": "Conversões > Compra (Purchase) no site",
+      "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+      "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+      "paises": [
+        "US",
+        "GB",
+        "CA",
+        "AU"
+      ],
+      "idade": "18–65+",
+      "genero": "Todos",
+      "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+      "posicionamentos": "Advantage+ (todos)",
+      "idioma": "Sem filtro",
+      "anuncios": [
+        {
+          "id": "A01",
+          "nome": "A01 | C1_P2_bogo-saturado",
+          "conceito": "oferta",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+            "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+            "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+          ],
+          "titulos": [
+            "Buy 1 Get 1 Free",
+            "Pick Any Two Watches",
+            "Second Watch Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "No code needed"
+          ],
+          "formato": "flexivel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "imagens": [
+            "A01__C1_P2_bogo-saturado_Vittorio-Milano_1x1.jpg",
+            "A01__C1_P2_bogo-saturado_Vittorio-Milano_9x16.jpg",
+            "A01__C1_P2_bogo-saturado_Dominante-Opulent_1x1.jpg",
+            "A01__C1_P2_bogo-saturado_Dominante-Opulent_9x16.jpg",
+            "A01__C1_P2_bogo-saturado_Milano-Maretti_1x1.jpg",
+            "A01__C1_P2_bogo-saturado_Milano-Maretti_9x16.jpg",
+            "A01__C1_P2_bogo-saturado_Maretti-Dominante_1x1.jpg",
+            "A01__C1_P2_bogo-saturado_Maretti-Dominante_9x16.jpg"
+          ]
+        },
+        {
+          "id": "A02",
+          "nome": "A02 | C2_P1_vs-designer",
+          "conceito": "preco",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The look people notice. The price nobody guesses. ⌚\nPellorini watches are made with 316L stainless steel and a scratch-resistant face, without the luxury markup.\nRight now, the second watch is free.",
+            "Most of what you pay for a designer watch is the name on the dial.\nWe skip the logo tax: 316L steel, sapphire crystal and a 2-year warranty.\nBuy 1, get 1 free.",
+            "Unpopular opinion: you don't need to spend $5,000 to look like you did.\nShop the Pellorini best sellers. Second watch free."
+          ],
+          "titulos": [
+            "The $10K Look, Without the Price Tag",
+            "Skip the Logo Tax",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A02__C2_P1_vs-designer_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A02__C2_P1_vs-designer_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A02__C2_P1_vs-designer_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A02__C2_P1_vs-designer_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A02__C2_P1_vs-designer_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A02__C2_P1_vs-designer_Vittorio_1x1.jpg",
+            "A02__C2_P1_vs-designer_Dominante_1x1.jpg",
+            "A02__C2_P1_vs-designer_Milano_1x1.jpg",
+            "A02__C2_P1_vs-designer_Opulent_1x1.jpg",
+            "A02__C2_P1_vs-designer_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A03",
+          "nome": "A03 | C2_P1_is-name-worth",
+          "conceito": "preco",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The look people notice. The price nobody guesses. ⌚\nPellorini watches are made with 316L stainless steel and a scratch-resistant face, without the luxury markup.\nRight now, the second watch is free.",
+            "Most of what you pay for a designer watch is the name on the dial.\nWe skip the logo tax: 316L steel, sapphire crystal and a 2-year warranty.\nBuy 1, get 1 free.",
+            "Unpopular opinion: you don't need to spend $5,000 to look like you did.\nShop the Pellorini best sellers. Second watch free."
+          ],
+          "titulos": [
+            "The $10K Look, Without the Price Tag",
+            "Skip the Logo Tax",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A03__C2_P1_is-name-worth_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A03__C2_P1_is-name-worth_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A03__C2_P1_is-name-worth_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A03__C2_P1_is-name-worth_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A03__C2_P1_is-name-worth_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A03__C2_P1_is-name-worth_Vittorio_1x1.jpg",
+            "A03__C2_P1_is-name-worth_Dominante_1x1.jpg",
+            "A03__C2_P1_is-name-worth_Milano_1x1.jpg",
+            "A03__C2_P1_is-name-worth_Opulent_1x1.jpg",
+            "A03__C2_P1_is-name-worth_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A04",
+          "nome": "A04 | C8_P2_postit",
+          "conceito": "oferta",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+            "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+            "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+          ],
+          "titulos": [
+            "Buy 1 Get 1 Free",
+            "Pick Any Two Watches",
+            "Second Watch Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "No code needed"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A04__C8_P2_postit-produto_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A04__C8_P2_postit-produto_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A04__C8_P2_postit-produto_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A04__C8_P2_postit-produto_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A04__C8_P2_postit-produto_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A04__C8_P2_postit_pellorini-milano_5_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A04__C8_P2_postit-produto_Vittorio_1x1.jpg",
+            "A04__C8_P2_postit-produto_Dominante_1x1.jpg",
+            "A04__C8_P2_postit-produto_Milano_1x1.jpg",
+            "A04__C8_P2_postit-produto_Opulent_1x1.jpg",
+            "A04__C8_P2_postit-produto_Maretti_1x1.jpg",
+            "A04__C8_P2_postit_pellorini-milano_5_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        }
+      ]
+    },
+    {
+      "id": "CJ2",
+      "nome": "CJ2 | Masculino | Desejo",
+      "orcamento_diario_usd": 20,
+      "otimizacao": "Conversões > Compra (Purchase) no site",
+      "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+      "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+      "paises": [
+        "US",
+        "GB",
+        "CA",
+        "AU"
+      ],
+      "idade": "18–65+",
+      "genero": "Todos",
+      "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+      "posicionamentos": "Advantage+ (todos)",
+      "idioma": "Sem filtro",
+      "anuncios": [
+        {
+          "id": "A05",
+          "nome": "A05 | C7_P1_poster",
+          "conceito": "desejo_h",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Meet our best sellers. ⌚\nSunray dials, 316L stainless steel and a bracelet that fits any wrist.\nPick any two, the second one is free.",
+            "Dressed up or down, it just works.\nDiscover the Pellorini best sellers with free tracked worldwide shipping.",
+            "The watch people ask about.\nShop Pellorini: buy 1 and get 1 free."
+          ],
+          "titulos": [
+            "Meet the Pellorini Best Sellers",
+            "Your New Everyday Watch",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A05__C7_P1_poster_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A05__C7_P1_poster_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A05__C7_P1_poster_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A05__C7_P1_poster_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A05__C7_P1_poster_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A05__C7_P1_poster_Vittorio_1x1.jpg",
+            "A05__C7_P1_poster_Dominante_1x1.jpg",
+            "A05__C7_P1_poster_Milano_1x1.jpg",
+            "A05__C7_P1_poster_Opulent_1x1.jpg",
+            "A05__C7_P1_poster_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A06",
+          "nome": "A06 | C2_P1_pulso-frase",
+          "conceito": "desejo_h",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Meet our best sellers. ⌚\nSunray dials, 316L stainless steel and a bracelet that fits any wrist.\nPick any two, the second one is free.",
+            "Dressed up or down, it just works.\nDiscover the Pellorini best sellers with free tracked worldwide shipping.",
+            "The watch people ask about.\nShop Pellorini: buy 1 and get 1 free."
+          ],
+          "titulos": [
+            "Meet the Pellorini Best Sellers",
+            "Your New Everyday Watch",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A06__C2_P1_pulso-frase_vittorio_5_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A06__C2_P1_pulso-frase_pellorini-milano_5_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A06__C1_P2_vida-bogo_vittorio_5_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A06__C1_P2_vida-bogo_pellorini-milano_5_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A06__C2_P1_pulso-frase_vittorio_5_1x1.jpg",
+            "A06__C2_P1_pulso-frase_pellorini-milano_5_1x1.jpg",
+            "A06__C1_P2_vida-bogo_vittorio_5_1x1.jpg",
+            "A06__C1_P2_vida-bogo_pellorini-milano_5_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A07",
+          "nome": "A07 | C7_P1_split",
+          "conceito": "desejo_h",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Meet our best sellers. ⌚\nSunray dials, 316L stainless steel and a bracelet that fits any wrist.\nPick any two, the second one is free.",
+            "Dressed up or down, it just works.\nDiscover the Pellorini best sellers with free tracked worldwide shipping.",
+            "The watch people ask about.\nShop Pellorini: buy 1 and get 1 free."
+          ],
+          "titulos": [
+            "Meet the Pellorini Best Sellers",
+            "Your New Everyday Watch",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A07__C7_P1_split_vittorio_5_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A07__C7_P1_split_pellorini-milano_5_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A07__C7_P1_split_vittorio_5_1x1.jpg",
+            "A07__C7_P1_split_pellorini-milano_5_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A08",
+          "nome": "A08 | C7_P1_caixa-maos",
+          "conceito": "desejo_h",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Meet our best sellers. ⌚\nSunray dials, 316L stainless steel and a bracelet that fits any wrist.\nPick any two, the second one is free.",
+            "Dressed up or down, it just works.\nDiscover the Pellorini best sellers with free tracked worldwide shipping.",
+            "The watch people ask about.\nShop Pellorini: buy 1 and get 1 free."
+          ],
+          "titulos": [
+            "Meet the Pellorini Best Sellers",
+            "Your New Everyday Watch",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A08__C7_P1_caixa-maos_vittorio_2_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A08__C7_P1_caixa-maos_pellorini-dominante_2_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A08__C7_P1_caixa-maos_pellorini-milano_2_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A08__C7_P1_caixa-maos_pellorini-opulent_2_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A08__C7_P1_caixa-maos_pellorini-maretti_2_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A08__C7_P1_caixa-maos_vittorio_2_1x1.jpg",
+            "A08__C7_P1_caixa-maos_pellorini-dominante_2_1x1.jpg",
+            "A08__C7_P1_caixa-maos_pellorini-milano_2_1x1.jpg",
+            "A08__C7_P1_caixa-maos_pellorini-opulent_2_1x1.jpg",
+            "A08__C7_P1_caixa-maos_pellorini-maretti_2_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        }
+      ]
+    },
+    {
+      "id": "CJ3",
+      "nome": "CJ3 | Presente",
+      "orcamento_diario_usd": 20,
+      "otimizacao": "Conversões > Compra (Purchase) no site",
+      "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+      "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+      "paises": [
+        "US",
+        "GB",
+        "CA",
+        "AU"
+      ],
+      "idade": "18–65+",
+      "genero": "Todos",
+      "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+      "posicionamentos": "Advantage+ (todos)",
+      "idioma": "Sem filtro",
+      "anuncios": [
+        {
+          "id": "A09",
+          "nome": "A09 | C1_P2_imessage",
+          "conceito": "presente",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The gift that comes in pairs. 🎁\nBuy a Pellorini for them and the second one is free. Keep it or gift it.\nFree tracked worldwide shipping.",
+            "Anniversary, birthday or just because.\nBuy 1 Pellorini watch, get 1 free: one for you, one for them."
+          ],
+          "titulos": [
+            "One for You. One for Them.",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "90-day returns"
+          ],
+          "formato": "flexivel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "imagens": [
+            "A09__C1_P2_imessage_pai-dominante_1x1.jpg",
+            "A09__C1_P2_imessage_pai-dominante_9x16.jpg",
+            "A09__C1_P2_imessage_irmao-milano_1x1.jpg",
+            "A09__C1_P2_imessage_irmao-milano_9x16.jpg"
+          ]
+        },
+        {
+          "id": "A10",
+          "nome": "A10 | C1_P2_his-hers",
+          "conceito": "presente",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The gift that comes in pairs. 🎁\nBuy a Pellorini for them and the second one is free. Keep it or gift it.\nFree tracked worldwide shipping.",
+            "Anniversary, birthday or just because.\nBuy 1 Pellorini watch, get 1 free: one for you, one for them."
+          ],
+          "titulos": [
+            "One for You. One for Them.",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "90-day returns"
+          ],
+          "formato": "flexivel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "imagens": [
+            "A10__C1_P2_his-hers_vittorio-clovera_1x1.jpg",
+            "A10__C1_P2_his-hers_vittorio-clovera_9x16.jpg",
+            "A10__C1_P2_his-hers_milano-serafina_1x1.jpg",
+            "A10__C1_P2_his-hers_milano-serafina_9x16.jpg",
+            "A10__C1_P2_his-hers_opulent-lunetta_1x1.jpg",
+            "A10__C1_P2_his-hers_opulent-lunetta_9x16.jpg"
+          ]
+        },
+        {
+          "id": "A11",
+          "nome": "A11 | C8_P2_maleta",
+          "conceito": "oferta",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+            "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+            "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+          ],
+          "titulos": [
+            "Buy 1 Get 1 Free",
+            "Pick Any Two Watches",
+            "Second Watch Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "No code needed"
+          ],
+          "formato": "flexivel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "imagens": [
+            "A11__C8_P2_maleta_bestsellers_1x1.jpg",
+            "A11__C8_P2_maleta_bestsellers_9x16.jpg",
+            "A11__C8_P5_maleta_mulher_1x1.jpg",
+            "A11__C8_P5_maleta_mulher_9x16.jpg"
+          ]
+        },
+        {
+          "id": "A12",
+          "nome": "A12 | C7_P1_qual-voce",
+          "conceito": "escolha",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Classic or iced? Silver or gold?\nYou don't have to choose: buy 1 Pellorini, get the second one free.",
+            "Which one are you?\nPick your two favorites from our best sellers and pay for just one."
+          ],
+          "titulos": [
+            "Can't Choose? Get Both.",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "No code needed"
+          ],
+          "formato": "flexivel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "imagens": [
+            "A12__C7_P1_qual-voce_classic-bold_1x1.jpg",
+            "A12__C7_P1_qual-voce_classic-bold_9x16.jpg",
+            "A12__C7_P1_qual-voce_green-blue_1x1.jpg",
+            "A12__C7_P1_qual-voce_green-blue_9x16.jpg",
+            "A12__C7_P1_qual-voce_chrono-clean_1x1.jpg",
+            "A12__C7_P1_qual-voce_chrono-clean_9x16.jpg",
+            "A12__C7_P1_qual-voce_grey-green_1x1.jpg",
+            "A12__C7_P1_qual-voce_grey-green_9x16.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CJ4",
+      "nome": "CJ4 | Feminino",
+      "orcamento_diario_usd": 20,
+      "otimizacao": "Conversões > Compra (Purchase) no site",
+      "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+      "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+      "paises": [
+        "US",
+        "GB",
+        "CA",
+        "AU"
+      ],
+      "idade": "18–65+",
+      "genero": "Todos",
+      "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+      "posicionamentos": "Advantage+ (todos)",
+      "idioma": "Sem filtro",
+      "anuncios": [
+        {
+          "id": "A13",
+          "nome": "A13 | C7_P5_poster",
+          "conceito": "desejo_m",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Small details. Big difference. ✨\nDelicate gold-tone watches made for every day.\nPick any two, the second one is free.",
+            "The everyday piece she'll never take off.\nFree tracked worldwide shipping and 90 days to return.",
+            "Quiet luxury, every day.\nShop our women's best sellers: buy 1, get 1 free."
+          ],
+          "titulos": [
+            "Everyday Elegance",
+            "Buy 1 Get 1 Free",
+            "The Gift She'll Wear Every Day"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "Buy 1 Get 1 Free"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A13__C7_P5_poster_Clovera_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-clovera",
+              "titulo": "Pellorini Clovera",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A13__C7_P5_poster_Serafina_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-serafina",
+              "titulo": "Pellorini Serafina",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A13__C7_P5_poster_Lunetta_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-lunetta",
+              "titulo": "Pellorini Lunetta",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A13__C7_P5_poster_Fiorella_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-fiorella",
+              "titulo": "Pellorini Fiorella",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A13__C7_P5_poster_Grazia_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-grazia",
+              "titulo": "Pellorini Grazia",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A13__C7_P5_poster_Clovera_1x1.jpg",
+            "A13__C7_P5_poster_Serafina_1x1.jpg",
+            "A13__C7_P5_poster_Lunetta_1x1.jpg",
+            "A13__C7_P5_poster_Fiorella_1x1.jpg",
+            "A13__C7_P5_poster_Grazia_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A14",
+          "nome": "A14 | C7_P5_pulso-frase",
+          "conceito": "desejo_m",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Small details. Big difference. ✨\nDelicate gold-tone watches made for every day.\nPick any two, the second one is free.",
+            "The everyday piece she'll never take off.\nFree tracked worldwide shipping and 90 days to return.",
+            "Quiet luxury, every day.\nShop our women's best sellers: buy 1, get 1 free."
+          ],
+          "titulos": [
+            "Everyday Elegance",
+            "Buy 1 Get 1 Free",
+            "The Gift She'll Wear Every Day"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "Buy 1 Get 1 Free"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A14__C7_P5_pulso-frase_pellorini-clovera_3_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-clovera",
+              "titulo": "Pellorini Clovera",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A14__C7_P5_pulso-frase_pellorini-aria_4_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-aria",
+              "titulo": "Pellorini Aria",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A14__C7_P5_pulso-frase_pellorini-bellissima_6_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-bellissima",
+              "titulo": "Pellorini Bellissima",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A14__C7_P5_pulso-frase_pellorini-carina_4_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-carina",
+              "titulo": "Pellorini Carina",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A14__C7_P5_pulso-frase_pellorini-clovera_3_1x1.jpg",
+            "A14__C7_P5_pulso-frase_pellorini-aria_4_1x1.jpg",
+            "A14__C7_P5_pulso-frase_pellorini-bellissima_6_1x1.jpg",
+            "A14__C7_P5_pulso-frase_pellorini-carina_4_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A15",
+          "nome": "A15 | C7_P5_split",
+          "conceito": "desejo_m",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Small details. Big difference. ✨\nDelicate gold-tone watches made for every day.\nPick any two, the second one is free.",
+            "The everyday piece she'll never take off.\nFree tracked worldwide shipping and 90 days to return.",
+            "Quiet luxury, every day.\nShop our women's best sellers: buy 1, get 1 free."
+          ],
+          "titulos": [
+            "Everyday Elegance",
+            "Buy 1 Get 1 Free",
+            "The Gift She'll Wear Every Day"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "Buy 1 Get 1 Free"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A15__C7_P5_split_pellorini-clovera_4_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-clovera",
+              "titulo": "Pellorini Clovera",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A15__C7_P5_split_pellorini-aria_3_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-aria",
+              "titulo": "Pellorini Aria",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A15__C7_P5_split_pellorini-bellissima_3_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-bellissima",
+              "titulo": "Pellorini Bellissima",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A15__C7_P5_split_pellorini-carina_6_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-carina",
+              "titulo": "Pellorini Carina",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A15__C7_P5_split_pellorini-clovera_4_1x1.jpg",
+            "A15__C7_P5_split_pellorini-aria_3_1x1.jpg",
+            "A15__C7_P5_split_pellorini-bellissima_3_1x1.jpg",
+            "A15__C7_P5_split_pellorini-carina_6_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A16",
+          "nome": "A16 | C1_P5_vida-bogo",
+          "conceito": "oferta",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+            "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+            "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+          ],
+          "titulos": [
+            "Buy 1 Get 1 Free",
+            "Pick Any Two Watches",
+            "Second Watch Free"
+          ],
+          "descricoes": [
+            "Free worldwide shipping",
+            "No code needed"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A16__C1_P2_vida-bogo_pellorini-aria_4_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-aria",
+              "titulo": "Pellorini Aria",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A16__C1_P2_vida-bogo_pellorini-clovera_3_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-clovera",
+              "titulo": "Pellorini Clovera",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A16__C1_P2_vida-bogo_pellorini-carina_3_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-carina",
+              "titulo": "Pellorini Carina",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A16__C1_P2_vida-bogo_pellorini-bellissima_4_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-bellissima",
+              "titulo": "Pellorini Bellissima",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A16__C1_P2_vida-bogo_pellorini-aria_4_1x1.jpg",
+            "A16__C1_P2_vida-bogo_pellorini-clovera_3_1x1.jpg",
+            "A16__C1_P2_vida-bogo_pellorini-carina_3_1x1.jpg",
+            "A16__C1_P2_vida-bogo_pellorini-bellissima_4_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        }
+      ]
+    },
+    {
+      "id": "CJ5",
+      "nome": "CJ5 | Confiança",
+      "orcamento_diario_usd": 20,
+      "otimizacao": "Conversões > Compra (Purchase) no site",
+      "lance": "Maior volume, sem limite de custo nos dias 1–14. A partir do dia 15: limite de custo de US$ 20",
+      "atribuicao": "7 dias após o clique ou 1 dia após a visualização",
+      "paises": [
+        "US",
+        "GB",
+        "CA",
+        "AU"
+      ],
+      "idade": "18–65+",
+      "genero": "Todos",
+      "publico": "Advantage+ audience ligado, sem interesses (o criativo segmenta)",
+      "posicionamentos": "Advantage+ (todos)",
+      "idioma": "Sem filtro",
+      "anuncios": [
+        {
+          "id": "A17",
+          "nome": "A17 | C4_P3_garantia-90d",
+          "conceito": "risco",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Wear it for 90 days.\nIf you don't love it, send it back for a full refund. No questions asked.\nEvery Pellorini also comes with a 2-year warranty and free tracked worldwide shipping.",
+            "Buying a watch online feels like a risk. So we removed it.\n90-day money-back guarantee + 2-year warranty.\nAnd today, the second watch is free."
+          ],
+          "titulos": [
+            "90-Day Money-Back Guarantee",
+            "Love It or Return It"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "2-year warranty"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A17__C4_P3_garantia-90d_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A17__C4_P3_garantia-90d_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A17__C4_P3_garantia-90d_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A17__C4_P3_garantia-90d_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A17__C4_P3_garantia-90d_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A17__C4_P3_garantia-90d_Vittorio_1x1.jpg",
+            "A17__C4_P3_garantia-90d_Dominante_1x1.jpg",
+            "A17__C4_P3_garantia-90d_Milano_1x1.jpg",
+            "A17__C4_P3_garantia-90d_Opulent_1x1.jpg",
+            "A17__C4_P3_garantia-90d_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A18",
+          "nome": "A18 | C3_P3_generico-x-nos",
+          "conceito": "qualidade",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "Most cheap watches tarnish, scratch and end up in a drawer.\nPellorini is different:\n✔ 316L stainless steel that doesn't tarnish\n✔ Sapphire crystal\n✔ Adjustable bracelet with sizing tool\n✔ 2-year warranty and 90 days to return",
+            "Built to be worn every day, not saved for special occasions.\n316L steel, sapphire crystal and a 2-year warranty on every watch.\nBuy 1, get 1 free."
+          ],
+          "titulos": [
+            "Built to Last. Priced to Make Sense.",
+            "Made to Be Worn Every Day"
+          ],
+          "descricoes": [
+            "2-year warranty",
+            "Buy 1 Get 1 Free"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A18__C3_P3_generico-x-nos_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A18__C3_P3_generico-x-nos_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A18__C3_P3_generico-x-nos_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A18__C3_P3_generico-x-nos_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A18__C3_P3_generico-x-nos_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A18__C3_P3_generico-x-nos_Vittorio_1x1.jpg",
+            "A18__C3_P3_generico-x-nos_Dominante_1x1.jpg",
+            "A18__C3_P3_generico-x-nos_Milano_1x1.jpg",
+            "A18__C3_P3_generico-x-nos_Opulent_1x1.jpg",
+            "A18__C3_P3_generico-x-nos_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A19",
+          "nome": "A19 | C2_P1_tweet",
+          "conceito": "preco",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The look people notice. The price nobody guesses. ⌚\nPellorini watches are made with 316L stainless steel and a scratch-resistant face, without the luxury markup.\nRight now, the second watch is free.",
+            "Most of what you pay for a designer watch is the name on the dial.\nWe skip the logo tax: 316L steel, sapphire crystal and a 2-year warranty.\nBuy 1, get 1 free.",
+            "Unpopular opinion: you don't need to spend $5,000 to look like you did.\nShop the Pellorini best sellers. Second watch free."
+          ],
+          "titulos": [
+            "The $10K Look, Without the Price Tag",
+            "Skip the Logo Tax",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A19__C2_P1_tweet_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A19__C2_P1_tweet_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A19__C2_P1_tweet_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A19__C2_P1_tweet_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A19__C2_P1_tweet_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A19__C2_P1_tweet_Vittorio_1x1.jpg",
+            "A19__C2_P1_tweet_Dominante_1x1.jpg",
+            "A19__C2_P1_tweet_Milano_1x1.jpg",
+            "A19__C2_P1_tweet_Opulent_1x1.jpg",
+            "A19__C2_P1_tweet_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        },
+        {
+          "id": "A20",
+          "nome": "A20 | C2_P1_ancora-10k",
+          "conceito": "preco",
+          "cta": "SHOP_NOW",
+          "textos_principais": [
+            "The look people notice. The price nobody guesses. ⌚\nPellorini watches are made with 316L stainless steel and a scratch-resistant face, without the luxury markup.\nRight now, the second watch is free.",
+            "Most of what you pay for a designer watch is the name on the dial.\nWe skip the logo tax: 316L steel, sapphire crystal and a 2-year warranty.\nBuy 1, get 1 free.",
+            "Unpopular opinion: you don't need to spend $5,000 to look like you did.\nShop the Pellorini best sellers. Second watch free."
+          ],
+          "titulos": [
+            "The $10K Look, Without the Price Tag",
+            "Skip the Logo Tax",
+            "Buy 1 Get 1 Free"
+          ],
+          "descricoes": [
+            "Buy 1 Get 1 Free",
+            "Free worldwide shipping"
+          ],
+          "formato": "carrossel",
+          "url": "https://pellorini.com/collections/best-sellers",
+          "cards": [
+            {
+              "imagem": "A20__C2_P1_ancora-10k_Vittorio_1x1.jpg",
+              "link": "https://pellorini.com/products/vittorio",
+              "titulo": "Pellorini Vittorio",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A20__C2_P1_ancora-10k_Dominante_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-dominante",
+              "titulo": "Pellorini Dominante",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A20__C2_P1_ancora-10k_Milano_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-milano",
+              "titulo": "Pellorini Milano",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A20__C2_P1_ancora-10k_Opulent_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-opulent",
+              "titulo": "Pellorini Opulent",
+              "descricao": "Buy 1 Get 1 Free"
+            },
+            {
+              "imagem": "A20__C2_P1_ancora-10k_Maretti_1x1.jpg",
+              "link": "https://pellorini.com/products/pellorini-maretti",
+              "titulo": "Pellorini Maretti",
+              "descricao": "Buy 1 Get 1 Free"
+            }
+          ],
+          "imagens": [
+            "A20__C2_P1_ancora-10k_Vittorio_1x1.jpg",
+            "A20__C2_P1_ancora-10k_Dominante_1x1.jpg",
+            "A20__C2_P1_ancora-10k_Milano_1x1.jpg",
+            "A20__C2_P1_ancora-10k_Opulent_1x1.jpg",
+            "A20__C2_P1_ancora-10k_Maretti_1x1.jpg"
+          ],
+          "obs": "Carrossel: cada card com a própria imagem 1:1, título, descrição e link da página do relógio. Texto principal = textos_principais[0] (carrossel aceita 1). Link do card final 'ver mais' = url (coleção). Desligar 'ordenar cards automaticamente' não é necessário."
+        }
+      ]
+    }
+  ],
+  "campanha_catalogo": {
+    "nome": "PELLORINI | Catálogo | BOGO | EN",
+    "objetivo": "Vendas (OUTCOME_SALES) com anúncio de catálogo (Advantage+ catalog ads)",
+    "orcamento_diario_usd": 50,
+    "status_inicial": "PAUSADA",
+    "catalogo": "Catálogo da loja Pellorini na Shopify (pellorini.com / essiora.com) > conjunto de produtos com a tag 'best-sellers' (45 produtos)",
+    "conjunto": "CJ6 | Catálogo | Best Sellers: mesmo público, países, otimização e lance do padrão; orçamento US$ 50/dia",
+    "anuncio": "A21 | C9_catalogo-bogo: anúncio de catálogo (carrossel + coleção) com a moldura 'moldura-catalogo-bogo.png' aplicada às imagens do catálogo",
+    "textos": {
+      "textos": [
+        "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+        "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+        "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+      ],
+      "titulos": [
+        "Buy 1 Get 1 Free",
+        "Pick Any Two Watches",
+        "Second Watch Free"
+      ],
+      "descricoes": [
+        "Free worldwide shipping",
+        "No code needed"
+      ]
+    }
+  },
+  "regras": [
+    "Tudo criado PAUSADO. Só ativar depois da aprovação da pessoa.",
+    "Melhorias do Advantage+ Creative: desligar reescrita/variação de texto e efeitos automáticos; manter ajuste de posicionamento.",
+    "Anúncios com formato 'flexivel' (vários relógios por imagem): asset feed com todas as imagens (1:1 e 9:16) e todas as variações de texto, título e descrição; link = coleção.",
+    "Anúncios com formato 'carrossel' (1 relógio por imagem): cada card leva à página do próprio relógio (cards[].link), com título = nome do relógio e descrição 'Buy 1 Get 1 Free'; texto principal = textos_principais[0].",
+    "Cortar um anúncio que gastar US$ 40 (2× o CPA) sem compra. Julgar o conjunto a cada 7 dias.",
+    "Escalar +20% a cada ~4 dias nos conjuntos com CPA de 3–7 dias ≤ US$ 20; se passar, −15%.",
+    "Família nova entra em conjunto novo; não pausar vencedores ao subir novos."
+  ],
+  "textos_por_conceito": {
+    "oferta": {
+      "textos": [
+        "One for you. One for them. 🎁\nBuy any Pellorini watch and the second one is on us.\n✔ 316L stainless steel\n✔ 2-year warranty\n✔ 90-day money-back guarantee\n✔ Free tracked worldwide shipping",
+        "BUY 1, GET 1 FREE ⌚⌚\nPick any two Pellorini watches. You only pay for one.\nNo code needed: the discount is applied in your cart.",
+        "Why buy one watch when the second is free?\nChoose your two favorites from our best sellers and pay for just one.\nFree tracked worldwide shipping and 90 days to return."
+      ],
+      "titulos": [
+        "Buy 1 Get 1 Free",
+        "Pick Any Two Watches",
+        "Second Watch Free"
+      ],
+      "descricoes": [
+        "Free worldwide shipping",
+        "No code needed"
+      ]
+    },
+    "preco": {
+      "textos": [
+        "The look people notice. The price nobody guesses. ⌚\nPellorini watches are made with 316L stainless steel and a scratch-resistant face, without the luxury markup.\nRight now, the second watch is free.",
+        "Most of what you pay for a designer watch is the name on the dial.\nWe skip the logo tax: 316L steel, sapphire crystal and a 2-year warranty.\nBuy 1, get 1 free.",
+        "Unpopular opinion: you don't need to spend $5,000 to look like you did.\nShop the Pellorini best sellers. Second watch free."
+      ],
+      "titulos": [
+        "The $10K Look, Without the Price Tag",
+        "Skip the Logo Tax",
+        "Buy 1 Get 1 Free"
+      ],
+      "descricoes": [
+        "Buy 1 Get 1 Free",
+        "Free worldwide shipping"
+      ]
+    },
+    "qualidade": {
+      "textos": [
+        "Most cheap watches tarnish, scratch and end up in a drawer.\nPellorini is different:\n✔ 316L stainless steel that doesn't tarnish\n✔ Sapphire crystal\n✔ Adjustable bracelet with sizing tool\n✔ 2-year warranty and 90 days to return",
+        "Built to be worn every day, not saved for special occasions.\n316L steel, sapphire crystal and a 2-year warranty on every watch.\nBuy 1, get 1 free."
+      ],
+      "titulos": [
+        "Built to Last. Priced to Make Sense.",
+        "Made to Be Worn Every Day"
+      ],
+      "descricoes": [
+        "2-year warranty",
+        "Buy 1 Get 1 Free"
+      ]
+    },
+    "risco": {
+      "textos": [
+        "Wear it for 90 days.\nIf you don't love it, send it back for a full refund. No questions asked.\nEvery Pellorini also comes with a 2-year warranty and free tracked worldwide shipping.",
+        "Buying a watch online feels like a risk. So we removed it.\n90-day money-back guarantee + 2-year warranty.\nAnd today, the second watch is free."
+      ],
+      "titulos": [
+        "90-Day Money-Back Guarantee",
+        "Love It or Return It"
+      ],
+      "descricoes": [
+        "Buy 1 Get 1 Free",
+        "2-year warranty"
+      ]
+    },
+    "desejo_h": {
+      "textos": [
+        "Meet our best sellers. ⌚\nSunray dials, 316L stainless steel and a bracelet that fits any wrist.\nPick any two, the second one is free.",
+        "Dressed up or down, it just works.\nDiscover the Pellorini best sellers with free tracked worldwide shipping.",
+        "The watch people ask about.\nShop Pellorini: buy 1 and get 1 free."
+      ],
+      "titulos": [
+        "Meet the Pellorini Best Sellers",
+        "Your New Everyday Watch",
+        "Buy 1 Get 1 Free"
+      ],
+      "descricoes": [
+        "Buy 1 Get 1 Free",
+        "Free worldwide shipping"
+      ]
+    },
+    "desejo_m": {
+      "textos": [
+        "Small details. Big difference. ✨\nDelicate gold-tone watches made for every day.\nPick any two, the second one is free.",
+        "The everyday piece she'll never take off.\nFree tracked worldwide shipping and 90 days to return.",
+        "Quiet luxury, every day.\nShop our women's best sellers: buy 1, get 1 free."
+      ],
+      "titulos": [
+        "Everyday Elegance",
+        "Buy 1 Get 1 Free",
+        "The Gift She'll Wear Every Day"
+      ],
+      "descricoes": [
+        "Free worldwide shipping",
+        "Buy 1 Get 1 Free"
+      ]
+    },
+    "presente": {
+      "textos": [
+        "The gift that comes in pairs. 🎁\nBuy a Pellorini for them and the second one is free. Keep it or gift it.\nFree tracked worldwide shipping.",
+        "Anniversary, birthday or just because.\nBuy 1 Pellorini watch, get 1 free: one for you, one for them."
+      ],
+      "titulos": [
+        "One for You. One for Them.",
+        "Buy 1 Get 1 Free"
+      ],
+      "descricoes": [
+        "Free worldwide shipping",
+        "90-day returns"
+      ]
+    },
+    "escolha": {
+      "textos": [
+        "Classic or iced? Silver or gold?\nYou don't have to choose: buy 1 Pellorini, get the second one free.",
+        "Which one are you?\nPick your two favorites from our best sellers and pay for just one."
+      ],
+      "titulos": [
+        "Can't Choose? Get Both.",
+        "Buy 1 Get 1 Free"
+      ],
+      "descricoes": [
+        "Free worldwide shipping",
+        "No code needed"
+      ]
+    }
+  },
+  "cta": "SHOP_NOW (Comprar agora)"
+}

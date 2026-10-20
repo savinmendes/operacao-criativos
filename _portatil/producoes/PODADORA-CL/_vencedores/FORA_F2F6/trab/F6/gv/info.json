@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\FORA_F2F6\\trab\\F6\\F6.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 4.0,
+  "fala_s": 2.18,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 4.0
+   }
+  ],
+  "ganho_db": 1.6
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F6 - KIT-EXPLODIDO-B-ES-CL.mp4"
+}

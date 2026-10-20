@@ -1,0 +1,51 @@
+[
+ {
+  "w": "Ô",
+  "ini": 0.046,
+  "fim": 0.197,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "glorieux",
+  "ini": 0.313,
+  "fim": 0.731,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "saint",
+  "ini": 0.766,
+  "fim": 0.952,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "Benoît...",
+  "ini": 0.987,
+  "fim": 1.44,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "regarde",
+  "ini": 1.765,
+  "fim": 2.148,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "ma",
+  "ini": 2.171,
+  "fim": 2.276,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "terre.",
+  "ini": 2.345,
+  "fim": 2.74,
+  "personagem": "campesino",
+  "parte": "reza"
+ }
+]

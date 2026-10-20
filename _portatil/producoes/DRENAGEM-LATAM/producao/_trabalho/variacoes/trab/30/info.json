@@ -1,0 +1,48 @@
+{
+ "var": "30",
+ "gancho": "G10",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Esa pancita no es grasa. Es líquido atrapado, y se drena. Yo tardé años en entenderlo.",
+ "Hd": 6.866666666666666,
+ "fala_s": 6.46,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 10.691,
+   "dur": 1.7333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 12.775,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 8.225,
+   "dur": 2.1
+  },
+  {
+   "src": "30",
+   "ini": 18.025,
+   "dur": 1.5
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Esa pancita no es grasa.",
+   0.035
+  ],
+  [
+   "Es líquido atrapado, y se drena.",
+   2.02
+  ],
+  [
+   "Yo tardé años en entenderlo.",
+   4.528
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 30 - G10-PANCITA-NO-ES-GRASA x AD30.mp4",
+ "seed": 213
+}

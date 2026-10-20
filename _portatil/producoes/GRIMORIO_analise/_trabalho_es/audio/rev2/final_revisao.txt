@@ -1,0 +1,84 @@
+REVISÃO: final.mp4
+duração 158.83s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 35.9 MB
+decodificação: OK
+pts do áudio: 6841 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1006-1080, x 227-713 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\GRIMORIO_analise\_trabalho_es\audio\rev2\final_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.12 Gente, están tratando de impedir que este sacerdote ayude a nuestra gente.
+   4.12-  7.16 Graben, no quieren que el pueblo prospere.
+   7.16- 12.04 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  12.04- 16.60 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida.
+  16.60- 21.76 Le enseñé esta oración a mi amigo, el padre Pablo, y él la va a revelar en una transmisión en vivo.
+  21.76- 27.00 Presten mucha atención porque será la última vez que voy a enseñar esto en público a
+  27.00- 32.76 a pedido de mi amigo, el Padre Joel, a quien intentaron silenciar.
+  32.76- 36.76 O poderoso San Benito, guardián de los arcanos sagrados,
+  36.76- 39.96 que venciste a las serpientes con la señal de la cruz
+  39.96- 44.24 y callaste el rugido de los abismos con tu fe inquebrantable,
+  44.24- 48.40 invoco ahora las doce palabras selladas por tu mano.
+  48.40- 54.40 Crux, lux, fide signis, veritas, silentium, gladius,
+  54.40- 63.12 fortitud, custodias, santitas, espíritus y triunfus. Esta es la poderosísima oración
+  63.12- 68.92 de las 12 palabras del grimorio sagrado y secreto de San Benito, que está ayudando a muchas
+  68.92- 75.36 familias hispanas y cada día llegan testimonios de bendiciones. Fue escrita por el propio
+  75.36- 83.32 San Benito en su regla y se mantuvo en secreto durante 918 años lejos de la humanidad,
+  83.32- 89.24 un grupo de monjes tenía acceso a esta oración completa. Por eso nunca habían oído hablar
+  89.24- 95.84 de ella, la traje de un viaje que hice a Italia para revelar este secreto a nuestra gente.
+  95.84-103.08 Y la última vez que enseñé esta oración en un congreso, recibí más de 497 testimonios
+ 103.08-108.92 de bendiciones al día siguiente. Fue increíble, pero atención, tiene que hacerse de la
+ 108.92-115.52 forma correcta siguiendo las instrucciones, porque no es una oración común. Tiene instrucciones
+ 115.52-120.54 y una manera correcta de hacerla y de escucharla.
+ 120.54-126.04 Voy a pedirle a la producción que deje el libro Grimorio Sagrado y Secreto de San Benito,
+ 126.04-132.32 junto con el collar de plata de San Benito, disponible en el sitio web, para que puedan
+ 132.32-137.52 hacerlo de la forma correcta. Pero no sé por cuánto tiempo va a estar disponible.
+ 137.52-143.66 mientras todavía sea posible a partir de hoy le vas a entregar a Dios tus
+ 143.66-149.62 dificultades económicas y le darás la bienvenida a una vida próspera vuelve aquí
+ 149.62-154.10 después de siete días para contar las bendiciones que llegaron a tu vida
+ 154.10-160.62 envía este vídeo a quien amas y haz la oración de la forma correcta
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  4.26    Gente, estão tentando impedir que este sacerdote ajude a nossa gente.
+   4.26-  7.20    Grave, não querem que o povo prospera.
+   8.00- 14.30    É indignante ver o que me fizeram só porque ensinei uma oração que poderia vencer e ajudar muitas pessoas.
+  14.30- 16.70    Mas a verdade não vai ficar escondida.
+  16.70- 21.80    Eu ensinei esta oração ao meu amigo, o padre Pablo, e ele vai revelar em uma transmissão viva.
+  21.80- 26.90    Prestem muita atenção porque será a última vez que vou ensinar isso em público,
+  26.90- 31.90    A pedido de meu amigo, o Padre Joel, a quem tentaram silenciar,
+  31.90- 36.90    O poderoso San Benito, guardiante dos arcanos sagrados,
+  36.90- 39.90    Que venciste a las serpientes con la señal de la cruz
+  39.90- 43.90    E callaste el rugido de los abismos con tu fein quebrantable,
+  43.90- 47.90    Invoco ahora las doce palabras selladas por tu mano,
+  47.90- 55.90    Crux, lux, fide signis, veritas, silentium, gladius, fortitudo, custodias,
+  55.90- 60.90    São Dias, Santitas, Espíritos e Triunfus.
+  60.90- 63.90    Esta é a poderosíssima oração de as 12 palavras
+  63.90- 66.90    do Grimório, Sagrado e Secreto de San Benito,
+  66.90- 69.90    que está ajudando a muitas famílias hispanas
+  69.90- 72.90    e cada dia chegam testemunhos de bendições.
+  72.90- 76.90    Foi escrita por o próprio San Benito em sua regla
+  76.90- 82.90    e se mantuvo em secreto durante 918 anos lejos da humanidade.
+  82.90- 86.90    só um grupo de monjes tinha acesso a esta oração completa.
+  86.90- 89.90    Por isso nunca havia ouvido falar de ela,
+  89.90- 94.90    a traje de um viaje que fiz à Itália para revelar este secreto à nossa gente.
+  94.90- 98.90    E a última vez que ensinou esta oração em um congresso,
+  98.90-104.90    recebi mais de 497 testemunhos de bendições ao dia seguinte.
+ 104.90-106.90    Foi incrível, mas atenção,
+ 106.90-111.90    tem que fazer-se de forma correta seguindo as instruções,
+ 111.90-114.38    porque não é uma oração comum,
+ 114.38-118.86    tem instruções e uma maneira correta de fazer ela e de escutar ela.
+ 120.22-125.90    Vou pedir-lhe a produção que deixa o livro Grimorio Sagrado e Secreto de San Benito,
+ 125.90-130.54    junto com o Collar de Plata de San Benito, disponível no site web,
+ 131.50-134.06    para que possam fazer isso de forma correta.
+ 134.06-137.18    Mas não sei por quanto tempo vai estar disponível.
+ 137.18-139.82    Entra enquanto ainda seja possível.
+ 139.82-148.82    A partir de hoje, lhe darás a Deus as suas dificultades econômicas e lhe darás a bem-vinda a uma vida próspera.
+ 148.82-153.82    Volte aqui depois de 7 dias para contar as bendições que chegaram à sua vida.
+ 153.82-158.82    Envie este vídeo a quem ama e faça a oração da forma correta.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

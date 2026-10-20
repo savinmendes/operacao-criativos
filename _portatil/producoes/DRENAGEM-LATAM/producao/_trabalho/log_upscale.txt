@@ -1,0 +1,174 @@
+[22:00] inicio ad18
+[tmp_up] 30/90s de vídeo | 33% | decorrido 30s | falta ~1min01s
+[tmp_up] 60/90s de vídeo | 66% | decorrido 1min00s | falta ~30s
+[tmp_up] 90/90s de vídeo | 100% | decorrido 1min29s | falta ~0s
+[tmp_up] 90/90s de vídeo | 100% | decorrido 1min32s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad18/tmp_up.mp4 (1min33s)
+[22:01] fim ad18
+[22:01] inicio ad25
+[tmp_up] 30/292s de vídeo | 10% | decorrido 27s | falta ~4min01s
+[tmp_up] 60/292s de vídeo | 21% | decorrido 56s | falta ~3min38s
+[tmp_up] 90/292s de vídeo | 31% | decorrido 1min40s | falta ~3min45s
+[tmp_up] 120/292s de vídeo | 41% | decorrido 2min33s | falta ~3min40s
+[tmp_up] 150/292s de vídeo | 51% | decorrido 3min22s | falta ~3min12s
+[tmp_up] 180/292s de vídeo | 62% | decorrido 4min11s | falta ~2min36s
+[tmp_up] 210/292s de vídeo | 72% | decorrido 4min56s | falta ~1min56s
+[tmp_up] 240/292s de vídeo | 82% | decorrido 5min40s | falta ~1min14s
+[tmp_up] 270/292s de vídeo | 92% | decorrido 6min28s | falta ~32s
+[tmp_up] 292/292s de vídeo | 100% | decorrido 6min54s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad25/tmp_up.mp4 (6min59s)
+[22:08] fim ad25
+[22:08] inicio ad20
+[tmp_up] 30/297s de vídeo | 10% | decorrido 32s | falta ~4min49s
+[tmp_up] 60/297s de vídeo | 20% | decorrido 1min04s | falta ~4min14s
+[tmp_up] 90/297s de vídeo | 30% | decorrido 1min37s | falta ~3min44s
+[tmp_up] 120/297s de vídeo | 40% | decorrido 2min11s | falta ~3min13s
+[tmp_up] 150/297s de vídeo | 51% | decorrido 2min45s | falta ~2min41s
+[tmp_up] 180/297s de vídeo | 61% | decorrido 3min20s | falta ~2min09s
+[tmp_up] 210/297s de vídeo | 71% | decorrido 4min08s | falta ~1min42s
+[tmp_up] 240/297s de vídeo | 81% | decorrido 4min53s | falta ~1min09s
+[tmp_up] 270/297s de vídeo | 91% | decorrido 5min26s | falta ~32s
+[tmp_up] 297/297s de vídeo | 100% | decorrido 5min59s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad20/tmp_up.mp4 (6min03s)
+[22:14] fim ad20
+[22:14] inicio ad05
+[tmp_up] 30/318s de vídeo | 9% | decorrido 32s | falta ~5min14s
+[tmp_up] 60/318s de vídeo | 19% | decorrido 1min06s | falta ~4min44s
+[tmp_up] 90/318s de vídeo | 28% | decorrido 1min40s | falta ~4min14s
+[tmp_up] 120/318s de vídeo | 38% | decorrido 2min25s | falta ~3min59s
+[tmp_up] 150/318s de vídeo | 47% | decorrido 3min24s | falta ~3min48s
+[tmp_up] 180/318s de vídeo | 57% | decorrido 4min16s | falta ~3min16s
+[tmp_up] 210/318s de vídeo | 66% | decorrido 5min06s | falta ~2min36s
+[tmp_up] 240/318s de vídeo | 76% | decorrido 5min44s | falta ~1min51s
+[tmp_up] 270/318s de vídeo | 85% | decorrido 6min36s | falta ~1min09s
+[tmp_up] 300/318s de vídeo | 94% | decorrido 7min24s | falta ~26s
+[tmp_up] 318/318s de vídeo | 100% | decorrido 7min53s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad05/tmp_up.mp4 (7min57s)
+[22:22] fim ad05
+[22:22] inicio ad30
+[tmp_up] 30/393s de vídeo | 8% | decorrido 28s | falta ~5min43s
+[tmp_up] 60/393s de vídeo | 15% | decorrido 55s | falta ~5min08s
+[tmp_up] 90/393s de vídeo | 23% | decorrido 1min33s | falta ~5min15s
+[tmp_up] 120/393s de vídeo | 31% | decorrido 2min18s | falta ~5min16s
+[tmp_up] 150/393s de vídeo | 38% | decorrido 2min50s | falta ~4min36s
+[tmp_up] 180/393s de vídeo | 46% | decorrido 3min18s | falta ~3min55s
+[tmp_up] 210/393s de vídeo | 53% | decorrido 3min45s | falta ~3min17s
+[tmp_up] 240/393s de vídeo | 61% | decorrido 4min13s | falta ~2min42s
+[tmp_up] 270/393s de vídeo | 69% | decorrido 4min43s | falta ~2min09s
+[tmp_up] 300/393s de vídeo | 76% | decorrido 5min15s | falta ~1min38s
+[tmp_up] 330/393s de vídeo | 84% | decorrido 6min05s | falta ~1min10s
+[tmp_up] 360/393s de vídeo | 92% | decorrido 6min37s | falta ~36s
+[tmp_up] 390/393s de vídeo | 99% | decorrido 7min16s | falta ~3s
+[tmp_up] 393/393s de vídeo | 100% | decorrido 7min22s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad30/tmp_up.mp4 (7min26s)
+[22:30] fim ad30
+[22:30] inicio ad21
+[tmp_up] 30/326s de vídeo | 9% | decorrido 33s | falta ~5min29s
+[tmp_up] 60/326s de vídeo | 18% | decorrido 1min05s | falta ~4min50s
+[tmp_up] 90/326s de vídeo | 28% | decorrido 1min37s | falta ~4min16s
+[tmp_up] 120/326s de vídeo | 37% | decorrido 2min09s | falta ~3min42s
+[tmp_up] 150/326s de vídeo | 46% | decorrido 2min41s | falta ~3min09s
+[tmp_up] 180/326s de vídeo | 55% | decorrido 3min11s | falta ~2min35s
+[tmp_up] 210/326s de vídeo | 64% | decorrido 3min39s | falta ~2min01s
+[tmp_up] 240/326s de vídeo | 74% | decorrido 4min07s | falta ~1min28s
+[tmp_up] 270/326s de vídeo | 83% | decorrido 4min42s | falta ~58s
+[tmp_up] 300/326s de vídeo | 92% | decorrido 5min11s | falta ~27s
+[tmp_up] 326/326s de vídeo | 100% | decorrido 5min37s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad21/tmp_up.mp4 (5min41s)
+[22:35] fim ad21
+[22:35] inicio ad04
+[tmp_up] 30/379s de vídeo | 8% | decorrido 41s | falta ~7min57s
+[tmp_up] 60/379s de vídeo | 16% | decorrido 1min41s | falta ~8min58s
+[tmp_up] 90/379s de vídeo | 24% | decorrido 3min01s | falta ~9min41s
+[tmp_up] 120/379s de vídeo | 32% | decorrido 4min24s | falta ~9min31s
+[tmp_up] 150/379s de vídeo | 40% | decorrido 5min48s | falta ~8min51s
+[tmp_up] 180/379s de vídeo | 47% | decorrido 6min49s | falta ~7min32s
+[tmp_up] 210/379s de vídeo | 55% | decorrido 8min07s | falta ~6min32s
+[tmp_up] 240/379s de vídeo | 63% | decorrido 9min28s | falta ~5min29s
+[tmp_up] 270/379s de vídeo | 71% | decorrido 10min18s | falta ~4min09s
+[tmp_up] 300/379s de vídeo | 79% | decorrido 11min07s | falta ~2min55s
+[tmp_up] 330/379s de vídeo | 87% | decorrido 11min47s | falta ~1min45s
+[tmp_up] 360/379s de vídeo | 95% | decorrido 12min21s | falta ~39s
+[tmp_up] 379/379s de vídeo | 100% | decorrido 12min45s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad04/tmp_up.mp4 (12min50s)
+[22:48] fim ad04
+[22:48] inicio ad01
+[tmp_up] 30/463s de vídeo | 6% | decorrido 41s | falta ~10min01s
+[tmp_up] 60/463s de vídeo | 13% | decorrido 1min23s | falta ~9min20s
+[tmp_up] 90/463s de vídeo | 19% | decorrido 2min12s | falta ~9min09s
+[tmp_up] 120/463s de vídeo | 26% | decorrido 2min55s | falta ~8min21s
+[tmp_up] 150/463s de vídeo | 32% | decorrido 4min00s | falta ~8min22s
+[tmp_up] 180/463s de vídeo | 39% | decorrido 5min04s | falta ~7min59s
+[tmp_up] 210/463s de vídeo | 45% | decorrido 5min41s | falta ~6min51s
+[tmp_up] 240/463s de vídeo | 52% | decorrido 6min21s | falta ~5min54s
+[tmp_up] 270/463s de vídeo | 58% | decorrido 6min58s | falta ~4min59s
+[tmp_up] 300/463s de vídeo | 65% | decorrido 7min35s | falta ~4min08s
+[tmp_up] 330/463s de vídeo | 71% | decorrido 8min07s | falta ~3min17s
+[tmp_up] 360/463s de vídeo | 78% | decorrido 8min56s | falta ~2min34s
+[tmp_up] 390/463s de vídeo | 84% | decorrido 10min06s | falta ~1min54s
+[tmp_up] 420/463s de vídeo | 91% | decorrido 10min58s | falta ~1min08s
+[tmp_up] 450/463s de vídeo | 97% | decorrido 11min50s | falta ~21s
+[tmp_up] 463/463s de vídeo | 100% | decorrido 12min30s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/tmp_up.mp4 (12min40s)
+[23:01] fim ad01
+[23:01] inicio ad24
+[tmp_up] 30/776s de vídeo | 4% | decorrido 54s | falta ~22min26s
+[tmp_up] 60/776s de vídeo | 8% | decorrido 1min28s | falta ~17min33s
+[tmp_up] 90/776s de vídeo | 12% | decorrido 2min29s | falta ~18min57s
+[tmp_up] 120/776s de vídeo | 15% | decorrido 3min37s | falta ~19min47s
+[tmp_up] 150/776s de vídeo | 19% | decorrido 4min38s | falta ~19min21s
+[tmp_up] 180/776s de vídeo | 23% | decorrido 6min08s | falta ~20min21s
+[tmp_up] 210/776s de vídeo | 27% | decorrido 8min05s | falta ~21min49s
+[tmp_up] 240/776s de vídeo | 31% | decorrido 9min48s | falta ~21min54s
+[tmp_up] 270/776s de vídeo | 35% | decorrido 11min20s | falta ~21min15s
+[tmp_up] 300/776s de vídeo | 39% | decorrido 12min22s | falta ~19min37s
+[tmp_up] 330/776s de vídeo | 43% | decorrido 13min05s | falta ~17min41s
+[tmp_up] 360/776s de vídeo | 46% | decorrido 13min47s | falta ~15min56s
+[tmp_up] 390/776s de vídeo | 50% | decorrido 14min31s | falta ~14min22s
+[tmp_up] 420/776s de vídeo | 54% | decorrido 15min30s | falta ~13min08s
+[tmp_up] 450/776s de vídeo | 58% | decorrido 16min21s | falta ~11min50s
+[tmp_up] 480/776s de vídeo | 62% | decorrido 17min12s | falta ~10min36s
+[tmp_up] 510/776s de vídeo | 66% | decorrido 17min50s | falta ~9min17s
+[tmp_up] 540/776s de vídeo | 70% | decorrido 18min36s | falta ~8min07s
+[tmp_up] 570/776s de vídeo | 73% | decorrido 19min14s | falta ~6min57s
+[tmp_up] 600/776s de vídeo | 77% | decorrido 19min48s | falta ~5min48s
+[tmp_up] 630/776s de vídeo | 81% | decorrido 20min19s | falta ~4min42s
+[tmp_up] 660/776s de vídeo | 85% | decorrido 20min49s | falta ~3min39s
+[tmp_up] 690/776s de vídeo | 89% | decorrido 21min22s | falta ~2min39s
+[tmp_up] 720/776s de vídeo | 93% | decorrido 22min19s | falta ~1min44s
+[tmp_up] 750/776s de vídeo | 97% | decorrido 23min22s | falta ~48s
+[tmp_up] 776/776s de vídeo | 100% | decorrido 24min19s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad24/tmp_up.mp4 (24min35s)
+[23:26] fim ad24
+[23:26] inicio ad03
+[tmp_up] 30/818s de vídeo | 4% | decorrido 1min08s | falta ~29min58s
+[tmp_up] 60/818s de vídeo | 7% | decorrido 2min07s | falta ~26min45s
+[tmp_up] 90/818s de vídeo | 11% | decorrido 2min47s | falta ~22min37s
+[tmp_up] 120/818s de vídeo | 15% | decorrido 3min22s | falta ~19min37s
+[tmp_up] 150/818s de vídeo | 18% | decorrido 3min56s | falta ~17min33s
+[tmp_up] 180/818s de vídeo | 22% | decorrido 4min29s | falta ~15min56s
+[tmp_up] 210/818s de vídeo | 26% | decorrido 5min04s | falta ~14min40s
+[tmp_up] 240/818s de vídeo | 29% | decorrido 5min34s | falta ~13min25s
+[tmp_up] 270/818s de vídeo | 33% | decorrido 6min06s | falta ~12min23s
+[tmp_up] 300/818s de vídeo | 37% | decorrido 6min37s | falta ~11min24s
+[tmp_up] 330/818s de vídeo | 40% | decorrido 7min05s | falta ~10min29s
+[tmp_up] 360/818s de vídeo | 44% | decorrido 7min40s | falta ~9min44s
+[tmp_up] 390/818s de vídeo | 48% | decorrido 8min12s | falta ~8min59s
+[tmp_up] 420/818s de vídeo | 51% | decorrido 8min41s | falta ~8min13s
+[tmp_up] 450/818s de vídeo | 55% | decorrido 9min12s | falta ~7min31s
+[tmp_up] 480/818s de vídeo | 59% | decorrido 9min40s | falta ~6min48s
+[tmp_up] 510/818s de vídeo | 62% | decorrido 10min09s | falta ~6min07s
+[tmp_up] 540/818s de vídeo | 66% | decorrido 10min47s | falta ~5min32s
+[tmp_up] 570/818s de vídeo | 70% | decorrido 11min40s | falta ~5min04s
+[tmp_up] 600/818s de vídeo | 73% | decorrido 12min33s | falta ~4min33s
+[tmp_up] 630/818s de vídeo | 77% | decorrido 13min19s | falta ~3min57s
+[tmp_up] 660/818s de vídeo | 81% | decorrido 13min55s | falta ~3min19s
+[tmp_up] 690/818s de vídeo | 84% | decorrido 14min33s | falta ~2min41s
+[tmp_up] 720/818s de vídeo | 88% | decorrido 15min05s | falta ~2min02s
+[tmp_up] 750/818s de vídeo | 92% | decorrido 15min34s | falta ~1min24s
+[tmp_up] 780/818s de vídeo | 95% | decorrido 16min04s | falta ~46s
+[tmp_up] 810/818s de vídeo | 99% | decorrido 17min08s | falta ~9s
+[tmp_up] 818/818s de vídeo | 100% | decorrido 17min24s | falta ~0s
+ok: C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad03/tmp_up.mp4 (17min49s)
+[23:43] fim ad03
+FILA_OK

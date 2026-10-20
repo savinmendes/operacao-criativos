@@ -1,0 +1,29 @@
+REVISÃO: SB-ES_COSTURERA_COMPLETA.mp4
+duração 58.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 47.3 MB
+decodificação: OK
+pts do áudio: 2753 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 21 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\costurera\completa\revisao\SB-ES_COSTURERA_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.00 recé de rodillas junto a mi máquina parada. Y esto fue lo que pasó.
+   5.00- 11.48 ¡Oh glorioso San Benito, sácame de esta escasez!
+  11.48- 17.08 Pasé casi seis meses sin un solo encargo. Mis manos, que siempre trabajaron, ya no
+  17.08- 22.72 servían para nada. Me sentía inútil. Hasta que un padre explicó algo que nadie me
+  22.72- 25.92 había dicho sobre la medalla de San Benito.
+  25.92- 31.68 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras,
+  31.68- 36.40 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  36.40- 42.72 de la forma correcta, la casa se calma, el miedo se va y uno vuelve a ver salidas donde
+  42.72- 48.48 antes solo veía puertas cerradas. Por eso dejé la explicación completa letra por
+  48.48- 53.08 letra en una transmisión en vivo que está abierta las 24 horas.
+  53.08- 58.24 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

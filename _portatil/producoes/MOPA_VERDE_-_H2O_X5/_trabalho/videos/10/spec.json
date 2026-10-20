@@ -1,0 +1,11 @@
+{
+ "video": "../../../VIDEOS/10 AD.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/10 AD - ES.mp4",
+ "W": 720, "H": 900, "audio": "orig",
+ "camadas": [
+  {"tipo": "rotulo", "rect": [0, 361, 720, 406], "linhas": ["LIMPIADOR A VAPOR H2O X5"],
+   "fundo": "#ffffff", "cores": ["#111111"], "px": 30, "fonte": "bold", "raio": 0, "pad": 6, "de": 0, "ate": 99},
+  {"tipo": "selo", "x": 478, "y": 14, "larg": 228, "linhas": ["PAGO CONTRA", "ENTREGA"], "fita": "¡PAGAS AL RECIBIR!", "de": 0, "ate": 99},
+  {"tipo": "cta", "cx": 360, "y": 560, "px": 40, "de": 5.0, "setas_de": 5.3, "setas_x": [180, 406], "setas_y": 690, "seta_tam": 100, "seta_amp": 8, "ate": 99}
+ ]
+}

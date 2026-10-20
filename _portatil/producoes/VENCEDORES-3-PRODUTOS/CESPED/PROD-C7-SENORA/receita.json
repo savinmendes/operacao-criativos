@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C7-SENORA/CESPED-CL_C7_SENORA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C7-SENORA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C7-SENORA/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C7-SENORA/corpo.alinhamento.json", "y": 1250, "chaves": ["casa", "patio", "hermana", "esta", "uno", "ruedas", "mano", "metal", "hilos", "inalámbrica", "baterías", "domingo", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "MI SEÑORA TENÍA VERGÜENZA DE NUESTRA CASA 💔", "y": 1560, "ate": 4.3},
+  "cta": {"palavra": "toca", "y": 1500},
+  "resolucao": "720",
+  "limite_mb": 30
+}

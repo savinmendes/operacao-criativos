@@ -1,0 +1,53 @@
+ok: ad05/flora/t1_final_kling.mp4 | 70 quadros | editado tinha 81 @ 24 fps | saltos>2: 5
+ok: ad05/flora/t2_final.mp4 | 67 quadros | editado tinha 81 @ 24 fps | saltos>2: 5
+ok: ad05/flora/t3_final.mp4 | 22 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+ok: ad05/flora/t4_final.mp4 | 32 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+ok: ad05/flora/t5_final_kling.mp4 | 90 quadros | editado tinha 81 @ 24 fps | saltos>2: 3
+ok: ad05/flora/t7_final.mp4 | 34 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+ok 70
+ok: t1_final_b.mp4 | 9 desfoques
+ok 90
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4
+t1_final.mp4: 70 quadros a partir de 96.833s
+t2_final.mp4: 67 quadros a partir de 99.167s
+t3_final.mp4: 22 quadros a partir de 119.933s
+t4_final.mp4: 32 quadros a partir de 120.667s
+t5_final.mp4: 90 quadros a partir de 121.733s
+t7_final.mp4: 34 quadros a partir de 249.167s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4 | 9012 quadros, 315 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\textos_lote.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4 | 458 quadros alterados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p1.mp3
+aviso: fala nova 2.32s para 3.56s exigiria 0.65x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b3.mp4 | trecho 95.19-98.75s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b3.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p2.mp3
+aviso: fala nova 1.35s para 2.33s exigiria 0.58x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b4.mp4 | trecho 246.55-248.88s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b4.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p3.mp3
+aviso: fala nova 2.46s para 3.15s exigiria 0.78x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b5.mp4 | trecho 280.65-283.80s trocado (velocidade 0.85x)
+>> ffmpeg -v error -y
+>> ffmpeg -v error -y
+parte1 273.233333
+ok: parte1_fix.mp4 | 76 quadros alterados
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\parte2.mp4 25.17s
+aviso: 5.0 min não cabe em 30 MB com qualidade; usando 900 kbps (~37 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM.mp4
+duração : 298.20s | 720x1280 | áudio: sim | 35.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 294.45s
+montagem rápida: 57s para 298s de vídeo (0.19x)
+parte1_curto 64.433333
+ok: p1fix.mp4 | 48 quadros alterados
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05c\curto\parte2.mp4 21.41s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 CURTO - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM.mp4
+duração : 86.00s | 720x1280 | áudio: sim | 24.5 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 CURTO - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 82.32s
+montagem rápida: 23s para 86s de vídeo (0.27x)
+FIM ad05

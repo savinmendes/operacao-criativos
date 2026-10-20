@@ -1,0 +1,35 @@
+# AD 15
+
+| | |
+|---|---|
+| Canal | arquivo local |
+| Duração | 08:44 |
+| Publicado | ? |
+| URL | https://www.youtube.com/watch?v=local |
+| Origem da transcrição | whisper-large-v3/cuda/es |
+| Transcrito em | 03/10/2026 11:30 |
+| Blocos | 11 (janela de 30s) |
+
+---
+
+**[00:00]** Vi a mi esposo mirar a mi mejor amiga como solía mirarme a mí Yo estaba ahí de pie olvido, que yo estaba en la habitación Y la única razón por la que ya no me olvida Es por lo que ella trajo de Brasil Llevamos 22 años casados, nos conocimos en la universidad
+
+**[00:32]** Dos hijos, una casa grande Pensé que estaba a salvo Pero no lo estaba Simplemente no estaba mirando A los 43 empezó el peso A los 45 no podía perderlo A los 47 mi esposo Dejó de abrazarme al ver la televisión A los cuarenta y ocho dejó de buscarme en la noche
+
+**[01:03]** A los cuarenta y nueve se había vuelto educado Y toda mujer casada sabe que educado significa que todo termina Me dije que era normal después de veinte años que él solo estaba cansado Mi mejor amiga Emily se fue a San Paulo al recogerla en el aeropuerto Casi paso de largo, no era la Emily que se fue
+
+**[01:34]** Había perdido peso, su cara ya no estaba hinchada Su mandíbula volvió Su piel brillaba, sus ojos tenían luz Parecía de 35 Le dije, ¿qué demonios te hiciste? Ella se rió Solo unas buenas vacaciones Dos semanas después hicimos una barbacoa Emily entró con un vestido negro y tacones
+
+**[02:06]** Para estar en el patio Michael, que llevaba una hora sentado con una cerveza Se levantó, cruzó el césped La abrazó más de lo debido y dijo Emily, te ves increíble Lo observé toda la noche Le trajo vino antes de que ella lo pidiera Se reía, le hizo preguntas sobre Brasil
+
+**[02:37]** Por cuarenta y cinco minutos Y olvido que senté en mi payas más grande Y vi a mi esposo mirarla como me miraba a mí Antes de que yo desapareciera Zaya la tocó tres veces, yo las conté a las diez de la noche
+
+**[03:14]** Centenas, sin pecuenta, dólares que compré esperando que me Y miré mis manos hasta que dejaron de temblar De Emily, Emily, solo volví a ser radiante y viva
+
+**[03:48]** Yo fui la que dejé que me apagara Me miré al espejo y a una mujer de cuarenta y nueve años que se rindió Cara hinchada, vientre contra el vestido, canas en la raíz, ojos muertos Dejé de luchar por nosotros Porque pensé que él me había elegido Y eso debía ser suficiente
+
+**[04:20]** No lo era, escuché pasos en él y tocó la puerta Sara, ¿estás bien? Abrí, me derrumbé frente a mi mejor amiga Le dije que Michael no me tocaba hace ocho meses Que odiaba a la mujer del espejo y que no sabía cómo recuperarla Emily cerró la puerta, encendió el... Sara, mírame, no me apere No uso Zempik ni inyecciones Mi hermana me mostró lo que las mujeres brasileñas hacen hace cien años
+
+**[04:55]** Saco un pequeño frasco oscuro, parecía miel, es maya, a ver No tienes peso, de menopausia, tienes lodo Cuando el estrógeno baja, el pico se detiene Eso no es grasa, es desecho endurecido Tienes que drenarlo, de los desechos, el fresno espinó
+
+**[05:30]** De hortelano, barre la basura y el trébol

@@ -1,0 +1,102 @@
+{
+ "texto": "Estos tres Yara vienen en kit por Black Friday. Pagas dos y te llevas tres y pagas al recibir.",
+ "esperado": "Estos tres Yara vienen en kit por Black Friday: pagas dos y te llevas tres, y pagas al recibir.",
+ "faltam": [],
+ "palavras": [
+  {
+   "p": "Estos",
+   "ini": 0.0,
+   "fim": 0.64
+  },
+  {
+   "p": "tres",
+   "ini": 0.64,
+   "fim": 0.94
+  },
+  {
+   "p": "Yara",
+   "ini": 0.94,
+   "fim": 1.56
+  },
+  {
+   "p": "vienen",
+   "ini": 1.56,
+   "fim": 1.98
+  },
+  {
+   "p": "en",
+   "ini": 1.98,
+   "fim": 2.44
+  },
+  {
+   "p": "kit",
+   "ini": 2.44,
+   "fim": 2.72
+  },
+  {
+   "p": "por",
+   "ini": 2.72,
+   "fim": 3.28
+  },
+  {
+   "p": "Black",
+   "ini": 3.28,
+   "fim": 3.68
+  },
+  {
+   "p": "Friday.",
+   "ini": 3.68,
+   "fim": 4.24
+  },
+  {
+   "p": "Pagas",
+   "ini": 4.86,
+   "fim": 5.44
+  },
+  {
+   "p": "dos",
+   "ini": 5.44,
+   "fim": 5.86
+  },
+  {
+   "p": "y",
+   "ini": 5.86,
+   "fim": 6.22
+  },
+  {
+   "p": "te",
+   "ini": 6.22,
+   "fim": 6.4
+  },
+  {
+   "p": "llevas",
+   "ini": 6.4,
+   "fim": 6.9
+  },
+  {
+   "p": "tres",
+   "ini": 6.9,
+   "fim": 7.3
+  },
+  {
+   "p": "y",
+   "ini": 7.3,
+   "fim": 7.72
+  },
+  {
+   "p": "pagas",
+   "ini": 7.72,
+   "fim": 8.26
+  },
+  {
+   "p": "al",
+   "ini": 8.26,
+   "fim": 8.64
+  },
+  {
+   "p": "recibir.",
+   "ini": 8.64,
+   "fim": 8.98
+  }
+ ]
+}

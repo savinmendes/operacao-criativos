@@ -1,0 +1,22 @@
+REVISÃO: CESPED-CL_C3_CUMPLEANOS.mp4
+duração 37.64s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.0 MB
+decodificação: OK
+pts do áudio: 1766 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1177-1242, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C3-CUMPLEANOS\CESPED-CL_C3_CUMPLEANOS_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00- 10.48 El cumpleaños de mi hija era en el patio y el pasto me llegaba a la cintura, hasta que probé ésta.
+  13.48- 19.54 Es corta pasto, orilladora y bordeadora en uno. Tiene ruedas, así que la usas con una sola
+  19.54- 26.04 mano, cuchilla de metal reforzada. Olvídate de los hilos que se cortan y es sin alámbrica con dos baterías.
+  30.00- 35.52 Despacho gratis a todo Chile. Pagas al recibir y tienes 90 días de garantía.
+  35.52- 37.04 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

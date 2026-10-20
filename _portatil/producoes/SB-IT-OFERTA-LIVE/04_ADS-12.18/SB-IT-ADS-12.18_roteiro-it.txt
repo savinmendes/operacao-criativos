@@ -1,0 +1,45 @@
+SB-IT-ADS-12.18 — San Benedetto · Italiano (Italia, EUR)
+Base: SB-EN-ADS-12.18 (base limpa sem legenda, entradas HeyGen com o áudio ORIGINAL ES, música demucs do ES).
+Destino: la preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN, eleven_multilingual_v2 (whisper detectou "it" 0,99).
+Duração: 32,6 s (EN 31,5 s): cena 1 alongada 0,4 s e cena 7 alongada 0,7 s (vídeo de entrada do HeyGen desacelerado)
+para caber o italiano com uma pausa real no meio do gancho e do CTA.
+
+======================================================================
+ROTEIRO EN × IT (por cena)
+======================================================================
+[0,0–5,5  Jesus na geladeira, falando — lipsync]
+EN: If you ignore me, I'll have no choice but to give the miracle you need so badly to someone else.
+IT: Se mi volti le spalle, non avrò altra scelta: darò a qualcun altro il miracolo di cui hai tanto bisogno.
+
+[5,5–10,4  Jesus com auréola, falando — lipsync]
+EN: This is your last chance to receive what I have prepared for you.
+IT: Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.
+
+[10,4–15,0  abraço]
+EN: Jesus has chosen you. He has brought you a powerful gift.
+IT: Gesù ti ha scelto. Ti ha portato un dono potente.
+
+[15,0–23,4  Jesus rezando / lendo nas nuvens]
+EN: Today, you will hear an ancient, lost prayer from the Bible that will unlock a shower of blessings and miracles over your life.
+IT: Oggi ascolterai un'antica preghiera perduta della Bibbia, che farà scendere una pioggia di benedizioni e di miracoli sulla tua vita.
+
+[23,4–26,5  Jesus com a cruz]
+EN: Don't reject me again.
+IT: Non rifiutarmi di nuovo.
+
+[26,5–32,6  CTA, Jesus com auréola falando — lipsync, seta]
+EN: Tap Learn More below, join the live prayer now, and receive your miracle before it's too late.
+IT: Tocca «Scopri di più» qui sotto, unisciti alla preghiera in diretta e ricevi il tuo miracolo, prima che sia troppo tardi.
+
+Decisões
+- "If you ignore me" → "Se mi volti le spalle": "Se mi ignori" foi testado 3x (inclusive "Se tu mi ignori" e "Se mi ignorerai")
+  e o whisper IT ouviu "Se migliori"/"Se migliorerai" (sentido oposto). "Voltare le spalle" é idiomático e mantém o teor.
+- "Today, you will hear" → "Oggi ascolterai" (destino é a live, mesma decisão do EN).
+- "a shower of blessings" → "una pioggia di benedizioni" (natural em italiano cristão; também é o "lluvia" do ES).
+- CTA padrão do lote: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta" + urgência do ES ("prima che sia troppo tardi").
+- Mesmo teor do ES/EN, sem suavizar (última occasione, darò a qualcun altro il miracolo, troppo tardi).
+- Pausas: 0,3 s após "spalle," e após "sotto," (a boca fecha → índice de pausa do lipsync); "Non rifiutarmi di nuovo"
+  a 0,9x (mais dramático) e "Oggi ascolterai…" a 0,95x para encurtar o trecho só de música (EN tinha ~2 s em 0:21; IT ≤ 1,6 s, sempre num corte de cena).
+- Legenda IT palavra a palavra no estilo do EN (caixa alta, palavra-chave em vermelho/amarelo/verde), seta vermelha
+  animada no CTA como no ES/EN (o original usa seta vermelha; mantida por consistência com o EN).

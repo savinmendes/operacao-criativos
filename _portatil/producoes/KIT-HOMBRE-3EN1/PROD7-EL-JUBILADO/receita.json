@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/PERFUMES-CL_P7_EL-JUBILADO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/corpo.alinhamento.json", "chaves": ["perfume", "62", "solicitado", "árabes", "uno", "Armaf", "galán", "Asad", "cariñosa", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "A MIS 62 AÑOS 👴🔥", "y": 1420, "ate": 4.0},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

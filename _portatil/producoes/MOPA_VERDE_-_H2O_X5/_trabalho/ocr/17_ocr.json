@@ -1,0 +1,158 @@
+[
+ {
+  "texto": "H20X5",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   277,
+   65,
+   336,
+   213
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "A cleanerthat cleans",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   185,
+   567,
+   535,
+   602
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "every.surface inyourhome",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   128,
+   615,
+   591,
+   653
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H2OX5",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   249,
+   324,
+   355,
+   446
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Carpets",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   288,
+   559,
+   429,
+   610
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Floors",
+  "ini": 4.0,
+  "fim": 6.0,
+  "caixa": [
+   303,
+   560,
+   415,
+   607
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Handheld steamer",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   201,
+   562,
+   519,
+   604
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "10",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   191,
+   1139,
+   236,
+   1172
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Airfryer",
+  "ini": 7.0,
+  "fim": 9.0,
+  "caixa": [
+   285,
+   561,
+   423,
+   607
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Oven",
+  "ini": 9.0,
+  "fim": 12.0,
+  "caixa": [
+   310,
+   562,
+   412,
+   608
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "BOSCH",
+  "ini": 12.0,
+  "fim": 14.0,
+  "caixa": [
+   431,
+   345,
+   505,
+   375
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Microwave and more",
+  "ini": 12.0,
+  "fim": 14.0,
+  "caixa": [
+   179,
+   563,
+   540,
+   606
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "14:20",
+  "ini": 12.0,
+  "fim": 14.0,
+  "caixa": [
+   233,
+   845,
+   275,
+   875
+  ],
+  "marca_ou_alerta": false
+ }
+]

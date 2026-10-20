@@ -1,0 +1,5 @@
+LIPSYNC: out.mp4 (303 quadros, rosto em 100%, rosto 201,340,313,366 [único rosto])
+  boca x original: dif. boca 10.15 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original -0.02
+  pausas da voz nova: índice de pausa 0.66 (30 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.30 (atraso 167 ms) | corr. original -0.03
+AVISO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.66); aviso: índice de pausa acima de 0.6; confira a boca nas pausas da voz na folha de contato

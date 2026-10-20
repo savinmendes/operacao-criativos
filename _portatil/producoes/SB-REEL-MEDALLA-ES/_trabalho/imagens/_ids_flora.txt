@@ -1,0 +1,16 @@
+Projeto Flora San Benito: prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (gerado 2026-10-13)
+comerciante_retrato.png  t2i-gpt-image-2-5-flare 9:16 high 2k  node 6cff4f8f-639e-4c5c-80f3-a4b0d42e7a3f  run_m172qqrar4w9kd06fxh6xxp6z58g79n9  US$0.113
+sacerdote_live.png       t2i-gpt-image-2-5-flare 9:16 high 2k  node 629eac6d-5598-473c-bbc7-8912a6e46f33  run_m1745b90q5jsdmbdctmyzqg5hs8g7ch5  US$0.113
+medalla_san_benito.png   t2i-gpt-image-2-5-flare 9:16 high 2k  node 89dea25b-1956-4795-8494-f13f1df5b118  run_m170h18b8arkh4ncne6xsqppss8g7p9s  US$0.113
+salao_vazio.png          i2i-gpt-image-2-5-flare (ref = retrato) node 792cde0a-0c19-4a83-863e-c9c0f5ca0b91  run_m17bv7vj8d6zgkbby3seat88m18g6a39  US$0.122
+salao_cheio.png          i2i-gpt-image-2-5-flare (ref = retrato) node 15d86172-378e-4f38-80ad-7089fd097391  run_m174036gvc2cepkny2pevp6dgs8g71v4  US$0.122
+takes/medalla.mp4        i2v-kling-2.5 5s  canvas n660  run_m1729be2eb6hjkgw3p8xebwf418g7yg3  US$0.294
+takes/salao_vazio.mp4    i2v-kling-2.5 5s  canvas n662  run_m17bxvahm7vpe6jf9nex3s3r0n8g70ks  US$0.294
+takes/salao_cheio.mp4    i2v-kling-2.5 5s  canvas n663  run_m1721v75x8pgn77hxjtkd4sd5n8g798v  US$0.294
+QA v2t-gemini-3.1-pro x3  US$0.075
+Prompts: descritos só por texto (rostos inventados, nenhum quadro de REELS-REFERENCIA usado).
+takes/salao_cheio_v2.mp4 i2v-kling-2.5 5s  canvas n667  run_m17aseq7zxm3pqjcg1xp64gm8x8g79hx  US$0.294 (refação; prompt com movimento mais contido)
+QA extra x2 (salao_cheio 2a opinião + v2) US$0.050
+QA Gemini: medalla APROVADO, salao_vazio APROVADO, salao_cheio v1 e v2 REPROVADO pelo Gemini (rostos/mãos "derretendo"),
+mas a revisão quadro a quadro com zoom (0,5 s em 0,5 s) não mostrou esses defeitos -> conferir a olho antes de usar.
+TOTAL: US$1.909

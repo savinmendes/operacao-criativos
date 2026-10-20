@@ -1,0 +1,6 @@
+hook fcad93179b7243d089a4257f8fbab9ff
+jb b2d2c5788ae347a0ad1f098113eab606
+cta 01e83c85fb0a4b66b9e4f92659bc593e
+(enviados 16/10 17:10, mode speed, entrada = *_src.mp4 com audio ES original; CTA com pausa ~0,45 s entre as frases)
+hook_v2 b561e3277849436a8902f4b2b23b62ba (17:13; v1 fcad9317 com AVISO pausa 0,78 na pausa de 'zignorujesz...'; v2 com vírgula, sem pausa longa)
+hook_v2 concluído; usado (AVISO 0,71: só pausas de borda 0–0,38 s e 4,68–5,07 s, lábios quase fechados). Total 4 jobs.

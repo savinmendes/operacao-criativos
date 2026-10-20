@@ -1,0 +1,122 @@
+{
+ "projeto": "SB-ES v4 — abertura com a REPORTERA em PiP desde 0:00 (substitui a mulher do react) — A e B",
+ "itens": [
+  {
+   "arquivo": "audio/R00.wav",
+   "bloco": "B01 (novo)",
+   "texto": "Imágenes impactantes: un vendedor fue atacado en plena calle.",
+   "voz": "Gabriela hHjbwzYZW17oh0p05AKv, est 0,5 estilo 0,2, vel 1,16 (L04 usa 1,08; subido para caber antes do agressor em 3,98 s); pausa após 'impactantes:' 0,30->0,22 s",
+   "duracao_s": 3.82,
+   "fala_ate_s": 3.71,
+   "palavras": [
+    {
+     "w": "Imágenes",
+     "ini": 0.035,
+     "fim": 0.488
+    },
+    {
+     "w": "impactantes:",
+     "ini": 0.546,
+     "fim": 1.312
+    },
+    {
+     "w": "un",
+     "ini": 1.476,
+     "fim": 1.627
+    },
+    {
+     "w": "vendedor",
+     "ini": 1.661,
+     "fim": 2.126
+    },
+    {
+     "w": "fue",
+     "ini": 2.184,
+     "fim": 2.323
+    },
+    {
+     "w": "atacado",
+     "ini": 2.358,
+     "fim": 2.869
+    },
+    {
+     "w": "en",
+     "ini": 2.939,
+     "fim": 3.078
+    },
+    {
+     "w": "plena",
+     "ini": 3.148,
+     "fim": 3.426
+    },
+    {
+     "w": "calle.",
+     "ini": 3.461,
+     "fim": 3.77
+    }
+   ],
+   "custo_usd": 0.02
+  },
+  {
+   "arquivo": "img/reportera_verde.png",
+   "texto": "reportera do R01 (v2 reportera_gpt.png) em fundo verde, busto 9:16",
+   "modelo": "GPT Image 2 i2i 1k high (Flora, projeto SB-ES Noticia Aurelio v2)",
+   "custo_usd": 0.263
+  },
+  {
+   "arquivo": "takes/hg_reportera.mp4",
+   "heygen_video_id": "7c5ff7e2a1b1acea15fafefac91a9459",
+   "texto": "Avatar IV foto 720p 9:16 expressiveness low, áudio R00 como asset",
+   "duracao_s": 3.84,
+   "fps": 25,
+   "creditos_heygen_est": 11,
+   "intervalos_ruins": [
+    {
+     "ini": 3.72,
+     "fim": 3.84,
+     "motivo": "boca aberta/dentes após a última palavra — coberto pelo fade de saída do PiP (4 quadros)"
+    }
+   ]
+  },
+  {
+   "arquivo": "../final_A/abertura/react_reporter_A.mp4",
+   "blocos": [
+    "B01",
+    "B02",
+    "B03"
+   ],
+   "duracao_s": 9.2,
+   "fps": 30,
+   "pip": {
+    "caixa": [
+     0,
+     300,
+     304,
+     540
+    ],
+    "recorte_x": 284,
+    "quadros": "0-114 (fade 111-114)"
+   },
+   "audio": "som nativo Seedance -16 LUFS com -5 dB até 3,76 s (volta em 0,3 s) + R00 -15 LUFS desde 0,000; loudnorm -14",
+   "zoom": "130 % 0-2 s centro (330,400) como abertura_A.py"
+  },
+  {
+   "arquivo": "../final_B/abertura/react_reporter_B.mp4",
+   "blocos": [
+    "B01",
+    "B02",
+    "B03"
+   ],
+   "duracao_s": 9.2,
+   "fps": 30,
+   "zoom": "130 % 0-2 s warpAffine centro (360,400) como abertura_B.py",
+   "audio": "idem A"
+  }
+ ],
+ "scripts": [
+  "prep_audio.py",
+  "compor_reporter.py A|B",
+  "qa_abertura.py <final> <tag>"
+ ],
+ "custo_usd_total": 0.283
+}

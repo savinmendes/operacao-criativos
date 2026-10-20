@@ -1,0 +1,27 @@
+{
+ "arquivo": "06 AD.mp4",
+ "idioma": "pt",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 5.1,
+   "texto": "Baixou o preço da parafusadeira e furadeira mais vendida aqui no Tiktok Shop, essa daqui é 48V."
+  },
+  {
+   "ini": 5.1,
+   "fim": 9.44,
+   "texto": "Vem duas baterias, é super potente. Vem vários acessórios pra você usar em qualquer ocasião."
+  },
+  {
+   "ini": 9.44,
+   "fim": 14.8,
+   "texto": "Vem com LED pra você trabalhar no escuro, vem vários torques diferentes, velocidade 1 e 2, nível carregador Volt."
+  },
+  {
+   "ini": 14.8,
+   "fim": 22.8,
+   "texto": "Fletaça por menos de 140 reais. Esse preço você só encontra aqui no Tiktok Shop, então já clica no carrinho laranja."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+"arquivo": "P07B.wav",
+"whisper": "Toca el botón Ver más aquí abajo y mírala ahora, mientras todavía está disponible.",
+"palavras": [
+{
+"w": "Toca",
+"ini": 0.0,
+"fim": 0.32
+},
+{
+"w": "el",
+"ini": 0.32,
+"fim": 0.46
+},
+{
+"w": "botón",
+"ini": 0.46,
+"fim": 0.76
+},
+{
+"w": "Ver",
+"ini": 0.76,
+"fim": 0.98
+},
+{
+"w": "más",
+"ini": 0.98,
+"fim": 1.38
+},
+{
+"w": "aquí",
+"ini": 1.38,
+"fim": 1.7
+},
+{
+"w": "abajo",
+"ini": 1.7,
+"fim": 2.06
+},
+{
+"w": "y",
+"ini": 2.06,
+"fim": 2.34
+},
+{
+"w": "mírala",
+"ini": 2.34,
+"fim": 2.72
+},
+{
+"w": "ahora,",
+"ini": 2.72,
+"fim": 3.18
+},
+{
+"w": "mientras",
+"ini": 3.38,
+"fim": 3.66
+},
+{
+"w": "todavía",
+"ini": 3.66,
+"fim": 4.14
+},
+{
+"w": "está",
+"ini": 4.14,
+"fim": 4.36
+},
+{
+"w": "disponible.",
+"ini": 4.36,
+"fim": 4.94
+}
+],
+"ratio": 1.0,
+"dif": []
+}

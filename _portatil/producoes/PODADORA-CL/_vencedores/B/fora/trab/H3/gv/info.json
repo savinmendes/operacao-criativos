@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\fora\\trab\\H3\\H3.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 4.3,
+  "fala_s": 3.34,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 4.3
+   }
+  ],
+  "ganho_db": 4.2
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\H3 - SIN-CABLES-B-ES-CL.mp4"
+}

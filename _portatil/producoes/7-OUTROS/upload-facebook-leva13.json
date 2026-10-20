@@ -1,0 +1,199 @@
+{
+  "tarefa": "Subir 18 anúncios em vídeo para o Meta Ads. Cada vídeo tem um texto principal próprio, já pareado neste arquivo. Não trocar, não reescrever, não resumir e não traduzir nenhum texto principal: colar exatamente como está no campo primary_text, incluindo quebras de linha.",
+
+  "instrucoes_de_execucao": [
+    "1. Ler o bloco 'preencher_antes_de_rodar'. Se algum campo ainda estiver com valor null, PARAR e pedir ao usuário. Não inventar ID de conta, de página, de pixel nem URL de destino.",
+    "2. Para cada item de 'anuncios': fazer upload do arquivo indicado em 'arquivo_video' a partir da pasta em 'pasta_dos_videos'.",
+    "3. Criar um ad set por anúncio, com o nome exato do campo 'nome_do_conjunto', usando a configuração de 'padrao_do_conjunto'.",
+    "4. Criar o criativo usando o vídeo enviado, o 'primary_text' do item, e o title, description, link e call_to_action do bloco 'criativo_padrao' (iguais para todos os 18).",
+    "5. Criar o anúncio com o nome exato do campo 'nome_do_anuncio'.",
+    "6. Deixar TODOS os anúncios e conjuntos PAUSADOS (status PAUSED). O usuário liga manualmente depois de revisar. Nunca subir ativo.",
+    "7. Ao terminar, devolver uma tabela com: nome do anúncio, ID do anúncio criado, status, e qualquer item que falhou com o motivo.",
+    "8. Se um upload de vídeo falhar, seguir com os outros e reportar o que falhou no fim. Não repetir a leva inteira."
+  ],
+
+  "pasta_dos_videos": "PREENCHER: caminho da pasta onde estão os 18 arquivos",
+
+  "observacao_sobre_nomes": "Os nomes em 'arquivo_video' são exatamente como aparecem no diretório do usuário, com espaços. A extensão pode não aparecer no explorador do Windows; se os arquivos forem .mp4, acrescentar a extensão ao procurar.",
+
+  "preencher_antes_de_rodar": {
+    "ad_account_id": null,
+    "page_id": null,
+    "instagram_account_id": null,
+    "campanha_id_ou_nome": null,
+    "pixel_dataset_id": null,
+    "evento_de_conversao": null,
+    "url_de_destino": null,
+    "paises_alvo": null
+  },
+
+  "padrao_do_conjunto": {
+    "orcamento_diario_usd": 37,
+    "otimizacao": "copiar exatamente a configuração do conjunto ADS 12.1, que já está no ar nesta conta",
+    "publico": "copiar exatamente do ADS 12.1",
+    "posicionamentos": "copiar exatamente do ADS 12.1",
+    "status": "PAUSED"
+  },
+
+  "criativo_padrao": {
+    "title": "PREENCHER: copiar o título do anúncio ADS 12.1",
+    "description": "PREENCHER: copiar a descrição do anúncio ADS 12.1",
+    "call_to_action": "PREENCHER: copiar o CTA do anúncio ADS 12.1",
+    "link": "PREENCHER: mesma URL de destino do ADS 12.1",
+    "observacao": "Title, description, link e CTA são IGUAIS nos 18 anúncios. Só o primary_text e o vídeo mudam."
+  },
+
+  "anuncios": [
+    {
+      "nome_do_anuncio": "ADS 13.1F NEVERA",
+      "nome_do_conjunto": "ADS 13.1F NEVERA",
+      "arquivo_video": "ADS 13.1F NEVERA",
+      "angulo": "financeiro",
+      "papel": "CONTROLE",
+      "primary_text": null,
+      "atencao": "Este é o anúncio de controle. O primary_text dele deve ser copiado LITERALMENTE do anúncio ADS 12.1 que já está no ar. Não escrever um texto novo. Se não conseguir ler o texto do ADS 12.1 na conta, PARAR e pedir ao usuário."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.2F RECHAZADA",
+      "nome_do_conjunto": "ADS 13.2F RECHAZADA",
+      "arquivo_video": "ADS 13.2F RECHAZADA",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Cuando la máquina dice que no y toda la fila te está mirando, no es falta de dinero. Es una puerta que se cerró.\n\nHay una oración antigua de San Benito, casi olvidada, que se rezaba exactamente en esos momentos. Siete minutos. Nada más.\n\nNo promete magia. Promete dirección, calma y una fe que vuelve a tener orden.\n\nEscúchala completa antes de que se cierre este acceso."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.3F SALDO",
+      "nome_do_conjunto": "ADS 13.3F SALDO",
+      "arquivo_video": "ADS 13.3F SALDO",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Si hiciste la cuenta tres veces de madrugada y el número sigue sin alcanzar, esto es para ti.\n\nNo es consejo financiero. Es una oración antigua de la Biblia que dejó de rezarse hace siglos y que San Benito usaba cuando ya no quedaba de dónde sacar.\n\nSiete minutos al día, con intención sincera.\n\nEscúchala antes de volver a acostarte con esa cuenta en la cabeza."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.4F CORTE",
+      "nome_do_conjunto": "ADS 13.4F CORTE",
+      "arquivo_video": "ADS 13.4F CORTE",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "El sobre que llega por debajo de la puerta no avisa dos veces.\n\nAntes de abrirlo, escucha la oración que tres generaciones rezaron cuando ya no quedaba nada — y que casi desapareció de la Biblia que hoy leemos.\n\nSiete minutos cada mañana. Eso es todo lo que se te pide.\n\nEstá completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.5F CARRO",
+      "nome_do_conjunto": "ADS 13.5F CARRO",
+      "arquivo_video": "ADS 13.5F CARRO",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Cuando lo único que te lleva al trabajo se para en la carretera, el problema deja de ser el coche.\n\nEs una puerta más que se cierra en una semana en la que ya se cerraron varias.\n\nHay una oración antigua de San Benito, escrita para el hombre que sostiene a los suyos solo. Muy pocos la conocen todavía.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.6F PARADA",
+      "nome_do_conjunto": "ADS 13.6F PARADA",
+      "arquivo_video": "ADS 13.6F PARADA",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Sales de casa cuando todavía está oscuro y vuelves cuando ya está oscuro otra vez. Y la cuenta sigue igual.\n\nNo es falta de esfuerzo. Nunca lo fue.\n\nEs una puerta cerrada — y hay una oración antigua de San Benito, casi perdida, escrita para abrirla. Siete minutos al día.\n\nEscúchala completa aquí."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.7F FARMACIA",
+      "nome_do_conjunto": "ADS 13.7F FARMACIA",
+      "arquivo_video": "ADS 13.7F FARMACIA",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Contar monedas en el mostrador para decidir si te llevas la medicina o la comida no debería ser tu vida a esta edad.\n\nHay una oración antigua de San Benito, olvidada durante siglos, que se rezaba justo cuando ya no quedaba de dónde sacar.\n\nSiete minutos cada mañana, con fe sincera.\n\nLa escuchas completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.8F UNIFORME",
+      "nome_do_conjunto": "ADS 13.8F UNIFORME",
+      "arquivo_video": "ADS 13.8F UNIFORME",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Trabajas hasta quedarte sin fuerzas y al llegar a casa las cuentas siguen ahí, esperándote en la mesa.\n\nEl esfuerzo no era lo que faltaba. Faltaba una oración que dejó de rezarse hace siglos y que todavía está en la Biblia.\n\nSiete minutos. Antes de acostarte hoy.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.9F NIETA",
+      "nome_do_conjunto": "ADS 13.9F NIETA",
+      "arquivo_video": "ADS 13.9F NIETA",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Ella te abraza y tú solo piensas en lo que no hay en la nevera. Eso pesa más que cualquier deuda.\n\nHay una oración antigua de San Benito que las abuelas rezaban cuando la casa se quedaba sin nada, y que casi se pierde con el tiempo.\n\nSiete minutos al día. Por ti y por los que dependen de ti.\n\nEscúchala completa aquí."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.10F CARTA-DEUDAS",
+      "nome_do_conjunto": "ADS 13.10F CARTA-DEUDAS",
+      "arquivo_video": "ADS 13.10F CARTA-DEUDAS",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Ya ni abres los sobres. Sabes lo que dicen.\n\nPero hay algo que nadie te contó sobre las deudas que no dejan dormir: muchas veces el camino no está cerrado por falta de dinero, sino por falta de dirección.\n\nUna oración antigua de San Benito, restringida durante siglos, se rezaba exactamente en ese punto. Siete minutos cada mañana.\n\nEscúchala completa antes de abrir el próximo sobre."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.11F PARADA-CLOSE",
+      "nome_do_conjunto": "ADS 13.11F PARADA-CLOSE",
+      "arquivo_video": "ADS 13.11F PARADA-CLOSE",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Nadie ve lo que llevas por dentro cuando sales de casa cada mañana. Pero Dios sí lo ve.\n\nVe a quien llora en silencio. Ve a quien se acuesta preocupado. Ve a quien intenta levantarse y siente que algo lo empuja hacia abajo otra vez.\n\nPara ese momento existe una oración antigua de San Benito, casi olvidada. Siete minutos.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.12F REZA-HOMBRE",
+      "nome_do_conjunto": "ADS 13.12F REZA-HOMBRE",
+      "arquivo_video": "ADS 13.12F REZA-HOMBRE",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Llevas años rezando y a veces sientes que nadie del otro lado está escuchando.\n\nNo es tu fe la que falla. Existen oraciones que necesitan orden, intención y dirección para atravesar el corazón — y una de ellas es la oración de San Benito.\n\nSiete minutos al día, hecha de la forma correcta.\n\nEscúchala completa y entiende por qué fue preservada durante siglos."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.13F REZA-MUJER",
+      "nome_do_conjunto": "ADS 13.13F REZA-MUJER",
+      "arquivo_video": "ADS 13.13F REZA-MUJER",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Rezas todas las noches. Y aun así, todo sigue igual.\n\nMuchas mujeres repitieron oraciones poderosas durante años sin entender por qué algunas abrían caminos y otras no producían ningún cambio. No por falta de fe.\n\nHay una forma correcta de entrar en oración, y San Benito la dejó escrita. Siete minutos.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.14F PERSIANA-CLOSE",
+      "nome_do_conjunto": "ADS 13.14F PERSIANA-CLOSE",
+      "arquivo_video": "ADS 13.14F PERSIANA-CLOSE",
+      "angulo": "financeiro",
+      "papel": "teste",
+      "primary_text": "Levantaste ese negocio con tus manos y ahora bajas la persiana sin saber si mañana vuelves a abrir.\n\nAntes de rendirte, escucha la oración antigua que quedó enterrada en la Biblia y que se rezaba justo cuando todo parecía terminado.\n\nSiete minutos cada mañana. Con fe, no con desesperación.\n\nEstá completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.1S ONCOLOGIA",
+      "nome_do_conjunto": "ADS 13.1S ONCOLOGIA",
+      "arquivo_video": "ADS 13.1S ONCOLOGIA",
+      "angulo": "saude",
+      "papel": "teste",
+      "primary_text": "Hay salas de espera donde el tiempo pesa distinto.\n\nDonde una puerta cerrada decide más que cualquier plan que tuvieras para este año.\n\nSi estás pasando por eso, hay una oración antigua de San Benito que acompañó a familias enteras en esos pasillos durante siglos. Siete minutos al día.\n\nNo sustituye nada. Solo acompaña. Escúchala completa aquí."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.2S MANOS",
+      "nome_do_conjunto": "ADS 13.2S MANOS",
+      "arquivo_video": "ADS 13.2S MANOS",
+      "angulo": "saude",
+      "papel": "teste",
+      "primary_text": "Hay noches en las que lo único que puedes hacer es sostener una mano y rezar.\n\nY en esas noches, rezar bien importa. Existen oraciones que necesitan orden, intención y dirección — y una de ellas quedó casi perdida.\n\nEs la oración de San Benito. Siete minutos, con el corazón abierto.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.3S VELA",
+      "nome_do_conjunto": "ADS 13.3S VELA",
+      "arquivo_video": "ADS 13.3S VELA",
+      "angulo": "saude",
+      "papel": "teste",
+      "primary_text": "Enciendes una vela por alguien y pides lo que ya no sabes cómo pedir.\n\nCasi nadie sabe que existe una forma correcta de entrar en oración cuando pides por otra persona — y que San Benito la dejó escrita hace siglos.\n\nSiete minutos al día, en silencio, con una sola intención.\n\nEscúchala completa en este vídeo."
+    },
+    {
+      "nome_do_anuncio": "ADS 13.4S UTI",
+      "nome_do_conjunto": "ADS 13.4S UTI",
+      "arquivo_video": "ADS 13.4S UTI",
+      "angulo": "saude",
+      "papel": "teste",
+      "primary_text": "Hay sillas al lado de una cama donde se aprende a rezar de verdad.\n\nSi hoy estás en una de esas sillas, esto es para ti: una oración antigua de San Benito, casi olvidada, que acompañó a quien esperaba durante siglos.\n\nSiete minutos al día. Ni más, ni menos.\n\nNo sustituye nada. Escúchala completa aquí."
+    }
+  ],
+
+  "regras_finais": [
+    "Os 4 anúncios com angulo 'saude' devem ficar em conjuntos separados dos de angulo 'financeiro'. Não misturar na mesma campanha se isso for possível na estrutura da conta.",
+    "Nenhum texto deste arquivo promete cura, sanação ou resultado financeiro garantido. Se algum anúncio for reprovado, reportar o texto e o motivo ao usuário. NÃO reescrever o texto por conta própria para tentar aprovar.",
+    "Subir tudo pausado é obrigatório."
+  ]
+}

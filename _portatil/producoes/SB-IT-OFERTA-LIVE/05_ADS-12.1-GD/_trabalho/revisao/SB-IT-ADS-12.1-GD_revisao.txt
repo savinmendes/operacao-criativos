@@ -1,0 +1,45 @@
+REVISÃO: SB-IT-ADS-12.1-GD.mp4
+duração 31.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 18.9 MB
+decodificação: OK
+pts do áudio: 1483 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1208-1596, x 474-707 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-IT-OFERTA-LIVE\05_ADS-12.1-GD\_trabalho\revisao\SB-IT-ADS-12.1-GD_revisao.jpg
+idioma detectado: it (1.00)
+
+=== transcrição (it) ===
+   0.00-  4.34 Se migliori, non avrò altra scelta, darò a qualcun altro il miracolo di cui hai tanto
+   4.34-  5.34 bisogno.
+   5.34- 10.08 Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.
+  10.08- 14.34 Gesù ti ha scelto, ti ha portato un dono potente.
+  14.34- 19.00 Oggi ascolterai un'antica preghiera perduta della Bibbia, che sbloccherà una pioggia di
+  19.00- 21.00 benedizioni e miracoli sulla tua vita.
+  21.00- 24.92 Non rifiutarmi, di nuovo.
+  24.92- 30.08 Tocca scopridi più qui sotto e unisciti alla preghiera indiretta, ricevi il tuo miracolo
+  30.08- 31.20 prima che sia troppo tardi.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: hook_out.mp4 (152 quadros, rosto em 100%, rosto 274,208,287,341 [único rosto])
+  boca x original: dif. boca 10.98 | dif. controle 0.98 | mudou em 100% dos quadros | corr. abertura saída x original 0.05
+  pausas da voz nova: índice de pausa 0.59 (22 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.44 (atraso 33 ms) | corr. original 0.28
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.59)
+LIPSYNC: jb_out.mp4 (147 quadros, rosto em 100%, rosto 249,183,245,288 [único rosto])
+  boca x original: dif. boca 11.19 | dif. controle 0.97 | mudou em 98% dos quadros | corr. abertura saída x original 0.30
+  pausas da voz nova: índice de pausa 0.21 (36 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.73 (atraso 0 ms) | corr. original 0.33
+APROVADO: boca mudou em 98% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.21)
+LIPSYNC: cta_out.mp4 (162 quadros, rosto em 100%, rosto 252,181,240,283 [único rosto])
+  boca x original: dif. boca 15.34 | dif. controle 1.07 | mudou em 100% dos quadros | corr. abertura saída x original -0.04
+  pausas da voz nova: índice de pausa 0.86 (6 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.13 (atraso 0 ms) | corr. original 0.09
+AVISO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.86); aviso: índice de pausa acima de 0.6 com só 6 quadros de pausa; confira a boca nas pausas da voz na folha de contato
+índice de pausa do conjunto (3 trechos): 0.39 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync cta_out.mp4: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.86); aviso: índice de pausa acima de 0.6 com só 6 quadros de pausa; confira a boca nas pausas da voz na folha de contato
+OK: nenhum problema encontrado

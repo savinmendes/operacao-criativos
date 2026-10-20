@@ -1,0 +1,6 @@
+SB-EN-ADS-24 pronto (18/10/2026).
+Vídeo: SB-EN-ADS-24.mp4 (122,0 s, 720x1280, 30 fps, -16 LUFS).
+Vozes: Bill (senhor da abertura) + Brian (arcanjo/narrador). Lipsync HeyGen speed no senhor e no arcanjo.
+QA: revisar_ad.py (en) sem termo proibido, sem salto de pts; "quadros soltos" apontados são os flashes de transição herdados do original.
+Revisor independente: aprovado com ressalvas (corrigidas: boca 6,0-6,4 s e trecho 90-99 s refeito; quebras de legenda ajustadas).
+Intermediários mantidos em _trabalho: base_limpa.mp4 (sem legenda ES) e base_final2.mp4 (com lipsync, sem legenda EN) para ajustes.

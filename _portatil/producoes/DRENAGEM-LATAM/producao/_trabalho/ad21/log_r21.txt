@@ -1,0 +1,15 @@
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\b1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\b1.mp4 | 55 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\p1.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\b2.mp4 | trecho 104.75-107.94s trocado (velocidade 1.05x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\parte2.mp4 20.75s
+aviso: 5.3 min não cabe em 30 MB com qualidade; usando 900 kbps (~40 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 21 - LYMPHORIA-EX-TARGET-ES-LATAM.mp4
+duração : 318.00s | 720x1280 | áudio: sim | 37.8 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 21 - LYMPHORIA-EX-TARGET-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 314.50s
+montagem rápida: 59s para 318s de vídeo (0.18x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 21 - LYMPHORIA-EX-TARGET-ES-LATAM.mp4

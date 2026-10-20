@@ -1,0 +1,72 @@
+SB-IT-ADS-9 — San Benedetto · Italiano (Italia, EUR)
+Base: SB-EN-ADS-9 (mesma imagem, cortes, trilha, setas e timeline; decote suavizado igual ao EN). Origem: ADS 9 FR.
+Destino: a preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN, eleven_multilingual_v2 (whisper detecta 'it' com 0,99+).
+
+======================================================================
+ROTEIRO EN × IT (tempo de início no vídeo)
+======================================================================
+  0.26s  [GANCHO] EN: My child, you've been ignoring me for so long, and it has broken my heart.
+         IT: Figlio mio, mi ignori da tanto tempo, e questo mi ha spezzato il cuore.
+
+  4.82s  EN: I've sent you signs, in your dreams, in your intuitions, and in your feelings.
+         IT: Ti ho mandato segni, nei tuoi sogni, nelle tue intuizioni e nei tuoi sentimenti.
+
+  9.92s  EN: I've also sent you messages, opportunities, and even encounters that seemed like simple coincidences.
+         IT: Ti ho mandato anche messaggi, opportunità e perfino incontri che sembravano semplici coincidenze.
+
+ 16.48s  EN: But so often, you choose not to see them.
+         IT: Ma molto spesso, scegli di non vederli.
+
+ 19.78s  EN: And yet, I have not given up on you.
+         IT: Eppure, non ho rinunciato a te.
+
+ 22.88s  EN: Today, I'm sending you one more sign, through this video. And deep down, you know it.
+         IT: Oggi ti mando un altro segno, attraverso questo video. E nel profondo, lo sai.
+
+ 29.32s  EN: Because even before you opened this video, something inside you was already warning you.
+         IT: Perché già prima di aprire questo video, qualcosa dentro di te ti stava avvertendo.
+
+ 34.06s  EN: But listen carefully, because this may be the last sign you receive this way.
+         IT: Ma ascolta bene, perché questo potrebbe essere l'ultimo segno che ricevi in questo modo.
+
+ 39.60s  EN: That's why, before this video ends, I must show you something that can protect your spiritual life, and open paths that were blocked.
+         IT: Per questo, prima che il video finisca, devo mostrarti qualcosa che può proteggere la tua vita spirituale, e aprire strade che erano chiuse.
+
+ 48.30s  EN: Something that stayed hidden for a very long time, passed down through a prayer that very few have learned to use correctly.
+         IT: Qualcosa che è rimasto nascosto per moltissimo tempo, tramandato attraverso una preghiera che pochissimi hanno imparato a usare nel modo giusto.
+
+ 56.12s  EN: Something not everyone is ready to receive.
+         IT: Qualcosa che non tutti sono pronti a ricevere.
+
+ 59.10s  EN: But you... you are here. And that has a purpose.
+         IT: Ma tu... tu sei qui. E questo ha uno scopo.
+
+ 63.12s  EN: If you've made it to this moment, it's because there is something you need to understand.
+         IT: Se sei arrivato fino a questo momento, è perché c'è qualcosa che devi capire.
+
+ 68.66s  EN: And what you're about to see can change the way everything begins to move in your life.
+         IT: E quello che stai per vedere può cambiare il modo in cui tutto si muoverà nella tua vita.
+
+ 74.40s  EN: So don't let yourself be distracted. Stay with me a moment longer, and pay close attention to what I'm about to reveal to you now.
+         IT: Quindi non lasciarti distrarre. Resta con me ancora un momento, e fai molta attenzione a ciò che sto per rivelarti adesso.
+
+ 82.10s  [CTA] EN: Tap Learn More below, and join this special live prayer, where something is revealed to only a few.
+         IT: Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta, dove qualcosa viene rivelato solo a pochi.
+
+ 89.86s  [CTA] EN: Don't put this off, because this moment will not come again in the same way.
+         IT: Non rimandare, perché questo momento non tornerà allo stesso modo.
+
+ 94.76s  [CTA] EN: Tap now, and discover what has been prepared for you.
+         IT: Tocca ora, e scopri cosa è stato preparato per te.
+
+Decisões de tradução
+- Italiano natural e neutro, tratamento "tu" (Jesus falando ao fiel), mesmo teor do EN/FR, sem suavizar a urgência:
+  "potrebbe essere l'ultimo segno che ricevi in questo modo", "questo momento non tornerà allo stesso modo".
+- CTA padrão do lote: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta", + "dove qualcosa viene rivelato solo a pochi".
+  Na legenda, «SCOPRI DI PIÙ» fica num bloco só (nome do botão).
+- "open paths that were blocked" virou "aprire strade che erano chiuse" (cabia melhor no tempo que "bloccate" com a frase longa).
+- "Tap now, and discover…" virou "Tocca ora, e scopri cosa è stato preparato per te."
+- Selo final da live: "LIVE NOW" → "IN DIRETTA", mesmo formato/posição.
+- Setas do CTA: mantidas as vermelhas do EN/original FR (mesmo estilo do vídeo base), 82,1–97,77 s.
+- Cada frase IT começa no mesmo instante da frase EN/FR; nenhuma palavra cruza os cortes dos 11 trechos de lipsync.

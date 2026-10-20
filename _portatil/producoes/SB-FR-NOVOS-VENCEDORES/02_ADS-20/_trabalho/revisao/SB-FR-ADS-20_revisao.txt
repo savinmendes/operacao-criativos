@@ -1,0 +1,50 @@
+REVISÃO: SB-FR-ADS-20.mp4
+duração 144.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 35.8 MB
+decodificação: OK
+pts do áudio: 6756 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-FR-NOVOS-VENCEDORES\02_ADS-20\_trabalho\revisao\SB-FR-ADS-20_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  4.24 Tu as demandé un signe et maintenant tu es là.
+  30.00- 35.46 cette dépendance qui te liait à quelqu'un. Tu n'auras plus besoin de personne. Ce qui arrive c'est
+  35.46- 41.76 l'indépendance totale. Il signe un document en ta faveur et remue ciel et terre pour te donner ce
+  41.76- 48.40 qui te revient. Tout ce qu'on t'a refusé par jalousie, il le met à ton nom. Je vois un changement si
+  48.40- 53.32 grand que les gens ne te reconnaîtront plus. Dieu accélère les choses pour toi, ce que tu
+  53.32- 57.80 attendais dans un mois arrivera en quelques jours. Aujourd'hui commence ta nouvelle histoire.
+  57.80- 63.24 finis l'humiliation, finis la honte. Tu n'auras plus à supplier pour ce qui t'appartient,
+  63.24- 69.28 car Dieu l'a célé de sa signature divine. Et fais bien attention à ceci. Certaines protections
+  69.28- 74.32 spirituelles ne s'activent qu'avec la bonne prière. Depuis des siècles, Saint Benoît est connu
+  74.32- 79.64 pour repousser les attaques, lever les blocages et rouvrir les chemins fermés, grâce à une
+  79.64- 84.76 prière puissante qui protégeait la personne et tout ce qui l'entourait. Cette prière ne
+  84.76- 90.04 se dit pas comme les autres. Elle s'apprend, elle se récite avec intention et elle s'active
+  90.04- 95.24 au bon moment. Et ce moment, c'est maintenant. Car en ce moment même, a lieu une prière
+  95.24- 99.16 spéciale en direct, où l'on t'explique et te guide pas à pas dans la prière de
+  99.16-104.78 Saint-Benoît, pour ceux qui ont connu l'humiliation, la jalousie, les attaques spirituelles
+ 104.78-107.84 et la stagnation. Beaucoup ne comprennent pas pourquoi
+ 107.84-112.80 tout se bloque, pourquoi l'énergie est si lourde, pourquoi rien avance. Mais quand
+ 112.80-116.64 Dans la bonne protection entre en jeu, tout rentre dans l'ordre.
+ 116.64-120.84 Tout le monde n'arrive pas jusqu'ici et tous ne reçoivent pas cet appel à temps.
+ 120.84-125.24 Si ce message résonne en toi plus fort que d'habitude, ne l'ignore pas.
+ 125.24-130.48 Appuie sur le bouton « En savoir plus » ci-dessous et rejoins la prière en direct.
+ 130.48-135.80 C'est là que tu apprendras à réciter la prière de saint Benoit, comme il se doit.
+ 135.80-137.48 Ne remets pas ça à plus tard.
+ 137.48-142.16 Cette porte ne restera pas ouverte pour toujours et tout ce que Dieu veut accomplir dans ta vie
+ 142.16-144.16 Commence par ce premier pas.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: hook_fr_heygen.mp4 (128 quadros, rosto em 99%, rosto 235,226,262,320 [único rosto])
+  boca x original: dif. boca 8.80 | dif. controle 0.99 | mudou em 94% dos quadros | corr. abertura saída x original 0.58
+  pausas da voz nova: índice de pausa 0.24 (44 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.72 (atraso 33 ms) | corr. original 0.41
+APROVADO: boca mudou em 94% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.24)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

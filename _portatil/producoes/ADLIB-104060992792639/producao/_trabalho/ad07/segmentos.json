@@ -1,0 +1,162 @@
+{
+ "fps": 24,
+ "segmentos": [
+  {
+   "nome": "s01",
+   "quadro_ini": 4,
+   "quadro_fim": 200,
+   "n": 197,
+   "pad": 0,
+   "caixa": [
+    330,
+    300,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s02",
+   "quadro_ini": 201,
+   "quadro_fim": 340,
+   "n": 140,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s03",
+   "quadro_ini": 341,
+   "quadro_fim": 506,
+   "n": 166,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s04",
+   "quadro_ini": 507,
+   "quadro_fim": 644,
+   "n": 138,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s05",
+   "quadro_ini": 645,
+   "quadro_fim": 905,
+   "n": 261,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s06",
+   "quadro_ini": 906,
+   "quadro_fim": 1082,
+   "n": 177,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s07",
+   "quadro_ini": 1083,
+   "quadro_fim": 1216,
+   "n": 134,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s08",
+   "quadro_ini": 1217,
+   "quadro_fim": 1406,
+   "n": 190,
+   "pad": 0,
+   "caixa": [
+    262,
+    330,
+    324,
+    576
+   ],
+   "nota": "recorte maior (pt_s08g): o recorte 270x480 voltou com a boca original 3x (speed 2x, precision 1x)"
+  },
+  {
+   "nome": "s09",
+   "quadro_ini": 1407,
+   "quadro_fim": 1685,
+   "n": 279,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s10",
+   "quadro_ini": 1686,
+   "quadro_fim": 1926,
+   "n": 241,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s11",
+   "quadro_ini": 1927,
+   "quadro_fim": 2118,
+   "n": 192,
+   "pad": 0,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  },
+  {
+   "nome": "s12",
+   "quadro_ini": 2119,
+   "quadro_fim": 2146,
+   "n": 28,
+   "pad": 47,
+   "caixa": [
+    290,
+    360,
+    270,
+    480
+   ]
+  }
+ ]
+}

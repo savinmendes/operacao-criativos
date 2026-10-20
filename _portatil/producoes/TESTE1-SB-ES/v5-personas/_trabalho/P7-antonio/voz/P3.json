@@ -1,0 +1,116 @@
+{
+"texto": "y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?",
+"voz": "Zkg9LlmGNlBWLgWjzTnu",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.06,
+"dur": 5.918,
+"palavras": [
+{
+"w": "y",
+"ini": 0.081,
+"fim": 0.116
+},
+{
+"w": "está",
+"ini": 0.163,
+"fim": 0.302
+},
+{
+"w": "haciendo",
+"ini": 0.325,
+"fim": 0.639
+},
+{
+"w": "la",
+"ini": 0.685,
+"fim": 0.743
+},
+{
+"w": "oración",
+"ini": 0.766,
+"fim": 1.068
+},
+{
+"w": "en",
+"ini": 1.115,
+"fim": 1.161
+},
+{
+"w": "vivo",
+"ini": 1.207,
+"fim": 1.44
+},
+{
+"w": "ahora",
+"ini": 1.533,
+"fim": 1.8
+},
+{
+"w": "mismo.",
+"ini": 1.858,
+"fim": 2.31
+},
+{
+"w": "¿Usted",
+"ini": 2.56,
+"fim": 2.92
+},
+{
+"w": "puede",
+"ini": 2.943,
+"fim": 3.129
+},
+{
+"w": "pasar",
+"ini": 3.176,
+"fim": 3.408
+},
+{
+"w": "la",
+"ini": 3.443,
+"fim": 3.501
+},
+{
+"w": "transmisión",
+"ini": 3.547,
+"fim": 4.186
+},
+{
+"w": "para",
+"ini": 4.244,
+"fim": 4.406
+},
+{
+"w": "los",
+"ini": 4.453,
+"fim": 4.569
+},
+{
+"w": "que",
+"ini": 4.627,
+"fim": 4.697
+},
+{
+"w": "nos",
+"ini": 4.743,
+"fim": 4.859
+},
+{
+"w": "están",
+"ini": 4.929,
+"fim": 5.207
+},
+{
+"w": "viendo?",
+"ini": 5.254,
+"fim": 5.718
+}
+],
+"cortes": [
+[
+2.435,
+2.754
+]
+]
+}

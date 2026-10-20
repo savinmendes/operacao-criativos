@@ -1,0 +1,35 @@
+# O que é BID CAP e COMO FAZER NA PRÁTICA pra ter um ROI ABSURDO!
+
+| | |
+|---|---|
+| Canal | Rodrigo Liedson |
+| Duração | 05:37 |
+| Publicado | 27/02/2026 |
+| URL | https://www.youtube.com/watch?v=P97D69Xr6iQ |
+| Origem da transcrição | auto-legenda (pt-orig) |
+| Transcrito em | 13/10/2026 19:52 |
+| Blocos | 11 (janela de 30s) |
+
+---
+
+**[00:00]** Pessoal, é o seguinte, gravando aqui o vídeo para vocês improvisado, tá? Não tô em casa, tô tô viajando, tô aqui em Goiânia, tô aqui no setup do Angelo, tá? O setup dele é mais organizado, porém como minha câmera tá improvisada ali, eu não consegui pegar um ângulo bom, mas enfim, postei um stories ali no no meu Instagram falando sobre Bidcap, que tô subindo uma campanha Bid Cap e o Rans tá mais de 20x e teve muita gente me perguntando o que que é esse bidcap. Então esse vídeo aqui vou mostrar para vocês na prática, que foi o que eu fiz, o que que é esse bidc aí e como vocês podem fazer na prática também. Vai ser um vídeo bem rápido mesmo, tá? vocês saber o que que é bidcap e já colocar na
+
+**[00:31]** prática. Fechou? Então bora pra tela do notebook. Então tá aqui minhas campanhas, tô filtrando aqui pelo dia de hoje. E só para você saber o que que é BIDC, vou já mostrar na prática como é que faz. Mas basicamente quando a gente vai subir a campanha no Facebook, ela pergunta: "É, tu quer um limite mais alto?" Enfim, tem as estratégias ali. Esse bidcap é nada mais nada menos que um limite de lance. É só isso. Bidcap é limite de lance. Se botar no Google Tradutor, Bidcap vai dar limite de lance. Então, como é que tá minha campanha aqui na prática? Para tu saber como é que faz na prática? Primeiramente, clica em criar campanha, tá? campanha de vendas, continuar isso aqui basicão, todo mundo já sabe fazer, tá? Isso aqui não é segredo. Então
+
+**[01:03]** beleza, continuar aí qual o nível de campanha, coloca o nome da campanha, o produto tá anunciando. Ah, produto X, PDX, né? Nome do produto aqui não muda nada, praticamente nada. Aí vem o orçamento da campanha, tá? Orçamento da campanha, que foi que eu coloquei aqui? Eu coloquei $1, beleza? $ E aqui que vem basicamente todo o resumo aí da estratégia. O pessoal fala: "Ah, o vídeo quer para lá, bde quer para cá". Como se fosse uma coisa, né, de outro mundo. Mas basicamente é isso aqui, ó. Estratégia de lance de campanha. Tu vai clicar aqui. Aqui, ó, nível de campanha ainda.
+
+**[01:34]** Aqui tem esse lapzinho aí. Tá aqui, ó, volume mais alto. Basicamente, quando tá volume mais alto, o Facebook vai adicionar para alguns leilões ali, né? O Facebook é leilão. Então, tu vai est usando $ ali como leilão, tá? Tá aqui, ó. Tem $ aqui. Pode colocar aí. Só quando dar o limite lance, basicamente como se eu tivesse sentado em uma sala de leilão, tá no leilão aqui, o pessoal tá vendendo uma coisa ali e tá todo mundo dando lance, né? Eu dou lá, ele eu dou 200, eu dou 300, enfim, todo mundo dando lance ali. Aí tu vai falar assim, pro Facebook, ó, eu tenho esse orçamento
+
+**[02:05]** aqui, tá? Só que o lance que eu quero dar é só, tá? X lance. Então tu vem aqui, ó, valor mais alto, que era a configuração padrão. Tu vai tirar essa configuração padrão aqui, ó, que é do valor mais alto. Vai colocar outras opções e aqui já aparece do lado, ó. Eh, limite lance. Aí tu clica, ó, então de novo, outras opções. Clica lá aqui, ó, outras opções, limite lance. Beleza? Na campanha é esse aqui que tu vai fazer aí. Aqui no nível de conjunto, o que a gente vai fazer? Seleciona aí o teu pixel, seleciona o teu objetivo. No caso é comprar, né? Bota comprar aí. E aqui
+
+**[02:37]** que vem o teu limite, tá? Então, quanto que tu quer dar de lance? Eu coloquei R$ 100 $ 100 ali na campanha, só que eu quero dar de lance só o valor do meu produto. Então, meu produto quando eu vendo ele, ele me gera mais ou menos R$ 80. Tô vendendo produto lá na Europa, para quem não sabe, eu trabalho com low ticket na Europa, no Mercado Latan, como todo, tá? No mundo inteiro, mas eu vendo mais na Europa, mercado Latan. E aí, o que que eu faço? O meu produto, ele custa 12 € né, que botando ali pr pra dólar, a Hotmart converte pr pra dólar ali, depois fica mais ou menos uns 12 ali. Então, recebo R$ 80. O que que eu
+
+**[03:09]** faço aqui? Eu coloco 18 18, que basicamente vai dar botar aqui, ó, ã, dólar hoje R$ 18 vai dar 92. Então, eh, tu pode colocar o valor do produto aqui, o mesmo valor, ou tu coloca um pouquinho a mais, coloca 50% a mais o valor do produto ou então 30% a mais, tá? Coloca aqui. Aí o restante é padrão, né? escolher o direcionamento, escolher as localizações, isso tudo aí eu ensino aqui no canal também e também dentro da minha comunidade. Lá na minha comunidade ensino tudo isso aqui mais na prática,
+
+**[03:40]** tá? E além de ter acesso à formação completa para vender em dólar do mundo inteiro, tu tem acesso a várias ferramentas assinadas e prontas para tu usar, tá? O link tá aqui na descrição do vídeo e também no primeiro comentário fixado, fechou? Então, beleza. Essa parte aqui é só isso, tá? Tranquilão. E qual que é a estrutura? Tu vai usar um um. Tá? vai colocar aqui o teu anúncio vencedor nessa parte aqui. Muita gente vai te falar: "Ah, tu coloca vários anúncios aqui para teste", enfim, várias vários jeitos aí. Mas nesse estilo aqui de de estrutura, eu só coloquei triplo um, coloquei só, eu coloquei aqui o melhor anúncio, tá? Eu tenho outros
+
+**[04:11]** anúncios validados, só coloquei o melhor anúncio nessa estrutura aqui usando BIDC, tá? Eu vou já te mostrar o resultado disso. E aí você vai colocar o anúncio certinho, tá? O restante não muda mais nada, é só isso. Beleza? Aí aqui mostrar aqui para vocês o resultado de hoje, ó. Tá aqui o resultado de hoje. Eh, a gente investiu um pouco, quase um pouco mais de R$ 19, né? R$ 20 arredondando aqui e a gente faturou R$ 439. Então, Ruas acima de 22x. Isso aqui é absurdo, porque tivesse colocando
+
+**[04:42]** campanha normal ali, com certeza já tinha gastado muito mais de R$ 9. Tinha gastado, sei lá, R, R$ 200. Não coloquei 200, né? Eu coloquei $ ali. Então tinha gastado bem mais do que R$ 19. Mas como eu coloquei o lance de 18, mesmo assim ele não fica dando aquele lance direto os 18. Ele só dá o lance quando o Facebook encontra o leilão ali que vale a pena, que o Facebook vê que, pô, realmente aqui é nesse leilão aqui, ele pode dar esse lance e tem bastante oportunidade. Então, se tu colocar uma campanha dessa aqui, não gastar, é
+
+**[05:13]** porque provavelmente teu criativo é ruim, o Facebook não encontrou oportunidade e por isso não gastou, tá? e começou a gastar, certeza que vai dar um R bom, já tem um criativo validado. Para ti que já tem um criativo validado, um produto validado, é melhor ainda, tá? Eu coloquei aqui e deu certo para caramba, tá? Então, resumindo, o bidcap é isso aqui, pessoal. Então, por esse vídeo é isso, espero verdade que vocês tenham gostado aí, que eu tenha agregado de alguma forma. Se gostou, deixa o like e não se esquece de se inscrever aqui no canal.

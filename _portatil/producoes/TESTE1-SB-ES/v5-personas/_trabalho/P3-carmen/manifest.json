@@ -1,0 +1,14 @@
+{
+ "persona": "P3 CARMEN (empleada doméstica)",
+ "saida": "v5-personas/SB-ES_HUMILLACION_P3-CARMEN_FICTICIO.mp4 (70,97 s, 720x1280, 30 fps) + _narracion.txt + _frames.jpg + _texto-anuncio.txt",
+ "custos": {
+  "flora_usd": {"carmen_mestra GPT Image 2 t2i 1k": 0.254, "obs": "workspace Flora ficou sem saldo (US$0,005) logo depois; 6 imagens disparadas falharam sem cobrança"},
+  "elevenlabs_creative_creditos_plano": {"7 imagens GPT Image 2.5 Sunburst (~480 cada)": 3376, "Seedance 2.0 10 s (v1, descartado: fala em 1,2 s)": 18441, "Seedance 2.0 12 s (v2, usado)": 22129, "4 Kling 2.5 Turbo 5 s (mãos, sentada, abraço, pré-roll)": 8484, "total": 52430, "equiv_usd_segundo_api": 8.65},
+  "elevenlabs_tts_sts_sfx": "~1,6 mil caracteres TTS + 2 STS (~9 s) + 1 SFX 15 s + 1 TTS de correção (centavos)",
+  "heygen": "8 jobs Avatar IV 720p, 54,2 s no total -> ~155-160 créditos (estimado por segundo; o saldo é compartilhado com os outros agentes)"
+ },
+ "vozes": {"reportera": "Gabriela hHjbwzYZW17oh0p05AKv", "carmen_entrevista": "Alisson SmgKjOvC1aIujLWcMzqq (vel 1,12)", "briga": "Seedance nativo -> STS: patrona Karly sM4f2a6lmttmqTug8V7W, Carmen Alisson; '¿Rezas tanto?' e 'créame' colados em TTS da mesma voz"},
+ "heygen_ids": "heygen_ids.json",
+ "elevenlabs_flow": "https://elevenlabs.io/app/flows/BZRVqghIWj8cgmmU5tQO",
+ "scripts": ["voz/tts.py", "voz/prep.py", "titulo.py", "sts/remix.py", "montar.py (cfg.json)"]
+}

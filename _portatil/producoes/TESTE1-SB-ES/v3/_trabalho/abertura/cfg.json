@@ -1,0 +1,47 @@
+{
+ "briga": {
+  "arquivo": "seedance_briga.mp4",
+  "ini": 0.0,
+  "fim": 7.6,
+  "cy": 0.0,
+  "cx": 0.5,
+  "lufs": -16
+ },
+ "react": {
+  "quadros": 83
+ },
+ "pip": {
+  "x": 0,
+  "y": 300,
+  "w": 304,
+  "h": 540,
+  "xc": 284
+ },
+ "virada": {
+  "b04_vazio": {
+   "arquivo": "k_b04.mp4",
+   "ini": 0.0,
+   "dur": 3.0,
+   "cy": 0.0
+  },
+  "b05_cinco": {
+   "arquivo": "k_b05.mp4",
+   "ini": 0.0,
+   "dur": 3.0,
+   "cy": 0.0
+  },
+  "b06_fila": {
+   "arquivo": "k_b06.mp4",
+   "ini": 0.0,
+   "dur": 3.0,
+   "cy": 0.0
+  }
+ },
+ "pre": {
+  "arquivo": "k_pre.mp4",
+  "ini": 2.283,
+  "quadros": 84,
+  "fundir": 4,
+  "amb_ss": 8.0
+ }
+}

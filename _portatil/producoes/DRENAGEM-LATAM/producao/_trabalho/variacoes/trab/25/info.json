@@ -1,0 +1,57 @@
+{
+ "var": "25",
+ "gancho": "G5",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Tres semanas lo dejé en el carrito. Siempre decía: mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.",
+ "Hd": 8.966666666666667,
+ "fala_s": 8.54,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 10.691,
+   "dur": 1.7333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 0.175,
+   "dur": 2.2333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 15.258,
+   "dur": 1.7
+  },
+  {
+   "src": "30",
+   "ini": 8.342,
+   "dur": 1.8666666666666667
+  },
+  {
+   "src": "30",
+   "ini": 6.225,
+   "dur": 1.4333333333333333
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Tres semanas lo dejé en el carrito.",
+   0.116
+  ],
+  [
+   "Siempre decía: mañana lo pido.",
+   2.276
+  ],
+  [
+   "Fueron tres semanas perdidas.",
+   4.865
+  ],
+  [
+   "Esta es mi historia.",
+   6.896
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 25 - G5-CARRITO x AD30.mp4",
+ "seed": 178
+}

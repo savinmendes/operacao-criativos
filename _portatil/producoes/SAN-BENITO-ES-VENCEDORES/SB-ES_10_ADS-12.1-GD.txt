@@ -1,0 +1,42 @@
+Ranking: 10 (VENCEDOR PROVISÓRIO: só 3 compras)
+Anúncio (criativo): ADS 12.1 GD
+Nomes de anúncio somados: ADS 12.1 GD
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (2): SB ES - 04/10 - CBO 1-1-6 - BID 53 [ESPANHA] | SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO]
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 90.47
+Compras (pixel): 3
+Custo por compra: US$ 30.16  (média SB ES: US$ 31.62)
+ROAS compra no site: 1.30  (média SB ES: 1.22)
+CTR de link: 5.72%  (cliques no link / impressões)
+Impressões: 7941
+Cliques no link: 454
+Status atual dos anúncios: {'ADSET_PAUSED': 5, 'ACTIVE': 1}
+
+ARQUIVO: SB-ES_10_ADS-12.1-GD.mp4 — 720x1280 h264, 31.6 s
+Origem: Meta, video_id 1487139383461405. Baixado com yt-dlp (formato hd H.264).
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 43.95 / 1 / 120248428118520259 / 1112439094696272 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 3
+  US$ 28.79 / 2 / 120248428125050259 / 1112439094696272 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 5
+  US$ 8.74 / 0 / 120248584630240259 / 1409040280682180 / SB ES - 04/10 - CBO 1-1-6 - BID 53 [ESPANHA] / 1-1-6 ES
+  US$ 5.35 / 0 / 120248428123230259 / 1112439094696272 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 4
+  US$ 2.11 / 0 / 120248428115940259 / 2135368037059427 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 2
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 1112439094696272
+Título: 🔴 EN VIVO: La oración a San Benito que casi nadie conoce 🙏
+Texto principal:
+Hay un mensaje que está tocando el corazón de muchas personas en pleno momento de oración…
+
+Habla de caminos que parecen cerrados, puertas que no se abren y cargas que uno lleva sin entender por qué.
+
+Muchos lo llaman "mala suerte"…
+pero hay quienes sienten que detrás de todo eso hay algo más profundo, en lo espiritual.
+
+Una oración ligada a San Benito —poco conocida por la mayoría— está despertando la atención de quienes buscan protección, fe y paz interior.
+
+¿Qué revela esta oración?
+Escúchala con atención 👇

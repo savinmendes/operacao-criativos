@@ -1,0 +1,42 @@
+Ranking: 04
+Anúncio (criativo): ADS 20
+Nomes de anúncio somados: ADS 20, ADS 20 | HOT, ADS 20 | WHOP, ADS 20 — nv, ADS 20 — nv | HOT, ADS 20 —nv
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (9): SB ES - 13/09 - ABO - lead 2 escala | SB ES - 15/09 - ABO - lead 2 escala | SB ES - 19/09 - ABO - lead 2 [DUPLICADOS] | SB ES - 21/09 - ABO - TESTE A/B GATEWAY [HOT x WHOP] | SB ES - 21/09 - ABO - lead 2 [DUPLICADOS HOT] | SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT] | SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] | SB ES - 27/09 - CBO 1-1-7 CAMPEOES | SB ES - ESCALA LEAD 2 - BID - 17/09  [ESPANHA]
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 1001.50
+Compras (pixel): 46
+Custo por compra: US$ 21.77  (média SB ES: US$ 31.62)
+ROAS compra no site: 1.91  (média SB ES: 1.22)
+CTR de link: 6.66%  (cliques no link / impressões)
+Impressões: 53502
+Cliques no link: 3562
+Status atual dos anúncios: {'ADSET_PAUSED': 11, 'CAMPAIGN_PAUSED': 3, 'WITH_ISSUES': 1}
+
+ARQUIVO: SB-ES_04_ADS-20.mp4 — 720x1280 h264, 141.3 s
+Origem: Meta, video_id 2203202310242774 (o mais usado, US$ 647 do gasto). Baixado com yt-dlp (formato hd H.264).
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 497.28 / 22 / 120248391035600259 / 1567789721169911 / SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT] / ADS 20 | HOT
+  US$ 263.25 / 17 / 120248281029610259 / 1135159458951757 / SB ES - 15/09 - ABO - lead 2 escala / ADS 20
+  US$ 55.71 / 0 / 120248331797840259 / 2224698771795755 / SB ES - 15/09 - ABO - lead 2 escala / ADS 20 —nv
+  US$ 55.05 / 6 / 120248428115210259 / 1363901789062421 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 3
+  US$ 29.55 / 1 / 120248371050100259 / 2205379933661688 / SB ES - 21/09 - ABO - lead 2 [DUPLICADOS HOT] / ADS 20 | HOT
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 1567789721169911
+Título: 🔴 EN VIVO: La oración a San Benito que casi nadie conoce 🙏
+Texto principal:
+Hay un mensaje que está tocando el corazón de muchas personas en pleno momento de oración…
+
+Habla de caminos que parecen cerrados, puertas que no se abren y cargas que uno lleva sin entender por qué.
+
+Muchos lo llaman "mala suerte"…
+pero hay quienes sienten que detrás de todo eso hay algo más profundo, en lo espiritual.
+
+Una oración ligada a San Benito —poco conocida por la mayoría— está despertando la atención de quienes buscan protección, fe y paz interior.
+
+¿Qué revela esta oración?
+Escúchala con atención 👇

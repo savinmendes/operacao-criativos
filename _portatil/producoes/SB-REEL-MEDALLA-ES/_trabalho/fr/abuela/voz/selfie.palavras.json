@@ -1,0 +1,359 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.023,
+  "fim": 0.186,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "passé",
+  "ini": 0.244,
+  "fim": 0.534,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "des",
+  "ini": 0.592,
+  "fim": 0.743,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "années",
+  "ini": 0.824,
+  "fim": 1.115,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "à",
+  "ini": 1.173,
+  "fim": 1.196,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "mettre",
+  "ini": 1.277,
+  "fim": 1.486,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 1.521,
+  "fim": 1.602,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "table",
+  "ini": 1.683,
+  "fim": 1.927,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "pour",
+  "ini": 1.962,
+  "fim": 2.101,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "tout",
+  "ini": 2.159,
+  "fim": 2.31,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "le",
+  "ini": 2.334,
+  "fim": 2.38,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "monde.",
+  "ini": 2.403,
+  "fim": 2.844,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "Mes",
+  "ini": 3.286,
+  "fim": 3.448,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "petits-enfants",
+  "ini": 3.495,
+  "fim": 4.261,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "grandissaient",
+  "ini": 4.296,
+  "fim": 4.992,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 5.317,
+  "fim": 5.48,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "je",
+  "ini": 5.526,
+  "fim": 5.631,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 5.666,
+  "fim": 5.782,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "les",
+  "ini": 5.851,
+  "fim": 5.956,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "voyais",
+  "ini": 5.991,
+  "fim": 6.467,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "qu'en",
+  "ini": 6.676,
+  "fim": 6.885,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "photo.",
+  "ini": 6.92,
+  "fim": 7.558,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "J'avais",
+  "ini": 7.941,
+  "fim": 8.266,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "l'impression",
+  "ini": 8.301,
+  "fim": 8.882,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 8.94,
+  "fim": 9.021,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 9.067,
+  "fim": 9.16,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "plus",
+  "ini": 9.23,
+  "fim": 9.404,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "compter",
+  "ini": 9.427,
+  "fim": 9.764,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "pour",
+  "ini": 9.81,
+  "fim": 9.938,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne.",
+  "ini": 9.985,
+  "fim": 10.704,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "Jusqu'au",
+  "ini": 11.308,
+  "fim": 11.737,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "jour",
+  "ini": 11.807,
+  "fim": 12.086,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "où",
+  "ini": 12.132,
+  "fim": 12.341,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 12.399,
+  "fim": 12.469,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "prêtre",
+  "ini": 12.527,
+  "fim": 12.84,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 12.875,
+  "fim": 12.968,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "expliqué",
+  "ini": 13.038,
+  "fim": 13.56,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "quelque",
+  "ini": 13.63,
+  "fim": 13.92,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "chose",
+  "ini": 13.967,
+  "fim": 14.257,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 14.292,
+  "fim": 14.396,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne",
+  "ini": 14.431,
+  "fim": 14.953,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 15.337,
+  "fim": 15.441,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'avait",
+  "ini": 15.499,
+  "fim": 15.766,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "jamais",
+  "ini": 15.801,
+  "fim": 16.08,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "dit",
+  "ini": 16.114,
+  "fim": 16.3,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "sur",
+  "ini": 16.323,
+  "fim": 16.474,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 16.498,
+  "fim": 16.556,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "médaille",
+  "ini": 16.614,
+  "fim": 16.997,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 17.02,
+  "fim": 17.113,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "saint",
+  "ini": 17.171,
+  "fim": 17.38,
+  "personagem": "abuela",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benoît.",
+  "ini": 17.403,
+  "fim": 17.879,
+  "personagem": "abuela",
+  "parte": "selfie"
+ }
+]

@@ -1,0 +1,32 @@
+REVISÃO: V2_SELFIE-ULTIMO-VIDEO.mp4
+duração 81.67s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 20.1 MB
+decodificação: OK
+pts do áudio: 3519 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 791-1115, x 11-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\ganchos_g2g4\revisao\V2_SELFIE-ULTIMO-VIDEO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  6.00 Si este video se corta, busquen al padre Juan Méndez, él tiene la oración.
+   6.00- 10.58 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  10.58- 14.88 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida.
+  14.88- 20.88 Le enseñé esta oración a mi amigo el padre Juan Méndez y él la está rezando en vivo con miles de familias.
+  20.88- 27.16 Cada día me escriben familias que trabajan sin descanso, que rezan y aún así sienten
+  27.16- 32.02 que el dinero nunca alcanza y que algo le cierra el camino. No es falta de fe.
+  32.02- 37.50 O poderoso San Benito, guardián de los arcanos sagrados que venciste a las
+  37.50- 42.34 serpientes con la señal de la cruz y callaste el rugido de los abismos con tu
+  42.34- 47.78 fe inquebrantable. Esta es la oración a San Benito que casi nadie conoce y que
+  47.78- 52.36 está ayudando a muchas familias hispanas. Solo un grupo de monjes tenía
+  52.36- 59.64 acceso a esta oración completa, por eso nunca había noído hablar de ella, pero atención
+  59.64- 65.24 tiene que hacerse de la forma correcta siguiendo las instrucciones, porque no es una oración
+  65.24- 71.04 común, tiene instrucciones y una manera correcta de hacerla y de escucharla. Por eso
+  71.04- 76.96 la estoy rezando en vivo, completa, paso a paso, junto con miles de familias. Toca
+  76.96- 80.96 en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

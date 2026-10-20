@@ -1,0 +1,86 @@
+[
+ {
+  "texto": "ONEMOP.",
+  "conf": 0.98,
+  "caixa": [
+   42,
+   52,
+   363,
+   164
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "WHOLE-HOMECLEAN.",
+  "conf": 0.96,
+  "caixa": [
+   46,
+   171,
+   761,
+   274
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5 cleaning modes. Powerful steam.",
+  "conf": 0.99,
+  "caixa": [
+   51,
+   289,
+   597,
+   329
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "No added cleaning chemicals.",
+  "conf": 1.0,
+  "caixa": [
+   51,
+   333,
+   518,
+   371
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "★★★★",
+  "conf": 0.81,
+  "caixa": [
+   90,
+   1041,
+   246,
+   1065
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "4,000+",
+  "conf": 0.98,
+  "caixa": [
+   102,
+   1085,
+   266,
+   1133
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5-STARREVIEWS",
+  "conf": 0.98,
+  "caixa": [
+   78,
+   1138,
+   291,
+   1166
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

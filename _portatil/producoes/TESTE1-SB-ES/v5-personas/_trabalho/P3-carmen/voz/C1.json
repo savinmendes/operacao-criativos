@@ -1,0 +1,156 @@
+{
+"texto": "Esa noche pensé en mis hijos y no sabía cómo decirles que me habían echado... y encima acusada de ladrona. Una amiga me mandó la transmisión del padre Juan Méndez.",
+"dur": 9.217,
+"palavras": [
+{
+"w": "Esa",
+"ini": 0.035,
+"fim": 0.255
+},
+{
+"w": "noche",
+"ini": 0.313,
+"fim": 0.511
+},
+{
+"w": "pensé",
+"ini": 0.557,
+"fim": 0.813
+},
+{
+"w": "en",
+"ini": 0.836,
+"fim": 0.882
+},
+{
+"w": "mis",
+"ini": 0.929,
+"fim": 1.08
+},
+{
+"w": "hijos",
+"ini": 1.115,
+"fim": 1.498
+},
+{
+"w": "y",
+"ini": 1.645,
+"fim": 1.749
+},
+{
+"w": "no",
+"ini": 1.819,
+"fim": 1.888
+},
+{
+"w": "sabía",
+"ini": 1.935,
+"fim": 2.155
+},
+{
+"w": "cómo",
+"ini": 2.202,
+"fim": 2.399
+},
+{
+"w": "decirles",
+"ini": 2.422,
+"fim": 2.968
+},
+{
+"w": "que",
+"ini": 3.026,
+"fim": 3.107
+},
+{
+"w": "me",
+"ini": 3.154,
+"fim": 3.212
+},
+{
+"w": "habían",
+"ini": 3.235,
+"fim": 3.479
+},
+{
+"w": "echado...",
+"ini": 3.537,
+"fim": 4.045
+},
+{
+"w": "y",
+"ini": 4.121,
+"fim": 4.225
+},
+{
+"w": "encima",
+"ini": 4.307,
+"fim": 4.771
+},
+{
+"w": "acusada",
+"ini": 4.829,
+"fim": 5.317
+},
+{
+"w": "de",
+"ini": 5.352,
+"fim": 5.421
+},
+{
+"w": "ladrona.",
+"ini": 5.468,
+"fim": 6.071
+},
+{
+"w": "Una",
+"ini": 6.158,
+"fim": 6.367
+},
+{
+"w": "amiga",
+"ini": 6.391,
+"fim": 6.727
+},
+{
+"w": "me",
+"ini": 6.785,
+"fim": 6.878
+},
+{
+"w": "mandó",
+"ini": 6.925,
+"fim": 7.122
+},
+{
+"w": "la",
+"ini": 7.157,
+"fim": 7.215
+},
+{
+"w": "transmisión",
+"ini": 7.261,
+"fim": 7.737
+},
+{
+"w": "del",
+"ini": 7.772,
+"fim": 7.865
+},
+{
+"w": "padre",
+"ini": 7.923,
+"fim": 8.202
+},
+{
+"w": "Juan",
+"ini": 8.248,
+"fim": 8.411
+},
+{
+"w": "Méndez.",
+"ini": 8.457,
+"fim": 9.061
+}
+]
+}

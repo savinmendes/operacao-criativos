@@ -1,0 +1,102 @@
+{
+ "refeitos": {
+  "flora/t1_final.mp4": {
+   "args": [
+    "flora/t1.mp4",
+    "flora/t1_edit2.mp4",
+    "1.37"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad10\\flora\\t1_final.mp4 | 41 quadros | editado tinha 81 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     41,
+     41
+    ],
+    "dif_media": 1.795,
+    "dif_media_max_quadro": 2.029,
+    "dentro_faixa_media": 1.907,
+    "fora_px40_max": 3,
+    "fora_px40_media": 0.1
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     41,
+     41
+    ],
+    "dif_media": 1.88,
+    "dif_media_max_quadro": 2.261,
+    "dentro_faixa_media": 1.934,
+    "fora_px40_max": 739,
+    "fora_px40_media": 407.9
+   }
+  },
+  "flora/t3_final.mp4": {
+   "args": [
+    "flora/t3.mp4",
+    "flora/t3_edit.mp4",
+    "2.5"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad10\\flora\\t3_final.mp4 | 75 quadros | editado tinha 81 @ 24 fps | saltos>2: 1",
+   "reproduz_antigo": {
+    "quadros": [
+     75,
+     75
+    ],
+    "dif_media": 1.739,
+    "dif_media_max_quadro": 2.216,
+    "dentro_faixa_media": 1.62,
+    "fora_px40_max": 2,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     75,
+     75
+    ],
+    "dif_media": 1.908,
+    "dif_media_max_quadro": 2.33,
+    "dentro_faixa_media": 1.617,
+    "fora_px40_max": 1403,
+    "fora_px40_media": 602.9
+   }
+  }
+ },
+ "conferidos": {
+  "flora/t2_final.mp4": {
+   "args": [
+    "flora/t2.mp4",
+    "flora/t2_edit.mp4",
+    "3.06"
+   ],
+   "corrigido_vs_entregue": {
+    "quadros": [
+     92,
+     92
+    ],
+    "dif_media": 1.48,
+    "dif_media_max_quadro": 1.845,
+    "dentro_faixa_media": 1.67,
+    "fora_px40_max": 71,
+    "fora_px40_media": 0.8
+   }
+  },
+  "flora2/t4p_final.mp4": {
+   "args": [
+    "flora2/t4p.mp4",
+    "flora2/t4p_edit.mp4",
+    "2.300"
+   ],
+   "corrigido_vs_entregue": {
+    "quadros": [
+     69,
+     69
+    ],
+    "dif_media": 1.84,
+    "dif_media_max_quadro": 2.3,
+    "dentro_faixa_media": 2.0,
+    "fora_px40_max": 209,
+    "fora_px40_media": 101.6
+   }
+  }
+ }
+}

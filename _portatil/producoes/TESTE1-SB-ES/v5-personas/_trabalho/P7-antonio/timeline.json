@@ -1,0 +1,133 @@
+{
+ "total": 66.5333,
+ "cta_t": 60.56666666666667,
+ "itens": [
+  {
+   "id": "AB",
+   "tipo": "ab",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\mont\\ab.mp4",
+   "T0": 0.0,
+   "D": 12.266666666666667
+  },
+  {
+   "id": "hv_maos",
+   "tipo": "vir",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hv_maos.mp4",
+   "ss": 0.7,
+   "T0": 12.266666666666667,
+   "D": 2.2666666666666666,
+   "y0": 40
+  },
+  {
+   "id": "hv_banco",
+   "tipo": "vir",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hv_banco.mp4",
+   "ss": 0.3,
+   "T0": 14.533333333333335,
+   "D": 1.8,
+   "y0": 60
+  },
+  {
+   "id": "hv_vizinha",
+   "tipo": "vir",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hv_vizinha.mp4",
+   "ss": 1.0,
+   "T0": 16.333333333333336,
+   "D": 2.6,
+   "y0": 60
+  },
+  {
+   "id": "hv_familia",
+   "tipo": "vir",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hv_familia.mp4",
+   "ss": 2.6,
+   "T0": 18.933333333333337,
+   "D": 2.3333333333333335,
+   "y0": 60
+  },
+  {
+   "id": "R01",
+   "tipo": "rep",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\w\\rep_R01.mp4",
+   "ss": 0.0,
+   "T0": 21.26666666666667,
+   "D": 5.2,
+   "y0": 80,
+   "zoom": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\R01.wav",
+   "u1": 5.444
+  },
+  {
+   "id": "A1",
+   "tipo": "ant",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hg_A1.mp4",
+   "ss": 0.0,
+   "T0": 26.46666666666667,
+   "D": 6.166666666666667,
+   "y0": 60,
+   "zoom": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\A1.wav",
+   "u1": 6.477
+  },
+  {
+   "id": "A2",
+   "tipo": "ant",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hg_A2.mp4",
+   "ss": 0.0,
+   "T0": 32.63333333333333,
+   "D": 8.033333333333333,
+   "y0": 60,
+   "zoom": 1.12,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\A2.wav",
+   "u1": 8.427
+  },
+  {
+   "id": "P1",
+   "tipo": "ant",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hg_P1.mp4",
+   "ss": 0.0,
+   "T0": 40.666666666666664,
+   "D": 6.566666666666666,
+   "y0": 60,
+   "zoom": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\P1.wav",
+   "u1": 6.897
+  },
+  {
+   "id": "P2",
+   "tipo": "ant",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hg_P2.mp4",
+   "ss": 0.0,
+   "T0": 47.233333333333334,
+   "D": 7.733333333333333,
+   "y0": 60,
+   "zoom": 1.12,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\P2.wav",
+   "u1": 8.137
+  },
+  {
+   "id": "P3",
+   "tipo": "ant",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\takes\\hg_P3.mp4",
+   "ss": 0.0,
+   "T0": 54.96666666666667,
+   "D": 5.6,
+   "y0": 60,
+   "zoom": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\P3.wav",
+   "u1": 5.878
+  },
+  {
+   "id": "CTA",
+   "tipo": "rep",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\w\\rep_CTA.mp4",
+   "ss": 0.0,
+   "T0": 60.56666666666667,
+   "D": 5.966666666666667,
+   "y0": 80,
+   "zoom": 1.12,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P7-antonio\\voz\\CTA.wav",
+   "u1": 6.28
+  }
+ ]
+}

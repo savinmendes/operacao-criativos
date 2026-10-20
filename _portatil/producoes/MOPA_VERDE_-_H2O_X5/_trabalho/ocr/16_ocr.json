@@ -1,0 +1,314 @@
+[
+ {
+  "texto": "Five cleaning tools",
+  "ini": 0.0,
+  "fim": 6.0,
+  "caixa": [
+   173,
+   366,
+   546,
+   408
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "in one lightweight,",
+  "ini": 0.0,
+  "fim": 6.0,
+  "caixa": [
+   163,
+   403,
+   542,
+   444
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "powerful steamer",
+  "ini": 0.0,
+  "fim": 5.0,
+  "caixa": [
+   180,
+   441,
+   539,
+   483
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "I love",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   294,
+   715,
+   418,
+   766
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "the H2O X5",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   230,
+   718,
+   488,
+   759
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "It's not",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   286,
+   715,
+   440,
+   767
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "but",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   322,
+   718,
+   403,
+   761
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "cleaning",
+  "ini": 4.0,
+  "fim": 5.0,
+  "caixa": [
+   269,
+   715,
+   450,
+   769
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Tpowerftl steamer",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   159,
+   441,
+   535,
+   482
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "asa",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   317,
+   729,
+   403,
+   759
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ENSI",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   649,
+   454,
+   717,
+   495
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "handheld",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   261,
+   714,
+   457,
+   766
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "steamer",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   275,
+   722,
+   449,
+   763
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "tiles,",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   303,
+   712,
+   414,
+   770
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "garments,",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   253,
+   720,
+   465,
+   767
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and more,",
+  "ini": 10.0,
+  "fim": 11.0,
+  "caixa": [
+   254,
+   720,
+   467,
+   766
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "power of",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   266,
+   718,
+   456,
+   768
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "chemicals,",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   249,
+   716,
+   471,
+   767
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HaO",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   289,
+   379,
+   331,
+   400
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "MOP",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   269,
+   391,
+   355,
+   434
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "X5",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   279,
+   420,
+   353,
+   460
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "just a deep",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   241,
+   720,
+   475,
+   769
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HO",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   308,
+   419,
+   356,
+   448
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "corner of",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   263,
+   719,
+   460,
+   765
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "OP",
+  "ini": 15.0,
+  "fim": 16.0,
+  "caixa": [
+   376,
+   470,
+   439,
+   507
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "K5",
+  "ini": 15.0,
+  "fim": 16.0,
+  "caixa": [
+   369,
+   502,
+   429,
+   523
+  ],
+  "marca_ou_alerta": false
+ }
+]

@@ -1,0 +1,49 @@
+# termos proibidos DCD7781 - revisao final (precio, claims sem fonte, PT residual)
+precio
+precios
+pesos
+$
+clp
+179
+más vendido
+mas vendidos
+el más potente
+numero 1
+número uno
+descuento
+oferta de
+gratis
+65
+169
+29.750
+29750
+29 750
+340
+500 rpm
+\b90\b
+\b95\b
+\b55\b
+newton
+tork
+rotomartillo
+cuatro amperes
+4 amperes
+5 amperes
+cien accesorios
+100 accesorios
+garantía de 3
+tres años
+bivolt
+parafusadeira
+furadeira
+você
+voce
+frete
+compre agora
+compre já
+obrigad
+\bnão\b
+\bmuito\b
+ultimas unidades
+últimas unidades
+stock

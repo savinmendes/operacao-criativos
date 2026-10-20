@@ -1,0 +1,95 @@
+{
+"texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.",
+"voz": "hHjbwzYZW17oh0p05AKv",
+"est": 0.4,
+"estilo": 0.4,
+"vel": 1.1,
+"dur": 6.945,
+"palavras": [
+{
+"w": "¡Claro!",
+"ini": 0.035,
+"fim": 0.522
+},
+{
+"w": "Toquen",
+"ini": 0.772,
+"fim": 1.12
+},
+{
+"w": "el",
+"ini": 1.178,
+"fim": 1.248
+},
+{
+"w": "botón",
+"ini": 1.306,
+"fim": 1.619
+},
+{
+"w": "que",
+"ini": 1.724,
+"fim": 1.828
+},
+{
+"w": "está",
+"ini": 1.863,
+"fim": 2.13
+},
+{
+"w": "abajo",
+"ini": 2.235,
+"fim": 2.769
+},
+{
+"w": "del",
+"ini": 2.827,
+"fim": 2.954
+},
+{
+"w": "video",
+"ini": 3.013,
+"fim": 3.407
+},
+{
+"w": "y",
+"ini": 3.657,
+"fim": 3.796
+},
+{
+"w": "entren",
+"ini": 3.935,
+"fim": 4.307
+},
+{
+"w": "ahora",
+"ini": 4.411,
+"fim": 4.911
+},
+{
+"w": "a",
+"ini": 5.015,
+"fim": 5.096
+},
+{
+"w": "la",
+"ini": 5.201,
+"fim": 5.27
+},
+{
+"w": "oración",
+"ini": 5.328,
+"fim": 5.886
+},
+{
+"w": "en",
+"ini": 6.048,
+"fim": 6.257
+},
+{
+"w": "vivo.",
+"ini": 6.315,
+"fim": 6.745
+}
+]
+}

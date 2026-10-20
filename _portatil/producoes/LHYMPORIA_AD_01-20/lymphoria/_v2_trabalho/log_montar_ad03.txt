@@ -1,0 +1,18 @@
+>> substituir_trechos.py base.mp4 v2_b1.mp4 trechos_v2.json
+t1_final.mp4: 162 quadros a partir de 0.0s
+t2_final.mp4: 152 quadros a partir de 5.4s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad03\v2_b1.mp4 | 2148 quadros, 314 trocados
+>> trocar_texto_tela.py v2_b1.mp4 v2_b2.mp4 --de 2.15
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad03\v2_b2.mp4 | 26 quadros com texto trocado
+>> -v error -y -i v2_b2.mp4
+>> montar_ad.py receita_final_v2.json
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 03 - LYMPHORIA-ESQUELETO-30DIAS-ES-LATAM v2.mp4
+duração : 92.80s | 720x1280 | áudio: sim | 26.0 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 03 - LYMPHORIA-ESQUELETO-30DIAS-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 88.86s
+montagem rápida: 25s para 93s de vídeo (0.27x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 03 - LYMPHORIA-ESQUELETO-30DIAS-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 2467, "psnr_min": 37.94, "psnr_medio": 42.92, "px40_max": 184, "px40_medio": 3.08, "quadro_px40_max": 2445, "t_px40_max": 81.5}, "parte1_fora_dos_takes": {"quadros": 1834, "px40_max": 19, "t_px40_max": 12.2, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 314, "px40_medio": 545.4}}
+{"quadros": 314, "psnr_medio": 36.71, "px40_medio": 581.4, "px40_max": 1265}

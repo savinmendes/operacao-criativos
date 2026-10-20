@@ -1,0 +1,16 @@
+{
+ "comum": {"f1": "Oh glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla.",
+           "f4": "Hasta que, en una transmisión en vivo, un padre explicó la forma exacta de pedirle a San Benito."},
+ "costurera": {"voz": "hHjbwzYZW17oh0p05AKv",
+   "f2": "Sácame de esta escasez. Si me escuchas… ayúdame.",
+   "f3": "Pasé casi seis meses sin un solo encargo. Mi máquina se quedó quieta y llegué a pensar en venderla.",
+   "f5": "Ese día recuperé la paz. Y poco a poco, las puertas empezaron a abrirse."},
+ "abuela": {"voz": "aYQAm4rWuigkeuRA5i92",
+   "f2": "Devuélveme a mi familia. Si me escuchas… no me dejes sola.",
+   "f3": "Pasé años poniendo la mesa para todos… y comiendo sola. Mis hijos ya ni me llamaban.",
+   "f5": "Ese día recuperé la paz. Y poco a poco, mi casa volvió a llenarse."},
+ "madre": {"voz": "SmgKjOvC1aIujLWcMzqq",
+   "f2": "Protege a mis hijos. Si me escuchas… dame fuerzas.",
+   "f3": "Trabajaba de sol a sol y aun así las cuentas no cerraban. Lloraba en la cocina cuando los niños dormían.",
+   "f5": "Ese día recuperé la paz. Y poco a poco, las puertas empezaron a abrirse."}
+}

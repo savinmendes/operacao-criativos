@@ -1,0 +1,33 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\UGC 01 - LYMPHORIA-CARRITO-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ugc\\ugc01\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ugc\\ugc01\\alinhamento.json",
+  "chaves": [
+   "Lymphoria",
+   "miel",
+   "gratis",
+   "recibir",
+   "noventa",
+   "hierbas",
+   "oficial"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 39.3
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "resolucao": "720",
+ "limite_mb": 30
+}

@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\AD 04 CURTO - LYMPHORIA-MUJER-28-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "parte2.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ad04\\curto\\parte1_curto.mp4"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ad04\\curto\\narr_fim.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "miel",
+   "gratis",
+   "recibir",
+   "noventa"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 73.71
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

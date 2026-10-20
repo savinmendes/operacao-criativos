@@ -1,0 +1,46 @@
+{
+ "idioma": "hu",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 1.64,
+   "texto": "Üh, de jó, milyen?"
+  },
+  {
+   "ini": 1.64,
+   "fim": 3.0,
+   "texto": "Most vettem, szagad meg!"
+  },
+  {
+   "ini": 3.64,
+   "fim": 5.4,
+   "texto": "Hó, ilyennek szarszaga van!"
+  },
+  {
+   "ini": 5.4,
+   "fim": 6.88,
+   "texto": "Ú, pitchába, tényleg!"
+  },
+  {
+   "ini": 6.88,
+   "fim": 8.88,
+   "texto": "Ja, várjál, így próbáld meg!"
+  },
+  {
+   "ini": 9.36,
+   "fim": 11.0,
+   "texto": "Jézusom, ez tényleg király!"
+  },
+  {
+   "ini": 11.0,
+   "fim": 12.64,
+   "texto": "Olyan, mint a Leméler X-ír!"
+  },
+  {
+   "ini": 12.64,
+   "fim": 15.32,
+   "texto": "Mondtam, ez a 2020-se Goldbeat-nél!"
+  }
+ ]
+}

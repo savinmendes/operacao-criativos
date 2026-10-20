@@ -1,0 +1,16 @@
+{
+ "saida": ".",
+ "slides": [
+  {
+   "img": "_geradas/C1_sYeifAIw.png", "modo": "topo", "alt_img": 790, "cx": 0.47, "fade": 200,
+   "blocos": [
+    {"texto": "HAZ UN PEDIDO A SAN BENITO EN SILENCIO Y LUEGO ESCRIBE: AMÉN",
+     "caixa": [70, 830, 1010, 1070], "tamanho": 66, "cor": [255, 255, 255]},
+    {"texto": "LA ORACIÓN DE SAN BENITO SE ESTÁ REZANDO EN VIVO AHORA. TOCA EN «MÁS INFORMACIÓN» Y ÚNETE ↓",
+     "caixa": [70, 1090, 1010, 1210], "tamanho": 38, "cor": [240, 200, 125]}
+   ],
+   "seta_cta": [1290, [691, 907]],
+   "seta_tam": 32
+  }
+ ]
+}

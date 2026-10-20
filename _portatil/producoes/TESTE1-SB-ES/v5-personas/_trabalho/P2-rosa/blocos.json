@@ -1,0 +1,92 @@
+[
+ {
+  "id": "R00",
+  "tela": true,
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.2,
+  "texto": "Imágenes impactantes: una costurera fue humillada por una clienta… por su fe."
+ },
+ {
+  "id": "R01",
+  "tela": true,
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.08,
+  "texto": "Al día siguiente, el taller de doña Rosa tenía encargos hasta el fin de mes."
+ },
+ {
+  "id": "RA1",
+  "tela": false,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.03,
+  "texto": "Esa noche lloré sobre la máquina de coser."
+ },
+ {
+  "id": "RA2",
+  "tela": true,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.03,
+  "texto": "Treinta años cosiendo… y me sentí una inútil."
+ },
+ {
+  "id": "RA3",
+  "tela": false,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.03,
+  "texto": "Mi comadre me mandó la transmisión del padre Juan Méndez."
+ },
+ {
+  "id": "RA4",
+  "tela": true,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.03,
+  "texto": "La hice esa misma noche, como él enseña. Al otro día, entraron tres clientas que yo ni conocía."
+ },
+ {
+  "id": "RP1",
+  "tela": true,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.05,
+  "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche."
+ },
+ {
+  "id": "RP2",
+  "tela": true,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.05,
+  "texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…"
+ },
+ {
+  "id": "RP3",
+  "tela": true,
+  "voz": "efcRUax7uSa9kpBwtDPe",
+  "est": 0.45,
+  "estilo": 0.35,
+  "vel": 1.05,
+  "texto": "y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?"
+ },
+ {
+  "id": "CTA",
+  "tela": true,
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.08,
+  "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+ }
+]

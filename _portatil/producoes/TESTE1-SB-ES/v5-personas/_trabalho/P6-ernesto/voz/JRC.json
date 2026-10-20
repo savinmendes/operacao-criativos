@@ -1,0 +1,110 @@
+{
+"dur": 6.355,
+"frases": [
+"RCTA"
+],
+"palavras": [
+{
+"w": "¡Claro!",
+"ini": 0.035,
+"fim": 0.569,
+"frase": "RCTA"
+},
+{
+"w": "Toquen",
+"ini": 0.819,
+"fim": 1.133,
+"frase": "RCTA"
+},
+{
+"w": "el",
+"ini": 1.191,
+"fim": 1.249,
+"frase": "RCTA"
+},
+{
+"w": "botón",
+"ini": 1.295,
+"fim": 1.632,
+"frase": "RCTA"
+},
+{
+"w": "que",
+"ini": 1.736,
+"fim": 1.818,
+"frase": "RCTA"
+},
+{
+"w": "está",
+"ini": 1.852,
+"fim": 2.085,
+"frase": "RCTA"
+},
+{
+"w": "abajo",
+"ini": 2.131,
+"fim": 2.421,
+"frase": "RCTA"
+},
+{
+"w": "del",
+"ini": 2.468,
+"fim": 2.584,
+"frase": "RCTA"
+},
+{
+"w": "video",
+"ini": 2.63,
+"fim": 3.002,
+"frase": "RCTA"
+},
+{
+"w": "y",
+"ini": 3.252,
+"fim": 3.392,
+"frase": "RCTA"
+},
+{
+"w": "entren",
+"ini": 3.496,
+"fim": 3.868,
+"frase": "RCTA"
+},
+{
+"w": "ahora",
+"ini": 3.949,
+"fim": 4.425,
+"frase": "RCTA"
+},
+{
+"w": "a",
+"ini": 4.564,
+"fim": 4.645,
+"frase": "RCTA"
+},
+{
+"w": "la",
+"ini": 4.727,
+"fim": 4.796,
+"frase": "RCTA"
+},
+{
+"w": "oración",
+"ini": 4.831,
+"fim": 5.354,
+"frase": "RCTA"
+},
+{
+"w": "en",
+"ini": 5.493,
+"fim": 5.667,
+"frase": "RCTA"
+},
+{
+"w": "vivo.",
+"ini": 5.725,
+"fim": 6.155,
+"frase": "RCTA"
+}
+]
+}

@@ -1,0 +1,45 @@
+{
+ "hook_fim": 6.3,
+ "reza": [
+  [
+   0.0,
+   4.5
+  ]
+ ],
+ "vira": 11.4,
+ "frus_fim": 3.25,
+ "self_off": 3.25,
+ "selfies": [
+  [
+   3.25,
+   7.1,
+   1.0
+  ],
+  [
+   7.1,
+   9.15,
+   1.13
+  ],
+  [
+   9.15,
+   null,
+   1.0
+  ]
+ ],
+ "r_self": [],
+ "rosto_self": [
+  580,
+  760
+ ],
+ "gancho_zoom": 1.2,
+ "gancho_centro": [
+  470,
+  1150
+ ],
+ "antes_zoom": 1.0,
+ "depois_ss": 0.4,
+ "frus_ss": 0.2,
+ "slug": "pareja",
+ "t_reza": 6.45,
+ "t_self": 13.85
+}

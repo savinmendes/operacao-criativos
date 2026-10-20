@@ -1,0 +1,29 @@
+REVISÃO: LYM-CL_C1_trabajadora-de-pie_pov-voz-off_b.mp4
+duração 43.21s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.0 MB
+decodificação: OK
+pts do áudio: 2026 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1130-1196, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_enxuto_c1c3\rev\LYM-CL_C1_trabajadora-de-pie_pov-voz-off_b_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¿Trabajas todo el día de pie?
+   2.00-  6.40 Cuando por fin llegas a la casa y te sacas los zapatos, ahí están.
+   6.40- 12.40 Los tobillos hinchados, las piernas pesadas y te tiras al sillón sin ganas de nada.
+  12.40- 15.60 No es solo cansancio, es líquido retenido.
+  15.60- 17.60 Por eso existe linforia.
+  17.60- 23.80 Gotitas con cuatro hierbas, gálio, trébol rojo, raíz de estilinga y fresno espinoso.
+  23.80- 26.50 100% natural y sabe a miel.
+  26.50- 31.78 Unas gotas en tu agua todos los días para terminar la jornada con las piernas más livianas.
+  31.78- 33.30 Adiós, Inchasona.
+  33.30- 34.86 Se llama Lymphoria.
+  34.86- 39.90 Compre uno y reciba dos con envío gratis y pagas al recibir en tu casa.
+  39.90- 42.90 Toca el botón de abajo y pide el tú.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

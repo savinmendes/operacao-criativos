@@ -1,0 +1,170 @@
+{
+"texto": "Mi nieta me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña. Al día siguiente, me sentí en paz por primera vez en años.",
+"voz": "Zkg9LlmGNlBWLgWjzTnu",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.06,
+"dur": 8.441,
+"palavras": [
+{
+"w": "Mi",
+"ini": 0.058,
+"fim": 0.151
+},
+{
+"w": "nieta",
+"ini": 0.186,
+"fim": 0.453
+},
+{
+"w": "me",
+"ini": 0.488,
+"fim": 0.546
+},
+{
+"w": "mandó",
+"ini": 0.58,
+"fim": 0.836
+},
+{
+"w": "la",
+"ini": 0.882,
+"fim": 0.94
+},
+{
+"w": "transmisión",
+"ini": 0.987,
+"fim": 1.567
+},
+{
+"w": "del",
+"ini": 1.602,
+"fim": 1.707
+},
+{
+"w": "padre",
+"ini": 1.776,
+"fim": 2.043
+},
+{
+"w": "Juan",
+"ini": 2.09,
+"fim": 2.322
+},
+{
+"w": "Méndez.",
+"ini": 2.392,
+"fim": 2.868
+},
+{
+"w": "La",
+"ini": 3.118,
+"fim": 3.234
+},
+{
+"w": "hice",
+"ini": 3.257,
+"fim": 3.443
+},
+{
+"w": "esa",
+"ini": 3.466,
+"fim": 3.594
+},
+{
+"w": "misma",
+"ini": 3.64,
+"fim": 3.861
+},
+{
+"w": "noche,",
+"ini": 3.919,
+"fim": 4.244
+},
+{
+"w": "como",
+"ini": 4.267,
+"fim": 4.499
+},
+{
+"w": "él",
+"ini": 4.546,
+"fim": 4.627
+},
+{
+"w": "enseña.",
+"ini": 4.685,
+"fim": 5.184
+},
+{
+"w": "Al",
+"ini": 5.434,
+"fim": 5.562
+},
+{
+"w": "día",
+"ini": 5.608,
+"fim": 5.701
+},
+{
+"w": "siguiente,",
+"ini": 5.748,
+"fim": 6.166
+},
+{
+"w": "me",
+"ini": 6.189,
+"fim": 6.258
+},
+{
+"w": "sentí",
+"ini": 6.293,
+"fim": 6.607
+},
+{
+"w": "en",
+"ini": 6.653,
+"fim": 6.711
+},
+{
+"w": "paz",
+"ini": 6.781,
+"fim": 6.967
+},
+{
+"w": "por",
+"ini": 7.025,
+"fim": 7.141
+},
+{
+"w": "primera",
+"ini": 7.187,
+"fim": 7.466
+},
+{
+"w": "vez",
+"ini": 7.512,
+"fim": 7.628
+},
+{
+"w": "en",
+"ini": 7.686,
+"fim": 7.745
+},
+{
+"w": "años.",
+"ini": 7.779,
+"fim": 8.267
+}
+],
+"cortes": [
+[
+2.993,
+3.161
+],
+[
+5.477,
+5.645
+]
+]
+}

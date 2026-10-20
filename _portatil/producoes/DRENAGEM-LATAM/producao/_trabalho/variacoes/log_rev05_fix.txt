@@ -1,0 +1,40 @@
+--- [1/10]
+[11] OK | 720x1280 286.33s 35.2MB | cobertura 1.0
+   gancho: Vi a mi esposo mirar a mi mejor amiga, como antes me miraba a mí Como si yo no estuviera en la sala, esto fue lo que pasó
+   emenda: la sala, esto fue lo que pasó Así que culpe a mi cuerpo, a mi carinchada A la mandíbula que
+--- [2/10]
+[12] OK | 720x1280 286.77s 35.3MB | cobertura 0.96
+   gancho: Vi a la mujer por la que mi esposo me dejó. Tenía 28 años. Casi me pongo a llorar ahí mismo frente a ella. Así empezó todo.
+   emenda: frente a ella. Así empezó todo. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que desapareció.
+--- [3/10]
+[13] OK | 720x1280 288.2s 35.5MB | cobertura 0.96
+   gancho: Mi exesposo estaba detrás de mí en la fila, con su novia del brazo 10 minutos ahí y nunca me reconoció, esto fue lo que pasó
+   emenda: esto fue lo que pasó Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que
+--- [4/10]
+[14] OK | 720x1280 284.23s 35.0MB | cobertura 1.0
+   gancho: Durante años pensé que era peso de la menopausia. Me equivoqué. No era peso, era lodo. Te cuento cómo lo descubrí.
+   emenda: era peso, era lodo. Te cuento cómo lo descubrí. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [5/10]
+[15] OK | 720x1280 285.7s 35.2MB | cobertura 1.0
+   gancho: Tres semanas lo dejé en el carrito. Siempre decía, mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.
+   emenda: perdidas. Esta es mi historia. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [6/10]
+[16] OK | 720x1280 284.53s 35.0MB | cobertura 1.0
+   gancho: Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.
+   emenda: de lo que me pasó. Ya no me lo guardo más. Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que
+--- [7/10]
+[17] OK | 720x1280 286.37s 35.2MB | cobertura 1.0
+   gancho: Cuidado con las copias, hay frascos que se ven idénticos, pero por dentro son otra cosa, antes de comprar escucha mi historia.
+   emenda: antes de comprar escucha mi historia. Así que culpe a mi cuerpo, a mi cara hinchada, a la mandíbula que desapareció.
+--- [8/10]
+[18] OK | 720x1280 285.77s 35.2MB | cobertura 1.0
+   gancho: ¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida. Muchas veces el cuerpo dejó de drenar. Yo lo entendí tarde.
+   emenda: dejó de drenar. Yo lo entendí tarde. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [9/10]
+[19] OK | 720x1280 285.53s 35.1MB | cobertura 0.95
+   gancho: ¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya aprobaste de todo. Escucha esta historia.
+   emenda: de todo. Escucha esta historia.
+--- [10/10]
+[20] OK | 720x1280 283.17s 34.8MB | cobertura 1.0
+   gancho: Esa pancita no es grasa, es líquido atrapado y se drena, yo tarde años en entenderlo.
+   emenda: y se drena, yo tarde años en entenderlo. Así que culpe a mi cuerpo, a mi cara hinchada, a la mandíbula que desapareció.

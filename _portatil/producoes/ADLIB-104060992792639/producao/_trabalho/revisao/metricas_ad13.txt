@@ -1,0 +1,88 @@
+### analisar ad13
+trecho     quadros rosto mudou dboca | corr ES  PT | orig x PT | boca pausa/fala ES
+j1         0-  197  100%   74%  10.8 |  0.27  0.00 |  0.05    | 0.053/0.067 (7 q pausa)
+        fim: d_prev ultimos 6 quadros [1.59, 0.87, 1.62, 2.17, 1.19, 1.32]  -> proximo [19.13, 20.08]
+w01      211-  454  100%   94%  11.5 |  0.53  0.19 |  0.20    | 0.034/0.086 (59 q pausa)
+        fim: d_prev ultimos 6 quadros [0.77, 2.04, 1.79, 1.87, 0.07, 0.07]  -> proximo [28.69, 1.29]
+w02      455-  691  100%   85%  10.8 |  0.20  0.18 |  0.22    | 0.066/0.111 (25 q pausa)
+        fim: d_prev ultimos 6 quadros [5.9, 7.65, 7.98, 8.05, 1.91, 2.13]  -> proximo [18.99, 14.22]
+w03      692-  872  100%   96%  10.2 |  0.17  0.04 |  0.31    | 0.037/0.049 (44 q pausa)
+        fim: d_prev ultimos 6 quadros [2.81, 2.08, 0.02, 0.0, 0.0, 0.01]  -> proximo [nan, nan]
+w04     1003- 1306  100%   87%  10.1 |  0.14  0.12 |  0.01    | 0.065/0.083 (61 q pausa)
+        fim: d_prev ultimos 6 quadros [5.78, 4.04, 0.03, 0.01, 0.02, 0.04]  -> proximo [nan, nan]
+w05     1414- 1589  100%   85%  10.4 |  0.08  0.14 |  0.14    | 0.077/0.083 (28 q pausa)
+        fim: d_prev ultimos 6 quadros [4.64, 2.12, 2.32, 5.14, 5.77, 6.68]  -> proximo [10.71, 3.87]
+w06     1590- 1793  100%   95%  12.0 |  0.11  0.20 |  0.13    | 0.043/0.087 (18 q pausa)
+        fim: d_prev ultimos 6 quadros [5.62, 4.88, 2.66, 4.05, 4.05, 2.47]  -> proximo [nan, nan]
+w07     1909- 2012  100%   89%  12.3 |  0.38  0.17 |  0.12    | 0.065/0.113 (16 q pausa)
+        fim: d_prev ultimos 6 quadros [2.42, 0.79, 2.43, 2.04, 3.15, 0.99]  -> proximo [26.07, 1.49]
+w08     2013- 2284  100%   93%  13.2 |  0.64  0.07 |  0.15    | 0.028/0.080 (89 q pausa)
+        fim: d_prev ultimos 6 quadros [1.75, 4.36, 3.52, 2.93, 1.03, 0.48]  -> proximo [33.98, 7.7]
+w09     2285- 2516  100%   83%  10.7 |  0.19  0.13 |  0.17    | 0.049/0.078 (18 q pausa)
+        fim: d_prev ultimos 6 quadros [2.06, 1.79, 2.3, 2.15, 0.05, 0.03]  -> proximo [nan, nan]
+w10     2667- 2948  100%   92%  11.3 |  0.44  0.14 |  0.11    | 0.010/0.078 (19 q pausa)
+        fim: d_prev ultimos 6 quadros [3.78, 3.4, 2.61, 0.9, 1.98, 2.96]  -> proximo [23.14, 3.75]
+w11     2949- 3191  100%   91%  12.5 |  0.02  0.13 |  0.08    | 0.081/0.073 (14 q pausa)
+        fim: d_prev ultimos 6 quadros [14.13, 10.78, 0.2, 6.86, 7.48, 6.62]  -> proximo [17.23, 10.97]
+w12     3192- 3479  100%   92%  13.3 |  0.39  0.07 |  0.15    | 0.038/0.080 (47 q pausa)
+        fim: d_prev ultimos 6 quadros [4.69, 0.71, 8.85, 7.14, 4.82, 5.0]  -> proximo [39.04, 6.09]
+w13     3480- 3593  100%   99%  10.8 |  0.22  0.16 |  0.37    | 0.040/0.070 (26 q pausa)
+        fim: d_prev ultimos 6 quadros [2.22, 2.15, 1.57, 5.87, 5.16, 1.22]  -> proximo []
+
+Fora dos trechos de lipsync: quadros com rosto detectado
+     6.60-   7.03s (13 q) fala ES em 85% | mudou 0% | var abertura orig 0.0443
+    44.80-  47.13s (70 q) fala ES em 73% | mudou 0% | var abertura orig 0.0468
+    84.10-  84.20s (3 q) fala ES em 0% | mudou 0% | var abertura orig 0.0198
+    84.23-  84.33s (3 q) fala ES em 100% | mudou 0% | var abertura orig 0.0012
+    84.37-  88.43s (122 q) fala ES em 85% | mudou 0% | var abertura orig 0.0020
+    88.50-  88.60s (3 q) fala ES em 100% | mudou 0% | var abertura orig 0.0011
+    88.67-  88.73s (2 q) fala ES em 100% | mudou 0% | var abertura orig 0.0025
+
+Dentro dos trechos: corridas >= 6 quadros com boca igual ao original e fala ES
+     0.57-   0.77s (6 q)
+     0.87-   1.23s (11 q)
+     1.70-   1.93s (7 q)
+     3.27-   3.50s (7 q)
+    16.57-  16.80s (7 q)
+    17.17-  17.40s (7 q)
+    33.43-  33.73s (9 q)
+    47.13-  47.60s (14 q)
+    76.20-  76.63s (13 q)
+    77.37-  77.87s (15 q)
+   106.07- 106.40s (10 q)
+### pausas ad13
+trecho | FINAL idxES idxPT | ORIGINAL idxES idxPT | q pausaES q pausaPT
+j1     |  0.76   nan      |  1.16   nan          |    8    0
+w01    |  0.39   nan      |  0.89   nan          |   60    0
+w02    |  0.57   nan      |  0.99   nan          |   26    0
+w03    |  0.78   nan      |  1.20   nan          |   45    0
+w04    |  0.81   nan      |  1.19   nan          |   63    0
+w05    |  0.91   nan      |  0.93   nan          |   29    0
+w06    |  0.51   nan      |  1.27   nan          |   21    0
+w07    |  0.58   nan      |  0.90   nan          |   17    0
+w08    |  0.39   nan      |  0.91   nan          |   99    0
+w09    |  0.63   nan      |  0.79   nan          |   18    0
+w10    |  0.28   nan      |  1.10   nan          |   24    0
+w11    |  0.98   nan      |  1.19   nan          |   21    0
+w12    |  0.47   nan      |  0.80   nan          |   49    0
+w13    |  0.60   nan      |  1.12   nan          |   27    0
+TOTAL  |  0.56   nan      |  1.01   nan
+
+Pausas da voz ES (>= 0,3 s) com a boca do final aberta (>= 80% da abertura media de fala):
+  w02: 17.43-17.87s  abertura 111% da fala
+  w03: 24.80-26.37s  abertura 83% da fala
+  w04: 36.83-37.40s  abertura 115% da fala
+  w04: 39.93-40.17s  abertura 109% da fala
+  w05: 50.47-50.97s  abertura 131% da fala
+  w06: 56.73-57.13s  abertura 84% da fala
+  w08: 67.13-67.43s  abertura 135% da fala
+  w08: 69.87-70.17s  abertura 94% da fala
+  w09: 79.17-79.40s  abertura 88% da fala
+  w11: 101.13-101.40s  abertura 91% da fala
+  w11: 105.77-106.03s  abertura 103% da fala
+  w12: 112.30-112.63s  abertura 121% da fala
+### lag ad13
+final x ES: corr lag0 0.162 | melhor 0.162 em +0 ms | -0.02 0.01 -0.04 -0.08 -0.03 0.16 0.07 -0.03 -0.06 -0.05 0.02
+final x PT: corr lag0 0.090 | melhor 0.090 em +0 ms | 0.02 0.04 -0.00 -0.03 -0.10 0.09 0.05 -0.04 -0.02 -0.01 0.02
+orig x PT: corr lag0 0.124 | melhor 0.124 em +0 ms | 0.00 0.06 -0.05 -0.02 0.05 0.12 -0.09 -0.10 0.01 0.06 0.03
+orig x ES: corr lag0 -0.012 | melhor 0.070 em -264 ms | 0.03 -0.02 -0.05 0.03 0.06 -0.01 -0.05 0.00 0.04 -0.04 -0.01

@@ -1,0 +1,47 @@
+{
+ "arquivo": "29 AD.mp4",
+ "idioma": "es",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 3.5,
+   "texto": "¡Espera! ¿Estás listo para esta super promoción?"
+  },
+  {
+   "ini": 3.5,
+   "fim": 6.5,
+   "texto": "¡Que te tenemos ahora aquí en herramientas express!"
+  },
+  {
+   "ini": 6.5,
+   "fim": 11.5,
+   "texto": "No te puedes perder este kit de Taladro XR con su función de roto martillo"
+  },
+  {
+   "ini": 11.5,
+   "fim": 15.0,
+   "texto": "y su nueva tecnología de auto rotación y claro, con su compañero,"
+  },
+  {
+   "ini": 15.0,
+   "fim": 18.5,
+   "texto": "taladro de impacto de tres velocidades"
+  },
+  {
+   "ini": 18.5,
+   "fim": 22.5,
+   "texto": "ya no batalles más con cables ni con apagones de energía."
+  },
+  {
+   "ini": 22.5,
+   "fim": 25.0,
+   "texto": "¿Qué estás esperando para pedir el tuyo ahora?"
+  },
+  {
+   "ini": 25.0,
+   "fim": 29.5,
+   "texto": "Recuerda que hacemos envíos a todo Honduras y pagas al recibir."
+  }
+ ]
+}

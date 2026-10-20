@@ -1,0 +1,20 @@
+REVISÃO: V22 - LYMPHORIA-POV-DRENAR.mp4
+duração 24.57s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 19.1 MB
+decodificação: OK
+pts do áudio: 1148 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 4 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1129-1194, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V22\rev\V22 - LYMPHORIA-POV-DRENAR_revisao.jpg
+idioma detectado: es (0.95)
+
+=== transcrição (es) ===
+   0.00- 20.64 Se llama Lymphoria, compre uno y reciba dos, con envío gratis y pagas al recibir en tu
+  20.64- 21.64 casa.
+  21.64- 23.52 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

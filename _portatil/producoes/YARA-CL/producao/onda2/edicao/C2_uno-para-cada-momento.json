@@ -1,0 +1,83 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C2_yara-kit3_uno-para-cada-momento_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": {
+  "png": "../onda2/overlays/titulo_C2.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": null,
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C2_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 0.03,
+   "ate": 2.9,
+   "audio": "../takes/C2_T1_gancho_vz.wav",
+   "audio_de": 0.03,
+   "audio_ate": 2.9
+  },
+  {
+   "video": "../takes/C2_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 2.9,
+   "ate": 6.25,
+   "audio": "../takes/C2_T1_gancho_vz.wav",
+   "audio_de": 2.9,
+   "audio_ate": 6.25,
+   "zoom": "in"
+  },
+  {
+   "video": "../../edicao/b_yara.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C2_N_dia.mp3",
+   "audio_de": 0.35,
+   "audio_ate": null
+  },
+  {
+   "video": "../../edicao/b_moi.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C2_N_cita.mp3",
+   "png": "../../edicao/volume/rotulo_moi.png"
+  },
+  {
+   "video": "../../edicao/b_elixir.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C2_N_noche.mp3"
+  },
+  {
+   "video": "../takes/C2_T2_cta.mp4",
+   "tipo": "consultora",
+   "de": 0.03,
+   "ate": 3.15,
+   "audio": "../takes/C2_T2_cta_vz.wav",
+   "audio_de": 0.03,
+   "audio_ate": 3.15
+  },
+  {
+   "video": "../takes/C2_T2_cta.mp4",
+   "tipo": "consultora",
+   "de": 3.15,
+   "ate": 9.05,
+   "audio": "../takes/C2_T2_cta_vz.wav",
+   "audio_de": 3.15,
+   "audio_ate": 9.05,
+   "zoom": "in"
+  }
+ ]
+}

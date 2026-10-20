@@ -1,0 +1,10 @@
+﻿{"ad":"ad14","corte":425.4,"saida":"AD 14 - LYMPHORIA-VIAJE-ES-LATAM.mp4","takes":[
+{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/8a64dafd-b711-4bcd-8ed6-8c218475e501.mp4","inicio":199.6,"quadros":103},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/e0ccead6-1c72-4c3b-849c-a049f3ecf0af.mp4","inicio":257.667,"quadros":119},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/d345a5f1-08c0-47a7-9f8c-b09c1448b107.mp4","inicio":297.2,"quadros":80},
+{"orig":"flora/t4.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/5e013eaa-0e9d-4536-b4f9-67855fec8f5e.mp4","inicio":408.167,"quadros":57},
+{"orig":"flora/t5.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/7271b463-32d9-4f3b-bc83-240eb2fb5c1b.mp4","inicio":423.8,"quadros":48}],
+"blur":[{"de":386.6,"ate":389.2,"caixas":"260,100,620,240"}],
+"textos":[{"de":229.8,"ate":233.5,"caixa":"240,908,480,958","texto":"Lymphoria.","ref":231.5,"fonte":"Poppins-Medium.ttf"},
+{"de":381.2,"ate":383.4,"caixa":"120,906,600,958","texto":"Le hablé de Lymphoria","ref":382.5,"fonte":"Poppins-Medium.ttf"}],
+"audios":[{"mp3":"p1.mp3","de":228.0,"ate":231.5},{"mp3":"p2.mp3","de":381.3,"ate":385.5}]}

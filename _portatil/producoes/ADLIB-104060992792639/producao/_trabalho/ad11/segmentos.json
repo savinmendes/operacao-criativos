@@ -1,0 +1,61 @@
+{
+  "base": "base_sem_legenda.mp4",
+  "fps": 30,
+  "resolucao": "720x1280",
+  "duracao": 62.033,
+  "segmentos": [
+    {
+      "arquivo": "seg_menina.mp4",
+      "personagem": "menina",
+      "ini": 0.0,
+      "fim": 8.833,
+      "dur": 8.833,
+      "quadro_ini": 0,
+      "quadro_fim": 264
+    },
+    {
+      "arquivo": "seg_mulher_1.mp4",
+      "personagem": "mulher",
+      "ini": 9.033,
+      "fim": 11.967,
+      "dur": 2.933,
+      "quadro_ini": 271,
+      "quadro_fim": 358
+    },
+    {
+      "arquivo": "seg_mulher_2.mp4",
+      "personagem": "mulher",
+      "ini": 15.4,
+      "fim": 31.2,
+      "dur": 15.8,
+      "quadro_ini": 462,
+      "quadro_fim": 935
+    },
+    {
+      "arquivo": "seg_mulher_3.mp4",
+      "personagem": "mulher",
+      "ini": 37.933,
+      "fim": 62.033,
+      "dur": 24.1,
+      "quadro_ini": 1138,
+      "quadro_fim": 1860
+    }
+  ],
+  "fora_do_lipsync": [
+    {
+      "ini": 8.833,
+      "fim": 9.033,
+      "o_que": "transição com clarão (menina -> mulher)"
+    },
+    {
+      "ini": 11.967,
+      "fim": 15.4,
+      "o_que": "zoom lento no olival (substitui as cédulas de R$ 100)"
+    },
+    {
+      "ini": 31.2,
+      "fim": 37.933,
+      "o_que": "b-roll do supermercado (fusão + recorte com zoom)"
+    }
+  ]
+}

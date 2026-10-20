@@ -1,0 +1,48 @@
+{
+ "overlays": ".",
+ "sfx": "sfx",
+ "segmentos": [
+  {
+   "video": "../../loja/loja_raw.mp4",
+   "tipo": "consultora",
+   "zoom": 1.0,
+   "audio": "../../loja/loja_vz.wav"
+  }
+ ],
+ "titulo": null,
+ "cta": null,
+ "banner": false,
+ "sticker": false,
+ "selo": null,
+ "whoosh": false,
+ "pop": false,
+ "legenda": {
+  "modelo": "small",
+  "idioma": "es",
+  "y": 1080,
+  "chaves": [
+   "arabeperfumes",
+   "chile",
+   "recibir"
+  ],
+  "corrigir": [
+   [
+    "(?i)^arab\\s*performance[s]?",
+    "arabeperfumes"
+   ],
+   [
+    "(?i)^arab[a-z]*perf[a-z]*",
+    "arabeperfumes"
+   ]
+  ],
+  "fundir": [
+   [
+    "arab",
+    "performance"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 8,
+ "saida": "../../loja/loja-chile_avatar_limpo.mp4"
+}

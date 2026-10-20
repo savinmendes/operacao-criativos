@@ -1,0 +1,9 @@
+[2:v]format=yuv420p[pl];
+[0:v]setpts=N/(30*TB)[w];
+[pl][w]overlay=0:297:format=auto[o0];
+[3:v]format=rgba[h];[o0][h]overlay=0:0:format=auto[o1];
+[4:v]format=rgba[t];[o1][t]overlay=0:0:format=auto:enable='gte(t,-0.0167)*lt(t,2.9833)'[o2];
+[o2]ass=leg.ass:fontsdir=fonts[o3];
+[5:v]format=rgba[c1];[o3][c1]overlay=0:-22:format=auto:enable='gte(t,60.2553)'[o4];
+[6:v]format=rgba[c2];[o4][c2]overlay=0:'-37+10*sin(2*PI*1.4*t)':format=auto:enable='gte(t,60.2553)'[o5];
+[7:v]format=rgba[s];[o5][s]overlay=0:0:format=auto,format=yuv420p[v]

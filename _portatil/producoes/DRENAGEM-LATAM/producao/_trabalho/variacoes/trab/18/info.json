@@ -1,0 +1,62 @@
+{
+ "var": "18",
+ "gancho": "G8",
+ "corpo": "05",
+ "genero": "F",
+ "texto": "¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida. Muchas veces el cuerpo dejó de drenar. Yo lo entendí tarde.",
+ "Hd": 7.933333333333334,
+ "fala_s": 7.52,
+ "tomadas": [
+  {
+   "src": "05",
+   "ini": 12.158,
+   "dur": 0.9666666666666667
+  },
+  {
+   "src": "05",
+   "ini": 8.275,
+   "dur": 1.1666666666666667
+  },
+  {
+   "src": "05",
+   "ini": 6.491,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "05",
+   "ini": 14.742,
+   "dur": 2.066666666666667
+  },
+  {
+   "src": "05",
+   "ini": 77.058,
+   "dur": 1.0666666666666667
+  },
+  {
+   "src": "05",
+   "ini": 84.525,
+   "dur": 1.4333333333333333
+  }
+ ],
+ "corte": 20.35,
+ "frases": [
+  [
+   "¿Por qué el cuerpo se hincha aunque comas poco?",
+   0.035
+  ],
+  [
+   "Casi nunca es la comida.",
+   2.624
+  ],
+  [
+   "Muchas veces el cuerpo dejó de drenar.",
+   4.075
+  ],
+  [
+   "Yo lo entendí tarde.",
+   6.211
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 18 - G8-POR-QUE-NOS-HINCHAMOS x AD05.mp4",
+ "seed": 129
+}

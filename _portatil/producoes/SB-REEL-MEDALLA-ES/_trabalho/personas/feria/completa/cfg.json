@@ -1,0 +1,8 @@
+{"slug": "feria", "hook_fim": 5.40,
+ "reza_src": "voz/reza.mp3", "reza_cortes": [[0.08, 1.66], [6.26, 8.06]], "reza_txt": ["Oh glorioso San Benito…", "quita lo que cerró mi camino."],
+ "selfie_heygen_ini": 2.90, "r_self": [[2.90, 3.14], [7.84, 8.04], [10.86, 11.16]], "self_trocas": [5.28, 12.60],
+ "rosto_selfie": [560, 800],
+ "cena_gancho": {"src": "completa/gancho_amplo.mp4", "ss": 0.0, "zoom": 1.0, "interp": true},
+ "cena_reza": {"src": "take_antes.mp4", "ss": 0.0, "zoom": 1.15, "centro": [540, 860]},
+ "cena_virada": {"src": "take_depois.mp4", "ss": 0.8},
+ "cena_frustrado": {"src": "completa/frustrado.mp4", "ss": 0.2}}

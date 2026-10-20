@@ -1,0 +1,35 @@
+{
+ "arquivo": "VAR 13 - G3-EXESPOSO-FILA x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 288.2,
+ "mb": 35.5,
+ "whisper_gancho": "Mi exesposo estaba detrás de mí en la fila, con su novia del brazo 10 minutos ahí y nunca me reconoció, esto fue lo que pasó",
+ "whisper_emenda": "esto fue lo que pasó Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que",
+ "cobertura_gancho": 0.96,
+ "cortes": [
+  1.733333,
+  2.966667,
+  4.133333,
+  8.6,
+  9.566667,
+  10.366667,
+  11.266667
+ ],
+ "cortes_plan": [
+  1.733,
+  2.967,
+  4.133,
+  6.1,
+  8.6,
+  9.567,
+  10.367
+ ],
+ "silencios": [
+  [
+   60.7,
+   61.53
+  ]
+ ],
+ "ok": true
+}

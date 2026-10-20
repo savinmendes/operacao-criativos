@@ -1,0 +1,22 @@
+REVISÃO: PERFUMES-CL_P3_EL-MECANICO.mp4
+duração 33.56s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.4 MB
+decodificação: OK
+pts do áudio: 1574 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 644-829, x 0-108 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD3-EL-MECANICO\PERFUMES-CL_P3_EL-MECANICO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  8.52 y mi auto ya no importa que te echaste soy mecánico y ahora las clientas vienen aunque el
+   8.52- 14.68 auto no tenga nada tres perfumes árabes al precio de uno en el día armafclub fresco masculino y
+  14.68- 22.12 poderoso hasta con grasa me buscan en la noche látafa asad intenso y seductor mi polola me
+  22.12- 27.96 abraza hasta con el overall puesto y el fin de semana afna 9 p.m. elegante y moderno
+  27.96- 33.12 Los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora!
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

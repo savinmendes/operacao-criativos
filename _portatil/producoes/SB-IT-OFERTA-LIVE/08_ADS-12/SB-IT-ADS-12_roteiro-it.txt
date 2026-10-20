@@ -1,0 +1,49 @@
+SB-IT-ADS-12 — San Benedetto · Italiano (Italia, EUR)
+Base: SB-EN-ADS-12 (EN, 26,7 s) <- SB-ES_08_ADS-12 (ES, 31,5 s). Saída IT: 27,8 s, 720x1280.
+Destino: a preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN, eleven_multilingual_v2, falando italiano
+(whisper detectou "it" com 0,998). Pausas encurtadas e atempo 1,06 (pitch preservado). Nenhuma voz criada/clonada.
+
+======================================================================
+ROTEIRO EN  ×  ROTEIRO IT (narrado), por cena
+======================================================================
+[A  Jesus falando, lipsync]  0,00–9,10
+  EN: If you ignore me, I'll have no choice but to give the miracle you need so much to someone else.
+      This is your last chance to receive what I have prepared for you.
+  IT: Se mi ignori, non avrò altra scelta che concedere a qualcun altro il miracolo di cui hai tanto bisogno.
+      Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.
+[B  Abraço]  9,10–12,49
+  EN: Jesus has chosen you. He has brought you a powerful gift.
+  IT: Gesù ti ha scelto. Ti ha portato un dono potente.
+[C  Jesus ajoelhado]  12,49–15,33
+  EN: Today, you will hear an ancient lost prayer from the Bible
+  IT: Oggi ascolterai un'antica preghiera perduta della Bibbia,
+[D  Nuvens/livro]  15,33–18,66
+  EN: that will unlock a shower of blessings and miracles over your life.
+  IT: che sbloccherà una pioggia di benedizioni e miracoli sulla tua vita.
+[E  Cruz]  18,66–22,01
+  EN: Don't reject me again. Tap Learn More below,
+  IT: Non rifiutarmi ancora. Tocca «Scopri di più»
+[F  Jesus falando, lipsync, seta]  22,01–27,80
+  EN: and join the live prayer right now. Receive your miracle before it's too late.
+  IT: qui sotto, e unisciti alla preghiera in diretta. Ricevi il tuo miracolo prima che sia troppo tardi.
+
+Decisões
+- CTA padrão do lote: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta".
+- "qui sotto" passou para a cena F (Jesus + seta): o italiano é mais longo e a cruz (3,13 s no original)
+  ficaria lenta demais; assim a cruz roda a 0,93x (no EN era 0,90x) e a seta aparece junto do "qui sotto".
+- "right now" saiu (o "subito" deixava a cena F longa demais); a urgência fica em "prima che sia troppo tardi".
+- "Today, you will hear" -> "Oggi ascolterai" (destino é a live, não um vídeo).
+- "shower of blessings" -> "pioggia di benedizioni" (expressão natural no italiano católico).
+- Mesmo teor do ES/EN, sem suavizar: "concedere a qualcun altro il miracolo", "ultima occasione",
+  "Non rifiutarmi ancora", "prima che sia troppo tardi".
+- Texto na tela: só a legenda (sem títulos/cartões no original). Legenda IT no estilo EN: Poppins Bold caixa alta,
+  palavras-chave coloridas (MIRACOLO/DONO/VITA/ULTIMA vermelho; PREPARATO/SCELTO/ASCOLTERAI/PREGHIERA/«SCOPRI DI PIÙ» amarelo;
+  BENEDIZIONI/DIRETTA verde). Seta vermelha original da cena final mantida (igual ao EN).
+- Imagem: a mesma base sem legenda (LaMa) do EN. Tentativa de tirar o rastro da legenda ES com preenchimento
+  temporal (pixels reais de quadros vizinhos alinhados por fluxo óptico, lama/tempfill.py) cobriu só 8–25% da área
+  (a legenda ES fica sempre na mesma faixa), sem ganho visível; foi descartada. O rastro leve continua igual ao EN,
+  quase todo sob a legenda IT (mesma faixa).
+- Lipsync HeyGen speed: 2 jobs (A 9,1 s e F 5,8 s), entrada = base sem legenda + áudio ES original.
+  checar_lipsync: A índice de pausa 0,26, F 0,58 (aprovados).
+- Cena F: entrada do HeyGen a 0,93x (5,4 s do original esticados para 5,79 s) para caber a fala IT.

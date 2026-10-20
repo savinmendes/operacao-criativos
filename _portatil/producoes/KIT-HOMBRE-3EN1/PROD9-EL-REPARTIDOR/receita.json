@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD9-EL-REPARTIDOR/PERFUMES-CL_P9_EL-REPARTIDOR.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD9-EL-REPARTIDOR/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD9-EL-REPARTIDOR/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD9-EL-REPARTIDOR/corpo.alinhamento.json", "chaves": ["echaste", "soltero", "árabes", "uno", "Armaf", "WhatsApp", "Asad", "polola", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "5 ESTRELLAS SIN PROBAR LA COMIDA 🌟", "y": 1450, "ate": 4.0},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

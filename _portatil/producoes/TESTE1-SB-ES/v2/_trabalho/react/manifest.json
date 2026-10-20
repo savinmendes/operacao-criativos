@@ -1,0 +1,112 @@
+{
+ "arquivo": "take_react.mp4",
+ "texto": "Gente, después dicen que Dios no existe.",
+ "voz": "Karly sM4f2a6lmttmqTug8V7W (L01.wav)",
+ "duracao_s": 2.767,
+ "quadros": 83,
+ "fps": 30,
+ "formato": "720x1280 quadro inteiro (substitui mont/cena_00_ls.mp4 do v1; no piloto NR=82 -> usar 83 p/ caber a fala inteira)",
+ "audio": "L01.wav embutido a partir de 0,000 s (HeyGen sem deslocamento: correlação 0 ms)",
+ "palavras": [
+  {
+   "w": "Gente,",
+   "ini": 0.07,
+   "fim": 0.58
+  },
+  {
+   "w": "después",
+   "ini": 0.755,
+   "fim": 1.115
+  },
+  {
+   "w": "dicen",
+   "ini": 1.173,
+   "fim": 1.451
+  },
+  {
+   "w": "que",
+   "ini": 1.509,
+   "fim": 1.602
+  },
+  {
+   "w": "Dios",
+   "ini": 1.637,
+   "fim": 1.846
+  },
+  {
+   "w": "no",
+   "ini": 1.916,
+   "fim": 1.962
+  },
+  {
+   "w": "existe.",
+   "ini": 1.997,
+   "fim": 2.647
+  }
+ ],
+ "palavras_whisper_take": [
+  {
+   "w": "Gente,",
+   "ini": 0.0,
+   "fim": 0.34,
+   "p": 0.48
+  },
+  {
+   "w": "después",
+   "ini": 0.8,
+   "fim": 1.0,
+   "p": 0.98
+  },
+  {
+   "w": "dicen",
+   "ini": 1.0,
+   "fim": 1.4,
+   "p": 0.99
+  },
+  {
+   "w": "que",
+   "ini": 1.4,
+   "fim": 1.58,
+   "p": 1.0
+  },
+  {
+   "w": "Dios",
+   "ini": 1.58,
+   "fim": 1.78,
+   "p": 0.97
+  },
+  {
+   "w": "no",
+   "ini": 1.78,
+   "fim": 1.96,
+   "p": 1.0
+  },
+  {
+   "w": "existe.",
+   "ini": 1.96,
+   "fim": 2.38,
+   "p": 1.0
+  }
+ ],
+ "composicao": {
+  "caixa_take": [
+   0,
+   500,
+   405,
+   720
+  ],
+  "nota": "saída HeyGen 720x1280 (fundo verde) reduzida p/ 405x720 em (x=0,y=500); chroma key + despill; recorte reto x<378 e y<1220 (bordas do PiP original); fundo = base_limpa 0..83 com a mulher antiga removida por LaMa (w/rua.mp4); header PT da base continua por baixo (piloto sobrepõe header.png)"
+ },
+ "imagem": "react_gpt.png (GPT Image 2 i2i 1k, Flora 'SB-ES Noticia Aurelio v2', fundo chroma verde)",
+ "heygen": {
+  "escolhido": "51817f11422515849c71a4c8ac2b7386 (Avatar IV foto, 720p, expressiveness low)",
+  "alternativa": "f17e12f02e876055d6e2f50368ac7b84 (medium, praticamente idêntico: dif. média 1,5 nível)",
+  "take_bruto": "w/hg_low.mp4 (25 fps, 2,8 s)"
+ },
+ "scripts": [
+  "mascara_velha.py",
+  "lama_rua.py (venv _vg)",
+  "compor.py w/hg_low.mp4",
+  "qa.py"
+ ]
+}

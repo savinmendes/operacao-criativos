@@ -1,0 +1,470 @@
+<title>Ranking COD Chile</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    --bg:#F3F4F7;
+    --surface:#FFFFFF;
+    --surface-2:#EDEFF3;
+    --border:#E0E3E9;
+    --border-strong:#C9CED8;
+    --ink:#14161A;
+    --muted:#666D7A;
+    --accent:#B07419;
+    --accent-soft:#F6EBD6;
+    --positive:#12795A;
+    --positive-soft:#DFF0E9;
+    --atencao:#9A6410;
+    --negative:#B0382C;
+    --negative-soft:#F8E3E0;
+    --barra:#2F6F8F;
+    --barra-fraca:#BBD2DE;
+    --radius:14px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0D0F12; --surface:#15181D; --surface-2:#1B1F26;
+      --border:#262B34; --border-strong:#39404C;
+      --ink:#E9EBEF; --muted:#949BA8;
+      --accent:#DFA544; --accent-soft:#2A2113;
+      --positive:#4CBE92; --positive-soft:#12291F;
+      --atencao:#D9A03E;
+      --negative:#E4796A; --negative-soft:#2E1714;
+      --barra:#6FAFCE; --barra-fraca:#27404E;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0D0F12; --surface:#15181D; --surface-2:#1B1F26;
+    --border:#262B34; --border-strong:#39404C;
+    --ink:#E9EBEF; --muted:#949BA8;
+    --accent:#DFA544; --accent-soft:#2A2113;
+    --positive:#4CBE92; --positive-soft:#12291F;
+    --atencao:#D9A03E;
+    --negative:#E4796A; --negative-soft:#2E1714;
+    --barra:#6FAFCE; --barra-fraca:#27404E;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:"Archivo", system-ui, sans-serif;
+    margin:0; padding-block:22px; padding-left:16px; padding-right:16px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px;}
+  .num{font-family:"JetBrains Mono", ui-monospace, monospace;font-variant-numeric:tabular-nums;}
+
+  header h1{
+    font-family:"Instrument Serif", Georgia, serif;font-weight:400;
+    font-size:clamp(1.7rem,1.3rem + 1.6vw,2.5rem);
+    margin:0 0 6px;letter-spacing:-0.01em;text-wrap:balance;
+  }
+  header p{margin:0;color:var(--muted);font-size:.87rem;max-width:68ch;line-height:1.5;}
+  header p strong{color:var(--ink);font-weight:600;}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));gap:12px;}
+  .tile{
+    background:var(--surface);border:1px solid var(--border);
+    border-radius:var(--radius);padding:15px 17px;
+  }
+  .tile .k{
+    font-size:.66rem;text-transform:uppercase;letter-spacing:.08em;
+    color:var(--muted);font-weight:700;
+  }
+  .tile .v{font-size:1.72rem;font-weight:600;margin-top:3px;letter-spacing:-0.015em;}
+  .tile .n{font-size:.72rem;color:var(--muted);margin-top:3px;}
+  .tile.destaque .v{color:var(--accent);}
+
+  section.card{
+    background:var(--surface);border:1px solid var(--border);
+    border-radius:var(--radius);padding:18px;
+  }
+  .card-head{
+    display:flex;justify-content:space-between;align-items:flex-end;
+    gap:16px;flex-wrap:wrap;margin-bottom:16px;
+  }
+  .card-head h2{
+    font-size:1.02rem;font-weight:700;margin:0;letter-spacing:-0.01em;
+  }
+  .card-head .desc{font-size:.76rem;color:var(--muted);margin:4px 0 0;max-width:62ch;line-height:1.45;}
+
+  .seg{display:inline-flex;background:var(--surface-2);border:1px solid var(--border-strong);border-radius:9px;padding:2px;gap:2px;flex-wrap:wrap;}
+  .seg button{
+    font-family:"Archivo",sans-serif;font-size:.74rem;font-weight:600;
+    padding:6px 12px;border:none;border-radius:7px;cursor:pointer;
+    background:transparent;color:var(--muted);
+  }
+  .seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.09);}
+  .seg button:focus-visible{outline:2px solid var(--accent);outline-offset:1px;}
+
+  /* ---------- lista ranqueada ---------- */
+  .lista{display:flex;flex-direction:column;}
+  .row{
+    display:grid;
+    grid-template-columns:30px minmax(0,1fr) 96px 78px 96px;
+    gap:12px;align-items:center;
+    padding:9px 0;border-top:1px solid var(--border);
+  }
+  .row.head{
+    border-top:none;padding-bottom:7px;
+    font-size:.64rem;text-transform:uppercase;letter-spacing:.07em;
+    color:var(--muted);font-weight:700;
+  }
+  .row.head .r-val, .row.head .r-ped{text-align:right;}
+  .pos{
+    font-family:"JetBrains Mono",monospace;font-size:.82rem;
+    color:var(--muted);font-weight:600;text-align:right;
+  }
+  .row.top .pos{color:var(--accent);}
+  .nome{min-width:0;}
+  .nome b{font-weight:600;font-size:.88rem;display:block;line-height:1.3;}
+  .barra-wrap{margin-top:5px;height:5px;border-radius:99px;background:var(--surface-2);overflow:hidden;}
+  .barra{height:100%;border-radius:99px;background:var(--barra);}
+  .barra.neg{background:var(--negative);}
+  .r-val{text-align:right;font-family:"JetBrains Mono",monospace;font-variant-numeric:tabular-nums;font-weight:600;font-size:.94rem;}
+  .r-val.neg{color:var(--negative);}
+  .r-val .sub{display:block;font-size:.66rem;font-weight:400;color:var(--muted);margin-top:1px;}
+  .r-ped{text-align:right;font-family:"JetBrains Mono",monospace;font-variant-numeric:tabular-nums;font-size:.82rem;color:var(--muted);}
+  .chips{display:flex;gap:5px;flex-wrap:wrap;justify-content:flex-end;}
+  .chip{
+    font-size:.63rem;font-weight:700;letter-spacing:.02em;
+    padding:3px 8px;border-radius:99px;white-space:nowrap;
+  }
+  .chip.escalar{background:var(--positive-soft);color:var(--positive);}
+  .chip.manter{background:var(--surface-2);color:var(--muted);}
+  .chip.cuidado{background:var(--accent-soft);color:var(--atencao);}
+  .chip.matar{background:var(--negative-soft);color:var(--negative);}
+  .chip.fraca{background:transparent;color:var(--muted);border:1px dashed var(--border-strong);}
+
+  @media (max-width:760px){
+    .row{grid-template-columns:26px minmax(0,1fr) 88px;}
+    .r-ped, .row.head .r-ped{display:none;}
+    .chips{grid-column:2 / -1;justify-content:flex-start;margin-top:2px;}
+    .row.head .r-chip{display:none;}
+  }
+
+  /* ---------- quadrantes ---------- */
+  .chart-box{overflow-x:auto;}
+  svg.quad{display:block;width:100%;min-width:560px;height:auto;}
+  .legenda{
+    display:flex;gap:16px;flex-wrap:wrap;margin-top:12px;
+    font-size:.71rem;color:var(--muted);
+  }
+  .legenda span{display:inline-flex;align-items:center;gap:6px;}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;}
+
+  /* ---------- notas ---------- */
+  .notas{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;}
+  .nota h3{
+    font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;
+    color:var(--muted);font-weight:700;margin:0 0 7px;
+  }
+  .nota p{margin:0 0 8px;font-size:.81rem;line-height:1.55;color:var(--ink);}
+  .nota p:last-child{margin-bottom:0;}
+  .nota strong{font-weight:600;}
+  .nota .num{font-weight:600;}
+  footer{font-size:.72rem;color:var(--muted);line-height:1.55;}
+</style>
+
+<div class="wrap">
+
+  <header>
+    <h1>Ranking COD Chile</h1>
+    <p>2.660 pedidos de 03/08 a 12/09/2026, export da Dropi. Os valores são <strong>contribuição antes do gasto de anúncio</strong> — o bolo disponível para pagar o CPA. Pedidos ainda em trânsito entram pela curva de desfecho da operação, não são descartados.</p>
+  </header>
+
+  <div class="tiles">
+    <div class="tile">
+      <div class="k">Contribuição do período</div>
+      <div class="v num">R$ 121.098</div>
+      <div class="n">antes do gasto de anúncio</div>
+    </div>
+    <div class="tile destaque">
+      <div class="k">Teto médio de CPA</div>
+      <div class="v num">R$ 45,53</div>
+      <div class="n">por pedido gerado, na média</div>
+    </div>
+    <div class="tile">
+      <div class="k">Efetividade</div>
+      <div class="v num">54,4%</div>
+      <div class="n">entregas ÷ pedidos despachados</div>
+    </div>
+    <div class="tile">
+      <div class="k">Concentração</div>
+      <div class="v num">55,7%</div>
+      <div class="n">do lucro em 3 produtos</div>
+    </div>
+  </div>
+
+  <section class="card">
+    <div class="card-head">
+      <div>
+        <h2>Os 19 produtos, ordenados</h2>
+        <p class="desc">Lucro total mede o tamanho. Teto de CPA mede a eficiência — é o valor que você pode pagar por compra no gerenciador antes de zerar. As duas leituras não dão a mesma ordem, e é nessa diferença que está a decisão.</p>
+      </div>
+      <div class="seg" role="group" aria-label="Critério de ordenação">
+        <button type="button" id="ord-total" data-ord="total" aria-pressed="true">Lucro total</button>
+        <button type="button" id="ord-teto" data-ord="teto" aria-pressed="false">Teto de CPA</button>
+        <button type="button" id="ord-efet" data-ord="efet" aria-pressed="false">Efetividade</button>
+      </div>
+    </div>
+
+    <div class="lista" id="lista"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head">
+      <div>
+        <h2>Escala contra eficiência</h2>
+        <p class="desc">O eixo horizontal é o teto de CPA; a linha tracejada marca a média da operação, R$&nbsp;45,53. O eixo vertical é o volume de pedidos, em escala logarítmica. O tamanho do círculo é o lucro que o produto gerou no período.</p>
+      </div>
+    </div>
+    <div class="chart-box">
+      <svg class="quad" id="quad" viewBox="0 0 900 460" role="img"
+           aria-label="Dispersão de produtos: teto de CPA no eixo horizontal, volume de pedidos no eixo vertical"></svg>
+    </div>
+    <div class="legenda">
+      <span><i class="dot" style="background:var(--positive)"></i> escalar — teto alto com volume provado</span>
+      <span><i class="dot" style="background:var(--accent)"></i> testar — teto alto, volume ainda pequeno</span>
+      <span><i class="dot" style="background:var(--barra)"></i> sustentar — carrega o faturamento com teto apertado</span>
+      <span><i class="dot" style="background:var(--negative)"></i> cortar — teto abaixo de qualquer CPA viável</span>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="card-head"><div><h2>O que o ranking diz</h2></div></div>
+    <div class="notas">
+      <div class="nota">
+        <h3>O dinheiro está concentrado</h3>
+        <p>Aspiradora, Trípode e Cámara somam <span class="num">55,7%</span> de toda a contribuição do período. São também os três de maior volume — e nenhum dos três passa de <span class="num">R$&nbsp;57</span> de teto.</p>
+        <p>A operação inteira é sustentada por produtos de eficiência mediana rodando em escala. Isso funciona, mas não deixa folga: um CPA subindo R$&nbsp;10 come metade da margem deles.</p>
+      </div>
+      <div class="nota">
+        <h3>A Podadora é a anomalia</h3>
+        <p>Teto de <span class="num">R$&nbsp;121</span>, quase o dobro do segundo colocado, com <span class="num">65,8%</span> de efetividade e ticket de <span class="num">CLP&nbsp;67.678</span> — o mais alto do catálogo. Sempre 1 unidade por pedido.</p>
+        <p>Com apenas 69 pedidos, ela gerou mais lucro que a Faja Reductora com 225. É o produto com mais espaço para verba hoje.</p>
+      </div>
+      <div class="nota">
+        <h3>Volume que não vira lucro</h3>
+        <p>A <strong>Faja Reductora</strong> é o 4º maior volume (225 pedidos) e o 9º em lucro. Teto de <span class="num">R$&nbsp;17</span> com <span class="num">48,4%</span> de efetividade: está ocupando operação e verba para devolver pouco.</p>
+        <p><strong>Short2</strong> (R$&nbsp;4), <strong>WAS</strong> (R$&nbsp;9) e <strong>Plancha Térmica</strong> (negativa) não fecham com CPA nenhum.</p>
+      </div>
+      <div class="nota">
+        <h3>Onde falta amostra</h3>
+        <p>KIT de Perfumes, Creatina, Camara Foco e Ampolleta aparecem bem colocados no teto, mas têm de 10 a 20 pedidos. Não são conclusões — são testes que merecem mais volume antes de qualquer decisão.</p>
+        <p>A <strong>Cámara Panorámica</strong> tem base grande (403), mas só <span class="num">65%</span> já fechou: o teto de R$&nbsp;46 ainda depende bastante da projeção.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Método: contribuição por pedido = (lucro bruto dos entregues − frete perdido nas devoluções) ÷ pedidos despachados. Pedidos em trânsito entram pela curva de desfecho medida nos pedidos até 31/08, que já fecharam todos — um pedido aberto no 7º dia ainda entrega em 6,1% dos casos, no 13º em 0,6%. Conversão a R$&nbsp;1&nbsp;=&nbsp;CLP&nbsp;182,4, verificada em 20/09/2026. Valores antes da taxa de 3% da plataforma e dos impostos sobre o lucro. Produtos com menos de 30 pedidos estão marcados como amostra fraca.</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Medido no export da Dropi Chile, coorte até 12/09/2026.
+  // total/teto em R$; efet e cob em %; ticket em CLP.
+  var P = [
+    {n:'Aspiradora 2 en 1 blanca',        ped:466, efet:54.6, cob:83.7, total:26416, teto:56.69, ticket:43449, unp:1.07},
+    {n:'Trípode soporte extensible',      ped:512, efet:57.6, cob:87.7, total:22824, teto:44.58, ticket:34885, unp:1.18},
+    {n:'Cámara de seguridad panorámica',  ped:403, efet:45.8, cob:65.0, total:18485, teto:45.87, ticket:47375, unp:1.35},
+    {n:'Faja Body Entero',                ped:350, efet:57.1, cob:89.7, total:11901, teto:34.00, ticket:37026, unp:1.53},
+    {n:'Mopa limpiador rociador',         ped:134, efet:62.0, cob:87.3, total:10150, teto:75.75, ticket:40707, unp:1.06},
+    {n:'Podadora inalámbrica césped',     ped:69,  efet:65.8, cob:82.6, total:8363,  teto:121.20,ticket:67678, unp:1.00},
+    {n:'Sostén premium sin aros',         ped:168, efet:60.4, cob:88.1, total:7031,  teto:41.85, ticket:33447, unp:1.89},
+    {n:'Leggings gruesos pack 2',         ped:84,  efet:66.7, cob:90.5, total:5168,  teto:61.53, ticket:36622, unp:1.21},
+    {n:'Faja Reductora Completa',         ped:225, efet:48.4, cob:83.6, total:3874,  teto:17.22, ticket:34910, unp:1.17},
+    {n:'Calza efecto panty con pie',      ped:58,  efet:60.3, cob:96.6, total:2199,  teto:37.92, ticket:33758, unp:1.66},
+    {n:'Kit de 3 perfumes Indian',        ped:20,  efet:57.0, cob:55.0, total:1225,  teto:61.24, ticket:59900, unp:1.00},
+    {n:'Reloj Smartwatch T500 Ultra',     ped:22,  efet:50.3, cob:77.3, total:1098,  teto:49.92, ticket:42719, unp:1.18},
+    {n:'Resveratrol 60 cap',              ped:27,  efet:48.1, cob:92.6, total:687,   teto:25.45, ticket:35324, unp:1.22},
+    {n:'Camara foco de seguridad HD',     ped:12,  efet:51.3, cob:75.0, total:643,   teto:53.57, ticket:43233, unp:1.42},
+    {n:'Creatina monohidratada 2x',       ped:10,  efet:70.0, cob:90.0, total:600,   teto:60.01, ticket:39900, unp:1.00},
+    {n:'Ampolleta cámara con app',        ped:10,  efet:52.5, cob:60.0, total:465,   teto:46.46, ticket:39900, unp:1.20},
+    {n:'WAS Faja body moldeador',         ped:22,  efet:31.8, cob:95.5, total:195,   teto:8.84,  ticket:39330, unp:1.00},
+    {n:'Faja Body Short2',                ped:42,  efet:38.1, cob:88.1, total:183,   teto:4.36,  ticket:35525, unp:1.60},
+    {n:'Plancha térmica para cabello',    ped:22,  efet:27.9, cob:63.6, total:-43,   teto:-1.96, ticket:32900, unp:1.00}
+  ];
+
+  var TETO_MEDIO = 45.53;
+  var VOL_CORTE = 100;      // volume a partir do qual a escala já está provada
+  var AMOSTRA_MIN = 30;
+
+  function classificar(p){
+    if (p.teto < 15) return {cls:'matar', txt:'cortar'};
+    if (p.ped < AMOSTRA_MIN) return {cls:'fraca', txt:'amostra fraca'};
+    if (p.teto >= TETO_MEDIO && p.ped >= VOL_CORTE) return {cls:'escalar', txt:'escalar'};
+    if (p.teto >= TETO_MEDIO) return {cls:'cuidado', txt:'testar'};
+    return {cls:'manter', txt:'sustentar'};
+  }
+  function corDe(p){
+    var c = classificar(p).cls;
+    if (c === 'escalar') return 'var(--positive)';
+    if (c === 'cuidado' || c === 'fraca') return 'var(--accent)';
+    if (c === 'matar') return 'var(--negative)';
+    return 'var(--barra)';
+  }
+
+  function rs(v, dec){
+    return 'R$ ' + v.toLocaleString('pt-BR', {minimumFractionDigits:dec||0, maximumFractionDigits:dec||0});
+  }
+  function pct(v){ return v.toLocaleString('pt-BR', {maximumFractionDigits:1}) + '%'; }
+
+  var ordem = 'total';
+  var maxTotal = Math.max.apply(null, P.map(function(p){ return p.total; }));
+  var maxTeto  = Math.max.apply(null, P.map(function(p){ return p.teto; }));
+
+  function montarLista(){
+    var chaves = {total:'total', teto:'teto', efet:'efet'};
+    var k = chaves[ordem];
+    var itens = P.slice().sort(function(a,b){ return b[k] - a[k]; });
+
+    var html =
+      '<div class="row head">' +
+        '<span></span><span>produto</span>' +
+        '<span class="r-val">' + (ordem === 'total' ? 'lucro no período'
+                               : ordem === 'teto' ? 'teto de CPA' : 'efetividade') + '</span>' +
+        '<span class="r-ped">pedidos</span>' +
+        '<span class="r-chip"></span>' +
+      '</div>';
+
+    itens.forEach(function(p, i){
+      var c = classificar(p);
+      var valor, sub, prop;
+      if (ordem === 'total'){
+        valor = rs(p.total); sub = rs(p.teto, 2) + ' por pedido';
+        prop = Math.abs(p.total) / maxTotal;
+      } else if (ordem === 'teto'){
+        valor = rs(p.teto, 2); sub = rs(p.total) + ' no período';
+        prop = Math.abs(p.teto) / maxTeto;
+      } else {
+        valor = pct(p.efet); sub = rs(p.teto, 2) + ' de teto';
+        prop = p.efet / 100;
+      }
+      html +=
+        '<div class="row' + (i < 3 ? ' top' : '') + '">' +
+          '<span class="pos">' + (i + 1) + '</span>' +
+          '<span class="nome"><b>' + p.n + '</b>' +
+            '<span class="barra-wrap"><span class="barra' + (p.total < 0 ? ' neg' : '') +
+            '" style="width:' + Math.max(1.5, prop * 100).toFixed(1) + '%;background:' + corDe(p) + '"></span></span>' +
+          '</span>' +
+          '<span class="r-val' + (p.total < 0 ? ' neg' : '') + '">' + valor +
+            '<span class="sub">' + sub + '</span></span>' +
+          '<span class="r-ped">' + p.ped.toLocaleString('pt-BR') + '</span>' +
+          '<span class="chips"><span class="chip ' + c.cls + '">' + c.txt + '</span>' +
+            (p.cob < 85 && p.ped >= AMOSTRA_MIN
+              ? '<span class="chip fraca">cob. ' + pct(p.cob) + '</span>' : '') +
+          '</span>' +
+        '</div>';
+    });
+    document.getElementById('lista').innerHTML = html;
+  }
+
+  function montarQuad(){
+    var W = 900, H = 460, ml = 58, mr = 26, mt = 22, mb = 52;
+    var x0 = ml, x1 = W - mr, y0 = mt, y1 = H - mb;
+    var tetoMax = 132, tetoMin = -10;
+    var volMin = 8, volMax = 620;
+
+    function px(v){ return x0 + (v - tetoMin) / (tetoMax - tetoMin) * (x1 - x0); }
+    function py(v){
+      var l = Math.log(Math.max(v, volMin)), a = Math.log(volMin), b = Math.log(volMax);
+      return y1 - (l - a) / (b - a) * (y1 - y0);
+    }
+
+    var s = '';
+    // faixas dos quadrantes
+    s += '<rect x="' + px(TETO_MEDIO).toFixed(1) + '" y="' + y0 + '" width="' + (x1 - px(TETO_MEDIO)).toFixed(1) +
+         '" height="' + (py(VOL_CORTE) - y0).toFixed(1) + '" fill="var(--positive)" opacity="0.07"></rect>';
+    s += '<rect x="' + x0 + '" y="' + y0 + '" width="' + (px(15) - x0).toFixed(1) +
+         '" height="' + (y1 - y0) + '" fill="var(--negative)" opacity="0.07"></rect>';
+
+    // grade horizontal
+    [10, 30, 100, 300, 600].forEach(function(v){
+      var y = py(v);
+      s += '<line x1="' + x0 + '" y1="' + y.toFixed(1) + '" x2="' + x1 + '" y2="' + y.toFixed(1) +
+           '" stroke="var(--border)" stroke-width="1"></line>';
+      s += '<text x="' + (x0 - 9) + '" y="' + (y + 4).toFixed(1) +
+           '" text-anchor="end" font-size="11" font-family="JetBrains Mono, monospace" ' +
+           'fill="var(--muted)">' + v + '</text>';
+    });
+    // grade vertical
+    [0, 25, 50, 75, 100, 125].forEach(function(v){
+      var x = px(v);
+      s += '<line x1="' + x.toFixed(1) + '" y1="' + y0 + '" x2="' + x.toFixed(1) + '" y2="' + y1 +
+           '" stroke="var(--border)" stroke-width="1"></line>';
+      s += '<text x="' + x.toFixed(1) + '" y="' + (y1 + 18) +
+           '" text-anchor="middle" font-size="11" font-family="JetBrains Mono, monospace" ' +
+           'fill="var(--muted)">' + v + '</text>';
+    });
+
+    // linhas de referência
+    s += '<line x1="' + px(TETO_MEDIO).toFixed(1) + '" y1="' + y0 + '" x2="' + px(TETO_MEDIO).toFixed(1) +
+         '" y2="' + y1 + '" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="5 4"></line>';
+    s += '<text x="' + (px(TETO_MEDIO) + 7).toFixed(1) + '" y="' + (y0 + 13) +
+         '" font-size="11" font-weight="600" font-family="Archivo, sans-serif" ' +
+         'fill="var(--accent)">média R$ 45,53</text>';
+    s += '<line x1="' + x0 + '" y1="' + py(VOL_CORTE).toFixed(1) + '" x2="' + x1 + '" y2="' + py(VOL_CORTE).toFixed(1) +
+         '" stroke="var(--border-strong)" stroke-width="1.5" stroke-dasharray="5 4"></line>';
+
+    // eixos
+    s += '<line x1="' + x0 + '" y1="' + y1 + '" x2="' + x1 + '" y2="' + y1 + '" stroke="var(--border-strong)" stroke-width="1.5"></line>';
+    s += '<line x1="' + x0 + '" y1="' + y0 + '" x2="' + x0 + '" y2="' + y1 + '" stroke="var(--border-strong)" stroke-width="1.5"></line>';
+    s += '<text x="' + ((x0 + x1) / 2).toFixed(0) + '" y="' + (H - 12) +
+         '" text-anchor="middle" font-size="11.5" font-weight="700" font-family="Archivo, sans-serif" ' +
+         'fill="var(--muted)">teto de CPA por pedido gerado (R$)</text>';
+    s += '<text x="16" y="' + ((y0 + y1) / 2).toFixed(0) + '" text-anchor="middle" font-size="11.5" ' +
+         'font-weight="700" font-family="Archivo, sans-serif" fill="var(--muted)" ' +
+         'transform="rotate(-90 16 ' + ((y0 + y1) / 2).toFixed(0) + ')">pedidos no período</text>';
+
+    // bolhas
+    var maxT = Math.max.apply(null, P.map(function(p){ return Math.max(p.total, 0); }));
+    P.slice().sort(function(a, b){ return b.total - a.total; }).forEach(function(p){
+      var r = 5 + Math.sqrt(Math.max(p.total, 0) / maxT) * 21;
+      var cx = px(p.teto), cy = py(p.ped);
+      s += '<circle cx="' + cx.toFixed(1) + '" cy="' + cy.toFixed(1) + '" r="' + r.toFixed(1) +
+           '" fill="' + corDe(p) + '" opacity="0.5" stroke="' + corDe(p) + '" stroke-width="1.5"></circle>' +
+           '<title>' + p.n + ' — ' + p.ped + ' pedidos · teto ' + rs(p.teto, 2) +
+           ' · ' + rs(p.total) + ' no período</title>';
+    });
+
+    // rótulos só dos que cabem sem colidir
+    var rotulos = [
+      {n:'Podadora',    t:121.20, v:69,  dx:0,   dy:-26, anchor:'middle'},
+      {n:'Mopa',        t:75.75,  v:134, dx:0,   dy:-24, anchor:'middle'},
+      {n:'Leggings',    t:61.53,  v:84,  dx:0,   dy:22,  anchor:'middle'},
+      {n:'Aspiradora',  t:56.69,  v:466, dx:34,  dy:-24, anchor:'middle'},
+      {n:'Cámara',      t:45.87,  v:403, dx:-6,  dy:32,  anchor:'middle'},
+      {n:'Trípode',     t:44.58,  v:512, dx:-42, dy:-26, anchor:'middle'},
+      {n:'Sostén',      t:41.85,  v:168, dx:-34, dy:5,   anchor:'end'},
+      {n:'Body Entero', t:34.00,  v:350, dx:-32, dy:4,   anchor:'end'},
+      {n:'Reductora',   t:17.22,  v:225, dx:2,   dy:-28, anchor:'middle'},
+      {n:'Short2',      t:4.36,   v:42,  dx:26,  dy:4,   anchor:'start'},
+      {n:'WAS',         t:8.84,   v:22,  dx:20,  dy:4,   anchor:'start'},
+      {n:'Plancha',     t:-1.96,  v:22,  dx:4,   dy:-18, anchor:'middle'}
+    ];
+    rotulos.forEach(function(l){
+      s += '<text x="' + (px(l.t) + l.dx).toFixed(1) + '" y="' + (py(l.v) + l.dy).toFixed(1) +
+           '" text-anchor="' + l.anchor + '" font-size="11.5" font-weight="600" ' +
+           'font-family="Archivo, sans-serif" fill="var(--ink)">' + l.n + '</text>';
+    });
+
+    document.getElementById('quad').innerHTML = s;
+  }
+
+  ['ord-total','ord-teto','ord-efet'].forEach(function(id){
+    document.getElementById(id).addEventListener('click', function(){
+      ordem = this.getAttribute('data-ord');
+      ['ord-total','ord-teto','ord-efet'].forEach(function(o){
+        var b = document.getElementById(o);
+        b.setAttribute('aria-pressed', b.getAttribute('data-ord') === ordem ? 'true' : 'false');
+      });
+      montarLista();
+    });
+  });
+
+  montarLista();
+  montarQuad();
+})();
+</script>

@@ -1,0 +1,358 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_montado\\C2_casaIA.mp4",
+ "overlays": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\ov",
+ "sfx": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\sfx",
+ "titulo": {
+  "png": "tit_vazio.png",
+  "dur": 5.9,
+  "com_legenda": true
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 3.3
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "sempre",
+  "png": "selo_bf.png",
+  "x": "W-w-10",
+  "y": 10
+ },
+ "whoosh": true,
+ "pop": false,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": {
+   "G_C1_obra": "Maestro, con dos baterías la pega no se para.",
+   "G_C2_casa": "¿Tu taladro no le entra al muro? El problema no eres tú.",
+   "G_C1_ferrevolt": "Maestros: dos baterías, una trabajando y la otra cargando. Así no se para la pega.",
+   "G_C7_ferrevolt": "Maestros, si se les pasa el tornillo, es porque no tienen esto."
+  },
+  "y": 1060,
+  "chaves": [
+   "dewalt",
+   "percutor",
+   "atornillador",
+   "maleta",
+   "cargador",
+   "carbones",
+   "brushless",
+   "led",
+   "recién",
+   "chile",
+   "maestro",
+   "maestros",
+   "madera",
+   "metal",
+   "muro",
+   "taladro",
+   "liviano",
+   "kit",
+   "martillo",
+   "concreto",
+   "torque",
+   "tornillo",
+   "gatillo",
+   "eficiencia",
+   "justo",
+   "perforar",
+   "atornillar",
+   "problema",
+   "baterías"
+  ],
+  "juntar": [
+   [
+    "Pre",
+    "Black",
+    "Friday"
+   ],
+   [
+    "dos",
+    "baterías"
+   ],
+   [
+    "sin",
+    "carbones"
+   ],
+   [
+    "luz",
+    "LED"
+   ],
+   [
+    "quince",
+    "posiciones"
+   ],
+   [
+    "ajuste",
+    "rápido"
+   ],
+   [
+    "dos",
+    "velocidades"
+   ],
+   [
+    "indicador",
+    "de",
+    "carga"
+   ],
+   [
+    "todo",
+    "Chile"
+   ],
+   [
+    "pagas",
+    "recién"
+   ],
+   [
+    "pega",
+    "pesada"
+   ],
+   [
+    "un",
+    "solo",
+    "kit"
+   ],
+   [
+    "velocidad",
+    "variable"
+   ],
+   [
+    "broca",
+    "de",
+    "concreto"
+   ],
+   [
+    "rincones",
+    "oscuros"
+   ],
+   [
+    "amperes",
+    "hora"
+   ],
+   [
+    "no",
+    "se",
+    "para"
+   ],
+   [
+    "menos",
+    "mantención"
+   ],
+   [
+    "sin",
+    "pelear"
+   ],
+   [
+    "veinte",
+    "volts"
+   ],
+   [
+    "la",
+    "pega"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\pecas\\G_C2_casa.mp4",
+   "tipo": "outro",
+   "zoom": 1.0,
+   "snap": false,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\G_C2_casa.wav",
+   "audio_de": 0.0,
+   "audio_ate": 5.9,
+   "sticker": false,
+   "legenda_y": 1480
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\led_01.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": true,
+   "vel": 0.927,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 0.0,
+   "audio_ate": 3.5667,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\anel_06.mp4",
+   "tipo": "broll",
+   "zoom": 1.06,
+   "snap": true,
+   "vel": 0.878,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 3.56,
+   "audio_ate": 7.3267,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\anel_02.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 0.878,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 7.3267,
+   "audio_ate": 9.0267,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\furando_concreto_01.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": true,
+   "vel": 0.891,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 9.03,
+   "audio_ate": 12.9633,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\furando_madeira_02.mp4",
+   "tipo": "broll",
+   "zoom": 1.06,
+   "snap": true,
+   "vel": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 12.96,
+   "audio_ate": 14.96,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\furando_madeira_01.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 14.96,
+   "audio_ate": 16.06,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\lateral_brushless_01.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": true,
+   "vel": 0.941,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 16.06,
+   "audio_ate": 17.96,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\motor_02.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 0.941,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 17.96,
+   "audio_ate": 19.3933,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\bateria_02.mp4",
+   "tipo": "broll",
+   "zoom": 1.06,
+   "snap": true,
+   "vel": 0.99,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 19.39,
+   "audio_ate": 22.1233,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\bateria_03.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 0.99,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 22.1233,
+   "audio_ate": 25.9567,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\kit_completo_03.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 0.99,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 25.9567,
+   "audio_ate": 27.2567,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\kit_completo_06.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": true,
+   "vel": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 27.27,
+   "audio_ate": 28.8367,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\maleta_04.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 1.0,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 28.8367,
+   "audio_ate": 30.1033,
+   "sticker": false
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\kit_completo_02.mp4",
+   "tipo": "broll",
+   "zoom": 1.06,
+   "snap": true,
+   "vel": 0.851,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 30.09,
+   "audio_ate": 32.3233,
+   "sticker": true
+  },
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\banco\\kit_completo_04.mp4",
+   "tipo": "broll",
+   "zoom": 1.0,
+   "snap": false,
+   "vel": 0.851,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\_audio\\corpo_c2_nv.wav",
+   "audio_de": 32.3233,
+   "audio_ate": 36.6567,
+   "sticker": true
+  }
+ ],
+ "extras": [
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\ov\\tt_modo-percutor.png",
+   "de": 9.46,
+   "ate": 14.93
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\ov\\tt_madera-y-metal.png",
+   "de": 18.86,
+   "ate": 21.96
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\ov\\tt_2-baterias-2ah-cargador-maleta.png",
+   "de": 25.29,
+   "ate": 33.17
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\ov\\tt_pre-black-friday-pagas-al-recibir.png",
+   "de": 35.99,
+   "ate": 42.567
+  }
+ ]
+}

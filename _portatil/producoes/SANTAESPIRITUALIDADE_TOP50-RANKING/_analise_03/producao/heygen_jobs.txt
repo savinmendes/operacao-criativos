@@ -1,0 +1,9 @@
+saldo HeyGen antes (R03): 4627 premium (20/10; outro agente usa a conta em paralelo)
+imagens (gpt-image-2.5-sunburst 9:16, flow ElevenLabs B550QvJus3mKb7zBdDbo): avatar/jm_a.png (Juan no cenário do padre paulo), mulher/m_a.png (selfie chorando)
+  1ª tentativa do Juan saiu 16:9 (parâmetro padrão do nó) -> refeita 1x em 9:16 (US$0,11 perdidos); 1ª selfie bloqueada por ToS (sem cobrança aparente) -> prompt suavizado
+Avatar IV 720p medium: A (Juan J06-J10 34.7s) 4d940e82ae1792f0464f6c4346ea4b09 | B (Juan J11-J15 40.3s) f2d940eee493dba6e18ebd29bbd8647d
+Avatar IV 720p medium: M1 (selfie chorando, W3 6.8s) 22d10b72c15469b7c9369ac023f5fd6e | C (chroma verde, W1 2.7s; mulher/c_a.png = c169.png recortado+fundo verde) 93d68c54fc68a414f8e65aca8566a6dc
+selfie sorrindo: 1ª edição saiu 16:9 (m_b169.png) -> refeita 1x em 9:16
+Avatar IV 720p medium: M2 (selfie sorrindo m_b.png, W4-W5 14.6s) b4ede5fd6d8eb311f2f004e3a9365d20
+saldo ~40 min depois: 4560 (queda 67 na conta inteira, inclui o agente do R04, que estimou ~33 dele). Meu estimado: 99 s de Avatar IV -> ~31-34 créditos.
+ElevenLabs: TTS 1443 caracteres (~US$0,24) + imagens ~US$0,50 (inclui 2 saídas 16:9 perdidas, US$0,18) = ~US$0,74.

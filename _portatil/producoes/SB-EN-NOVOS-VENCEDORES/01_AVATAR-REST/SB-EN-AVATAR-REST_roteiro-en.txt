@@ -1,0 +1,45 @@
+SB EN — AVATAR_REST (fonte: 1-VIDEOS/AVATAR_REST.mp4, ES, 71,7 s, 1080x1920) -> SB-EN-AVATAR-REST.mp4 (1080x1920, 30 fps, 56,4 s)
+Mercado: EUA, Reino Unido, Canadá, Austrália, depois worldwide. Inglês americano neutro. "San Benito" -> "Saint Benedict".
+Destino: a oração ao vivo (live prayer). Botão do Meta: LEARN_MORE. Sem produto e sem preço.
+
+TÍTULO DO GANCHO (queimado, 0-4,9 s; mesmas 3 faixas do ES: branca/texto vermelho, branca/texto preto, vermelha/texto branco)
+ES: ALGO INESPERADO PASÓ / DURANTE LA ORACIÓN / A SAN BENITO
+EN: SOMETHING UNEXPECTED / HAPPENED DURING THE PRAYER / TO SAINT BENEDICT
+
+COMERCIANTE — oração (voz em off, ajoelhado no restaurante vazio)
+ES: ¡Oh, glorioso San Benito! Hoy pronuncio las palabras grabadas en tu medalla. Sácame de esta escasez. Si me escuchas, ayúdame.
+EN: Oh, glorious Saint Benedict... Today I speak the words engraved on your medal. Deliver me from this hardship. If you can hear me, help me.
+
+COMERCIANTE — depoimento em selfie (lipsync HeyGen speed; cada frase numa tomada própria = jump cut, sem pausa com boca aberta)
+ES: Yo pasé casi seis meses sin clientes. Llegué a pensar en cerrar mi negocio. Hasta que, en una transmisión en vivo, un padre explicó la forma exacta de pedirle a San Benito. Ese día recuperé la paz. Y poco a poco las puertas empezaron a abrirse.
+EN: I went almost six months without customers. [jump cut] I even thought about closing my business. [b-roll mulher com celular] Until, during a live stream, [selfie] a priest explained the exact way to ask Saint Benedict. [jump cut] That day, I found peace again. [b-roll restaurante cheio] And little by little, the doors began to open.
+
+PADRE (gerado do zero no HeyGen nos planos dele; voz em off nos b-rolls)
+ES: Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió. Preparó un regalo poderoso solo para ti. En este video vas a escuchar la oración perdida de San Benito, que desbloquea una lluvia de milagros. Pero solo si no la rechazas otra vez.
+EN: [padre] This is the last time God will try to speak to you this way. [b-roll] Jesus chose you. He prepared a powerful gift, just for you. Today, [padre] you will hear the lost prayer of [b-roll] Saint Benedict, that unlocks a shower of miracles. [padre] But only if you don't reject it again.
+
+CTA (unificado, como no FR)
+ES: Toca más información ahora. Recibe tu milagro antes de que la puerta se cierre para siempre. Ahora mismo está ocurriendo una transmisión en vivo con San Benito. Toca el botón ver más aquí abajo del video y entra a rezar con nosotros.
+EN: [b-roll] Receive your miracle before the door closes forever. [padre] Right now, a prayer to Saint Benedict [b-roll] is being broadcast live. [padre] Tap Learn More below, [altar] and join the live prayer now.
+Faixa do CTA (com as setas amarelas originais, de 43,9 s até o fim): TAP “LEARN MORE” (LEARN MORE em amarelo).
+
+DECISÕES
+- Vocabulário do lote EN 1 (JESU-V07 / ADS-12.18): "This is the last time God will try to speak to you this way", "the lost prayer of Saint Benedict
+  that unlocks a shower of miracles", "But only if you don't reject it again", "Receive your miracle before the door closes forever",
+  CTA "Tap Learn More below, and join the live prayer now".
+- "En este video vas a escuchar" virou "Today, you will hear" (regra do lote EN: o destino é a live, não um vídeo).
+- Os dois CTAs do ES viraram um só ("Tap Learn More below, and join the live prayer now"), no fim; a frase de urgência foi mantida antes.
+- "escasez" -> "hardship"; "transmisión en vivo" -> "live stream" (comerciante) / "a prayer to Saint Benedict is being broadcast live" (padre).
+- Teor, promessas e urgência mantidos, sem suavizar.
+- Vozes (já existentes na conta ElevenLabs, eleven_multilingual_v2; nenhuma criada, clonada ou apagada):
+  comerciante = "Chris - Charming, Down-to-Earth" (iP95p4xoKVk53GoZ742B), americano, F0 ~89 Hz (original ~95 Hz);
+  padre = "Will - Relaxed Optimist" (bIHbv24MWmeRgasZH58o), americano jovem, F0 ~108 Hz (original ~105 Hz).
+  Testadas também: Roger (comerciante, F0 106 Hz, mais agudo) e Eric (padre, F0 151 Hz, agudo demais).
+- Duração: 56,4 s (ES 71,7 s; FR 61,3 s). O inglês é mais curto; nenhuma fala foi cortada. Alongamentos de b-roll <= 1,24x por repetição de quadro, exceto Jesus com o baú (1,35x), que cobre "Today," para o padre entrar só em "you".
+- Depoimento: as tomadas da selfie foram escolhidas dentro das tomadas originais (14,5-16,7 / 18,9-21,2 / 24,7-27,9 / 29,5-31,55 s da fonte),
+  uma frase por tomada, de modo que nenhuma pausa da fala cai com o rosto na tela (jump cut em vez de retoque).
+- Padre: HeyGen Avatar IV (create_video_from_image, 720p 9:16) a partir da mesma imagem base do FR (quadro 1202 do original,
+  legenda ES apagada por LaMa); áudio = só os 5 trechos em que ele aparece (16,7 s); 720 -> 1080x1920 lanczos, cor casada em Lab;
+  cada plano do padre entra 1-2 quadros antes da 1ª palavra e sai na fronteira da palavra.
+- Áudio: RECEITA_LIMPAR_CHIADO (limpar_voz por fonte, trilha demucs limpar_trilha + afftdn a -32 LUFS com dip de 3 dB nas pausas),
+  vozes com ganho estático igual (-16,5 LUFS cada personagem), mix -16 LUFS.

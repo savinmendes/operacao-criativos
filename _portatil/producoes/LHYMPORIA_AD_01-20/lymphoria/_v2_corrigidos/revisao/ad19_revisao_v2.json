@@ -1,0 +1,70 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 19 - LYMPHORIA-CELULITIS-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 19 - LYMPHORIA-CELULITIS-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 67.0,
+  "quadros": 2006,
+  "dur_audio": 67.0,
+  "mb": 24.0
+ },
+ "info_v2": {
+  "duracao": 67.0,
+  "quadros": 2006,
+  "dur_audio": 67.0,
+  "mb": 25.7
+ },
+ "md5_audio_entregue": "b114014b7fc1b877afe6ce1d96fa8256",
+ "md5_audio_v2": "b114014b7fc1b877afe6ce1d96fa8256",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/t1_final.mp4",
+   64,
+   154,
+   2.133,
+   5.133
+  ],
+  [
+   "flora/t3_final.mp4",
+   1141,
+   1181,
+   38.033,
+   39.367
+  ],
+  [
+   "flora/t4_final.mp4",
+   750,
+   785,
+   25.0,
+   26.167
+  ]
+ ],
+ "quadros_comparados": 2006,
+ "fora_dos_takes": {
+  "quadros": 1841,
+  "psnr_min": 37.19,
+  "psnr_medio": 42.69,
+  "px40_max": 56,
+  "px40_medio": 1.37,
+  "quadro_px40_max": 1736,
+  "t_px40_max": 57.87
+ },
+ "dentro_dos_takes": {
+  "quadros": 165,
+  "psnr_medio": 38.37,
+  "px40_medio": 433.6,
+  "px40_max": 3955
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 1227,
+  "px40_max": 41,
+  "t_px40_max": 16.1,
+  "quadros_com_px40>50": 0
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 165,
+  "px40_medio": 437.6
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD19_takes_zoom3x.jpg"
+}

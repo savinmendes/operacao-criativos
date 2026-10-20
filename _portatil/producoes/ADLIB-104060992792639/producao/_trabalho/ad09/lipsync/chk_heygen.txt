@@ -1,0 +1,68 @@
+== m0
+LIPSYNC: ls_m0.mp4 (200 quadros, rosto em 100%, rosto 200,350,323,384 [único rosto])
+índice de pausa 0.14
+(16 quadros
+== A
+LIPSYNC: ls_A.mp4 (233 quadros, rosto em 100%, rosto 182,348,351,418 [único rosto])
+índice de pausa 0.07
+(22 quadros
+== B
+LIPSYNC: ls_B.mp4 (235 quadros, rosto em 100%, rosto 182,343,356,432 [único rosto])
+índice de pausa 0.20
+(21 quadros
+== C
+LIPSYNC: ls_C.mp4 (232 quadros, rosto em 100%, rosto 182,343,352,424 [único rosto])
+índice de pausa 0.06
+(38 quadros
+== D
+LIPSYNC: ls_D.mp4 (72 quadros, rosto em 100%, rosto 176,343,357,423 [único rosto])
+índice de pausa 0.04
+(32 quadros
+== E1
+LIPSYNC: ls_E1.mp4 (169 quadros, rosto em 100%, rosto 186,347,350,420 [único rosto])
+índice de pausa 0.51
+(20 quadros
+== E2
+LIPSYNC: ls_E2.mp4 (170 quadros, rosto em 100%, rosto 248,526,196,178 [2 rostos; escolhido o que mudou em relação ao original])
+índice de pausa 0.04
+(22 quadros
+== F
+LIPSYNC: ls_F.mp4 (176 quadros, rosto em 100%, rosto 179,341,358,428 [único rosto])
+índice de pausa 0.27
+(22 quadros
+== G
+LIPSYNC: ls_G.mp4 (240 quadros, rosto em 100%, rosto 181,340,352,425 [único rosto])
+índice de pausa 0.09
+(10 quadros
+== H
+LIPSYNC: ls_H.mp4 (117 quadros, rosto em 100%, rosto 181,346,349,420 [único rosto])
+índice de pausa 0.01
+(9 quadros
+== I
+LIPSYNC: ls_I.mp4 (74 quadros, rosto em 100%, rosto 183,341,357,432 [único rosto])
+índice de pausa 
+(0 quadros
+== J
+LIPSYNC: ls_J.mp4 (82 quadros, rosto em 100%, rosto 179,341,358,432 [único rosto])
+índice de pausa 0.03
+(8 quadros
+== K
+LIPSYNC: ls_K.mp4 (85 quadros, rosto em 100%, rosto 181,340,354,430 [único rosto])
+índice de pausa 
+(0 quadros
+== M
+LIPSYNC: ls_M.mp4 (129 quadros, rosto em 100%, rosto 182,342,354,426 [único rosto])
+índice de pausa 0.21
+(14 quadros
+== N
+LIPSYNC: ls_N.mp4 (72 quadros, rosto em 100%, rosto 180,347,348,414 [único rosto])
+índice de pausa 0.02
+(16 quadros
+== O
+LIPSYNC: ls_O.mp4 (72 quadros, rosto em 100%, rosto 183,342,357,422 [único rosto])
+índice de pausa 0.03
+(35 quadros
+== P
+LIPSYNC: ls_P.mp4 (72 quadros, rosto em 100%, rosto 183,346,348,419 [único rosto])
+índice de pausa 0.02
+(23 quadros

@@ -1,0 +1,19 @@
+[
+ {"id":"P01","tela":true,"texto":"Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido."},
+ {"id":"V01","tela":false,"texto":"No quieren que tengas acceso a esto, porque es una oración muy poderosa."},
+ {"id":"P02","tela":true,"texto":"Repitan conmigo."},
+ {"id":"P03","tela":true,"texto":"Esta es la poderosísima oración de las doce palabras del Grimorio Sagrado y Secreto de San Benito."},
+ {"id":"V02","tela":false,"texto":"Están surgiendo relatos de bendiciones todos los días."},
+ {"id":"V03","tela":false,"texto":"Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.","tts":"Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante novecientos dieciocho años."},
+ {"id":"V04","tela":false,"texto":"Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes."},
+ {"id":"V05","tela":false,"texto":"La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.","tts":"La última vez que enseñé esta oración en un congreso, recibí más de cuatrocientos noventa y siete relatos de bendiciones al día siguiente."},
+ {"id":"P04","tela":true,"texto":"Pero atención: tiene que hacerse de la forma correcta, según las instrucciones del Grimorio, porque no es una oración común."},
+ {"id":"V06","tela":false,"texto":"Tiene instrucciones y una manera correcta de hacerla y de escucharla."},
+ {"id":"P05","tela":true,"texto":"Voy a pedirle a la producción que deje el Grimorio Sagrado y Secreto de San Benito disponible en este sitio, para que puedan hacerla de la forma correcta,"},
+ {"id":"V07","tela":false,"texto":"pero no sé por cuánto tiempo va a estar disponible."},
+ {"id":"P06","tela":true,"texto":"Y quien obtenga el Grimorio hoy recibirá de regalo un collar de plata de San Benito, el mismo que se usaba en sus oraciones."},
+ {"id":"P07","tela":true,"texto":"Accede mientras todavía es posible."},
+ {"id":"V08","tela":false,"texto":"A partir de hoy le darás la bienvenida a una vida próspera."},
+ {"id":"V09","tela":false,"texto":"Vuelve aquí después de siete días para contar las bendiciones que llegaron a tu vida."},
+ {"id":"P08","tela":true,"texto":"Envía este video a quien amas y haz la oración de la forma correcta."}
+]

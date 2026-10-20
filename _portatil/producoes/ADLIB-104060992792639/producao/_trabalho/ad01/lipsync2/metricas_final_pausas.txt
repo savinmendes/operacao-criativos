@@ -1,0 +1,18 @@
+trecho | FINAL idxES idxPT | ORIGINAL idxES idxPT | q pausaES q pausaPT
+s01    |  0.23  1.52      |  0.56  0.91          |   21    8
+s02    |  0.38  0.79      |  1.24  1.36          |   13    4
+s03    |  0.03   nan      |  1.34   nan          |    6    0
+s04    |   nan   nan      |   nan   nan          |    0    0
+s05    |  0.23   nan      |  0.63   nan          |   16    0
+s06    |  0.17   nan      |  1.29   nan          |   32    0
+s07    |  0.17  0.79      |  1.04  0.97          |   26    6
+s08    |   nan  1.32      |   nan  0.81          |    0    4
+s09    |  0.11  1.03      |  0.60  1.31          |   22    4
+s10    |  0.03   nan      |  1.03   nan          |   65    0
+s11    |  0.51   nan      |  0.91   nan          |   44    0
+s12    |  0.42   nan      |  0.72   nan          |   24    0
+s13    |  0.05   nan      |  0.98   nan          |   48    0
+TOTAL  |  0.19  1.19      |  0.95  1.11
+
+Pausas da voz ES (>= 0,3 s) com a boca do final aberta (>= 80% da abertura media de fala):
+  s11: 89.20-89.60s  abertura 84% da fala

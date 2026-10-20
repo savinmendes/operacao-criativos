@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F1-POLOLA-CELOSA/PERFUMES-CL_F1_POLOLA-CELOSA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F1-POLOLA-CELOSA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F1-POLOLA-CELOSA/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F1-POLOLA-CELOSA/corpo.alinhamento.json", "y": 1440, "chaves": ["perfume", "perfumando", "tres", "momento", "árabes", "uno", "Armaf", "poderoso", "Asad", "seductor", "9PM", "refinado", "conmigo", "recibes", "Pídelo"]},
+  "manchete": {"texto": "ME PILLÓ 😳", "y": 1150, "ate": 3.9, "px": 100},
+  "cta": {"palavra": "pídelo", "y": 1650},
+  "resolucao": "720",
+  "limite_mb": 30
+}

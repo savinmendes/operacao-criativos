@@ -1,0 +1,66 @@
+{
+"texto": "Imágenes impactantes: una empleada fue echada a la calle... por su fe.",
+"dur": 4.012,
+"palavras": [
+{
+"w": "Imágenes",
+"ini": 0.035,
+"fim": 0.453
+},
+{
+"w": "impactantes:",
+"ini": 0.511,
+"fim": 1.26
+},
+{
+"w": "una",
+"ini": 1.321,
+"fim": 1.495
+},
+{
+"w": "empleada",
+"ini": 1.519,
+"fim": 2.053
+},
+{
+"w": "fue",
+"ini": 2.14,
+"fim": 2.337
+},
+{
+"w": "echada",
+"ini": 2.36,
+"fim": 2.685
+},
+{
+"w": "a",
+"ini": 2.709,
+"fim": 2.732
+},
+{
+"w": "la",
+"ini": 2.79,
+"fim": 2.848
+},
+{
+"w": "calle...",
+"ini": 2.894,
+"fim": 3.22
+},
+{
+"w": "por",
+"ini": 3.252,
+"fim": 3.403
+},
+{
+"w": "su",
+"ini": 3.438,
+"fim": 3.531
+},
+{
+"w": "fe.",
+"ini": 3.601,
+"fim": 3.856
+}
+]
+}

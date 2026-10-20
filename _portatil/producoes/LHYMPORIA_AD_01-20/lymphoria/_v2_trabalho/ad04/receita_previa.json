@@ -1,0 +1,10 @@
+{
+  "saida": "../../PREVIA - AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-CL.mp4",
+  "estilo": "drop",
+  "corpo": "parte2_clone.mp4",
+  "hook": {"tipo": "antes", "video": "parte1_up.mp4"},
+  "legenda": {"fonte": "alinhamento:narr_fim_clone.alinhamento.json", "chaves": ["lymphoria", "miel", "dos", "gratis", "recibir", "noventa"]},
+  "selo": {"linhas": ["DESPACHO GRATIS A TODO CHILE", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "x": 160, "y": 1225, "desde": 116.1},
+  "cta": {"palavra": "toca"},
+  "limite_mb": 30
+}

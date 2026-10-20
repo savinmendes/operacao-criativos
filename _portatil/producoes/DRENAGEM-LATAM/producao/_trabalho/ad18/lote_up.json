@@ -1,0 +1,38 @@
+[
+ {
+  "arquivo": "ad18/flora/t1.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/8f008359-46a4-4b12-b34c-4cb557b08378.mp4",
+   "x-goog-date": "20261005T010500Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5LzhmMDA4MzU5LTQ2YTQtNGIxMi1iMzRjLTRjYjU1N2IwODM3OC5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEwNTAwWiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMToyMDowMFoifQ==",
+   "x-goog-signature": "094f96382fcf3356502630a307d06d0347ff20b63fc3fe9df3aa43df347fa4927bbad562adf902a5c5d6e806be5020ffc56acb32bd764ef8f750b216b7561cf48893588ff4367bddc0950f33a2a35b88f944e2fe45deb0a5ef32ac9f2b6eddf7d3c911b1d989e8ae85027a646f406f724328fce6e2bfaacef9daed4c9d83d5bc558c62f7378adf688d6b230b3620d5512a6c4425aaff388646f4df00a1ad53a1391caf7ca0c9123ca4e3ef930ab575a3e2b8dd371ccfde595c029399f41f316a32bf6c486badc6e033eba4d24f0a354130eb6770e0b71fd32647cce9199b9ae10648fea83d3befe2a2b591cf0add1f13b433692a10ce524ac11821f785c8629c"
+  }
+ },
+ {
+  "arquivo": "ad18/flora/t2.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/99ef7203-c89d-4c60-84b7-c3a752b341b5.mp4",
+   "x-goog-date": "20261005T010500Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5Lzk5ZWY3MjAzLWM4OWQtNGM2MC04NGI3LWMzYTc1MmIzNDFiNS5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEwNTAwWiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMToyMDowMFoifQ==",
+   "x-goog-signature": "542451539d955e7ce619f8ead600fb469736be9c21c4ec3aa4eb4ca595eda51c628ddb4f443d90d9ed6258a4c20a4478c3cb1ea34f33dd1c3c1425598efacdb1e7ab9e89b8d160ea656899875b2354fc2b2be8c16e311766cf0aa865458275a1dfc5dc96d5e797d56819486e4945cfec6fa3a31c1375638c5a29e1da2027ef8a46a9d58ae57a7dc998806ed879c7e2e79651746ecf2cc4941f91eeb3768f59e3250e5f9bc4fb38e5b9f16f7ea7ea32ce8ec060c666dace57996b22682a8eeb81dc3020384791b4fce8984d92f7a23c1f07df7ea9897c30cdf91cb71cc435ca051ffd6eaa6fed9920d970dd6c2dda31d44f80104d2be040304278cd5d906b2cff"
+  }
+ },
+ {
+  "arquivo": "ad18/flora/t3.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/9879655f-7484-4749-acdf-b9adca79646e.mp4",
+   "x-goog-date": "20261005T010500Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5Lzk4Nzk2NTVmLTc0ODQtNDc0OS1hY2RmLWI5YWRjYTc5NjQ2ZS5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEwNTAwWiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMToyMDowMFoifQ==",
+   "x-goog-signature": "77076e6b8cb696a2dd04e3162397adc98ece58e7f734400a5ed422828408be7c76567285d7a21b83e5881922b1abf3751fd210d3e3eafd10829a0f5f58fb411317ca2cb0917e0517ba2d78cacab91889c2a044b023dd0a9f5f801cca18a74a252d706234f6c2e23fbe18110a46d77db38ea1395ce08bcc04226858aa394abb10cbdadcf2ab7f77e87db267f2d4a7ae17e34494b27eb400eefc4c983dd5779a115fcb15149270bc5151652b86f1fc6f3a1b6d4d1475af63f4132dc3fb4960930f4892406a879d0f40967467c3a5fd44a2ce1988bce3b93615b6eab6eb2a1eb8c5bedfff32b8e23e86bf9b0223cfccfc01768e0e090a571f86c3b72b7f241c63e0"
+  }
+ }
+]

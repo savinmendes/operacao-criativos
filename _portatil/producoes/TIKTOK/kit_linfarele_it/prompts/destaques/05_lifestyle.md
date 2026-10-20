@@ -1,0 +1,1 @@
+Ícone de vida saudável, paleta da marca

@@ -1,0 +1,8 @@
+SB-PL-JESU-V07 pronto em 16/10/2026.
+Vídeo: SB-PL-JESU-V07.mp4, 30,6 s, 1080x1920, 30 fps, -16,3 LUFS.
+Voz: ElevenLabs "Jesus The Chosen ESPANHOL" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2 + language_code pl, 1,08x. Whisper pl 1,00, texto igual ao roteiro.
+HeyGen: 4 jobs de lipsync no modo speed, sem reenvio (gancho, coroa1, coroa2, coroa3). Índice de pausa: 0,40 / 0,14 / sem pausa (fala contínua) / 0,04.
+Correções do IT aplicadas de saída: "Dziś usłyszysz" sem vírgula + silêncios do TTS encurtados dentro da coroa2; CTA no TTS sem aspas (sem pausa antes de "Dowiedz"); corte coroa3 → porta logo depois de "żywo" (sem jump cut).
+QA: revisar_ad.py (pl) sem problemas; revisor independente sem bloqueantes.
+Ressalvas menores: boca levemente entreaberta nas pausas do gancho (1,75–2,07 s e 4,08–4,65 s); "Benedykta" com "dy" um pouco suave (~16,9 s).
+Trabalho e scripts: _trabalho\ (tts_pl.py → timeline_pl.py → cortar_ls_pl.py → ls/up_pl.py + HeyGen → colar_boca.py → bed_pl.py → mix_pl.sh → legenda_pl.py → compose_pl.py → montar_pl.sh)

@@ -1,0 +1,30 @@
+REVISÃO: PERFUMES-CL_P10_EL-CARNICERO_H2.mp4
+duração 34.22s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 24.2 MB
+decodificação: OK
+pts do áudio: 1605 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1069-1278, x 22-705 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD10-EL-CARNICERO\PERFUMES-CL_P10_EL-CARNICERO_H2_revisao.jpg
+idioma detectado: es (0.94)
+
+=== transcrição (es) ===
+   0.00-  3.00 Deme un kilo de lo que usted se echó.
+   4.00-  5.00 Soy carnicero.
+   5.00-  8.00 Y ahora las clientas vienen todos los días.
+   8.00- 10.00 Tres perfumes árabes al precio de uno.
+  10.00- 12.00 En el día, Armav Club.
+  12.00- 15.00 Fresco, masculino y poderoso.
+  15.00- 18.00 Ya no sé si vienen por el lomo o por mí.
+  18.00- 20.00 En la noche, la tafa asad.
+  20.00- 22.00 Intenso y seductor.
+  22.00- 24.00 Mi señora ahora me cocina a mí.
+  24.00- 27.00 Y el fin de semana, Avnan 9PM.
+  27.00- 29.00 Elegante y moderno.
+  29.00- 33.80 tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

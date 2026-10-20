@@ -1,0 +1,24 @@
+{
+ "saida": "../../../ES-LATAM/VIDEOS/07 AD - ES.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "resolucao": "720",
+ "legenda": {
+  "fonte": "alinhamento:alinhamento_leg.json",
+  "y": 1560,
+  "chaves": [
+   "bacterias",
+   "H2O",
+   "1300",
+   "99",
+   "laboratorio",
+   "limpio",
+   "gérmenes"
+  ]
+ },
+ "cta": {
+  "inicio": 25.97,
+  "y": 1700
+ },
+ "limite_mb": 30
+}

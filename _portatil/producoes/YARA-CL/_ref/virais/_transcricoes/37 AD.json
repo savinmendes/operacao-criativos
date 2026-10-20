@@ -1,0 +1,16 @@
+{
+ "idioma": "en",
+ "prob": 0.81,
+ "segmentos": [
+  {
+   "ini": 0.18,
+   "fim": 6.86,
+   "texto": "Yeah, yeah, drop it down make the ground shake. Shake, shake. Watch the way I make the bank break. Eat that cake."
+  },
+  {
+   "ini": 7.1,
+   "fim": 9.1,
+   "texto": "He ain't never seen a queen move."
+  }
+ ]
+}

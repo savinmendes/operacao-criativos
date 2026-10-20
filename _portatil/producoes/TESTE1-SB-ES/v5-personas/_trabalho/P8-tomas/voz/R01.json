@@ -1,0 +1,70 @@
+{
+"texto": "Al día siguiente, don Tomás vendió toda su caja antes del mediodía.",
+"voz": "hHjbwzYZW17oh0p05AKv",
+"est": 0.5,
+"estilo": 0.2,
+"vel": 1.08,
+"dur": 5.041,
+"palavras": [
+{
+"w": "Al",
+"ini": 0.058,
+"fim": 0.174
+},
+{
+"w": "día",
+"ini": 0.209,
+"fim": 0.36
+},
+{
+"w": "siguiente,",
+"ini": 0.406,
+"fim": 1.033
+},
+{
+"w": "don",
+"ini": 1.173,
+"fim": 1.37
+},
+{
+"w": "Tomás",
+"ini": 1.44,
+"fim": 1.834
+},
+{
+"w": "vendió",
+"ini": 1.904,
+"fim": 2.287
+},
+{
+"w": "toda",
+"ini": 2.426,
+"fim": 2.798
+},
+{
+"w": "su",
+"ini": 2.868,
+"fim": 2.984
+},
+{
+"w": "caja",
+"ini": 3.053,
+"fim": 3.425
+},
+{
+"w": "antes",
+"ini": 3.541,
+"fim": 3.982
+},
+{
+"w": "del",
+"ini": 4.017,
+"fim": 4.133
+},
+{
+"w": "mediodía.",
+"ini": 4.203,
+"fim": 4.841
+}
+]
+}

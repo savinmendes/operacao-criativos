@@ -1,0 +1,98 @@
+{
+ "C1_ferrevolt": {
+  "blocos_medidos": 51,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 15,
+  "erro_max_abs_ms": 45,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 77,
+  "n_energia": 20,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 51,
+   "aparecem_no_quadro_esperado": 51,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "C1_obraIA": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 15,
+  "erro_max_abs_ms": 45,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 77,
+  "n_energia": 17,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "C2_casaIA": {
+  "blocos_medidos": 42,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 15,
+  "erro_max_abs_ms": 63,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 100,
+  "n_energia": 20,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 42,
+   "aparecem_no_quadro_esperado": 42,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "C2_muroReal": {
+  "blocos_medidos": 40,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 16,
+  "erro_max_abs_ms": 63,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 100,
+  "n_energia": 19,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 40,
+   "aparecem_no_quadro_esperado": 40,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "C7_anelReal": {
+  "blocos_medidos": 45,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 14,
+  "erro_max_abs_ms": 59,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 77,
+  "n_energia": 12,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 45,
+   "aparecem_no_quadro_esperado": 45,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "C7_ferrevolt": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 14,
+  "erro_max_abs_ms": 59,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 77,
+  "n_energia": 12,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": []
+ }
+}

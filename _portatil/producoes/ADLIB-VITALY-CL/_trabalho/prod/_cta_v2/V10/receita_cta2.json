@@ -1,0 +1,31 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_cta_v2\\V10\\out\\V10 - LYMPHORIA-CARRITO-MENOPAUSIA.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_cta_v2\\V10\\corpo_v10.mp4",
+ "legenda": {
+  "fonte": "transcrever",
+  "idioma": "es",
+  "desde": 70.917,
+  "chaves": [
+   "carrito",
+   "hoy"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "",
+   "PAGO CONTRA",
+   "ENTREGA",
+   ""
+  ],
+  "escala": 0.55,
+  "x": 331,
+  "y": 1330,
+  "desde": 70.967
+ },
+ "cta": {
+  "inicio": 74.5
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

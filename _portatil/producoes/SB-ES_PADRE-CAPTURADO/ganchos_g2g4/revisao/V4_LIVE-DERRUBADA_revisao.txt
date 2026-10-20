@@ -1,0 +1,34 @@
+REVISÃO: V4_LIVE-DERRUBADA.mp4
+duração 81.27s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 19.8 MB
+decodificação: OK
+pts do áudio: 3501 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 795-1115, x 17-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\ganchos_g2g4\revisao\V4_LIVE-DERRUBADA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  3.00 O poderoso San Benito, cuarta.
+   6.00- 10.00 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  10.00- 15.00 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida.
+  15.00- 18.00 Le enseñé esta oración a mi amigo, el padre Juan Mendes,
+  18.00- 21.00 y él la está rezando en vivo con miles de familias.
+  21.00- 25.00 Cada día me escriben familias que trabajan sin descanso, que rezan,
+  25.00- 30.00 y aún así sienten que el dinero nunca alcanza y que algo le cierra el camino.
+  30.00- 32.00 No es falta de fe.
+  32.00- 36.00 O poderoso San Benito, guardián de los arcanos sagrados
+  36.00- 39.00 que venciste a las serpientes con la señal de la cruz
+  39.00- 43.00 y callaste el rugido de los abismos con tu fe inquebrantable.
+  43.00- 47.00 Esta es la oración a San Benito que casi nadie conoce
+  47.00- 50.00 y que está ayudando a muchas familias hispanas.
+  50.00- 54.00 Sólo un grupo de monjes tenía acceso a esta oración completa.
+  54.00- 70.00 Por eso, nunca habían oído hablar de ella, pero atención tiene que hacerse de la forma correcta siguiendo las instrucciones porque no es una oración común, tiene instrucciones y una manera correcta de hacerla y de escucharla.
+  70.00- 76.00 Por eso la estoy rezando en vivo, completa, paso a paso, junto con miles de familias.
+  76.00- 81.00 Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

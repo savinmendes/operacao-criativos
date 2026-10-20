@@ -1,0 +1,62 @@
+[
+ {
+  "texto": "H20X5",
+  "conf": 0.94,
+  "caixa": [
+   90,
+   158,
+   531,
+   251
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "STEAM CLEANER",
+  "conf": 0.99,
+  "caixa": [
+   92,
+   285,
+   538,
+   321
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SALE",
+  "conf": 0.99,
+  "caixa": [
+   74,
+   379,
+   565,
+   571
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "LIMITED TIME ONLY",
+  "conf": 0.97,
+  "caixa": [
+   110,
+   624,
+   523,
+   660
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "USE CODE:FBX5",
+  "conf": 0.99,
+  "caixa": [
+   139,
+   802,
+   491,
+   838
+  ],
+  "marca_ou_alerta": true,
+  "remover": true
+ }
+]

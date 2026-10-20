@@ -1,0 +1,146 @@
+[
+ {
+  "texto": "ONEDEVICE...",
+  "conf": 0.98,
+  "caixa": [
+   182,
+   115,
+   683,
+   178
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Handheld Steamer",
+  "conf": 1.0,
+  "caixa": [
+   1349,
+   147,
+   1761,
+   189
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5CLEANING",
+  "conf": 0.98,
+  "caixa": [
+   185,
+   274,
+   622,
+   335
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SOLUTIONSFOR",
+  "conf": 0.99,
+  "caixa": [
+   182,
+   357,
+   770,
+   416
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "EVERYCORNER",
+  "conf": 0.99,
+  "caixa": [
+   185,
+   438,
+   749,
+   494
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "OFYOUR HOME!",
+  "conf": 0.93,
+  "caixa": [
+   181,
+   515,
+   752,
+   579
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Comes with many attachments",
+  "conf": 1.0,
+  "caixa": [
+   1321,
+   662,
+   1778,
+   699
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Floor Cleaner",
+  "conf": 1.0,
+  "caixa": [
+   402,
+   979,
+   695,
+   1020
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Must-have for every home",
+  "conf": 1.0,
+  "caixa": [
+   1341,
+   1051,
+   1753,
+   1088
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "and carpet steamer",
+  "conf": 0.98,
+  "caixa": [
+   459,
+   1434,
+   748,
+   1465
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H2O X5 5-in-1",
+  "conf": 0.96,
+  "caixa": [
+   1340,
+   1734,
+   1943,
+   1807
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "Steam Cleaner",
+  "conf": 1.0,
+  "caixa": [
+   1317,
+   1860,
+   1946,
+   1939
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

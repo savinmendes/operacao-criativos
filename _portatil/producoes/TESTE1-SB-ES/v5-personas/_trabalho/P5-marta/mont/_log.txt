@@ -1,0 +1,28 @@
+  0.00 +10.00 briga  ss 0.00 vel 1.00
+ 10.00 + 2.60 maos   ss 1.20 vel 1.00
+ 12.60 + 2.10 vazio  ss 2.40 vel 1.00
+ 14.70 + 2.10 cinco  ss 1.80 vel 1.00
+ 16.80 + 2.50 fila   ss 0.50 vel 1.00
+ 19.30 + 5.76 R01    ss 0.00 vel 1.00
+ 25.16 + 6.51 noite  ss 0.00 vel 0.76
+ 31.77 + 8.60 M2     ss 0.00 vel 1.00
+ 40.48 + 6.66 M3     ss 0.00 vel 1.00
+ 47.23 + 8.00 M4     ss 0.00 vel 1.00
+ 55.33 + 6.20 M5     ss 0.00 vel 1.00
+ 61.63 + 6.38 CTA    ss 0.00 vel 1.00
+TOTAL 68.0 CTA 61.632
+  briga    0.00 +10.00
+  maos    10.00 + 2.60
+  vazio   12.60 + 2.10
+  cinco   14.70 + 2.10
+  fila    16.80 + 2.50
+  R01     19.30 + 5.87
+  noite   25.17 + 6.60
+  M2      31.77 + 8.70
+  M3      40.47 + 6.77
+  M4      47.23 + 8.10
+  M5      55.33 + 6.30
+  CTA     61.63 + 6.37
+audio ok
+C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P5-MARTA_FICTICIO_narracion.txt
+ok C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P5-MARTA_FICTICIO.mp4

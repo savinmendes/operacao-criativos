@@ -1,0 +1,153 @@
+{
+  "produto": "DeWalt DCD7781D2-B2 - Kit de Taladro Percutor/Atornillador de 1/2\" (13mm) Inalambrico de 20V MAX* (Brushless)",
+  "levantado_em": "2026-10-09",
+  "mercado": "Chile (COD)",
+  "fontes": {
+    "oficial_cl": "https://www.dewalt.cl/es-cl/producto/dcd7781d2-b2/kit-de-taladro-percutoratornillador-de-12-13mm-inalambrico-de-20v-max",
+    "oficial_cl_infografico_incluye": "https://assets.dewalt.cl/LAG/PRODUCT/GRAPHICS/WHITEBG/DCD7781D2_ES_GEC1_1280.webp",
+    "oficial_cl_infografico_features": "https://assets.dewalt.cl/LAG/PRODUCT/GRAPHICS/WHITEBG/DCD7781D2_ES_GEC2_1280.webp",
+    "oficial_cl_infografico_17pct": "https://assets.dewalt.cl/LAG/PRODUCT/GRAPHICS/WHITEBG/DCD7781D2_ES_GEC3_1280.webp",
+    "oficial_cl_infografico_55pct": "https://assets.dewalt.cl/LAG/PRODUCT/GRAPHICS/WHITEBG/DCD7781D2_ES_GEC4_1280.webp",
+    "oficial_mx": "https://www.dewalt.com.mx/es-mx/producto/dcd7781d2-b3/kit-de-taladro-percutoratornillador-de-12-13mm-inalambrico-sin-carbones-de",
+    "oficial_br": "https://www.dewalt.com.br/pt-br/produto/dcd7781d2br/parafusadeira-furadeira-de-impacto-12-13mm-20v-max-brushless-com-2-baterias-e",
+    "varejo_cl_easy": "https://www.easy.cl/taladro-percutor-13-mm-dcd7781d2-b2-dewalt-1336351/p",
+    "varejo_cl_paris_vendido_por_urban": "https://www.paris.cl/kit-taladro-percutor-12-20v-max-dewalt-dcd7781d2-b2-MKUBKSNJKX.html",
+    "varejo_cl_paris_vendido_por_easy": "https://www.paris.cl/taladro-percutor-13-mm-dcd7781d2-b2-dewalt-MKDXB3WP1L.html",
+    "nao_encontrado": "Sodimac.cl: busca redireciona para a home e nao achei a ficha do DCD7781 por busca web (so Sodimac Peru, outros kits). Manual PDF oficial do DCD7781: nao encontrado online."
+  },
+  "dados": {
+    "percussao": {
+      "valor": "SIM. Oficial: 'Tipo de producto: Taladro Percutor'; titulo 'Taladro Percutor/Atornillador'. O anel tem a posicao de martelo (icone ao lado do 15 nas fotos oficiais).",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl", "oficial_mx", "oficial_br"]
+    },
+    "motor": {
+      "valor": "Sin carbones (Brushless), 20V MAX*",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl"]
+    },
+    "velocidade_max_rpm": {
+      "valor": "1.750 rpm (velocidad sin carga, oficial CL/MX: 'Velocidad sin carga 1750'; MX: 'Velocidad maxima 1750-rpm')",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl", "oficial_mx"]
+    },
+    "duas_velocidades_mecanicas": {
+      "valor": "Sim, 'Dos velocidades mecanicas' (oficial). Faixas 0-500 / 0-1.750 rpm so aparecem no varejo.",
+      "status": "duas_velocidades_oficial; faixa_0-500_precisa_revisao_manual",
+      "fonte": ["oficial_cl", "varejo_cl_paris_vendido_por_urban"]
+    },
+    "golpes_por_minuto": {
+      "valor": "29.750 gpm (alta). Na pagina oficial BR aparece no campo 'Velocidade em Vazio = 29750-rpm' (campo rotulado errado, o valor e de golpes). Marcha baixa 0-8.500 gpm so em revendas fora do Chile.",
+      "status": "29750_oficial_com_rotulo_errado -> precisa revisao manual antes de citar numero",
+      "fonte": ["oficial_br"]
+    },
+    "torque_nm": {
+      "valor": "65 Nm (varejo CL Paris/Urban e revendas asiaticas). DeWalt oficial (CL/MX) NAO publica Nm; so diz '55% mas torque y 13% mas poder vs DCD776'.",
+      "status": "precisa_revisao_manual",
+      "fonte": ["varejo_cl_paris_vendido_por_urban"]
+    },
+    "posicoes_de_torque": {
+      "valor": "15 posiciones/ajustes de embrague (oficial)",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl", "oficial_mx", "oficial_br"]
+    },
+    "mandril": {
+      "valor": "1/2\" (13 mm), sin llave, de ajuste rapido (oficial). Capacidade 1,5-13 mm so em revendas.",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl", "oficial_mx", "varejo_cl_easy"]
+    },
+    "led": {
+      "valor": "Luz LED para mayor visibilidad en espacios oscuros y estrechos (oficial)",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl"]
+    },
+    "outros_recursos_oficiais": {
+      "valor": [
+        "Interruptor de velocidad variable",
+        "Indicador de carga en la bateria",
+        "Diseno compacto y liviano",
+        "Motor sin carbones 17% mas eficiente que un motor con carbones",
+        "55% mas torque y 13% mas poder en comparacion con el DCD776",
+        "54% mas capacidad de bateria (DCB203 2.0Ah vs DCB207 1.3Ah)"
+      ],
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl", "oficial_cl_infografico_17pct", "oficial_cl_infografico_55pct"]
+    },
+    "peso": {
+      "valor": "Ferramenta sozinha: NAO publicado oficialmente (revendas: 1,18 a 1,6 kg, inconsistentes). Kit embalado: 3,77 kg (oficial CL), 3,7 kg (Easy). Dimensoes do kit: 39,29 x 34,8 x 11,3 cm.",
+      "status": "peso_ferramenta_precisa_revisao_manual; peso_kit_confirmado_oficial",
+      "fonte": ["oficial_cl", "varejo_cl_easy"]
+    },
+    "conteudo_kit_chile": {
+      "valor": "1 taladro percutor/atornillador DCD7781 + 2 baterias 20V 2Ah DCB203 + 1 cargador DCB107 + 1 caja plastica (maleta dura). 5 piezas.",
+      "status": "confirmado_oficial",
+      "fonte": ["oficial_cl_infografico_incluye", "oficial_cl", "varejo_cl_easy", "varejo_cl_paris_vendido_por_urban"],
+      "obs": "Nao confundir com DCD7781D1 (1 bateria + bolso de lona), DCD7781L1 e DCD7781S2A (+100 accesorios). A pagina oficial MX lista em 'includes' um combo DCD796+DCF887 por erro de cadastro: ignorar."
+    },
+    "perfura_concreto_alvenaria": {
+      "valor": "Sim, tem modo percussao (oficial: 'Taladro Percutor'). Capacidade so no varejo CL: madera 25 mm (1\"), metal 13 mm (1/2\"), concreto 6,5 mm (1/4\"). Easy: 'Ideal para trabajos en madera, metal y mamposteria'. Revendas asiaticas citam 13 mm em alvenaria: conflitante.",
+      "status": "percussao_oficial; diametros_precisa_revisao_manual",
+      "fonte": ["oficial_cl", "varejo_cl_paris_vendido_por_urban", "varejo_cl_easy"]
+    },
+    "potencia_w": {
+      "valor": "340 UWO (Paris/Urban). Easy diz '0.2 W' (erro de cadastro).",
+      "status": "precisa_revisao_manual",
+      "fonte": ["varejo_cl_paris_vendido_por_urban", "varejo_cl_easy"]
+    },
+    "garantia": {
+      "valor": "DeWalt Chile: 3 anos de garantia limitada, 1 ano de servico gratuito, 90 dias de satisfacao garantida (vale para produto da rede oficial).",
+      "status": "oficial, mas precisa_revisao_manual se a loja pode prometer isso (depende do fornecedor/nota)",
+      "fonte": ["oficial_cl"]
+    }
+  },
+  "precisa_revisao_manual": [
+    "Torque em Nm (65 Nm so no varejo; DeWalt nao publica)",
+    "Golpes por minuto como numero (29.750 so no campo mal rotulado da pagina oficial BR)",
+    "Faixas 0-500 / 0-1.750 rpm (oficial so confirma 2 velocidades e 1.750 max)",
+    "Diametros maximos: concreto 6,5 mm / madera 25 mm / metal 13 mm (so varejo)",
+    "Peso da ferramenta sozinha",
+    "Potencia 340 UWO",
+    "Garantia de fabrica de 3 anos: so se o fornecedor COD entregar produto com garantia oficial DeWalt Chile",
+    "Conferir no estoque/fornecedor que o kit e o D2-B2 com caja plastica (nao o D1 com bolso de lona)"
+  ],
+  "claims_permitidos": [
+    "Taladro percutor y atornillador DeWalt 20V MAX",
+    "Motor sin carbones (brushless): mas eficiencia y menos mantencion",
+    "Trae 2 baterias de 2Ah, cargador y maleta",
+    "Con una bateria trabajas, con la otra cargando",
+    "Mandril de 13 mm (1/2\") de ajuste rapido, sin llave",
+    "15 posiciones de torque para atornillar sin pasar el tornillo",
+    "Dos velocidades: una para atornillar, otra para perforar",
+    "Hasta 1.750 rpm",
+    "Modo percutor para perforar muro y concreto",
+    "Sirve para madera, metal y muro",
+    "Luz LED para ver en rincones oscuros",
+    "Gatillo de velocidad variable para mas control",
+    "Indicador de carga en la bateria",
+    "Compacto y liviano",
+    "Pagas cuando lo recibes",
+    "Envio a todo Chile",
+    "Pre Black Friday"
+  ],
+  "claims_condicionais": [
+    "55% mas torque que el DCD776 de DeWalt (oficial, mas exige citar o comparativo; nao usar 'mas torque' solto)",
+    "Motor 17% mas eficiente que un motor con carbones (oficial, com o comparativo)",
+    "Perfora concreto (so com broca de concreto e furos pequenos; nao prometer diametro/tarugo grande sem revisao manual)"
+  ],
+  "claims_proibidos": [
+    "Qualquer preco, desconto em % ou 'precio de Black Friday' em valor",
+    "65 Nm, 29.750 golpes, 340 W, 0-500 rpm enquanto estiverem em revisao manual",
+    "169 Nm, 90 Nm, 95 Nm ou qualquer torque de outro modelo (DCD1007, DCD996, DCD805 etc.)",
+    "3 velocidades, LED de 3 posiciones, anti-rotacion, mandril metalico, FlexVolt, XR, PowerStack (sao de outros modelos)",
+    "Mango lateral / empunadura auxiliar (texto do Paris parece copiado de outra ferramenta; nao aparece no kit oficial)",
+    "Freno que 'detiene la rueda' em 2 s (texto de esmerilhadeira copiado no Paris)",
+    "Rotomartillo, SDS, demoledor, 'rompe concreto', 'perfora cualquier cosa'",
+    "Bateria de 4Ah/5Ah, 'bateria que dura todo el dia', tempo de carga especifico",
+    "El mas vendido, el mas potente, numero 1, '52 mil vendidos' ou qualquer numero de vendas",
+    "Garantia de 3 anos DeWalt (ate confirmar fornecedor)",
+    "100 accesorios, bolso de lona, 1 bateria (sao outros kits DCD7781)",
+    "'Original de fabrica / importado directo' sem confirmacao do fornecedor",
+    "Testemunho ou resultado inventado"
+  ],
+  "correcao_ao_ESTUDO_ADS": "O ESTUDO_ADS.md tratava '1750 rpm' e '15 posiciones' como numeros de outros modelos: para o DCD7781 eles sao oficiais. '65 Nm' coincide com o varejo do DCD7781, mas ainda sem fonte oficial. Agora que o produto vendido e o DCD7781 (com percussao), os takes dos ADs 21, 37, 38, 41 (etiqueta DCD7781, anel com martelo) passam a servir, e 'percutor/concreto' pode ser dito."
+}

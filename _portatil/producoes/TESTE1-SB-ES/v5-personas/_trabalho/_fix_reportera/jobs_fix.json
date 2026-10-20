@@ -1,0 +1,28 @@
+{
+ "elevenlabs_flow": "YJSuzqc8y0rbwsYTrcL8",
+ "imagens": {
+  "P0": "_fix_reportera/p0_b.png -> P0-aurelio/img/fix/reportera_rua.png",
+  "P1": "p1_b.png -> P1-ramon/img/reportera_taxi.png",
+  "P2": "p2_a.png -> P2-rosa/img/reportera_atelier.png"
+ },
+ "heygen": {
+  "P0_R01": "44558d5fd8e95c1a047430f6a09ea161",
+  "P0_R02": "c2483eaf4626d5d2be0bc9e13204ed23",
+  "P1_R01": "6a2aa372c07e5b8c8de657d904a1f75f",
+  "P1_CTA": "066630077d88cec1fe6050b7af8e47d2",
+  "P2_R01": "e7be266e99e44cf8fe43b95b77e68b8f",
+  "P2_CTA": "c7ef15a5783283ecf347fec4bce241af",
+  "P2_R01_reenvio(nao_usado)": "4b4d97720a692b0f543280b039fbfb40"
+ },
+ "heygen_saldo_antes": 6392,
+ "kling_maos_P0": "ElevenLabs kling-2.5-turbo 5s, start frame P0-aurelio/img/fix/maos_b.png -> takes/maos.mp4 (antigo maos_r1.mp4)",
+ "heygen_saldo_depois_parcial": 6365,
+ "elevenlabs_creditos": {
+  "6 imagens reportera gpt-image-2.5-sunburst": 4444,
+  "2 imagens maos": 1351,
+  "kling 2.5 turbo 5s": 2121,
+  "total": 7916,
+  "usd_equiv": 1.31
+ },
+ "takes_antigos": "*_r1.mp4 em cada takes/; plano P0 antigo = plano_r1.json"
+}

@@ -1,0 +1,147 @@
+[
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_00_0.png",
+  "ini": 0.0,
+  "fim": 0.163
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_00_1.png",
+  "ini": 0.163,
+  "fim": 0.766
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_00_2.png",
+  "ini": 0.766,
+  "fim": 0.952
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_01_0.png",
+  "ini": 0.952,
+  "fim": 1.498
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_01_1.png",
+  "ini": 1.498,
+  "fim": 1.614
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_01_2.png",
+  "ini": 1.614,
+  "fim": 1.776
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_02_0.png",
+  "ini": 1.776,
+  "fim": 2.252
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_02_1.png",
+  "ini": 2.252,
+  "fim": 2.426
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_02_2.png",
+  "ini": 2.426,
+  "fim": 2.81
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_03_0.png",
+  "ini": 2.81,
+  "fim": 2.961
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_03_1.png",
+  "ini": 2.961,
+  "fim": 3.402
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_03_2.png",
+  "ini": 3.402,
+  "fim": 3.495
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_04_0.png",
+  "ini": 3.495,
+  "fim": 3.738
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_04_1.png",
+  "ini": 3.738,
+  "fim": 4.493
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_05_0.png",
+  "ini": 4.493,
+  "fim": 4.853
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_05_1.png",
+  "ini": 4.853,
+  "fim": 4.981
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_05_2.png",
+  "ini": 4.981,
+  "fim": 5.097
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_06_0.png",
+  "ini": 5.097,
+  "fim": 5.48
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_06_1.png",
+  "ini": 5.48,
+  "fim": 5.619
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_06_2.png",
+  "ini": 5.619,
+  "fim": 6.107
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_07_0.png",
+  "ini": 6.107,
+  "fim": 6.316
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_07_1.png",
+  "ini": 6.316,
+  "fim": 6.95
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_08_0.png",
+  "ini": 6.95,
+  "fim": 7.92
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_09_0.png",
+  "ini": 8.07,
+  "fim": 8.27
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_09_1.png",
+  "ini": 8.27,
+  "fim": 8.57
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_09_2.png",
+  "ini": 8.57,
+  "fim": 8.77
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_10_0.png",
+  "ini": 8.77,
+  "fim": 8.89
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_10_1.png",
+  "ini": 8.89,
+  "fim": 9.11
+ },
+ {
+  "png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\gancho_g5\\overlays\\leg_10_2.png",
+  "ini": 9.11,
+  "fim": 10.2
+ }
+]

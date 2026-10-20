@@ -1,0 +1,24 @@
+REVISÃO: SB-PL-ADS-12.18.mp4
+duração 33.13s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 12.1 MB
+decodificação: OK
+pts do áudio: 1551 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 724-990, x 306-404 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-PL-OFERTA-LIVE\04_ADS-12.18\_trabalho\revisao\SB-PL-ADS-12.18_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  6.30 Jeśli mnie zignorujesz, nie będę miał wyboru. Cud, którego tak bardzo potrzebujesz, oddam komuś innemu.
+   6.30- 10.80 To twoja ostatnia szansa, by otrzymać to, co dla ciebie przygotowałem.
+  10.80- 15.80 Jezus cię wybrał, przyniósł ci potężny dar.
+  15.80- 23.70 Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii, która ześle na twoje życie deszcz, błogosławieństw i cudów.
+  23.70- 25.60 Mnie odrzucaj mnie znowu.
+  26.80- 30.30 Dotknij, dowiedz się więcej, poniżej i dołącz do modlitwy na żywo.
+  30.50- 32.90 Otrzymaj swój cud, zanim będzie za późno.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

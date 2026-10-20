@@ -1,0 +1,40 @@
+{
+ "C2_casaIA": {
+  "total": 42.567,
+  "gancho": 5.9,
+  "cta": 3.3,
+  "alertas": []
+ },
+ "C2_muroReal": {
+  "total": 38.967,
+  "gancho": 2.3,
+  "cta": 3.3,
+  "alertas": [
+   "C2_muroReal frase 2: takes 2.70s para 3.93s (congela 0.07s)"
+  ]
+ },
+ "C7_ferrevolt": {
+  "total": 39.967,
+  "gancho": 3.4,
+  "cta": 3.3,
+  "alertas": []
+ },
+ "C7_anelReal": {
+  "total": 40.167,
+  "gancho": 3.6,
+  "cta": 3.3,
+  "alertas": []
+ },
+ "C1_obraIA": {
+  "total": 45.2,
+  "gancho": 6.0,
+  "cta": 3.3,
+  "alertas": []
+ },
+ "C1_ferrevolt": {
+  "total": 44.1,
+  "gancho": 4.9,
+  "cta": 3.3,
+  "alertas": []
+ }
+}

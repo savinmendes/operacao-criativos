@@ -1,0 +1,31 @@
+REVISÃO: 24 AD - ES.mp4
+duração 21.70s | 720x1280 | 30/1 fps | áudio: sim | 12.1 MB
+decodificação: OK
+pts do áudio: 1016 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 813-878, x 232-503 | no último quadro: sim | faixa escura do rodapé: 1029-1086
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\24\24 AD - ES_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  7.00 Protege a tu familia del 99% de los gérmenes con el H2O-X5, así de fácil.
+   7.00- 12.00 Úsalo en pisos, superficies y alfombras. Todo queda impecable en minutos.
+  12.00- 15.00 Sin químicos, seguro con niños y mascotas.
+  15.00- 19.00 Un solo aparato para tener tu casa realmente limpia, sin estrés.
+  19.00- 21.00 Haz clic en más información.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  5.84    Protect your family from the 99% of Germans with the H2OX5.
+   5.84-  7.04    That's how easy it is.
+   7.04-  9.76    Use it on floors, surfaces and carpet.
+   9.76- 11.84    Everything is impeccable in minutes.
+  11.84- 14.56    No chemicals, sure with children and pets.
+  14.56- 19.04    A single device to have your house really clean without stress.
+  19.04- 21.04    us click in mass information.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

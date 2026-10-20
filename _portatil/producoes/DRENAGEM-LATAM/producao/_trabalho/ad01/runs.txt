@@ -1,0 +1,6 @@
+t1 n173 run_m1762vf22hfcgmn6wcmw0x32n58fpsk4 318.933:82
+t2 n163 run_m172hgnrjqbh4aap5g3062xa5s8fqw07 321.667:70
+t3 n169 run_m1719hkdcqg1g6qs4a3p2g1g858fqarh 326.700:68
+t4 n167 run_m17494et1h5fn55p8n348c7yps8fpdb8 333.300:42
+t5 n165 run_m17cj5s5kwsbpvxcz4vfp66jnx8fqa5z 336.033:50
+t6 n168 run_m17bw4x0q385kh98wcdq5bxm8s8fq4as 353.433:90

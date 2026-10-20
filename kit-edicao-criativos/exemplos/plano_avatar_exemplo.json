@@ -1,0 +1,24 @@
+{
+ "_doc": "montar_corpo_avatar.py: avatar HeyGen (A) intercalado com takes do original sem o rosto (P = tela cheia recortada, S = dividida, T = clipe pronto). Caminhos relativos a esta pasta.",
+ "original": "originais/01.mp4",
+ "avatar": "ad01/av.mp4",
+ "avatar_img": "avatar.webp",
+ "narr": "ad01/narr.mp3",
+ "cauda": 0.5,
+ "resolucao": "720",
+ "original_w": 720,
+ "original_h": 1280,
+ "A_zoom": 1.0625,
+ "A_shift": 70,
+ "P": {"x": 132, "y": 470, "w": 456, "faixa": [576, 696], "desfocar": null},
+ "S": {"av_y": 60, "av_h": 835, "src_y": 530, "src_h": 420, "src_x": null, "desfocar": null},
+ "segs": [
+  ["A", 0, 4.6],
+  ["P", 4.6, 6.85, 5.6],
+  ["A", 6.85, 9.0],
+  ["S", 9.0, 12.5, 9.9, 0.9],
+  ["P", 12.5, 16.85, 14.3, 1.0, {"y": 500, "desfocar": [30, 150, 690, 528]}],
+  ["T", 16.85, 20.0, "takes/b1.mp4", 0, 1.0],
+  ["A", 20.0, 99]
+ ]
+}

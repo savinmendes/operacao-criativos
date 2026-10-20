@@ -1,0 +1,53 @@
+SB-PL-ADS-12 — Święty Benedykt · Polonês (Polônia)
+Base: SB-IT-ADS-12 (IT, 27,8 s) / SB-EN-ADS-12 (EN, 26,7 s) <- SB-ES_08_ADS-12 (ES, 31,5 s). Saída PL: 28,9 s, 720x1280, 30 fps.
+Destino: a modlitwa na żywo. Botão do Meta: LEARN_MORE ("Dowiedz się więcej"). Sem produto e sem preço.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN/IT, eleven_multilingual_v2 com language_code "pl"
+(aceito). Whisper detectou "pl" com prob. 1,00 e transcreveu o texto certo (ś, ć, ż, ł, rz, cz ok). 1 geração. Pausas
+ajustadas e atempo 1,06 (pitch preservado), como no IT. Nenhuma voz criada/clonada/apagada.
+
+======================================================================
+ROTEIRO EN  ×  ROTEIRO PL (narrado), por cena
+======================================================================
+[A  Jesus falando, lipsync]  0,00–9,99
+  EN: If you ignore me, I'll have no choice but to give the miracle you need so much to someone else.
+      This is your last chance to receive what I have prepared for you.
+  PL: Jeśli mnie zignorujesz, nie będę miał wyboru i oddam komuś innemu cud, którego tak bardzo potrzebujesz.
+      To twoja ostatnia szansa, by otrzymać to, co dla ciebie przygotowałem.
+[B  Abraço]  9,99–13,47
+  EN: Jesus has chosen you. He has brought you a powerful gift.
+  PL: Jezus cię wybrał. Przyniósł ci potężny dar.
+[C  Jesus ajoelhado]  13,47–16,87
+  EN: Today, you will hear an ancient lost prayer from the Bible
+  PL: Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii,
+[D  Nuvens/livro]  16,87–20,19
+  EN: that will unlock a shower of blessings and miracles over your life.
+  PL: która ześle na twoje życie deszcz błogosławieństw i cudów.
+[E  Cruz]  20,19–23,20
+  EN: Don't reject me again. Tap Learn More below,
+  PL: Nie odrzucaj mnie znowu. Dotknij «Dowiedz się więcej»
+[F  Jesus falando, lipsync, seta]  23,20–28,90
+  EN: and join the live prayer right now. Receive your miracle before it's too late.
+  PL: poniżej i dołącz do modlitwy na żywo. Przyjmij swój cud, zanim będzie za późno.
+
+Decisões
+- CTA padrão do lote: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo".
+- Como no IT, "poniżej" foi para a cena F (Jesus + seta): a cruz roda a 1,0x e a seta aparece junto do "poniżej".
+- "right now" saiu (cena F já ficou 0,95x); a urgência fica em "zanim będzie za późno".
+- "I'll have no choice but to give" -> "nie będę miał wyboru i oddam" (mais curto e natural que "nie będę miał innego
+  wyjścia, jak oddać"). "receive your miracle" -> "Przyjmij swój cud" (vocabulário litúrgico: przyjąć łaskę/cud).
+- "unlock a shower of blessings" -> "ześle na twoje życie deszcz błogosławieństw" ("zesłać" é o verbo católico para
+  graças vindas do céu; "deszcz błogosławieństw" é expressão comum na pregação polonesa).
+- "Today, you will hear" -> "Dziś usłyszysz" (destino é a live, não um vídeo).
+- O santo não é citado no vídeo (nem no ES/EN/IT); no texto do anúncio: "ze św. Benedyktem" (instrumental declinado).
+- Mesmo teor, sem suavizar: "oddam komuś innemu cud", "ostatnia szansa", "Nie odrzucaj mnie znowu", "zanim będzie za późno".
+- Texto na tela: só a legenda. Legenda PL no estilo EN/IT: Poppins Bold caixa alta (fonte testada: tem todos os
+  ĄĆĘŁŃÓŚŹŻ), palavras-chave coloridas (CUD/CUDÓW/DAR/ŻYCIE/OSTATNIA vermelho; PRZYGOTOWAŁEM/WYBRAŁ/USŁYSZYSZ/
+  MODLITWĘ/MODLITWY/«DOWIEDZ SIĘ WIĘCEJ» amarelo; BŁOGOSŁAWIEŃSTW/ŻYWO verde). Seta vermelha original da cena final.
+- Imagem: a mesma base sem legenda (LaMa) do EN/IT; o rastro leve da legenda ES na cruz (~20,2–23,2 s no PL,
+  18,7–22 s no IT) continua, quase todo sob a legenda PL (mesma faixa). Sem solução no IT; mantido.
+- Música: fundo do original (demucs) a ~-32 LUFS, com fade 28,2–28,6 s (fim do fundo original), como no IT.
+- Lipsync HeyGen speed: 2 jobs (A 10,0 s: 0370459faa154c7f84c7a4d7847eb339; F 5,7 s: bc74e4bc4f0c4748845472fdd8f0eae8),
+  entrada = base sem legenda + áudio ES original (F a 0,947x: 5,4 s do original esticados para 5,7 s). checar_lipsync:
+  A índice de pausa 0,31, F 0,25, conjunto 0,29 (aprovados).
+- QA: revisar_ad.py (whisper pl, prob. 1,00) OK, sem termos proibidos, sem salto de pts, sem quadro solto.
+  Revisor independente: sem defeito grave; boca levemente entreaberta em respirações (~4,3 s, ~25,4 s, ~26,8 s), cosmético.

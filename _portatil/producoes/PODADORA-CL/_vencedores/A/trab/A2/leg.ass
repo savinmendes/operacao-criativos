@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Poppins,151,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,1,0,1,10,4,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.17,0:00:00.88,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}PENSÉ {\c&HFFFFFF&}QUE {\c&HFFFFFF&}ERA
+Dialogue: 0,0:00:00.88,0:00:01.63,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}OTRA {\c&HFFFFFF&}COMPRA {\c&HFFFFFF&}DE
+Dialogue: 0,0:00:01.63,0:00:02.50,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}INTERNET {\c&HFFFFFF&}QUE {\c&HFFFFFF&}IBA
+Dialogue: 0,0:00:02.50,0:00:03.00,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}A {\c&HFFFFFF&}TERMINAR
+Dialogue: 0,0:00:03.00,0:00:03.79,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}GUARDADA...
+Dialogue: 0,0:00:03.79,0:00:04.93,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}ME {\c&H00FFFF&}EQUIVOQUÉ.

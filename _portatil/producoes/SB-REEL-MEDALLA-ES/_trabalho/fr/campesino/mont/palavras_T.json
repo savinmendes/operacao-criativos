@@ -1,0 +1,1149 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.03333333333333333,
+  "fim": 0.2,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "prié",
+  "ini": 0.23333333333333334,
+  "fim": 0.5666666666666667,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "à",
+  "ini": 0.7,
+  "fim": 0.7333333333333333,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "genoux",
+  "ini": 0.8333333333333334,
+  "fim": 1.2333333333333334,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "dans",
+  "ini": 1.2666666666666666,
+  "fim": 1.4,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "ma",
+  "ini": 1.4333333333333333,
+  "fim": 1.5666666666666667,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "terre",
+  "ini": 1.6333333333333333,
+  "fim": 1.9333333333333333,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "desséchée...",
+  "ini": 2.0,
+  "fim": 2.7666666666666666,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "et",
+  "ini": 2.933333333333333,
+  "fim": 3.066666666666667,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "voilà",
+  "ini": 3.1,
+  "fim": 3.3333333333333335,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "ce",
+  "ini": 3.3666666666666667,
+  "fim": 3.466666666666667,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "qui",
+  "ini": 3.533333333333333,
+  "fim": 3.6666666666666665,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "s'est",
+  "ini": 3.7,
+  "fim": 3.8666666666666667,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "passé.",
+  "ini": 3.9,
+  "fim": 4.333333333333333,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "Ô",
+  "ini": 5.533333333333333,
+  "fim": 5.7,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "glorieux",
+  "ini": 5.8,
+  "fim": 6.233333333333333,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "saint",
+  "ini": 6.266666666666667,
+  "fim": 6.466666666666667,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "Benoît...",
+  "ini": 6.5,
+  "fim": 6.933333333333334,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "regarde",
+  "ini": 7.266666666666667,
+  "fim": 7.633333333333334,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "ma",
+  "ini": 7.666666666666667,
+  "fim": 7.766666666666667,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "terre.",
+  "ini": 7.833333333333333,
+  "fim": 8.233333333333333,
+  "personagem": "campesino",
+  "parte": "reza"
+ },
+ {
+  "w": "J'ai",
+  "ini": 11.333333333333334,
+  "fim": 11.6,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "passé",
+  "ini": 11.666666666666666,
+  "fim": 11.966666666666667,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "des",
+  "ini": 12.033333333333333,
+  "fim": 12.133333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mois",
+  "ini": 12.2,
+  "fim": 12.466666666666667,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "à",
+  "ini": 12.566666666666666,
+  "fim": 12.633333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "regarder",
+  "ini": 12.733333333333333,
+  "fim": 13.233333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ma",
+  "ini": 13.266666666666667,
+  "fim": 13.4,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "terre",
+  "ini": 13.466666666666667,
+  "fim": 13.733333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "se",
+  "ini": 13.766666666666667,
+  "fim": 13.866666666666667,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "dessécher.",
+  "ini": 13.933333333333334,
+  "fim": 14.7,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "La",
+  "ini": 14.933333333333334,
+  "fim": 15.033333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "terre",
+  "ini": 15.133333333333333,
+  "fim": 15.4,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 15.433333333333334,
+  "fim": 15.5,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mon",
+  "ini": 15.566666666666666,
+  "fim": 15.7,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "père",
+  "ini": 15.766666666666667,
+  "fim": 16.033333333333335,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 16.1,
+  "fim": 16.233333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 16.266666666666666,
+  "fim": 16.366666666666667,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mon",
+  "ini": 16.4,
+  "fim": 16.533333333333335,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "grand-père...",
+  "ini": 16.6,
+  "fim": 17.266666666666666,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 17.5,
+  "fim": 17.633333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "j'allais",
+  "ini": 17.7,
+  "fim": 17.966666666666665,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 18.0,
+  "fim": 18.066666666666666,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "perdre.",
+  "ini": 18.133333333333333,
+  "fim": 18.6,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Je",
+  "ini": 18.8,
+  "fim": 19.0,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "me",
+  "ini": 19.066666666666666,
+  "fim": 19.166666666666668,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "sentais",
+  "ini": 19.2,
+  "fim": 19.6,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 19.633333333333333,
+  "fim": 19.733333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "honte",
+  "ini": 19.833333333333332,
+  "fim": 20.166666666666668,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 20.2,
+  "fim": 20.3,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ma",
+  "ini": 20.366666666666667,
+  "fim": 20.433333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "famille.",
+  "ini": 20.533333333333335,
+  "fim": 21.1,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Jusqu'au",
+  "ini": 21.333333333333332,
+  "fim": 21.866666666666667,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "jour",
+  "ini": 21.9,
+  "fim": 22.233333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "où",
+  "ini": 22.266666666666666,
+  "fim": 22.466666666666665,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 22.533333333333335,
+  "fim": 22.6,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "prêtre",
+  "ini": 22.666666666666668,
+  "fim": 23.2,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 23.3,
+  "fim": 23.433333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "expliqué",
+  "ini": 23.466666666666665,
+  "fim": 23.933333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "quelque",
+  "ini": 24.033333333333335,
+  "fim": 24.4,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "chose",
+  "ini": 24.433333333333334,
+  "fim": 24.933333333333334,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 25.133333333333333,
+  "fim": 25.333333333333332,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne",
+  "ini": 25.4,
+  "fim": 26.0,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 26.133333333333333,
+  "fim": 26.3,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'avait",
+  "ini": 26.366666666666667,
+  "fim": 26.666666666666668,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "jamais",
+  "ini": 26.7,
+  "fim": 27.066666666666666,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "dit",
+  "ini": 27.1,
+  "fim": 27.466666666666665,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "sur",
+  "ini": 27.8,
+  "fim": 28.066666666666666,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 28.1,
+  "fim": 28.166666666666668,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "médaille",
+  "ini": 28.233333333333334,
+  "fim": 28.633333333333333,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 28.633333333333333,
+  "fim": 28.766666666666666,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "saint",
+  "ini": 28.833333333333332,
+  "fim": 29.033333333333335,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benoît.",
+  "ini": 29.033333333333335,
+  "fim": 29.5,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Des",
+  "ini": 30.1,
+  "fim": 30.2,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "millions",
+  "ini": 30.233333333333334,
+  "fim": 30.566666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 30.6,
+  "fim": 30.633333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "personnes",
+  "ini": 30.7,
+  "fim": 31.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "portent",
+  "ini": 31.366666666666667,
+  "fim": 31.7,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "cette",
+  "ini": 31.7,
+  "fim": 31.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "médaille...",
+  "ini": 31.9,
+  "fim": 32.43333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "et",
+  "ini": 32.666666666666664,
+  "fim": 32.8,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "personne",
+  "ini": 32.86666666666667,
+  "fim": 33.36666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ne",
+  "ini": 33.6,
+  "fim": 33.7,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "leur",
+  "ini": 33.733333333333334,
+  "fim": 33.833333333333336,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 33.86666666666667,
+  "fim": 33.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "jamais",
+  "ini": 33.96666666666667,
+  "fim": 34.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "expliqué",
+  "ini": 34.36666666666667,
+  "fim": 34.93333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ce",
+  "ini": 35.13333333333333,
+  "fim": 35.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 35.3,
+  "fim": 35.43333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "disent",
+  "ini": 35.46666666666667,
+  "fim": 35.8,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ses",
+  "ini": 35.96666666666667,
+  "fim": 36.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lettres.",
+  "ini": 36.166666666666664,
+  "fim": 36.6,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ce",
+  "ini": 36.8,
+  "fim": 36.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "n'est",
+  "ini": 36.93333333333333,
+  "fim": 37.03333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "pas",
+  "ini": 37.06666666666667,
+  "fim": 37.266666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "un",
+  "ini": 37.3,
+  "fim": 37.333333333333336,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "manque",
+  "ini": 37.36666666666667,
+  "fim": 37.56666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 37.56666666666667,
+  "fim": 37.63333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "foi.",
+  "ini": 37.7,
+  "fim": 38.06666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "C'est",
+  "ini": 38.3,
+  "fim": 38.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 38.5,
+  "fim": 38.6,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "personne",
+  "ini": 38.666666666666664,
+  "fim": 39.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ne",
+  "ini": 39.4,
+  "fim": 39.5,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "leur",
+  "ini": 39.53333333333333,
+  "fim": 39.63333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 39.7,
+  "fim": 39.733333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "appris",
+  "ini": 39.8,
+  "fim": 40.06666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 40.06666666666667,
+  "fim": 40.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "bonne",
+  "ini": 40.233333333333334,
+  "fim": 40.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "façon",
+  "ini": 40.46666666666667,
+  "fim": 40.733333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 40.766666666666666,
+  "fim": 40.8,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 40.86666666666667,
+  "fim": 40.93333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "prier.",
+  "ini": 40.96666666666667,
+  "fim": 41.43333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Quand",
+  "ini": 41.7,
+  "fim": 41.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "on",
+  "ini": 41.93333333333333,
+  "fim": 41.96666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 42.0,
+  "fim": 42.06666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "prie",
+  "ini": 42.13333333333333,
+  "fim": 42.4,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 42.4,
+  "fim": 42.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 42.53333333333333,
+  "fim": 42.6,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "bonne",
+  "ini": 42.666666666666664,
+  "fim": 42.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "façon,",
+  "ini": 42.9,
+  "fim": 43.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 43.733333333333334,
+  "fim": 43.8,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "maison",
+  "ini": 43.9,
+  "fim": 44.166666666666664,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "s'apaise,",
+  "ini": 44.2,
+  "fim": 44.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 45.1,
+  "fim": 45.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "peur",
+  "ini": 45.3,
+  "fim": 45.56666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "s'en",
+  "ini": 45.63333333333333,
+  "fim": 45.766666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "va...",
+  "ini": 45.833333333333336,
+  "fim": 46.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "et",
+  "ini": 46.4,
+  "fim": 46.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "on",
+  "ini": 46.5,
+  "fim": 46.56666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "recommence",
+  "ini": 46.666666666666664,
+  "fim": 47.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "à",
+  "ini": 47.266666666666666,
+  "fim": 47.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "voir",
+  "ini": 47.36666666666667,
+  "fim": 47.5,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "des",
+  "ini": 47.56666666666667,
+  "fim": 47.666666666666664,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "issues",
+  "ini": 47.766666666666666,
+  "fim": 48.2,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "là",
+  "ini": 48.43333333333333,
+  "fim": 48.733333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "où",
+  "ini": 48.8,
+  "fim": 48.96666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "l'on",
+  "ini": 49.03333333333333,
+  "fim": 49.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ne",
+  "ini": 49.2,
+  "fim": 49.266666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "voyait",
+  "ini": 49.333333333333336,
+  "fim": 49.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 50.1,
+  "fim": 50.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "des",
+  "ini": 50.266666666666666,
+  "fim": 50.4,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "portes",
+  "ini": 50.43333333333333,
+  "fim": 50.766666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "fermées.",
+  "ini": 50.766666666666666,
+  "fim": 51.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "C'est",
+  "ini": 51.5,
+  "fim": 51.63333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "pour",
+  "ini": 51.666666666666664,
+  "fim": 51.8,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ça",
+  "ini": 51.86666666666667,
+  "fim": 51.96666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 52.03333333333333,
+  "fim": 52.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "j'ai",
+  "ini": 52.166666666666664,
+  "fim": 52.266666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "laissé",
+  "ini": 52.3,
+  "fim": 52.56666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "l'explication",
+  "ini": 52.6,
+  "fim": 53.2,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "complète,",
+  "ini": 53.266666666666666,
+  "fim": 53.96666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lettre",
+  "ini": 54.333333333333336,
+  "fim": 54.7,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "par",
+  "ini": 54.733333333333334,
+  "fim": 54.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lettre,",
+  "ini": 54.93333333333333,
+  "fim": 55.5,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dans",
+  "ini": 55.833333333333336,
+  "fim": 56.0,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "une",
+  "ini": 56.06666666666667,
+  "fim": 56.166666666666664,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "transmission",
+  "ini": 56.2,
+  "fim": 56.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 56.93333333333333,
+  "fim": 57.1,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "direct",
+  "ini": 57.166666666666664,
+  "fim": 57.56666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ouverte",
+  "ini": 57.666666666666664,
+  "fim": 58.266666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "24",
+  "ini": 58.46666666666667,
+  "fim": 58.93333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "heures",
+  "ini": 58.93333333333333,
+  "fim": 59.13333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "sur",
+  "ini": 59.13333333333333,
+  "fim": 59.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "24.",
+  "ini": 59.36666666666667,
+  "fim": 60.0,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Appuie",
+  "ini": 60.233333333333334,
+  "fim": 60.666666666666664,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "sur",
+  "ini": 60.7,
+  "fim": 61.0,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "«",
+  "ini": 61.13333333333333,
+  "fim": 61.233333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "En",
+  "ini": 61.333333333333336,
+  "fim": 61.5,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "savoir",
+  "ini": 61.56666666666667,
+  "fim": 61.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "plus",
+  "ini": 61.93333333333333,
+  "fim": 62.266666666666666,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "»,",
+  "ini": 62.4,
+  "fim": 62.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "juste",
+  "ini": 62.63333333333333,
+  "fim": 62.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 62.93333333333333,
+  "fim": 63.0,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dessous,",
+  "ini": 63.03333333333333,
+  "fim": 63.46666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "et",
+  "ini": 63.7,
+  "fim": 63.86666666666667,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "viens",
+  "ini": 63.9,
+  "fim": 64.13333333333334,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "prier",
+  "ini": 64.16666666666667,
+  "fim": 64.5,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "avec",
+  "ini": 64.53333333333333,
+  "fim": 64.73333333333333,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nous.",
+  "ini": 64.83333333333333,
+  "fim": 65.03333333333333,
+  "personagem": "sacerdote"
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "arquivo": "VAR 16 - G6-DISCULPA x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 284.53,
+ "mb": 35.0,
+ "whisper_gancho": "Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.",
+ "whisper_emenda": "de lo que me pasó. Ya no me lo guardo más. Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  0.966667,
+  2.666667,
+  3.9,
+  5.066667,
+  6.7,
+  7.6
+ ],
+ "cortes_plan": [
+  0.967,
+  2.667,
+  3.9,
+  5.067,
+  6.7
+ ],
+ "silencios": [
+  [
+   57.04,
+   57.86
+  ]
+ ],
+ "ok": true
+}

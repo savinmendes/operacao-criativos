@@ -1,0 +1,47 @@
+{
+  "ad": "29",
+  "idioma": "es",
+  "origem": "TikTok @herramientas.expr8 (loja Herramientas Express, Honduras; COD 'paga al recibir')",
+  "url": "https://www.tiktok.com/@herramientas.expr8/video/7676216070151392520",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 31.7,
+  "cortes": 2,
+  "ritmo": "medio, camera na mao continua",
+  "formato": "unboxing / oferta de kit (loja COD)",
+  "gancho": {
+    "visual": "mao abrindo ziper da bolsa DeWalt",
+    "texto_tela": "'ESPERA! ESTAS LISTO PARA ESTA SUPER PROMOCION QUE TE TENEMOS'",
+    "fala_0_3s": "¡Espera! ¿Estás listo para esta super promoción?"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-5s",
+      "conteudo": "ziper + tela preta 'que te tenemos'"
+    },
+    {
+      "tempo": "5-20s",
+      "conteudo": "tira da bolsa: taladro XR com rotomartillo, nueva bateria 5Ah, companero (parafusadeira de impacto)"
+    },
+    {
+      "tempo": "20-28s",
+      "conteudo": "3 velocidades, 'mas con cables', energia, 'que estas esperando', 'tuyo ahora'"
+    },
+    {
+      "tempo": "28-32s",
+      "conteudo": "carregador, bolsa, 'envios a todo Honduras'"
+    }
+  ],
+  "cta": "falado: '¿Qué estás esperando para pedir el tuyo ahora? Recuerda que hacemos envíos a todo Honduras y pagas al recibir.'",
+  "texto_na_tela": "legenda branca palavra a palavra com destaque vermelho (ES)",
+  "produto": "kit DeWalt XR 20V: furadeira de percussao (provavel DCD805/DCD800, modelo nao legivel) + bateria 5Ah + impacto + bolsa - NAO e o nosso",
+  "e_nosso_produto": "nao (kit XR diferente)",
+  "rosto": "nao (so maos)",
+  "marca_dagua": "nao",
+  "audio": "voz masculina ES + trilha",
+  "transcricao": "¡Espera! ¿Estás listo para esta super promoción? ¡Que te tenemos ahora aquí en herramientas express! No te puedes perder este kit de Taladro XR con su función de roto martillo y su nueva tecnología de auto rotación y claro, con su compañero, taladro de impacto de tres velocidades ya no batalles más con cables ni con apagones de energía. ¿Qué estás esperando para pedir el tuyo ahora? Recuerda que hacemos envíos a todo Honduras y pagas al recibir.",
+  "uso": [
+    "traduzir/adaptar"
+  ],
+  "nota_cod_chile": 4,
+  "justificativa": "Mesmo modelo de negocio (COD LATAM, ES, paga al recibir), unboxing sem rosto, gancho de promocao e CTA de envio. Takes nao servem (kit XR + Milwaukee ao fundo), mas o roteiro adapta 1:1 sobre takes do nosso kit."
+}

@@ -1,0 +1,185 @@
+Você vai montar e publicar, por fases, o Instagram da marca LinfaRelè (Itália, tudo em italiano). Produto: Gotas de drenagem linfatica.
+
+COMO TRABALHAR:
+- Faça UMA fase por vez, na ordem. Ao terminar cada fase, me diga o que fez e espere eu escrever "próxima".
+- Os arquivos estão na pasta "kit_linfarele_it" no meu computador (fotos do produto em produto/, referências em referencias/, legendas em assets/posts/). Quando precisar de um arquivo, me diga o caminho e eu seleciono.
+- Antes de qualquer ação que publique, salve, gaste créditos ou não tenha volta, pare e espere meu "pode".
+
+REGRAS (valem para toda a tarefa):
+- Use só as abas citadas aqui. Estou logado nas contas (Instagram/Flora) neste Chrome.
+- Não crie conta, não digite senha e não mexa em segurança (2 fatores, e-mail, telefone): se pedir login ou verificação, pare e me chame.
+- Quando abrir a janela para escolher arquivo, PARE e me diga qual arquivo escolher — eu seleciono no meu computador. Depois continue.
+- Antes de clicar em Compartilhar / Salvar / Publicar / Enviar / Gerar com custo, PARE, me mostre o que vai acontecer e espere eu dizer "pode".
+- Cole os textos EXATAMENTE como estão abaixo (idioma: italiano), sem traduzir nem resumir.
+- Ao terminar, me diga o que fez e o que ficou faltando.
+
+REGRAS DO FLORA:
+- Abra https://app.flora.ai e use (ou crie) o projeto "Kit LinfaRelè". Organize o canvas por peça (perfil, destaque NN, post NN).
+- O produto SEMPRE parte da foto ORIGINAL: suba a foto (me peça o arquivo em kit_linfarele_it/produto/) e use image-to-image. Sem a foto, pare e me peça.
+- Antes de gerar, me diga o modelo e o custo estimado. Gere 2 a 4 opções e me mostre para eu escolher.
+- Vídeo: primeiro gere e eu aprovo o frame; só depois o vídeo de 5s (modelo rápido, ex. Seedance 2.0 Fast). Trave a fala/texto em italiano. Antes de eu aprovar o vídeo, me lembre de checar deformações e física.
+- Textos na imagem grandes e legíveis (público 40+). Paleta: #A3D9A1 (verde suave),  #F7E3B4 (bege claro),  #E9B5B0 (rosa claro),  #B0D6E2 (azul suave),  #F0F0F0 (cinza claro).
+- Baixe a escolhida para o computador com o nome indicado (eu movo para a pasta kit_linfarele_it/assets/).
+
+IDENTIDADE DA MARCA: paleta #A3D9A1 (verde suave),  #F7E3B4 (bege claro),  #E9B5B0 (rosa claro),  #B0D6E2 (azul suave),  #F0F0F0 (cinza claro) · tom de voz: Amigável, encorajador e informativo · estilo visual: Fotografia natural em ambientes ao ar livre, com foco em pessoas acima de 40 anos. Elementos gráficos minimalistas que complementam a estética clean.
+O QUE FUNCIONA NO NICHO: Na Itália, o Instagram de marcas de saúde e bem-estar se destaca pela autenticidade e conexão emocional com o público. Os maiores perfis utilizam uma estética clean e natural, focando em conteúdo educativo e inspirador. Eles combinam provas sociais, como depoimentos e resultados, com dicas práticas que incentivam a interação. Além disso, a frequência de postagens e o uso estratégico de stories e destaques ajudam a manter o engajamento alto, enquanto a bio é clara e objetiva, refletindo a missão da marca.
+
+REFERÊNCIAS VIRAIS (abra os links para ver gancho, ritmo e estética — inspire-se, não copie rosto, vídeo nem texto):
+1. Instagram @ilariacantoni_pt · 280.238 views · https://www.instagram.com/p/DUV98rVDQ8b/ — "La sera, quando finalmente ti siedi sul divano, il corpo rallenta… ed è proprio lì che due"
+2. Instagram @soluzioninaturali · 48.455 views · https://www.instagram.com/p/Dan-w0JKCcd/ — "💚Lascia andare ciò che il tuo corpo non ha più bisogno di trattenere. 💚 Quando la linfa "
+3. Instagram @roby_vanzella · 40.668 views · https://www.instagram.com/p/DScATkmAvqs/ — "Una pratica super easy da inserire a letto al risveglio o prima di andare a dormire e che "
+4. Instagram @ary.fityourself · 17.671 views · https://www.instagram.com/p/DcNXTqWoFHo/ — "🌙 Prima di andare a letto, dedica qualche minuto ai tuoi piedi ✨ Questi semplici moviment"
+5. Instagram @ · 0 views · https://www.instagram.com/explore/tags/rimuoveretossine
+6. Instagram @ · 0 views · https://www.instagram.com/explore/tags/goccedrenaggio
+
+
+======================================================================
+
+### FASE 1 de 6 — 1. Perfil: nome, bio, link, @, profissional
+
+TAREFA: configurar o perfil do Instagram da marca LinfaRelè.
+
+PASSOS:
+1. Abra https://www.instagram.com/accounts/edit/
+2. Foto do perfil: "Alterar foto" → "Carregar foto" → me peça o arquivo kit_linfarele_it/assets/perfil/foto_perfil.png (se ainda não existir, faça antes a fase "Imagens do perfil e capas no Flora").
+3. Site/Link: https://linfarele.it
+4. Bio (cole exatamente):
+<<<
+Gotas di drenaggio linfatico 🌿 | Riscopri il tuo benessere! | Usa il codice INSTA5 per lo sconto!
+>>>
+5. Salve (me pergunte antes).
+6. Nome e @: abra https://accountscenter.instagram.com/profiles/ → perfil do Instagram → Nome: LinfaRelè - Gotas di Drenaggio · Nome de usuário: @benessereitaliano (se estiver ocupado, tente nesta ordem: @salute_benessere, @vitality_italia, @benessere_naturale, @salute_e_benessere). Me mostre antes de confirmar.
+7. Conta profissional: em https://www.instagram.com/accounts/edit/ ou em Configurações → "Tipo de conta e ferramentas" → "Mudar para conta profissional" → Empresa → categoria: Salute e benessere. Não conecte página do Facebook agora. Se a opção não existir na versão web, me avise.
+
+### FASE 2 de 6 — Imagens do perfil e capas no Flora
+
+TAREFA: criar no Flora a foto de perfil e as capas dos destaques da marca LinfaRelè.
+
+(siga as REGRAS DO FLORA do topo)
+
+1. Foto de perfil (1:1) — salvar como foto_perfil.png. Prompt:
+<<<
+Logo minimalista da marca LinfaRelè, com elementos de natureza, em fundo claro, estilo clean e moderno.
+>>>
+
+2. Capa do destaque "Benefici" (1:1, ícone simples, mesma paleta) — salvar como 01_benefici.png. Prompt:
+<<<
+Icone de gotas e natureza, paleta de cores da marca
+>>>
+3. Capa do destaque "Testimonianze" (1:1, ícone simples, mesma paleta) — salvar como 02_testimonianze.png. Prompt:
+<<<
+Ícone de estrelas ou depoimentos, paleta da marca
+>>>
+4. Capa do destaque "Routine" (1:1, ícone simples, mesma paleta) — salvar como 03_routine.png. Prompt:
+<<<
+Ícone de rotina, paleta de cores da marca
+>>>
+5. Capa do destaque "FAQ" (1:1, ícone simples, mesma paleta) — salvar como 04_faq.png. Prompt:
+<<<
+Ícone de interrogação, paleta da marca
+>>>
+6. Capa do destaque "Lifestyle" (1:1, ícone simples, mesma paleta) — salvar como 05_lifestyle.png. Prompt:
+<<<
+Ícone de vida saudável, paleta da marca
+>>>
+7. Capa do destaque "Offerte" (1:1, ícone simples, mesma paleta) — salvar como 06_offerte.png. Prompt:
+<<<
+Ícone de sconto, paleta da marca
+>>>
+
+### FASE 3 de 6 — Post 01 · A) criar no Flora (reel)
+
+TAREFA: criar no Flora a peça do post 01 (reel) da marca LinfaRelè.
+
+(siga as REGRAS DO FLORA do topo)
+
+Formato: reel 9:16 — frame primeiro, depois vídeo de 5s.
+Roteiro / texto na tela:
+<<<
+Inizio con una persona che usa le Gotas, poi mostra i risultati visibili (testimonianze), finale con un invito all'azione.
+>>>
+Prompt da imagem:
+<<<
+Immagine di una persona che utilizza le Gotas in un ambiente luminoso e naturale.
+>>>
+Prompt do vídeo (5s):
+<<<
+Video di 5 secondi con una persona che sorride e mostra il prodotto.
+>>>
+Salvar como: post_01.mp4 (eu movo para kit_linfarele_it/assets/posts/post_01/).
+
+### FASE 4 de 6 — Post 01 · B) publicar no Instagram (grade)
+
+TAREFA: publicar o post 01 (reel) no Instagram da marca LinfaRelè.
+
+PASSOS:
+1. Abra https://www.instagram.com/ e clique em "Criar" (ícone +) → "Post".
+2. "Selecionar do computador" → me peça o vídeo da pasta: kit_linfarele_it/assets/posts/post_01/
+3. Corte: 9:16 (original). Sem filtro. Avance.
+4. Legenda (cole exatamente):
+<<<
+Scopri come le nostre Gotas di drenaggio linfatico possono migliorare il tuo benessere! 🌿 #LinfaRelè #DrenaggioLinfatico #BenessereNaturale
+
+#LinfaRelè #DrenaggioLinfatico #Benessere #Salute #VitaSana #RimediNaturali #Detox #GocceDiBenessere
+>>>
+5. Sem localização e sem marcar pessoas.
+6. PARE e me mostre a prévia antes de "Compartilhar".
+
+Obs.: grade inicial — no perfil o mais recente aparece primeiro, então publique do 9 para o 1.
+
+### FASE 5 de 6 — Stories e destaques (modo celular no Chrome)
+
+TAREFA: postar os stories e montar os destaques da marca LinfaRelè usando o Instagram em modo celular no Chrome.
+
+ANTES (eu faço): na aba do Instagram aperto F12 → Ctrl+Shift+M (modo celular) → escolho um iPhone → F5. Me avise se o Instagram não estiver na versão de celular.
+
+PARA CADA DESTAQUE, nesta ordem:
+1. Destaque "Benefici": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "Benefici" → capa: kit_linfarele_it/assets/destaques/01_benefici.png
+   Stories: "Scopri i benefici delle nostre Gotas!" | "Facile da usare ogni giorno." | "Guarda i risultati dei nostri clienti!"
+2. Destaque "Testimonianze": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "Testimonianze" → capa: kit_linfarele_it/assets/destaques/02_testimonianze.png
+   Stories: "Leggi cosa dicono i nostri clienti!" | "Guarda i risultati reali!"
+3. Destaque "Routine": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "Routine" → capa: kit_linfarele_it/assets/destaques/03_routine.png
+   Stories: "Scopri la tua routine di benessere!" | "Consigli per un drenaggio efficace."
+4. Destaque "FAQ": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "FAQ" → capa: kit_linfarele_it/assets/destaques/04_faq.png
+   Stories: "Hai domande? Ecco le risposte!" | "Scopri di più sui nostri ingredienti."
+5. Destaque "Lifestyle": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "Lifestyle" → capa: kit_linfarele_it/assets/destaques/05_lifestyle.png
+   Stories: "Scopri il nostro stile di vita!" | "Ricette per un benessere completo."
+6. Destaque "Offerte": poste cada story abaixo (botão + / "Seu story" → me peça a imagem; textos grandes) e, ao terminar, tente "Destacar" no story → novo destaque "Offerte" → capa: kit_linfarele_it/assets/destaques/06_offerte.png
+   Stories: "Non perdere le nostre offerte!" | "Usa INSTA5 per uno sconto!"
+
+Se a versão web não deixar criar destaque ou story, PARE e me diga exatamente onde travou — aí faço essa parte no app do celular ou pelo Meta Business Suite.
+
+### FASE 6 de 6 — Calendário de 30 dias
+
+CALENDÁRIO (1 post por dia depois da grade inicial; para cada dia use as fases "Post NN · A" e "Post NN · B"):
+
+Dia 1: post 1 · stories: Presentazione del prodotto e dei suoi benefici.
+Dia 2: post 2 · stories: Testimonianze dei clienti.
+Dia 3: post 3 · stories: Routine di utilizzo delle Gotas.
+Dia 4: post 4 · stories: Domande frequenti sul prodotto.
+Dia 5: post 5 · stories: Vita sana e consigli di benessere.
+Dia 6: post 6 · stories: Offerte e promozioni.
+Dia 7: post 7 · stories: Risultati prima e dopo dei clienti.
+Dia 8: post 8 · stories: Ricette salutari.
+Dia 9: post 9 · stories: Interazione con i follower (domande e risposte).
+Dia 10: post 1 · stories: Riepilogo dei benefici delle Gotas.
+Dia 11: post 2 · stories: Video di utilizzo delle Gotas.
+Dia 12: post 3 · stories: Consigli per un drenaggio efficace.
+Dia 13: post 4 · stories: Feedback dei clienti.
+Dia 14: post 5 · stories: Routine di benessere.
+Dia 15: post 6 · stories: Promozioni attive.
+Dia 16: post 7 · stories: Risultati visibili.
+Dia 17: post 8 · stories: Ricette per il benessere.
+Dia 18: post 9 · stories: Interazione con i follower.
+Dia 19: post 1 · stories: Benefici delle Gotas.
+Dia 20: post 2 · stories: Testimonianze.
+Dia 21: post 3 · stories: Routine di utilizzo.
+Dia 22: post 4 · stories: Domande frequenti.
+Dia 23: post 5 · stories: Vita sana.
+Dia 24: post 6 · stories: Offerte.
+Dia 25: post 7 · stories: Risultati.
+Dia 26: post 8 · stories: Ricette.
+Dia 27: post 9 · stories: Interazione.
+Dia 28: post 1 · stories: Riepilogo.
+Dia 29: post 2 · stories: Video.
+Dia 30: post 3 · stories: Consigli.

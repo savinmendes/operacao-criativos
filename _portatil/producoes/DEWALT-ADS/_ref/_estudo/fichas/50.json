@@ -1,0 +1,68 @@
+{
+ "ad": "50",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@anhangueraferramentas (TikTok)",
+  "de_quem": "loja (Anhanguera Ferramentas, Brasil)",
+  "url": "https://www.tiktok.com/@anhangueraferramentas/video/7659427555413396754"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 24.2,
+ "cortes": {
+  "n": 3,
+  "tempos_s": [
+   0.1,
+   3.27,
+   24.13
+  ],
+  "ritmo": "médio: tomadas de câmera com zoom/whip e transições de borrão, legenda palavra a palavra"
+ },
+ "formato": "apresentação de kit em loja (B-roll estilizado + narração com legenda palavra a palavra)",
+ "gancho": {
+  "visual_0_3s": "parede de ferramentas DeWalt na loja, kit com maleta TSTAK, câmera em movimento",
+  "texto_0_3s": "MARCA / APRESENTAÇÃO / UM / PARA (legenda palavra a palavra)",
+  "fala_0_3s": "Tem marca que nem precisa de apresentação. Basta um kit desses para entender o motivo."
+ },
+ "corpo": [
+  {
+   "t": "0-6",
+   "o_que": "vitrine DeWalt, carregador, furadeira DCD996 com bateria 5Ah"
+  },
+  {
+   "t": "6-12",
+   "o_que": "transições de zoom/borrão, kit completo no balcão"
+  },
+  {
+   "t": "12-18",
+   "o_que": "maleta TSTAK em close (etiqueta)"
+  },
+  {
+   "t": "18-24.2",
+   "o_que": "furadeira XR com bateria 5Ah na vitrine",
+   "texto": "INDUSTRIAL / EM / E"
+  }
+ ],
+ "cta": "nenhum na tela (no post: 'Confira este kit aqui na Anhanguera Ferramentas')",
+ "texto_na_tela": "legenda palavra a palavra branca no rodapé + logo 'Λ' da loja no canto inferior direito",
+ "produto": {
+  "modelo": "DCD996 (post e etiqueta da maleta TSTAK) + bateria 5Ah",
+  "eh_nosso": "não (DCD996 XR premium)"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "logo da Anhanguera no canto inferior direito em todo o vídeo",
+ "audio": "narração pt-BR curta ('Tem marca que nem precisa de apresentação...') + música",
+ "uso": [
+  "só referência de formato"
+ ],
+ "uso_detalhe": "produto premium diferente (DCD996, TSTAK, 5Ah), logo da loja em todos os quadros; nada aproveitável além de referência genérica de vitrine. A frase de gancho 'Tem marca que nem precisa de apresentação. Basta um kit desses para entender o motivo.' é reaproveitável como gancho falado em ES ('Hay marcas que no necesitan presentación...').",
+ "nota": 1,
+ "nota_justificativa": "frase de gancho de autoridade de marca boa e traduzível; visual de loja bonito, mas produto e kit diferentes (DCD996, TSTAK, 5Ah) e logo da loja fixo: takes não servem.",
+ "transcricao": [
+  "0.0-2.5: Tem marca que nem precisa de apresentação.",
+  "2.5-5.5: Basta um kit desses para entender o motivo.",
+  "5.5-24.3: The World, sua aliada industrial, disponível em nosso site e em nossas lojas físicas."
+ ]
+}

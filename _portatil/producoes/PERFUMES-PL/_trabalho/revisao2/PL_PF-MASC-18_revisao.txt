@@ -1,0 +1,39 @@
+REVISÃO: PL_PF-MASC-18.mp4
+duração 61.03s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.7 MB
+decodificação: OK
+pts do áudio: 2862 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 7.36-8.16
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 761-823, x 150-680 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PERFUMES-PL\_trabalho\revisao2\PL_PF-MASC-18_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  2.00 Zapamiętają Cię po zapachu.
+   2.00-  4.00 Trzy perfumy w cenie jednych.
+   4.00-  6.00 Zostawisz ślad wszędzie, gdzie wejdziesz.
+   6.00-  8.00 Sto sztuk. Teraz albo nigdy.
+   8.00- 12.00 Chcesz poznać perfumy, przez które kobiety oszaleją na Twoim punkcie?
+  12.00- 16.00 Uwaga, bo tej promocji nie możesz przegapić.
+  16.00- 20.00 Teraz zgarniesz trzy arabskie perfumy premium w jednej ofercie.
+  20.00- 24.00 Trzy różne zapachy, które zostawiają niezapomniane wrażenie.
+  24.00- 27.00 Arma w klap. Świeży, męski i mocny.
+  27.00- 29.82 Daje energię, pewność siebie i charyzmę.
+  29.82- 32.20 Robi wrażenie od pierwszej chwili.
+  32.20- 33.72 Lattafa Asad.
+  33.72- 37.28 Intensywny, wyrafinowany i uwodzicielski.
+  37.28- 41.40 Elegancka nuta, która przyciąga uwagę, gdziekolwiek się pojawisz.
+  41.40- 44.40 Zapach z charakterem na wyjątkowe okazje.
+  44.40- 45.52 Afnan.
+  45.52- 48.08 Elegancki, nowoczesny i szlachetny.
+  48.08- 51.40 Dla tych, którzy chcą emanować stylem i klasą.
+  51.40- 54.08 Uniwersalny zapach na każdą okazję.
+  54.08- 55.24 A najlepsze?
+  55.24- 60.84 W tej promocji bierzesz wszystkie trzy perfumy premium, zamów teraz i zapłać dopiero przy odbiorze.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

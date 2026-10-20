@@ -1,0 +1,48 @@
+{
+"arquivo": "vo_V02.wav",
+"whisper": "Están surgiendo relatos de bendiciones todos los días.",
+"palavras": [
+{
+"w": "Están",
+"ini": 0.0,
+"fim": 0.34
+},
+{
+"w": "surgiendo",
+"ini": 0.34,
+"fim": 0.8
+},
+{
+"w": "relatos",
+"ini": 0.8,
+"fim": 1.24
+},
+{
+"w": "de",
+"ini": 1.24,
+"fim": 1.34
+},
+{
+"w": "bendiciones",
+"ini": 1.34,
+"fim": 1.94
+},
+{
+"w": "todos",
+"ini": 1.94,
+"fim": 2.34
+},
+{
+"w": "los",
+"ini": 2.34,
+"fim": 2.58
+},
+{
+"w": "días.",
+"ini": 2.58,
+"fim": 2.74
+}
+],
+"ratio": 1.0,
+"dif": []
+}

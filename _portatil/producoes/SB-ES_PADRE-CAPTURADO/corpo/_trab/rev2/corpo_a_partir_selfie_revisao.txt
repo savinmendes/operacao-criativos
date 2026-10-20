@@ -1,0 +1,11 @@
+REVISÃO: corpo_a_partir_selfie.mp4
+duração 75.07s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.1 MB
+decodificação: OK
+pts do áudio: 3520 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 786-1115, x 13-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\corpo\_trab\rev2\corpo_a_partir_selfie_revisao.jpg
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,12 @@
+C07-A1 run_m17f5he5j0rjdhphax49chestx8gat2f node 9e11683e US$0.064
+C08-B0 run_m176whd7n8vyjkk31ss54v5vmd8gbdad node 15ab4a28 US$0.064
+C08-B1 run_m17df4hdbpckdjjqyztmx6d9vn8gb01a node d1ec3ee9 US$0.073
+C08-B2 run_m17fdq17anka29ap486anyg9td8gbgpp node 51ca6068 US$0.073
+C08-B3 run_m1725f0jkth08jqb27sdmv3sj18gbzrr node bed44c32 US$0.073
+C09-OP run_m176qn77aqnaqmnqk4jw6erd998gbw5e node 573d1c54 US$0.073
+C07 gancho Seedance n353 run_m1796f6c1hbsj8w1xmhnymmgrx8gb5z1 US$1.059 -> cobrado US$0.847 (4 s)
+C08 gancho Seedance n354 run_m17f1svy5pqh5ssydd1e03wrsn8gbbbh US$1.059 -> cobrado US$0.847 (4 s)
+C08 B1 Kling n365 run_m17349t5c1j1nc54rqz45ecpyx8gaqrp US$0.294
+C08 B2 Kling n367 run_m17a6e3q9sp5f4xfnqfzsqf20h8gad05 US$0.294
+C08 B3 Kling n366 run_m171ph43cjw2w6q7kqa3srf5nd8gb3yj US$0.294
+C09 abertura Kling n368 run_m1764r0s4njyw3btc84aqz30998gbpba US$0.294

@@ -1,0 +1,32 @@
+REVISÃO: V10_fix2.mp4
+duração 77.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.6 MB
+decodificação: OK
+pts do áudio: 3609 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 14 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1117-1182, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V10\revisao_fix\V10_fix2_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.64 Lo tuve en el escarpito tres semanas, tres semanas diéndome lo compro mañana y mañana
+   5.64- 10.12 nunca llevó, ese fue mi peor error, la menopausia me tenía con la aguata hinchada, la ropa
+  10.12- 15.32 apretada y una fatiga que no se iba con nada, probé mil cosas, nada se insulaba de verdad.
+  15.32- 21.48 Miren esto, eso soy yo antes y eso, eso soy yo tres semanas después, la misma persona,
+  21.48- 26.44 las mismas gotas, sin hacer dieta, sin cambiar nada más y lo que hice fue esto, veinte
+  26.44- 32.56 gotitas en la mañana con el desayuno, 20 gotitas en la noche con la cena. Eso, solo eso, junto
+  32.56- 37.64 a la comida para que el cuerpo lo absorba mejor. Sé que muchas me van a preguntar si tiene contra
+  37.64- 44.76 indicaciones, les digo de frente. Es 100% natural, sin estimulantes y además sabe a miel y si
+  44.76- 49.80 están en tratamiento médico, consultenlo con su médico como corresponde. No hay nada que ocultar.
+  49.80- 57.60 Y ahora tienes la promoción, compre 1 y reciba 2 con envío gratis y pagas al recibir en tu casa.
+  57.60- 63.68 O si quieres más, compre 2 y reciba 4 o compre 3 y reciba 6.
+  63.68- 67.24 Y si por alguna razón no ves resultado, te devuelven el dinero.
+  67.24- 71.20 90 días de garantía, sin preguntas, sin trámites.
+  71.20- 74.72 Oye, si lo has tenido en el carrito, si lo has pensado, si lo has postergado,
+  74.72- 76.84 hoy es el día, hoy es tu día.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

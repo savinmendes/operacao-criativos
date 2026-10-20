@@ -1,0 +1,65 @@
+[
+ {
+  "w": "Protege",
+  "ini": 0.023,
+  "fim": 0.488,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "a",
+  "ini": 0.511,
+  "fim": 0.534,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "mis",
+  "ini": 0.58,
+  "fim": 0.743,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "hijos.",
+  "ini": 0.801,
+  "fim": 1.556,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "Si",
+  "ini": 2.159,
+  "fim": 2.299,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "me",
+  "ini": 2.357,
+  "fim": 2.426,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "escuchas...",
+  "ini": 2.45,
+  "fim": 3.541,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "dame",
+  "ini": 4.238,
+  "fim": 4.505,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "fuerzas.",
+  "ini": 4.586,
+  "fim": 5.608,
+  "personagem": "persona",
+  "parte": "reza"
+ }
+]

@@ -1,0 +1,98 @@
+{
+"arquivo": "vo_V03.wav",
+"whisper": "Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.",
+"palavras": [
+{
+"w": "Fue",
+"ini": 0.0,
+"fim": 0.36
+},
+{
+"w": "escrita",
+"ini": 0.36,
+"fim": 0.74
+},
+{
+"w": "por",
+"ini": 0.74,
+"fim": 0.94
+},
+{
+"w": "el",
+"ini": 0.94,
+"fim": 1.12
+},
+{
+"w": "propio",
+"ini": 1.12,
+"fim": 1.48
+},
+{
+"w": "San",
+"ini": 1.48,
+"fim": 1.76
+},
+{
+"w": "Benito",
+"ini": 1.76,
+"fim": 2.12
+},
+{
+"w": "en",
+"ini": 2.12,
+"fim": 2.28
+},
+{
+"w": "su",
+"ini": 2.28,
+"fim": 2.44
+},
+{
+"w": "regla",
+"ini": 2.44,
+"fim": 2.92
+},
+{
+"w": "y",
+"ini": 2.92,
+"fim": 3.2
+},
+{
+"w": "se",
+"ini": 3.2,
+"fim": 3.38
+},
+{
+"w": "mantuvo",
+"ini": 3.38,
+"fim": 3.7
+},
+{
+"w": "en",
+"ini": 3.7,
+"fim": 3.96
+},
+{
+"w": "secreto",
+"ini": 3.96,
+"fim": 4.28
+},
+{
+"w": "durante",
+"ini": 4.28,
+"fim": 4.7
+},
+{
+"w": "918",
+"ini": 4.7,
+"fim": 6.04
+},
+{
+"w": "años.",
+"ini": 6.04,
+"fim": 6.52
+}
+],
+"ratio": 1.0,
+"dif": []
+}

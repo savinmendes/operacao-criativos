@@ -1,0 +1,8 @@
+[0:v]setpts=N/(30*TB)[b0];
+[2:v]format=rgba[i2];[b0][i2]overlay=0:0:format=auto[o2];
+[3:v]format=rgba[i3];[o2][i3]overlay=0:0:format=auto:enable='gte(t,-0.0167)*lt(t,2.9833)'[o3];
+[o3]ass=leg.ass:fontsdir=fonts[leg];
+[4:v]format=rgba[i4];[leg][i4]overlay=0:-22:format=auto:enable='gte(t,79.3330)*lt(t,90.1833)'[o4];
+[5:v]format=rgba[i5];[o4][i5]overlay=0:-37+10*sin(2*PI*1.4*t):format=auto:enable='gte(t,79.3330)*lt(t,90.1833)'[o5];
+[6:v]format=rgba[i6];[o5][i6]overlay=0:0:format=auto[o6];
+[o6]format=yuv420p[v]

@@ -1,0 +1,22 @@
+{
+ "saida": "../../../ES-LATAM/VIDEOS/25 AD - ES.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "resolucao": "720",
+ "legenda": {
+  "fonte": "alinhamento:alinhamento.json",
+  "y": 1677,
+  "chaves": [
+   "H2O",
+   "liviano",
+   "vapor",
+   "químicos",
+   "encantada"
+  ]
+ },
+ "cta": {
+  "palavra": "más",
+  "y": 1330
+ },
+ "limite_mb": 30
+}

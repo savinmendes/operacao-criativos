@@ -1,0 +1,28 @@
+{
+ "narradora (corpo + voz off das dançarinas)": {
+  "voz": "Vera - young and sensual",
+  "voice_id": "xjlfQQ3ynqiEyRpArrT8",
+  "modelo": "eleven_multilingual_v2",
+  "velocidade": 1.05
+ },
+ "avatar morena (PF Masc 17)": {
+  "voz": "Cristina - Premium Spanish Female",
+  "voice_id": "1CeqBeXMOqCleeQjfYfO",
+  "modelo": "eleven_multilingual_v2",
+  "velocidade": 1.0
+ },
+ "avatar ruiva (PF Masc 18)": {
+  "voz": "Jessica - Playful, Bright, Warm",
+  "voice_id": "cgSgspJ2msm6clMCkdW9",
+  "modelo": "eleven_multilingual_v2",
+  "velocidade": 1.1
+ },
+ "_obs": "Conta sem voz feminina polonesa; vozes existentes, nenhuma criada/clonada. Teste whisper: todas detectadas como pl >= 0,99.",
+ "avatar PF 7 (morena Essenzalux, blazer marrom)": {
+  "voz": "Lily - Velvety Actress",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "modelo": "eleven_multilingual_v2",
+  "velocidade": 1.1,
+  "obs": "pausas internas encurtadas p/ 0,17 s (pf7hook/encurtar.py); whisper pl 1,0"
+ }
+}

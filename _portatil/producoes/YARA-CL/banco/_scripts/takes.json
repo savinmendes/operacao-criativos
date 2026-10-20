@@ -1,0 +1,440 @@
+[
+ {
+  "arquivo": "yara_01.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 0.3,
+  "dur": 3.0,
+  "acao": "caixa em pé sobre tapete, mãos se aproximam",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_02.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 12.5,
+  "dur": 2.5,
+  "acao": "mãos seguram a caixa de frente",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_03.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 34.6,
+  "dur": 4.0,
+  "acao": "abre a tampa da caixa",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_04.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 48.2,
+  "dur": 3.2,
+  "acao": "frasco de frente nas duas mãos",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_05.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 56.0,
+  "dur": 4.0,
+  "acao": "gira o frasco nas mãos",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_06.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 63.0,
+  "dur": 3.0,
+  "acao": "close da tampa (logo Lattafa)",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_07.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 69.0,
+  "dur": 3.5,
+  "acao": "tira a tampa, mostra o spray",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_08.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 82.0,
+  "dur": 4.0,
+  "acao": "frasco ao lado da caixa, mão ajusta",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_09.mp4",
+  "perfume": "yara",
+  "src": "hq/jmOPtL-vxPI.webm",
+  "ini": 91.0,
+  "dur": 4.0,
+  "acao": "frasco em pé de frente com caixa atrás (estático)",
+  "url": "https://www.youtube.com/watch?v=jmOPtL-vxPI"
+ },
+ {
+  "arquivo": "yara_10.mp4",
+  "perfume": "yara",
+  "src": "hq/hi57gVe6Vz4.mp4",
+  "ini": 26.0,
+  "dur": 3.0,
+  "acao": "mão mostra a caixa com frasco ao lado",
+  "url": "https://www.youtube.com/watch?v=hi57gVe6Vz4",
+  "obs": "notebook ao fundo com relógio na tela"
+ },
+ {
+  "arquivo": "yara_11.mp4",
+  "perfume": "yara",
+  "src": "hq/hi57gVe6Vz4.mp4",
+  "ini": 65.0,
+  "dur": 4.0,
+  "acao": "mão segura o frasco de frente",
+  "url": "https://www.youtube.com/watch?v=hi57gVe6Vz4",
+  "obs": "notebook ao fundo com relógio na tela"
+ },
+ {
+  "arquivo": "yara_12.mp4",
+  "perfume": "yara",
+  "src": "hq/hi57gVe6Vz4.mp4",
+  "ini": 215.0,
+  "dur": 4.0,
+  "acao": "mão segura e inclina o frasco",
+  "url": "https://www.youtube.com/watch?v=hi57gVe6Vz4",
+  "obs": "notebook ao fundo com relógio na tela"
+ },
+ {
+  "arquivo": "yara_13.mp4",
+  "perfume": "yara",
+  "src": "hq/hi57gVe6Vz4.mp4",
+  "ini": 275.0,
+  "dur": 2.3,
+  "acao": "tira a tampa do frasco sobre a mesa",
+  "url": "https://www.youtube.com/watch?v=hi57gVe6Vz4",
+  "obs": "notebook ao fundo com relógio na tela"
+ },
+ {
+  "arquivo": "yara_14.mp4",
+  "perfume": "yara",
+  "src": "hq/BAWbbxeJE2c.mp4",
+  "ini": 91.0,
+  "dur": 4.0,
+  "cx": 0.55,
+  "acao": "gira o frasco nas mãos (close)",
+  "url": "https://www.youtube.com/watch?v=BAWbbxeJE2c",
+  "obs": "rosas vermelhas no canto esquerdo"
+ },
+ {
+  "arquivo": "yara_15.mp4",
+  "perfume": "yara",
+  "src": "hq/BAWbbxeJE2c.mp4",
+  "ini": 113.0,
+  "dur": 3.0,
+  "cx": 0.55,
+  "acao": "close da tampa com logo",
+  "url": "https://www.youtube.com/watch?v=BAWbbxeJE2c"
+ },
+ {
+  "arquivo": "yara_16.mp4",
+  "perfume": "yara",
+  "src": "hq/BAWbbxeJE2c.mp4",
+  "ini": 165.0,
+  "dur": 4.0,
+  "cx": 0.55,
+  "acao": "frasco de frente nas mãos, mostra o laço",
+  "url": "https://www.youtube.com/watch?v=BAWbbxeJE2c"
+ },
+ {
+  "arquivo": "yara_17.mp4",
+  "perfume": "yara",
+  "src": "hq/lKLq08avQG0.mp4",
+  "ini": 4.0,
+  "dur": 2.9,
+  "cx": 0.45,
+  "acao": "abre a caixa (luvas pretas)",
+  "url": "https://www.youtube.com/watch?v=lKLq08avQG0",
+  "obs": "mãos com luvas pretas; movimento rápido com plástico da embalagem"
+ },
+ {
+  "arquivo": "yara_18.mp4",
+  "perfume": "yara",
+  "src": "hq/lKLq08avQG0.mp4",
+  "ini": 9.0,
+  "dur": 2.0,
+  "cx": 0.6,
+  "acao": "tira o frasco da caixa (luvas pretas)",
+  "url": "https://www.youtube.com/watch?v=lKLq08avQG0",
+  "obs": "mãos com luvas pretas"
+ },
+ {
+  "arquivo": "moi_01.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 10.12,
+  "dur": 2.85,
+  "acao": "mãos seguram a caixa branca de frente",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena (caixas brancas) no terço inferior y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_02.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 17.4,
+  "dur": 3.5,
+  "acao": "abre a tampa da caixa",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_03.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 37.1,
+  "dur": 2.5,
+  "acao": "gira o frasco nas mãos, mostra laço dourado",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_04.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 43.5,
+  "dur": 4.0,
+  "acao": "mostra a tampa e gira o frasco",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_05.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 49.0,
+  "dur": 3.5,
+  "acao": "frasco de frente nas mãos",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_06.mp4",
+  "perfume": "moi",
+  "src": "hq/laBwTurAFhY.mp4",
+  "ini": 60.5,
+  "dur": 2.2,
+  "acao": "frasco sem tampa (spray dourado)",
+  "url": "https://www.youtube.com/shorts/laBwTurAFhY",
+  "obs": "LEGENDA QUEIMADA pequena y~0,60-0,75: desfocar/remover"
+ },
+ {
+  "arquivo": "moi_07.mp4",
+  "perfume": "moi",
+  "src": "hq/rqL9tsxGAHI.mp4",
+  "ini": 6.0,
+  "dur": 3.0,
+  "cx": 0.5,
+  "acao": "caixa branca em pé na mesa",
+  "url": "https://www.youtube.com/watch?v=rqL9tsxGAHI"
+ },
+ {
+  "arquivo": "moi_08.mp4",
+  "perfume": "moi",
+  "src": "hq/rqL9tsxGAHI.mp4",
+  "ini": 86.0,
+  "dur": 4.5,
+  "cx": 0.55,
+  "acao": "tira o frasco e coloca ao lado da caixa",
+  "url": "https://www.youtube.com/watch?v=rqL9tsxGAHI"
+ },
+ {
+  "arquivo": "moi_09.mp4",
+  "perfume": "moi",
+  "src": "hq/rqL9tsxGAHI.mp4",
+  "ini": 93.5,
+  "dur": 4.0,
+  "cx": 0.5,
+  "acao": "mãos giram o frasco de frente",
+  "url": "https://www.youtube.com/watch?v=rqL9tsxGAHI"
+ },
+ {
+  "arquivo": "moi_10.mp4",
+  "perfume": "moi",
+  "src": "hq/rqL9tsxGAHI.mp4",
+  "ini": 104.0,
+  "dur": 4.0,
+  "cx": 0.5,
+  "acao": "close da tampa com logo",
+  "url": "https://www.youtube.com/watch?v=rqL9tsxGAHI"
+ },
+ {
+  "arquivo": "moi_11.mp4",
+  "perfume": "moi",
+  "src": "tt/tt_7438094508245486879.mp4",
+  "ini": 5.1,
+  "dur": 1.8,
+  "acao": "mão segura o frasco de frente (estante ao fundo)",
+  "url": "https://www.tiktok.com/@redolessence/video/7438094508245486879",
+  "obs": "take curto (1,8 s)"
+ },
+ {
+  "arquivo": "moi_12.mp4",
+  "perfume": "moi",
+  "src": "tt/tt_7438094508245486879.mp4",
+  "ini": 39.0,
+  "dur": 1.93,
+  "acao": "mão segura o frasco de frente (estante ao fundo)",
+  "url": "https://www.tiktok.com/@redolessence/video/7438094508245486879",
+  "obs": "take curto (1,9 s)"
+ },
+ {
+  "arquivo": "elixir_01.mp4",
+  "perfume": "elixir",
+  "src": "hq/rvkAPVac_GA.mp4",
+  "ini": 0.8,
+  "dur": 3.2,
+  "cx": 0.6,
+  "acao": "mão mostra a caixa de frente",
+  "url": "https://www.youtube.com/watch?v=rvkAPVac_GA"
+ },
+ {
+  "arquivo": "elixir_02.mp4",
+  "perfume": "elixir",
+  "src": "hq/rvkAPVac_GA.mp4",
+  "ini": 21.5,
+  "dur": 3.1,
+  "cx": 0.55,
+  "acao": "gira a caixa nas mãos",
+  "url": "https://www.youtube.com/watch?v=rvkAPVac_GA"
+ },
+ {
+  "arquivo": "elixir_03.mp4",
+  "perfume": "elixir",
+  "src": "hq/rvkAPVac_GA.mp4",
+  "ini": 41.0,
+  "dur": 4.0,
+  "cx": 0.5,
+  "acao": "frasco de frente, mostra o laço rose-gold",
+  "url": "https://www.youtube.com/watch?v=rvkAPVac_GA"
+ },
+ {
+  "arquivo": "elixir_04.mp4",
+  "perfume": "elixir",
+  "src": "hq/rvkAPVac_GA.mp4",
+  "ini": 56.3,
+  "dur": 3.0,
+  "cx": 0.78,
+  "acao": "tira a tampa",
+  "url": "https://www.youtube.com/watch?v=rvkAPVac_GA"
+ },
+ {
+  "arquivo": "elixir_05.mp4",
+  "perfume": "elixir",
+  "src": "tt/tt_7556876405548649748.mp4",
+  "ini": 1.0,
+  "dur": 2.0,
+  "acao": "mãos seguram a caixa de frente",
+  "url": "https://www.tiktok.com/@mr.perfumist/video/7556876405548649748",
+  "obs": "tronco de homem (camiseta) sem rosto"
+ },
+ {
+  "arquivo": "elixir_06.mp4",
+  "perfume": "elixir",
+  "src": "tt/tt_7556876405548649748.mp4",
+  "ini": 9.6,
+  "dur": 3.0,
+  "acao": "tira o frasco e mostra de frente",
+  "url": "https://www.tiktok.com/@mr.perfumist/video/7556876405548649748",
+  "obs": "tronco de homem (camiseta) sem rosto"
+ },
+ {
+  "arquivo": "elixir_07.mp4",
+  "perfume": "elixir",
+  "src": "tt/tt_7556876405548649748.mp4",
+  "ini": 21.5,
+  "dur": 4.0,
+  "acao": "frasco em pé no balcão de mármore (estático)",
+  "url": "https://www.tiktok.com/@mr.perfumist/video/7556876405548649748"
+ },
+ {
+  "arquivo": "elixir_08.mp4",
+  "perfume": "elixir",
+  "src": "hq/j8_WhqtkYLs.mp4",
+  "ini": 10.0,
+  "dur": 4.0,
+  "cx": 0.5,
+  "acao": "mão segura o frasco de frente",
+  "url": "https://www.youtube.com/watch?v=j8_WhqtkYLs",
+  "obs": "unhas escuras; caixa ao fundo"
+ },
+ {
+  "arquivo": "elixir_09.mp4",
+  "perfume": "elixir",
+  "src": "hq/j8_WhqtkYLs.mp4",
+  "ini": 40.0,
+  "dur": 2.6,
+  "cx": 0.5,
+  "acao": "gira o frasco mostrando o laço",
+  "url": "https://www.youtube.com/watch?v=j8_WhqtkYLs"
+ },
+ {
+  "arquivo": "elixir_10.mp4",
+  "perfume": "elixir",
+  "src": "hq/9wGyFJ9DLOg.mp4",
+  "ini": 2.8,
+  "dur": 3.0,
+  "cx": 0.42,
+  "acao": "close do frasco (b-roll)",
+  "url": "https://www.youtube.com/watch?v=9wGyFJ9DLOg",
+  "obs": "b-roll de review (fonte 1440p 60fps)"
+ },
+ {
+  "arquivo": "elixir_11.mp4",
+  "perfume": "elixir",
+  "src": "hq/9wGyFJ9DLOg.mp4",
+  "ini": 6.0,
+  "dur": 3.0,
+  "cx": 0.45,
+  "acao": "close do laço rose-gold (b-roll)",
+  "url": "https://www.youtube.com/watch?v=9wGyFJ9DLOg",
+  "obs": "b-roll de review (fonte 1440p 60fps)"
+ },
+ {
+  "arquivo": "elixir_12.mp4",
+  "perfume": "elixir",
+  "src": "hq/fSbSMTrhLhI.mp4",
+  "ini": 6.0,
+  "dur": 3.5,
+  "regiao": [
+   0.22,
+   0,
+   0.56,
+   1
+  ],
+  "acao": "mão pega o frasco",
+  "url": "https://www.youtube.com/watch?v=fSbSMTrhLhI",
+  "obs": "fonte 1080x1080 com tarjas; área útil ~600px de largura (upscale ~1,2x)"
+ },
+ {
+  "arquivo": "elixir_13.mp4",
+  "perfume": "elixir",
+  "src": "hq/fSbSMTrhLhI.mp4",
+  "ini": 34.0,
+  "dur": 3.0,
+  "regiao": [
+   0.22,
+   0,
+   0.56,
+   1
+  ],
+  "acao": "close da base/tampa na mão",
+  "url": "https://www.youtube.com/watch?v=fSbSMTrhLhI",
+  "obs": "fonte 1080x1080 com tarjas; área útil ~600px"
+ }
+]

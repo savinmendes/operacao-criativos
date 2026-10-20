@@ -1,0 +1,86 @@
+{
+ "video": "../../../VIDEOS/54 AD.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/54 AD - ES.mp4",
+ "W": 720,
+ "H": 1280,
+ "audio": "orig",
+ "camadas": [
+  {
+   "tipo": "rotulo",
+   "rect": [
+    96,
+    336,
+    624,
+    536
+   ],
+   "linhas": [
+    "Pisos, cocina, ventanas,",
+    "alfombras y ropa:",
+    "¡límpialo todo con",
+    "UN SOLO aparato!"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 38,
+   "fonte": "semi",
+   "raio": 18,
+   "pad": 14,
+   "de": 0,
+   "ate": 4.871
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    150,
+    404,
+    570,
+    540
+   ],
+   "linhas": [
+    "H2O X5",
+    "Limpiador a vapor"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 46,
+   "fonte": "semi",
+   "raio": 18,
+   "pad": 16,
+   "de": 4.871,
+   "ate": 99
+  },
+  {
+   "tipo": "selo",
+   "x": 190,
+   "y": 600,
+   "larg": 340,
+   "linhas": [
+    "PAGO CONTRA",
+    "ENTREGA"
+   ],
+   "fita": "¡PAGAS AL RECIBIR!",
+   "de": 0,
+   "ate": 99
+  },
+  {
+   "tipo": "cta",
+   "cx": 360,
+   "y": 870,
+   "px": 44,
+   "de": 6.04,
+   "setas_de": 6.3,
+   "setas_x": [
+    170,
+    416
+   ],
+   "setas_y": 1000,
+   "seta_tam": 110,
+   "ate": 99
+  }
+ ],
+ "fps_in": 29.97
+}

@@ -1,0 +1,6 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Selected model is a bag of 1 models. You will see that many progress bars per track.
+Separated tracks will be stored in C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\05_ADS-12.1-GD\_trabalho\demucs\htdemucs
+Separating track fontes\es.mp4
+  0%|                                                                     | 0.0/35.099999999999994 [00:00<?, ?seconds/s] 17%|##########                                                  | 5.85/35.099999999999994 [00:15<01:15,  2.59s/seconds] 33%|####################                                        | 11.7/35.099999999999994 [00:36<01:14,  3.19s/seconds] 50%|#######################                       | 17.549999999999997/35.099999999999994 [01:00<01:03,  3.61s/seconds] 67%|########################################                    | 23.4/35.099999999999994 [01:21<00:42,  3.63s/seconds] 83%|#################################################1         | 29.25/35.099999999999994 [01:42<00:21,  3.60s/seconds]100%|##############################################| 35.099999999999994/35.099999999999994 [02:02<00:00,  3.55s/seconds]100%|##############################################| 35.099999999999994/35.099999999999994 [02:02<00:00,  3.49s/seconds]
+done

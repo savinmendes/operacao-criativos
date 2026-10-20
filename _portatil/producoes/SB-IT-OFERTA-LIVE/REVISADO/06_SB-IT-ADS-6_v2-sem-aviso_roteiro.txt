@@ -1,0 +1,48 @@
+06_SB-IT-ADS-6_v2-sem-aviso — San Benedetto · Italiano · versão revisada após reprovação no Meta (19/10/2026)
+Motivo da reprovação: "sexually suggestive emoji alongside repeated 'one last warning' framing" (o mesmo do EN).
+Correção escolhida pela pessoa: tirar os emojis do cartão e trocar o "Ultimo avviso" na tela e na narração.
+Base: SB-IT-ADS-6 (147,0 s). Saída: 146,67 s, 1080x1920, 30 fps, AAC 192k / 48 kHz. O original não foi alterado.
+
+======================================================================
+1) CARTÃO DO TOPO (antes → depois)
+======================================================================
+ANTES:  ‼️ Un ultimo avviso ‼️ / Resta fino alla fine e fai molta attenzione 🙏🔮✨❤️‍🩹
+DEPOIS: Un messaggio per te          (1ª linha, vermelho escuro)
+        Resta fino alla fine e
+        fai molta attenzione
+Nenhum emoji (nem ‼️). É o mesmo estilo do cartão sem emoji (Poppins Bold 64, caixa branca única que cobre o
+cartão antigo inteiro, com a aba dos emojis). Conferido com zoom em 4 s e 140 s: sem resíduo.
+
+======================================================================
+2) NARRAÇÃO (antes → depois)
+======================================================================
+Ocorrências de "ultimo avviso / avviso / avvertimento" no roteiro e no áudio: 1 (frase 01).
+
+01 ANTES (3,29–6,68 s):   "Non per caso, ma perché questo è il tuo ultimo avviso."
+   DEPOIS (3,23–6,24 s):  "Non per caso, ma perché questo messaggio è proprio per te."
+   (equivalente ao EN: "because this is your last warning" → "because this message is meant for you")
+   Só essa frase foi regravada: ElevenLabs Brian (nPczCjzI2devNBz1zQrb), eleven_multilingual_v2, language_code it,
+   speed 1,08, com previous_text/next_text das frases vizinhas. O resto é o áudio original, cortado nas pausas.
+   A pausa original até "Non arriverà" foi mantida. Daí em diante tudo adiantou 0,355 s
+   ("Tocca" 129,89 → 129,54 s; a seta entra em 129,54 s). A legenda foi refeita palavra a palavra.
+   Nível da frase nova: -26,5 dB RMS (vizinhas: -26,6 / -26,2).
+
+"fai attenzione" (frase 15 e cartão) não é aviso e foi mantido.
+
+======================================================================
+3) ÁUDIO
+======================================================================
+Receita RECEITA_LIMPAR_CHIADO (chiado.py): limpar_voz (gate >5 kHz + silêncio fora da fala + EQ) e finalizar_mix.
+Resultado: -16,0 LUFS, true peak -2,0 dBTP. Sem trilha (o AD só tem voz).
+
+======================================================================
+QA
+======================================================================
+- revisar_ad.py --idioma it (proibidos + avviso/avvis/avvert/ultimo avviso/warning): OK. Idioma it (0,99),
+  nenhum termo proibido, nenhum salto de pts, nenhum corte de cena.
+- Whisper por palavra em 0–9 s: "...perché questo messaggio è proprio per te. Non arriverà un altro messaggio...".
+  Os tempos batem com a legenda.
+- Em 55–58 s, o whisper do revisor repetiu "l'umiliazione finisce". Na v1 ele tinha alucinado "Wonderful" no mesmo
+  lugar. O whisper por palavra desse trecho mostra a fala certa, sem repetição: é alucinação do whisper.
+- O aviso "setas vermelhas" é falso positivo de sempre: a seta é amarela e está no último quadro.
+Custo: 1 TTS de 58 caracteres (~US$ 0,02). HeyGen: 0. Nenhuma voz criada, clonada ou apagada.

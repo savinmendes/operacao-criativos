@@ -1,0 +1,68 @@
+{
+ "cards": [
+  {
+   "titulo": "H2O X5",
+   "texto": "Fácil de pedir, la entrega fue excelente, llegó en buen estado, fácil de usar, muy eficiente para la limpieza diaria.",
+   "perto": [
+    230,
+    165
+   ]
+  },
+  {
+   "titulo": "De verdad se volvió mi favorito",
+   "texto": "De verdad se volvió mi limpiador favorito para la casa. Es increíblemente versátil y está muy bien diseñado. Vale cada centavo.",
+   "perto": [
+    530,
+    285
+   ]
+  },
+  {
+   "titulo": "Me encanta mi limpiador a vapor",
+   "texto": "Acabo de comprar un cuerpo de repuesto porque me encanta este limpiador a vapor. Fácil de usar, se ve bien y cumple. Qué bueno poder conseguir un repuesto después de años de uso.",
+   "perto": [
+    175,
+    415
+   ]
+  },
+  {
+   "titulo": "¡Imprescindible!",
+   "texto": "Tenía una vaporizadora hasta que se me dañó. Esta me encanta. Me da vergüenza lo que revela de mi piso de cocina. ¡Sí que limpia!",
+   "perto": [
+    510,
+    855
+   ]
+  },
+  {
+   "titulo": "Gran producto, vale la pena",
+   "texto": "Me encanta, de verdad limpia y refresca todo, definitivamente vale lo que cuesta. Ahora lo uso casi a diario.",
+   "perto": [
+    190,
+    945
+   ]
+  },
+  {
+   "titulo": "Buena vaporizadora",
+   "texto": "Muy satisfecha con esta vaporizadora; me impresiona cómo deja limpios pisos, alfombras y tapizados.",
+   "perto": [
+    515,
+    1045
+   ]
+  }
+ ],
+ "faixa": [
+  [
+   "Haz clic en",
+   0.27
+  ],
+  [
+   "Más información",
+   0.27
+  ],
+  [
+   "4000+ ★★★★★ reseñas",
+   0.17
+  ]
+ ],
+ "pad": 5,
+ "pad_faixa": 6
+}

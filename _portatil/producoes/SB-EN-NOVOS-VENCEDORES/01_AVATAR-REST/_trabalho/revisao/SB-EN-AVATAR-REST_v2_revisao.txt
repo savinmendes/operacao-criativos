@@ -1,0 +1,38 @@
+REVISÃO: SB-EN-AVATAR-REST_v2.mp4
+duração 56.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 45.9 MB
+decodificação: OK
+pts do áudio: 2659 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-EN-NOVOS-VENCEDORES\01_AVATAR-REST\_trabalho\revisao\SB-EN-AVATAR-REST_v2_revisao.jpg
+idioma detectado: en (0.99)
+
+=== transcrição (en) ===
+   0.00-  3.12 Oh, glorious Saint Benedict!
+   3.12-  6.20 Today I speak the words engraved on your medal.
+   6.20-  8.44 Deliver me from this hardship.
+   8.44- 10.76 If you can hear me, help me.
+  10.76- 13.08 I went almost six months without customers.
+  13.08- 15.28 I even thought about closing my business
+  15.28- 17.16 until, during a live stream,
+  17.16- 20.40 a priest explained the exact way to ask Saint Benedict.
+  20.40- 22.52 That day, I found peace again.
+  22.52- 25.88 And little by little, the doors began to open.
+  25.88- 29.52 This is the last time God will try to speak to you this way.
+  29.52- 31.44 Jesus chose you.
+  31.44- 35.12 He prepared a powerful gift just for you.
+  35.12- 38.56 Today, you will hear the lost prayer of St. Benedict
+  38.56- 41.24 that unlocks a shower of miracles,
+  41.24- 44.08 but only if you don't reject it again.
+  44.08- 47.72 Receive your miracle before the door closes forever.
+  47.72- 50.16 Right now, a prayer to St. Benedict
+  50.16- 52.40 is being broadcast live.
+  52.40- 56.08 Tap Learn More Below and join the live prayer now.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

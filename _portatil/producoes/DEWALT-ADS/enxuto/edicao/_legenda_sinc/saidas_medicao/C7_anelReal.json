@@ -1,0 +1,381 @@
+{
+ "rotulo": "C7_anelReal",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\cfg_enx\\C7_anelReal.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 36.867,
+ "blocos_medidos": 45,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 14,
+ "erro_max_abs_ms": 59,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 77,
+ "n_energia": 12,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 45,
+  "aparecem_no_quadro_esperado": 45,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "QUINCE POSICIONES",
+   "leg_t": 0.067,
+   "palavra": "Quince",
+   "fala_t": 0.08,
+   "erro_ms": -13,
+   "erro_energia_ms": 57
+  },
+  {
+   "legenda": "DE TORQUE:",
+   "leg_t": 0.867,
+   "palavra": "de",
+   "fala_t": 0.865,
+   "erro_ms": 2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "NUNCA MÁS PASAS",
+   "leg_t": 1.6,
+   "palavra": "nunca",
+   "fala_t": 1.629,
+   "erro_ms": -29,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "UN TORNILLO.",
+   "leg_t": 2.5,
+   "palavra": "un",
+   "fala_t": 2.494,
+   "erro_ms": 6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON EL ANILLO",
+   "leg_t": 3.667,
+   "palavra": "Con",
+   "fala_t": 3.68,
+   "erro_ms": -13,
+   "erro_energia_ms": -33
+  },
+  {
+   "legenda": "ELIGES ENTRE",
+   "leg_t": 4.167,
+   "palavra": "eliges",
+   "fala_t": 4.18,
+   "erro_ms": -13,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "QUINCE POSICIONES",
+   "leg_t": 4.833,
+   "palavra": "quince",
+   "fala_t": 4.84,
+   "erro_ms": -7,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE TORQUE.",
+   "leg_t": 5.633,
+   "palavra": "de",
+   "fala_t": 5.62,
+   "erro_ms": 13,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ASÍ EL TORNILLO",
+   "leg_t": 7.1,
+   "palavra": "Así",
+   "fala_t": 7.108,
+   "erro_ms": -8,
+   "erro_energia_ms": 43
+  },
+  {
+   "legenda": "QUEDA JUSTO,",
+   "leg_t": 7.833,
+   "palavra": "queda",
+   "fala_t": 7.808,
+   "erro_ms": 25,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SIN PASARLO Y",
+   "leg_t": 8.533,
+   "palavra": "sin",
+   "fala_t": 8.528,
+   "erro_ms": 5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SIN DAÑAR LA",
+   "leg_t": 9.233,
+   "palavra": "sin",
+   "fala_t": 9.248,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MADERA.",
+   "leg_t": 9.833,
+   "palavra": "madera.",
+   "fala_t": 9.828,
+   "erro_ms": 5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TIENE DOS",
+   "leg_t": 11.0,
+   "palavra": "Tiene",
+   "fala_t": 11.014,
+   "erro_ms": -14,
+   "erro_energia_ms": -23
+  },
+  {
+   "legenda": "VELOCIDADES:",
+   "leg_t": 11.333,
+   "palavra": "velocidades:",
+   "fala_t": 11.355,
+   "erro_ms": -22,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "UNA PARA",
+   "leg_t": 12.267,
+   "palavra": "una",
+   "fala_t": 12.295,
+   "erro_ms": -28,
+   "erro_energia_ms": 23
+  },
+  {
+   "legenda": "ATORNILLAR Y",
+   "leg_t": 12.7,
+   "palavra": "atornillar",
+   "fala_t": 12.675,
+   "erro_ms": 25,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "OTRA PARA",
+   "leg_t": 13.333,
+   "palavra": "otra",
+   "fala_t": 13.335,
+   "erro_ms": -2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PERFORAR,",
+   "leg_t": 13.733,
+   "palavra": "perforar,",
+   "fala_t": 13.755,
+   "erro_ms": -22,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "HASTA MIL",
+   "leg_t": 15.3,
+   "palavra": "hasta",
+   "fala_t": 15.295,
+   "erro_ms": 5,
+   "erro_energia_ms": 37
+  },
+  {
+   "legenda": "SETECIENTAS",
+   "leg_t": 15.8,
+   "palavra": "setecientas",
+   "fala_t": 15.815,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CINCUENTA",
+   "leg_t": 16.4,
+   "palavra": "cincuenta",
+   "fala_t": 16.435,
+   "erro_ms": -35,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "REVOLUCIONES.",
+   "leg_t": 16.9,
+   "palavra": "revoluciones.",
+   "fala_t": 16.896,
+   "erro_ms": 4,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON EL GATILLO",
+   "leg_t": 19.333,
+   "palavra": "Con",
+   "fala_t": 19.336,
+   "erro_ms": -3,
+   "erro_energia_ms": -20
+  },
+  {
+   "legenda": "DE",
+   "leg_t": 19.9,
+   "palavra": "de",
+   "fala_t": 19.896,
+   "erro_ms": 4,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VELOCIDAD VARIABLE,",
+   "leg_t": 19.967,
+   "palavra": "velocidad",
+   "fala_t": 19.976,
+   "erro_ms": -9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CONTROLAS CADA",
+   "leg_t": 20.7,
+   "palavra": "controlas",
+   "fala_t": 20.716,
+   "erro_ms": -16,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VUELTA.",
+   "leg_t": 21.333,
+   "palavra": "vuelta.",
+   "fala_t": 21.316,
+   "erro_ms": 17,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MOTOR SIN",
+   "leg_t": 22.167,
+   "palavra": "Motor",
+   "fala_t": 22.171,
+   "erro_ms": -4,
+   "erro_energia_ms": 20
+  },
+  {
+   "legenda": "CARBONES:",
+   "leg_t": 22.733,
+   "palavra": "carbones:",
+   "fala_t": 22.731,
+   "erro_ms": 2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MÁS EFICIENCIA Y",
+   "leg_t": 24.3,
+   "palavra": "más",
+   "fala_t": 24.331,
+   "erro_ms": -31,
+   "erro_energia_ms": -17
+  },
+  {
+   "legenda": "MENOS MANTENCIÓN.",
+   "leg_t": 25.133,
+   "palavra": "menos",
+   "fala_t": 25.131,
+   "erro_ms": 2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y LUZ LED,",
+   "leg_t": 27.4,
+   "palavra": "Y",
+   "fala_t": 27.402,
+   "erro_ms": -2,
+   "erro_energia_ms": 23
+  },
+  {
+   "legenda": "PARA VER EN",
+   "leg_t": 27.867,
+   "palavra": "para",
+   "fala_t": 27.882,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LOS",
+   "leg_t": 28.3,
+   "palavra": "los",
+   "fala_t": 28.282,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "RINCONES OSCUROS.",
+   "leg_t": 28.4,
+   "palavra": "rincones",
+   "fala_t": 28.402,
+   "erro_ms": -2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TRAE",
+   "leg_t": 30.433,
+   "palavra": "Trae",
+   "fala_t": 30.442,
+   "erro_ms": -9,
+   "erro_energia_ms": -33
+  },
+  {
+   "legenda": "DOS BATERÍAS CON",
+   "leg_t": 30.667,
+   "palavra": "dos",
+   "fala_t": 30.662,
+   "erro_ms": 5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "INDICADOR DE CARGA,",
+   "leg_t": 31.367,
+   "palavra": "indicador",
+   "fala_t": 31.362,
+   "erro_ms": 5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CARGADOR Y",
+   "leg_t": 32.2,
+   "palavra": "cargador",
+   "fala_t": 32.203,
+   "erro_ms": -3,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MALETA.",
+   "leg_t": 32.667,
+   "palavra": "maleta.",
+   "fala_t": 32.643,
+   "erro_ms": 24,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "APROVECHA EL",
+   "leg_t": 33.6,
+   "palavra": "Aprovecha",
+   "fala_t": 33.599,
+   "erro_ms": 1,
+   "erro_energia_ms": 77
+  },
+  {
+   "legenda": "PRE BLACK FRIDAY.",
+   "leg_t": 34.367,
+   "palavra": "Pre",
+   "fala_t": 34.419,
+   "erro_ms": -52,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PÍDELO HOY,",
+   "leg_t": 35.9,
+   "palavra": "Pídelo",
+   "fala_t": 35.959,
+   "erro_ms": -59,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y PAGAS",
+   "leg_t": 36.467,
+   "palavra": "y",
+   "fala_t": 36.479,
+   "erro_ms": -12,
+   "erro_energia_ms": null
+  }
+ ]
+}

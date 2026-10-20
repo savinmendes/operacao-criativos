@@ -1,0 +1,35 @@
+REVISÃO: SB-ES_HUMILLACION_P3-CARMEN_FICTICIO.mp4
+duração 70.97s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.2 MB
+decodificação: OK
+pts do áudio: 3327 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\_trabalho\P3-carmen\qa\SB-ES_HUMILLACION_P3-CARMEN_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.32 Imágenes impactantes. Una empleada fue echada a la calle, por su fe.
+   4.32-  5.80 ¡La drona!
+   5.80-  7.12 ¿Resas tanto?
+   7.12-  9.12 Que tu dios te consiga otro trabajo.
+   9.12- 12.40 Señora, yo nunca le robe nada por el amor de Dios, créame.
+  20.56- 25.12 A los pocos días, Carmen tenía tres familias queriendo contratarla.
+  25.12- 29.20 Esa noche pensé en mis hijos y no sabía cómo decirles que me habían echado.
+  29.20- 34.24 Y encima, acusada de la drona, una amiga me mandó la transmisión del padre Juan Mendes.
+  34.24- 35.54 La hice esa misma noche.
+  35.54- 41.56 Como él enseña, al día siguiente me llamaron para un trabajo nuevo, con gente que me trata como familia.
+  41.56- 46.72 Si tú también rezas y sientes que nadie te escucha y que las cosas solo empeoran,
+  46.72- 53.22 no es que Dios no te escuche, es que, igual que yo, lo estabas pidiendo de la forma equivocada.
+  53.22- 57.68 El padre Juan Mendes me enseñó la forma correcta de pedirle a San Benito
+  57.68- 60.48 y están haciendo la oración en vivo ahora mismo.
+  60.48- 63.84 ¿Usted puede pasar la transmisión para los que nos están viendo?
+  63.84- 64.92 ¡Claro!
+  64.92- 70.12 Toquen el botón que está abajo del vídeo y entren ahora a la oración en vivo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

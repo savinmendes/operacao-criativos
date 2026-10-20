@@ -1,0 +1,7 @@
+arquivo : C:\Users\PICHAU\Downloads\WYZ-CAMARA-LATAM\producao\AD 16 - WYZE-SOLAR-CAM-PAN-BENEFICIOS-ES-LATAM.mp4
+duração : 38.75s | 720x1280 | áudio: sim | 25.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\WYZ-CAMARA-LATAM\producao\AD 16 - WYZE-SOLAR-CAM-PAN-BENEFICIOS-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 35.67s
+montagem rápida: 11s para 39s de vídeo (0.30x)

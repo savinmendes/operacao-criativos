@@ -1,0 +1,27 @@
+{
+ "arquivo": "05 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.98,
+ "segmentos": [
+  {
+   "ini": 0.43,
+   "fim": 5.67,
+   "texto": "mais de 52 mil furadeiras dessa aqui vendidas aqui dentro do Tiktok Shop."
+  },
+  {
+   "ini": 5.67,
+   "fim": 12.07,
+   "texto": "Ela é a função sem escova, tem mais durabilidade no motor, menos desgaste na bateria."
+  },
+  {
+   "ini": 12.07,
+   "fim": 19.27,
+   "texto": "Ela contém parafusadeira, furadeira e chá e marquelete."
+  },
+  {
+   "ini": 19.27,
+   "fim": 27.27,
+   "texto": "Ela contém duas baterias de 20 volts, um carregador bivolt, já clica no link que está em oferta relâmpago."
+  }
+ ]
+}

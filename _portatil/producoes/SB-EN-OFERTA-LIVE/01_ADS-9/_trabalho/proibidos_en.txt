@@ -1,0 +1,16 @@
+# termos proibidos no EN
+informaci
+toca
+más información
+en vivo
+en direct
+clique
+diffusion
+milagro
+oraci
+precio
+price
+dollar
+R\$
+\$[0-9]
+prière

@@ -1,0 +1,186 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: L,Poppins SemiBold,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3.2,2,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:00.51,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}imágenes
+Dialogue: 1,0:00:00.51,0:00:01.53,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}impactantes
+Dialogue: 1,0:00:01.53,0:00:01.67,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}un {\c&HFFFFFF&}vendedor {\c&HFFFFFF&}fue
+Dialogue: 1,0:00:01.67,0:00:02.15,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}un {\c&H00FFFF&}vendedor {\c&HFFFFFF&}fue
+Dialogue: 1,0:00:02.15,0:00:02.34,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}un {\c&HFFFFFF&}vendedor {\c&H00FFFF&}fue
+Dialogue: 1,0:00:02.34,0:00:02.70,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}echado {\c&HFFFFFF&}de {\c&HFFFFFF&}un
+Dialogue: 1,0:00:02.70,0:00:02.84,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}echado {\c&H00FFFF&}de {\c&HFFFFFF&}un
+Dialogue: 1,0:00:02.84,0:00:02.94,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}echado {\c&HFFFFFF&}de {\c&H00FFFF&}un
+Dialogue: 1,0:00:02.94,0:00:03.58,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}bus
+Dialogue: 1,0:00:03.58,0:00:03.76,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}por {\c&HFFFFFF&}su {\c&HFFFFFF&}fe
+Dialogue: 1,0:00:03.76,0:00:03.91,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}por {\c&H00FFFF&}su {\c&HFFFFFF&}fe
+Dialogue: 1,0:00:03.91,0:00:04.50,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}por {\c&HFFFFFF&}su {\c&H00FFFF&}fe
+Dialogue: 1,0:00:04.50,0:00:05.43,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}bájate
+Dialogue: 1,0:00:05.56,0:00:05.76,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}que {\c&HFFFFFF&}tu {\c&HFFFFFF&}dios
+Dialogue: 1,0:00:05.76,0:00:05.92,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}que {\c&H00FFFF&}tu {\c&HFFFFFF&}dios
+Dialogue: 1,0:00:05.92,0:00:06.12,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}que {\c&HFFFFFF&}tu {\c&H00FFFF&}dios
+Dialogue: 1,0:00:06.12,0:00:06.24,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}te {\c&HFFFFFF&}lleve {\c&HFFFFFF&}caminando
+Dialogue: 1,0:00:06.24,0:00:06.46,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}te {\c&H00FFFF&}lleve {\c&HFFFFFF&}caminando
+Dialogue: 1,0:00:06.46,0:00:07.12,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}te {\c&HFFFFFF&}lleve {\c&H00FFFF&}caminando
+Dialogue: 1,0:00:07.12,0:00:07.50,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}señor {\c&HFFFFFF&}solo {\c&HFFFFFF&}estoy
+Dialogue: 1,0:00:07.50,0:00:07.58,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}señor {\c&H00FFFF&}solo {\c&HFFFFFF&}estoy
+Dialogue: 1,0:00:07.58,0:00:07.78,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}señor {\c&HFFFFFF&}solo {\c&H00FFFF&}estoy
+Dialogue: 1,0:00:07.78,0:00:08.58,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}trabajando
+Dialogue: 1,0:00:08.58,0:00:08.72,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}por {\c&HFFFFFF&}favor
+Dialogue: 1,0:00:08.72,0:00:09.08,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}por {\c&H00FFFF&}favor
+Dialogue: 1,0:00:09.08,0:00:09.38,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}déjeme {\c&HFFFFFF&}bajar
+Dialogue: 1,0:00:09.38,0:00:09.70,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}déjeme {\c&H00FFFF&}bajar
+Dialogue: 1,0:00:09.70,0:00:10.47,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}tranquilo
+Dialogue: 1,0:00:18.20,0:00:18.36,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}al {\c&HFFFFFF&}día {\c&HFFFFFF&}siguiente
+Dialogue: 1,0:00:18.36,0:00:18.55,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}al {\c&H00FFFF&}día {\c&HFFFFFF&}siguiente
+Dialogue: 1,0:00:18.55,0:00:19.32,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}al {\c&HFFFFFF&}día {\c&H00FFFF&}siguiente
+Dialogue: 1,0:00:19.32,0:00:20.05,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}don tomás {\c&HFFFFFF&}vendió
+Dialogue: 1,0:00:20.05,0:00:20.57,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}don tomás {\c&H00FFFF&}vendió
+Dialogue: 1,0:00:20.57,0:00:21.01,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}toda {\c&HFFFFFF&}su {\c&HFFFFFF&}caja
+Dialogue: 1,0:00:21.01,0:00:21.20,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}toda {\c&H00FFFF&}su {\c&HFFFFFF&}caja
+Dialogue: 1,0:00:21.20,0:00:21.69,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}toda {\c&HFFFFFF&}su {\c&H00FFFF&}caja
+Dialogue: 1,0:00:21.69,0:00:22.16,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}antes {\c&HFFFFFF&}del {\c&HFFFFFF&}mediodía
+Dialogue: 1,0:00:22.16,0:00:22.35,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}antes {\c&H00FFFF&}del {\c&HFFFFFF&}mediodía
+Dialogue: 1,0:00:22.35,0:00:23.24,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}antes {\c&HFFFFFF&}del {\c&H00FFFF&}mediodía
+Dialogue: 1,0:00:23.24,0:00:23.44,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}esa {\c&HFFFFFF&}noche {\c&HFFFFFF&}conté
+Dialogue: 1,0:00:23.44,0:00:23.68,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}esa {\c&H00FFFF&}noche {\c&HFFFFFF&}conté
+Dialogue: 1,0:00:23.68,0:00:23.99,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}esa {\c&HFFFFFF&}noche {\c&H00FFFF&}conté
+Dialogue: 1,0:00:23.99,0:00:24.16,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}las {\c&HFFFFFF&}monedas
+Dialogue: 1,0:00:24.16,0:00:24.95,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}las {\c&H00FFFF&}monedas
+Dialogue: 1,0:00:24.95,0:00:25.07,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}no {\c&HFFFFFF&}alcanzaba {\c&HFFFFFF&}ni
+Dialogue: 1,0:00:25.07,0:00:25.58,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&H00FFFF&}alcanzaba {\c&HFFFFFF&}ni
+Dialogue: 1,0:00:25.58,0:00:25.72,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&HFFFFFF&}alcanzaba {\c&H00FFFF&}ni
+Dialogue: 1,0:00:25.72,0:00:25.89,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}para {\c&HFFFFFF&}el {\c&HFFFFFF&}pasaje
+Dialogue: 1,0:00:25.89,0:00:26.02,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}para {\c&H00FFFF&}el {\c&HFFFFFF&}pasaje
+Dialogue: 1,0:00:26.02,0:00:26.44,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}para {\c&HFFFFFF&}el {\c&H00FFFF&}pasaje
+Dialogue: 1,0:00:26.44,0:00:26.53,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}de {\c&HFFFFFF&}vuelta
+Dialogue: 1,0:00:26.53,0:00:27.15,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}de {\c&H00FFFF&}vuelta
+Dialogue: 1,0:00:27.15,0:00:27.27,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}me {\c&HFFFFFF&}sentí {\c&HFFFFFF&}un
+Dialogue: 1,0:00:27.27,0:00:27.53,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}me {\c&H00FFFF&}sentí {\c&HFFFFFF&}un
+Dialogue: 1,0:00:27.53,0:00:27.65,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}me {\c&HFFFFFF&}sentí {\c&H00FFFF&}un
+Dialogue: 1,0:00:27.65,0:00:27.90,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}viejo {\c&HFFFFFF&}que {\c&HFFFFFF&}ya
+Dialogue: 1,0:00:27.90,0:00:28.04,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}viejo {\c&H00FFFF&}que {\c&HFFFFFF&}ya
+Dialogue: 1,0:00:28.04,0:00:28.16,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}viejo {\c&HFFFFFF&}que {\c&H00FFFF&}ya
+Dialogue: 1,0:00:28.16,0:00:28.29,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}no {\c&HFFFFFF&}le {\c&HFFFFFF&}sirve
+Dialogue: 1,0:00:28.29,0:00:28.40,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&H00FFFF&}le {\c&HFFFFFF&}sirve
+Dialogue: 1,0:00:28.40,0:00:28.68,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&HFFFFFF&}le {\c&H00FFFF&}sirve
+Dialogue: 1,0:00:28.68,0:00:28.75,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}a {\c&HFFFFFF&}nadie
+Dialogue: 1,0:00:28.75,0:00:29.38,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}a {\c&H00FFFF&}nadie
+Dialogue: 1,0:00:29.38,0:00:29.56,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}mi {\c&HFFFFFF&}hijo {\c&HFFFFFF&}me
+Dialogue: 1,0:00:29.56,0:00:29.76,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}mi {\c&H00FFFF&}hijo {\c&HFFFFFF&}me
+Dialogue: 1,0:00:29.76,0:00:29.88,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}mi {\c&HFFFFFF&}hijo {\c&H00FFFF&}me
+Dialogue: 1,0:00:29.88,0:00:30.16,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}mandó {\c&HFFFFFF&}la
+Dialogue: 1,0:00:30.16,0:00:30.29,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}mandó {\c&H00FFFF&}la
+Dialogue: 1,0:00:30.29,0:00:30.86,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}transmisión {\c&HFFFFFF&}del
+Dialogue: 1,0:00:30.86,0:00:31.04,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}transmisión {\c&H00FFFF&}del
+Dialogue: 1,0:00:31.04,0:00:31.36,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}padre {\c&HFFFFFF&}juan méndez
+Dialogue: 1,0:00:31.36,0:00:32.33,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}padre {\c&H00FFFF&}juan méndez
+Dialogue: 1,0:00:32.33,0:00:32.48,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}la {\c&HFFFFFF&}hice {\c&HFFFFFF&}esa
+Dialogue: 1,0:00:32.48,0:00:32.70,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&H00FFFF&}hice {\c&HFFFFFF&}esa
+Dialogue: 1,0:00:32.70,0:00:32.90,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&HFFFFFF&}hice {\c&H00FFFF&}esa
+Dialogue: 1,0:00:32.90,0:00:33.18,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}misma {\c&HFFFFFF&}noche
+Dialogue: 1,0:00:33.18,0:00:33.80,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}misma {\c&H00FFFF&}noche
+Dialogue: 1,0:00:33.80,0:00:34.05,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}como {\c&HFFFFFF&}él {\c&HFFFFFF&}enseña
+Dialogue: 1,0:00:34.05,0:00:34.17,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}como {\c&H00FFFF&}él {\c&HFFFFFF&}enseña
+Dialogue: 1,0:00:34.17,0:00:34.79,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}como {\c&HFFFFFF&}él {\c&H00FFFF&}enseña
+Dialogue: 1,0:00:34.79,0:00:34.94,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}al {\c&HFFFFFF&}otro {\c&HFFFFFF&}día
+Dialogue: 1,0:00:34.94,0:00:35.16,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}al {\c&H00FFFF&}otro {\c&HFFFFFF&}día
+Dialogue: 1,0:00:35.16,0:00:35.57,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}al {\c&HFFFFFF&}otro {\c&H00FFFF&}día
+Dialogue: 1,0:00:35.57,0:00:35.70,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}la {\c&HFFFFFF&}gente {\c&HFFFFFF&}me
+Dialogue: 1,0:00:35.70,0:00:35.95,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&H00FFFF&}gente {\c&HFFFFFF&}me
+Dialogue: 1,0:00:35.95,0:00:36.08,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&HFFFFFF&}gente {\c&H00FFFF&}me
+Dialogue: 1,0:00:36.08,0:00:36.35,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}paraba {\c&HFFFFFF&}en {\c&HFFFFFF&}la
+Dialogue: 1,0:00:36.35,0:00:36.44,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}paraba {\c&H00FFFF&}en {\c&HFFFFFF&}la
+Dialogue: 1,0:00:36.44,0:00:36.55,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}paraba {\c&HFFFFFF&}en {\c&H00FFFF&}la
+Dialogue: 1,0:00:36.55,0:00:36.81,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}calle {\c&HFFFFFF&}para
+Dialogue: 1,0:00:36.81,0:00:37.02,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}calle {\c&H00FFFF&}para
+Dialogue: 1,0:00:37.02,0:00:37.73,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}comprarme
+Dialogue: 1,0:00:37.73,0:00:37.88,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}si {\c&HFFFFFF&}tú {\c&HFFFFFF&}también
+Dialogue: 1,0:00:37.88,0:00:38.04,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}si {\c&H00FFFF&}tú {\c&HFFFFFF&}también
+Dialogue: 1,0:00:38.04,0:00:38.41,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}si {\c&HFFFFFF&}tú {\c&H00FFFF&}también
+Dialogue: 1,0:00:38.41,0:00:38.91,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}rezas {\c&HFFFFFF&}y {\c&HFFFFFF&}sientes
+Dialogue: 1,0:00:38.91,0:00:39.04,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}rezas {\c&H00FFFF&}y {\c&HFFFFFF&}sientes
+Dialogue: 1,0:00:39.04,0:00:39.42,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}rezas {\c&HFFFFFF&}y {\c&H00FFFF&}sientes
+Dialogue: 1,0:00:39.42,0:00:39.55,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}que {\c&HFFFFFF&}nadie {\c&HFFFFFF&}te
+Dialogue: 1,0:00:39.55,0:00:39.79,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}que {\c&H00FFFF&}nadie {\c&HFFFFFF&}te
+Dialogue: 1,0:00:39.79,0:00:39.91,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}que {\c&HFFFFFF&}nadie {\c&H00FFFF&}te
+Dialogue: 1,0:00:39.91,0:00:40.75,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}escucha
+Dialogue: 1,0:00:40.75,0:00:40.89,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}y {\c&HFFFFFF&}que {\c&HFFFFFF&}las
+Dialogue: 1,0:00:40.89,0:00:41.02,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}y {\c&H00FFFF&}que {\c&HFFFFFF&}las
+Dialogue: 1,0:00:41.02,0:00:41.19,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}y {\c&HFFFFFF&}que {\c&H00FFFF&}las
+Dialogue: 1,0:00:41.19,0:00:41.54,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}cosas {\c&HFFFFFF&}solo
+Dialogue: 1,0:00:41.54,0:00:41.78,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}cosas {\c&H00FFFF&}solo
+Dialogue: 1,0:00:41.78,0:00:42.67,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}empeoran
+Dialogue: 1,0:00:42.67,0:00:42.81,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}no {\c&HFFFFFF&}es {\c&HFFFFFF&}que
+Dialogue: 1,0:00:42.81,0:00:42.92,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&H00FFFF&}es {\c&HFFFFFF&}que
+Dialogue: 1,0:00:42.92,0:00:43.06,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}no {\c&HFFFFFF&}es {\c&H00FFFF&}que
+Dialogue: 1,0:00:43.06,0:00:43.42,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}dios {\c&HFFFFFF&}no {\c&HFFFFFF&}te
+Dialogue: 1,0:00:43.42,0:00:43.57,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}dios {\c&H00FFFF&}no {\c&HFFFFFF&}te
+Dialogue: 1,0:00:43.57,0:00:43.67,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}dios {\c&HFFFFFF&}no {\c&H00FFFF&}te
+Dialogue: 1,0:00:43.67,0:00:44.35,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}escuche
+Dialogue: 1,0:00:44.35,0:00:44.51,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}es {\c&HFFFFFF&}que
+Dialogue: 1,0:00:44.51,0:00:45.04,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}es {\c&H00FFFF&}que
+Dialogue: 1,0:00:45.04,0:00:45.36,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}igual {\c&HFFFFFF&}que {\c&HFFFFFF&}yo
+Dialogue: 1,0:00:45.36,0:00:45.50,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}igual {\c&H00FFFF&}que {\c&HFFFFFF&}yo
+Dialogue: 1,0:00:45.50,0:00:46.08,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}igual {\c&HFFFFFF&}que {\c&H00FFFF&}yo
+Dialogue: 1,0:00:46.08,0:00:46.18,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}lo {\c&HFFFFFF&}estabas
+Dialogue: 1,0:00:46.18,0:00:46.54,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}lo {\c&H00FFFF&}estabas
+Dialogue: 1,0:00:46.54,0:00:46.93,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}pidiendo {\c&HFFFFFF&}de {\c&HFFFFFF&}la
+Dialogue: 1,0:00:46.93,0:00:47.02,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}pidiendo {\c&H00FFFF&}de {\c&HFFFFFF&}la
+Dialogue: 1,0:00:47.02,0:00:47.13,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}pidiendo {\c&HFFFFFF&}de {\c&H00FFFF&}la
+Dialogue: 1,0:00:47.13,0:00:47.38,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}forma {\c&HFFFFFF&}equivocada
+Dialogue: 1,0:00:47.38,0:00:48.38,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}forma {\c&H00FFFF&}equivocada
+Dialogue: 1,0:00:48.38,0:00:48.58,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}el {\c&HFFFFFF&}padre
+Dialogue: 1,0:00:48.58,0:00:48.92,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}el {\c&H00FFFF&}padre
+Dialogue: 1,0:00:48.92,0:00:49.57,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}juan méndez {\c&HFFFFFF&}me
+Dialogue: 1,0:00:49.57,0:00:49.66,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}juan méndez {\c&H00FFFF&}me
+Dialogue: 1,0:00:49.66,0:00:50.00,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}enseñó {\c&HFFFFFF&}la {\c&HFFFFFF&}forma
+Dialogue: 1,0:00:50.00,0:00:50.12,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}enseñó {\c&H00FFFF&}la {\c&HFFFFFF&}forma
+Dialogue: 1,0:00:50.12,0:00:50.39,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}enseñó {\c&HFFFFFF&}la {\c&H00FFFF&}forma
+Dialogue: 1,0:00:50.39,0:00:50.84,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}correcta {\c&HFFFFFF&}de
+Dialogue: 1,0:00:50.84,0:00:50.94,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}correcta {\c&H00FFFF&}de
+Dialogue: 1,0:00:50.94,0:00:51.30,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}pedirle {\c&HFFFFFF&}a
+Dialogue: 1,0:00:51.30,0:00:51.37,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}pedirle {\c&H00FFFF&}a
+Dialogue: 1,0:00:51.37,0:00:52.28,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}san benito
+Dialogue: 1,0:00:52.28,0:00:52.35,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}y {\c&HFFFFFF&}está {\c&HFFFFFF&}haciendo
+Dialogue: 1,0:00:52.35,0:00:52.54,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}y {\c&H00FFFF&}está {\c&HFFFFFF&}haciendo
+Dialogue: 1,0:00:52.54,0:00:52.89,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}y {\c&HFFFFFF&}está {\c&H00FFFF&}haciendo
+Dialogue: 1,0:00:52.89,0:00:52.98,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}la {\c&HFFFFFF&}oración {\c&HFFFFFF&}en vivo
+Dialogue: 1,0:00:52.98,0:00:53.34,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&H00FFFF&}oración {\c&HFFFFFF&}en vivo
+Dialogue: 1,0:00:53.34,0:00:53.85,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&HFFFFFF&}oración {\c&H00FFFF&}en vivo
+Dialogue: 1,0:00:53.85,0:00:54.14,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}ahora {\c&HFFFFFF&}mismo
+Dialogue: 1,0:00:54.14,0:00:54.73,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}ahora {\c&H00FFFF&}mismo
+Dialogue: 1,0:00:54.73,0:00:55.10,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}usted {\c&HFFFFFF&}puede {\c&HFFFFFF&}pasar
+Dialogue: 1,0:00:55.10,0:00:55.32,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}usted {\c&H00FFFF&}puede {\c&HFFFFFF&}pasar
+Dialogue: 1,0:00:55.32,0:00:55.60,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}usted {\c&HFFFFFF&}puede {\c&H00FFFF&}pasar
+Dialogue: 1,0:00:55.60,0:00:55.73,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}la {\c&HFFFFFF&}transmisión
+Dialogue: 1,0:00:55.73,0:00:56.27,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}la {\c&H00FFFF&}transmisión
+Dialogue: 1,0:00:56.27,0:00:56.48,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}para {\c&HFFFFFF&}los {\c&HFFFFFF&}que
+Dialogue: 1,0:00:56.48,0:00:56.63,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}para {\c&H00FFFF&}los {\c&HFFFFFF&}que
+Dialogue: 1,0:00:56.63,0:00:56.75,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}para {\c&HFFFFFF&}los {\c&H00FFFF&}que
+Dialogue: 1,0:00:56.75,0:00:56.92,L,,0,0,0,,{\an5\pos(360,1072)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}nos {\c&HFFFFFF&}están {\c&HFFFFFF&}viendo
+Dialogue: 1,0:00:56.92,0:00:57.22,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}nos {\c&H00FFFF&}están {\c&HFFFFFF&}viendo
+Dialogue: 1,0:00:57.22,0:00:57.75,L,,0,0,0,,{\an5\pos(360,1072)}{\c&HFFFFFF&}nos {\c&HFFFFFF&}están {\c&H00FFFF&}viendo
+Dialogue: 1,0:00:57.75,0:00:58.49,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}claro
+Dialogue: 1,0:00:58.49,0:00:58.89,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}toquen {\c&HFFFFFF&}el {\c&HFFFFFF&}botón
+Dialogue: 1,0:00:58.89,0:00:59.02,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}toquen {\c&H00FFFF&}el {\c&HFFFFFF&}botón
+Dialogue: 1,0:00:59.02,0:00:59.44,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}toquen {\c&HFFFFFF&}el {\c&H00FFFF&}botón
+Dialogue: 1,0:00:59.44,0:00:59.58,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}que {\c&HFFFFFF&}está {\c&HFFFFFF&}abajo
+Dialogue: 1,0:00:59.58,0:00:59.95,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}que {\c&H00FFFF&}está {\c&HFFFFFF&}abajo
+Dialogue: 1,0:00:59.95,0:01:00.54,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}que {\c&HFFFFFF&}está {\c&H00FFFF&}abajo
+Dialogue: 1,0:01:00.54,0:01:00.73,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}del {\c&HFFFFFF&}video {\c&HFFFFFF&}y
+Dialogue: 1,0:01:00.73,0:01:01.37,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}del {\c&H00FFFF&}video {\c&HFFFFFF&}y
+Dialogue: 1,0:01:01.37,0:01:01.65,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}del {\c&HFFFFFF&}video {\c&H00FFFF&}y
+Dialogue: 1,0:01:01.65,0:01:02.12,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}entren {\c&HFFFFFF&}ahora {\c&HFFFFFF&}a
+Dialogue: 1,0:01:02.12,0:01:02.73,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}entren {\c&H00FFFF&}ahora {\c&HFFFFFF&}a
+Dialogue: 1,0:01:02.73,0:01:02.91,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}entren {\c&HFFFFFF&}ahora {\c&H00FFFF&}a
+Dialogue: 1,0:01:02.91,0:01:03.04,L,,0,0,0,,{\an5\pos(360,840)\fscx85\fscy85\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFF&}la {\c&HFFFFFF&}oración {\c&HFFFFFF&}en vivo
+Dialogue: 1,0:01:03.04,0:01:03.76,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}la {\c&H00FFFF&}oración {\c&HFFFFFF&}en vivo
+Dialogue: 1,0:01:03.76,0:01:04.70,L,,0,0,0,,{\an5\pos(360,840)}{\c&HFFFFFF&}la {\c&HFFFFFF&}oración {\c&H00FFFF&}en vivo

@@ -1,0 +1,14 @@
+{
+ "id": "L156",
+ "quadros_heygen": 102,
+ "quadros": 102,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "indice_pausa": null,
+ "checar": "AVISO",
+ "saida_checar": "LIPSYNC: L156.mp4 (102 quadros, rosto em 100%, rosto 218,144,174,206 [único rosto])\n  boca x original: dif. boca 11.56 | dif. controle 0.30 | mudou em 100% dos quadros | corr. abertura saída x original 0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.28 (atraso 33 ms) | corr. original -\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+}

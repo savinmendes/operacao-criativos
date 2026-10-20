@@ -1,0 +1,200 @@
+{
+ "corpo_c2": [
+  {
+   "i": 0,
+   "esperado": "Si tu taladro no es percutor, en el muro se queda girando y no avanza.",
+   "ouvido": "Si  tu  taladro  no  es  percutor,  en  el  muro  se  queda  girando  y  no  avanza.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "Este DeWalt sí es percutor: giras el anillo hasta el martillo,",
+   "ouvido": "Este  DeWolf  sí  es  percutor,  giras  el  anillo  hasta  el  martillo  y",
+   "ratio": 0.87,
+   "dif": [
+    [
+     "dewalt",
+     "dewolf"
+    ],
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "esperado": "y con broca de concreto, entra en el muro sin pelear.",
+   "ouvido": "y  con  broca  de  concreto  entra  en  el  muro  sin  pelear.  El",
+   "ratio": 0.957,
+   "dif": [
+    [
+     "",
+     "el"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "esperado": "En modo taladro, pasa limpio por madera y metal.",
+   "ouvido": "El  modo  taladro  pasa  limpio  por  madera  y  metal,",
+   "ratio": 0.889,
+   "dif": [
+    [
+     "en",
+     "el"
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "esperado": "Motor sin carbones, veinte volts MAX.",
+   "ouvido": "motor  sin  carbones,  20  volts  max  y",
+   "ratio": 0.923,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "esperado": "Y trae dos baterías de dos amperes hora: con una trabajas, y la otra se va cargando.",
+   "ouvido": "y  trae  dos  baterías  de  2  amperes  hora,  con  una  trabajas  y  la  otra  se  va  cargando.  Más",
+   "ratio": 0.971,
+   "dif": [
+    [
+     "",
+     "mas"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "esperado": "Más el cargador y su maleta, todo en un solo kit.",
+   "ouvido": "Más  el  cargador  y  su  maleta  todo  en  un  solo  kit.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+   "ouvido": "Aprovecha  el  Pre  Black  Friday,  pídelo  hoy  y  paga  recién  cuando  te  llegue,  envió  a  todo  Chile.",
+   "ratio": 0.941,
+   "dif": [
+    [
+     "pagas",
+     "paga"
+    ]
+   ]
+  }
+ ],
+ "corpo_c7": [
+  {
+   "i": 0,
+   "esperado": "Con el anillo eliges entre quince posiciones de torque.",
+   "ouvido": "con  el  anillo  eliges  entre  15  posiciones  de  torque,  así",
+   "ratio": 0.947,
+   "dif": [
+    [
+     "",
+     "asi"
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "esperado": "Así el tornillo queda justo, sin pasarlo y sin dañar la madera.",
+   "ouvido": "así  el  tornillo  queda  justo  sin  pasarlo  y  sin  dañar  la  madera,  tiene",
+   "ratio": 0.96,
+   "dif": [
+    [
+     "",
+     "tiene"
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "esperado": "Tiene dos velocidades: una para atornillar y otra para perforar, hasta mil setecientas cincuenta revoluciones.",
+   "ouvido": "tiene  dos  velocidades,  una  para  atornillar  y  otra  para  perforar,  hasta  1750  revoluciones,  con",
+   "ratio": 0.968,
+   "dif": [
+    [
+     "",
+     "con"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "esperado": "Con el gatillo de velocidad variable, controlas cada vuelta.",
+   "ouvido": "el  gatillo  de  velocidad  variable  controlas  cada  vuelta,",
+   "ratio": 0.941,
+   "dif": [
+    [
+     "con",
+     ""
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "esperado": "Motor sin carbones: más eficiencia y menos mantención.",
+   "ouvido": "motor  sin  carbones,  más  eficiencia  y  menos  mantensión,",
+   "ratio": 0.875,
+   "dif": [
+    [
+     "mantencion",
+     "mantension"
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "esperado": "Y luz LED, para ver en los rincones oscuros.",
+   "ouvido": "y  luz,  le  di  para  ver  en  los  rincones  oscuros,",
+   "ratio": 0.842,
+   "dif": [
+    [
+     "led",
+     "le di"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "esperado": "Trae dos baterías con indicador de carga, cargador y maleta.",
+   "ouvido": "trae  dos  baterías  con  indicador  de  carga,  cargador  y  maleta,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+   "ouvido": "aprovecha  el  pre  black  friday  pídelo  hoy  y  pagas  recién  cuando  te  llegue  envío  a  todo  chile",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_muro": [
+  {
+   "i": 0,
+   "esperado": "¿Tu taladro no entra al muro? Mira esto.",
+   "ouvido": "Tu  taladro  no  entra  al  muro,  mira  esto.",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_anel": [
+  {
+   "i": 0,
+   "esperado": "Quince posiciones de torque: nunca más pasas un tornillo.",
+   "ouvido": "15  posiciones  de  torque  nunca  más  pasas  un  tornillo.",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ]
+}

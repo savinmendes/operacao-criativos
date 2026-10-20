@@ -1,0 +1,50 @@
+[
+ {
+  "texto": "H2OX5",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   306,
+   178,
+   456,
+   258
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "H2O X5 STEAM CLEANER",
+  "ini": 0.0,
+  "fim": 8.0,
+  "caixa": [
+   118,
+   368,
+   604,
+   400
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "208",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   121,
+   470,
+   136,
+   481
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "80:2:",
+  "ini": 3.0,
+  "fim": 5.0,
+  "caixa": [
+   122,
+   463,
+   142,
+   473
+  ],
+  "marca_ou_alerta": false
+ }
+]

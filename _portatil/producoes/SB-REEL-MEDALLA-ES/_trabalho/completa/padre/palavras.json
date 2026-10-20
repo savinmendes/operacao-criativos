@@ -1,0 +1,536 @@
+[
+ {
+  "w": "Millones",
+  "ini": 0.04,
+  "fim": 0.388,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 0.411,
+  "fim": 0.458,
+  "personagem": "padre"
+ },
+ {
+  "w": "personas",
+  "ini": 0.516,
+  "fim": 0.864,
+  "personagem": "padre"
+ },
+ {
+  "w": "llevan",
+  "ini": 0.887,
+  "fim": 1.143,
+  "personagem": "padre"
+ },
+ {
+  "w": "esta",
+  "ini": 1.201,
+  "fim": 1.386,
+  "personagem": "padre"
+ },
+ {
+  "w": "medalla...",
+  "ini": 1.433,
+  "fim": 2.06,
+  "personagem": "padre"
+ },
+ {
+  "w": "y",
+  "ini": 2.571,
+  "fim": 2.64,
+  "personagem": "padre"
+ },
+ {
+  "w": "nunca",
+  "ini": 2.756,
+  "fim": 3.058,
+  "personagem": "padre"
+ },
+ {
+  "w": "les",
+  "ini": 3.093,
+  "fim": 3.221,
+  "personagem": "padre"
+ },
+ {
+  "w": "explicaron",
+  "ini": 3.279,
+  "fim": 3.894,
+  "personagem": "padre"
+ },
+ {
+  "w": "lo",
+  "ini": 3.964,
+  "fim": 4.068,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 4.15,
+  "fim": 4.254,
+  "personagem": "padre"
+ },
+ {
+  "w": "dicen",
+  "ini": 4.324,
+  "fim": 4.788,
+  "personagem": "padre"
+ },
+ {
+  "w": "sus",
+  "ini": 4.858,
+  "fim": 5.09,
+  "personagem": "padre"
+ },
+ {
+  "w": "letras.",
+  "ini": 5.171,
+  "fim": 5.787,
+  "personagem": "padre"
+ },
+ {
+  "w": "No",
+  "ini": 6.112,
+  "fim": 6.263,
+  "personagem": "padre"
+ },
+ {
+  "w": "es",
+  "ini": 6.297,
+  "fim": 6.355,
+  "personagem": "padre"
+ },
+ {
+  "w": "falta",
+  "ini": 6.414,
+  "fim": 6.704,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 6.75,
+  "fim": 6.82,
+  "personagem": "padre"
+ },
+ {
+  "w": "fe.",
+  "ini": 6.878,
+  "fim": 7.215,
+  "personagem": "padre"
+ },
+ {
+  "w": "Es",
+  "ini": 7.54,
+  "fim": 7.702,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 7.737,
+  "fim": 7.807,
+  "personagem": "padre"
+ },
+ {
+  "w": "nadie",
+  "ini": 7.853,
+  "fim": 8.062,
+  "personagem": "padre"
+ },
+ {
+  "w": "les",
+  "ini": 8.097,
+  "fim": 8.213,
+  "personagem": "padre"
+ },
+ {
+  "w": "enseñó",
+  "ini": 8.26,
+  "fim": 8.561,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 8.596,
+  "fim": 8.654,
+  "personagem": "padre"
+ },
+ {
+  "w": "forma",
+  "ini": 8.712,
+  "fim": 8.968,
+  "personagem": "padre"
+ },
+ {
+  "w": "correcta",
+  "ini": 9.014,
+  "fim": 9.397,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 9.444,
+  "fim": 9.49,
+  "personagem": "padre"
+ },
+ {
+  "w": "rezarla.",
+  "ini": 9.56,
+  "fim": 10.233,
+  "personagem": "padre"
+ },
+ {
+  "w": "Cuando",
+  "ini": 10.666,
+  "fim": 10.968,
+  "personagem": "padre"
+ },
+ {
+  "w": "se",
+  "ini": 11.026,
+  "fim": 11.107,
+  "personagem": "padre"
+ },
+ {
+  "w": "reza",
+  "ini": 11.177,
+  "fim": 11.456,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 11.502,
+  "fim": 11.549,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 11.595,
+  "fim": 11.653,
+  "personagem": "padre"
+ },
+ {
+  "w": "forma",
+  "ini": 11.711,
+  "fim": 11.932,
+  "personagem": "padre"
+ },
+ {
+  "w": "correcta,",
+  "ini": 11.978,
+  "fim": 12.64,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 12.919,
+  "fim": 13.023,
+  "personagem": "padre"
+ },
+ {
+  "w": "casa",
+  "ini": 13.093,
+  "fim": 13.337,
+  "personagem": "padre"
+ },
+ {
+  "w": "se",
+  "ini": 13.383,
+  "fim": 13.476,
+  "personagem": "padre"
+ },
+ {
+  "w": "calma,",
+  "ini": 13.534,
+  "fim": 14.172,
+  "personagem": "padre"
+ },
+ {
+  "w": "el",
+  "ini": 14.347,
+  "fim": 14.498,
+  "personagem": "padre"
+ },
+ {
+  "w": "miedo",
+  "ini": 14.614,
+  "fim": 14.997,
+  "personagem": "padre"
+ },
+ {
+  "w": "se",
+  "ini": 15.055,
+  "fim": 15.136,
+  "personagem": "padre"
+ },
+ {
+  "w": "va...",
+  "ini": 15.183,
+  "fim": 15.612,
+  "personagem": "padre"
+ },
+ {
+  "w": "y",
+  "ini": 16.053,
+  "fim": 16.1,
+  "personagem": "padre"
+ },
+ {
+  "w": "uno",
+  "ini": 16.216,
+  "fim": 16.355,
+  "personagem": "padre"
+ },
+ {
+  "w": "vuelve",
+  "ini": 16.402,
+  "fim": 16.669,
+  "personagem": "padre"
+ },
+ {
+  "w": "a",
+  "ini": 16.703,
+  "fim": 16.727,
+  "personagem": "padre"
+ },
+ {
+  "w": "ver",
+  "ini": 16.761,
+  "fim": 16.878,
+  "personagem": "padre"
+ },
+ {
+  "w": "salidas",
+  "ini": 16.936,
+  "fim": 17.539,
+  "personagem": "padre"
+ },
+ {
+  "w": "donde",
+  "ini": 17.981,
+  "fim": 18.364,
+  "personagem": "padre"
+ },
+ {
+  "w": "antes",
+  "ini": 18.433,
+  "fim": 18.921,
+  "personagem": "padre"
+ },
+ {
+  "w": "solo",
+  "ini": 19.13,
+  "fim": 19.49,
+  "personagem": "padre"
+ },
+ {
+  "w": "veía",
+  "ini": 19.536,
+  "fim": 19.85,
+  "personagem": "padre"
+ },
+ {
+  "w": "puertas",
+  "ini": 19.908,
+  "fim": 20.326,
+  "personagem": "padre"
+ },
+ {
+  "w": "cerradas.",
+  "ini": 20.349,
+  "fim": 21.115,
+  "personagem": "padre"
+ },
+ {
+  "w": "Por",
+  "ini": 21.565,
+  "fim": 21.716,
+  "personagem": "padre"
+ },
+ {
+  "w": "eso",
+  "ini": 21.763,
+  "fim": 21.891,
+  "personagem": "padre"
+ },
+ {
+  "w": "dejé",
+  "ini": 21.937,
+  "fim": 22.111,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 22.158,
+  "fim": 22.204,
+  "personagem": "padre"
+ },
+ {
+  "w": "explicación",
+  "ini": 22.227,
+  "fim": 22.773,
+  "personagem": "padre"
+ },
+ {
+  "w": "completa,",
+  "ini": 22.831,
+  "fim": 23.562,
+  "personagem": "padre"
+ },
+ {
+  "w": "letra",
+  "ini": 23.806,
+  "fim": 24.213,
+  "personagem": "padre"
+ },
+ {
+  "w": "por",
+  "ini": 24.271,
+  "fim": 24.421,
+  "personagem": "padre"
+ },
+ {
+  "w": "letra,",
+  "ini": 24.48,
+  "fim": 24.921,
+  "personagem": "padre"
+ },
+ {
+  "w": "en",
+  "ini": 24.99,
+  "fim": 25.095,
+  "personagem": "padre"
+ },
+ {
+  "w": "una",
+  "ini": 25.153,
+  "fim": 25.257,
+  "personagem": "padre"
+ },
+ {
+  "w": "transmisión",
+  "ini": 25.292,
+  "fim": 25.908,
+  "personagem": "padre"
+ },
+ {
+  "w": "en",
+  "ini": 25.966,
+  "fim": 26.035,
+  "personagem": "padre"
+ },
+ {
+  "w": "vivo",
+  "ini": 26.093,
+  "fim": 26.488,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 26.767,
+  "fim": 26.871,
+  "personagem": "padre"
+ },
+ {
+  "w": "está",
+  "ini": 26.894,
+  "fim": 27.057,
+  "personagem": "padre"
+ },
+ {
+  "w": "abierta",
+  "ini": 27.092,
+  "fim": 27.452,
+  "personagem": "padre"
+ },
+ {
+  "w": "las",
+  "ini": 27.487,
+  "fim": 27.591,
+  "personagem": "padre"
+ },
+ {
+  "w": "24",
+  "ini": 27.614,
+  "fim": 28.148,
+  "personagem": "padre"
+ },
+ {
+  "w": "horas.",
+  "ini": 28.23,
+  "fim": 28.694,
+  "personagem": "padre"
+ },
+ {
+  "w": "Toca",
+  "ini": 29.507,
+  "fim": 30.018,
+  "personagem": "padre"
+ },
+ {
+  "w": "en",
+  "ini": 30.168,
+  "fim": 30.343,
+  "personagem": "padre"
+ },
+ {
+  "w": "<<Más",
+  "ini": 30.366,
+  "fim": 30.656,
+  "personagem": "padre"
+ },
+ {
+  "w": "información»,",
+  "ini": 30.726,
+  "fim": 31.747,
+  "personagem": "padre"
+ },
+ {
+  "w": "aquí",
+  "ini": 31.956,
+  "fim": 32.189,
+  "personagem": "padre"
+ },
+ {
+  "w": "abajo,",
+  "ini": 32.212,
+  "fim": 32.827,
+  "personagem": "padre"
+ },
+ {
+  "w": "y",
+  "ini": 33.21,
+  "fim": 33.292,
+  "personagem": "padre"
+ },
+ {
+  "w": "entra",
+  "ini": 33.408,
+  "fim": 33.675,
+  "personagem": "padre"
+ },
+ {
+  "w": "a",
+  "ini": 33.698,
+  "fim": 33.721,
+  "personagem": "padre"
+ },
+ {
+  "w": "rezar",
+  "ini": 33.802,
+  "fim": 34.151,
+  "personagem": "padre"
+ },
+ {
+  "w": "con",
+  "ini": 34.232,
+  "fim": 34.36,
+  "personagem": "padre"
+ },
+ {
+  "w": "nosotros.",
+  "ini": 34.383,
+  "fim": 35.149,
+  "personagem": "padre"
+ }
+]

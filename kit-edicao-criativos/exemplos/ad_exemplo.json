@@ -1,0 +1,13 @@
+{
+  "saida": "ads/AD 08 - DESMALEZADORA-FERNANDO-ES-CL-G-GRAMA.mp4",
+  "estilo": "drop",
+  "corpo": "corpo/fernando_es.mp4",
+  "cortar_pausas": true,
+  "hook": {"tipo": "imagem", "trechos": [["takes/DSM-CLIP-X03 TERRENO-10s.mp4", 0.5, 1.8], ["takes/DSM-CLIP-X04 ARVORES-10s.mp4", 0.9, 1.6]], "vel": 1.3},
+  "trilha": "audio/trilha.mp3",
+  "legenda": {"fonte": "transcrever", "idioma": "es", "chaves": ["árboles", "pasto", "bencina"]},
+  "manchete": {"texto": "¡DEJA EL PASTO PERFECTO! 😱", "y": 140, "ate": 4.5},
+  "selo": {"linhas": ["SIN BENCINA · 100% ELÉCTRICA", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "x": 160, "y": 1225, "desde": 5},
+  "cta": {"palavra": "pide"},
+  "limite_mb": 30
+}

@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B6\\B6.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 4.933333333333334,
+  "fala_s": 4.27,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 4.933333333333334
+   }
+  ],
+  "ganho_db": 3.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\B6 - ORILLA-VALIO-LA-PENA-ES-CL.mp4"
+}

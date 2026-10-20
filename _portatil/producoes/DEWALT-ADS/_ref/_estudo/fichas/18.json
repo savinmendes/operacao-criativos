@@ -1,0 +1,71 @@
+{
+  "ad": "18",
+  "arquivo": "18 AD.mp4",
+  "folha": "_estudo/folhas/18.jpg",
+  "idioma": "es (Peru, informal: 'papi', 'hermano')",
+  "origem": {
+    "perfil": "@tecnologiatools / iTools Perú (TikTok)",
+    "tipo": "loja (Los Olivos, Lima)"
+  },
+  "resolucao": "1080x1920 (acima de 720p; o único do lote em alta)",
+  "duracao_s": 110.2,
+  "cortes": {
+    "n": 9,
+    "ritmo": "planos longos de 6-22 s com câmera na mão em movimento contínuo"
+  },
+  "formato": "oferta/kit (unboxing do combo na bancada) com narração entusiasmada + preço no fim",
+  "gancho": {
+    "visual": "0-3 s: mão tira um pano de cima da caixa do kit DCK223D2 (taladro + atornillador de impacto), caixa amarela grande",
+    "fala_ou_texto": "Fala: 'Este combito prácticamente es uno de los más vendidos en DeWalt y lo mejor, papi, es que te vienen dos equipos...'"
+  },
+  "estrutura": [
+    {
+      "t": "0-8.5",
+      "bloco": "revela o kit (2 ferramentas)"
+    },
+    {
+      "t": "8.5-31",
+      "bloco": "bônus: 32 peças MaxFit + adaptador de ângulo reto"
+    },
+    {
+      "t": "31-43",
+      "bloco": "bolso de lona + 2 baterias 2Ah + carregador"
+    },
+    {
+      "t": "43-64",
+      "bloco": "taladro: 15 níveis de torque, perfuração e percussão, brushless"
+    },
+    {
+      "t": "64-85",
+      "bloco": "atornillador de impacto: 3 velocidades, 3 LEDs"
+    },
+    {
+      "t": "85-97",
+      "bloco": "preço S/999.90 na tela + escassez 'stock limitado'"
+    },
+    {
+      "t": "97-110",
+      "bloco": "loja física + envíos a todo el Perú + apresentador aparece"
+    }
+  ],
+  "cta": "'999,90 este tremendo combo... tenemos stock limitado... enviamos a todo el Perú... tienda virtual itools.pe'",
+  "texto_tela": "'S/999.90' (preço grande vermelho) e no fim 'iTools.pe' + telefone",
+  "produto": {
+    "mostrado": "Kit DeWalt DCK223D2 (taladro percutor + atornillador de impacto, 2 baterias 2.0Ah, carregador, bolso). O código do kit é legível na caixa; os modelos de cada ferramenta não são legíveis com certeza",
+    "e_o_nosso": "não exatamente (é um combo de 2 ferramentas), mas muito próximo: mesma linha 20V MAX compacta, 2 baterias 2.0Ah + carregador"
+  },
+  "rosto": {
+    "sim": true,
+    "tempo_s": "~5 s no fim (apresentador da iTools)"
+  },
+  "marca_dagua": "iTools.pe + telefone no plano final",
+  "audio": "voz masculina es-PE bem informal, sem música evidente",
+  "uso": [
+    "traduzir/adaptar (estrutura de oferta: 'te vienen... y además te incluye... baterías + cargador + maleta' + preço + escassez)",
+    "banco de takes (planos de bancada com caixa, baterias 2Ah, carregador e taladro 20V compacto, sem rosto até ~105 s; 1080p)"
+  ],
+  "nota": {
+    "valor": 4,
+    "justificativa": "O formato 'tudo o que vem no kit' é exatamente o argumento da nossa oferta (taladro + 2 baterias 2.0Ah + carregador + maleta); a fala é fácil de reescrever em ES-CL e há takes 1080p sem rosto. Contras: o kit é outro (2 ferramentas, bolso de lona, acessórios MaxFit), o preço é peruano e a loja aparece no fim (cortar)."
+  }
+}

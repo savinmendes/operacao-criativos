@@ -1,0 +1,9 @@
+VIDEO 04 → SB ES «La oración escondida» (19/10/2026)
+Entrega: ..\ENTREGA\SB-ES_VIDEO04_ORACION-ESCONDIDA.mp4 (85,3 s, 720x1280, 30 fps, 27,8 MB, -14,9 LUFS, cor bt601/tv fixa com etiqueta smpte170m)
+Remontar sem pagar: python voz.py (voz.wav + tempos.json) -> python montar.py -> encode 2 passadas 2600k (comando no histórico) -> revisar_ad.py
+Voz: tts/L01..L13 (clone BskzYZ6zvapoZ3mBu93C, multilingual_v2, stab 0.30, style 0.55, speed 1.05)
+Avatar: avatar/A.mp4 (L1-L7) + B.mp4 (L8-L13), HeyGen Avatar IV 720p a partir de avatar/jm_serio.png (jm_b.png com expressão séria, gpt-image-2.5-sunburst). Troca A→B escondida no glitch do ¡Alto!.
+  1ª tentativa (A_v1_sorrindo/B_v1_sorrindo, retrato jm_b sorrindo) reprovada: sorriso com dentes. Jobs em avatar/jobs.txt.
+B-roll: broll/gen_pergaminho.mp4 + gen_corrente.mp4 (gpt-image-2.5-sunburst + kling-2.5-turbo, flow ElevenLabs ej1kJr75nMDkLYCffqg9);
+  broll/orig/* (original, legenda queimada removida com LaMa: lama_orig.py); banco SB-BANCO-BROLL (lista em montar.py); wa/wa1-3.png (prints gerados, nomes inventados, sem telefone).
+Trilha: musica/tensao.mp3 (até o ¡Alto!) + esperanca.mp3 (depois), ElevenLabs /v1/music, -32 LUFS.

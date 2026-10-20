@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "2026101005440059DE410E5A6BD0A52E9B"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "20261010054402FC7E59744AD403404E31"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "20261010054404F6EE7BD1670ACE418EEC"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "20261010054408F473791A3152D7977547"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "20261010054414796424C01973C55481F0"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "202610100544163677EE190447F871E58F"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "202610100544181DC84E430E74F13AFB10"
+  }
+ },
+ {
+  "url": "https://ads.tiktok.com/creative_radar_api/v1/user/info",
+  "status": 200,
+  "body": {
+   "code": 40000,
+   "msg": "invalid user",
+   "request_id": "20261010054422F473791A3152D7977AB7"
+  }
+ }
+]

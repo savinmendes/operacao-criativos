@@ -1,0 +1,8 @@
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad21\curto\parte2.mp4 20.75s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 21 CURTO - LYMPHORIA-EX-TARGET-ES-LATAM.mp4
+duração : 79.20s | 720x1280 | áudio: sim | 24.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 21 CURTO - LYMPHORIA-EX-TARGET-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 75.69s
+montagem rápida: 14s para 79s de vídeo (0.18x)

@@ -1,0 +1,53 @@
+REVISÃO: 09_SB-FR_FERIA_COMPLETA.mp4
+duração 66.00s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 59.0 MB
+decodificação: OK
+pts do áudio: 3094 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 21 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\feria\revisao\09_SB-FR_FERIA_COMPLETA_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  6.50 J'ai prié derrière mon étal plein de fruits, sans un seul client, et voilà ce qui s'est passé.
+   6.50- 11.50 Au glorieux Saint Benoît, enlève ce qui a fermé mon chemin.
+  14.00- 17.50 Mon étal était plein et personne ne s'approchait.
+  17.50- 22.50 Je voyais les voisines tout vendre, et moi je rentrais avec mes fruits perdus.
+  22.50- 25.50 J'avais l'impression qu'on m'avait jeté le mauvais œil.
+  25.50- 31.40 Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de Saint Benoît.
+  31.40- 37.84 Des millions de personnes portent cette médaille, et personne ne leur a jamais expliqué ce que disent ces lettres.
+  37.84- 42.66 Ce n'est pas un manque de foi, c'est que personne ne leur a appris la bonne façon de la prier.
+  42.66- 47.28 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va,
+  47.28- 52.28 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  52.28- 56.56 C'est pour ça que j'ai laissé l'explication complète, lettre par lettre,
+  56.56- 60.92 dans une transmission en direct ouverte 24h sur 24.
+  60.92- 65.88 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  4.62    Llegó detrás de mi tal, mucha fría, sin un único cliente.
+   4.62-  6.62    Y ahí es lo que pasó.
+   6.62-  8.62    ¡Oh glorioso sábano!
+   8.62- 11.62    Llegó lo que cerró mi camino.
+  14.12- 17.80    Mi tal estaba plena y nadie se aproximó.
+  17.80- 22.42    Veía a las vecinas todo vendiendo y yo renté con mis fríes perdidos.
+  22.42- 25.42    Me pareció que me hubiera echado los malos ojos.
+  25.42- 31.42    Hasta el día en el que un prédio me explicó algo que nadie me había dicho sobre la medalla de San Benoît.
+  31.42- 33.92    Millones de personas portan esta medalla,
+  33.92- 37.92    y nadie les ha explicado nada de lo que dicen estas letras.
+  37.92- 39.42    No es una manca de veces.
+  39.42- 42.72    Es que nadie les ha aprendido la buena manera de pregarla.
+  42.72- 47.32    Cuando la preguen de la buena manera, la casa se arrasa, la miedo se va,
+  47.32- 52.32    y comencemos a ver más asociados ahí donde no se veen las puertas cerradas.
+  52.32- 55.02    Es por eso que me dejé la explicación completa,
+  55.02- 56.58    letra por letra,
+  56.58- 60.96    en una transmisión en directo, abierta, 24 horas sobre 24.
+  60.96- 63.26    Apuye en saber más,
+  63.26- 64.34    justo debajo,
+  64.34- 65.84    y vien prie con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

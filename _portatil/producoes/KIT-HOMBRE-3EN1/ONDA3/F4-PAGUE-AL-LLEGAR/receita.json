@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F4-PAGUE-AL-LLEGAR/PERFUMES-CL_F4_PAGUE-AL-LLEGAR.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F4-PAGUE-AL-LLEGAR/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F4-PAGUE-AL-LLEGAR/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F4-PAGUE-AL-LLEGAR/corpo.alinhamento.json", "y": 1280, "chaves": ["internet", "llega", "casa", "Armaf", "Asad", "9PM", "pagué", "árabes", "uno", "recomienda", "horas", "Pídelo"]},
+  "manchete": {"texto": "NO CONFIABA… 🤨", "y": 1500, "ate": 6.0},
+  "cta": {"palavra": "pídelo", "y": 1560},
+  "resolucao": "720",
+  "limite_mb": 30
+}

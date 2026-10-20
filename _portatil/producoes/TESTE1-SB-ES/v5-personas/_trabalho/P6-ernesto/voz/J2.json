@@ -1,0 +1,183 @@
+{
+"dur": 10.888,
+"frases": [
+"E3",
+"E4"
+],
+"palavras": [
+{
+"w": "Un",
+"ini": 0.035,
+"fim": 0.151,
+"frase": "E3"
+},
+{
+"w": "compañero",
+"ini": 0.209,
+"fim": 0.789,
+"frase": "E3"
+},
+{
+"w": "me",
+"ini": 0.848,
+"fim": 0.929,
+"frase": "E3"
+},
+{
+"w": "mandó",
+"ini": 0.975,
+"fim": 1.265,
+"frase": "E3"
+},
+{
+"w": "la",
+"ini": 1.324,
+"fim": 1.405,
+"frase": "E3"
+},
+{
+"w": "transmisión",
+"ini": 1.463,
+"fim": 2.125,
+"frase": "E3"
+},
+{
+"w": "del",
+"ini": 2.183,
+"fim": 2.31,
+"frase": "E3"
+},
+{
+"w": "padre",
+"ini": 2.38,
+"fim": 2.763,
+"frase": "E3"
+},
+{
+"w": "Juan",
+"ini": 2.81,
+"fim": 3.019,
+"frase": "E3"
+},
+{
+"w": "Méndez.",
+"ini": 3.088,
+"fim": 3.692,
+"frase": "E3"
+},
+{
+"w": "La",
+"ini": 3.942,
+"fim": 4.081,
+"frase": "E3"
+},
+{
+"w": "hice",
+"ini": 4.116,
+"fim": 4.36,
+"frase": "E3"
+},
+{
+"w": "esa",
+"ini": 4.418,
+"fim": 4.615,
+"frase": "E3"
+},
+{
+"w": "misma",
+"ini": 4.662,
+"fim": 4.917,
+"frase": "E3"
+},
+{
+"w": "noche,",
+"ini": 4.963,
+"fim": 5.521,
+"frase": "E3"
+},
+{
+"w": "como",
+"ini": 5.771,
+"fim": 6.026,
+"frase": "E3"
+},
+{
+"w": "él",
+"ini": 6.061,
+"fim": 6.13,
+"frase": "E3"
+},
+{
+"w": "enseña.",
+"ini": 6.189,
+"fim": 6.723,
+"frase": "E3"
+},
+{
+"w": "Al",
+"ini": 7.228,
+"fim": 7.356,
+"frase": "E4"
+},
+{
+"w": "otro",
+"ini": 7.425,
+"fim": 7.611,
+"frase": "E4"
+},
+{
+"w": "día,",
+"ini": 7.669,
+"fim": 8.018,
+"frase": "E4"
+},
+{
+"w": "el",
+"ini": 8.076,
+"fim": 8.18,
+"frase": "E4"
+},
+{
+"w": "dueño",
+"ini": 8.238,
+"fim": 8.517,
+"frase": "E4"
+},
+{
+"w": "me",
+"ini": 8.563,
+"fim": 8.644,
+"frase": "E4"
+},
+{
+"w": "llamó",
+"ini": 8.668,
+"fim": 8.993,
+"frase": "E4"
+},
+{
+"w": "para",
+"ini": 9.062,
+"fim": 9.248,
+"frase": "E4"
+},
+{
+"w": "ofrecerme",
+"ini": 9.283,
+"fim": 9.864,
+"frase": "E4"
+},
+{
+"w": "ser",
+"ini": 9.91,
+"fim": 10.049,
+"frase": "E4"
+},
+{
+"w": "encargado.",
+"ini": 10.107,
+"fim": 10.688,
+"frase": "E4"
+}
+]
+}

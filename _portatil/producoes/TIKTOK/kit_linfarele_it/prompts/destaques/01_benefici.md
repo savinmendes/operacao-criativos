@@ -1,0 +1,1 @@
+Icone de gotas e natureza, paleta de cores da marca

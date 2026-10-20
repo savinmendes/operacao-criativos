@@ -1,0 +1,35 @@
+REVISÃO: AD-A_yara-kit3_bf_es-cl_trend-bbywow.mp4
+duração 50.90s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.3 MB
+decodificação: OK
+pts do áudio: 2387 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 14 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 641-693, x 544-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\_revisao_A\AD-A_yara-kit3_bf_es-cl_trend-bbywow_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.28 LICUIDACIÓN TOTAL POR BLACK FRIDAY
+   2.28-  5.76 Llévate los 3 ya ya muy por debajo del precio del mercado.
+   5.76-  9.56 Hoy pagas 2 y el tercero te lo llevas completamente gratis.
+   9.56- 11.24 Este es Yara.
+  11.24- 14.48 Dulce, cremoso y muy femenino.
+  14.48- 17.52 Orquia, mandarina y un fondo de vainilla.
+  17.52- 18.92 Perfecto para el día a día.
+  18.92- 20.28 Yara muy yo.
+  20.28- 23.52 Floral, luminoso y elegante.
+  23.52- 27.24 Jasmini Durasno con un fondo cálido de ámbar y caramelo.
+  27.24- 28.48 Ideal para una cita.
+  28.48- 32.32 Yara el íxid, el más intenso de los tres.
+  32.32- 36.44 Frutita, grosilla negra, caramelo y vainilla.
+  36.44- 39.92 Para la noche, cuando quieres que se note que llegaste.
+  39.92- 43.12 Tres aromas, uno para cada momento.
+  43.12- 45.36 Pagas dos y te llevas los tres.
+  45.36- 48.72 Pagas al recibir y el envío es gratis.
+  48.72- 50.84 Pied el puyo antes que se acabe.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

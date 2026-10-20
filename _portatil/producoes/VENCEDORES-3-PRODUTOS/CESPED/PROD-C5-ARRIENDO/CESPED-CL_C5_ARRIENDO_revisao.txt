@@ -1,0 +1,28 @@
+REVISÃO: CESPED-CL_C5_ARRIENDO.mp4
+duração 37.95s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.6 MB
+decodificação: OK
+pts do áudio: 1780 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1005-1070, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C5-ARRIENDO\CESPED-CL_C5_ARRIENDO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  3.00 Señora, con ese pasto nadie la va a arrendar.
+   3.00-  8.00 Tres meses con la casa vacía y yo pensando que era el precio.
+   8.00- 10.00 Hasta que probé ésta.
+  13.00- 17.00 Es corta pasto, orilladora y bordeadora en uno.
+  17.00- 20.00 Tiene ruedas, así que la usas con una sola mano.
+  20.00- 22.00 Cuchilla de metal reforzada.
+  22.00- 24.00 Olvídate de los cilos que se cortan.
+  24.00- 27.00 Y es inalámbrica, con dos baterías.
+  27.00- 35.20 Arrendada en una semana, despacho gratis a todo Chile, pagas al recibir y tienes 90 días
+  35.20- 36.20 de garantía.
+  36.20- 37.56 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

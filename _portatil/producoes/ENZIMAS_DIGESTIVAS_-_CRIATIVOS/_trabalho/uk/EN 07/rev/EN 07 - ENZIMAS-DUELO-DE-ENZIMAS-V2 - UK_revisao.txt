@@ -1,0 +1,64 @@
+REVISÃO: EN 07 - ENZIMAS-DUELO-DE-ENZIMAS-V2 - UK.mp4
+duração 90.63s | 720x1280 | 30/1 fps | áudio: sim | 27.3 MB
+decodificação: OK
+pts do áudio: 3904 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 651-899, x 64-607 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ENZIMAS DIGESTIVAS - CRIATIVOS\_trabalho\uk\EN 07\rev\EN 07 - ENZIMAS-DUELO-DE-ENZIMAS-V2 - UK_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  3.24 I have a high quality digestive enzyme.
+   3.24-  6.84 And I think I have a high quality digestive enzyme.
+   6.84-  9.12 Mine was developed by doctors.
+   9.12- 11.40 Well, mine was developed by an influencer.
+  11.40- 14.48 Mine has added prebiotics and probiotics
+  14.48- 16.88 for your overall gut health.
+  16.88- 18.72 Mine doesn't have any of that.
+  18.72- 20.28 What are you supposed to do again?
+  20.28- 22.20 So the food we eat is super processed
+  22.20- 24.24 and just like really hard to digest.
+  24.24- 26.60 So these just help break down all of that food,
+  26.60- 28.52 which is why you're looking like six months pregnant
+  28.52- 30.36 after eating, that totally used to be me.
+  30.36- 32.44 Do you remember I used to like bloat so bad
+  32.44- 33.28 after anything I ate?
+  33.28- 35.44 Yes, yeah, you would get huge.
+  35.44- 38.24 Yeah, so now I can eat literally whatever,
+  38.24- 39.60 take a digestive enzyme with it,
+  39.60- 41.16 and I know it's gonna like break it down.
+  41.16- 43.52 Oh, wait, we don't just eat pudding.
+  43.52- 45.64 Yeah, people have used my digestive enzyme
+  45.64- 47.68 on pizza, pasta, burgers,
+  47.68- 49.60 and it's literally broken all of it down.
+  49.60- 51.80 Oh, wow, yeah, nobody's done that with mine.
+  51.80- 54.04 Mine has completely broken down this pudding already,
+  54.04- 54.88 by the way.
+  54.88- 55.72 Wait, what?
+  55.72- 56.80 Yeah. Are you serious?
+  56.80- 58.80 My gosh
+  59.48- 62.76 Wait, but it's not gonna give me diarrhea. No, it doesn't give you diarrhea
+  62.76- 67.56 It just helps like digest your food. So you're looking like snacks. Do you know what I'm saying? Okay? Yeah
+  67.56- 70.24 Wait, what brand are you using? This is the one my position choice
+  70.24- 75.92 This is the one literally all the girls are using to eat whatever and stay like smashed flat in their bikinis
+  76.12- 79.40 It clearly it works. Look at that. That's what it's supposed to do
+  79.40- 83.32 You're literally nothing, yours doesn't work.
+  83.32- 85.20 So if you guys are taking digestive enzymes,
+  85.20- 86.88 make sure you get a good one,
+  86.88- 88.62 a high quality one that actually works.
+  88.62- 90.92 I will link where I get these in this video.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: ls_A.mp4 (124 quadros, rosto em 100%, rosto 176,374,274,332 [único rosto])
+  boca x original: dif. boca 13.12 | dif. controle 0.99 | mudou em 100% dos quadros | corr. abertura saída x original 0.23
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.27 (atraso 0 ms) | corr. original -0.18
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.27 (original -0.18); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+
+=== RESULTADO ===
+aviso: lipsync ls_A.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.27 (original -0.18); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

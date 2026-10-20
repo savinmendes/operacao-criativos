@@ -1,0 +1,295 @@
+{
+ "url": "https://www.sephora.com.mx/search?q=perfume",
+ "title": "perfume | Sephora",
+ "cardsFound": 52,
+ "firstCardRect": {
+  "x": 19,
+  "y": 423,
+  "w": 169,
+  "h": 454
+ },
+ "firstImgRect": {
+  "x": 30,
+  "y": 469,
+  "w": 147,
+  "h": 147
+ },
+ "columns": 2,
+ "cardRects": [
+  {
+   "x": 19,
+   "y": 423,
+   "w": 169,
+   "h": 454
+  },
+  {
+   "x": 203,
+   "y": 423,
+   "w": 169,
+   "h": 506
+  },
+  {
+   "x": 19,
+   "y": 953,
+   "w": 169,
+   "h": 454
+  },
+  {
+   "x": 203,
+   "y": 953,
+   "w": 169,
+   "h": 454
+  },
+  {
+   "x": 19,
+   "y": 1431,
+   "w": 169,
+   "h": 454
+  },
+  {
+   "x": 203,
+   "y": 1431,
+   "w": 169,
+   "h": 506
+  },
+  {
+   "x": 19,
+   "y": 1960,
+   "w": 169,
+   "h": 506
+  },
+  {
+   "x": 203,
+   "y": 1960,
+   "w": 169,
+   "h": 506
+  }
+ ],
+ "colGap": 15,
+ "rowGap": 76,
+ "sidePaddingLeft": 19,
+ "sidePaddingRight": 43,
+ "cardTexts": [
+  {
+   "tag": "SPAN",
+   "text": "NUEVO",
+   "fs": "9px",
+   "fw": "700",
+   "ff": "Futura, Helvetica, Arial",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(0, 0, 0)",
+   "tt": "uppercase",
+   "td": "none",
+   "ta": "center",
+   "lh": "13px",
+   "clamp": "none",
+   "h": 18,
+   "w": 46,
+   "relY": 1
+  },
+  {
+   "tag": "SPAN",
+   "text": "Ver más",
+   "fs": "16px",
+   "fw": "700",
+   "ff": "Overpass, Helvetica, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(204, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "center",
+   "lh": "19.2px",
+   "clamp": "none",
+   "h": 38,
+   "w": 147,
+   "relY": 144
+  },
+  {
+   "tag": "A",
+   "text": "LE MONDE GOURMAND",
+   "fs": "14px",
+   "fw": "700",
+   "ff": "Overpass, Helvetica, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "uppercase",
+   "td": "none",
+   "ta": "left",
+   "lh": "normal",
+   "clamp": "2",
+   "h": 38,
+   "w": 147,
+   "relY": 235
+  },
+  {
+   "tag": "A",
+   "text": "FRUIT DU DRAGON HAIR & BODY PERFUME MIST",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Overpass, Helvetica, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "lowercase",
+   "td": "none",
+   "ta": "left",
+   "lh": "18px",
+   "clamp": "3",
+   "h": 36,
+   "w": 137,
+   "relY": 274
+  },
+  {
+   "tag": "DIV",
+   "text": "$  780.00",
+   "fs": "24px",
+   "fw": "700",
+   "ff": "Poppins, Helvetica, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "24px",
+   "clamp": "none",
+   "h": 24,
+   "w": 147,
+   "relY": 396
+  }
+ ],
+ "cardButtons": [],
+ "ratingPresent": false,
+ "h1": {
+  "text": "",
+  "ff": "Poppins, Helvetica, sans-serif",
+  "fs": "20px",
+  "fw": "700",
+  "tt": "none",
+  "x": 0,
+  "y": 0,
+  "w": 0,
+  "h": 0
+ },
+ "bodyFont": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+ "bodyFs": "14px",
+ "h2Font": "Overpass, Helvetica, sans-serif",
+ "header": {
+  "x": 0,
+  "y": 0,
+  "w": 390,
+  "h": 249,
+  "position": "static"
+ },
+ "chipRows": [
+  {
+   "x": 0,
+   "y": 249,
+   "w": 390,
+   "h": 34,
+   "sample": "MAQUILLAJE SKINCARE FRAGANCIAS CABELLO MARCAS",
+   "chipH": 34,
+   "chipFs": "14px",
+   "chipRadius": "0px",
+   "chipBg": "rgba(0, 0, 0, 0)",
+   "chipBorder": "0px none rgb(32, 32, 32)"
+  }
+ ],
+ "filterControls": [
+  {
+   "text": "Filtros",
+   "tag": "DIV",
+   "x": -12,
+   "y": 851,
+   "w": 208,
+   "h": 48,
+   "fs": "16px"
+  }
+ ],
+ "productCount": [
+  {
+   "text": "Total de\n137\nproductos",
+   "x": 107,
+   "y": 361,
+   "w": 176,
+   "h": 30,
+   "fs": "14px"
+  },
+  {
+   "text": "52 Productos de 137\n\nVER MÁS",
+   "x": 19,
+   "y": 14046,
+   "w": 352,
+   "h": 125,
+   "fs": "14px"
+  }
+ ],
+ "longTexts": [
+  {
+   "len": 345,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n Para disfrutar de una mejor experiencia dentro nuestro sitio Sephora.com.mx",
+   "hidden": true
+  },
+  {
+   "len": 325,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "\n Para disfrutar de una mejor experiencia dentro nuestro sitio Sephora.com.mx, recomendamo",
+   "hidden": true
+  },
+  {
+   "len": 323,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": " Para disfrutar de una mejor experiencia dentro nuestro sitio Sephora.com.mx, recomendamos",
+   "hidden": true
+  },
+  {
+   "len": 429,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+   "hidden": true
+  }
+ ],
+ "docHeight": 15343,
+ "stickyAtTop": [
+  {
+   "tag": "DIV",
+   "cls": "constructor-search-results--header__sort",
+   "pos": "fixed",
+   "top": 851,
+   "h": 48,
+   "text": "Más relevante Menor precio Mayor precio Nuevo Mayor descuento Filtros"
+  }
+ ],
+ "stickyAfterScroll1500": [
+  {
+   "tag": "DIV",
+   "cls": "row mobile-header hide-for-large true fixed",
+   "pos": "fixed",
+   "top": 0,
+   "h": 144,
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "constructor-search-results--header__sort",
+   "pos": "fixed",
+   "top": 851,
+   "h": 48,
+   "text": "Más relevante Menor precio Mayor precio Nuevo Mayor descuento Filtros"
+  }
+ ],
+ "site": "sephora",
+ "headless": false,
+ "viewport": "390x844 @2x"
+}

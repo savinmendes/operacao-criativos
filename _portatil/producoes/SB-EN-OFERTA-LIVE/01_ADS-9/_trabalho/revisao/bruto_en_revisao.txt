@@ -1,0 +1,130 @@
+REVISÃO: bruto_en.mp4
+duração 102.87s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 37.4 MB
+decodificação: OK
+pts do áudio: 4823 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 3 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1206-1276, x 2-718 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/3s): C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\01_ADS-9\_trabalho\revisao\bruto_en_revisao.jpg
+idioma detectado: en (0.97)
+
+=== transcrição (en) ===
+   0.00-  4.50 My child, you've been ignoring me for so long and it has broken my heart.
+   4.50-  9.50 I've sent you signs in your dreams, in your intuitions and in your feelings.
+   9.50- 16.00 I've also sent you messages, opportunities and even encounters that seemed like simple coincidences.
+  16.00- 19.50 But so often you choose not to see them.
+  19.50- 22.50 And yet I have not given up on you.
+  22.50- 29.00 Today I'm sending you one more sign through this video and deep down you know it.
+  29.00- 32.70 Because even before you opened this video something inside you was already warning you
+  33.70- 37.54 But listen carefully because this may be the last sign you receive this way
+  39.30- 45.56 That's why before this video ends I must show you something that can protect your spiritual life and open paths that were blocked
+  48.18- 53.88 Something that stayed hidden for a very long time passed down through a prayer that very few have learned to use correctly
+  56.00- 58.00 Something not everyone is ready to receive
+  59.00- 63.00 But you, you are here, and that has a purpose.
+  63.00- 65.00 If you've made it to this moment,
+  65.00- 68.50 it's because there is something you need to understand.
+  68.50- 74.20 And what you're about to see can change the way everything begins to move in your life.
+  74.20- 75.80 So don't let yourself be distracted.
+  75.80- 82.00 Stay with me a moment longer and pay close attention to what I'm about to reveal to you now.
+  82.00- 85.00 Tap Learn More Below and join this special live prayer
+  85.00- 87.00 where something is revealed to only a few.
+  89.80- 93.64 Don't put this off because this moment will not come again in the same way.
+  94.68-102.68 Tap now and discover what has been prepared for you.
+
+=== termos proibidos ===
+[vidéo] 22.5s: Today I'm sending you one more sign through this video and deep down you know it.
+[vidéo] 29.0s: Because even before you opened this video something inside you was already warning you
+[vidéo] 39.3s: That's why before this video ends I must show you something that can protect your spiritual life and open paths that were blocked
+
+=== transcrição residual (fr) ===
+   0.00-  4.60    Mon enfant, tu m'as ignoré depuis longtemps et m'a cassé mon coeur.
+   4.60-  9.80    Je t'ai envoyé des signes dans tes rêves, dans tes intuitions et dans tes ressources.
+   9.80- 16.40    Je t'ai aussi envoyé des messages, des opportunités et même des rencontres qui ont semblé que des coincidences simples.
+  16.40- 19.70    Mais souvent, tu n'aimes pas à les voir.
+  19.70- 22.80    Et pourtant, je n'ai pas été donné sur toi.
+  22.80- 29.20    Aujourd'hui, je t'ai envoyé un autre signe dans cette vidéo et en bas, tu le sais.
+  29.20- 34.00    Parce que même avant d'ouvrir cette vidéo, quelque chose d'au-delà de vous avait déjà voulu.
+  34.00- 39.50    Mais écoute-le bien, parce que ça peut être le dernier signe que vous recevez de cette façon.
+  39.50- 44.00    C'est pourquoi, avant cette vidéo finit, je dois vous montrer quelque chose qui peut protéger votre vie spirituelle,
+  44.00- 48.20 !! et ouvrir les pièces qui étaient bloquées.
+  48.20- 50.50    Quelque chose qui s'est gardée dans un temps très long,
+  50.50- 56.00    passée par un rêve que très peu ont appris à utiliser correctement.
+  56.00- 59.00    C'est quelque chose que pas tout le monde est prêt à recevoir.
+  59.00- 61.30    Mais vous, vous êtes ici,
+  61.30- 63.10    et cela a une purpose.
+  63.10- 65.10    Si vous avez fait cela à ce moment,
+  65.10- 68.60    c'est parce qu'il y a quelque chose que vous avez besoin d'understand.
+  68.60- 69.80    Et ce que vous êtes en train de voir,
+  69.80- 74.30    peut changer la façon dont tout le monde commence à bouger dans votre vie.
+  74.30- 75.90    Donc ne vous laissez pas être destructifs.
+  75.90- 77.10    Reste avec moi un moment plus long
+  77.10- 82.00    et payez attention à ce que je suis en train de vous réveiller maintenant.
+  82.00- 87.00    Abonnez-vous à plus de la vidéo et abonnez-vous à cette spéciale paix où quelque chose a été réveillé jusqu'à seulement un peu.
+  90.00- 94.00    Ne l'abandonnez pas parce que ce moment ne va pas venir de la même manière.
+  95.00- 98.00    Abonnez-vous et découvrez ce qui a été préparé pour vous.
+
+=== lipsync ===
+LIPSYNC: ls_00.mp4 (216 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 8.29 | dif. controle 1.14 | mudou em 97% dos quadros | corr. abertura saída x original 0.02
+  pausas da voz nova: índice de pausa 0.52 (44 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.34 (atraso 33 ms) | corr. original 0.29
+APROVADO: boca mudou em 97% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.52)
+LIPSYNC: ls_01.mp4 (294 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.48 | dif. controle 0.86 | mudou em 100% dos quadros | corr. abertura saída x original -0.04
+  pausas da voz nova: índice de pausa 0.26 (78 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.56 (atraso 67 ms) | corr. original 0.34
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.26)
+LIPSYNC: ls_02.mp4 (291 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.55 | dif. controle 0.86 | mudou em 100% dos quadros | corr. abertura saída x original -0.03
+  pausas da voz nova: índice de pausa 0.23 (112 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.64 (atraso 33 ms) | corr. original 0.23
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.23)
+LIPSYNC: ls_03.mp4 (306 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.30 | dif. controle 0.93 | mudou em 100% dos quadros | corr. abertura saída x original -0.01
+  pausas da voz nova: índice de pausa 0.10 (88 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.59 (atraso -33 ms) | corr. original 0.24
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.10)
+LIPSYNC: ls_04.mp4 (261 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.91 | dif. controle 0.87 | mudou em 100% dos quadros | corr. abertura saída x original -0.01
+  pausas da voz nova: índice de pausa 0.12 (71 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.52 (atraso 33 ms) | corr. original 0.20
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.12)
+LIPSYNC: ls_05.mp4 (324 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.35 | dif. controle 0.85 | mudou em 100% dos quadros | corr. abertura saída x original -0.01
+  pausas da voz nova: índice de pausa 0.32 (85 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.54 (atraso -33 ms) | corr. original 0.17
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.32)
+LIPSYNC: ls_06.mp4 (288 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.48 | dif. controle 0.87 | mudou em 100% dos quadros | corr. abertura saída x original 0.13
+  pausas da voz nova: índice de pausa 0.35 (90 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.51 (atraso 33 ms) | corr. original 0.39
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.35)
+LIPSYNC: ls_07.mp4 (171 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 12.24 | dif. controle 0.94 | mudou em 99% dos quadros | corr. abertura saída x original 0.02
+  pausas da voz nova: índice de pausa 0.10 (40 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.58 (atraso 67 ms) | corr. original 0.39
+APROVADO: boca mudou em 99% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.10)
+LIPSYNC: ls_08.mp4 (228 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.62 | dif. controle 0.96 | mudou em 100% dos quadros | corr. abertura saída x original 0.25
+  pausas da voz nova: índice de pausa 0.26 (58 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.55 (atraso 0 ms) | corr. original 0.19
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.26)
+LIPSYNC: ls_09.mp4 (237 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 12.65 | dif. controle 0.87 | mudou em 100% dos quadros | corr. abertura saída x original -0.03
+  pausas da voz nova: índice de pausa 0.12 (83 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.59 (atraso 33 ms) | corr. original 0.04
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.12)
+LIPSYNC: ls_10.mp4 (245 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.60 | dif. controle 0.83 | mudou em 100% dos quadros | corr. abertura saída x original -0.14
+  pausas da voz nova: índice de pausa 0.13 (50 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.54 (atraso 0 ms) | corr. original 0.17
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.13)
+índice de pausa do conjunto (11 trechos): 0.23 -> APROVADO
+
+=== RESULTADO ===
+PROBLEMA: termo proibido 'vidéo' em 22.5s: Today I'm sending you one more sign through this video and deep down you know it
+PROBLEMA: termo proibido 'vidéo' em 29.0s: Because even before you opened this video something inside you was already warni
+PROBLEMA: termo proibido 'vidéo' em 39.3s: That's why before this video ends I must show you something that can protect you
+PROBLEMA: possível fala em fr em 44.0s: et ouvrir les pièces qui étaient bloquées.
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+4 problema(s)

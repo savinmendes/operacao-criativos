@@ -1,0 +1,40 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/originais/15.mp4",
+ "fundo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/sep/htdemucs/orig_15/no_vocals.wav",
+ "narr": "narr.mp3",
+ "narr_inicio": 0.3,
+ "atempo": 1.0,
+ "fundo_vol": 1.0,
+ "max_total": 34.15,
+ "caixas": [
+  {
+   "rect": [
+    40,
+    975,
+    680,
+    1125
+   ],
+   "cor": [
+    105,
+    20,
+    240
+   ],
+   "raio": 10
+  }
+ ],
+ "titulo": {
+  "rect": [
+   70,
+   145,
+   650,
+   312
+  ],
+  "px": 34,
+  "linhas": [
+   "¡La cámara solar inalámbrica",
+   "que no tienes que cargar!"
+  ],
+  "de": 0,
+  "ate": 4.5
+ }
+}

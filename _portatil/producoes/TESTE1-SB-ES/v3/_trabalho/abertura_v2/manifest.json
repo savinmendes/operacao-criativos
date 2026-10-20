@@ -1,0 +1,253 @@
+{
+ "projeto": "SB-ES v3 — abertura VIOLENTA (r2, B01–B06)",
+ "formato": "720x840 (janela do post), 30 fps, H.264, cor bt601/tv fixa (comum3)",
+ "imagens": {
+  "imagens/briga_violenta.png": "GPT Image 2 is2i 1k 3:4 de abertura/briga_v3.png + entrevista/aurelio_colar_v1.png + ref/colar (vendedor = Aurelio da entrevista com a medalha; carrinho cheio de molhos/potes/copos)",
+  "imagens/b04_vazio.png, b05_cinco.png": "GPT Image 2.5 Sunburst: b04/b05 antigos com o vendedor trocado pelo Aurelio + medalha",
+  "imagens/b06_fila.png": "gerada mas NÃO animada (teto); B06 continua o antigo abertura/b06_fila.mp4"
+ },
+ "custo_usd_flora": {
+  "briga_violenta.png (GPT Image 2)": 0.283,
+  "seedance_violenta 10 s": 2.117,
+  "b04/b05/b06 imagens (3x0,081)": 0.243,
+  "Kling 2.5 i2v b04/b05 (2x0,294)": 0.588,
+  "total": 3.231
+ },
+ "heygen_creditos": 0,
+ "elevenlabs": "nada novo (L01 reaproveitado)",
+ "itens": [
+  {
+   "arquivo": "react_briga.mp4",
+   "blocos": [
+    "B01",
+    "B02",
+    "B03"
+   ],
+   "texto": "B01 MUJER: Gente, después dicen que Dios no existe. | B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora! | B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.",
+   "duracao_s": 9.2,
+   "quadros": 276,
+   "fps": 30,
+   "audio": "voz L01 (Karly) em 0,000 + som nativo do Seedance (impactos/rua) com -5 dB até 2,6 s; loudnorm -14 LUFS",
+   "pip": {
+    "caixa": [
+     0,
+     300,
+     304,
+     540
+    ],
+    "recorte_x": 284,
+    "quadros": 83,
+    "fonte": "v2/_trabalho/react/w/hg_low.mp4"
+   },
+   "estrutura": [
+    {
+     "de_s": 0.0,
+     "ate_s": 9.2,
+     "fonte": "takes/seedance_violenta.mp4 0–9,2 s (Seedance 2.0 i2v 10 s, 3:4, 720p, áudio nativo ES; take ÚNICO, sem pré-roll, sem emenda)"
+    }
+   ],
+   "acao": "0–3,7 s sem fala: murro no carrinho, varre molhos/potes/copos (voam e caem), chuta/empurra o carrinho; 3,98 s agressor grita; 6,26 s Aurelio responde de mãos para cima",
+   "palavras_whisper_small_no_arquivo_final": [
+    {
+     "w": "Gente,",
+     "ini": 0.0,
+     "fim": 0.5,
+     "p": 0.56
+    },
+    {
+     "w": "después",
+     "ini": 0.94,
+     "fim": 1.2,
+     "p": 0.85
+    },
+    {
+     "w": "dicen",
+     "ini": 1.2,
+     "fim": 1.52,
+     "p": 0.99
+    },
+    {
+     "w": "que",
+     "ini": 1.52,
+     "fim": 1.72,
+     "p": 0.98
+    },
+    {
+     "w": "Dios",
+     "ini": 1.72,
+     "fim": 1.86,
+     "p": 0.96
+    },
+    {
+     "w": "no",
+     "ini": 1.86,
+     "fim": 2.2,
+     "p": 0.99
+    },
+    {
+     "w": "existe.",
+     "ini": 2.2,
+     "fim": 2.94,
+     "p": 1.0
+    },
+    {
+     "w": "¡No",
+     "ini": 3.98,
+     "fim": 4.2,
+     "p": 0.73
+    },
+    {
+     "w": "crees",
+     "ini": 4.2,
+     "fim": 4.58,
+     "p": 0.96
+    },
+    {
+     "w": "en",
+     "ini": 4.58,
+     "fim": 4.72,
+     "p": 1.0
+    },
+    {
+     "w": "Dios!",
+     "ini": 4.72,
+     "fim": 4.92,
+     "p": 0.99
+    },
+    {
+     "w": "¡Entonces",
+     "ini": 5.08,
+     "fim": 5.4,
+     "p": 0.96
+    },
+    {
+     "w": "llámalo",
+     "ini": 5.4,
+     "fim": 5.82,
+     "p": 0.83
+    },
+    {
+     "w": "ahora!",
+     "ini": 5.82,
+     "fim": 6.16,
+     "p": 1.0
+    },
+    {
+     "w": "Señor,",
+     "ini": 6.26,
+     "fim": 6.52,
+     "p": 0.86
+    },
+    {
+     "w": "yo",
+     "ini": 6.76,
+     "fim": 6.8,
+     "p": 0.93
+    },
+    {
+     "w": "no",
+     "ini": 6.8,
+     "fim": 6.92,
+     "p": 1.0
+    },
+    {
+     "w": "hice",
+     "ini": 6.92,
+     "fim": 7.14,
+     "p": 1.0
+    },
+    {
+     "w": "nada,",
+     "ini": 7.14,
+     "fim": 7.5,
+     "p": 1.0
+    },
+    {
+     "w": "paré,",
+     "ini": 7.74,
+     "fim": 7.92,
+     "p": 0.82
+    },
+    {
+     "w": "por",
+     "ini": 8.02,
+     "fim": 8.08,
+     "p": 0.96
+    },
+    {
+     "w": "el",
+     "ini": 8.08,
+     "fim": 8.2,
+     "p": 0.98
+    },
+    {
+     "w": "amor",
+     "ini": 8.2,
+     "fim": 8.34,
+     "p": 0.99
+    },
+    {
+     "w": "de",
+     "ini": 8.34,
+     "fim": 8.52,
+     "p": 1.0
+    },
+    {
+     "w": "Dios.",
+     "ini": 8.52,
+     "fim": 8.78,
+     "p": 0.99
+    }
+   ],
+   "fim_ultima_palavra_s": 8.78,
+   "intervalos_ruins": [],
+   "observacoes": "whisper medium no arquivo final; 'Pare' sai como 'paré' (p=0,82). Câmera do Seedance faz um leve reenquadramento contínuo em ~1–2 s (sem corte)."
+  },
+  {
+   "arquivo": "briga_limpa.mp4",
+   "blocos": [
+    "B02",
+    "B03"
+   ],
+   "texto": "mesmo vídeo sem PiP e sem áudio (reserva)",
+   "duracao_s": 9.2,
+   "fps": 30
+  },
+  {
+   "arquivo": "b04_vazio.mp4",
+   "blocos": [
+    "B04"
+   ],
+   "texto": "(sem fala) carrinho vazio, Aurelio sozinho de cabeça baixa",
+   "duracao_s": 3.0,
+   "fps": 30,
+   "audio": "nenhum",
+   "fonte": "takes/k_b04.mp4 0–3 s (Kling 2.5 i2v) de imagens/b04_vazio.png",
+   "intervalos_ruins": []
+  },
+  {
+   "arquivo": "b05_cinco.mp4",
+   "blocos": [
+    "B05"
+   ],
+   "texto": "(sem fala) clientes no carrinho, Aurelio servindo",
+   "duracao_s": 3.0,
+   "fps": 30,
+   "audio": "nenhum",
+   "fonte": "takes/k_b05.mp4 0–3 s (Kling 2.5 i2v) de imagens/b05_cinco.png",
+   "intervalos_ruins": []
+  },
+  {
+   "arquivo": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura\\b06_fila.mp4",
+   "blocos": [
+    "B06"
+   ],
+   "texto": "(sem fala) fila muito cheia no carrinho",
+   "duracao_s": 3.0,
+   "fps": 30,
+   "audio": "nenhum",
+   "fonte": "abertura/b06_fila.mp4 (antigo, mantido)",
+   "intervalos_ruins": []
+  }
+ ]
+}

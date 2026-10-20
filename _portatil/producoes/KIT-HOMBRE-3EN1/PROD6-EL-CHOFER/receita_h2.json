@@ -1,0 +1,36 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/PERFUMES-CL_P6_EL-CHOFER_H2.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/corpo_h2.mp4",
+ "cortar_pausas": false,
+ "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/audio/trilha.mp3",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/corpo_h2.alinhamento.json",
+  "chaves": [
+   "adelante",
+   "chofer",
+   "chofer",
+   "paradero",
+   "árabes",
+   "uno",
+   "Armaf",
+   "vuelta",
+   "Asad",
+   "despierta",
+   "9PM",
+   "recibes",
+   "Pídelo"
+  ]
+ },
+ "manchete": {
+  "texto": "TODAS QUIEREN IR ADELANTE 😂",
+  "y": 1450,
+  "ate": 3.5
+ },
+ "cta": {
+  "palavra": "pídelo",
+  "y": 1480
+ },
+ "resolucao": "720",
+ "limite_mb": 30
+}

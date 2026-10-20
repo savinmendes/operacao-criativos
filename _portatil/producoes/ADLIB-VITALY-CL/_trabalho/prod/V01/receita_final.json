@@ -1,0 +1,36 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\LYMPHORIA-ES-CL\\V01 - LYMPHORIA-TE-TRANSFORMA.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_fim\\parte_fim.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\V01\\corte_up.mp4"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_fim\\narr_fim.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "compre",
+   "dos",
+   "gratis",
+   "recibir",
+   "noventa"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 14.81
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

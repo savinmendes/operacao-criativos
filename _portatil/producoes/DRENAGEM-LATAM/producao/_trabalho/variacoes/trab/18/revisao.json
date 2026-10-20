@@ -1,0 +1,34 @@
+{
+ "arquivo": "VAR 18 - G8-POR-QUE-NOS-HINCHAMOS x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 285.77,
+ "mb": 35.2,
+ "whisper_gancho": "¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida. Muchas veces el cuerpo dejó de drenar. Yo lo entendí tarde.",
+ "whisper_emenda": "dejó de drenar. Yo lo entendí tarde. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  0.966667,
+  2.133333,
+  3.366667,
+  5.433333,
+  6.5,
+  7.933333,
+  8.833333
+ ],
+ "cortes_plan": [
+  0.967,
+  2.133,
+  3.367,
+  5.433,
+  6.5,
+  7.933
+ ],
+ "silencios": [
+  [
+   58.27,
+   59.09
+  ]
+ ],
+ "ok": true
+}

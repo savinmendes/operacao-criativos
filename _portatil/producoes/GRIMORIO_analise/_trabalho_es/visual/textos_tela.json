@@ -1,0 +1,26 @@
+{
+  "nota": "Tempos e quadros na linha do tempo do ORIGINAL (30 fps, quadro N = N/30 s). Se a montagem ES alongar b-rolls, desloque. Todos os PNGs são 720x1280 RGBA, colados em x=0,y=0 (exceto a seta). Aplicar sobre base_visual_es.mp4 (que já tem arroba, cartão ES e desfoques). Ordem: título, produto, seta, legenda ES do agente AUDIO, selo por último (sempre por cima).",
+  "sobreposicoes": [
+    {"arquivo": "overlays/titulo_gancho_es.png", "texto": "EL PADRE PABLO LO VA A / REVELAR TODO EN VIVO", "quadros": [0, 230], "t_ini": 0.0, "t_fim": 7.7667,
+     "posicao": [0, 0], "estilo": "Open Sans Regular 44, amarelo RGB(188,202,20), mesmas linhas de base do PT (y 184 e 230)",
+     "cobre_pt": "a própria PNG tem uma faixa preta opaca em y 128-248 (largura toda) que apaga o título PT; a faixa do original é preta pura nesses quadros",
+     "ffmpeg": "overlay=0:0:enable='lte(n\,230)'"},
+    {"arquivo": "overlays/produto_es.png", "texto": "Grimorio Sagrado y Secreto de San Benito + collar (\"+ COLLAR DE REGALO\") + \"TOCA AQUÍ ABAJO\"", "quadros": [3779, 3920], "t_ini": 125.9667, "t_fim": 130.7,
+     "posicao": [0, 0], "substitui": "os 2 prints do perfil prosperidadesv (corte seco em 3779 e 3921). Opaca de y=124 para baixo; y<112 transparente para a moldura da live (já com padre.pablo_) aparecer",
+     "ffmpeg": "overlay=0:0:enable='between(n\,3779\,3920)'"},
+    {"arquivo": "overlays/seta_baixo.png", "texto": "seta vermelha para baixo", "quadros": [3779, 3920], "t_ini": 125.9667, "t_fim": 130.7,
+     "posicao": [260, 1035], "animacao": "y = 1035 + 18*sin(2*PI*1.6*t)",
+     "ffmpeg": "overlay=x=260:y='1035+18*sin(2*PI*1.6*t)':enable='between(n\,3779\,3920)'"},
+    {"arquivo": "overlays/selo_ficticio_mini_es.png", "texto": "VIDEO FICTICIO", "quadros": "todos (1º ao último)", "posicao": [0, 0],
+     "caixa_720": [598.7, 2.7, 706.7, 18.7], "estilo": "Poppins Bold, caixa preta 70%, mesmo desenho do selo PT do _trabalho_colar",
+     "ffmpeg": "overlay=0:0 (sem enable; -loop 1 na entrada)"}
+  ],
+  "ja_aplicado_em_base_visual_es": [
+    {"item": "arroba da moldura da live", "de": "padre.paulo_", "para": "padre.pablo_", "como": "troca só do 'u' por 'b' (Open Sans SemiBold 26, cor do texto medida por quadro), em todo quadro em que a moldura aparece (lista em _tmp/compor_log.json)"},
+    {"item": "cartão das 12 palavras (quadros 1452-1810)", "como": "latim grande mantido; traduções PT apagadas (LaMa na mediana do cartão) e reescritas em espanhol: Cruz, Luz, Fe, Fuego, Verdad, Silencio, Espada, Fortaleza, Custodia, Santidad, Espíritu, Triunfo (Palatino Bold Italic 29); a barra cinza de destaque que desce linha a linha é reaplicada por quadro; na fusão 1796-1810 a troca entra proporcional"},
+    {"item": "página do livro 'ORAÇÃO DAS 12 PALAVRAS' (1332-1451, 44,4-48,4 s)", "como": "desfoque gaussiano (sigma 11) no quadro todo abaixo da moldura da live"},
+    {"item": "livro aberto embaixo do padre (1844-2032, 61,5-67,8 s)", "como": "desfoque só no papel (detecção por quadro)"},
+    {"item": "print de WhatsApp em PT (2991-3147, 99,7-104,9 s)", "como": "desfoque só no print (detecção por quadro)"},
+    {"item": "livro na mesa com 'SUMÁRIO' (3280-3395, 109,3-113,2 s)", "como": "desfoque só no papel (detecção por quadro)"}
+  ]
+}

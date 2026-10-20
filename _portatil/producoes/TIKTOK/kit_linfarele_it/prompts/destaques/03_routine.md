@@ -1,0 +1,1 @@
+Ícone de rotina, paleta de cores da marca

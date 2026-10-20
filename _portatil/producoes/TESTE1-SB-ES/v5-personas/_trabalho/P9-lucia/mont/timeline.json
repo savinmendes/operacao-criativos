@@ -1,0 +1,205 @@
+{
+ "planos": [
+  {
+   "id": "abertura",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\mont\\abertura.mp4",
+   "ss": 0.0,
+   "d": 12.7,
+   "kind": "pronto",
+   "q0": 0,
+   "n": 381
+  },
+  {
+   "id": "maos",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\v1_maos.mp4",
+   "ss": 0.25,
+   "d": 2.6,
+   "kind": "video",
+   "broll": "maos",
+   "q0": 381,
+   "n": 78
+  },
+  {
+   "id": "vazio",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\v1_vazio.mp4",
+   "ss": 0.6,
+   "d": 1.7,
+   "kind": "video",
+   "broll": "vazio",
+   "q0": 459,
+   "n": 51
+  },
+  {
+   "id": "duas",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\v1_duas.mp4",
+   "ss": 0.5,
+   "d": 1.7,
+   "kind": "video",
+   "broll": "duas",
+   "q0": 510,
+   "n": 51
+  },
+  {
+   "id": "cheio",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\v1_cheio.mp4",
+   "ss": 0.5,
+   "d": 2.1,
+   "kind": "video",
+   "broll": "cheio",
+   "q0": 561,
+   "n": 63
+  },
+  {
+   "id": "R01",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_R01s.mp4",
+   "ss": 0.0,
+   "d": 5.449,
+   "kind": "video",
+   "y": 0.35,
+   "q0": 624,
+   "n": 163
+  },
+  {
+   "id": "noite",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\img\\noite.png",
+   "ss": 0,
+   "d": 4.792,
+   "kind": "img",
+   "broll": "noite",
+   "q0": 787,
+   "n": 144
+  },
+  {
+   "id": "celular",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\img\\celular.png",
+   "ss": 0,
+   "d": 3.158,
+   "kind": "img",
+   "broll": "celular",
+   "q0": 931,
+   "n": 95
+  },
+  {
+   "id": "L01",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_L01.mp4",
+   "ss": 3.158,
+   "d": 5.24,
+   "kind": "video",
+   "y": 0.2,
+   "z": 1.0,
+   "q0": 1026,
+   "n": 157
+  },
+  {
+   "id": "L02",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_L02.mp4",
+   "ss": 0.0,
+   "d": 6.3149999999999995,
+   "kind": "video",
+   "y": 0.2,
+   "z": 1.1,
+   "q0": 1183,
+   "n": 190
+  },
+  {
+   "id": "L03",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_L03.mp4",
+   "ss": 0.0,
+   "d": 8.163,
+   "kind": "video",
+   "y": 0.2,
+   "z": 1.0,
+   "q0": 1373,
+   "n": 245
+  },
+  {
+   "id": "L04",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_L04.mp4",
+   "ss": 0.0,
+   "d": 6.255,
+   "kind": "video",
+   "y": 0.2,
+   "z": 1.1,
+   "q0": 1618,
+   "n": 187
+  },
+  {
+   "id": "R02",
+   "src": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v5-personas\\_trabalho\\P9-lucia\\takes\\hg_R02s.mp4",
+   "ss": 0.0,
+   "d": 6.71,
+   "kind": "video",
+   "y": 0.35,
+   "q0": 1805,
+   "n": 201
+  }
+ ],
+ "falas": [
+  {
+   "id": "R00",
+   "T0": 0.0,
+   "ini": 0.033,
+   "fim": 5.111
+  },
+  {
+   "id": "B02",
+   "T0": 0.0,
+   "ini": 5.389,
+   "fim": 9.109
+  },
+  {
+   "id": "B03",
+   "T0": 0.0,
+   "ini": 9.109,
+   "fim": 12.289
+  },
+  {
+   "id": "R01",
+   "T0": 20.8,
+   "ini": 20.85,
+   "fim": 25.999
+  },
+  {
+   "id": "LV1",
+   "T0": 26.399,
+   "ini": 26.445,
+   "fim": 30.741
+  },
+  {
+   "id": "L01",
+   "T0": 31.041,
+   "ini": 31.091,
+   "fim": 39.339
+  },
+  {
+   "id": "L02",
+   "T0": 39.439,
+   "ini": 39.489,
+   "fim": 45.654
+  },
+  {
+   "id": "L03",
+   "T0": 45.754,
+   "ini": 45.789,
+   "fim": 53.817
+  },
+  {
+   "id": "L04",
+   "T0": 53.917,
+   "ini": 53.967,
+   "fim": 59.952
+  },
+  {
+   "id": "R02",
+   "T0": 60.272,
+   "ini": 60.307,
+   "fim": 66.902
+  }
+ ],
+ "total": 66.86666666666666,
+ "cta": 60.272000000000006,
+ "virada": [
+  12.7,
+  20.8
+ ]
+}

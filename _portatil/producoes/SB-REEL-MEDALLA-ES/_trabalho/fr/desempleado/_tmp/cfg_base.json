@@ -1,0 +1,32 @@
+{
+ "slug": "desempleado",
+ "hook_fim": 4.485,
+ "reza_src": "reza.mp3",
+ "reza_cortes": [
+  [
+   0,
+   3.303
+  ]
+ ],
+ "selfie_heygen_ini": 3.29,
+ "r_self": [
+  [
+   3.217,
+   3.477
+  ],
+  [
+   8.051,
+   8.272
+  ],
+  [
+   10.454,
+   10.745
+  ]
+ ],
+ "self_trocas": [
+  5.921,
+  14.175
+ ],
+ "self_dur": 17.356,
+ "selfie_mp3_dur": 17.508
+}

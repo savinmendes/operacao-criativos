@@ -1,0 +1,38 @@
+{
+ "2": {
+  "ini": 13.7,
+  "fim": 16.3,
+  "dur": 2.6,
+  "estendido": true
+ },
+ "3": {
+  "ini": 21.467,
+  "fim": 26.067,
+  "dur": 4.6,
+  "estendido": false
+ },
+ "4": {
+  "ini": 26.067,
+  "fim": 27.233,
+  "dur": 1.166,
+  "estendido": true
+ },
+ "5": {
+  "ini": 37.6,
+  "fim": 38.933,
+  "dur": 1.333,
+  "estendido": true
+ },
+ "6": {
+  "ini": 48.467,
+  "fim": 50.167,
+  "dur": 1.7,
+  "estendido": true
+ },
+ "7": {
+  "ini": 50.167,
+  "fim": 50.7,
+  "dur": 0.533,
+  "estendido": true
+ }
+}

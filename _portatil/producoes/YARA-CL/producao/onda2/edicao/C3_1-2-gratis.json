@@ -1,0 +1,65 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C3_yara-kit3_1-2-gratis_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": null,
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": null,
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C3_N.mp3",
+   "audio_de": 0.0,
+   "audio_ate": 0.64,
+   "png": "../overlays/C3_n1.png",
+   "dur": 0.64
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C3_N.mp3",
+   "audio_de": 0.64,
+   "audio_ate": 1.09,
+   "png": "../overlays/C3_n2.png",
+   "dur": 0.45
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C3_N.mp3",
+   "audio_de": 1.09,
+   "audio_ate": 2.68,
+   "png": "../overlays/C3_n3.png",
+   "dur": 1.59
+  },
+  {
+   "video": "../../../banco/yara_04.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C3_N.mp3",
+   "audio_de": 2.68,
+   "audio_ate": 4.34
+  },
+  {
+   "video": "../../edicao/b_elixir.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C3_N.mp3",
+   "audio_de": 4.34,
+   "audio_ate": 7.57
+  }
+ ]
+}

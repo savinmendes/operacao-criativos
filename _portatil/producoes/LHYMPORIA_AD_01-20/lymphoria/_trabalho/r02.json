@@ -1,0 +1,8 @@
+﻿{"ad":"ad02","corte":400.9,"saida":"AD 02 - LYMPHORIA-28-ANOS-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/647d2b63-a4e3-46dc-b450-19ea62bf1504.mp4","inicio":133.4,"quadros":53},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/64f81db1-4fd5-4e9b-a1f4-076206abbc88.mp4","inicio":160.7,"quadros":32},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/1209ef3e-77fe-495e-9eb6-5561cb71c885.mp4","inicio":190.6,"quadros":54}],
+"blur":[{"de":344.6,"ate":347.43,"caixas":"400,385,650,465;380,600,540,690"}],
+"textos":[{"de":190.8,"ate":193.8,"caixa":"55,1032,730,1086","texto":"Lymphoria. Cuatro plantas.","ref":191.5,"fonte":"Poppins-Medium.ttf"},
+{"de":338.0,"ate":343.3,"caixa":"100,1010,622,1060","texto":"Lymphoria y el secreto","ref":341.0,"fonte":"Poppins-Medium.ttf"}],
+"audios":[{"mp3":"p1.mp3","de":189.4,"ate":193.5},{"mp3":"p2.mp3","de":338.3,"ate":341.9}]}

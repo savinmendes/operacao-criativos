@@ -1,0 +1,30 @@
+PRONTO — GRIMORIO V2 ES, agente VISUAL (14/10/2026)
+Pasta: C:\Users\PICHAU\Downloads\GRIMORIO_analise\_trabalho_es\visual\
+Todos os tempos/quadros são da linha do tempo do ORIGINAL (30 fps, 4645 quadros). Se a montagem ES alongar b-roll, desloque.
+
+1) base_sem_legenda.mp4  — vídeo inteiro sem a legenda PT, áudio original intacto (para o lip sync). Detalhes e planos com rosto em PRONTO_base.txt.
+
+2) base_visual_es.mp4    — USE ESTA NA MONTAGEM FINAL. = base_sem_legenda + correções de pixel já aplicadas:
+   - arroba da live "padre.paulo_" -> "padre.pablo_" em todo quadro com a moldura (662-4644);
+   - cartão das 12 palavras (1452-1810): latim mantido, traduções em ES (Cruz, Luz, Fe, Fuego, Verdad, Silencio, Espada,
+     Fortaleza, Custodia, Santidad, Espíritu, Triunfo), barra de destaque refeita quadro a quadro; na fusão de saída as traduções levemente desfocadas;
+   - desfoque do texto PT legível: página "ORAÇÃO DAS 12 PALAVRAS" (1332-1451, quadro todo abaixo da moldura), livro aberto
+     embaixo do padre (1844-2032), print de WhatsApp (2991-3147), livro na mesa com "SUMÁRIO" (3280-3395).
+   Mesmo formato da base (720x1280, 30 fps, yuv420p, bt709/tv, áudio original). Cor: luma original x final <= 0,2 nível.
+   Para colar o lip sync: cole a boca/queixo sobre ESTA base nos mesmos quadros (o rosto é idêntico ao da base_sem_legenda).
+
+3) overlays/ + textos_tela.json — PNGs 720x1280 RGBA, com quadro de entrada/saída, posição e filtro ffmpeg pronto:
+   - titulo_gancho_es.png  quadros 0-230: "EL PADRE PABLO LO VA A / REVELAR TODO EN VIVO" (Open Sans 44, amarelo do original),
+     já com faixa preta opaca que cobre o título PT (y 128-248) -> não precisa de outra versão da base;
+   - produto_es.png        quadros 3779-3920 (2:05,97-2:10,70): substitui os 2 prints do perfil prosperidadesv. Livro
+     "GRIMORIO SAGRADO Y SECRETO DE SAN BENITO" + colar + "+ COLLAR DE REGALO" + "TOCA AQUÍ ABAJO". Sem preço/domínio/perfil.
+     Topo transparente (moldura da live com padre.pablo_ aparece);
+   - seta_baixo.png        mesmos quadros, x=260, y=1035+18*sin(2*PI*1.6*t);
+   - selo_ficticio_mini_es.png  "VIDEO FICTICIO" do 1º ao último quadro, topo direito (sempre a última camada).
+   Ordem sugerida: base_visual_es -> título -> produto -> seta -> legenda ES -> selo.
+
+4) correcoes.json — quadro solto 1:27,40 = quadro 2622 (padre borrado fora de ordem dentro da transição em chicote
+   2620-2625): substituir o 2622 por cópia do 2621 (freezeframes first=2622:last=2622:replace=2621). Não muda duração.
+
+Scripts (reprodutíveis): scripts\ (mascara.py, lama_base_es.py, compor_visual.py, cartao.py, gerar_produto.py,
+gerar_titulo_selo.py, remendar*.py, residuo_*.py). Temporários em _tmp\ (folhas de conferência: _tmp\folha_visual_final.jpg).

@@ -1,0 +1,7 @@
+ABUELA FR COMPLETA (14/10/2026) -> C:/Users/PICHAU/Downloads/SB-MEDALLA-COMPLETA-FR/04_SB-FR_ABUELA_COMPLETA.mp4 (66,0 s) + _narracion.txt
+Voz: Grandma Clo (EMuO6fFLrXKOryHzij6K), eleven_multilingual_v2 via app/tts_ctx.py. Caracteres: 96+46+302=444 (teto 450). Whisper fr conferido (saint Benoît ok).
+HeyGen: create_video_from_image (mesmo retrato_triste ES, low, 1080p, 9:16) video 807e5bcab6f991640183c908f2174d96, áudio da selfie a partir de 3,07 s.
+  Saldo da conta 6967 -> 6875 no período (inclui outros agentes); estimativa por duração ~19 créditos.
+Montagem: montar_completa_persona_fr.py (cópia do ES; padre/gráficos FR de _comum; cortes do padre ancorados nas mesmas frases). Flora: US$ 0.
+QA: revisar_ad --idioma fr --idioma-residual es OK (sem termos ES), folha + zoom rosto selfie (sem deformação, expressão triste),
+  CTA único a partir de "Appuie", selo VIDÉO FICTIVE no 1º e no último quadro.

@@ -1,0 +1,26 @@
+REVISÃO: SB-FR-ADS-13.13F-REZA-MUJER_v2.mp4
+duração 27.83s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 11.3 MB
+decodificação: OK
+pts do áudio: 1306 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 802-937, x 320-399 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-FR-NOVOS-VENCEDORES\03_ADS-13.13F-REZA-MUJER\_trabalho\chiado\revisao\SB-FR-ADS-13.13F-REZA-MUJER_v2_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  5.56 Si tu m'ignores, je n'aurai pas d'autre choix que d'accorder le miracle dont tu as tant besoin à quelqu'un d'autre.
+   5.56-  8.52 C'est ta dernière chance de recevoir ce que j'ai préparé pour toi.
+   8.52-  9.84 Jésus t'a choisi.
+   9.84- 11.88 Il t'a apporté un puissant cadeau.
+  11.88- 15.48 Aujourd'hui, tu vas entendre une ancienne prière perdu de la Bible
+  15.48- 18.88 qui libèrera une pluie de bénédiction et de miracle sur ta vie.
+  18.88- 19.92 Ne me rejette plus.
+  19.92- 24.56 Appuie sur « En savoir plus » ci-dessous et rejoins la prière en direct.
+  24.56- 27.56 Reçoit ton miracle avant qu'il ne soit trop tard.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

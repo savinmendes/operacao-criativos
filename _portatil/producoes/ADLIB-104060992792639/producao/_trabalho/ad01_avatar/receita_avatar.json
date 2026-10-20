@@ -1,0 +1,10 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/ADLIB-104060992792639/producao/AD 01 AVATAR - ORACION-TRES-BENDICIONES-ES-LATAM.mp4",
+  "estilo": "drop",
+  "corpo": "corpo_avatar.mp4",
+  "legenda": {"fonte": "alinhamento:narracao_es.alinhamento.json", "y": 1358},
+  "faixa_sb": false,
+  "cta": {"inicio": 104.97},
+  "resolucao": "720",
+  "limite_mb": 30
+}

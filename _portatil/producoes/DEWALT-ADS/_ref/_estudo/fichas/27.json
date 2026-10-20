@@ -1,0 +1,51 @@
+{
+  "ad": "27",
+  "idioma": "es",
+  "origem": "TikTok @himakers (loja/review de ferramentas, Bolivia)",
+  "url": "https://www.tiktok.com/@himakers/video/7662739727220477202",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 94.6,
+  "cortes": 17,
+  "ritmo": "medio-rapido com palavra-chave por frase; longo (95 s)",
+  "formato": "review/tutorial de features em estudio",
+  "gancho": {
+    "visual": "DCD806 em pe no balcao com luz neon",
+    "texto_tela": "'TALADRO' / 'NUEVO'",
+    "fala_0_3s": "Hoy estaremos conociendo un nuevo modelo de taladro de la marca D-Wall, el modelo de este"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-5s",
+      "conteudo": "produto, 'nuevo'"
+    },
+    {
+      "tempo": "5-20s",
+      "conteudo": "antirrotacion, marca XR 20V"
+    },
+    {
+      "tempo": "20-45s",
+      "conteudo": "modo, velocidade, broca escalonada em metal, picture-in-picture"
+    },
+    {
+      "tempo": "45-78s",
+      "conteudo": "bateria (ranura), iluminacao LED"
+    },
+    {
+      "tempo": "78-95s",
+      "conteudo": "furo em parede, serra copo e broca chata em madeira; 'pack'"
+    }
+  ],
+  "cta": "sem CTA de compra; versão vendida sem bateria e sem carregador (dito na fala)",
+  "texto_na_tela": "1 palavra-chave branca por frase (ES)",
+  "produto": "DCD806 XR (premium, anti-rotacao) - NAO e o nosso",
+  "e_nosso_produto": "nao",
+  "rosto": "nao (so maos)",
+  "marca_dagua": "logo redondo pequeno himakers no canto superior esquerdo",
+  "audio": "voz masculina ES + trilha",
+  "transcricao": "Hoy estaremos conociendo un nuevo modelo de taladro de la marca D-Wall, el modelo de este equipo es DCD806. Este nuevo modelo de taladro ya incorpora lo que vendría a hacer el sistema de seguridad antirrotación, que se activa con movimientos irregulares para proteger al usuario contra cualquier tipo de eventual accidente. Es un taladro al cual no le va a faltar potencia a la hora de realizar perforaciones de gran diámetro en madera. Este taladro percutor pertenece a la línea XR de la marca D-Wall que tiene 14 niveles de torque regulable para diferentes tipos de aplicación en el modo atornillador. Cuenta como torres brusles y con un torque de 90 Nm y una velocidad de hasta 2,000 rpm y no se olviden que para perforar metal necesitamos bajas rpm en la velocidad 1, este equipo alcanza a la 650 rpm. Cuenta con un mandril metálico de media pulgada o de 13 milímetros, la función de taladro percutor, la función atornilladora y desde luego la función de taladro. En la parte de bajo encontramos la ranura para colocar el chip y podemos colocar el gancho en el lado izquierdo o derecho y esta presentación no incluye ni cargador ni batería. Por cierto, esta presentación es compatible con las baterías XR, con las baterías PowerPack o PowerStack y desde luego también con las FlexBall. El sistema de iluminación cuenta con 70 lúmenes que nosotros podemos configurar hasta 20 minutos de funcionamiento y el cabezal pivotante nos ayuda a regular el ángulo de iluminación. Este taladro percutor es una de las mejores opciones que vamos a encontrar dentro del segmento industrial, no le vendría mal un mango lateral por el torque que tiene. Yo lo voy a estar probando con las nuevas baterías PowerPack de 4 amperes pero como pueden ver este es el resultado perforando con una broca de 2 pulgadas y un cuarto en madera de densidad media.",
+  "uso": [
+    "so referencia de formato"
+  ],
+  "nota_cod_chile": 2,
+  "justificativa": "Bem produzido, ES, sem rosto; mas DCD806 com anti-rotacao e 95 s. Takes sao de outro corpo de maquina - nao usar como banco."
+}

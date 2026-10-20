@@ -1,0 +1,37 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD10-EL-CARNICERO/PERFUMES-CL_P10_EL-CARNICERO_H2.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD10-EL-CARNICERO/corpo_h2.mp4",
+ "cortar_pausas": false,
+ "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD10-EL-CARNICERO/audio/trilha.mp3",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD10-EL-CARNICERO/corpo_h2.alinhamento.json",
+  "y": 1440,
+  "chaves": [
+   "kilo",
+   "echó",
+   "carnicero",
+   "clientas",
+   "árabes",
+   "uno",
+   "Armaf",
+   "lomo",
+   "Asad",
+   "cocina",
+   "9PM",
+   "recibes",
+   "Pídelo"
+  ]
+ },
+ "manchete": {
+  "texto": "ME PIDEN EL PERFUME POR KILO 😂",
+  "y": 1700,
+  "ate": 3.6
+ },
+ "cta": {
+  "palavra": "pídelo",
+  "y": 1650
+ },
+ "resolucao": "720",
+ "limite_mb": 30
+}

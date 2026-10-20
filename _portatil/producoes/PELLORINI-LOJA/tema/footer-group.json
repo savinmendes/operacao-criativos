@@ -1,0 +1,115 @@
+{
+  "type": "footer",
+  "name": "t:sections.footer.name",
+  "sections": {
+    "ppfooter": {
+      "type": "pp-footer",
+      "blocks": {
+        "about": {
+          "type": "text",
+          "settings": {
+            "title": "About Essiora",
+            "text": "<p>Timeless watches built to last, without the luxury markup. Free tracked worldwide shipping and a 90-day money-back guarantee.</p>"
+          }
+        },
+        "shop": {
+          "type": "menu",
+          "settings": {
+            "title": "Shop",
+            "menu": "main-menu"
+          }
+        },
+        "help": {
+          "type": "menu",
+          "settings": {
+            "title": "Customer Care",
+            "menu": "footer"
+          }
+        },
+        "t1": {
+          "type": "trust",
+          "settings": {
+            "icon": "shield",
+            "text": "90-Day Money-Back Guarantee",
+            "link": ""
+          }
+        },
+        "t2": {
+          "type": "trust",
+          "settings": {
+            "icon": "truck",
+            "text": "Free Tracked Worldwide Shipping",
+            "link": ""
+          }
+        },
+        "t3": {
+          "type": "trust",
+          "settings": {
+            "icon": "lock",
+            "text": "Secure Checkout",
+            "link": ""
+          }
+        },
+        "t4": {
+          "type": "trust",
+          "settings": {
+            "icon": "star",
+            "text": "Ships Worldwide",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "about",
+        "shop",
+        "help",
+        "t1",
+        "t2",
+        "t3",
+        "t4"
+      ],
+      "settings": {
+        "bg": "#121212",
+        "text": "#FFFFFF",
+        "btn_bg": "#5B2BD8",
+        "btn_text": "#FFFFFF",
+        "pad_top": 44,
+        "news_title": "Join the",
+        "news_title2": "Essiora Club",
+        "news_text": "New arrivals, early access to limited drops and members-only offers, straight to your inbox.",
+        "news_placeholder": "Enter your email",
+        "news_button": "Subscribe",
+        "news_success": "Thank you! You're on the list.",
+        "show_payment": true,
+        "copyright": "All rights reserved."
+      }
+    },
+    "scratch": {
+      "type": "pp-scratch-popup",
+      "settings": {
+        "enabled": true,
+        "delay": 5,
+        "days": 7,
+        "bg": "shopify://shop_images/f3962fc4-bcbc-4d2e-a1f7-da8a6ec3ce1d.jpg",
+        "dim": 55,
+        "overlay": "#1c1530",
+        "accent": "#5B2BD8",
+        "title": "Try your luck",
+        "subtitle": "Scratch below to see what you win",
+        "prize_big": "10% OFF",
+        "prize_small": "your first order",
+        "won_text": "You won 10% off! Enter your email to claim it.",
+        "email_placeholder": "Enter your email",
+        "claim_button": "Claim my 10% off",
+        "code": "LUCKY10",
+        "shop_button": "Shop now",
+        "fine_print": "Your discount is applied automatically at checkout.",
+        "no_thanks": "No thanks"
+      }
+    }
+  },
+  "order": [
+    "ppfooter",
+    "scratch"
+  ]
+}

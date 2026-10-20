@@ -1,0 +1,46 @@
+REVISÃO: SB-ES_NOTICIA-AURELIO_B-ORACION-COMPLETA_FICTICIO.mp4
+duração 160.90s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 47.1 MB
+decodificação: OK
+pts do áudio: 7541 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 59 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 676-1124, x 143-630 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v3\_trabalho\final_B\qa\SB-ES_NOTICIA-AURELIO_B-ORACION-COMPLETA_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.00 Gente, después dicen que Dios no existe.
+   4.00-  6.00 ¡No crees en Dios! ¡Entonces, llámalo ahora!
+   6.00-  9.00 Señor, yo no hice nada, paré por el amor de Dios.
+  18.00- 21.00 Después de ser atacado por un cliente y volverse viral,
+  21.00- 27.00 el carrito de Don Aurelio se convirtió en uno de los más pedidos del país.
+  27.00- 36.08 eso me pasó a mí. Y no era la primera vez. Yo pensaba que era mala suerte. Todas las puertas
+  36.08- 44.16 se me cerraban, pero yo había aprendido la oración de San Benito completa y decidí hacerla
+  44.16- 51.40 después de aquella situación. Al día siguiente, a mi carrito empezaron a llover clientes. No
+  51.40- 57.88 no lo podía creer. Podemos poner aquí la transmisión en vivo que se cayó, la que
+  57.88- 61.28 enseña esta oración tan poderosa.
+  61.28- 62.28 ¡Claro!
+  62.28- 66.92 No es mala suerte, cuando los caminos se cierran así hay algo espiritual detrás.
+  66.92- 71.00 Presten mucha atención porque posiblemente este video saldrá del aire muy rápido.
+  71.00- 75.56 No quieren que tengas acceso a esto porque es una oración muy poderosa. Repitan
+  75.56- 82.92 conmigo. O poderoso San Benito, guardían de los misterios sagrados que venciste a la serpiente
+  82.92- 89.24 con la señal de la cruz y callaste el rugido del abismo con tu fein quebrantable. Invoco
+  89.24- 95.80 ahora las doce palabras selladas por tu mano. Crux, Lux, Fiddes, Ignes, Veritas, Silencio,
+  95.80-102.96 Gladius, Fortitude, Custodia, Sánctitas, Espíritus y Triunfus. Esta es la poderosísima
+ 102.96-108.12 oración de las 12 palabras de San Benito. Están surgiendo relatos de bendiciones todos los días.
+ 108.12-115.08 Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.
+ 115.08-120.68 Sólo un grupo de monjes tenía acceso a esta oración completa, la traje de una excursión
+ 120.68-126.44 que hice a Italia y decidí compartirla con ustedes. La última vez que enseñé esta oración en
+ 126.44-134.22 un congreso, recibí más de 497 relatos de bendiciones al día siguiente, pero atención
+ 134.22-139.08 tiene que hacerse de la forma correcta porque no es una oración común, tiene instrucciones
+ 139.08-144.42 y una manera correcta de hacerla y de escucharla. A partir de hoy le darás la bienvenida
+ 144.42-148.90 a una vida próspera, por eso grabé un vídeo donde enseño la oración de San Benito
+ 148.90-154.62 completa paso a paso de la forma correcta. Pero no sé por cuánto tiempo va a estar
+ 154.62-160.62 disponible. Toca el botón ver más aquí abajo y mira la hora mientras todavía está disponible.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

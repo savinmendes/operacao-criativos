@@ -1,0 +1,39 @@
+# AD 10
+
+| | |
+|---|---|
+| Canal | arquivo local |
+| Duração | 07:00 |
+| Publicado | ? |
+| URL | https://www.youtube.com/watch?v=local |
+| Origem da transcrição | whisper-large-v3/cuda/es |
+| Transcrito em | 03/10/2026 11:29 |
+| Blocos | 13 (janela de 30s) |
+
+---
+
+**[00:00]** Empujé la cabeza de mi esposo el martes pasado. Le dije que no tenía ganas. La verdad es que no he tenido ganas por cuatro meses. Porque sé lo que va a oler cuando baje allí. Llevamos 18 años casados, él todavía me busca en la oscuridad. Pero en los últimos dos años empecé a retroceder antes de que se acercara. Comenzó conmigo, dejé de permitir que bajara. Redirigía su mano, lo levantaba. Le decía que solo lo quería dentro de mí
+
+**[00:31]** Él pensó que yo era espontánea Yo estaba siendo estratégica Eventualmente captó el mensaje Y dejó de intentarlo por completo Ahora besa mi cuello y se salta todo lo del medio Y ninguno dice por qué Luego dejé de querer sexo por completo No porque no lo deseara Sino porque no podía dejar de pensar en eso Podía olerlo en mí misma al mediodía, incluso después de ducharme esa mañana
+
+**[01:03]** Incluso después de las toallitas, del spray, ahí estaba Empecé a ducharme dos veces al día, luego tres, me duchaba justo antes de dormir Me secaba, me revisaba y ya había vuelto Como si mi cuerpo se estuviera burlando de mí Dejé de cruzar las piernas en el trabajo, aterrorizada de que alguien sentado a mi lado pudiera notarlo Empecé a usar protectores diarios todos los días, cambiando mi ropa interior a media tarde
+
+**[01:37]** Llevando repuestos en mi bolso como una especie de secreto oscuro Y las cosas que intenté, Dios mío, las cosas que intenté Los antibióticos de mi médico, metronidazol, dorrón Nunca se hubiera ido lo supositorio Lo que todas recomiendan en TikTok Los usé un mes entero, el olor se hibondió dos Y volvía más fuerte, probióticos tomé dos
+
+**[02:09]** Antes mañana y noche por tres meses Sesenta dólares al mes en pequeñas cápsulas Que no hicieron absolutamente nada Jabones íntimos, los de pH balanceado Los recomendados por ginecólogos Probé cuatro marcas diferentes Dos de ellas lo empeoraron Una me dio una infección por hongos Encima de todo lo demás Baños de vinagre, de manzana A las once de la noche Sentada en la tina ardiendo
+
+**[02:41]** Buscando en Google ¿Esto realmente funciona? ¿No funcionó? Incluso corté el azúcar, los lácteos Comí yogur cada mañana Solo usé ropa interior de algodón Dormí sin nada Y nada Él nunca dijo una palabra al respecto, esa es la parte que me rompió Se ajustó en silencio el sexo, se hizo más corto, mecánico Dos personas ejecutando una rutina, no haciendo el amor Lo sorprendía mirándome y sabía exactamente lo que pensaba
+
+**[03:15]** ¿Qué nos pasó? Estás ahí y te extraño Y yo, yo también me extrañaba Una noche estaba en un hilo de revita las dos porque mataban la bacteria, pero no el entorno
+
+**[03:45]** Ella dijo, el problema no era la bacteria, el problema era el ambiente Tu región pélvica tiene una red densa de tejido linfático Cuando tu sistema no estaba tratando el olor, estaba limpiando la superficie
+
+**[04:30]** Mientras la congestión lo seguía alimentando La única forma de romper el ciclo era drenar la congestión linfática primero Y ella encontró unas gotas líquidas basadas en cuatro hierbas mayaberra La astilingia rompe los desechos endurecidos en el tejido pélvico El fresno espinoso reinicia la circulación que las hormonas apagaron El amor de hortelano barre la basura y el trevo rojo calma la inflamación
+
+**[05:01]** Las pedí esa misma noche, un pequeño frasco oscuro El líquido adentro parece miel, unas gotas cada mar Lo que has dado en tu tejido por meses o años Semana uno, estuve en el baño constantemente Era de aguasura, moviéndose por fin Semana dos, hice la revisión La que había hecho mil veces antes Salí de la ducha, me sequé, me revisé
+
+**[05:32]** Y por primera vez en dos años, nada Sin olor, solo limpio Me quedé allí parada, mirando mi mano Y rompí a llorar Semana cuatro, él me buscó Y por primera vez en no sé cuánto tiempo No aparté su mano No puse una excusa, lo dejé Me quedé ahí y me sentí completamente presente Sin pánico, sin calcular, sin contener la respiración Solo allí, con él, de la forma en que solía ser
+
+**[06:03]** Ese fin de semana me miró después y dijo Ahí estás, te he estado buscando Lloré de nuevo, pero esta vez porque había regresado En absoluto silencio, llevando toallitas
+
+**[06:33]** Vergüenza y ropa interior de repuesto Y entre sus matrimonios se disuelven en silencio Ahora sí, recuperé a mi esposo en seis semanas, con unas gotas bajo la lengua, no dejes que algo tan fácil arreglar, te robé la parte más íntima de tu matrimonio.

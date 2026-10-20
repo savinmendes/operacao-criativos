@@ -1,0 +1,23 @@
+REVISÃO: V09 - LYMPHORIA-TE-PASO-EL-DATO.mp4
+duração 22.63s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.6 MB
+decodificação: OK
+pts do áudio: 1059 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 21.88-22.62
+cortes de cena: 3 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1122-1188, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V09\rev\V09 - LYMPHORIA-TE-PASO-EL-DATO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.92 Si tu sufres mucho de retención de líquido, este es un suplemento de adrenaje linfático,
+   5.92-  9.04 o sea que te va a ayudar a eliminar las toxinas.
+   9.04- 13.36 Si estás así todo embombada, todo hinchada, eso es para esto.
+  13.36- 15.06 Se llama linforia.
+  15.06- 19.12 Compre uno y reciba dos y pagas al recibir en tu casa.
+  19.12- 21.56 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

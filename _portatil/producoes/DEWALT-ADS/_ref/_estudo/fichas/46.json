@@ -1,0 +1,71 @@
+{
+ "ad": "46",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@organizafacilshop (TikTok Shop)",
+  "de_quem": "loja/afiliado TikTok Shop (Brasil)",
+  "url": "https://www.tiktok.com/@organizafacilshop/video/7585582653924052231"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 23.3,
+ "cortes": {
+  "n": 3,
+  "tempos_s": [
+   5.6,
+   14.52,
+   21.4
+  ],
+  "ritmo": "rápido: legenda palavra a palavra, zooms/transições, PNG da ferramenta sobreposto, troca de cena a cada ~3-8 s"
+ },
+ "formato": "UGC TikTok Shop com narração + legenda palavra a palavra + tela de produto/preço no fim (oferta)",
+ "gancho": {
+  "visual_0_3s": "mão segurando a furadeira (POV) sobre piso branco + PNG da ferramenta flutuando",
+  "texto_0_3s": "'furadeira de impacto sem escova' + selo 'A partir de: R$ 499,50'; legenda palavra a palavra 'QUANDO A FERRAMENTA AGUENTA USO PESADO'",
+  "fala_0_3s": "Quando a ferramenta aguenta uso pesado, ela mostra na prática. Essa deu alto 20V de impacto, que eu já usei bastante e dá para ver claramente na imagem."
+ },
+ "corpo": [
+  {
+   "t": "0-5.6",
+   "o_que": "POV furadeira na mão, selo de preço e PNG da ferramenta",
+   "texto": "QUANDO A FERRAMENTA AGUENTA USO PESADO..."
+  },
+  {
+   "t": "5.6-14.5",
+   "o_que": "furadeira girando/acionada na mão; picture-in-picture com faixa preta",
+   "texto": "VINTE VOLTAS DE... / QUE EU JÁ... / VER CLARAMENTE NA..."
+  },
+  {
+   "t": "14.5-21.4",
+   "o_que": "teste em mão (pressão) + take de parafusar/furar em placa de madeira (outra fonte)",
+   "texto": "CONTINUA FIRME E COM ALTO TORQUE / MENOS AQUECIMENTO E MAIS AUTONOMIA"
+  },
+  {
+   "t": "21.4-23.3",
+   "o_que": "kit com 2 ferramentas + tela da loja TikTok Shop com preço R$ 499,50",
+   "texto": "FERRAMENTA PROFISSIONAL PARA... / PERDER TEMPO NEM SERVIÇO / Clica no carrinho e compre agora"
+  }
+ ],
+ "cta": "Clica no carrinho e compre agora (sobre print da página do produto com preço R$ 499,50)",
+ "texto_na_tela": "legenda palavra a palavra branca com destaque laranja; selo de preço; selo TikTok Shop; print do produto",
+ "produto": {
+  "modelo": "não legível; corpo cinza/amarelo 20V MAX brushless com seletor de impacto, compatível com DCD7781/DCD778 (impacto). A página no fim diz 'Parafusadeira e Furadeira Modelo DeWalt 20...'. Possível réplica (preço R$ 499,50 é baixo para original) — precisa de revisão manual",
+  "eh_nosso": "parecido visualmente, modelo não confirmado"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "selo 'TikTok Shop' e print da página do TikTok Shop",
+ "audio": "narração masculina pt-BR em 1ª pessoa ('que eu já usei bastante') + música",
+ "uso": [
+  "traduzir/adaptar"
+ ],
+ "uso_detalhe": "estrutura de ad de conversão completa (benefício → prova na mão → kit → preço → CTA) em 23 s; roteiro é traduzível para ES-CL com narração clonada; takes de mão sem rosto aproveitáveis com LaMa para tirar legendas. Trocar o fim (print TikTok Shop) pelo nosso CTA/preço.",
+ "nota": 4,
+ "nota_justificativa": "é o mais 'ad de venda' do lote: ritmo rápido, narração com benefícios (uso pesado, torque, menos aquecimento, autonomia), sem rosto e CTA de compra; perde 1 ponto pelo modelo não confirmado e muito texto queimado a remover.",
+ "transcricao": [
+  "0.3-10.3: Quando a ferramenta aguenta uso pesado, ela mostra na prática. Essa deu alto 20V de impacto, que eu já usei bastante e dá para ver claramente na imagem.",
+  "11.3-18.3: Continua firme e forte, sem escova, com alto torque, menos aquecimento e mais autonomia da bateria.",
+  "19.3-22.3: Ferramenta profissional para quem não pode perder tempo nem serviço."
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "flora": {
+      "type": "http",
+      "url": "https://agents.flora.ai/mcp"
+    },
+    "heygen": {
+      "type": "http",
+      "url": "https://mcp.heygen.com/mcp/v1/"
+    },
+    "elevenlabs": {
+      "command": "uvx",
+      "args": ["elevenlabs-mcp"],
+      "env": {
+        "ELEVENLABS_API_KEY": "${ELEVENLABS_API_KEY}",
+        "ELEVENLABS_MCP_BASE_PATH": "${ELEVENLABS_MCP_BASE_PATH:-}"
+      }
+    }
+  }
+}

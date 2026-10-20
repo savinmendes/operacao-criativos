@@ -1,0 +1,26 @@
+{
+ "ad": "08",
+ "idioma": "es (Peru: 'socio', telefones +51, 'envíos a todo el Perú')",
+ "origem": {"perfil": "@arfersa.peru (TikTok)", "tipo": "loja de ferramentas física (Lima, Peru) - revendedor", "url": "https://www.tiktok.com/@arfersa.peru/video/7590942946644577544"},
+ "resolucao": "576x1026 (abaixo de 720p)",
+ "duracao_s": 61.1,
+ "cortes": {"n": 37, "ritmo": "rápido e constante, corte a cada ~1,5 s, narração em off sobre b-roll"},
+ "formato": "demo de produto em loja/oficina com narração em off (voz de 'maestro') + selos de benefício",
+ "gancho": {"0_3s_visual": "mulher em loja colorida carregando/posicionando chapa em furadeira de coluna, logo corta para close da broca anular furando aço", "0_3s_fala": "Socio, si no puedes llevar la pieza a la máquina, entonces lleva la máquina a la pieza.", "0_3s_texto_tela": "nenhum no 1º plano; depois WhatsApp '+51 958 724 983' fixo"},
+ "corpo": [
+  {"t": "0-13", "bloco": "conceito: taladro magnético inalámbrico que se fixa em aço grosso e perfura em qualquer lugar"},
+  {"t": "13-26", "bloco": "base com ímã permanente (sem eletricidade), porta-brocas de troca rápida, 10 velocidades (selo 'IMÁN P.')"},
+  {"t": "26-39", "bloco": "broca anular ou convencional, reversível; 'funciona com cualquier batería 20V, con FlexVolt se pone más brava' (selo FLEXVOLT)"},
+  {"t": "39-53", "bloco": "frasco de refrigeração, motor sem escovas (selo BRUSHLESS), protetor de cavaco"},
+  {"t": "53-61", "bloco": "perfura até 50 mm (selo HASTA 50MM), manopla ajustável; vendedora na loja"}
+ ],
+ "cta": "implícito: WhatsApp fixo na tela + texto do post com telefones e endereço da loja (sem CTA falado)",
+ "texto_na_tela": "selos verdes com check: IMÁN P., FLEXVOLT, BRUSHLESS, HASTA 50MM; WhatsApp +51 958 724 983 em quase todo o vídeo",
+ "produto": {"modelo": "DCD1623B taladro de columna magnético 2 pol 20V MAX FLEXVOLT ADVANTAGE (texto do post; 'DCD1623' legível em parte na carcaça)", "e_nosso_produto": false},
+ "rosto": {"tem": true, "tempo_aprox_s": "~4 s (vendedora no início e no fim, de perfil)"},
+ "marca_dagua": "WhatsApp da loja peruana fixo na tela; marcas DeWalt/Total no fundo",
+ "audio": "narração masculina em espanhol neutro-andino em off + música",
+ "uso_para_nos": ["só referência de formato (narração em off tipo 'socio/maestro' + b-roll a cada 1,5 s + selos de benefício com check)", "descartar como material (produto industrial diferente, WhatsApp peruano queimado em todo o vídeo)"],
+ "nota_cod_chile": 2,
+ "justificativa": "Linguagem e ritmo ótimos para o público 'maestro' latino (gancho de frase-ditado, voz de colega de obra, selos curtos). Produto é uma furadeira magnética industrial e o vídeo tem WhatsApp de outra loja em quase todos os quadros. Copiar a estrutura com 'maestro' chileno e o DCD7771."
+}

@@ -1,0 +1,142 @@
+{
+  "_leia_antes": "NAO EXECUTADO. Todo pedido nao cancelado da loja Chile vai para a Dropi (98-100%, inclusive pedidos de admin/API). Cancelar em segundos. Ver MAPA-FORNECEDORES.md.",
+  "orderCreate": {
+    "order": {
+      "currency": "CLP",
+      "test": true,
+      "tags": [
+        "TESTE-CLAUDE",
+        "NO-ENVIAR"
+      ],
+      "note": "PRUEBA – NO ENVIAR – cancelar",
+      "financialStatus": "PENDING",
+      "buyerAcceptsMarketing": false,
+      "phone": "+56900000000",
+      "lineItems": [
+        {
+          "variantId": "gid://shopify/ProductVariant/50483876135168",
+          "quantity": 1,
+          "priceSet": {
+            "shopMoney": {
+              "amount": "49900",
+              "currencyCode": "CLP"
+            }
+          }
+        },
+        {
+          "variantId": "gid://shopify/ProductVariant/50570134913280",
+          "quantity": 1,
+          "priceSet": {
+            "shopMoney": {
+              "amount": "34900",
+              "currencyCode": "CLP"
+            }
+          }
+        }
+      ],
+      "discountCode": {
+        "itemFixedDiscountCode": {
+          "code": "PRUEBA-BF-PERFUME-50",
+          "amountSet": {
+            "shopMoney": {
+              "amount": "17450",
+              "currencyCode": "CLP"
+            }
+          }
+        }
+      },
+      "shippingLines": [
+        {
+          "title": "Envío gratis",
+          "priceSet": {
+            "shopMoney": {
+              "amount": "0",
+              "currencyCode": "CLP"
+            }
+          }
+        }
+      ],
+      "transactions": [
+        {
+          "kind": "SALE",
+          "status": "PENDING",
+          "gateway": "Cash on Delivery (COD)",
+          "amountSet": {
+            "shopMoney": {
+              "amount": "67350",
+              "currencyCode": "CLP"
+            }
+          }
+        }
+      ],
+      "shippingAddress": {
+        "firstName": "PEDIDO DE PRUEBA",
+        "lastName": "CLAUDE",
+        "address1": "PRUEBA NO ENVIAR 0",
+        "address2": "PRUEBA – NO ENVIAR",
+        "city": "PRUEBA",
+        "provinceCode": "RM",
+        "countryCode": "CL",
+        "phone": "+56900000000"
+      },
+      "billingAddress": {
+        "firstName": "PEDIDO DE PRUEBA",
+        "lastName": "CLAUDE",
+        "address1": "PRUEBA NO ENVIAR 0",
+        "city": "PRUEBA",
+        "provinceCode": "RM",
+        "countryCode": "CL",
+        "phone": "+56900000000"
+      },
+      "customAttributes": [
+        {
+          "key": "Country code",
+          "value": "CL"
+        },
+        {
+          "key": "Nombre y Apellido",
+          "value": "PEDIDO DE PRUEBA CLAUDE"
+        },
+        {
+          "key": "Número WhatsApp",
+          "value": "+56900000000"
+        },
+        {
+          "key": "Región",
+          "value": "PRUEBA"
+        },
+        {
+          "key": "Comuna",
+          "value": "PRUEBA"
+        },
+        {
+          "key": "Calle y número de casa",
+          "value": "PRUEBA NO ENVIAR 0"
+        },
+        {
+          "key": "Punto de Referencia",
+          "value": "PRUEBA – NO ENVIAR – cancelar"
+        },
+        {
+          "key": "Confirmo que estaré disponible para recibir y pagar mi pedido.",
+          "value": "PRUEBA"
+        }
+      ]
+    },
+    "options": {
+      "inventoryBehaviour": "BYPASS",
+      "sendReceipt": false,
+      "sendFulfillmentReceipt": false
+    }
+  },
+  "orderCancel": {
+    "orderId": "<gid://shopify/Order/ID devolvido pelo orderCreate>",
+    "reason": "OTHER",
+    "refundMethod": {
+      "originalPaymentMethodsRefund": false
+    },
+    "restock": false,
+    "notifyCustomer": false,
+    "staffNote": "Pedido de prueba Claude (TESTE-CLAUDE) - cancelado, no enviar"
+  }
+}

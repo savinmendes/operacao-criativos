@@ -1,0 +1,6 @@
+SB-IT-ADS-12.1-GD — pronto em 16/10/2026
+Vídeo: SB-IT-ADS-12.1-GD.mp4 (31,6 s, 1080x1920, 30 fps, 18,9 MB)
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2 (gancho e CTA a 1,12–1,15x)
+HeyGen: 5 jobs de lipsync speed (hook, jb, cta v1 reprovado, cta v2 usado e um reenvio do cta v2 feito cedo demais, não usado)
+QA: revisar_ad.py (whisper it) OK, sem termos proibidos, sem salto de pts e sem quadro solto; revisor independente sem problemas
+Avisos: lipsync do CTA com índice de pausa 0,86 (ele sorri de lábios quase fechados na pausa de 28,6–29,07 s); "Tocca" começa 0,35 s antes do corte, ainda na cena da cruz; "mi ignori" rápido em 0,0–0,8 s

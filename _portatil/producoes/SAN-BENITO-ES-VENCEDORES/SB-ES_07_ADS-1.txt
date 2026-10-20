@@ -1,0 +1,42 @@
+Ranking: 07
+Anúncio (criativo): ADS 1
+Nomes de anúncio somados: ADS 1, ADS 1 | HOT, ADS 1 — nv, ADS 1 — nv | HOT
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (16): SB ES - 04/09 - ABO | SB ES - 07/08 - CBO | SB ES - 11/09 - ABO - lead 1 | SB ES - 11/09 - ABO - lead 2 | SB ES - 11/09 - ABO - lead 3 | SB ES - 12/07 - BIDCAP | SB ES - 12/07 - CBO | SB ES - 13/09 - ABO - lead 2 escala | SB ES - 15/09 - ABO - lead 2 escala | SB ES - 16/07 - CBO | SB ES - 17/07 - CBO | SB ES - 19/09 - ABO - lead 2 [DUPLICADOS] | SB ES - 21/09 - ABO - lead 2 [DUPLICADOS HOT] | SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT] | SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] | SB ES - ESCALA LEAD 2 - BID - 17/09  [ESPANHA]
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 1202.40
+Compras (pixel): 43
+Custo por compra: US$ 27.96  (média SB ES: US$ 31.62)
+ROAS compra no site: 1.43  (média SB ES: 1.22)
+CTR de link: 6.28%  (cliques no link / impressões)
+Impressões: 44955
+Cliques no link: 2821
+Status atual dos anúncios: {'ADSET_PAUSED': 13, 'CAMPAIGN_PAUSED': 7, 'WITH_ISSUES': 1}
+
+ARQUIVO: SB-ES_07_ADS-1.mp4 — 360x480 h264, 144.9 s
+Origem: Meta, video_id 924783380289837. Só existe em 360x480 no Meta (abaixo de 720p) e não há cópia local com a mesma duração (144,9 s). Convertido de AV1 para H.264. A maior parte do gasto rodou em posts de página sem video_id; confirmar visualmente se é a mesma edição.
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 374.29 / 15 / 120248115845490259 / 38128971953384703 / SB ES - 04/09 - ABO / ADS 1
+  US$ 237.04 / 12 / 120248281029650259 / 2309203453163512 / SB ES - 15/09 - ABO - lead 2 escala / ADS 1
+  US$ 121.58 / 4 / 120248232948940259 / 1987319615258173 / SB ES - 11/09 - ABO - lead 1 / ADS 1
+  US$ 111.97 / 3 / 120248222051470259 / 1404438521658519 / SB ES - 11/09 - ABO - lead 2 / ADS 1
+  US$ 106.60 / 0 / 120248222051460259 / 1112009351398138 / SB ES - 11/09 - ABO - lead 3 / ADS 1
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 2309203453163512
+Título: (vazio)
+Texto principal:
+Hay un mensaje que está tocando el corazón de muchas personas en pleno momento de oración…
+
+Habla de caminos que parecen cerrados, puertas que no se abren y cargas que uno lleva sin entender por qué.
+
+Muchos lo llaman "mala suerte"…
+pero hay quienes sienten que detrás de todo eso hay algo más profundo, en lo espiritual.
+
+Una oración ligada a San Benito —poco conocida por la mayoría— está despertando la atención de quienes buscan protección, fe y paz interior.
+
+¿Qué revela esta oración?
+Escúchala con atención 👇

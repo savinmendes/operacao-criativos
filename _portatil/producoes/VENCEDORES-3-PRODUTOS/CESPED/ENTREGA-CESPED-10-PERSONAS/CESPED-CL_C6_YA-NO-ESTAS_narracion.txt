@@ -1,0 +1,30 @@
+CÉSPED · PODADORA INALÁMBRICA CÉSPED RUEDAS · COD CHILE · Producción C6 «Ya no estás pa' esto» (720x1280)
+
+ROTEIRO
+0:00 GANCHO     Patio con el pasto hasta las rodillas. El hijo (35), con pena: «Papá, deja que contratemos a alguien… ya no estás pa' esto.»
+                El papá (68) lo mira ofendido.   [pantalla: MI HIJO ME DIJO QUE YA NO PODÍA 😤]
+0:04 PERSONA    (selfie del papá) «Toda la vida cortando mi pasto… y la máquina a bencina ya me ganaba.»
+0:10 ANTES/DESP (toma real) «Hasta que probé esta.»
+0:15 MECANISMO  (tomas reales) «Es cortapasto, orilladora y bordeadora en uno. Tiene ruedas, así que la usas con una sola mano.
+                Cuchilla de metal reforzada: olvídate de los hilos que se cortan. Y es inalámbrica, con dos baterías.»
+0:31 VIRADA     El hijo llega y encuentra el patio perfecto. El papá, de brazos cruzados: «¿Quién no estaba pa' esto?»
+0:34 CTA        (papá con la podadora) «Despacho gratis a todo Chile, pagas al recibir y tienes noventa días de garantía. Toca el botón y pídela.» + flechas
+
+Voz del papá: Salvatore (wfTWLJ20rcMqvU8gIiAB): narración TTS + persona y virada por speech-to-speech.
+Voz del hijo: nativa del Seedance 2.0. Música: ElevenLabs Music (cumbia instrumental propia).
+Imágenes: GPT Image 2.5 (producto a partir de la referencia real). Corte y uso del producto: solo tomas reales.
+
+TEXTO DEL ANUNCIO (ES-CL, sin precio)
+Título: «¿Ya no estás pa' esto?» Mira esto 😤
+Texto principal:
+Mi hijo me dijo que ya no estaba pa' cortar el pasto… y que contratáramos a alguien 😤
+Toda la vida lo hice yo, pero la máquina a bencina ya me ganaba. Hasta que probé esta:
+✅ 3 en 1: cortapasto, orilladora y bordeadora
+✅ Con ruedas: la usas con una sola mano
+✅ Cuchilla de metal reforzada: olvídate de los hilos que se cortan
+✅ Inalámbrica, con dos baterías
+🚚 Despacho gratis a todo Chile
+💳 Pagas al recibir
+🛡️ 90 días de garantía
+👉 Toca el botón y pídela
+Botón: Comprar

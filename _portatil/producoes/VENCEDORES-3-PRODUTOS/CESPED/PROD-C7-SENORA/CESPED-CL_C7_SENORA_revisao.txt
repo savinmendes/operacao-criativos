@@ -1,0 +1,24 @@
+REVISÃO: CESPED-CL_C7_SENORA.mp4
+duração 39.51s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.9 MB
+decodificação: OK
+pts do áudio: 1854 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1024-1089, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C7-SENORA\CESPED-CL_C7_SENORA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  6.00 no no vengan a la casa es que el patio escuché a mi señora decirle a su
+   6.00- 12.24 hermana que no viniera por el patio hasta que provee esta
+  13.80- 19.20 es corta pasto orilladora y bordeadora en uno tiene ruedas así que la usas con
+  19.20- 23.48 una sola mano cuchilla de metal reforzada olvídate de los hilos que
+  23.48- 32.48 se cortan. Y es inalámbrica, con dos baterías.
+  32.48- 37.40 Despacho gratis a todo Chile. Pagas al recibir y tienes 90 días de garantía.
+  37.40- 38.96 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

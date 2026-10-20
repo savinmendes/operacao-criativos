@@ -1,0 +1,156 @@
+[
+{
+"w": "No",
+"ini": 4.86,
+"fim": 5.34,
+"p": 0.33,
+"linha": "DUENO"
+},
+{
+"w": "crees",
+"ini": 5.34,
+"fim": 5.66,
+"p": 0.97,
+"linha": "DUENO"
+},
+{
+"w": "en",
+"ini": 5.66,
+"fim": 5.78,
+"p": 0.99,
+"linha": "DUENO"
+},
+{
+"w": "Dios",
+"ini": 5.78,
+"fim": 6.02,
+"p": 0.85,
+"linha": "DUENO"
+},
+{
+"w": "que",
+"ini": 6.02,
+"fim": 6.34,
+"p": 0.8,
+"linha": "DUENO"
+},
+{
+"w": "él",
+"ini": 6.34,
+"fim": 6.48,
+"p": 0.88,
+"linha": "DUENO"
+},
+{
+"w": "te",
+"ini": 6.48,
+"fim": 6.62,
+"p": 1.0,
+"linha": "DUENO"
+},
+{
+"w": "pague",
+"ini": 6.62,
+"fim": 6.92,
+"p": 0.71,
+"linha": "DUENO"
+},
+{
+"w": "entonces.",
+"ini": 6.92,
+"fim": 7.28,
+"p": 0.75,
+"linha": "DUENO"
+},
+{
+"w": "Patrón,",
+"ini": 7.84,
+"fim": 8.32,
+"p": 0.96,
+"linha": "JULIOB"
+},
+{
+"w": "yo",
+"ini": 8.42,
+"fim": 8.46,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "trabajé",
+"ini": 8.46,
+"fim": 8.98,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "todo",
+"ini": 8.98,
+"fim": 9.12,
+"p": 1.0,
+"linha": "JULIOB"
+},
+{
+"w": "el",
+"ini": 9.12,
+"fim": 9.34,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "mes.",
+"ini": 9.34,
+"fim": 9.5,
+"p": 1.0,
+"linha": "JULIOB"
+},
+{
+"w": "Por",
+"ini": 10.08,
+"fim": 10.26,
+"p": 0.94,
+"linha": "JULIOB"
+},
+{
+"w": "favor,",
+"ini": 10.26,
+"fim": 10.6,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "páganeme",
+"ini": 10.76,
+"fim": 11.2,
+"p": 0.61,
+"linha": "JULIOB"
+},
+{
+"w": "lo",
+"ini": 11.2,
+"fim": 11.38,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "que",
+"ini": 11.38,
+"fim": 11.54,
+"p": 0.99,
+"linha": "JULIOB"
+},
+{
+"w": "es",
+"ini": 11.54,
+"fim": 11.7,
+"p": 1.0,
+"linha": "JULIOB"
+},
+{
+"w": "justo.",
+"ini": 11.7,
+"fim": 11.94,
+"p": 1.0,
+"linha": "JULIOB"
+}
+]

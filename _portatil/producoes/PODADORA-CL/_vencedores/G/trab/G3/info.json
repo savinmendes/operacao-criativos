@@ -1,0 +1,21 @@
+{
+ "cod": "G3",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\G3 - UNA-MANO-A-ES-CL.mp4",
+ "gancho_s": 4.966666666666667,
+ "fala_s": 4.69,
+ "tomadas": [
+  [
+   "G3.mp4",
+   0.0,
+   4.966666666666667
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 52.07,
+ "ganho_fala_db": 0.2,
+ "mb": 25.8,
+ "kbps": 4261,
+ "texto": [
+  "CON UNA MANO ✋"
+ ]
+}

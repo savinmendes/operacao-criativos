@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Painel ao vivo</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--ink:#16181c;--muted:#6b7280;--line:#e3e6ea;--run:#2563eb;--ok:#16a34a;--err:#dc2626;--wait:#d97706}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a20;--ink:#e8eaee;--muted:#9aa1ad;--line:#272b33;--run:#60a5fa;--ok:#4ade80;--err:#f87171;--wait:#fbbf24}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;padding:14px 16px}
+header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
+h1{font-size:16px;margin:0}
+.sub{color:var(--muted);font-size:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.top{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.tit{font-weight:600}
+.est{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:99px;color:#fff;white-space:nowrap}
+.rodando{background:var(--run)}.pronto{background:var(--ok)}.erro{background:var(--err)}.aguardando{background:var(--wait)}
+.etapa{margin:6px 0 4px;color:var(--ink)}
+.barra{height:6px;background:var(--line);border-radius:99px;overflow:hidden}
+.barra i{display:block;height:100%;background:var(--run);transition:width .4s}
+.meta{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:12px;margin-top:6px}
+.imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:6px;margin-top:8px}
+.imgs a{display:block;text-decoration:none;color:var(--muted);font-size:11px}
+.imgs img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;border:1px solid var(--line);background:var(--line)}
+.links a{color:var(--run);font-size:12px;margin-right:10px}
+details{margin-top:6px}summary{cursor:pointer;color:var(--muted);font-size:12px}
+.log{font-size:12px;color:var(--muted);margin:4px 0 0;padding-left:16px}
+.vazio{color:var(--muted);text-align:center;padding:40px 0}
+.pulso{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--run);margin-right:6px;animation:p 1.2s infinite}
+@keyframes p{50%{opacity:.25}}
+h2{font-size:13px;margin:16px 0 8px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.feed{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 0;max-height:60vh;overflow-y:auto}
+.ev{display:grid;grid-template-columns:62px 18px 92px 1fr;gap:6px;padding:4px 12px;font-size:12px;align-items:baseline;border-bottom:1px solid var(--line)}
+.ev:last-child{border-bottom:0}
+.ev .h{color:var(--muted);font-variant-numeric:tabular-nums}
+.ev .f{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ev .x{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink)}
+.ev .x small{color:var(--muted);margin-left:6px}
+.ev.pedido{background:color-mix(in srgb,var(--run) 10%,transparent)}
+.ev.fim .f{color:var(--ok)}
+.ev.err .f{color:var(--err)}
+.ag{color:var(--wait);font-weight:600;margin-right:4px}
+</style>
+</head>
+<body>
+<header><h1><span class="pulso" id="pulso"></span><span id="pedido">Painel ao vivo</span></h1><span class="sub" id="atual">—</span></header>
+<h2>O que o Claude está fazendo agora</h2>
+<div class="feed" id="feed"><div class="vazio">Aguardando a primeira ação…</div></div>
+<h2>Tarefas</h2>
+<main id="lista"><div class="vazio">Nenhuma tarefa registrada ainda.</div></main>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const hora=t=>new Date(t*1000).toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+function dur(s){s=Math.max(0,Math.round(s));const m=Math.floor(s/60);return m>=60?Math.floor(m/60)+'h'+String(m%60).padStart(2,'0'):m>0?m+' min':s+' s';}
+const ORDEM={rodando:0,aguardando:1,erro:2,pronto:3};
+const NOME={rodando:'rodando',pronto:'pronto',erro:'erro',aguardando:'aguardando você'};
+function render(d){
+  const agora=Date.now()/1000, ts=Object.entries(d.tarefas||{});
+  $('#atual').textContent=d.atualizado?'atualizado '+hora(d.atualizado):'—';
+  const ped=d.pedido&&d.pedido.texto; $('#pedido').textContent=ped?('Pedido atual: '+ped):'Painel ao vivo'; document.title=ped?(ped+' · Painel'):'Painel ao vivo';
+  $('#pulso').style.display=ts.some(([,t])=>t.estado==='rodando')?'inline-block':'none';
+  if(!ts.length){$('#lista').innerHTML='<div class="vazio">Nenhuma tarefa registrada ainda.</div>';return;}
+  ts.sort((a,b)=>(ORDEM[a[1].estado]-ORDEM[b[1].estado])||(b[1].inicio-a[1].inicio));
+  $('#lista').innerHTML=ts.map(([id,t])=>{
+    const pct=t.n?Math.round(100*t.k/t.n):(t.estado==='pronto'?100:0);
+    const passou=(t.fim||agora)-t.inicio;
+    const falta=(t.estado==='rodando'&&t.k>0&&t.n>t.k)?' · falta ~'+dur(passou/t.k*(t.n-t.k)):'';
+    const prog=t.n?`[${t.k}/${t.n}] ${pct}%`:'';
+    const imgs=(t.imagens||[]).slice().reverse().map(i=>`<a href="${esc(i.src)}" target="_blank"><img loading="lazy" src="${esc(i.src)}" alt=""><div>${esc(i.legenda)}</div></a>`).join('');
+    const links=(t.links||[]).map(l=>`<a href="${esc(l.url)}" target="_blank">${esc(l.rotulo)} ↗</a>`).join('');
+    const log=(t.log||[]).slice().reverse().map(([tt,m])=>`<li>${hora(tt)} · ${esc(m)}</li>`).join('');
+    return `<section class="card">
+      <div class="top"><span class="tit">${esc(t.titulo)}</span><span class="est ${t.estado}">${NOME[t.estado]||t.estado}</span></div>
+      <div class="etapa">${esc(t.etapa)}</div>
+      ${t.n?`<div class="barra"><i style="width:${pct}%;background:var(--${t.estado==='pronto'?'ok':t.estado==='erro'?'err':'run'})"></i></div>`:''}
+      <div class="meta"><span>${prog}${falta}</span><span>${dur(passou)}</span>${t.custo?`<span>US$ ${t.custo.toFixed(2)}</span>`:''}</div>
+      ${links?`<div class="links" style="margin-top:6px">${links}</div>`:''}
+      ${imgs?`<div class="imgs">${imgs}</div>`:''}
+      ${log?`<details><summary>histórico</summary><ul class="log">${log}</ul></details>`:''}
+    </section>`;}).join('');
+}
+async function ciclo(){
+  try{const r=await fetch('status.json?'+Date.now(),{cache:'no-store'});if(r.ok)render(await r.json());}
+  catch(e){$('#atual').textContent='sem conexão com o painel (servidor parado?)';}
+}
+ciclo();setInterval(ciclo,3000);
+
+// Feed ao vivo: lido de atividade.jsonl (gravado pelo hook ~/.claude/hooks/atividade.py)
+const ICONE={Bash:'⌨',PowerShell:'⌨',Read:'📄',Write:'✏',Edit:'✏',Grep:'🔎',Glob:'🔎',Agent:'🤖',Skill:'🧩',WebSearch:'🌐',WebFetch:'🌐'};
+let ultimoTam=-1;
+async function feed(){
+  try{
+    const r=await fetch('atividade.jsonl?'+Date.now(),{cache:'no-store'});
+    if(!r.ok)return;
+    const txt=await r.text(); if(txt.length===ultimoTam)return; ultimoTam=txt.length;
+    const evs=txt.split('\n').filter(Boolean).map(l=>{try{return JSON.parse(l)}catch{return null}}).filter(Boolean);
+    const fechados=new Set(evs.filter(e=>e.ev!=='PreToolUse'&&e.id).map(e=>e.id));
+    const erros=new Set(evs.filter(e=>e.erro&&e.id).map(e=>e.id));
+    const linhas=evs.filter(e=>e.ev!=='PostToolUse'&&e.ev!=='PostToolUseFailure').slice(-150).reverse().map(e=>{
+      const ag=e.agente?`<span class="ag">[${esc(e.agente)}]</span>`:'';
+      const ses=`<small>${esc(e.pasta)} · ${esc(e.sessao)}</small>`;
+      if(e.ev==='UserPromptSubmit')return `<div class="ev pedido"><span class="h">${hora(e.t)}</span><span>💬</span><span class="f">Pedido</span><span class="x">${esc(e.txt)}${ses}</span></div>`;
+      if(e.ev==='Stop'||e.ev==='SubagentStop')return `<div class="ev fim"><span class="h">${hora(e.t)}</span><span>✅</span><span class="f">${e.ev==='Stop'?'Terminou':'Agente terminou'}</span><span class="x">${ag}${ses}</span></div>`;
+      if(e.ev==='Notification')return `<div class="ev"><span class="h">${hora(e.t)}</span><span>🔔</span><span class="f">Aviso</span><span class="x">${esc(e.txt)}${ses}</span></div>`;
+      const rodando=e.id&&!fechados.has(e.id), err=erros.has(e.id);
+      const ic=rodando?'<span class="pulso"></span>':(ICONE[e.ferr]||'⚙');
+      return `<div class="ev${err?' err':''}" title="${esc(e.txt)}"><span class="h">${hora(e.t)}</span><span>${ic}</span><span class="f">${esc(e.ferr)}</span><span class="x">${ag}${esc(e.txt)}${ses}</span></div>`;
+    }).join('');
+    $('#feed').innerHTML=linhas||'<div class="vazio">Aguardando a primeira ação…</div>';
+  }catch(e){}
+}
+feed();setInterval(feed,1000);
+</script>
+</body>
+</html>

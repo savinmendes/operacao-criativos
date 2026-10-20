@@ -1,0 +1,32 @@
+REVISÃO: DW7781_TR37.mp4
+duração 76.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 20.0 MB
+decodificação: OK
+pts do áudio: 3573 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_TR37_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  4.62 Hola maestros, hoy les voy a presentar el kit de taladro percutor y atornillador inalámbrico
+   4.62-  9.38 The Walt, de 20 volts max, con baterías de Ion de Litio, vamos a verlo.
+   9.38- 16.68 Trae cargador, 2 baterías de 2 amperes, hora y una maleta para guardar y llevar todo.
+  16.68- 22.38 Tiene mandril de ajuste rápido de media pulgada, 13 milímetros, así cambias brocas y puntas
+  22.38- 27.30 en segundos, sin necesidad de usar llave, es compacto y bien liviano en la mano.
+  27.30- 32.98 con motor sin carbones, brushless, tiene dos velocidades mecánicas con gatillo variable y
+  32.98- 40.94 reversa. En la segunda velocidad llega hasta 1,750 revoluciones por minuto para perforar rápido. Su anillo
+  40.94- 47.90 tiene 15 posiciones de torque para apretar justo cada tornillo sin dañar el material y cada batería
+  47.90- 54.50 tiene su indicador de carga incorporado. Con él puedes perforar sin ningún problema en distintos
+  54.50- 59.50 tipos de madera y también en metal para fierros y estructuras y en muro o
+  59.50- 64.50 concreto usando el modo percutor. Tiene luz led para trabajar en lugares oscuros,
+  64.50- 68.90 ideal para atornillar, armar muebles, estructuras metálicas y para la
+  68.90- 71.50 mantensión de la casa o de la obra.
+  71.50- 75.50 Pre Black Friday, pídelo hoy y pagas recién cuando te llegue.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

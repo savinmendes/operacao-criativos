@@ -1,0 +1,59 @@
+SB-FR-ADS-13.13F-REZA-MUJER — saint Benoît · Français (FR/CA/BE/CH/Caraïbes)
+Fonte: ADS 13/ADS 13.13F REZA-MUJER.mp4 (ES, 31,5 s, 720x1280). Saída FR: 27,8 s, 720x1280, 30 fps.
+Destino: prière en direct. Botão do Meta: LEARN_MORE ("En savoir plus"). Sem produto e sem preço.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, francês (whisper fr 0,99),
+pausas encurtadas e atempo 1,07 (pitch preservado). Nenhuma voz criada/clonada/apagada. 2 gerações TTS.
+
+Estrutura: o 13.13F é o ADS 12 com outra abertura (0–5,8 s: senhora idosa rezando no sofá + Jesus em PiP no canto
+de baixo). A partir de 5,8 s os quadros são idênticos ao ADS 12 — reaproveitada a base limpa (LaMa) do ADS 12 EN/IT.
+
+======================================================================
+ROTEIRO ES  ×  ROTEIRO FR (narrado), por cena  (tempos da saída FR)
+======================================================================
+[A1  Senhora rezando + Jesus PiP, lipsync]  0,00–5,54
+  ES: Si me ignoras, no tendré otra opción que conceder el milagro que tanto necesitas a otra persona.
+  FR: Si tu m'ignores, je n'aurai pas d'autre choix que d'accorder le miracle dont tu as tant besoin à quelqu'un d'autre.
+[A2  Jesus com auréola, tela cheia, lipsync]  5,54–8,53
+  ES: Esta es tu última oportunidad para recibir lo que he preparado para ti.
+  FR: C'est ta dernière chance de recevoir ce que j'ai préparé pour toi.
+[B  Abraço]  8,53–11,83
+  ES: Jesús te ha elegido. Él te ha traído un poderoso regalo.
+  FR: Jésus t'a choisi. Il t'a apporté un puissant cadeau.
+[C  Jesus ajoelhado]  11,83–15,52
+  ES: En este vídeo escucharás una antigua oración perdida de la Biblia
+  FR: Aujourd'hui, tu vas entendre une ancienne prière perdue de la Bible,
+[D  Nuvens/livro]  15,52–18,87
+  ES: que desbloqueará una lluvia de bendiciones y milagros sobre tu vida.
+  FR: qui libérera une pluie de bénédictions et de miracles sur ta vie.
+[E  Cruz]  18,87–21,94
+  ES: No me rechaces nuevamente. Toca el botón
+  FR: Ne me rejette plus. Appuie sur « En savoir plus »
+[F  Jesus com auréola, lipsync, seta vermelha]  21,94–27,84
+  ES: de ver más ahora mismo y recibe tu milagro antes de que sea demasiado tarde.
+  FR: ci-dessous, et rejoins la prière en direct. Reçois ton miracle avant qu'il ne soit trop tard.
+
+Decisões
+- CTA padrão do lote: "Appuie sur « En savoir plus » ci-dessous et rejoins la prière en direct." + urgência do original
+  ("Reçois ton miracle avant qu'il ne soit trop tard"). "ahora mismo" saiu para caber na cena F.
+- "En este vídeo escucharás" -> "Aujourd'hui, tu vas entendre" (destino é a live, não um vídeo; igual ao IT/EN).
+- "No me rechaces nuevamente" -> "Ne me rejette plus" (natural em FR e 0,8 s mais curto que "encore une fois",
+  o que deixou a cruz a velocidade normal).
+- "desbloqueará una lluvia" -> "libérera une pluie" ("débloquer une pluie" soa estranho em FR).
+- Teor mantido sem suavizar: "accorder le miracle à quelqu'un d'autre", "dernière chance", "Ne me rejette plus",
+  "avant qu'il ne soit trop tard". Tutoiement, masculino genérico como nos FR vencedores.
+- Abertura mantida (diferencial do criativo): fundo da senhora + Jesus PiP do próprio 13.13F, legenda ES removida
+  com LaMa local; a boca/queixo do lipsync (feito em tela cheia sobre a base limpa) é reduzida para o PiP (escala 0,609)
+  e colada com elipse suave, com a cor ajustada por LUT de quantis para a gradação do PiP do 13.13F. Em 1,3–2,1 s o dedo
+  passa na frente da boca e o HeyGen o apagava: nesses quadros a região do dedo vem do original (máscara do dedo).
+  (1ª versão por "diferença" deixava dedo cinza e dentes azulados — apontado pelo revisor e refeita.)
+- Troca PiP -> tela cheia no fim da 1ª frase, como no original (5,54 s; no ES era 5,8 s).
+- Legenda FR: Poppins Bold caixa alta, sombra difusa, blocos de ≤3 palavras; no PiP pequena (escala 0,61, como no
+  original). Cores: MIRACLE/CHANCE/CADEAU/MIRACLES/VIE/TARD vermelho; CHOISI/PRÉPARÉ/ENTENDRE/PRIÈRE/« EN SAVOIR PLUS »
+  amarelo; BÉNÉDICTIONS/DIRECT verde.
+- Seta vermelha no CTA: a base limpa vem do ADS 12, que tem a seta vermelha na cena final (o 13.13F não tinha).
+  Mantida porque o briefing pede setas no CTA e a fala diz "ci-dessous".
+- Música: fundo do próprio 13.13F sem voz (demucs) a -32 LUFS, voz a -16 LUFS, fade de 0,6 s no fim.
+- Lipsync HeyGen speed, 2 jobs (entrada = base limpa + áudio ES original; áudio FR separado):
+  A 8,5 s (4d26fa1c800e40ffbf1b7321e4653584): índice de pausa 0,40 APROVADO.
+  F 5,9 s, entrada a 0,91x (c0eb40c3077a4142a114ed5f55d522be): índice 0,62 AVISO — conferido a olho: nas pausas ele
+  fica sorrindo de lábios quase fechados (igual ao original e ao IT, que deu 0,58).

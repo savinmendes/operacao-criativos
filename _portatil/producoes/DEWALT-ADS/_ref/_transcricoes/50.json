@@ -1,0 +1,22 @@
+{
+ "arquivo": "50 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.95,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 2.5,
+   "texto": "Tem marca que nem precisa de apresentação."
+  },
+  {
+   "ini": 2.5,
+   "fim": 5.5,
+   "texto": "Basta um kit desses para entender o motivo."
+  },
+  {
+   "ini": 5.5,
+   "fim": 24.34,
+   "texto": "The World, sua aliada industrial, disponível em nosso site e em nossas lojas físicas."
+  }
+ ]
+}

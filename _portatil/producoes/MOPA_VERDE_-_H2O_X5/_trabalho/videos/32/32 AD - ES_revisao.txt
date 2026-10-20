@@ -1,0 +1,35 @@
+REVISÃO: 32 AD - ES.mp4
+duração 18.70s | 720x1280 | 30/1 fps | áudio: sim | 11.4 MB
+decodificação: OK
+pts do áudio: 876 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1180-1245, x 232-503 | no último quadro: sim | faixa escura do rodapé: 1065-1108
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\32\32 AD - ES_revisao.jpg
+idioma detectado: es (0.95)
+
+=== transcrição (es) ===
+   0.00-  2.52 Me encanta el H2O X5.
+   2.52-  4.12 No es solo un trapeador.
+   4.12-  6.76 Es un sistema completo de limpieza a vapor.
+   6.76-  8.96 Trapeador y vaporizador de mano.
+   8.96- 12.24 Limpia pisos, azulejos, vidrios, ropa y más.
+  12.24- 14.00 Solo vapor, sin químicos.
+  14.00- 16.16 Limpieza profunda en cada rincón.
+  16.16- 19.00 Haz clic en más información.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  2.54    Me encanta el H2O X5.
+   2.54-  4.16    No es solo un trapeador.
+   4.16-  6.80    Es un sistema completo de limpieza a vapor.
+   6.80-  9.00    Trapeador y vaporizador de mano.
+   9.00- 12.28    Limpia pisos, azulejos, vidrios, ropa y más.
+  12.28- 14.04    Solo vapor, sin químicos.
+  14.04- 16.24    Limpieza profunda en cada rincón.
+  16.24- 19.08    Haz click en más información.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

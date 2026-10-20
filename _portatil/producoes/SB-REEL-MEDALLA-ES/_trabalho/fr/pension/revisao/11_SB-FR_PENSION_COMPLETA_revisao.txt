@@ -1,0 +1,57 @@
+REVISÃO: 11_SB-FR_PENSION_COMPLETA.mp4
+duração 60.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 38.9 MB
+decodificação: OK
+pts do áudio: 2841 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\pension\revisao\11_SB-FR_PENSION_COMPLETA_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  3.60 J'ai prié à l'accueil de ma maison d'hôte, avec toutes les clés accrochées.
+   3.60-  5.36 Et voilà ce qui s'est passé.
+   5.36-  8.36 Ô Glorieux Saint-Benoît, sors-moi de cette misère.
+  11.36- 14.04 J'ai passé presque 6 mois sans un seul client.
+  14.04- 17.16 La maison que j'ai construite avec mon mari tombait en ruine.
+  17.16- 19.28 J'avais l'impression de lui faire défaut.
+  19.28- 22.08 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  22.08- 25.68 que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  25.68- 28.24 Des millions de personnes portent cette médaille.
+  28.24- 32.40 et personne ne leur a jamais expliqué ce que disent ces lettres.
+  32.40- 33.88 Ce n'est pas un manque de foi.
+  33.88- 37.24 C'est que personne ne leur a appris la bonne façon de la prier.
+  37.24- 41.84 Quand on l'a pris de la bonne façon, la maison s'apaisent, la peur s'en va,
+  41.84- 46.88 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  46.88- 49.60 C'est pour ça que j'ai laissé l'explication complète,
+  49.60- 55.52 lettre par lettre, dans une transmission en direct ouverte 24h sur 24.
+  55.52- 60.16 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.00    Pruebo a la acción de mi casa de otro, con todos los clíos acrochados, y aquí es lo que pasó.
+   5.00-  8.00    ¡Oh glorioso Sain Benoît! ¡Vámonos de esta misera!
+  11.00- 14.00    Hací casi seis meses sin un único cliente.
+  14.00- 17.00    La casa que construí con mi marido se tomó en ruina.
+  17.00- 19.00    Tengo la impresión de hacerle defecto.
+  19.00- 22.00    Hasta el día en que un préter me explicó algo
+  22.00- 25.00    que nadie me había dicho en la medalla de Sain Benoît.
+  25.00- 28.00    Los millones de personas portan esta medalla.
+  28.00- 32.00    Y no habrá explicado nada de lo que dicen las letras.
+  32.00- 34.00    No es una falta de veces.
+  34.00- 37.00    Es que la persona no habrá aprendido la buena forma de prestarla.
+  37.00- 39.00    Cuando la has aprendido de la buena forma,
+  39.00- 42.00    la casa se apasiona, la miedo se va.
+  42.00- 44.00    Y comienzan a ver más asesios aquí,
+  44.00- 47.00    donde no ves solo las puertas cerradas.
+  47.00- 49.00    Es por eso que dejé la explicación completa,
+  49.00- 51.00    letra por letra,
+  51.00- 55.42    en una transmisión directa y abierta 24 horas a 24 horas.
+  55.42- 57.74    Aparar a saber más,
+  57.74- 60.42    justo debajo, y vienes a llorar con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,32 @@
+{
+ "id": "15",
+ "texto": "Thanks for watching!",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 8.66,
+   "texto": "Thanks for watching!",
+   "no_speech": 0.26,
+   "palavras": [
+    {
+     "w": "Thanks",
+     "ini": 0.0,
+     "fim": 1.56,
+     "p": 0.0
+    },
+    {
+     "w": "for",
+     "ini": 1.56,
+     "fim": 8.66,
+     "p": 0.72
+    },
+    {
+     "w": "watching!",
+     "ini": 8.66,
+     "fim": 8.66,
+     "p": 0.93
+    }
+   ]
+  }
+ ]
+}

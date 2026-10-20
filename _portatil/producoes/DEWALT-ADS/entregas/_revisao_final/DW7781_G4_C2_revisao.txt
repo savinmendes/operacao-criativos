@@ -1,0 +1,33 @@
+REVISÃO: DW7781_G4_C2.mp4
+duração 41.63s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.9 MB
+decodificação: OK
+pts do áudio: 1953 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: 0.80/0.83, 1.23/1.40, 1.40/1.57
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G4_C2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.00 Llegó el pre-black Friday maestro
+   2.00-  5.00 Pónese el anillo en modo percutor
+   5.00-  8.00 Y la broca entra en el muro sin pelear
+   8.00- 11.00 En madera pasa limpiecita
+  11.00- 16.00 Y para atornillar 15 posiciones de torque aprietas justo sin pasarte
+  16.00- 19.00 El secreto, motor sin carbones
+  19.00- 24.00 LeWall dice que es 17% más eficiente que un motor con carbones
+  24.00- 27.00 Dos velocidades, fuerza en la primera, rapidez en la segunda
+  27.00- 32.96 Y trae dos baterías con indicador de carga, mientras una trabaja la otra se carga, compacto
+  32.96- 35.36 y liviano para trabajar todo el día.
+  35.36- 39.84 Aprovecha el pre Black Friday, pídelo hoy y pagas recién cuando te llegue, envío a
+  39.84- 40.44 todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 0.80s e 0.83s (33 ms)
+PROBLEMA: quadro solto? cortes em 1.23s e 1.40s (167 ms)
+PROBLEMA: quadro solto? cortes em 1.40s e 1.57s (167 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+3 problema(s)

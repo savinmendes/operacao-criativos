@@ -1,0 +1,729 @@
+{
+ "tema": "sagrado",
+ "gerado_em": "2026-10-15",
+ "ferramenta": "ElevenLabs Creative (flow CBgMkfnbIQYFyC3iqi3x)",
+ "formato": "720x1280 30fps H.264 CRF22 sem audio bt601",
+ "total_takes": 35,
+ "creditos_total": 76437.9,
+ "takes": [
+  {
+   "arquivo": "sagrado_01_mosteiro-amanhecer.mp4",
+   "descricao": "Mosteiro beneditino de pedra na encosta italiana ao amanhecer, névoa no vale (drone push-in)",
+   "tags": [
+    "mosteiro",
+    "amanhecer",
+    "nevoa",
+    "italia",
+    "drone",
+    "paisagem"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_02_claustro-patio-amanhecer.mp4",
+   "descricao": "Pátio do claustro com poço ao amanhecer, arcos de pedra, sem pessoas",
+   "tags": [
+    "claustro",
+    "mosteiro",
+    "amanhecer",
+    "arcos"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_03_dois-monges-claustro-costas.mp4",
+   "descricao": "Dois monges de hábito preto caminhando de costas no corredor do claustro, raios de sol",
+   "tags": [
+    "monges",
+    "costas",
+    "claustro",
+    "sol",
+    "pessoas-sem-rosto"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_04_monge-sozinho-claustro-nevoa.mp4",
+   "descricao": "Monge sozinho de costas, longe, caminhando no claustro com jardim e névoa",
+   "tags": [
+    "monge",
+    "costas",
+    "claustro",
+    "nevoa",
+    "pessoas-sem-rosto"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_05_maos-monge-acendendo-vela.mp4",
+   "descricao": "Mãos de monge acendendo vela com pavio longo em capela escura",
+   "tags": [
+    "monge",
+    "maos",
+    "vela",
+    "capela",
+    "close"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_06_monge-velas-votivas.mp4",
+   "descricao": "Monge encapuzado (rosto oculto) acendendo velas votivas em igreja escura",
+   "tags": [
+    "monge",
+    "velas",
+    "igreja",
+    "capuz"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_07_maos-folheando-manuscrito.mp4",
+   "descricao": "Mãos idosas folheando manuscrito antigo, letras borradas, luz de vela",
+   "tags": [
+    "manuscrito",
+    "maos",
+    "vela",
+    "livro-antigo"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 4.0,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "página faz curva estranha no fim; usar até 4,0 s"
+  },
+  {
+   "arquivo": "sagrado_08_manuscrito-iluminado-vela.mp4",
+   "descricao": "Manuscrito iluminado com bordas douradas aberto na mesa, vela, poeira no feixe de luz (texto ilegível)",
+   "tags": [
+    "manuscrito",
+    "vela",
+    "livro-antigo",
+    "dourado"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_09_biblioteca-antiga-velas.mp4",
+   "descricao": "Biblioteca antiga do mosteiro com estantes altas e velas na mesa de leitura (dolly)",
+   "tags": [
+    "biblioteca",
+    "velas",
+    "mosteiro",
+    "livros"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_10_biblioteca-candelabro-noite.mp4",
+   "descricao": "Corredor da biblioteca à noite com candelabro de 3 velas, abóbada (tilt up)",
+   "tags": [
+    "biblioteca",
+    "candelabro",
+    "noite",
+    "velas"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_11_montanhas-italianas-nevoa.mp4",
+   "descricao": "Montanhas italianas com névoa ao nascer do sol, capela distante no morro (drone)",
+   "tags": [
+    "montanhas",
+    "nevoa",
+    "amanhecer",
+    "italia",
+    "paisagem",
+    "drone"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_12_vale-nevoa-pinheiros.mp4",
+   "descricao": "Neblina correndo no vale entre montanhas rochosas, pinheiros em silhueta",
+   "tags": [
+    "montanhas",
+    "nevoa",
+    "vale",
+    "pinheiros",
+    "paisagem"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_13_sino-balancando-torre.mp4",
+   "descricao": "Sino de bronze na torre de pedra, céu azul (movimento do sino discreto)",
+   "tags": [
+    "sino",
+    "torre",
+    "ceu",
+    "igreja"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "o sino balança pouco (quase estático)"
+  },
+  {
+   "arquivo": "sagrado_14_torre-sinos-por-do-sol.mp4",
+   "descricao": "Torre sineira com dois sinos ao pôr do sol, pássaros",
+   "tags": [
+    "sino",
+    "torre",
+    "por-do-sol",
+    "passaros"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_15_altar-velas-incenso.mp4",
+   "descricao": "Altar de pedra com toalha branca, velas acesas e fumaça de incenso no feixe de luz",
+   "tags": [
+    "altar",
+    "velas",
+    "incenso",
+    "igreja"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_16_incensario-fumaca-velas.mp4",
+   "descricao": "Turíbulo de latão balançando com fumaça de incenso, bokeh de velas douradas",
+   "tags": [
+    "incenso",
+    "turibulo",
+    "velas",
+    "altar",
+    "close"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_17_porta-igreja-abrindo-luz.mp4",
+   "descricao": "Porta dupla de madeira da igreja se abrindo com luz dourada (vista de fora)",
+   "tags": [
+    "porta",
+    "igreja",
+    "luz-dourada",
+    "revelacao"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_18_porta-arco-abrindo-interior.mp4",
+   "descricao": "Porta em arco aberta vista de dentro da igreja, manhã com névoa lá fora, bancos",
+   "tags": [
+    "porta",
+    "igreja",
+    "manha",
+    "bancos"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_19_vitral-colorido-sol.mp4",
+   "descricao": "Vitral colorido (padrões geométricos) com sol atravessando e feixes coloridos",
+   "tags": [
+    "vitral",
+    "sol",
+    "igreja",
+    "cores"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_20_luz-vitral-chao-bancos.mp4",
+   "descricao": "Manchas de luz do vitral no chão de pedra e bancos, poeira no ar",
+   "tags": [
+    "vitral",
+    "luz",
+    "igreja",
+    "bancos"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_21_maos-idosa-medalha-prata.mp4",
+   "descricao": "Mãos idosas (mulher) segurando medalha redonda de prata com relevo de santo, sem letras",
+   "tags": [
+    "medalha",
+    "maos-idosas",
+    "close",
+    "mulher"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 4.3,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "no fim a medalha vira de lado; usar até 4,3 s"
+  },
+  {
+   "arquivo": "sagrado_22_maos-idoso-medalha-peito.mp4",
+   "descricao": "Mãos idosas (homem) fechando medalha com cruz contra o peito, luz de vela",
+   "tags": [
+    "medalha",
+    "maos-idosas",
+    "oracao",
+    "vela",
+    "homem"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_23_estatua-santo-musgo-nevoa.mp4",
+   "descricao": "Estátua de pedra de monge santo coberta de musgo no jardim com névoa (órbita)",
+   "tags": [
+    "estatua",
+    "musgo",
+    "santo",
+    "jardim",
+    "nevoa"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "fundo arquitetônico muda durante a órbita"
+  },
+  {
+   "arquivo": "sagrado_24_estatua-santo-chuva-hera.mp4",
+   "descricao": "Estátua de santo em oração com musgo e hera, chuva fina, contra-plongée",
+   "tags": [
+    "estatua",
+    "musgo",
+    "santo",
+    "chuva",
+    "hera"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_25_cruz-pedra-topo-montanha.mp4",
+   "descricao": "Cruz de pedra no topo da montanha ao nascer do sol, mar de nuvens (órbita)",
+   "tags": [
+    "cruz",
+    "montanha",
+    "amanhecer",
+    "nuvens"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_26_cruz-pedra-tempestade.mp4",
+   "descricao": "Cruz celta de pedra no cume com nuvens de tempestade e raio de sol, vento no capim",
+   "tags": [
+    "cruz",
+    "montanha",
+    "tempestade",
+    "raios-de-sol"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_27_procissao-velas-noite-longe.mp4",
+   "descricao": "Procissão de velas à noite vista do alto e de longe, rua sinuosa até a igreja",
+   "tags": [
+    "procissao",
+    "velas",
+    "noite",
+    "cidade-latina",
+    "longe"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_28_procissao-velas-costas.mp4",
+   "descricao": "Procissão de velas à noite, pessoas comuns de costas caminhando em rua de pedra",
+   "tags": [
+    "procissao",
+    "velas",
+    "noite",
+    "costas",
+    "pessoas"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_29_ceu-dramatico-raios-colinas.mp4",
+   "descricao": "Céu dramático com nuvens abrindo e raios de sol sobre colinas verdes",
+   "tags": [
+    "ceu",
+    "raios-de-sol",
+    "nuvens",
+    "colinas"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_30_ceu-raios-sol-nuvens.mp4",
+   "descricao": "Céu de nuvens brancas com raios de sol irradiando do centro (tilt up)",
+   "tags": [
+    "ceu",
+    "raios-de-sol",
+    "nuvens",
+    "celestial"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_31_mao-celular-live-borrao.mp4",
+   "descricao": "Mão de idosa segurando celular assistindo transmissão (tela: igreja com velas, desfocada, sem interface)",
+   "tags": [
+    "celular",
+    "live",
+    "maos-idosas",
+    "sala",
+    "noite"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_32_idosa-celular-emocionada.mp4",
+   "descricao": "Senhora latina ~68 anos emocionada olhando o celular, mão no peito, cozinha simples",
+   "tags": [
+    "celular",
+    "idosa",
+    "emocao",
+    "cozinha",
+    "rosto"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_33_celular-mesa-vela-terco.mp4",
+   "descricao": "Celular apoiado na mesa ao lado de vela e terço, tela com altar desfocado",
+   "tags": [
+    "celular",
+    "vela",
+    "terco",
+    "mesa",
+    "live"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": ""
+  },
+  {
+   "arquivo": "sagrado_34_familia-celular-juntos.mp4",
+   "descricao": "Família latina (45-75 anos) no sofá olhando o mesmo celular juntos",
+   "tags": [
+    "celular",
+    "familia",
+    "grupo",
+    "sala",
+    "rostos"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "expressões mais alegres que emocionadas"
+  },
+  {
+   "arquivo": "sagrado_35_celular-acendendo-escuro.mp4",
+   "descricao": "Celular com tela acesa no criado-mudo no quarto escuro, terço ao lado",
+   "tags": [
+    "celular",
+    "escuro",
+    "notificacao",
+    "terco",
+    "quarto"
+   ],
+   "duracao": 5.03,
+   "in": 0.0,
+   "out": 5.03,
+   "creditos": {
+    "imagem_gpt-image-2.5-sunburst": 62.94,
+    "video_kling-2.5-turbo": 2121,
+    "total": 2183.94
+   },
+   "status": "aprovado",
+   "obs": "tela já acesa desde o 1º quadro (não há o momento de acender)"
+  }
+ ]
+}

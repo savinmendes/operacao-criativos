@@ -1,0 +1,86 @@
+{
+ "briga": {
+  "arquivo": "seedance_briga2.mp4",
+  "ini": 0.0,
+  "fim": 9.6,
+  "cx": 0.5,
+  "cy": 0.5
+ },
+ "pre": {
+  "arquivo": "k_pre.mp4",
+  "ini": 0.25,
+  "quadros": 90,
+  "fundir": 4,
+  "amb_ss": 10.0,
+  "vel": 1.6
+ },
+ "sts": true,
+ "pip_ate": 4.04,
+ "zoom": 1.3,
+ "zoom_c": [
+  420,
+  400
+ ],
+ "zoom_de": 3.0,
+ "zoom_ate": 4.8,
+ "titulo_ate": 3.0,
+ "virada": {
+  "maos": {
+   "arquivo": "k_maos.mp4",
+   "ini": 0.6,
+   "dur": 2.2
+  },
+  "sentada": {
+   "arquivo": "k_sentada.mp4",
+   "ini": 1.3,
+   "dur": 3.4
+  },
+  "abraco": {
+   "arquivo": "k_abraco.mp4",
+   "ini": 0.4,
+   "dur": 2.4
+  }
+ },
+ "esperanca_em": 1.0,
+ "falas": [
+  [
+   "R01",
+   1.0
+  ],
+  [
+   "C1",
+   1.0
+  ],
+  [
+   "C2",
+   1.12
+  ],
+  [
+   "P1",
+   1.0
+  ],
+  [
+   "P2",
+   1.12
+  ],
+  [
+   "P3",
+   1.0
+  ],
+  [
+   "CTA",
+   1.0
+  ]
+ ],
+ "cabeca": 0.1,
+ "cauda": 0.1,
+ "cauda_cta": 0.15,
+ "cy_carmen": 0.35,
+ "cy_rep": 0.3,
+ "final": {
+  "arquivo": "k_abraco.mp4",
+  "ini": 3.1,
+  "dur": 0.9
+ },
+ "cabeca_min": 0.04
+}

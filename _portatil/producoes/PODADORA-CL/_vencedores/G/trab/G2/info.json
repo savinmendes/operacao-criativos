@@ -1,0 +1,21 @@
+{
+ "cod": "G2",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\G2 - DOMINGO-LIBRE-A-ES-CL.mp4",
+ "gancho_s": 4.0,
+ "fala_s": 3.39,
+ "tomadas": [
+  [
+   "G2.mp4",
+   0.0,
+   4.0
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 51.1,
+ "ganho_fala_db": 1.5,
+ "mb": 25.9,
+ "kbps": 4344,
+ "texto": [
+  "DOMINGO LIBRE ☕"
+ ]
+}

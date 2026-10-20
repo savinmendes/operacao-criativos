@@ -1,0 +1,50 @@
+{
+ "comerciante/app": {
+  "voice_id": "VXZKNah1ssrzM8c81OiY",
+  "nome": "Santiago"
+ },
+ "sacerdote": {
+  "voice_id": "Zkg9LlmGNlBWLgWjzTnu",
+  "nome": "Pa Gabriel"
+ },
+ "abuela": {
+  "voice_id": "aYQAm4rWuigkeuRA5i92",
+  "nome": "Grandma Aurora"
+ },
+ "feria": {
+  "voice_id": "HRi5Prm2B3PevwpDmVLP",
+  "nome": "María Blanco (colombiana, cálida expresiva)"
+ },
+ "pareja": {
+  "voice_id": "D3ws14YxTqcjPaXEOehR",
+  "nome": "Azu (mexicana, suave)"
+ },
+ "pension": {
+  "voice_id": "efcRUax7uSa9kpBwtDPe",
+  "nome": "Luisa - Narradora de Cuentos (latina, grave pausada)"
+ },
+ "costurera": {
+  "voice_id": "hHjbwzYZW17oh0p05AKv",
+  "nome": "Gabriela (mexicana, madura cálida)"
+ },
+ "madre": {
+  "voice_id": "SmgKjOvC1aIujLWcMzqq",
+  "nome": "Alisson (colombiana, cálida natural, meia-idade)"
+ },
+ "campesino": {
+  "voice_id": "wfTWLJ20rcMqvU8gIiAB",
+  "nome": "Salvatore - Conversations & Storyteller"
+ },
+ "desempleado": {
+  "voice_id": "l1zE9xgNpUTaQCZzpNJa",
+  "nome": "Alberto Rodriguez - Serious, Narrative"
+ },
+ "uci": {
+  "voice_id": "BHLqq06mcM3GS54SV6yo",
+  "nome": "Yenisel"
+ },
+ "app": {
+  "voice_id": "sKgg4MPUDBy69X7iv3fA",
+  "nome": "Alejandro Duran - Warm, Deep and Hoarse (latina, ~55, rouca) - serie COMPLETA"
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C4-SUEGROS/CESPED-CL_C4_SUEGROS.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C4-SUEGROS/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C4-SUEGROS/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C4-SUEGROS/corpo.alinhamento.json", "chaves": ["casa", "suegro", "potrero", "probé", "uno", "ruedas", "mano", "metal", "inalámbrica", "baterías", "yerno", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "PRIMERA VEZ QUE VIENEN MIS SUEGROS 😰", "y": 1290, "ate": 4.1},
+  "cta": {"palavra": "toca", "y": 1590},
+  "resolucao": "720",
+  "limite_mb": 30
+}

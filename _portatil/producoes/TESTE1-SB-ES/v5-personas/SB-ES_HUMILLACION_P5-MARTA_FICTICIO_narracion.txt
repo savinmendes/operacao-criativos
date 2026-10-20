@@ -1,0 +1,18 @@
+NARRACIÓN COMPLETA — SB-ES_HUMILLACION_P5-MARTA_FICTICIO.mp4 (1:08)
+Lote "Humillación" (v5 personas) · P5 DOÑA MARTA (puesto de frutas en la feria). Texto = ROTEIRO_PERSONAS_v2.md (P5 + [PEDIDO] + [CTA]).
+Personajes ficticios: REPORTERA (en PiP desde 0:00 y luego en la calle), MATÓN (agresor) y DOÑA MARTA (feriante, 55-60 años).
+Sello "VIDEO FICTICIO" arriba a la derecha todo el video. Marco de post "Fe en Noticias / Trabajador es humillado y algo impactante sucede (estándar del lote)" todo el video.
+Título 0-3 s: "LA HUMILLARON POR SU FE… AL DÍA SIGUIENTE PASÓ ESTO". Flechas TOCA «VER MÁS» desde el CTA hasta el final; nada se dice después del CTA.
+Voces (ElevenLabs): reportera Gabriela · matón Richard · doña Marta María Blanco (también en la pelea).
+
+[00:00] REPORTERA (en PiP): Imágenes impactantes: una feriante fue atacada en plena feria… por su fe.
+[00:04] MATÓN: ¡Llama a tu Dios para que te recoja esto!
+[00:06] DOÑA MARTA: Señor, yo no le hice nada. ¡Pare, por el amor de Dios!
+[00:10] (sin voz: Marta recoge el crucifijo entre la fruta, música triste -> puesto vacío -> 5 clientes -> fila llena, música de esperanza)
+[00:19] REPORTERA: Al día siguiente, el puesto de doña Marta se quedó sin fruta antes del mediodía.
+[00:25] DOÑA MARTA (voz en off): Esa noche tiré a la basura la fruta que se me había podrido... igual que todas las semanas. Ya no sabía qué hacer.
+[00:31] DOÑA MARTA: Mi vecina me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña. Al otro día, a las ocho ya tenía fila.
+[00:40] DOÑA MARTA (pedido): Si tú también rezas y sientes que nadie te escucha... y que las cosas solo empeoran... no es que Dios no te escuche.
+[00:47] DOÑA MARTA (pedido): Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito...
+[00:55] DOÑA MARTA (pedido): y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?
+[01:01] REPORTERA (CTA): ¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.

@@ -1,0 +1,383 @@
+{
+ "sections": {
+  "announce": {
+   "type": "pv-announce",
+   "settings": {
+    "bold": "Buy 1 Get 1 Free",
+    "text": "- While Stock Lasts",
+    "brand": "PELLORINI",
+    "minutes": 45
+   }
+  },
+  "main": {
+   "type": "pv-product",
+   "blocks": {
+    "f0": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-steel.png",
+      "title": "316L Stainless Steel",
+      "sub": "Surgical-grade alloy"
+     }
+    },
+    "f1": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-crystal.png",
+      "title": "Scratch-Resistant Face",
+      "sub": "No anxiety wear"
+     }
+    },
+    "f2": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-quartz.png",
+      "title": "Quartz Movement",
+      "sub": "Precision timekeeping"
+     }
+    },
+    "f3": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-water.png",
+      "title": "3ATM Waterproof",
+      "sub": "Rain & splash safe"
+     }
+    },
+    "f4": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-bracelet.png",
+      "title": "Adjustable Bracelet",
+      "sub": "Fits all wrists"
+     }
+    },
+    "f5": {
+     "type": "feature",
+     "settings": {
+      "icon": "shopify://shop_images/pv-f-date.png",
+      "title": "Day/Date Display",
+      "sub": "Dual function dial"
+     }
+    },
+    "w0": {
+     "type": "why",
+     "settings": {
+      "title": "Affordable Luxury",
+      "sub": "Premium materials, no luxury markup."
+     }
+    },
+    "w1": {
+     "type": "why",
+     "settings": {
+      "title": "2-Year Warranty",
+      "sub": "Full coverage on every component. We stand behind our craft."
+     }
+    },
+    "w2": {
+     "type": "why",
+     "settings": {
+      "title": "90-Day Money Back",
+      "sub": "No questions asked. Return for a full refund if it's not for you."
+     }
+    },
+    "w3": {
+     "type": "why",
+     "settings": {
+      "title": "Buy 1 Get 1 Free",
+      "sub": "Two watches for the price of one. Pick any two colors."
+     }
+    },
+    "l1": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-1.png"
+     }
+    },
+    "l2": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-2.png"
+     }
+    },
+    "l3": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-3.png"
+     }
+    },
+    "l4": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-4.png"
+     }
+    },
+    "l5": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-5.png"
+     }
+    },
+    "l6": {
+     "type": "life",
+     "settings": {
+      "image": "shopify://shop_images/pv-life-6.png"
+     }
+    },
+    "c0": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-1.png",
+      "caption": "Cheap look, loose fit",
+      "bad": true
+     }
+    },
+    "c1": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-2.png",
+      "caption": "Clean Look, Fits Perfectly",
+      "bad": false
+     }
+    },
+    "c2": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-3.png",
+      "caption": "Clean Look · Fits Perfectly",
+      "bad": false
+     }
+    },
+    "c3": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-4.png",
+      "caption": "Alloy, lightweight, tarnishes easily",
+      "bad": true
+     }
+    },
+    "c4": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-5.png",
+      "caption": "Adjustable · No Tarnish · Built to Last",
+      "bad": false
+     }
+    },
+    "c5": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-6.png",
+      "caption": "Adjustable · No Tarnish · Built to Last",
+      "bad": false
+     }
+    },
+    "c6": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-7.png",
+      "caption": "Mineral glass",
+      "bad": true
+     }
+    },
+    "c7": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-8.png",
+      "caption": "Scratch-resistant",
+      "bad": false
+     }
+    },
+    "c8": {
+     "type": "cmp",
+     "settings": {
+      "image": "shopify://shop_images/pv-cmp-9.png",
+      "caption": "Scratch-resistant",
+      "bad": false
+     }
+    }
+   },
+   "block_order": [
+    "f0",
+    "f1",
+    "f2",
+    "f3",
+    "f4",
+    "f5",
+    "w0",
+    "w1",
+    "w2",
+    "w3",
+    "l1",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "l6",
+    "c0",
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5",
+    "c6",
+    "c7",
+    "c8"
+   ],
+   "settings": {
+    "collection_products": [
+     "pellorini-maretti",
+     "pellorini-opulent",
+     "pellorini-milano",
+     "pellorini-dominante",
+     "pellorini-lucent",
+     "pellorini-napoli"
+    ],
+    "brand": "Pellorini",
+    "rating_text": "",
+    "tab2": "Why Pellorini",
+    "cmp_title": "See how Pellorini compares",
+    "ship_text": "<p>Free tracked shipping on every order. Orders ship within 1–2 business days. 90-day money-back guarantee and 2-year warranty.</p>",
+    "g_text": " Not in love? Send it back within 90 days for a full refund."
+   }
+  },
+  "must": {
+   "type": "pv-must-have",
+   "settings": {
+    "title": "MUST HAVE",
+    "products": [
+     "pellorini-adjustment-tool",
+     "pellorini-silk-cleaning-cloth"
+    ]
+   }
+  },
+  "it1": {
+   "type": "pv-imgtext",
+   "settings": {
+    "media_index": 2,
+    "heading": "Become the Man",
+    "text": "Success isn’t claimed—it’s earned. Pellorini watches are crafted for men who command respect, exude confidence, and embrace their status. Wear your legacy. Pellorini is more than a timepiece—it's a statement.",
+    "reverse": false
+   }
+  },
+  "it2": {
+   "type": "pv-imgtext",
+   "settings": {
+    "media_index": 3,
+    "heading": "The $10K Look",
+    "text": "Made with quality materials and built to be worn for years. Pellorini gives you the unmistakable $10K look and feel, without the $10K price tag.",
+    "reverse": true
+   }
+  },
+  "it3": {
+   "type": "pv-imgtext",
+   "settings": {
+    "media_index": 4,
+    "heading": "Timeless Strength",
+    "text": "Every Pellorini timepiece is a statement of strength and refinement. Designed for the modern man, each watch features scratch-resistant faces, precision-engineered bracelets, and rigorous testing to ensure unmatched durability and timeless sophistication.",
+    "reverse": false
+   }
+  },
+  "it4": {
+   "type": "pv-imgtext",
+   "settings": {
+    "media_index": 5,
+    "heading": "Effortless Elegance",
+    "text": "The Pellorini man exudes effortless charisma and style. With water-resistant strength and refined elegance, his timepiece makes a statement—get ready for the compliments.",
+    "reverse": true
+   }
+  },
+  "reviews": {
+   "type": "pv-reviews",
+   "disabled": true,
+   "blocks": {
+    "r0": {
+     "type": "review",
+     "settings": {
+      "date": "01/12/2026",
+      "name": "Hakam Ktaish",
+      "heading": "Beautiful Experience from Dubai ❤️",
+      "text": "Forget the price. Pelvini is just one of the finest watches you could ever buy. Amazing quality. Fancy watch on your wrist. Attention grabbing, especially the silver one. I bought the silver for me and the golden for my father in law, he is so happy with it. The way it shines, just magnificent."
+     }
+    },
+    "r1": {
+     "type": "review",
+     "settings": {
+      "date": "01/10/2026",
+      "name": "Joseph Smith",
+      "heading": "They look great for the price.",
+      "text": "I bought them in December and they came in January because of all the delivery traffic. They look great for the price. Some other companies sell them $10 more for the same exact watch."
+     }
+    },
+    "r2": {
+     "type": "review",
+     "settings": {
+      "date": "01/20/2026",
+      "name": "Kevin Oliveira",
+      "heading": "Muito lindo",
+      "text": "Muito lindo, super estiloso 🔥"
+     }
+    },
+    "r3": {
+     "type": "review",
+     "settings": {
+      "date": "03/23/2026",
+      "name": "Anonymous",
+      "heading": "Muy bonitos",
+      "text": "Tardó dos semanas en llegar pero a ser sincera están muy bonitos, son de buena calidad y trae su propio desarmador para quitar piezas si queda grande."
+     }
+    }
+   },
+   "block_order": [
+    "r0",
+    "r1",
+    "r2",
+    "r3"
+   ],
+   "settings": {}
+  },
+  "footer": {
+   "type": "pv-footer",
+   "settings": {
+    "brand": "Pellorini",
+    "text1": "Each Pellorini timepiece is accompanied by a 2-year international warranty."
+   }
+  },
+  "cart": {
+   "type": "pv-cart-drawer",
+   "settings": {
+    "upsells": [],
+    "trust": "Secure checkout · 90-Day Money Back · 2-Year Warranty"
+   }
+  },
+  "wheel": {
+   "type": "pv-wheel",
+   "settings": {
+    "bg": "shopify://shop_images/pv-wheel-bg.webp"
+   }
+  },
+  "pell_fix": {
+   "type": "custom-liquid",
+   "settings": {
+    "custom_liquid": "<style>.pvp__rate{display:none!important}.pvp__ccn{display:none!important}.pvp__ccc>div:nth-of-type(2){display:none!important}</style>",
+    "color_scheme": "scheme-1",
+    "padding_top": 0,
+    "padding_bottom": 0
+   }
+  }
+ },
+ "order": [
+  "announce",
+  "main",
+  "must",
+  "it1",
+  "it2",
+  "it3",
+  "it4",
+  "reviews",
+  "footer",
+  "cart",
+  "wheel",
+  "pell_fix"
+ ]
+}

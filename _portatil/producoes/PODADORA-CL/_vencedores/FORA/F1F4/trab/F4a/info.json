@@ -1,0 +1,38 @@
+{
+ "cod": "F4a",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F4a - COMENTARIO-PASTO-ALTO-B-ES-CL.mp4",
+ "gancho_s": 4.4,
+ "tomadas": [
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 16.36,
+   "quadros_origem": 55,
+   "quadros": 55,
+   "op": "",
+   "de_s": 0.0
+  },
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 18.4,
+   "quadros_origem": 50,
+   "quadros": 50,
+   "op": "",
+   "de_s": 1.833
+  },
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 22.31,
+   "quadros_origem": 27,
+   "quadros": 27,
+   "op": "",
+   "de_s": 3.5
+  }
+ ],
+ "corpo": "B",
+ "corte": 2.1,
+ "total_s": 39.27,
+ "ganho_db": 2.1,
+ "mb": 26.8,
+ "kbps": 5678,
+ "cenas": "POV cortando mato alto (vencedor1 16,36–18,19) → faixas abertas no gramado alto (vencedor1 18,40–20,07) → POV da faixa listrada pronta (vencedor1 22,31–23,21)"
+}

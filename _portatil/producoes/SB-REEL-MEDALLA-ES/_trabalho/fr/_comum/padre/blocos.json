@@ -1,0 +1,54 @@
+{
+ "audio": "padre.mp3",
+ "duracao_total": 36.057,
+ "pausa_entre_falas": 0.35,
+ "falas": [
+  {
+   "fala": 1,
+   "texto": "Des millions de personnes portent cette médaille… et personne ne leur a jamais expliqué ce que disent ses lettres. Ce n'est pas un manque de foi. C'est que personne ne leur a appris la bonne façon de la prier.",
+   "ini": 0.04,
+   "fim": 11.568
+  },
+  {
+   "fala": 2,
+   "texto": "Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va… et on recommence à voir des issues là où l'on ne voyait que des portes fermées.",
+   "ini": 12.018,
+   "fim": 21.899
+  },
+  {
+   "fala": 3,
+   "texto": "C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.",
+   "ini": 22.321,
+   "fim": 35.997
+  }
+ ],
+ "voz": {
+  "voice_id": "gP52hjM48hyNoVCbizxO",
+  "nome": "Alexandre - Calm, Warm & Authentic",
+  "modelo": "eleven_multilingual_v2"
+ },
+ "partes_avatar": [
+  {
+   "arquivo": "padre_parte1.mp4",
+   "audio_ini": 0.0,
+   "audio_fim": 22.11,
+   "falas": [
+    1,
+    2
+   ],
+   "duracao_video": 22.12,
+   "heygen_video_id": "9053664b2ff9ee869783d3ad1399a98b"
+  },
+  {
+   "arquivo": "padre_parte2.mp4",
+   "audio_ini": 22.11,
+   "audio_fim": 36.057,
+   "falas": [
+    3
+   ],
+   "duracao_video": 13.96,
+   "heygen_video_id": "062a3fddb71dc6d4e6551d61f2f2734e"
+  }
+ ],
+ "obs": "Cada parte já traz embutido o trecho exato de padre.mp3 (audio_ini..audio_fim). Vídeo 1080x1920, 25 fps. Fala 1 gerada com 'dise' no lugar de 'disent' (o TTS lia 'disent' nasal); palavras.json já mostra 'disent'."
+}

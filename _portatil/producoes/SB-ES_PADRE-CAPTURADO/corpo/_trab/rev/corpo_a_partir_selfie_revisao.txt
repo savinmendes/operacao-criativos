@@ -1,0 +1,28 @@
+REVISÃO: corpo_a_partir_selfie.mp4
+duração 75.07s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 37.3 MB
+decodificação: OK
+pts do áudio: 3520 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 782-1115, x 11-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\corpo\_trab\rev\corpo_a_partir_selfie_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.00 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+   4.00-  9.00 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida.
+   9.00- 15.00 Le enseñé esta oración a mi amigo el padre Juan Méndez y él la está rezando en vivo con miles de familias.
+  15.00- 26.00 Cada día me escriben familias que trabajan sin descanso, que rezan y aún así sienten que el dinero nunca alcanza y que algo les cierra el camino, no es falta de fe.
+  26.00- 37.40 O poderoso Sanvenito, guardián de los arcanos sagrados, que venciste a las serpientes con la señal de la cruz y callaste el rugido de los abismos con tu fe inquebrantable.
+  37.40- 43.80 Esta es la oración a Sanvenito que casi nadie conoce y que está ayudando a muchas familias hispanas.
+  43.80- 51.80 Sólo un grupo de monjes tenía acceso a esta oración completa, por eso nunca habían oído hablar de ella.
+  51.80- 57.30 Pero atención tiene que hacerse de la forma correcta, siguiendo las instrucciones,
+  57.30- 63.80 porque no es una oración común, tiene instrucciones y una manera correcta de hacerla y de escucharla.
+  63.80- 69.80 Por eso la estoy rezando en vivo, completa, paso a paso, junto con miles de familias.
+  69.80- 74.80 Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

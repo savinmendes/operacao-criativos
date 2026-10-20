@@ -1,0 +1,13 @@
+﻿REVISÃO: SB-EN-ADS-9.mp4
+duração 102.87s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 37.6 MB
+decodificação: OK
+pts do áudio: 4823 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 3 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1206-1276, x 2-718 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/3s): C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\01_ADS-9\_trabalho\revisao\SB-EN-ADS-9_revisao.jpg
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado
+relatório: C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\01_ADS-9\_trabalho\revisao\SB-EN-ADS-9_revisao.txt

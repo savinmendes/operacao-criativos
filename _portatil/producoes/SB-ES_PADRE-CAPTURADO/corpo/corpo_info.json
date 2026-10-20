@@ -1,0 +1,102 @@
+{
+ "corpo_a_partir_selfie.mp4": {
+  "duracao_s": 75.067,
+  "quadros": 2252,
+  "selfie_1o_quadro_s": 0.0,
+  "lufs_integrado": -16.5,
+  "fps": 30,
+  "resolucao": "720x1280",
+  "audio": "AAC 48 kHz estéreo",
+  "nota": "1º quadro = selfie do padre chorando (quadro 241 do v4). A fala «Es indignante…» começa em ~0,02 s e a trilha de tensão já entra tocando: na colagem, corte seco no vídeo e crossfade de ~0,15 s só no áudio.",
+  "tamanho_mb": 26.3
+ },
+ "V0_COMPLETA.mp4": {
+  "duracao_s": 83.1,
+  "quadros": 2493,
+  "selfie_1o_quadro_s": 8.033,
+  "lufs_integrado": -15.4,
+  "tamanho_mb": 28.6
+ },
+ "cta_setas_s_no_corpo": 70.02,
+ "en_vivo_s_no_corpo": 66.97,
+ "segmentos": [
+  {
+   "id": "G",
+   "tipo": "v4",
+   "a": 0,
+   "b": 240,
+   "ini_V0": 0.0,
+   "fim_V0": 8.033
+  },
+  {
+   "id": "S1",
+   "tipo": "v4",
+   "a": 241,
+   "b": 507,
+   "ini_V0": 8.033,
+   "fim_V0": 16.933
+  },
+  {
+   "id": "S2",
+   "tipo": "linha",
+   "a": "chora",
+   "b": null,
+   "ini_V0": 16.933,
+   "fim_V0": 22.967
+  },
+  {
+   "id": "jm1",
+   "tipo": "jm",
+   "a": "jm1",
+   "b": null,
+   "ini_V0": 22.967,
+   "fim_V0": 34.033
+  },
+  {
+   "id": "jm_previa",
+   "tipo": "jm",
+   "a": "jm_previa",
+   "b": null,
+   "ini_V0": 34.033,
+   "fim_V0": 45.4
+  },
+  {
+   "id": "jm2",
+   "tipo": "jm",
+   "a": "jm2",
+   "b": null,
+   "ini_V0": 45.4,
+   "fim_V0": 51.8
+  },
+  {
+   "id": "jm_monjes",
+   "tipo": "jm",
+   "a": "jm_monjes",
+   "b": null,
+   "ini_V0": 51.8,
+   "fim_V0": 59.8
+  },
+  {
+   "id": "jm_mec",
+   "tipo": "jm",
+   "a": "jm_mec",
+   "b": null,
+   "ini_V0": 59.8,
+   "fim_V0": 71.9
+  },
+  {
+   "id": "jm3",
+   "tipo": "jm",
+   "a": "jm3",
+   "b": null,
+   "ini_V0": 71.9,
+   "fim_V0": 83.1
+  }
+ ],
+ "log": {
+  "borrao": 0
+ },
+ "selo": "VIDEO FICTICIO do v4, mesma posição/tamanho, opacidade 10% (corpo\\_trab\\ov\\selo10.png), 1º ao último quadro",
+ "moldura_live_png": "C:\\Users\\PICHAU\\Downloads\\SB-ES_PADRE-CAPTURADO\\corpo\\_trab\\ov\\moldura_jm.png",
+ "padre_juan_mendez": "avatar HeyGen novo (rosto da página); o padre de roxo do v4 não aparece mais"
+}

@@ -1,0 +1,63 @@
+- [Debater criativo antes de gerar](feedback_debater-criativo-antes-de-gerar.md) — NUNCA gerar/produzir sem debater ideias e receber 'confirmo' explícito; responder perguntas de oferta não é aprovação
+- [Minimizar pedidos de confirmação](feedback_execucao-paga-precisa-confirmacao.md) — só parar pra confirmar quando for gastar dinheiro real (API paga) ou ação destrutiva/irreversível; o resto, seguir direto sem perguntar.
+- [Narração mínima no VS Code](feedback_narracao-minima-vscode.md) — quase nenhum texto solto entre ferramentas; só uma linha no início e resumo no final.
+- [Unit economics do COD](reference_unit-economics-cod.md) — planilha de precificação, calculadora publicada e o modelo real de margem/CPA (por entrega, não por pedido).
+- [Adaptação ADs Mayaverra → Lymphoria](project_lymphoria-adaptacao-ads.md) — lote LHYMPORIA AD 01-20, oferta Lymphoria Chile, método 'troca o fim + patch no rótulo'.
+- [Criativos são marcas próprias; clonar voz liberado](feedback_criativos-proprios-clonar-voz.md) — não tratar como concorrente; clonar narrador original no ElevenLabs sempre.
+- [Abrir vídeo ao terminar](feedback_abrir-video-ao-terminar.md) — toda prova/versão: Start-Process no arquivo + link clicável no topo da resposta.
+- [Mostrar tempo restante](feedback_mostrar-tempo-restante.md) — processos longos: progresso [k/N] + % + falta ~X.
+- [Orçamento com tempo](feedback_orcamento-com-tempo.md) — todo orçamento: custo + tempo médio + opção paga mais rápida lado a lado.
+- [720p padrão p/ origem baixa](feedback_720p-padrao-origem-baixa.md) — origem 360p → entregar 720x1280 (upscale 2x); 1080 só vencedores/origem alta.
+- [30 criativos TikTok → FB inglês](project_tiktok-en-30-criativos.md) — Tarte CC + Sungboon Toner; estudo pronto, produção adiada; orçamentos A/B/C
+- [Podadora COD Chile](project_podadora-chile.md) — 12 vídeos ES-CL (4 traduzidos + 8 gancho×corpo) + 11 estáticos; scripts de variação reutilizáveis
+- [HeyGen créditos](reference_heygen-creditos.md) — Pro, ~9k créditos premium que zeram todo dia 30; oferecer HeyGen como opção sem custo extra
+- [Drenagem LATAM 55 criativos](project_drenagem-latam.md) — Lymphoria: 20 ADs + 5 UGC + 30 variações entregues 05/10; band_fix no lugar do Kling em Pixar
+- [Wyze Solar Cam LATAM](project_wyze-solar-cam-latam.md) — 16 ADs ES entregues 05/10, vende a Wyze original (marca fica), sem clonar voz de criador, rostos → avatar HeyGen
+- [Criador terceiro: avatar ou mesmo criador](feedback_criador-terceiro-escolha.md) — pessoa escolhe por lote; mesmo criador (clone+lipsync) só com autorização do criador confirmada
+- [Linfarele imagens ref Erlona](project_linfarele-imagens-erlona.md) — 124 imagens 1:1 + textos IT sem frasco, ângulos da concorrente Erlona, entregue 07/10
+- [Baixar vídeos na maior qualidade](feedback_baixar-videos-maior-qualidade.md) — sempre ≥720p; Biblioteca do Meta: video_hd_url (buscar_hd.py), nunca o src do player (360p); deduplicar por md5
+- [Oración ES LATAM 18 vídeos](project_oracion-es-latam.md) — página Keiko Tanaka (da pessoa), PT→ES, lipsync HeyGen speed + recorte no rosto, entregue 08/10
+- [Piloto antes do lote](feedback_piloto-antes-do-lote.md) — piloto só p/ método novo ou caro; método já validado e barato → todos em paralelo, máximo de agentes; avatar completo rejeitado
+- [Compliance: perguntar antes](feedback_compliance-perguntar.md) — suavizar promessa/ameaça/cena sensível p/ Meta é decisão da pessoa: listar riscos e perguntar manter×suavizar
+- [Mopa H2O X5 ES](project_mopa-h2o-x5-es.md) — 15 vídeos + 12 imagens EN→ES LATAM, marca da pessoa mantida, ~US$1,70, entregue 08/10
+- [Painel ao vivo + voz](feedback_painel-ao-vivo.md) — registrar etapas em painel/painel.py (aba http://127.0.0.1:8765 no VS Code); hook fala 'Sávio, terminei'
+- [Yara BF Chile](project_yara-bf-chile.md) — kit 3 Yara COD CL, Black Friday paga 2 leva 3 sem preço; teste gancho US$2,86; aguardando escolha A/B/C
+- [Música trend em anúncio](feedback_musica-trend-anuncio.md) — pessoa libera música viral real nos ADs (assume risco); instrumental via demucs + ducking, sem repetir alerta
+- [Escopo só o pedido](feedback_escopo-so-o-pedido.md) — loja: mexer só nas páginas pedidas (perfumes/coleção); expansão é proposta, nunca execução
+- [Perfumes Lattafa Chile](project_perfumes-lattafa-chile.md) — 13 produtos + coleção + Black Friday + carrinho/raspadinha; pausado 09/10, pendências no arquivo
+- [Checklist de abertura da produção](feedback_checklist-abertura-producao.md) — fechar oferta/preço/orçamento de mídia numa pergunta só; legenda pelo roteiro, música -32 LUFS, transcrever takes
+- [DeWalt ADs Chile](project_dewalt-ads-cl.md) — DCD7771 COD CL a partir de 50 refs (dewalt.zip); pre-BF, sem preço, creators são das lojas da pessoa (clone/lipsync ok), máximo volume barato
+- [Vitaly → Lymphoria CL](project_vitaly-lymphoria-cl.md) — 11 vídeos + 12 imagens + lote enxuto 8+4; CTA clean sem preço; V03/V11 bloqueados
+- [Pellorini relógios](project_pellorini-relogios.md) — marca Pellorini sobre best sellers da essiora.com; 90 dias, mundo todo; plano Andromeda + estudo 11 lojas
+- [Priorizar vencedores](feedback_priorizar-vencedores.md) — lotes e subidas começam pelo top 5 do ranking de vendas, nunca por variedade de foto
+- [San Benito ES vencedores](project_san-benito-es-vencedores.md) — ranking 11/10 (ADS 6, ADS 20, ADS 12.x, JESU V07; Shakira reprovados), pasta SAN-BENITO-ES-VENCEDORES
+- [Não esconder avaliações](feedback_nao-esconder-avaliacoes.md) — reviews/estrelas da loja sempre visíveis; nunca desativar sem pedido
+- [San Benito FR](project_san-benito-fr.md) — OP2 ASCENSAO + JESU V07 ES→FR, voz Jesus The Chosen, HeyGen novo, pasta SB-VENCEDORES_OP2-ASCENSAO_JESU-V07/FR
+- [Repo contexto-savio](reference_repo-contexto-savio.md) — GitHub privado com 34 .md de contexto/lógica; atualizar projetos/ a cada lote; código ainda não subiu
+- [SB Medalla ES](project_sb-reel-medalla-es.md) — teste estrutura reel Sagrado Verso, personagens IA novos + selo VIDEO FICTICIO; v2: pausas do HeyGen cobertas por b-roll (fechar_boca gerou bugs)
+- [Selo fictício pequeno](feedback_selo-ficticio-pequeno.md) — VIDEO FICTICIO metade do tamanho (12 px em 720p), colado no topo à direita
+- [SB Notícia Aurelio ES](project_sb-noticia-aurelio-es.md) — TESTE1 PT (notícia + live padre) → San Benito ES, 2:35, entregue 14/10
+- [Backup nuvem](project_backup-nuvem.md) — rclone p/ Drive 5 TB: legado CartiCuri + brutos subindo 14/10; apagar só após check + ok
+- [Mod progresso](reference_mod-progresso.md) — painel de progresso/limite 5h/próximos passos; ~/.claude/mods/progresso via CLAUDE_CODE_PLUGIN_DIRS
+- [Lições de produção de vídeo](feedback_licoes-producao-video.md) — avatar sem retoque na boca, retrato triste, Kling sem porta, gancho amplo, trilha 2 climas, selo pequeno, 1 CTA, 1 voz por avatar
+- [B-roll sem repetição + Kling](feedback_broll-sem-repeticao-kling.md) — nenhum plano repete; sem fala → Kling barato; ação em take contínuo, 1 rosto por personagem
+- [Banco b-roll SB](reference_sb-banco-broll.md) — 125 takes limpos em Downloads/SB-BANCO-BROLL (oracion/problema/alivio/sagrado) + indice_geral.json
+- [Banco San Benito (artifact)](reference_banco-san-benito-artifact.md) — banco oficial de b-roll SB na nuvem (claude.ai artifact 1VqxaY3k…), lotes SB-BRV + imagens-base; consultar/alimentar ele
+- [Perfumes El Maestro](project_perfumes-el-maestro.md) — kit hombre 3en1 COD CL, persona pedreiro comum + mulheres atraídas; feito no ElevenLabs 15/10; validar antes de outras personas
+- [Compliance não travar](feedback_compliance-nao-travar.md) — multa/denúncia, prints inventados, ameaça social, tom ousado passam no FB: produzir sem suavizar nem listar riscos
+- [SB EN oferta live](project_sb-en-oferta-live.md) — vencedores SB → inglês, destino oração ao vivo, EUA/UK/CA/AU depois worldwide; piloto HeyGen translation × caminho 1
+- [CÉSPED 10 personas](project_cesped-personas.md) — podadora COD CL, ameaça social (denúncia/FB/sogros...), entregue 15/10; V2 limpo só em trechos listados (fantasmas LaMa)
+- [Backup antes de reinstalar](feedback_backup-antes-de-reinstalar.md) — copiar settings (%LOCALAPPDATA%/%APPDATA%) antes de desinstalar qualquer programa; Logi Options+ perdeu config em 16/10
+- [SB IT oferta live](project_sb-it-oferta-live.md) — 9 vencedores SB → italiano (16/10), base lote EN, preghiera in diretta, pasta SB-IT-OFERTA-LIVE
+- [SB PL oferta live](project_sb-pl-oferta-live.md) — 9 vencedores SB → polonês (16/10), modlitwa na żywo, pasta SB-PL-OFERTA-LIVE
+- [Consultor base de cases](project_consultor-base-cases.md) — 49 eps VTurb fichados + 8 dossiês E1–E8 em 02-relatorios/base-cases; sem COD/Latam/X1
+- [SB FR novos vencedores](project_sb-fr-novos-vencedores.md) — AVATAR_REST/ADS 20/ADS 13.13F → FR (17/10) + oportunidades por país ainda abertas
+- [Chiado TTS+demucs](feedback_chiado-tts-demucs.md) — limpar voz e trilha com _chiado/chiado.py (gate espectral) antes de entregar; afftdn não serve; EN/IT/PL provavelmente com chiado
+- [Não alterar a base](feedback_nao-alterar-base.md) — correção pedida = arquivo NOVO só do item pedido; nunca substituir entregues/PARA-SUBIR/outros idiomas; lembrar, ela decide
+- [SB EN novos vencedores](project_sb-en-novos-vencedores.md) — AVATAR_REST + ADS 24 em inglês (18/10), pasta SB-EN-NOVOS-VENCEDORES
+- [SB ES padre capturado](project_sb-es-padre-capturado.md) — Grimório v4 → SB ES, V0 + 5 ganchos de padre capturado; padre = Juan Méndez; sem 12 palavras
+- [@santaespiritualidade é da pessoa](reference_santaespiritualidade-perfil-proprio.md) — rostos/takes liberados; top50 ranking em Downloads; adaptar trocando só o padre
+- [Perfumes PL](project_perfumes-pl.md) — 5 ADs perfume masc ES→PL COD Polônia (19/10), PERFUMES-PL/PARA-SUBIR
+- [VSL Lead2 → alemão](project_vsl-lead2-de.md) — VSL 42 min SB ES→DE (19/10), Papa cortado, 37 €, clone PADRE VSL LEAD2, roteiro p/ aprovar antes da voz
+- [Central de Projetos](reference_central-de-projetos.md) — mod do Grupo Chegou instalado em OneDrive/Documentos; projetos = junções em C:/Users/PICHAU/Projetos-Central
+- [Série ranking → SB ES](../../../../Downloads/Produtividade%20com%20ia/contexto/receitas/sb-es-ranking.md) — skill replicar-vencedor-organico + receita contexto/receitas/sb-es-ranking.md; R01–R04 prontos (20/10), R05 guardado, próximos: subir no Meta ou roteiros 06–10

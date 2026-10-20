@@ -1,0 +1,25 @@
+{
+ "cod": "A1",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\A1 - DEVOLVER-ESPOSO-ES-CL.mp4",
+ "gancho_s": 4.133333333333334,
+ "fala_s": 3.855,
+ "tomadas": [
+  [
+   1.0,
+   1.4
+  ],
+  [
+   6.2667,
+   2.7333333333333334
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 51.23,
+ "ganho_fala_db": 0.7,
+ "mb": 26.3,
+ "kbps": 4333,
+ "cenas": "câmera da porta: caixa chegando (1,0–2,4 s) → máquina cortando o mato alto (câmera da porta, termina em 9,0 s e emenda no corpo)",
+ "texto": [
+  "¿DEVOLVERLA? NI LOCA 😅"
+ ]
+}

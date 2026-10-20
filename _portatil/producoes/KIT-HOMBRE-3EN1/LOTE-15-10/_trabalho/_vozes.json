@@ -1,0 +1,106 @@
+{
+ "C_07_homem_educativo": {
+  "agente": "C",
+  "criativos": [
+   "07"
+  ],
+  "voice_id": "ZuuXsIgssLuaZ8Slz3yX",
+  "nome": "Luis-voz natural- latina-Chile",
+  "uso": "STS do take Seedance + TTS do corpo"
+ },
+ "C_08_09_homem_ocasion": {
+  "agente": "C",
+  "criativos": [
+   "08",
+   "09"
+  ],
+  "voice_id": "Iq9IDbsAh0XiIAKtSuSg",
+  "nome": "Diego - Engaging, Ads, Confident",
+  "uso": "STS do take Seedance + TTS do corpo"
+ },
+ "B_04_06_homem_elogio": {
+  "agente": "B",
+  "criativos": [
+   "04",
+   "06"
+  ],
+  "voice_id": "BPwS5yO6aXvwg8auqNwS",
+  "nome": "Damián - Deep, Rich and Resonant",
+  "uso": "protagonista M2: TTS do corpo/CTA (+ STS se houver take Seedance dele)"
+ },
+ "B_04_colega_mulher": {
+  "agente": "B",
+  "criativos": [
+   "04"
+  ],
+  "voice_id": "oJIuRMopN0sojGjwD6rQ",
+  "nome": "Camila - Español chileno",
+  "uso": "colega que pergunta no gancho do 04 (STS do take Seedance)"
+ },
+ "B_06_amigo_asado": {
+  "agente": "B",
+  "criativos": [
+   "06"
+  ],
+  "voice_id": "sKgg4MPUDBy69X7iv3fA",
+  "nome": "Alejandro Duran - Warm, Deep and Hoarse",
+  "uso": "amigo que pergunta no gancho do 06 (STS do take Seedance)"
+ },
+ "B_05_homem_desconfiado": {
+  "agente": "B",
+  "criativos": [
+   "05"
+  ],
+  "voice_id": "Cpm6N9BNC1M75bYS7kO1",
+  "nome": "Richard - Dinámica y versátil",
+  "uso": "protagonista M4: STS do take Seedance + TTS do corpo/CTA"
+ },
+ "D_11_12_diego_anfitriao": {
+  "agente": "D",
+  "criativos": [
+   "11",
+   "12"
+  ],
+  "voice_id": "tomkxGQGz4b1kE0EM722",
+  "nome": "WYZE 01-12 Mario animado (catalogo, latino jovem)",
+  "uso": "Diego, amigo que conduz o teste: STS do take Seedance + TTS do CTA"
+ },
+ "D_11_12_matias_vendado": {
+  "agente": "D",
+  "criativos": [
+   "11",
+   "12"
+  ],
+  "voice_id": "i4Kar2uamCWyas8TAu31",
+  "nome": "Adán - Calm, Mystery (catalogo, latino jovem)",
+  "uso": "Matías, amigo de olhos vendados: STS dos takes Seedance"
+ },
+ "A_consultora": {
+  "agente": "A",
+  "personagem": "consultora do balcão (vencedor, Flora n71)",
+  "voz": "fala nativa Seedance original do vencedor (sem regeração; trecho cortado antes de '100 unidades')",
+  "videos": [
+   "01",
+   "02(não aparece)",
+   "03"
+  ]
+ },
+ "A_narrador_unboxing": {
+  "agente": "A",
+  "personagem": "narrador do unboxing do vencedor",
+  "voz": "voz original do vencedor (sem regeração)",
+  "videos": [
+   "01",
+   "02",
+   "03"
+  ]
+ },
+ "A02_homem_gancho": {
+  "agente": "A",
+  "personagem": "homem chileno 30-35, gancho '¿Qué perfume usas?'",
+  "voz": "Seedance 2.0 nativa, masculina, espanhol chileno (gerada só neste take)",
+  "videos": [
+   "02"
+  ]
+ }
+}

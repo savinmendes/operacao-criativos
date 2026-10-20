@@ -1,0 +1,30 @@
+REVISÃO: V3_ESCADARIA.mp4
+duração 81.07s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 27.6 MB
+decodificação: OK
+pts do áudio: 3801 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 786-1115, x 11-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/3s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\ganchos_g1g3\_revisao\V3_ESCADARIA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00- 10.00 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  10.00- 15.56 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida. Le enseñé
+  15.56- 19.84 esta oración a mi amigo el padre Juan Mendes y él la está rezando en vivo con miles de
+  19.84- 26.04 familias. Cada día me escriben familias que trabajan sin descanso, que rezan y aún así
+  26.04- 31.40 sienten que el dinero nunca alcanza y que algo le cierra el camino. No es falta de fe.
+  31.40- 37.92 O poderoso San Benito, guardián de los arcanos sagrados que venciste a las serpientes con la
+  37.92- 42.88 señal de la cruz y callaste el rugido de los abismos con tu fe inquebrantable.
+  42.88- 48.24 Esta es la oración a San Benito que casi nadie conoce y que está ayudando a muchas
+  48.24- 53.72 familias hispanas. Sólo un grupo de monjes tenía acceso a esta oración completa,
+  53.72- 61.24 por eso nunca habían oído hablar de ella, pero atención tiene que hacerse de la forma correcta
+  61.24- 66.76 siguiendo las instrucciones porque no es una oración común, tiene instrucciones y una
+  66.76- 72.76 manera correcta de hacerla y de escucharla. Por eso la estoy rezando en vivo, completa,
+  72.76- 80.24 paso a paso, junto con miles de familias. Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

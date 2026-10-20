@@ -1,0 +1,3 @@
+{"dur": 6.0, "voz": "audio/g1_grito_a.mp3", "voz_t0": 3.0, "voz_lufs": -14, "reverb": "igreja",
+ "amb": "C:/Users/PICHAU/Downloads/GRIMORIO_analise/_trabalho_es/audio/v4/amb_b.mp3", "amb_lufs": -26,
+ "nativo": "_tmp/sep/htdemucs/g1_nat/no_vocals.wav", "nativo_lufs": -25, "out": "audio/g1_mix.wav"}

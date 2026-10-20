@@ -1,0 +1,8 @@
+[0:v]setpts=N/(30*TB)[b0];
+[b0][2:v]overlay=0:0:format=auto[o0];
+[o0][3:v]overlay=0:0:format=auto:enable='gte(t,-0.0167)*lt(t,2.9833)'[o1];
+[o1]ass=leg.ass:fontsdir=fonts[lg];
+[lg][4:v]overlay=0:-22:format=auto:enable='gte(t,65.4500)'[o2];
+[o2][5:v]overlay=0:-37+10*sin(2*PI*1.4*t):format=auto:enable='gte(t,65.4500)'[o3];
+[o3][6:v]overlay=0:0:format=auto[o4];
+[o4]format=yuv420p[v]

@@ -1,0 +1,24 @@
+REVISÃO: PERFUMES-CL_P5_EL-FERIANTE.mp4
+duração 33.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 22.8 MB
+decodificação: OK
+pts do áudio: 1553 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1041-1241, x 97-711 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD5-EL-FERIANTE\PERFUMES-CL_P5_EL-FERIANTE_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  3.78 ¡Casero! ¿Qué perfume es eso?
+   3.78-  8.60 Soy feriante y ahora vendo más por el aroma que por las paltas.
+   8.60- 11.00 Tres perfumes árabes al precio de uno.
+  11.00- 16.00 En el día Armav Club, fresco, masculino y poderoso, las caseras ya no regatean.
+  17.50- 23.00 En la noche en la Tafagasat, intenso y seductor, mi señora me dice casero a mí ahora.
+  24.00- 28.00 Y el fin de semana, AFNAN 9PM, elegante y moderno.
+  28.00- 33.00 Los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

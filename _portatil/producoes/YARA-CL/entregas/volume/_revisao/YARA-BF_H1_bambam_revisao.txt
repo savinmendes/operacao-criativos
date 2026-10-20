@@ -1,0 +1,32 @@
+REVISÃO: YARA-BF_H1_bambam.mp4
+duração 48.13s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.3 MB
+decodificação: OK
+pts do áudio: 2258 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 23 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 640-693, x 531-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\volume\_revisao\YARA-BF_H1_bambam_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.56 ¡Licudación total por Black Friday!
+   2.56-  6.04 Llévate los tres ya ya muy por debajo del precio del mercado.
+   6.04-  9.88 Hoy pagas dos y el tercero te lo llevas completamente gratis.
+   9.88- 14.80 Este es Yara, dulce, cremoso y muy femenino.
+  14.80- 18.08 Porquidia, mandarina y un fondo de vainilla y almiscle.
+  18.08- 19.56 Perfecto para el día a día.
+  19.56- 24.28 Yara mullo, floral, luminoso y elegante.
+  24.28- 28.00 Fasmin y durazno con un fondo cálido de ámbar y caramelo.
+  28.00- 29.28 Ideal para una cita.
+  29.28- 33.28 Sillara el íxir, el más intenso de los tres.
+  33.28- 37.28 Frutilla, grosella negra, caramelo y vainilla.
+  37.28- 40.28 Para la noche cuando quieres que se note que llegaste.
+  40.28- 42.28 Pagas dos y te llevas los tres.
+  42.28- 45.28 Pagas al recibir y el envío es gratis.
+  45.28- 48.28 Fíe el puyo antes que se acabe.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

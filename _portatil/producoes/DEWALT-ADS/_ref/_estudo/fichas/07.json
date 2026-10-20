@@ -1,0 +1,27 @@
+{
+ "ad": "07",
+ "idioma": "pt-BR",
+ "origem": {"perfil": "@byleticiashoop (TikTok)", "tipo": "loja/afiliado TikTok Shop; visual com cara de IA (apresentador e cenas de estúdio geradas)", "url": "https://www.tiktok.com/@byleticiashoop/video/7650522535343197460"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 10.0,
+ "cortes": {"n": 4, "ritmo": "muito rápido, ~1,5-3 s por plano"},
+ "formato": "oferta/kit relâmpago (hook de preço + benefícios em checklist + desconto)",
+ "gancho": {"0_3s_visual": "homem surpreso em oficina segurando furadeira amarela tipo DeWalt", "0_3s_fala": "81 reais por isso tudo, a oferta mais absurda de hoje", "0_3s_texto_tela": "R$81 POR ISSO TUDO / A OFERTA MAIS ABSURDA DE HOJE! (com emojis de sirene e fogo)"},
+ "corpo": [
+  {"t": "0-1.5", "bloco": "rosto + preço"},
+  {"t": "1.5-3", "bloco": "close da furadeira: '68V DE POTÊNCIA'"},
+  {"t": "3-4.5", "bloco": "close da bateria com indicador: 'LED INTELIGENTE'"},
+  {"t": "4.5-6", "bloco": "flat lay do kit com maleta, bits, 2 baterias, carregador: 'KIT COMPLETO'"},
+  {"t": "6-7.5", "bloco": "furando e parafusando bloco de madeira: 'FURA' / 'PARAFUSA'"},
+  {"t": "7.5-10", "bloco": "packshot: 'DE R$400 POR APENAS R$81' + '80% DE DESCONTO' + botão 'COMPRE AGORA'"}
+ ],
+ "cta": "'Compre agora com 80% de desconto' + botão vermelho 'COMPRE AGORA' com cursor",
+ "texto_na_tela": "títulos com emoji em cada plano (check verde por benefício)",
+ "produto": {"modelo": "réplica 'DeWalt 68V' (voltagem inexistente na linha DeWalt; bateria '68V LITHIUM')", "e_nosso_produto": false},
+ "rosto": {"tem": true, "tempo_aprox_s": "~1,5 s"},
+ "marca_dagua": "ícone de estrela no canto inferior direito (marca típica de gerador de vídeo IA)",
+ "audio": "voz masculina em português (provável TTS) + trilha",
+ "uso_para_nos": ["só referência de formato (10 s em checklist: preço -> benefício -> benefício -> kit -> uso -> oferta)", "descartar como material (réplica 68V, promessa de 80% de desconto)"],
+ "nota_cod_chile": 2,
+ "justificativa": "Produto falso e oferta R$81 irreal; não reaproveitável. O esqueleto de 10 s com checklist visual (benefício por plano, kit completo, fura/parafusa, oferta) é ótimo para versão curta nossa com takes reais do DCD7771 e 'pago al recibir'. Evitar % de desconto que não seja verdadeira."
+}

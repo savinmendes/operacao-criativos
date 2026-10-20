@@ -1,0 +1,71 @@
+{
+ "var": "04",
+ "gancho": "G4",
+ "corpo": "20",
+ "genero": "M",
+ "texto": "Durante años pensé que era peso de la edad. Me equivoqué. No era grasa, era lodo. Líquido estancado. Te cuento cómo lo descubrí.",
+ "Hd": 9.0,
+ "fala_s": 8.59,
+ "tomadas": [
+  {
+   "src": "20",
+   "ini": 0.158,
+   "dur": 1.3666666666666667
+  },
+  {
+   "src": "20",
+   "ini": 102.891,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 58.758,
+   "dur": 0.9333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 89.525,
+   "dur": 2.066666666666667
+  },
+  {
+   "src": "20",
+   "ini": 112.909,
+   "dur": 1.2666666666666666
+  },
+  {
+   "src": "20",
+   "ini": 56.825,
+   "dur": 1.3333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 96.909,
+   "dur": 0.8
+  }
+ ],
+ "corte": 10.933,
+ "frases": [
+  [
+   "Durante años pensé que era peso de la edad.",
+   0.058
+  ],
+  [
+   "Me equivoqué.",
+   2.368
+  ],
+  [
+   "No era grasa, era lodo.",
+   3.483
+  ],
+  [
+   "Líquido estancado.",
+   5.433
+  ],
+  [
+   "Te cuento cómo lo descubrí.",
+   7.163
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 04 - G4-NO-ES-PESO-ES-LODO x AD20.mp4",
+ "seed": 31
+}

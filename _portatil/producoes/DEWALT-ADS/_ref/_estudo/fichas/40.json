@@ -1,0 +1,59 @@
+{
+ "idioma": "pt-BR (whisper 1.0)",
+ "origem": {
+  "perfil": "@rico107871 (TikTok)",
+  "tipo": "usuário/afiliado - kit usado em obra"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 52.5,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano contínuo POV, abre/fecha maleta várias vezes"
+ },
+ "formato": "POV obra - mostrando kit na maleta (furadeira, bateria, carregador, bits) + setas",
+ "gancho": {
+  "visual": "maleta DeWalt no chão de obra, mão abrindo",
+  "fala": "'Furadeira parafusadeira da DeWalt. Essa aqui é a minha guerreira aqui da minha empresa, viu galera? Tem mais de 5 anos que eu tenho ela...'",
+  "texto_tela": "setas vermelhas/amarelas animadas"
+ },
+ "corpo": [
+  {
+   "t": "0-10",
+   "bloco": "abre maleta: furadeira, carregador, bateria, caixa de bits"
+  },
+  {
+   "t": "10-25",
+   "bloco": "aponta cada item"
+  },
+  {
+   "t": "25-40",
+   "bloco": "tira furadeira e bateria, mostra de perto"
+  },
+  {
+   "t": "40-52",
+   "bloco": "fecha/reabre a maleta"
+  }
+ ],
+ "cta": "'Vou deixar o link aqui pra você garantir, porque tá na oferta 7.7... Se você quer resistência, durabilidade, é DeWalt. Só vem.'",
+ "texto_tela": "setas animadas apontando o kit",
+ "produto": {
+  "modelo": "furadeira DeWalt 20V compacta + carregador DCB107 + bateria 20V; modelo da furadeira não legível (visual próximo do DCD7771/7781)",
+  "nosso_produto": "não confirmado (kit similar: maleta + bateria + carregador)",
+  "obs": "dono diz ter duas furadeiras e kit com duas baterias + carregador (fala)"
+ },
+ "rosto": {
+  "sim": false,
+  "tempo": "0 (só mãos)"
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "voz do dono (depoimento espontâneo), sem música aparente",
+ "uso": "banco de takes",
+ "uso_motivo": "cena real de obra com maleta e kit, sem rosto: prova de 'kit completo' e uso pesado; produto sujo/usado, usar trechos curtos; o roteiro 'minha guerreira há 5 anos' também é adaptável como depoimento (traduzir/adaptar)",
+ "nota": 3,
+ "nota_just": "autenticidade de obra e kit completo; imagem suja e modelo não confirmado.",
+ "ad": "40",
+ "fala_resumo": "ângulo durabilidade: 5 anos de uso, 'foguete', 'canhão de resistência', duas baterias + carregador",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\40.json",
+ "n_segmentos_fala": 7
+}

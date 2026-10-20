@@ -1,0 +1,39 @@
+REVISÃO: EN 04 - ENZIMAS-BARRIGA-POS-RESTAURANTE - UK.mp4
+duração 36.03s | 720x1280 | 30/1 fps | áudio: sim | 7.5 MB
+decodificação: OK
+pts do áudio: 1552 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 12 | pares a <0,3 s: 34.50/34.53
+setas (vermelho) no fim: y 882-1136, x 134-525 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ENZIMAS DIGESTIVAS - CRIATIVOS\_trabalho\uk\EN 04\rev\EN 04 - ENZIMAS-BARRIGA-POS-RESTAURANTE - UK_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  3.20 Okay, my friends always ask how my stomach stays like this after I fuck up an entire triple dipper
+   3.28-  6.08 I'm here to tell you i'm not on a crazy workout routine. I'm not on a diet. I eat whatever I want
+   6.16-  8.40 I just take like four shit today before you're weird about it
+   8.40- 11.44 That's how your body's actually supposed to operate imagine everything building up in your stomach like a rock
+  11.52- 15.20 Not being processed not being digested or leaving your body ever. It's literally just eating. They're not getting broken down
+  15.20- 16.56 That's why you're taking a digestive enzyme
+  16.56- 18.96 You're adding enzymes back in your stomach to help your body process and digest
+  18.96- 20.96 This is especially good when i'm going to the gym and i'm eating a lot of carbs
+  21.04- 22.80 I think about going to the pool and I ate so much last night
+  22.80- 26.00 I swear I would be so bloated if I did not take one. I don't feel puffy fluffy too full
+  26.00- 30.36 I never get bloated, it does not sit on my stomach, my digestion is so good, and if you guys aren't going to the bathroom like four times a day
+  30.36- 33.40 Physicians sure this is definitely the best brand I've tried a few. I'll link this below for you guys
+  33.40- 36.04 They're still in stock, and I'm pretty sure they're under 20 pounds
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: final_vis.mp4 (30 quadros, rosto em 100%, rosto 242,52,520,611 [único rosto])
+  boca x original: dif. boca 0.00 | dif. controle 0.00 | mudou em 0% dos quadros | corr. abertura saída x original 1.00
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.37 (atraso 100 ms) | corr. original 0.35
+REPROVADO: a boca NÃO mudou em relação ao original (só 0% dos quadros diferentes; mínimo 30%): o lipsync devolveu a boca original
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 34.50s e 34.53s (33 ms)
+PROBLEMA: lipsync final_vis.mp4: a boca NÃO mudou em relação ao original (só 0% dos quadros diferentes; mínimo 30%): o lipsync devolveu a boca original
+2 problema(s)

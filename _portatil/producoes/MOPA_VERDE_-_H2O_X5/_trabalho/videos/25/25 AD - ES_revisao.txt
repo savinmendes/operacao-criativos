@@ -1,0 +1,35 @@
+REVISÃO: 25 AD - ES.mp4
+duração 21.50s | 720x1280 | 30/1 fps | áudio: sim | 14.0 MB
+decodificação: OK
+pts do áudio: 1006 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 930-996, x 232-504 | no último quadro: sim | faixa escura do rodapé: 1133-1174
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\25\25 AD - ES_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  3.68 No puedo creer que no compré el H2O X5 antes.
+   3.68-  7.44 Es tan liviano y fácil de mover, limpio pisos, alfombras,
+   7.44- 10.08 ventanas y hasta ropa con un solo aparato.
+  10.08- 11.24 Cero químicos.
+  11.24- 15.28 El poder del vapor elimina la mugre y desinfecta cada superficie.
+  15.28- 18.16 La verdad, limpiar ahora es más rápido y seguro.
+  18.16- 19.20 Estoy encantada.
+  19.20- 21.80 Haz clic en más información.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  3.72    No puedo creer que no compre el H2O X5 antes.
+   3.72-  7.44    Es tan liviano y fácil de mover, limpio pisos, alfombras,
+   7.44- 10.12    ventanas y hasta ropa con un solo aparato.
+  10.12- 11.24    Cero químicos.
+  11.24- 15.32    El poder del vapor elimina la mugre y desinfecta cada superficie.
+  15.32- 18.16    La verdad, limpiar ahora es más rápido y seguro.
+  18.16- 19.24    Estoy encantada.
+  19.24- 21.96    Haz click en más información.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

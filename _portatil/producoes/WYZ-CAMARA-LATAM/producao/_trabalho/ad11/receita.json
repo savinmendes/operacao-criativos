@@ -1,0 +1,29 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 11 - WYZE-SOLAR-CAM-PAN-DOCUMENTAL-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad11\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad11\\alinhamento.json",
+  "chaves": [
+   "hábitat",
+   "sol",
+   "solar",
+   "noche",
+   "360",
+   "presa",
+   "2K",
+   "color",
+   "escalera",
+   "cargarla",
+   "todo",
+   "toca"
+  ],
+  "y": 1693
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1350
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

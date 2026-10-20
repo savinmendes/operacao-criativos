@@ -1,0 +1,10 @@
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\parte1_curto_fx.mp4 | 70 quadros com texto trocado
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\curto\parte2.mp4 22.89s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 CURTO - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4
+duração : 85.31s | 720x1280 | áudio: sim | 24.2 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 CURTO - LYMPHORIA-MENOPAUSIA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 82.06s
+montagem rápida: 10s para 85s de vídeo (0.12x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 CURTO - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4

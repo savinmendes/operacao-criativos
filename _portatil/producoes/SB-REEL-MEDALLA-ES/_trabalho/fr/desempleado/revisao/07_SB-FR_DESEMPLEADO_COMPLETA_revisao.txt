@@ -1,0 +1,50 @@
+REVISÃO: 07_SB-FR_DESEMPLEADO_COMPLETA.mp4
+duração 62.93s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 50.3 MB
+decodificação: OK
+pts do áudio: 2951 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\desempleado\revisao\07_SB-FR_DESEMPLEADO_COMPLETA_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  3.00 J'ai prié sur un banc du parc avec mon dossier de CV.
+   3.00-  5.00 Et voilà ce qui s'est passé.
+   5.00-  9.00 Oh, glorieux Saint-Benoît, sors-moi de cette misère.
+  12.00- 15.00 Passé 50 ans, j'ai perdu mon travail.
+  15.00- 19.00 Je sortais tous les matins en costume pour que ma famille ne le sache pas.
+  19.00- 22.00 Je me sentais un bon à rien.
+  22.00- 25.00 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  25.00- 28.00 que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  28.00- 34.48 Des millions de personnes portent cette médaille et personne ne leur a jamais expliqué ce que disent ces lettres.
+  34.48- 39.16 Ce n'est pas un manque de foi, c'est que personne ne leur a appris la bonne façon de la prier.
+  39.16- 48.88 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  48.88- 57.48 C'est pour ça que j'ai laissé l'explication complète lettre par lettre dans une transmission en direct ouverte 24 heures sur 24.
+  57.48- 62.40 appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.00    Pruebo en un banco del parque, con mi dossier de CV.
+   3.00-  5.00    Y ahí es lo que pasó.
+   5.00-  7.00    ¡Oh, glorioso Sain Benoît!
+   7.00-  9.00    Vámonos de esta misera.
+  12.00- 15.00    Hace 50 años, perdí mi trabajo.
+  15.00- 19.00    Empecé todos los días en costumbre para que mi familia no lo sabía.
+  19.00- 22.00    Me senté un buen a nada.
+  22.00- 25.00    Hasta el día o un préter me explicó algo
+  25.00- 28.00    que nadie me había dicho en la medalla de Sain Benoît.
+  28.00- 34.74    Millions de personas portan esta medalla, y no habrá explicado nada de lo que dicen las letras.
+  34.74- 39.42    No es una manca de veces, es que no habrá aprendido la buena forma de prestarla.
+  39.42- 44.02    Cuando la prendemos de la buena forma, la casa se apesa, la fe se va,
+  44.02- 49.02    y comienza a haber problemas en los que no hayamos visto las puertas cerradas.
+  49.02- 53.02    Es por eso que dejé la explicación completa, letra por letra,
+  53.02- 57.78    en una transmisión en directo, abierta, 24 horas por 24 horas.
+  57.78- 61.16    Apuí sur en savoir plus, juste en dessous,
+  61.16- 62.66    y vien prier avec nous.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

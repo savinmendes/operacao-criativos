@@ -1,0 +1,55 @@
+{
+  "ad": "11",
+  "arquivo": "11 AD.mp4",
+  "folha": "_estudo/folhas/11.jpg",
+  "idioma": "sem fala (whisper 'en' prob 0,33 = sem voz; só som da parafusadeira)",
+  "origem": {
+    "perfil": "@powertoolsdepot (TikTok)",
+    "tipo": "loja/revenda de ferramentas (post em inglês)"
+  },
+  "resolucao": "720x1280 (no limite de 720p)",
+  "duracao_s": 6.3,
+  "cortes": {
+    "n": 0,
+    "ritmo": "plano-sequência único de 6 s, ASMR de uso"
+  },
+  "formato": "POV obra / demo de uso (ASMR): crava parafuso GRK longo em viga de madeira",
+  "gancho": {
+    "visual": "0-3 s: parafuso longo já posicionado na viga sobre brita, mão entra com a parafusadeira de impacto e crava",
+    "fala_ou_texto": "sem fala e sem texto na tela"
+  },
+  "estrutura": [
+    {
+      "t": "0-1",
+      "bloco": "parafuso na viga"
+    },
+    {
+      "t": "1-5",
+      "bloco": "crava o parafuso inteiro (som do impacto)"
+    },
+    {
+      "t": "5-6.3",
+      "bloco": "mostra a ferramenta na mão (DeWalt 20V Atomic + bateria PowerStack)"
+    }
+  ],
+  "cta": "nenhum no vídeo (só texto do post em inglês)",
+  "texto_tela": "nenhum",
+  "produto": {
+    "mostrado": "Parafusadeira de impacto DeWalt Atomic compact 20V (o post cita 'Atomic Compact Impact'; modelo exato não legível) com bateria PowerStack",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "nenhuma visível",
+  "audio": "som ambiente do impacto, sem música e sem voz",
+  "uso": [
+    "só referência de formato (POV ASMR 'crava parafuso longo')",
+    "banco de takes: não (é impact driver, não o nosso taladro)"
+  ],
+  "nota": {
+    "valor": 2,
+    "justificativa": "POV ASMR funciona como gancho de 2-3 s, mas o produto é outro (impact driver Atomic) e o vídeo é curto. Vale recriar o mesmo plano com o DCD7771 (parafuso longo em madeira)."
+  }
+}

@@ -1,0 +1,99 @@
+{
+ "slug": "MEDALLA",
+ "rosto_selfie": [
+  576,
+  830
+ ],
+ "hook": {
+  "audio": "voz/hook.mp3",
+  "alinhamento": "voz/hook.alinhamento.json",
+  "keep": [
+   [
+    0.0,
+    2.12
+   ],
+   [
+    2.42,
+    3.9
+   ]
+  ]
+ },
+ "reza": {
+  "keep": [
+   [
+    "voz/reza.mp3",
+    0.0,
+    3.35
+   ]
+  ],
+  "lufs": -21.0
+ },
+ "selfie": {
+  "audio": "voz/selfie.mp3",
+  "alinhamento": "voz/selfie.alinhamento.json",
+  "video": "selfie_fr.mp4",
+  "video_offset": 2.37,
+  "cortes": [
+   [
+    1.86,
+    2.4
+   ],
+   [
+    5.65,
+    6.24
+   ],
+   [
+    7.67,
+    8.12
+   ]
+  ],
+  "frustrado_fim": 1.86,
+  "selfie_trechos": [
+   [
+    2.4,
+    5.65,
+    1.13
+   ],
+   [
+    6.24,
+    7.67,
+    1.0
+   ],
+   [
+    8.12,
+    null,
+    1.13
+   ]
+  ]
+ },
+ "cenas": {
+  "gancho": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\completa\\broll\\gancho_amplo.mp4",
+   "ss": 0.0,
+   "zoom": 1.2,
+   "centro": [
+    600,
+    1150
+   ],
+   "interp": true
+  },
+  "reza": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\takes\\salao_vazio.mp4",
+   "ss": 0.0,
+   "zoom": 1.8,
+   "centro": [
+    560,
+    860
+   ],
+   "interp": true
+  },
+  "virada": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\takes\\salao_cheio.mp4",
+   "ss": 0.4
+  },
+  "frustrado": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\completa\\broll\\frustrado_salao.mp4",
+   "ss": 0.2
+  }
+ }
+}

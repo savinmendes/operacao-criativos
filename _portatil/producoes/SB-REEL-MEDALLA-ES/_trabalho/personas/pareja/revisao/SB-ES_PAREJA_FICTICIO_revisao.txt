@@ -1,0 +1,27 @@
+REVISÃO: SB-ES_PAREJA_FICTICIO.mp4
+duração 66.40s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 53.0 MB
+decodificação: OK
+pts do áudio: 3112 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 970-1009, x 532-664 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\pareja\revisao\SB-ES_PAREJA_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00- 12.00 ¡Oh glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla, te vuelve la paz a mi casa, si me escuchas, ayúdanos!
+  15.00- 27.00 Mi esposo y yo vivíamos bajo el mismo techo como dos extraños, cada uno en un cuarto, sin hablarnos, hasta que en una transmisión en vivo un padre explicó la forma exacta de pedirle a San Benito.
+  27.00- 31.76 día recuperé la paz y poco a poco volvimos a reír juntos.
+  31.76- 35.80 Esta es la última vez que Dios intenta hablarte de esta forma.
+  35.80- 40.68 Jesús te eligió, preparó un regalo poderoso solo para ti.
+  40.68- 45.42 En este video vas a escuchar la oración perdida de San Benito, que desbloquea una
+  45.42- 50.04 lluvia de milagros, pero solo si no la rechazas otra vez.
+  50.04- 55.36 Toca más información ahora, recibe tu milagro antes de que la puerta se cierre
+  55.36- 61.08 para siempre. Ahora mismo está ocurriendo una transmisión en vivo con San Benito.
+  61.08- 65.96 Toca el botón ver más aquí abajo del vídeo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

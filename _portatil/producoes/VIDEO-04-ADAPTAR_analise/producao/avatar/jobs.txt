@@ -1,0 +1,9 @@
+saldo HeyGen antes: 4842 premium (19/10 ~14:49 UTC)
+A 205cf6c2049ad1939cd63a72186e664b (L1-L7, 43.35 s)
+B 6b9c3ec4b510c4d9849461b8a2bbbd55 (L8-L13, 42.44 s)
+imagem asset 87c8ae9709404d7184fe74cebb4b35c6 (jm_b.png), expressiveness medium, 720p 9:16
+1a tentativa (jm_b sorrindo) reprovada: sorriso com dentes em fala seria. Refeita 1x com jm_serio.png (gpt-image-2.5-sunburst edit, US$0,07)
+A2 4008d5a6ab56f4dbb211915a6eccb544
+B2 07484ccb920eaca329e44140c50ef451
+saldo apos 1a tentativa: 4816 (pode ter atraso)
+saldo apos 2a tentativa: 4790 (consumo 52 ate agora; reconferir ~1 h depois)

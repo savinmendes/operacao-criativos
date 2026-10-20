@@ -1,0 +1,11 @@
+REVISÃO: AD 11 - ORACION-DESATADORA-ES-LATAM.mp4
+duração 60.60s | 720x1280 | 30/1 fps | áudio: sim | 25.4 MB
+decodificação: OK
+pts do áudio: 2842 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 7.89-8.82, 14.69-15.43, 29.63-31.53, 36.24-37.98, 44.72-45.98, 54.40-55.81, 59.78-60.60
+cortes de cena: 5 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1125-1190, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\AD 11 - ORACION-DESATADORA-ES-LATAM_revisao.jpg
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

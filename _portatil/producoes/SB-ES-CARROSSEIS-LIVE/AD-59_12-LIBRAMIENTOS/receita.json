@@ -1,0 +1,115 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-59_12-LIBRAMIENTOS",
+ "slides": [
+  {
+   "fundo": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-59_12-LIBRAMIENTOS/_base/santo_a.png",
+   "cx": 0.492,
+   "cy": 0.5,
+   "grad_topo": 520,
+   "grad_forca": 0.75,
+   "grad_base": 200,
+   "textos": [
+    {
+     "texto": "REZA 21 DÍAS\nLOS ^12 LIBRAMIENTOS\nDE SAN BENITO",
+     "y": 200,
+     "tamanho": 74,
+     "largura": 980,
+     "alt_max": 330
+    },
+    {
+     "texto": "DESLIZA AL LADO →",
+     "x": 1040,
+     "y": 1265,
+     "tamanho": 34,
+     "largura": 600,
+     "alinhar": "dir"
+    }
+   ]
+  },
+  {
+   "fundo": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-59_12-LIBRAMIENTOS/_base/santo_a.png",
+   "cx": 0.1,
+   "cy": 0.5,
+   "desfoque": 7,
+   "escurecer": 0.55,
+   "lista": {
+    "x": 100,
+    "y0": 110,
+    "y1": 1200,
+    "largura": 880,
+    "tamanho": 36,
+    "itens": [
+     "LÍBRAME DE LA ENVIDIA DECLARADA Y DE LA ENVIDIA DISFRAZADA.",
+     "LÍBRAME DE LOS ATAQUES ESPIRITUALES.",
+     "LÍBRAME DE LAS PALABRAS LANZADAS PARA ENFERMAR Y TRABAR.",
+     "LÍBRAME DE LAS PERSONAS FALSAS.",
+     "LÍBRAME DE LOS CAMINOS QUE NO SON MÍOS.",
+     "LÍBRAME DE LAS CARGAS QUE NO ME PERTENECEN.",
+     "LÍBRAME DE LOS LAZOS DAÑINOS.",
+     "LÍBRAME DE LAS INTRIGAS Y MALDICIONES.",
+     "LÍBRAME DEL MIEDO Y DE LA ANGUSTIA SIN CAUSA.",
+     "LÍBRAME DE LAS TRAMPAS VISIBLES E INVISIBLES.",
+     "LÍBRAME DE LOS PENSAMIENTOS QUE NO VIENEN DE LA LUZ.",
+     "LÍBRAME DE TODO MAL QUE INTENTE ACERCARSE A MÍ."
+    ]
+   },
+   "textos": [
+    {
+     "texto": "DESLIZA AL LADO →",
+     "x": 1040,
+     "y": 1265,
+     "tamanho": 34,
+     "largura": 600,
+     "alinhar": "dir"
+    }
+   ],
+   "zoom": 1.6
+  },
+  {
+   "fundo": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-59_12-LIBRAMIENTOS/_base/medalla_b.png",
+   "cx": 0.48,
+   "cy": 0.5,
+   "textos": [
+    {
+     "texto": "SAN BENITO, SÉLLAME EN TU PROTECCIÓN.\nQUE EL MAL NO ME TOQUE.\n\nAMÉN.",
+     "y": 1050,
+     "tamanho": 58,
+     "largura": 900,
+     "alt_max": 380
+    },
+    {
+     "texto": "DESLIZA AL LADO →",
+     "x": 1040,
+     "y": 1265,
+     "tamanho": 34,
+     "largura": 600,
+     "alinhar": "dir"
+    }
+   ]
+  },
+  {
+   "fundo": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-59_12-LIBRAMIENTOS/_base/medalla_a.png",
+   "cx": 0.5,
+   "cy": 0.5,
+   "escurecer": 0.15,
+   "textos": [
+    {
+     "texto": "LA ORACIÓN DE SAN BENITO SE ESTÁ REZANDO EN VIVO EN ESTE MOMENTO.\n\nTOCA EN «MÁS INFORMACIÓN» Y REZA CON NOSOTROS AHORA ↓",
+     "y": 870,
+     "ancora": "topo",
+     "tamanho": 50,
+     "largura": 920,
+     "alt_max": 340
+    }
+   ],
+   "setas_cta": {
+    "y": 1290,
+    "xs": [
+     430,
+     650
+    ],
+    "s": 40
+   }
+  }
+ ]
+}

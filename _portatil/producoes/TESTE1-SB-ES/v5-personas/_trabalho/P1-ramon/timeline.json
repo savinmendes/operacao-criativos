@@ -1,0 +1,72 @@
+{
+ "total": 70.7,
+ "cta_t": 64.4667,
+ "segmentos": [
+  {
+   "id": "AB",
+   "T0": 0.0,
+   "n": 322,
+   "video": "takes/abertura.mp4"
+  },
+  {
+   "id": "MAOS",
+   "T0": 10.7333,
+   "n": 72,
+   "video": "takes/k_maos.mp4"
+  },
+  {
+   "id": "VAZIO",
+   "T0": 13.1333,
+   "n": 57,
+   "video": "takes/k_vazio.mp4"
+  },
+  {
+   "id": "DOIS",
+   "T0": 15.0333,
+   "n": 54,
+   "video": "takes/k_dois.mp4"
+  },
+  {
+   "id": "FILA",
+   "T0": 16.8333,
+   "n": 66,
+   "video": "takes/k_fila.mp4"
+  },
+  {
+   "id": "R01",
+   "T0": 19.0333,
+   "n": 121,
+   "video": "takes/hg_R01.mp4"
+  },
+  {
+   "id": "RA1",
+   "T0": 23.0667,
+   "n": 262,
+   "video": "takes/hg_RA1.mp4"
+  },
+  {
+   "id": "RA2",
+   "T0": 31.8,
+   "n": 309,
+   "video": "takes/hg_RA2.mp4"
+  },
+  {
+   "id": "PEDa",
+   "T0": 42.1,
+   "n": 356,
+   "video": "takes/hg_PEDa.mp4"
+  },
+  {
+   "id": "PEDb",
+   "T0": 53.9667,
+   "n": 315,
+   "video": "takes/hg_PEDb.mp4"
+  },
+  {
+   "id": "CTA",
+   "T0": 64.4667,
+   "n": 187,
+   "video": "takes/hg_CTA.mp4"
+  }
+ ]
+}

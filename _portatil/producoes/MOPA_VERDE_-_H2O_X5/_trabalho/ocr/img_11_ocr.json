@@ -1,0 +1,98 @@
+[
+ {
+  "texto": "Copy",
+  "conf": 1.0,
+  "caixa": [
+   405,
+   234,
+   533,
+   303
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Select All",
+  "conf": 0.98,
+  "caixa": [
+   630,
+   243,
+   843,
+   289
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Logk Up",
+  "conf": 0.97,
+  "caixa": [
+   934,
+   234,
+   1129,
+   299
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Now you can clean",
+  "conf": 0.98,
+  "caixa": [
+   547,
+   427,
+   1043,
+   488
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "every surface in your",
+  "conf": 0.97,
+  "caixa": [
+   544,
+   517,
+   1076,
+   574
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "home with just one device",
+  "conf": 0.99,
+  "caixa": [
+   545,
+   595,
+   1209,
+   659
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H20 x55-in-1",
+  "conf": 0.9,
+  "caixa": [
+   388,
+   1610,
+   1256,
+   1732
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "Steam cleaner",
+  "conf": 0.94,
+  "caixa": [
+   354,
+   1797,
+   1289,
+   1899
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

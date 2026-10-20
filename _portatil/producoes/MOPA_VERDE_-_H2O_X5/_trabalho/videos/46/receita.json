@@ -1,0 +1,10 @@
+{
+ "saida": "46 AD - ES.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "legenda": {"fonte": "alinhamento:alinhamento.json", "y": 1541},
+ "selo": {"linhas": ["", "PAGO CONTRA", "ENTREGA", ""], "x": 160, "y": 300},
+ "cta": {"palavra": "más", "y": 1210},
+ "resolucao": "720",
+ "limite_mb": 30
+}

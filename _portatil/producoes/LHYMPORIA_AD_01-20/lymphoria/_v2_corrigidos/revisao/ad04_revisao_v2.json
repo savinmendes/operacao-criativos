@@ -1,0 +1,84 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 127.977333,
+  "quadros": 3836,
+  "dur_audio": 127.977333,
+  "mb": 24.7
+ },
+ "info_v2": {
+  "duracao": 127.977333,
+  "quadros": 3836,
+  "dur_audio": 127.977333,
+  "mb": 25.6
+ },
+ "md5_audio_entregue": "61f9ad0cccc10a003f3f905e453bb029",
+ "md5_audio_v2": "61f9ad0cccc10a003f3f905e453bb029",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/take1_final.mp4",
+   221,
+   411,
+   7.367,
+   13.7
+  ],
+  [
+   "flora/take34_final.mp4",
+   644,
+   716,
+   21.467,
+   23.867
+  ],
+  [
+   "flora/r4_final.mp4",
+   782,
+   817,
+   26.067,
+   27.233
+  ],
+  [
+   "flora/r5_final.mp4",
+   1128,
+   1168,
+   37.6,
+   38.933
+  ],
+  [
+   "flora/take67_final.mp4",
+   1454,
+   1505,
+   48.467,
+   50.167
+  ]
+ ],
+ "quadros_comparados": 3836,
+ "fora_dos_takes": {
+  "quadros": 3448,
+  "psnr_min": 25.54,
+  "psnr_medio": 38.67,
+  "px40_max": 56252,
+  "px40_medio": 377.91,
+  "quadro_px40_max": 46,
+  "t_px40_max": 1.53
+ },
+ "dentro_dos_takes": {
+  "quadros": 388,
+  "psnr_medio": 36.83,
+  "px40_medio": 782.9,
+  "px40_max": 13164
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 2840,
+  "px40_max": 9,
+  "t_px40_max": 32.33,
+  "quadros_com_px40>50": 0
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 388,
+  "px40_medio": 492.2
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD04_takes_zoom3x.jpg"
+}

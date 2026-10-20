@@ -1,0 +1,463 @@
+{
+ "url": "https://www.falabella.com/falabella-cl/collection/perfumes-arabes",
+ "title": "Perfumes Árabes | Falabella Chile",
+ "cardsFound": 14,
+ "firstCardRect": {
+  "x": 0,
+  "y": 729,
+  "w": 195,
+  "h": 526
+ },
+ "firstImgRect": {
+  "x": 1,
+  "y": 730,
+  "w": 193,
+  "h": 193
+ },
+ "columns": 2,
+ "cardRects": [
+  {
+   "x": 0,
+   "y": 729,
+   "w": 195,
+   "h": 526
+  },
+  {
+   "x": 195,
+   "y": 729,
+   "w": 195,
+   "h": 526
+  },
+  {
+   "x": 0,
+   "y": 1256,
+   "w": 195,
+   "h": 512
+  },
+  {
+   "x": 195,
+   "y": 1256,
+   "w": 195,
+   "h": 512
+  },
+  {
+   "x": 0,
+   "y": 1768,
+   "w": 195,
+   "h": 512
+  },
+  {
+   "x": 195,
+   "y": 1768,
+   "w": 195,
+   "h": 512
+  },
+  {
+   "x": 0,
+   "y": 2280,
+   "w": 195,
+   "h": 527
+  },
+  {
+   "x": 195,
+   "y": 2280,
+   "w": 195,
+   "h": 527
+  }
+ ],
+ "colGap": 0,
+ "rowGap": 1,
+ "sidePaddingLeft": 0,
+ "sidePaddingRight": 0,
+ "cardTexts": [
+  {
+   "tag": "B",
+   "text": "ARMAF",
+   "fs": "13px",
+   "fw": "700",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(118, 118, 118)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "uppercase",
+   "td": "none",
+   "ta": "start",
+   "lh": "12px",
+   "clamp": "none",
+   "h": 12,
+   "w": 173,
+   "relY": 219
+  },
+  {
+   "tag": "B",
+   "text": "Perfume Hombre Odyssey Mandarin Sky 100ml",
+   "fs": "14px",
+   "fw": "700",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(74, 74, 74)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "14px",
+   "clamp": "3",
+   "h": 28,
+   "w": 173,
+   "relY": 235
+  },
+  {
+   "tag": "B",
+   "text": "Por Falabella",
+   "fs": "13px",
+   "fw": "400",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 16,
+   "w": 74,
+   "relY": 269
+  },
+  {
+   "tag": "SPAN",
+   "text": "$  31.990",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(113, 113, 113)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "22px",
+   "clamp": "none",
+   "h": 22,
+   "w": 70,
+   "relY": 302
+  },
+  {
+   "tag": "SPAN",
+   "text": "-52%",
+   "fs": "12px",
+   "fw": "700",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(235, 0, 41)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "14.4px",
+   "clamp": "none",
+   "h": 18,
+   "w": 38,
+   "relY": 304
+  },
+  {
+   "tag": "SPAN",
+   "text": "$  66.990",
+   "fs": "14px",
+   "fw": "400",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(113, 113, 113)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "line-through",
+   "ta": "start",
+   "lh": "17px",
+   "clamp": "none",
+   "h": 17,
+   "w": 54,
+   "relY": 328
+  },
+  {
+   "tag": "SPAN",
+   "text": "3 cuotas sin interés",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(51, 51, 51)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 15,
+   "w": 100,
+   "relY": 355
+  },
+  {
+   "tag": "SPAN",
+   "text": "(480)",
+   "fs": "9px",
+   "fw": "400",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(187, 187, 187)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "11px",
+   "clamp": "none",
+   "h": 11,
+   "w": 21,
+   "relY": 412
+  },
+  {
+   "tag": "DIV",
+   "text": "Agregar",
+   "fs": "19px",
+   "fw": "700",
+   "ff": "Lato, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "center",
+   "lh": "22.8px",
+   "clamp": "none",
+   "h": 23,
+   "w": 94,
+   "relY": 458
+  }
+ ],
+ "cardButtons": [
+  {
+   "text": "",
+   "x": 11,
+   "y": 1179,
+   "w": 173,
+   "h": 40,
+   "relY": 449,
+   "fs": "19px",
+   "fw": "700",
+   "bg": "rgb(52, 62, 73)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "30px",
+   "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+   "text": "",
+   "x": 11,
+   "y": 1187,
+   "w": 173,
+   "h": 23,
+   "relY": 458,
+   "fs": "19px",
+   "fw": "700",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "border": "0px none rgb(255, 255, 255)"
+  }
+ ],
+ "ratingPresent": true,
+ "h1": {
+  "text": "Perfumes Árabes",
+  "ff": "Lato, sans-serif",
+  "fs": "18px",
+  "fw": "300",
+  "tt": "none",
+  "x": 19,
+  "y": 463,
+  "w": 131,
+  "h": 18
+ },
+ "bodyFont": "Lato, sans-serif",
+ "bodyFs": "16px",
+ "h2Font": "Lato, sans-serif",
+ "header": {
+  "x": 0,
+  "y": 186,
+  "w": 390,
+  "h": 138,
+  "position": "static"
+ },
+ "chipRows": [
+  {
+   "x": 452,
+   "y": 107,
+   "w": 328,
+   "h": 54,
+   "sample": "Recomendados Precio de menor a mayor Precio de mayor a menor Los mejores evaluados",
+   "chipH": null,
+   "chipFs": null,
+   "chipRadius": null,
+   "chipBg": null,
+   "chipBorder": null
+  },
+  {
+   "x": 0,
+   "y": 500,
+   "w": 390,
+   "h": 30,
+   "sample": "(0) Género Formato Tipo Frecuencia de uso Contenido +",
+   "chipH": 30,
+   "chipFs": "12px",
+   "chipRadius": "8px",
+   "chipBg": "rgba(0, 0, 0, 0)",
+   "chipBorder": "1px solid rgb(52, 62, 73)"
+  }
+ ],
+ "filterControls": [
+  {
+   "text": "Ordenar por",
+   "tag": "DIV",
+   "x": 452,
+   "y": 67,
+   "w": 328,
+   "h": 40,
+   "fs": "16px"
+  },
+  {
+   "text": "Filtros:",
+   "tag": "DIV",
+   "x": 452,
+   "y": 161,
+   "w": 328,
+   "h": 40,
+   "fs": "16px"
+  },
+  {
+   "text": "Filtrar por Marca",
+   "tag": "DIV",
+   "x": 0,
+   "y": 642,
+   "w": 390,
+   "h": 14,
+   "fs": "14px"
+  },
+  {
+   "text": "Filtrar por Marca",
+   "tag": "SPAN",
+   "x": 17,
+   "y": 642,
+   "w": 107,
+   "h": 14,
+   "fs": "14px"
+  }
+ ],
+ "productCount": [
+  {
+   "text": "+2.849 resultados",
+   "x": 0,
+   "y": 568,
+   "w": 390,
+   "h": 42,
+   "fs": "16px"
+  },
+  {
+   "text": "+2.849 resultados",
+   "x": 16,
+   "y": 582,
+   "w": 111,
+   "h": 14,
+   "fs": "14px"
+  }
+ ],
+ "longTexts": [
+  {
+   "len": 422,
+   "x": 0,
+   "y": 492,
+   "w": 390,
+   "h": 0,
+   "start": "ORDENAR POR\nSelecciona una opción\nPrecio de menor a mayor\nPrecio de mayor a menor\nLos mejo",
+   "hidden": true
+  },
+  {
+   "len": 305,
+   "x": 390,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "start": "Filtrar por:\nOrdenar por\nRecomendados\nPrecio de menor a mayor\nPrecio de mayor a menor\nLos ",
+   "hidden": false
+  },
+  {
+   "len": 305,
+   "x": 452,
+   "y": 0,
+   "w": 328,
+   "h": 844,
+   "start": "Filtrar por:\nOrdenar por\nRecomendados\nPrecio de menor a mayor\nPrecio de mayor a menor\nLos ",
+   "hidden": false
+  },
+  {
+   "len": 1157,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "9 am dive9:00 p. m.A menAfionaAfnanAl ruwadAlianaAlibiAmber muskAmber oud collectionAna ab",
+   "hidden": true
+  }
+ ],
+ "docHeight": 11546,
+ "stickyAtTop": [
+  {
+   "tag": "DIV",
+   "cls": "responsive-wrapper",
+   "pos": "fixed",
+   "top": 0,
+   "h": 186,
+   "text": "¿Aún no tienes la App? Descárgala ya. Gestiona tus F Puntos y accede a beneficios exclusivos. ¡Todo "
+  },
+  {
+   "tag": "DIV",
+   "cls": "jsx-2614091778 actions",
+   "pos": "fixed",
+   "top": 769,
+   "h": 75,
+   "text": "Limpiar Filtro Aplicar"
+  },
+  {
+   "tag": "DIV",
+   "cls": "jsx-1307952872 results-bar",
+   "pos": "sticky",
+   "top": 568,
+   "h": 42,
+   "text": "+2.849 resultados"
+  }
+ ],
+ "stickyAfterScroll1500": [
+  {
+   "tag": "DIV",
+   "cls": "responsive-wrapper",
+   "pos": "fixed",
+   "top": 0,
+   "h": 186,
+   "text": "¿Aún no tienes la App? Descárgala ya. Gestiona tus F Puntos y accede a beneficios exclusivos. ¡Todo "
+  },
+  {
+   "tag": "DIV",
+   "cls": "jsx-2614091778 actions",
+   "pos": "fixed",
+   "top": 769,
+   "h": 75,
+   "text": "Limpiar Filtro Aplicar"
+  },
+  {
+   "tag": "DIV",
+   "cls": "jsx-3227795704 dynamic-facets-container",
+   "pos": "fixed",
+   "top": 0,
+   "h": 126,
+   "text": "(0) Género Formato Tipo Frecuencia de uso Contenido + Envío gratis +2.849 resultados"
+  },
+  {
+   "tag": "DIV",
+   "cls": "jsx-1307952872 results-bar",
+   "pos": "sticky",
+   "top": 76,
+   "h": 42,
+   "text": "+2.849 resultados"
+  }
+ ],
+ "site": "falabella",
+ "headless": true,
+ "viewport": "390x844 @2x"
+}

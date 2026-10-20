@@ -1,0 +1,33 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\LYMPHORIA-ES-CL\\V09 - LYMPHORIA-TE-PASO-EL-DATO.mp4",
+ "estilo": "drop",
+ "corpo": "corpo_total.mp4",
+ "legenda": {
+  "fonte": "alinhamento:legenda_total.alinhamento.json",
+  "chaves": [
+   "retención",
+   "hinchada",
+   "lymphoria",
+   "compre",
+   "gratis",
+   "recibir",
+   "noventa"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 21.83
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

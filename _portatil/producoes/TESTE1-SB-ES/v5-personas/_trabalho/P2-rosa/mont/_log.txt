@@ -1,0 +1,31 @@
+  0.00 +12.53 AB     abertura.mp4  Imágenes impactantes: una costurera fue humillada por una clienta… por
+ 12.53 + 2.60 MAOS   v1_maos.mp4  
+ 15.13 + 4.30 VAZIO  v1_vazio.mp4  
+ 19.43 + 2.30 CHEIO  v1_cheio.mp4  
+ 21.73 + 5.30 R01    hg_R01.mp4  Al día siguiente, el taller de doña Rosa tenía encargos hasta el fin d
+ 27.03 + 2.90 RA1    v1_noite.mp4  Esa noche lloré sobre la máquina de coser.
+ 29.93 + 3.70 RA2    hg_RA2.mp4  Treinta años cosiendo… y me sentí una inútil.
+ 33.63 + 3.83 RA3    v1_celular.mp4  Mi comadre me mandó la transmisión del padre Juan Méndez.
+ 37.47 + 7.60 RA4    hg_RA4.mp4  La hice esa misma noche, como él enseña. Al otro día, entraron tres cl
+ 45.07 + 7.97 RP1    hg_RP1.mp4  Si tú también rezas y sientes que nadie te escucha… y que las cosas so
+ 53.03 + 9.50 RP2    hg_RP2.mp4  Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El p
+ 62.53 + 6.93 RP3    hg_RP3.mp4  y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la 
+ 69.47 + 6.77 CTA    hg_CTA.mp4  ¡Claro! Toquen el botón que está abajo del video y entren ahora a la o
+TOTAL 76.2333 CTA 69.4667
+  [1/15] AB 0.00 +12.53
+  [2/15] MAOS 12.53 +2.60
+  [3/15] VAZIO 15.13 +4.30
+  [4/15] CHEIO 19.43 +2.30
+  [5/15] R01 21.73 +5.30
+  [6/15] RA1 27.03 +2.90
+  [7/15] RA2 29.93 +3.70
+  [8/15] RA3 33.63 +3.83
+  [9/15] RA4a 37.47 +3.47
+  [10/15] RA4_broll 40.93 +4.13
+  [11/15] RP1 45.07 +7.97
+  [12/15] RP2a 53.03 +6.00
+  [13/15] RP2_broll 59.03 +3.50
+  [14/15] RP3 62.53 +6.93
+  [15/15] CTA 69.47 +6.77
+ok C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P2-ROSA_FICTICIO.mp4 76.23 s
+C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P2-ROSA_FICTICIO_narracion.txt

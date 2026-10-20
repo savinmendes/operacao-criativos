@@ -1,0 +1,126 @@
+{
+"texto": "La hice esa misma noche, como él enseña. Al día siguiente, me llamaron para un trabajo nuevo, con gente que me trata como familia.",
+"dur": 7.418,
+"palavras": [
+{
+"w": "La",
+"ini": 0.1,
+"fim": 0.204
+},
+{
+"w": "hice",
+"ini": 0.227,
+"fim": 0.39
+},
+{
+"w": "esa",
+"ini": 0.413,
+"fim": 0.541
+},
+{
+"w": "misma",
+"ini": 0.587,
+"fim": 0.796
+},
+{
+"w": "noche,",
+"ini": 0.843,
+"fim": 1.285
+},
+{
+"w": "como",
+"ini": 1.383,
+"fim": 1.58
+},
+{
+"w": "él",
+"ini": 1.615,
+"fim": 1.661
+},
+{
+"w": "enseña.",
+"ini": 1.719,
+"fim": 2.242
+},
+{
+"w": "Al",
+"ini": 2.34,
+"fim": 2.468
+},
+{
+"w": "día",
+"ini": 2.515,
+"fim": 2.631
+},
+{
+"w": "siguiente,",
+"ini": 2.677,
+"fim": 3.275
+},
+{
+"w": "me",
+"ini": 3.383,
+"fim": 3.476
+},
+{
+"w": "llamaron",
+"ini": 3.499,
+"fim": 3.871
+},
+{
+"w": "para",
+"ini": 3.917,
+"fim": 4.068
+},
+{
+"w": "un",
+"ini": 4.115,
+"fim": 4.173
+},
+{
+"w": "trabajo",
+"ini": 4.231,
+"fim": 4.626
+},
+{
+"w": "nuevo,",
+"ini": 4.672,
+"fim": 5.105
+},
+{
+"w": "con",
+"ini": 5.209,
+"fim": 5.36
+},
+{
+"w": "gente",
+"ini": 5.407,
+"fim": 5.697
+},
+{
+"w": "que",
+"ini": 5.755,
+"fim": 5.86
+},
+{
+"w": "me",
+"ini": 5.964,
+"fim": 6.045
+},
+{
+"w": "trata",
+"ini": 6.08,
+"fim": 6.347
+},
+{
+"w": "como",
+"ini": 6.394,
+"fim": 6.614
+},
+{
+"w": "familia.",
+"ini": 6.684,
+"fim": 7.288
+}
+]
+}

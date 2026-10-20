@@ -1,0 +1,56 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 22 - LYMPHORIA-22-ANOS-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 22 - LYMPHORIA-22-ANOS-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 248.8,
+  "quadros": 7463,
+  "dur_audio": 248.8,
+  "mb": 29.3
+ },
+ "info_v2": {
+  "duracao": 248.8,
+  "quadros": 7463,
+  "dur_audio": 248.8,
+  "mb": 30.3
+ },
+ "md5_audio_entregue": "51a307aef01adbd77a1f290c494ca9cb",
+ "md5_audio_v2": "51a307aef01adbd77a1f290c494ca9cb",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/t2_final.mp4",
+   2526,
+   2598,
+   84.2,
+   86.6
+  ]
+ ],
+ "quadros_comparados": 7463,
+ "fora_dos_takes": {
+  "quadros": 7391,
+  "psnr_min": 28.05,
+  "psnr_medio": 38.31,
+  "px40_max": 12089,
+  "px40_medio": 231.04,
+  "quadro_px40_max": 3094,
+  "t_px40_max": 103.13
+ },
+ "dentro_dos_takes": {
+  "quadros": 72,
+  "psnr_medio": 34.82,
+  "px40_medio": 501.7,
+  "px40_max": 969
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 6765,
+  "px40_max": 84,
+  "t_px40_max": 58.43,
+  "quadros_com_px40>50": 12
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 72,
+  "px40_medio": 216.0
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD22_takes_zoom3x.jpg"
+}

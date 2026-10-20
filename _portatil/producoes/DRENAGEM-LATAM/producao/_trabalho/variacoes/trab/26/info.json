@@ -1,0 +1,48 @@
+{
+ "var": "26",
+ "gancho": "G6",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.",
+ "Hd": 6.866666666666666,
+ "fala_s": 6.46,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 0.175,
+   "dur": 2.2333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 12.775,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 15.008,
+   "dur": 2.2
+  },
+  {
+   "src": "30",
+   "ini": 8.825,
+   "dur": 0.9
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Tengo que pedir perdón en público.",
+   0.151
+  ],
+  [
+   "Durante meses no conté la verdad de lo que me pasó.",
+   2.032
+  ],
+  [
+   "Ya no me lo guardo más.",
+   5.039
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 26 - G6-DISCULPA x AD30.mp4",
+ "seed": 185
+}

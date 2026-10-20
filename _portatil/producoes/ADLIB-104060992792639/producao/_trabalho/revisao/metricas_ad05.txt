@@ -1,0 +1,30 @@
+bloco         tempo mudou dboca | corrES corrPT | idx pausa ES (q) | fim d_prev
+c1      0.00-  3.13   27%  11.9 |   0.50   0.41 |  0.68 ( 34) | [12.24, 10.91, 0.03, 9.12] -> [22.71]
+m1      3.63-  5.00    7%   8.5 |   0.89   0.70 |  0.38 (  4) | [19.4, 0.03, 19.86, 24.29] -> [nan]
+c2     11.93- 17.93   32%  10.8 |   0.28   0.13 |  0.09 (  7) | [4.19, 2.67, 1.54, 0.08] -> [6.36]
+c3     17.93- 27.20   27%  10.0 |   0.65   0.17 |  0.13 ( 91) | [0.07, 1.46, 1.89, 1.53] -> [29.68]
+m3     27.20- 36.80   45%  12.5 |   0.27   0.11 |  0.61 ( 51) | [3.92, 3.06, 0.02, 2.71] -> [5.46]
+        pausa ES 28.03-28.37s com boca aberta (99% da fala)
+m4     36.80- 47.20   33%  11.0 |   0.23   0.27 |  0.84 ( 51) | [0.0, 3.45, 6.74, 10.53] -> [12.51]
+        pausa ES 39.47-39.70s com boca aberta (123% da fala)
+        pausa ES 41.97-42.47s com boca aberta (109% da fala)
+        pausa ES 43.80-44.03s com boca aberta (117% da fala)
+m5     47.20- 52.97   25%  10.9 |   0.67  -0.06 |  0.36 ( 47) | [3.2, 3.39, 0.03, 2.59] -> [54.1]
+        pausa ES 49.73-49.97s com boca aberta (118% da fala)
+d1     54.27- 61.40   49%  13.8 |   0.03   0.16 |  1.47 ( 12) | [2.72, 4.03, 2.76, 2.25] -> [0.0]
+        pausa ES 60.90-61.37s com boca aberta (138% da fala)
+d2     61.40- 71.33   45%  13.3 |   0.18   0.09 |  1.28 ( 30) | [4.77, 0.04, 6.55, 7.19] -> [8.76]
+        pausa ES 61.43-61.67s com boca aberta (169% da fala)
+        pausa ES 63.73-64.00s com boca aberta (125% da fala)
+        pausa ES 67.63-67.90s com boca aberta (166% da fala)
+d3     71.33- 83.00   56%  15.0 |   0.44  -0.00 |  0.43 ( 37) | [6.84, 0.01, 4.54, 3.39] -> [5.95]
+        pausa ES 74.97-75.33s com boca aberta (100% da fala)
+d4     83.00- 89.60   59%  15.0 |   0.39   0.09 |  0.43 ( 49) | [4.84, 2.98, 2.98, 0.09] -> [8.23]
+        pausa ES 84.53-84.90s com boca aberta (141% da fala)
+d5     89.60- 95.50   64%  16.5 |   0.67   0.13 |  0.04 ( 41) | [5.87, 0.02, 6.97, 5.36] -> []
+TOTAL indice de pausa ES: 0.49
+
+Fora dos blocos (rosto detectado no original):
+    3.13-  3.63s [-] rostos em 100% | fala ES 0% | fala PT 0% | var abertura orig 0.0233
+    5.00- 11.93s [COBERTO] rostos em 98% | fala ES 60% | fala PT 61% | var abertura orig 0.0062
+   52.97- 54.27s [-] rostos em 95% | fala ES 3% | fala PT 46% | var abertura orig 0.0240

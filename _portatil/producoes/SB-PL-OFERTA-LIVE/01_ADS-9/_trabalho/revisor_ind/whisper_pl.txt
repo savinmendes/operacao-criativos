@@ -1,0 +1,40 @@
+[  0.00-  3.68]  Moje dziecko, tak długo mnie ignorujesz i to złamało mi serce.
+   Moje(0.00,0.77) dziecko,(0.52,0.99) tak(1.00,0.99) długo(1.04,1.00) mnie(1.30,1.00) ignorujesz(1.48,0.98) i(2.12,0.75) to(2.54,0.99) złamało(2.66,0.77) mi(3.12,0.99) serce.(3.24,0.99)
+[  4.76-  8.26]  Wysyłałem ci znaki w snach, w przeczuciach i w uczuciach.
+   Wysyłałem(4.76,0.96) ci(5.40,0.82) znaki(5.58,1.00) w(5.94,0.85) snach,(6.12,0.89) w(6.60,0.97) przeczuciach(6.60,0.94) i(7.18,0.99) w(7.34,0.98) uczuciach.(7.50,0.99)
+[  9.76- 15.62]  Wysyłałem ci też wiadomości, okazje, a nawet spotkania, które wyglądały na zwykłe zbiegi okoliczności.
+   Wysyłałem(9.76,0.99) ci(10.40,0.96) też(10.56,0.99) wiadomości,(10.70,1.00) okazje,(11.66,0.96) a(12.28,0.99) nawet(12.32,1.00) spotkania,(12.56,0.98) które(13.34,1.00) wyglądały(13.42,0.99) na(13.98,0.99) zwykłe(14.12,0.99) zbiegi(14.52,0.98) okoliczności.(14.82,1.00)
+[ 16.30- 18.20]  Ale tak często wolisz ich nie widzieć.
+   Ale(16.30,0.91) tak(16.66,0.99) często(16.82,0.99) wolisz(17.08,0.82) ich(17.58,0.98) nie(17.68,0.95) widzieć.(17.86,0.97)
+[ 19.32- 21.70]  A jednak nie zrezygnowałem z ciebie.
+   A(19.32,0.97) jednak(19.96,1.00) nie(20.26,0.97) zrezygnowałem(20.50,1.00) z(21.24,0.99) ciebie.(21.40,0.88)
+[ 22.82- 27.16]  Dziś wysyłam ci jeszcze jeden znak przez ten film i w głębi serca to wiesz.
+   Dziś(22.82,0.99) wysyłam(23.22,0.99) ci(23.60,0.95) jeszcze(23.78,0.99) jeden(24.00,1.00) znak(24.34,0.99) przez(24.76,0.97) ten(24.96,1.00) film(25.22,1.00) i(25.58,0.73) w(25.82,1.00) głębi(25.92,0.96) serca(26.28,1.00) to(26.68,0.97) wiesz.(26.90,0.98)
+[ 28.84- 32.90]  Bo jeszcze przed otwarciem tego filmu coś w tobie już cię ostrzegało.
+   Bo(28.84,0.03) jeszcze(29.48,0.82) przed(29.66,0.98) otwarciem(29.94,0.97) tego(30.48,0.99) filmu(30.60,1.00) coś(31.08,0.98) w(31.24,0.98) tobie(31.42,0.92) już(31.70,0.96) cię(31.92,0.64) ostrzegało.(32.08,0.95)
+[ 33.62- 38.10]  Ale słuchaj uważnie, bo to może być ostatni znak, jaki otrzymasz w ten sposób.
+   Ale(33.62,0.97) słuchaj(34.26,1.00) uważnie,(34.62,0.95) bo(35.30,0.97) to(35.40,0.99) może(35.50,1.00) być(35.64,1.00) ostatni(35.86,0.99) znak,(36.38,1.00) jaki(36.78,0.99) otrzymasz(37.02,0.92) w(37.58,0.99) ten(37.62,1.00) sposób.(37.74,1.00)
+[ 39.56- 46.56]  Dlatego zanim ten film się skończy, muszę ci pokazać coś, co może ochronić twoje życie duchowe i otworzyć zamknięte drogi.
+   Dlatego(39.56,0.98) zanim(39.88,0.88) ten(40.24,1.00) film(40.46,1.00) się(40.70,1.00) skończy,(40.88,1.00) muszę(41.78,0.98) ci(42.02,0.91) pokazać(42.10,1.00) coś,(42.62,1.00) co(43.12,1.00) może(43.32,1.00) ochronić(43.52,0.99) twoje(44.00,0.91) życie(44.38,1.00) duchowe(44.58,0.99) i(45.02,0.99) otworzyć(45.16,0.99) zamknięte(45.62,0.99) drogi.(46.20,0.99)
+[ 48.06- 52.16]  Coś, co przez bardzo długi czas pozostawało ukryte, przekazywane przez modlitwę,
+   Coś,(48.06,0.99) co(48.70,0.99) przez(48.78,1.00) bardzo(49.00,1.00) długi(49.32,1.00) czas(49.72,1.00) pozostawało(49.92,0.95) ukryte,(50.68,0.98) przekazywane(51.46,0.99) przez(51.92,1.00) modlitwę,(52.12,0.99)
+[ 53.00- 55.30]  której niewielu nauczyło się właściwie używać.
+   której(53.00,0.95) niewielu(53.34,0.99) nauczyło(53.76,1.00) się(54.24,1.00) właściwie(54.38,0.88) używać.(54.72,1.00)
+[ 55.92- 58.02]  Coś, czego nie każdy jest gotów przyjąć.
+   Coś,(55.92,0.60) czego(56.42,0.99) nie(56.52,1.00) każdy(56.72,0.98) jest(56.96,0.99) gotów(57.22,0.97) przyjąć.(57.52,0.99)
+[ 58.78- 61.76]  Ale ty, ty tu jesteś i to ma swój cel.
+   Ale(58.78,0.91) ty,(59.26,0.71) ty(59.96,0.98) tu(60.14,0.94) jesteś(60.26,1.00) i(60.74,0.48) to(61.16,0.97) ma(61.26,1.00) swój(61.36,0.99) cel.(61.54,0.86)
+[ 63.00- 67.30]  Jeśli wciąż tu jesteś, to dlatego, że jest coś, co musisz zrozumieć.
+   Jeśli(63.00,0.99) wciąż(63.40,0.99) tu(63.70,0.99) jesteś,(63.86,1.00) to(64.34,1.00) dlatego,(64.40,0.98) że(65.02,1.00) jest(65.14,0.98) coś,(65.36,1.00) co(65.86,0.99) musisz(66.00,0.99) zrozumieć.(66.40,1.00)
+[ 68.32- 73.18]  A to, co zaraz zobaczysz, może zmienić to, jak wszystko zacznie się układać w twoim życiu.
+   A(68.32,0.97) to,(68.80,1.00) co(68.96,1.00) zaraz(69.08,1.00) zobaczysz,(69.34,0.96) może(70.16,0.99) zmienić(70.30,0.99) to,(70.86,0.96) jak(71.26,1.00) wszystko(71.38,1.00) zacznie(71.66,0.98) się(72.04,0.99) układać(72.16,0.99) w(72.60,1.00) twoim(72.66,0.94) życiu.(72.90,1.00)
+[ 74.14- 75.66]  Więc nie daj się rozproszyć.
+   Więc(74.14,0.99) nie(74.62,1.00) daj(74.88,0.98) się(75.02,1.00) rozproszyć.(75.16,0.97)
+[ 76.04- 79.78]  Zostań ze mną jeszcze chwilę i uważnie posłuchaj tego, co ci teraz objawie.
+   Zostań(76.04,1.00) ze(76.38,0.97) mną(76.50,1.00) jeszcze(76.68,0.99) chwilę(76.90,0.99) i(77.38,0.99) uważnie(77.48,0.99) posłuchaj(77.96,1.00) tego,(78.50,0.99) co(78.80,1.00) ci(78.94,0.96) teraz(79.08,1.00) objawie.(79.32,0.76)
+[ 82.12- 88.10]  Dotknij, dowiedz się więcej, poniżej i dołącz do modlitwy na żywo, gdzie coś zostanie objawione tylko nielicznym.
+   Dotknij,(82.12,0.68) dowiedz(82.78,0.94) się(83.04,0.97) więcej,(83.20,0.94) poniżej(83.74,0.99) i(84.08,0.87) dołącz(84.38,0.99) do(84.72,0.99) modlitwy(84.86,0.99) na(85.32,0.99) żywo,(85.50,1.00) gdzie(86.02,0.99) coś(86.16,1.00) zostanie(86.36,0.99) objawione(86.76,0.97) tylko(87.28,0.96) nielicznym.(87.48,0.98)
+[ 89.58- 92.86]  Nie odkładaj tego, bo ta chwila już się tak nie powtórzy.
+   Nie(89.58,0.97) odkładaj(90.10,0.82) tego,(90.62,1.00) bo(91.06,0.99) ta(91.12,1.00) chwila(91.30,0.99) już(91.62,0.96) się(91.84,1.00) tak(92.02,0.99) nie(92.18,1.00) powtórzy.(92.34,0.98)
+[ 94.64- 96.84]  Dotknij teraz i zobacz, co ci przygotowano.
+   Dotknij(94.64,0.98) teraz(95.16,0.98) i(95.36,0.99) zobacz,(95.60,1.00) co(95.94,1.00) ci(96.12,0.84) przygotowano.(96.24,0.99)

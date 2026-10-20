@@ -1,0 +1,105 @@
+SB-EN-ADS-24 — San Benito (Saint Benedict) · Inglês (EUA / Reino Unido / Canadá / Austrália, depois worldwide)
+Origem: 1-VIDEOS/ad 24.mp4 (ES, 148,0 s, 720x1280). Saída EN: 122,0 s, 720x1280 (mesma resolução da fonte).
+Destino: oração ao vivo (live prayer). Botão do Meta: LEARN_MORE. Sem produto e sem preço.
+
+VOZES (ElevenLabs, eleven_multilingual_v2; nenhuma voz criada/clonada/apagada):
+  - Senhor de barba branca e cetro (abertura, fala na tela): "Bill - Wise, Mature, Balanced" (pqHfZKP75CvOlQylNhV4), speed 1.1
+  - Arcanjo de armadura / narrador (fala na tela o resto do vídeo): "Brian - Deep, Resonant and Comforting" (nPczCjzI2devNBz1zQrb), speed 1.0
+  - Jesus, mulheres orando, homem das moedas: b-roll sem fala própria (só narração do arcanjo).
+
+BOCA (conferido quadro a quadro): o senhor da abertura e o arcanjo (planos aberto e fechado) articulam a fala no original
+  -> lipsync HeyGen speed em 14 trechos (áudio ES original na entrada, EN separado). Jesus e demais: b-roll, sem lipsync.
+
+DECISÕES:
+  - "misa especial" -> "special live prayer" e "participa de la misa" -> "join the live prayer" (decisão da pessoa). Nenhuma menção a "mass".
+  - "Haz click en saber más y continúa" -> "Tap Learn More below and join the live prayer now." (CTA do lote).
+  - "Portal 1111" mantido: falado "eleven eleven", escrito 11:11 na legenda.
+  - Teor mantido (urgência, "dos milagros financieros", "última puerta"), sem suavizar.
+  - Legenda ES removida com LaMa local; legenda EN no mesmo estilo (caixa alta, contorno preto, palavra falada em vermelho/amarelo/verde);
+    gancho do senhor em caixa branca pequena como no original; setas vermelhas no CTA.
+  - Duração: o inglês ficou ~18% mais curto; os planos foram reajustados no tempo (corte a corte) para acompanhar a fala.
+
+======================================================================
+ROTEIRO ES (original) × EN (narrado), frase a frase
+======================================================================
+
+01 ES: Tienes 60 segundos. Después le pasaré esta bendición a otro.
+   EN: You have 60 seconds. Then I'll pass this blessing on to someone else.
+
+02 ES: El portal 1111 se ha abierto, y no todos lo verán.
+   EN: The 11:11 portal has opened, and not everyone will see it.
+
+03 ES: Cuidado, si saltas este video, romperás el alineamiento exacto que el universo organizó para bendecirte.
+   EN: Careful: if you skip this video, you will break the exact alignment the universe arranged to bless you.
+
+04 ES: Hoy pediste una señal al cielo, y ahora quieres huir de ella.
+   EN: Today you asked heaven for a sign, and now you want to run away from it.
+
+05 ES: Has ignorado las señales una y otra vez.
+   EN: You have ignored the signs again and again.
+
+06 ES: Cuando sientes cambios repentinos de energía, o notas coincidencias extrañas en tu día, las descartas.
+   EN: When you feel sudden shifts in energy, or notice strange coincidences in your day, you brush them off.
+
+07 ES: Pero no es aleatorio, soy yo intentando entregarte la brújula que va a desbloquear tu vida.
+   EN: But it's not random. It's me, trying to hand you the compass that will unlock your life.
+
+08 ES: Pero hoy, la paciencia del cielo ha llegado a su límite, muchos dicen que esta es la última puerta que se abre para ti.
+   EN: But today, heaven's patience has reached its limit. Many say this is the last door that will open for you.
+
+09 ES: El portal 1111 se ha abierto, tu ángel de la guarda tiene dos milagros financieros para entregarte esta semana.
+   EN: The 11:11 portal has opened. Your guardian angel has two financial miracles to deliver to you this week.
+
+10 ES: Si estás viendo esto, no es coincidencia.
+   EN: If you're seeing this, it's no coincidence.
+
+11 ES: Aquí está la guía de tu ángel de la guarda para recibir ese milagro.
+   EN: Here is your guardian angel's guidance to receive that miracle.
+
+12 ES: Respira profundo ahora, y comencemos.
+   EN: Take a deep breath now, and let's begin.
+
+13 ES: El ángel que te acompaña desde tu nacimiento, está a punto de conectarse directamente con tu alma, y abrir un camino de milagros inesperados.
+   EN: The angel who has been with you since the day you were born is about to connect directly with your soul, and open a path of unexpected miracles.
+
+14 ES: La respuesta a ese cambio financiero que tanto deseas, está más cerca de lo que imaginas.
+   EN: The answer to that financial change you long for is closer than you imagine.
+
+15 ES: Pero debes saber algo importante.
+   EN: But you must know something important.
+
+16 ES: Esto no sucede solo por tus oraciones, o por lo que pides.
+   EN: This doesn't happen just because of your prayers, or what you ask for.
+
+17 ES: Dios tiene una forma distinta de colocar los milagros en nuestro camino.
+   EN: God has a different way of placing miracles in our path.
+
+18 ES: Y muchas veces, lo hace a través de actos de fe profunda, protección espiritual, y entrega verdadera.
+   EN: And many times, He does it through acts of deep faith, spiritual protection, and true surrender.
+
+19 ES: Por eso, para que ese milagro pueda manifestarse, debes dar el primer paso.
+   EN: That's why, for that miracle to manifest, you must take the first step.
+
+20 ES: Y ese paso comienza ahora.
+   EN: And that step begins now.
+
+21 ES: En unos instantes, participarás de una misa especial, seguida de una oración de protección milenaria, utilizada durante siglos, para romper bloqueos, alejar influencias negativas, y abrir caminos.
+   EN: In a few moments, you'll join a special live prayer: an ancient prayer of protection, used for centuries to break blockages, drive away negative influences, and open paths.
+
+22 ES: La oración de San Benito.
+   EN: The prayer of Saint Benedict.
+
+23 ES: Si este mensaje llegó hasta ti, no es casualidad.
+   EN: If this message has reached you, it's no coincidence.
+
+24 ES: Haz click en saber más y continúa.
+   EN: Tap Learn More below and join the live prayer now.
+
+25 ES: Tal vez esta sea la oportunidad que estabas esperando.
+   EN: Maybe this is the opportunity you've been waiting for.
+
+26 ES: Permanece con nosotros, participa de la misa, y realiza la oración de San Benito.
+   EN: Stay with us and join the live prayer of Saint Benedict.
+
+27 ES: La protección, el orden, y las bendiciones que necesitas pueden comenzar hoy.
+   EN: The protection, the order, and the blessings you need can begin today.

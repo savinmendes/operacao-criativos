@@ -1,0 +1,28 @@
+REVISÃO: PERFUMES-CL_F2_REGALO.mp4
+duração 28.47s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 20.0 MB
+decodificação: OK
+pts do áudio: 1336 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 824-1183, x 227-511 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\ONDA3\F2-REGALO\PERFUMES-CL_F2_REGALO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.00 Mi marido usaba el mismo perfume desde 2015.
+   4.00-  6.00 Así que le compré estos tres.
+   6.00-  8.00 Los pagué recién cuando llegaron
+   8.00- 10.00 y se los envolví para regalo.
+  10.00- 12.00 Tres perfumes árabes al precio de uno.
+  12.00- 15.00 Armav Club, fresco, masculino y poderoso.
+  15.00- 17.00 Latafa Asad, intenso y seductor.
+  17.00- 20.00 Yafnan 9 PM, elegante y moderno.
+  22.00- 24.00 Ahora la que no lo deja tranquilo soy yo.
+  24.00- 27.00 Los tres te llegan a la casa y pagas cuando lo recibes.
+  27.00- 29.00 Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

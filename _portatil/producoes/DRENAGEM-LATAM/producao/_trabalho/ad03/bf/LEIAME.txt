@@ -1,0 +1,6 @@
+Troca do rótulo sem Kling (band_fix2.py, modo escuro). Comandos usados (720p):
+t1 407.10s 86q: --roi 290,840,452,940 --modo escuro
+t2 419.00s 51q: --roi 300,588,402,690 --modo escuro --fecho 7 --frac 0.6
+t3 420.70s 52q: --roi 220,500,540,640 --modo escuro --fecho 25
+t4 482.93s 122q: --roi 268,795,398,855 --roi2 296,825,398,880 --modo escuro
+Cortes dos takes: ffmpeg -ss ini -i full_up720.mp4 -frames:v q (ver frascos.py)

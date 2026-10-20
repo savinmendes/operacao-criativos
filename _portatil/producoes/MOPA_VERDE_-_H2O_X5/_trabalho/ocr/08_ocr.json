@@ -1,0 +1,614 @@
+[
+ {
+  "texto": "Introducing",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   250,
+   24,
+   543,
+   87
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "THANE",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   245,
+   80,
+   326,
+   164
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20X5",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   337,
+   87,
+   669,
+   159
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "IM",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   670,
+   88,
+   690,
+   99
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "5-in-1",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   49,
+   107,
+   301,
+   184
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "STEAM CLEANING",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   51,
+   183,
+   451,
+   221
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "SYSTEM",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   48,
+   225,
+   432,
+   299
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "VARIABLE",
+  "ini": 4.0,
+  "fim": 6.0,
+  "caixa": [
+   243,
+   541,
+   622,
+   603
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "0",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   606,
+   173,
+   650,
+   204
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "WITH",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   318,
+   470,
+   561,
+   543
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "STEAM",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   315,
+   606,
+   704,
+   695
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "12",
+  "ini": 6.0,
+  "fim": 8.0,
+  "caixa": [
+   47,
+   84,
+   202,
+   231
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Million",
+  "ini": 6.0,
+  "fim": 8.0,
+  "caixa": [
+   89,
+   30,
+   379,
+   310
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "SOLD WORLDWIDE",
+  "ini": 6.0,
+  "fim": 8.0,
+  "caixa": [
+   154,
+   95,
+   391,
+   328
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HO",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   306,
+   307,
+   337,
+   322
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "MOP",
+  "ini": 8.0,
+  "fim": 10.0,
+  "caixa": [
+   293,
+   316,
+   355,
+   346
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "X5",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   298,
+   337,
+   355,
+   368
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "1.",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   447,
+   485,
+   523,
+   585
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "OWERFUL",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   6,
+   560,
+   348,
+   615
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "XS",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   327,
+   369,
+   379,
+   401
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "L",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   445,
+   485,
+   520,
+   584
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "POWERFUL",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   22,
+   559,
+   400,
+   614
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "FLOOR CLEANER",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   21,
+   613,
+   653,
+   677
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "2",
+  "ini": 10.0,
+  "fim": 12.0,
+  "caixa": [
+   471,
+   310,
+   555,
+   408
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "VERSATILE",
+  "ini": 10.0,
+  "fim": 12.0,
+  "caixa": [
+   262,
+   449,
+   706,
+   516
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HAND",
+  "ini": 10.0,
+  "fim": 11.0,
+  "caixa": [
+   256,
+   515,
+   475,
+   578
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HAND HELD",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   260,
+   518,
+   695,
+   570
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "STEAMER",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   261,
+   579,
+   694,
+   645
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "3",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   182,
+   423,
+   260,
+   521
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "WINDOW",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   38,
+   552,
+   437,
+   626
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "EANER",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   61,
+   627,
+   353,
+   697
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CARPET",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   37,
+   48,
+   393,
+   119
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CLEANER",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   38,
+   125,
+   460,
+   197
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "4.",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   170,
+   223,
+   280,
+   318
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CLEANER",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   40,
+   639,
+   457,
+   707
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "5",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   180,
+   434,
+   259,
+   532
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "GARMENT",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   42,
+   566,
+   496,
+   632
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CHANGE",
+  "ini": 17.0,
+  "fim": 19.0,
+  "caixa": [
+   39,
+   469,
+   433,
+   543
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "THEWAY",
+  "ini": 18.0,
+  "fim": 19.0,
+  "caixa": [
+   38,
+   548,
+   376,
+   607
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "YOU CLEAN",
+  "ini": 18.0,
+  "fim": 19.0,
+  "caixa": [
+   31,
+   609,
+   590,
+   684
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HO",
+  "ini": 19.0,
+  "fim": 21.0,
+  "caixa": [
+   299,
+   309,
+   336,
+   327
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "MOP",
+  "ini": 19.0,
+  "fim": 21.0,
+  "caixa": [
+   287,
+   318,
+   350,
+   350
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "X5",
+  "ini": 19.0,
+  "fim": 20.0,
+  "caixa": [
+   293,
+   343,
+   345,
+   368
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "WITH THE",
+  "ini": 19.0,
+  "fim": 21.0,
+  "caixa": [
+   389,
+   508,
+   693,
+   557
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "WER",
+  "ini": 19.0,
+  "fim": 20.0,
+  "caixa": [
+   13,
+   541,
+   172,
+   632
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "STEAM",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   320,
+   619,
+   699,
+   707
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "XS",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   310,
+   348,
+   368,
+   382
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "POWER OF",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   265,
+   559,
+   688,
+   617
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "011",
+  "ini": 21.0,
+  "fim": 24.0,
+  "caixa": [
+   333,
+   29,
+   356,
+   44
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "THANE",
+  "ini": 22.0,
+  "fim": 24.0,
+  "caixa": [
+   21,
+   377,
+   100,
+   456
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20X5",
+  "ini": 22.0,
+  "fim": 24.0,
+  "caixa": [
+   100,
+   370,
+   421,
+   462
+  ],
+  "marca_ou_alerta": true
+ }
+]

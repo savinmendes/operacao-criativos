@@ -1,0 +1,24 @@
+﻿REVISÃO: 08 AD - ES.mp4
+duração 24.37s | 720x720 | 30/1 fps | áudio: sim | 4.0 MB
+decodificação: OK
+pts do áudio: 1143 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 9 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 389-673, x 37-533 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\08\08 AD - ES_revisao.jpg
+idioma detectado: en (0.83)
+
+=== transcrição (es) ===
+   0.00- 24.36 Música
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00- 24.40    Music
+
+=== RESULTADO ===
+PROBLEMA: resolução 720x720 (esperado 720x1280 ou 1080x1920)
+aviso: idioma detectado en (0.83), esperado es
+1 problema(s)
+relatório: C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\08\08 AD - ES_revisao.txt

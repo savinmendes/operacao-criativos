@@ -1,0 +1,29 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 15 - WYZE-SOLAR-CAM-PAN-POSTE-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad15/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad15/alinhamento.json",
+  "y": 1575,
+  "chaves": [
+   "cargar",
+   "2K",
+   "360",
+   "70",
+   "nocturna",
+   "IP65",
+   "cable",
+   "hora",
+   "encanta",
+   "personas",
+   "celular",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1240
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

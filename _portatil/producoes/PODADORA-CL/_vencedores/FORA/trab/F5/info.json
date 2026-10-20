@@ -1,0 +1,34 @@
+{
+ "cod": "F5",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F5 - REGALO-PAPA-B-ES-CL.mp4",
+ "gancho_s": 6.766666666666667,
+ "partes": [
+  [
+   "p0.mp4",
+   116
+  ],
+  [
+   "p1.mp4",
+   24
+  ],
+  [
+   "p2.mp4",
+   63
+  ]
+ ],
+ "falas": [
+  [
+   "F5_senhor.mp3",
+   0.15,
+   3.297
+  ]
+ ],
+ "ganhos_db": [
+  3.1
+ ],
+ "corte": 2.1,
+ "total_s": 41.63,
+ "mb": 26.2,
+ "kbps": 5349,
+ "cenas": "avatar senhor segurando a máquina (HeyGen, imagem base Flora a partir da foto do kit) → máquina com rodas vindo em direção à câmera (vencedor1 21,45–22,25 s) → corredor com o mato alto (vencedor1 0,0–2,1 s, emenda contínua no corpo)"
+}

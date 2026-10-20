@@ -1,0 +1,10 @@
+[3.74-7.04] Oye, esto huele carísimo. ¿Esto es de 100 lucas?
+      3.74   4.14 Oye,
+      4.78   4.88 esto
+      4.88   5.08 huele
+      5.08   5.76 carísimo.
+      6.28   6.38 ¿Esto
+      6.38   6.48 es
+      6.48   6.54 de
+      6.54   6.68 100
+      6.68   7.04 lucas?

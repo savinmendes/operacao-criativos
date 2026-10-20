@@ -1,0 +1,9 @@
+[
+ {"id":"p1","txt":"If you ignore me, I'll have no choice but to give the miracle you need so badly to someone else.","janela":[0.0,5.6],"vel":1.0},
+ {"id":"p2","txt":"This is your last chance to receive what I have prepared for you.","janela":[6.3,10.6]},
+ {"id":"p3","txt":"Jesus has chosen you.","janela":[10.8,12.4]},
+ {"id":"p4","txt":"He has brought you a powerful gift.","janela":[12.5,15.4]},
+ {"id":"p5","txt":"Today, you will hear an ancient, lost prayer from the Bible that will unlock a shower of blessings and miracles over your life.","janela":[15.7,23.4],"vel":0.92},
+ {"id":"p6","txt":"Don't reject me again.","janela":[23.6,25.9]},
+ {"id":"p7","txt":"Tap Learn More below, join the live prayer now, and receive your miracle before it's too late.","janela":[26.1,31.4]}
+]

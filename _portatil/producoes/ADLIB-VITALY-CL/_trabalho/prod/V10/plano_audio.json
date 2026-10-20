@@ -1,0 +1,10 @@
+{"vocals": "sep/htdemucs/orig/vocals.wav", "fundo": "sep/htdemucs/orig/no_vocals.wav", "saida": "audio_novo.wav",
+ "trocas": [
+  {"janela": [39.40, 44.40], "pecas": [{"src": "audio/t1.mp3", "de": 1.50, "ate": 6.45, "em": 39.57, "tempo": 1.027}]},
+  {"janela": [49.80, 63.62], "pecas": [
+     {"src": "audio/t2.mp3", "de": 1.80, "ate": 3.50, "em": 49.86, "tempo": 0.95},
+     {"src": "audio/t2.mp3", "de": 3.56, "ate": 8.40, "em": 52.15, "tempo": 0.95},
+     {"src": "audio/t2.mp3", "de": 8.40, "ate": 11.40, "em": 57.74, "tempo": 0.95},
+     {"src": "audio/t2.mp3", "de": 11.42, "ate": 13.45, "em": 61.40, "tempo": 0.95}]},
+  {"janela": [67.22, 68.24], "pecas": [{"src": "audio/t3.mp3", "de": 1.20, "ate": 1.90, "em": 67.28, "tempo": 0.95}]}
+ ]}

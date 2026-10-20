@@ -1,0 +1,35 @@
+REVISÃO: V0_COMPLETA.mp4
+duração 83.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 40.3 MB
+decodificação: OK
+pts do áudio: 3897 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 782-1115, x 11-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\corpo\_trab\rev\V0_COMPLETA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  4.24 Gente, están tratando de impedir que este sacerdote ayude a nuestra gente.
+   4.24-  7.88 Graben, no quieren que el pueblo prospere.
+   7.88- 12.04 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  12.04- 16.84 bendecir y ayudar a muchas personas, pero la verdad no va a quedar escondida.
+  16.84- 19.96 Le enseñé esta oración a mi amigo, el padre Juan Méndez,
+  19.96- 22.96 y él la está rezando en vivo con miles de familias.
+  22.96- 27.44 Cada día me escriben familias que trabajan sin descanso, que rezan,
+  27.44- 34.04 y aún así sienten que el dinero nunca alcanza y que algo les cierra el camino, no es falta de fe.
+  34.04- 37.84 O poderoso San Benito, guardián de los arcanos sagrados,
+  37.84- 41.04 que venciste a las serpientes con la señal de la cruz
+  41.04- 45.44 y callaste el rugido de los abismos con tu fe inquebrantable.
+  45.44- 48.84 Esta es la oración a San Benito que casi nadie conoce
+  48.84- 51.84 y que está ayudando a muchas familias hispanas.
+  51.84- 56.04 Sólo un grupo de monjes tenía acceso a esta oración completa.
+  56.04- 65.34 Por eso nunca habían oído hablar de ella, pero atención tiene que hacerse de la forma correcta siguiendo las instrucciones,
+  65.34- 71.84 porque no es una oración común, tiene instrucciones y una manera correcta de hacerla y de escucharla.
+  71.84- 77.94 Por eso la estoy rezando en vivo, completa, paso a paso, junto con miles de familias.
+  77.94- 82.94 Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

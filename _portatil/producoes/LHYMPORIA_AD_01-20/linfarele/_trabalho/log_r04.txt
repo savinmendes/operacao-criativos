@@ -1,0 +1,35 @@
+﻿>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t1.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t1_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t1_final.mp4 | 190 quadros | editado tinha 145 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t2.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t2_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t2_final.mp4 | 78 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t3.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t3_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t3_final.mp4 | 72 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t4.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t4_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t4_final.mp4 | 35 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t5.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t5_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t5_final.mp4 | 40 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t6.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t6_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t6_final.mp4 | 51 quadros | editado tinha 81 @ 24 fps | saltos>2: 5
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t7.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t7_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\flora\t7_final.mp4 | 16 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\base.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\b1.mp4
+t1_final.mp4: 190 quadros a partir de 7.367s
+t2_final.mp4: 78 quadros a partir de 13.7s
+t3_final.mp4: 72 quadros a partir de 21.467s
+t4_final.mp4: 35 quadros a partir de 26.067s
+t5_final.mp4: 40 quadros a partir de 37.6s
+t6_final.mp4: 51 quadros a partir de 48.467s
+t7_final.mp4: 16 quadros a partir de 50.167s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\b1.mp4 | 3228 quadros, 482 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad04\render_parte2.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\narr_fim.mp3 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\parte2.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\parte2.mp4 15.79s
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\montar_ad.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad04\receita_final.json
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 04 - LINFARELE-SCHELETRO-BIRRA-IT.mp4
+duração : 123.40s | 720x1280 | áudio: sim | 25.0 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 04 - LINFARELE-SCHELETRO-BIRRA-IT_frames.jpg
+RESULTADO: OK
+CTA em 120.20s
+montagem rápida: 139s para 123s de vídeo (1.13x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 04 - LINFARELE-SCHELETRO-BIRRA-IT.mp4

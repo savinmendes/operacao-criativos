@@ -1,0 +1,32 @@
+﻿>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t1.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t1_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t1_final.mp4 | 113 quadros | editado tinha 89 @ 24 fps | saltos>2: 1
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t2.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t2_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\flora\t2_final.mp4 | 72 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\base.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b1.mp4
+t1_final.mp4: 113 quadros a partir de 56.3s
+t2_final.mp4: 72 quadros a partir de 84.2s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b1.mp4 | 6840 quadros, 185 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\desfocar_regioes.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b1.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b2.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b2.mp4 | 74 quadros desfocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b2.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b3.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b3.mp4 | 133 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b3.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b4.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b4.mp4 | 103 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b4.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\p1.mp3
+aviso: fala nova 2.32s para 3.90s exigiria 0.60x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b5.mp4 | trecho 56.10-60.00s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b5.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\p2.mp3
+aviso: fala nova 1.72s para 2.50s exigiria 0.69x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\b6.mp4 | trecho 179.80-182.30s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad22\parte2.mp4 20.89s
+aviso: 4.1 min não cabe em 30 MB com qualidade; usando 900 kbps (~31 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 22 - LYMPHORIA-22-ANOS-ES-LATAM.mp4
+duração : 248.80s | 720x1280 | áudio: sim | 29.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 22 - LYMPHORIA-22-ANOS-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 245.72s
+montagem rápida: 112s para 249s de vídeo (0.45x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 22 - LYMPHORIA-22-ANOS-ES-LATAM.mp4

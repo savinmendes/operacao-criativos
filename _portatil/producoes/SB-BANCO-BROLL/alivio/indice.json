@@ -1,0 +1,603 @@
+{
+  "tema": "alivio",
+  "data": "2026-10-15",
+  "flow_elevenlabs": "EBXpnzIfFiT43RSWlAm7",
+  "takes": 30,
+  "creditos_total": 73583.4,
+  "obs_creditos": "2 regeracoes canceladas pelo provedor (takes 10 e 11) nao somadas; se cobradas, +4242",
+  "itens": [
+    {
+      "arquivo": "alivio_01_amanhecer-janela-cozinha.mp4",
+      "descricao": "Amanhecer entrando pela janela de cozinha simples, cortina balancando, raios de sol e poeira sobre mesa com caneca de barro",
+      "tags": [
+        "amanhecer",
+        "janela",
+        "cozinha",
+        "luz-quente",
+        "sem-pessoas",
+        "esperanca"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_02_amanhecer-janela-quarto.mp4",
+      "descricao": "Quarto simples ao nascer do sol, janela de madeira aberta, luz sobre cama com manta listrada e cruz na parede",
+      "tags": [
+        "amanhecer",
+        "janela",
+        "quarto",
+        "cruz",
+        "sem-pessoas",
+        "luz-quente"
+      ],
+      "in": 0.0,
+      "out": 4.5,
+      "duracao_util": 4.5,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": "flare verde no fim cortado"
+    },
+    {
+      "arquivo": "alivio_03_sol-rosto-mulher-62.mp4",
+      "descricao": "Mulher ~62 anos de olhos fechados sorrindo ao sol no patio, close",
+      "tags": [
+        "mulher",
+        "60+",
+        "sol",
+        "olhos-fechados",
+        "sorriso",
+        "close",
+        "alivio"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_04_sol-rosto-homem-52.mp4",
+      "descricao": "Homem ~52 anos de bigode na porta de casa, olhos fechados, sorri ao sol do fim de tarde",
+      "tags": [
+        "homem",
+        "50+",
+        "sol",
+        "olhos-fechados",
+        "sorriso",
+        "porta",
+        "alivio"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_05_abraco-familia-porta.mp4",
+      "descricao": "Abraco de familia (pai, mae, filha adolescente) na porta de casa colorida, luz dourada",
+      "tags": [
+        "familia",
+        "abraco",
+        "porta",
+        "reencontro",
+        "luz-quente"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_06_abraco-irmas-porta.mp4",
+      "descricao": "Duas irmas idosas se abracando emocionadas na porta de madeira",
+      "tags": [
+        "idosas",
+        "abraco",
+        "porta",
+        "reencontro",
+        "emocao"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_07_avo-rindo-netos-sofa.mp4",
+      "descricao": "Avo de cabelo branco rindo no sofa com dois netos",
+      "tags": [
+        "avo",
+        "netos",
+        "riso",
+        "sala",
+        "familia",
+        "60+"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_08_avo-neta-quintal.mp4",
+      "descricao": "Avo rindo no quintal com a neta abracando seu pescoco, varal ao fundo",
+      "tags": [
+        "avo",
+        "neta",
+        "quintal",
+        "riso",
+        "varal",
+        "contraluz"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_09_fila-banca-frutas.mp4",
+      "descricao": "Fila de clientes felizes em banca de frutas de bairro, vendedor entrega sacola",
+      "tags": [
+        "fila",
+        "clientes",
+        "banca",
+        "frutas",
+        "bairro",
+        "prosperidade",
+        "comercio"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_10_fila-padaria-bairro.mp4",
+      "descricao": "Padaria de bairro: dona entrega saco de pao, fila de clientes na porta (take curto)",
+      "tags": [
+        "padaria",
+        "fila",
+        "clientes",
+        "comercio",
+        "prosperidade"
+      ],
+      "in": 0.0,
+      "out": 1.8,
+      "duracao_util": 1.8,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 4432.38,
+      "obs": "so 1,8 s util: saco duplica depois; 2 geracoes falharam"
+    },
+    {
+      "arquivo": "alivio_11_maos-dinheiro-balcao-close.mp4",
+      "descricao": "Close de maos entregando maco de cedulas genericas sobre balcao",
+      "tags": [
+        "dinheiro",
+        "maos",
+        "balcao",
+        "pagamento",
+        "prosperidade",
+        "close"
+      ],
+      "in": 0.0,
+      "out": 4.4,
+      "duracao_util": 4.4,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 4432.38,
+      "obs": "cedulas sem texto legivel; maco afina apos 4,4 s"
+    },
+    {
+      "arquivo": "alivio_12_comerciante-recebe-dinheiro.mp4",
+      "descricao": "Comerciante idoso de oculos recebe dinheiro sorrindo na mercearia",
+      "tags": [
+        "comerciante",
+        "dinheiro",
+        "mercearia",
+        "60+",
+        "prosperidade"
+      ],
+      "in": 0.0,
+      "out": 3.5,
+      "duracao_util": 3.5,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": "dinheiro some das maos apos 3,5 s"
+    },
+    {
+      "arquivo": "alivio_13_telefone-feliz-mulher.mp4",
+      "descricao": "Mulher ~55 no telefone na cozinha, mao no peito, lagrimas de alegria (boa noticia)",
+      "tags": [
+        "mulher",
+        "telefone",
+        "boa-noticia",
+        "emocao",
+        "cozinha"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_14_telefone-feliz-homem.mp4",
+      "descricao": "Homem ~63 no telefone no quintal, ri aliviado, olha para o ceu",
+      "tags": [
+        "homem",
+        "60+",
+        "telefone",
+        "boa-noticia",
+        "alivio",
+        "quintal"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_15_mesa-farta-familia.mp4",
+      "descricao": "Mesa farta de familia de tres geracoes passando pratos, luz quente",
+      "tags": [
+        "mesa-farta",
+        "familia",
+        "refeicao",
+        "abundancia",
+        "prosperidade"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_16_mesa-farta-close.mp4",
+      "descricao": "Close de mesa farta: maos servindo ensopado da panela de barro, vapor",
+      "tags": [
+        "mesa-farta",
+        "comida",
+        "maos",
+        "close",
+        "abundancia"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_17_casal-idoso-maos-rua.mp4",
+      "descricao": "Casal idoso de maos dadas caminhando de costas por rua de pedra ao por do sol",
+      "tags": [
+        "casal",
+        "idosos",
+        "maos-dadas",
+        "rua",
+        "por-do-sol",
+        "costas"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_18_casal-maos-close.mp4",
+      "descricao": "Close das maos entrelacadas de casal caminhando em trilha ao por do sol",
+      "tags": [
+        "casal",
+        "maos-dadas",
+        "close",
+        "por-do-sol",
+        "uniao"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_19_homem-respira-laje.mp4",
+      "descricao": "Homem ~50 na laje respira fundo olhando o horizonte ao amanhecer, perfil",
+      "tags": [
+        "homem",
+        "50+",
+        "respirar",
+        "horizonte",
+        "amanhecer",
+        "alivio",
+        "laje"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_20_homem-respira-campo.mp4",
+      "descricao": "Homem ~42 de costas na cerca do campo respira fundo olhando o sol nascer com neblina",
+      "tags": [
+        "homem",
+        "respirar",
+        "horizonte",
+        "campo",
+        "amanhecer",
+        "costas"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_21_mulher-dancando-cozinha.mp4",
+      "descricao": "Mulher ~48 dancando sozinha feliz na cozinha com pano de prato",
+      "tags": [
+        "mulher",
+        "danca",
+        "cozinha",
+        "alegria",
+        "liberdade"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_22_idosa-girando-cozinha.mp4",
+      "descricao": "Idosa ~65 de avental girando e rindo sozinha na cozinha, corpo inteiro",
+      "tags": [
+        "idosa",
+        "60+",
+        "danca",
+        "cozinha",
+        "alegria"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_23_menino-corre-pai.mp4",
+      "descricao": "Menino corre na rua de terra para o abraco do pai que o levanta, contraluz dourado",
+      "tags": [
+        "crianca",
+        "pai",
+        "abraco",
+        "corrida",
+        "reencontro",
+        "rua",
+        "contraluz"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_24_pai-abraca-filha.mp4",
+      "descricao": "Pai ajoelhado abraca forte a filha pequena na porta de casa, emocionado",
+      "tags": [
+        "pai",
+        "filha",
+        "abraco",
+        "emocao",
+        "porta"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_25_porta-abrindo-luz.mp4",
+      "descricao": "Porta de madeira se abrindo e luz dourada inundando quarto escuro",
+      "tags": [
+        "porta",
+        "luz",
+        "abertura",
+        "esperanca",
+        "sem-pessoas",
+        "simbolico"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_26_idosa-abre-porta-patio.mp4",
+      "descricao": "Idosa de xale abre porta azul para patio ensolarado, vista por cima do ombro",
+      "tags": [
+        "idosa",
+        "porta",
+        "luz",
+        "patio",
+        "esperanca",
+        "costas"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_27_passaros-amanhecer-telhados.mp4",
+      "descricao": "Bando de passaros cruzando o ceu laranja do amanhecer sobre telhados e torre de igreja",
+      "tags": [
+        "passaros",
+        "amanhecer",
+        "ceu",
+        "telhados",
+        "igreja",
+        "sem-pessoas"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_28_pombas-amanhecer-campo.mp4",
+      "descricao": "Pombas brancas levantando voo do campo ao amanhecer, contra o sol",
+      "tags": [
+        "pombas",
+        "voo",
+        "amanhecer",
+        "campo",
+        "paz",
+        "sem-pessoas"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": "leve borrao nas asas"
+    },
+    {
+      "arquivo": "alivio_29_flor-hibisco-abrindo.mp4",
+      "descricao": "Timelapse de hibisco vermelho abrindo com gotas de orvalho",
+      "tags": [
+        "flor",
+        "timelapse",
+        "abrindo",
+        "hibisco",
+        "renovacao",
+        "macro"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": ""
+    },
+    {
+      "arquivo": "alivio_30_margaridas-abrindo.mp4",
+      "descricao": "Margaridas em vaso de barro na janela ao sol, botoes balancando (abertura sutil)",
+      "tags": [
+        "flor",
+        "margaridas",
+        "janela",
+        "sol",
+        "renovacao"
+      ],
+      "in": 0.0,
+      "out": 5.03,
+      "duracao_util": 5.03,
+      "resolucao": "720x1280",
+      "fps": 30,
+      "modelo": "gpt-image-2.5-sunburst -> kling-2.5-turbo i2v 5s 9:16",
+      "creditos": 2311.38,
+      "obs": "abertura sutil"
+    }
+  ]
+}

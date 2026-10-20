@@ -1,0 +1,31 @@
+{
+ "arquivo": "VAR 22 - G2-MUJER-28 x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 312.8,
+ "mb": 39.2,
+ "whisper_gancho": "Vi a la mujer por la que mi esposo me dejó, tenía 28 años. Casi me pongo a llorar ahí mismo frente a ella, así empezó todo.",
+ "whisper_emenda": "ella, así empezó todo. Llegué a casa, me miré en el espejo y por fin entendí porque durante nuestro complicado",
+ "cobertura_gancho": 0.96,
+ "cortes": [
+  1.666667,
+  3.2,
+  4.833333,
+  6.666667,
+  8.2,
+  9.833333,
+  10.6,
+  13.0
+ ],
+ "cortes_plan": [
+  1.667,
+  3.2,
+  4.833,
+  6.667,
+  8.2,
+  9.833,
+  10.633
+ ],
+ "silencios": [],
+ "ok": true
+}

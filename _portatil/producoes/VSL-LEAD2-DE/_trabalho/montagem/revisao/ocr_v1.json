@@ -1,0 +1,830 @@
+{
+"amostras": [
+{
+"t": 1.0,
+"texto": "854.389 | LIVE | Meine Lieben, Gott segne alle",
+"es": []
+},
+{
+"t": 16.0,
+"texto": "856.112 | LIVE | Ihr Zuhause und Ihr | Schicksal uberflieBen zu",
+"es": []
+},
+{
+"t": 31.0,
+"texto": "856.455 | LIVE | ist so groB, dass der | Wohlstand uber dein",
+"es": []
+},
+{
+"t": 46.0,
+"texto": "857.095 | LIVE | werden Sie spuren, wie | sich die Fenster des",
+"es": []
+},
+{
+"t": 61.0,
+"texto": "861.455 | LIVE | Zugang zum heiligen | Benediktusgebet",
+"es": []
+},
+{
+"t": 76.0,
+"texto": "862.221 | LIVE | Wohlstand anzieht | und Schicksale wendet",
+"es": []
+},
+{
+"t": 91.0,
+"texto": "862.456 | LIVE",
+"es": []
+},
+{
+"t": 106.0,
+"texto": "862.456 | LIVE",
+"es": []
+},
+{
+"t": 121.0,
+"texto": "862.752 | LIVE | Ich lese einige Nachrichten vor",
+"es": []
+},
+{
+"t": 136.0,
+"texto": "862.752 | LIVE | Er ist seit Monaten | mit der Miete im",
+"es": []
+},
+{
+"t": 151.0,
+"texto": "863.152 | LIVE | spielen und | ein | normales Leben fuhren",
+"es": []
+},
+{
+"t": 166.0,
+"texto": "863.456 | LIVE | Sie finden es in | keiner Suchmaschine",
+"es": [
+"es"
+]
+},
+{
+"t": 181.0,
+"texto": "863.456 | LIVE | vertraulichen Studien | internationaler",
+"es": []
+},
+{
+"t": 196.0,
+"texto": "864.001 | LIVE | Das konnte der Schlussel sein",
+"es": []
+},
+{
+"t": 211.0,
+"texto": "864.201 | LIVE | Aber ich muss Sie | auf etwas Wichtiges",
+"es": []
+},
+{
+"t": 226.0,
+"texto": "864.201 | LIVE | zu empfangen, was | Gott fur Sie bereithalt",
+"es": []
+},
+{
+"t": 241.0,
+"texto": "864.600 | LIVE",
+"es": []
+},
+{
+"t": 256.0,
+"texto": "864.600 | LIVE | Heute habe ich Stabilität",
+"es": []
+},
+{
+"t": 271.0,
+"texto": "863.752 | LIVE | habe ich schon geglaubt",
+"es": []
+},
+{
+"t": 286.0,
+"texto": "863.752 | LIVE | Eine verschlossene Tur",
+"es": []
+},
+{
+"t": 301.0,
+"texto": "863.752 | LIVE | Zu Hause ist wieder Frieden",
+"es": []
+},
+{
+"t": 316.0,
+"texto": "863.856 | LIVE | und keine Hoffnung mehr",
+"es": []
+},
+{
+"t": 331.0,
+"texto": "863.856 | LIVE | Im Glauben, jeden Tag",
+"es": []
+},
+{
+"t": 346.0,
+"texto": "863.856 | LIVE | Langsam lief das Geschäft wieder",
+"es": []
+},
+{
+"t": 361.0,
+"texto": "863.943 | LIVE | Fur alle, die mich nicht kennen",
+"es": []
+},
+{
+"t": 376.0,
+"texto": "863.943 | LIVE | Zuallererst sollen Sie wissen",
+"es": []
+},
+{
+"t": 391.0,
+"texto": "863.943 | LIVE | Gott schenkt Ihnen | die Gelegenheit zu",
+"es": []
+},
+{
+"t": 406.0,
+"texto": "864.074 | LIVE | Darum bereiten Sie Ihr | Herz im Glauben vor",
+"es": []
+},
+{
+"t": 421.0,
+"texto": "864.600 | LIVE | einen Teil unseres Korpers",
+"es": []
+},
+{
+"t": 436.0,
+"texto": "864.074 | LIVE | wundertätige Wasser zubereiteten",
+"es": []
+},
+{
+"t": 451.0,
+"texto": "864.074 | LIVE | funf Nachte vor seinem | Heimgang geschrieben",
+"es": []
+},
+{
+"t": 466.0,
+"texto": "864.189 | LIVE | wenigen Wochen | vollkommen verandern",
+"es": []
+},
+{
+"t": 481.0,
+"texto": "88 | 1.458 | LIVE | den neunundneunzig | Prozent der Glaubigen",
+"es": []
+},
+{
+"t": 496.0,
+"texto": "864.264 | LIVE | kann lhren Geist neu | programmieren und in",
+"es": []
+},
+{
+"t": 511.0,
+"texto": "864.264 | LIVE | als Gold und tausendmal | mehr als Diamanten",
+"es": []
+},
+{
+"t": 526.0,
+"texto": "864.559 | LIVE | Schmerz wegen etwas, | das lhnen ausweglos",
+"es": []
+},
+{
+"t": 541.0,
+"texto": "864.559 | LIVE | den Schmerz der Einsamkeit",
+"es": []
+},
+{
+"t": 556.0,
+"texto": "864.559 | LIVE | Benedikt geweiht ist",
+"es": []
+},
+{
+"t": 571.0,
+"texto": "864.688 | LIVE | die mir personlich | offenbart wurden",
+"es": []
+},
+{
+"t": 586.0,
+"texto": "864.688 | LIVE | welche auch immer",
+"es": []
+},
+{
+"t": 601.0,
+"texto": "864.688 | LIVE | Wenn Ihre Absichten | gierig und bose sind",
+"es": []
+},
+{
+"t": 616.0,
+"texto": "864.688 | LIVE | werden, wahrend die | Armen immer armer und",
+"es": []
+},
+{
+"t": 631.0,
+"texto": "864.752 | LIVE | hinter diesem | Sieben-Minuten-Gebet erfahren",
+"es": []
+},
+{
+"t": 646.0,
+"texto": "864.752 | LIVE | welcher Religion Sie angehoren",
+"es": []
+},
+{
+"t": 661.0,
+"texto": "864.752 | LIVE | Nach der Messe hatte | ich zwolf verpasste",
+"es": []
+},
+{
+"t": 676.0,
+"texto": "864.804 | LIVE | Gott sei Dank uberlebte sie",
+"es": []
+},
+{
+"t": 691.0,
+"texto": "864.804 | LIVE | Ich sah die Verzweiflung | in den Augen meines",
+"es": []
+},
+{
+"t": 706.0,
+"texto": "864.804 | LIVE | befand und schon | fur den Beginn rund",
+"es": []
+},
+{
+"t": 721.0,
+"texto": "865.114 | LIVE | Und ich als Priester hatte keine",
+"es": []
+},
+{
+"t": 736.0,
+"texto": "865.114 | LIVE | mein Glaube wankte",
+"es": []
+},
+{
+"t": 751.0,
+"texto": "865.114 | LIVE | worden, an einer | Pilgerreise nach Italien",
+"es": []
+},
+{
+"t": 766.0,
+"texto": "865.236 | LIVE | Als ich im Kloster in Italien ankam",
+"es": []
+},
+{
+"t": 781.0,
+"texto": "865.236 | LIVE | Mein Sohn, lass mich dich segnen",
+"es": []
+},
+{
+"t": 796.0,
+"texto": "865.236 | LIVE | Was dann geschah, | bewegte mich zutiefst",
+"es": []
+},
+{
+"t": 811.0,
+"texto": "865.346 | LIVE | schwangen in einer | anderen Frequenz",
+"es": []
+},
+{
+"t": 826.0,
+"texto": "865.346 | LIVE | Die Last der Welt fiel | von meinen Schultern",
+"es": []
+},
+{
+"t": 841.0,
+"texto": "865.346 | LIVE | vom fehlenden Geld | und von den Problemen",
+"es": []
+},
+{
+"t": 856.0,
+"texto": "865.375 | LIVE | Hier im Kloster des | heiligen Benedikt ist",
+"es": []
+},
+{
+"t": 871.0,
+"texto": "865.375 | LIVE | zu werden",
+"es": []
+},
+{
+"t": 886.0,
+"texto": "865.375 | LIVE | Vor drei Monaten haben wir in der",
+"es": []
+},
+{
+"t": 901.0,
+"texto": "865.375 | LIVE | deine Note verstehen | und mit seinem Schwert",
+"es": []
+},
+{
+"t": 916.0,
+"texto": "865.397 | LIVE | Ganz in der Nahe gibt | es ein Waisenhaus mit",
+"es": [
+"es"
+]
+},
+{
+"t": 931.0,
+"texto": "865.397 | LIVE | funfunddreiBigtausend Euro",
+"es": []
+},
+{
+"t": 946.0,
+"texto": "865.409 | LIVE | Meine Lieben, da fullte | sich mein Herz mit",
+"es": []
+},
+{
+"t": 961.0,
+"texto": "865.409 | LIVE | die Zirbeldruise mit uns verbinden",
+"es": []
+},
+{
+"t": 976.0,
+"texto": "865.488 | LIVE | Klangfrequenz ist, | die die Blockade der",
+"es": []
+},
+{
+"t": 991.0,
+"texto": "865.488 | LIVE | Deshalb nannte er | sie die Antenne der",
+"es": []
+},
+{
+"t": 1006.0,
+"texto": "865.488 | LIVE | Beantworten Sie nur | diese drei Fragen",
+"es": []
+},
+{
+"t": 1021.0,
+"texto": "865.689 | LIVE | beantwortet hat, dessen | Antenne der Wunder",
+"es": []
+},
+{
+"t": 1036.0,
+"texto": "865.689 | LIVE | wird diese Antenne | immer schwacher",
+"es": []
+},
+{
+"t": 1051.0,
+"texto": "865.689 | LIVE | dann irren Sie sich gewaltig",
+"es": []
+},
+{
+"t": 1066.0,
+"texto": "865.755 | LIVE | wie man diese | Frequenz wiederfindet",
+"es": []
+},
+{
+"t": 1081.0,
+"texto": "865.755 | LIVE | aktiviert und uns | erneut mit unserem",
+"es": []
+},
+{
+"t": 1096.0,
+"texto": "865.755 | LIVE | herzustellen, denn so | horen uns die Engel",
+"es": []
+},
+{
+"t": 1111.0,
+"texto": "865.888 | LIVE",
+"es": []
+},
+{
+"t": 1126.0,
+"texto": "865.888 | LIVE | Die Moderne hat | uns das genommen",
+"es": []
+},
+{
+"t": 1141.0,
+"texto": "865.888 | LIVE | Schutzengel wird hergestellt",
+"es": []
+},
+{
+"t": 1156.0,
+"texto": "865.888 | LIVE | Meine lieben Bruder | und Schwestern",
+"es": []
+},
+{
+"t": 1171.0,
+"texto": "865.956 | LIVE | um meiner Familie zu helfen",
+"es": []
+},
+{
+"t": 1186.0,
+"texto": "865.956 | LIVE | und Hoffnung",
+"es": []
+},
+{
+"t": 1201.0,
+"texto": "865.956 | LIVE | Mein Bruder war | weiterhin arbeitslos",
+"es": []
+},
+{
+"t": 1216.0,
+"texto": "865.956 | LIVE | Zeitverschwendung?",
+"es": []
+},
+{
+"t": 1231.0,
+"texto": "866.007 | LIVE | als hatten wir endlich | die Verbindung zu",
+"es": []
+},
+{
+"t": 1246.0,
+"texto": "866.007 | LIVE | unerwarteten Anruf von | einem Jugendfreund",
+"es": []
+},
+{
+"t": 1261.0,
+"texto": "866.222 | LIVE | neunundzwanzigtausendsiebenhundert | Euro im",
+"es": []
+},
+{
+"t": 1276.0,
+"texto": "866.222 | LIVE | In der Woche darauf | bekam meine Mutter ein",
+"es": []
+},
+{
+"t": 1291.0,
+"texto": "866.222 | LIVE | dankte Gott, dem | heiligen Benedikt und",
+"es": []
+},
+{
+"t": 1306.0,
+"texto": "866.222 | LIVE | meine Pfarrei | mitnehmen zu durfen",
+"es": []
+},
+{
+"t": 1321.0,
+"texto": "866.260 | LIVE | der alten Archive | des Vatikans durfe",
+"es": []
+},
+{
+"t": 1336.0,
+"texto": "866.260 | LIVE | Hunderttausenden zerstoren",
+"es": []
+},
+{
+"t": 1351.0,
+"texto": "866.260 | LIVE | Die soziale und | wirtschaftliche Lage ist aus",
+"es": []
+},
+{
+"t": 1366.0,
+"texto": "866.299 | LIVE | Als ich all das sah, | wollte ich unbedingt",
+"es": []
+},
+{
+"t": 1381.0,
+"texto": "866.299 | LIVE | Vatikans wacht - damals | schon schwer krank",
+"es": []
+},
+{
+"t": 1396.0,
+"texto": "866.299 | LIVE | gehoren Sie zu den Auserwahlten",
+"es": []
+},
+{
+"t": 1411.0,
+"texto": "866.299 | LIVE | Meine Hande begannen zu zittern",
+"es": []
+},
+{
+"t": 1426.0,
+"texto": "867.100 | LIVE | mit den engelsgleichen | Klangfrequenzen im",
+"es": []
+},
+{
+"t": 1441.0,
+"texto": "867.100 | LIVE | Glauben Sie, dass Gott | Ihr Leben verandern",
+"es": []
+},
+{
+"t": 1456.0,
+"texto": "867.123 | LIVE | schenken, mit aufrichtigem | Glauben im Herzen",
+"es": []
+},
+{
+"t": 1471.0,
+"texto": "867.123 | LIVE | Morgen sieben Minuten | lang horen und Gott",
+"es": []
+},
+{
+"t": 1486.0,
+"texto": "867.123 | LIVE | sich mit erstaunlicher | Geschwindigkeit",
+"es": []
+},
+{
+"t": 1501.0,
+"texto": "867.352 | LIVE | Originalfassungen zu bekommen",
+"es": []
+},
+{
+"t": 1516.0,
+"texto": "867.352 | LIVE | stellen, die jetzt | gerade live bei mir sind",
+"es": []
+},
+{
+"t": 1531.0,
+"texto": "867.352 | LIVE | Gesundheitsprobleme, | auch Schwierigkeiten in",
+"es": []
+},
+{
+"t": 1546.0,
+"texto": "867.444 | LIVE | Und wenn Sie jetzt hier sind",
+"es": []
+},
+{
+"t": 1561.0,
+"texto": "867.444 | LIVE | Sie gelangen in einen | geschutzten Bereich",
+"es": []
+},
+{
+"t": 1576.0,
+"texto": "867.444 | LIVE | Alles kommt per E-Mail mit klaren",
+"es": []
+},
+{
+"t": 1591.0,
+"texto": "867.466 | LIVE | ohne Unterbrechungen",
+"es": []
+},
+{
+"t": 1606.0,
+"texto": "867.466 | LIVE | verlieren an Kraft, und | nach und nach kommt",
+"es": []
+},
+{
+"t": 1621.0,
+"texto": "867.499 | LIVE | Deshalb gibt es | heute eine einfache",
+"es": [
+"es"
+]
+},
+{
+"t": 1636.0,
+"texto": "867.499 | LIVE | diesen Neuanfang",
+"es": []
+},
+{
+"t": 1651.0,
+"texto": "867.499 | LIVE",
+"es": []
+},
+{
+"t": 1666.0,
+"texto": "867.556 | LIVE | und Ihre Familie, | damit der Friede bleibt",
+"es": []
+},
+{
+"t": 1681.0,
+"texto": "867.556 | LIVE | die Ihnen hilft, finanzielle Wege",
+"es": []
+},
+{
+"t": 1696.0,
+"texto": "867.556 | LIVE | nicht im Korper, | sondern in der Seele",
+"es": []
+},
+{
+"t": 1711.0,
+"texto": "867.567 | LIVE | jeden Tag zu stärken",
+"es": []
+},
+{
+"t": 1726.0,
+"texto": "867.567 | LIVE | Nur so viel kann ich lhnen sagen",
+"es": []
+},
+{
+"t": 1741.0,
+"texto": "867.580 | LIVE | 米 | fuhren und stärken sollen",
+"es": []
+},
+{
+"t": 1756.0,
+"texto": "867.580 | LIVE | inneren Frieden, Disziplin",
+"es": []
+},
+{
+"t": 1771.0,
+"texto": "867.580 | LIVE | sondern als Entscheidung",
+"es": []
+},
+{
+"t": 1786.0,
+"texto": "867.584 | LIVE | Denn wenn wir solche | Rufe uberhoren",
+"es": []
+},
+{
+"t": 1801.0,
+"texto": "852.110 | LIVE | Es wird in bestimmten | Momenten denen",
+"es": [
+"Es"
+]
+},
+{
+"t": 1816.0,
+"texto": "835.146 | LIVE | Er ist keine Ausgabe, sondern eine",
+"es": []
+},
+{
+"t": 1831.0,
+"texto": "1.458 | LIVE | um zuzuhoren, anzuwenden | und klar zu spuren",
+"es": []
+},
+{
+"t": 1846.0,
+"texto": "1.458 | LIVE | die Sie nutzen, wenn | Sie bei bekannten",
+"es": []
+},
+{
+"t": 1861.0,
+"texto": "1.458 | LIVE | haben, sondern darum, | was Sie jetzt daraus",
+"es": []
+},
+{
+"t": 1876.0,
+"texto": "854.389 | LIVE | im Namen des Vaters | und des Sohnes und des",
+"es": []
+},
+{
+"t": 1891.0,
+"texto": "beantworten, damit Sie | Ihre Entscheidung in",
+"es": []
+},
+{
+"t": 1906.0,
+"texto": "Padre Juan, ich | habe vor drei Tagen",
+"es": []
+},
+{
+"t": 1921.0,
+"texto": "Wie lange dauert es. | bis man Ergebnisse",
+"es": [
+"es"
+]
+},
+{
+"t": 1936.0,
+"texto": "Kraft zu handeln",
+"es": []
+},
+{
+"t": 1951.0,
+"texto": "Minuten am Tag zu horen",
+"es": []
+},
+{
+"t": 1966.0,
+"texto": "Vorstellungsgespräch | vor und nehmen Sie jede",
+"es": []
+},
+{
+"t": 1981.0,
+"texto": "Sie zahlen einmalig | 37 Euro und erhalten",
+"es": []
+},
+{
+"t": 1996.0,
+"texto": "Es ist eine einmalige Zahlung",
+"es": [
+"Es"
+]
+},
+{
+"t": 2011.0,
+"texto": "denn Ihre Entscheidung | ist durch eine",
+"es": []
+},
+{
+"t": 2026.0,
+"texto": "ob dieser Weg fur Sie Sinn ergibt",
+"es": []
+},
+{
+"t": 2041.0,
+"texto": "So mussen Sie Ihre | Entscheidung nicht aus",
+"es": []
+},
+{
+"t": 2056.0,
+"texto": "Dort wahlen Sie bequem | eine der angezeigten",
+"es": []
+},
+{
+"t": 2071.0,
+"texto": "Sobald die Zahlung bestätigt ist",
+"es": []
+},
+{
+"t": 2086.0,
+"texto": "Ihr Mann kann das Gebet | gemeinsam mit Ihnen",
+"es": []
+},
+{
+"t": 2101.0,
+"texto": "Sie konnen um Wohlstand | und Frieden im Haus",
+"es": []
+},
+{
+"t": 2116.0,
+"texto": "des Gesprachs und der | geistlichen Starkung",
+"es": []
+},
+{
+"t": 2131.0,
+"texto": "Laden Sie sie einfach ein",
+"es": []
+},
+{
+"t": 2146.0,
+"texto": "nutzen?",
+"es": []
+},
+{
+"t": 2161.0,
+"texto": "ihr geistliches Leben | starken mochten",
+"es": []
+},
+{
+"t": 2176.0,
+"texto": "Sie mussen nur mit | Ehrfurcht zuhoren",
+"es": []
+},
+{
+"t": 2191.0,
+"texto": "Padre, ich verstehe kein Italienisch",
+"es": []
+},
+{
+"t": 2206.0,
+"texto": "verstehen",
+"es": []
+},
+{
+"t": 2221.0,
+"texto": "Suchen Sie einen ruhigen Ort",
+"es": []
+},
+{
+"t": 2236.0,
+"texto": "auf Ihre Verbindung | mit Gott und auf die",
+"es": []
+},
+{
+"t": 2251.0,
+"texto": "auf der Sie lhren Zugang | mit der einmaligen",
+"es": []
+},
+{
+"t": 2266.0,
+"texto": "Posteingang erscheint, | schauen Sie bitte",
+"es": []
+},
+{
+"t": 2281.0,
+"texto": "Der Button befindet | sich direkt hier unten",
+"es": []
+},
+{
+"t": 2296.0,
+"texto": "Im Namen des Vaters | und des Sohnes und des",
+"es": []
+}
+],
+"suspeitos": [
+{
+"t": 166.0,
+"texto": "863.456 | LIVE | Sie finden es in | keiner Suchmaschine",
+"es": [
+"es"
+]
+},
+{
+"t": 916.0,
+"texto": "865.397 | LIVE | Ganz in der Nahe gibt | es ein Waisenhaus mit",
+"es": [
+"es"
+]
+},
+{
+"t": 1621.0,
+"texto": "867.499 | LIVE | Deshalb gibt es | heute eine einfache",
+"es": [
+"es"
+]
+},
+{
+"t": 1801.0,
+"texto": "852.110 | LIVE | Es wird in bestimmten | Momenten denen",
+"es": [
+"Es"
+]
+},
+{
+"t": 1921.0,
+"texto": "Wie lange dauert es. | bis man Ergebnisse",
+"es": [
+"es"
+]
+},
+{
+"t": 1996.0,
+"texto": "Es ist eine einmalige Zahlung",
+"es": [
+"Es"
+]
+}
+]
+}

@@ -1,0 +1,575 @@
+{
+ "trad_37": [
+  {
+   "i": 0,
+   "esperado": "Hola, maestros. Hoy les voy a presentar el kit de taladro percutor y atornillador inalámbrico DeWalt, de veinte volts MAX, con baterías de ion de litio. Vamos a verlo.",
+   "ouvido": "Hola  maestros,  hoy  les  voy  a  presentar  el  kit  de  taladro -percutor  y  atornillador  inalámbrico  DEWALT  de  20V  MAX  con  baterías  de  ion  de  litio.  Vamos  a  verlo.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "Trae cargador, dos baterías de dos amperes hora y una maleta para guardar y llevar todo.",
+   "ouvido": "Trae  cargador,  dos  baterías  de  2  amperes,  hora  y  una  maleta  para  guardar  y  llevar  todo.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 2,
+   "esperado": "Tiene mandril de ajuste rápido de media pulgada, trece milímetros.",
+   "ouvido": "Tiene  mandril  de  ajuste  rápido  de  media  pulgada,  13  milímetros.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 3,
+   "esperado": "Así cambias brocas y puntas en segundos, sin necesidad de usar llave.",
+   "ouvido": "Así  cambias  brocas  y  puntas  en  segundos,  sin  necesidad  de  usar  llave.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 4,
+   "esperado": "Es compacto y bien liviano en la mano.",
+   "ouvido": "Es  compacto  y  bien  liviano  en  la  mano.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 5,
+   "esperado": "Viene con motor sin carbones, brushless.",
+   "ouvido": "Viene  con  motor  sin  carbones,  brushless.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 6,
+   "esperado": "Tiene dos velocidades mecánicas, con gatillo variable y reversa.",
+   "ouvido": "Tiene  dos  velocidades  mecánicas,  con  gatillo  variable  y  reversa.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "En la segunda velocidad llega hasta mil setecientas cincuenta revoluciones por minuto, para perforar rápido.",
+   "ouvido": "En  la  segunda  velocidad,  llega  hasta  1750  revoluciones  por  minuto  para  perforar  rápido.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 8,
+   "esperado": "Su anillo tiene quince posiciones de torque, para apretar justo cada tornillo sin dañar el material.",
+   "ouvido": "Su  anillo  tiene  15  posiciones  de  torque,  para  apretar  justo  cada  tornillo  sin  dañar  el  material.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 9,
+   "esperado": "Y cada batería tiene su indicador de carga incorporado.",
+   "ouvido": "Y  cada  batería  tiene  su  indicador  de  carga  incorporado.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 10,
+   "esperado": "Con él puedes perforar sin ningún problema en distintos tipos de madera,",
+   "ouvido": "Con  él  puedes  perforar  sin  ningún  problema  en  distintos  tipos  de  y",
+   "ratio": 0.917,
+   "dif": [
+    [
+     "madera",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "esperado": "y también en metal, para fierros y estructuras,",
+   "ouvido": "y  también  en  metal  para  fierros  y  estructuras  y",
+   "ratio": 0.941,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "esperado": "y en muro o concreto, usando el modo percutor.",
+   "ouvido": "y  en  muro  o  concreto  usando  el  modo  percutor.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 13,
+   "esperado": "Tiene luz LED para trabajar en lugares oscuros.",
+   "ouvido": "Tiene  luz  LED  para  trabajar  en  lugares  oscuros.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 14,
+   "esperado": "Ideal para atornillar, armar muebles, estructuras metálicas y para la mantención de la casa o de la obra.",
+   "ouvido": "Ideal  para  atornillar,  armar  muebles,  estructuras  metálicas  y  para  la  mantención  de  la  casa  o  de  la  obra.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 15,
+   "esperado": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+   "ouvido": "Pídelo  hoy  y  pagas  recién  cuando  te  llegue.",
+   "ratio": 0.842,
+   "dif": [
+    [
+     "pre black friday",
+     ""
+    ]
+   ]
+  }
+ ],
+ "trad_21": [
+  {
+   "i": 0,
+   "esperado": "Si buscas versatilidad, potencia y libertad para perforar y atornillar sin cables, donde sea,",
+   "ouvido": "Si  buscas  versatilidad,  potencia  y  libertad  para  perforar  y  atornillar  sin  cables,  donde  sea,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "el kit de taladro percutor y atornillador DeWalt de veinte volts es la elección perfecta.",
+   "ouvido": "el  kit  de  taladro -percutor  y  atornillador  de  Walt  de  20  volts  es  la  elección  perfecta.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 2,
+   "esperado": "Como atornillador, regulas el torque con sus quince posiciones, para no dañar el material con el que trabajas",
+   "ouvido": "Como  atornillador,  regulas  el  torque  con  sus  15  posiciones  para  no  dañar  el  material  con  el  que  trabajas",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 3,
+   "esperado": "y dejar cada uno de tus tornillos bien apretado y firme.",
+   "ouvido": "y  dejar  cada  uno  de  tus  tornillos  bien  apretado  y  firme.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 4,
+   "esperado": "Su mandril de ajuste rápido te deja cambiar brocas y puntas en un dos por tres,",
+   "ouvido": "Su  mandril  de  ajuste  rápido  te  deja  cambiar  brocas  y  puntas  en  un  2x3  y",
+   "ratio": 0.839,
+   "dif": [
+    [
+     "dos por tres",
+     "2x3 y"
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "esperado": "y así ahorras harto tiempo en cada pega.",
+   "ouvido": "y  así  ahorras  harto  tiempo  en  cada  pega.  Con",
+   "ratio": 0.941,
+   "dif": [
+    [
+     "",
+     "con"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "esperado": "Con su motor sin carbones, brushless, y su batería de veinte volts MAX,",
+   "ouvido": "Con  su  motor  sin  carbones  brushless  y  su  batería  de  20  volts  max,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "este DeWalt te da la fuerza que necesitas, en la casa o en la obra, para perforar distintos materiales:",
+   "ouvido": "este  de  Walt  te  da  la  fuerza  que  necesitas  en  la  casa  o  en  la  obra  para  perforar  distintos  materiales,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 8,
+   "esperado": "madera, metal y muro.",
+   "ouvido": "madera,  metal  y  muro,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 9,
+   "esperado": "Y con sus dos velocidades mecánicas, ajustas la potencia según el trabajo que tengas en la mano.",
+   "ouvido": "y  con  sus  dos  velocidades  mecánicas  ajustas  la  potencia  según  el  trabajo  que  tengas  en  la  mano.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 10,
+   "esperado": "Aprovecha el Pre Black Friday: pídelo hoy, con envío a todo Chile, y pagas recién cuando te llegue a la casa.",
+   "ouvido": "Aprovecha  el  Pre -Black  Friday,  pídelo  hoy  con  envío  a  todo  Chile  y  pagas  recién  cuando  te  llegue  a  la  casa.",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "trad_41": [
+  {
+   "i": 0,
+   "esperado": "Taladro percutor y atornillador DeWalt.",
+   "ouvido": "Taladro -percutor  y  atornillador  de  WALT.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "Trae dos baterías de veinte volts MAX, de dos amperes hora, y su cargador,",
+   "ouvido": "Trae  dos  baterías  de  20  volts  max,  de  2  amperes  hora,  y  su  cargador",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 2,
+   "esperado": "y su maleta dura.",
+   "ouvido": "y  su  maleta  dura.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 3,
+   "esperado": "La batería trae indicador de carga, y el taladro tiene luz LED para ver bien donde trabajas.",
+   "ouvido": "La  batería  trae  indicador  de  carga  y  el  taladro  tiene  luz  LED  para  ver  bien  donde  trabajas.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 4,
+   "esperado": "Quince posiciones de torque, y modo percutor para muro.",
+   "ouvido": "Quince  posiciones  de  torque  y  modo  percutor  para  muro.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 5,
+   "esperado": "Motor sin carbones.",
+   "ouvido": "Motor  sin  carbones.",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 6,
+   "esperado": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+   "ouvido": "Preblack  Friday.  Pídelo  hoy  y  pagas  recién  cuando  te  llegue.",
+   "ratio": 0.857,
+   "dif": [
+    [
+     "pre black",
+     "preblack"
+    ]
+   ]
+  }
+ ],
+ "trad_38": [
+  {
+   "i": 0,
+   "esperado": "Taladro DeWalt de veinte volts MAX, sin carbones.",
+   "ouvido": "taladro  de  wall  de  20  volts  max  sin  carbones",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "Gatillo de velocidad variable y luz LED.",
+   "ouvido": "gatillo  de  velocidad  variable  y  luz  led",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 2,
+   "esperado": "Batería de dos amperes hora,",
+   "ouvido": "batería  de  2  amperes  hora",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 3,
+   "esperado": "motor brushless, compacto y liviano,",
+   "ouvido": "motor  brushless  compacto  y  liviano  con",
+   "ratio": 0.909,
+   "dif": [
+    [
+     "",
+     "con"
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "esperado": "con indicador de carga. Pagas cuando lo recibes.",
+   "ouvido": "con  indicador  de  carga  pagas  cuando  lo  recibes",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "corpo_1": [
+  {
+   "i": 0,
+   "esperado": "Mira todo lo que trae este kit DeWalt.",
+   "ouvido": "Mira  todo  lo  que  trae  este  kit  de  Wolt,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 1,
+   "esperado": "Viene en su maleta dura, para llevarlo a cualquier pega.",
+   "ouvido": "viene  en  su  maleta  dura  para  llevarlo  a  cualquier  pega",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 2,
+   "esperado": "Adentro: el taladro percutor y atornillador,",
+   "ouvido": "adentro  el  taladro  percutor  y  atornillador,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 3,
+   "esperado": "dos baterías de veinte volts, de dos amperes hora,",
+   "ouvido": "dos  baterías  de  20  volts  de  2  amperes  hora",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 4,
+   "esperado": "y su cargador.",
+   "ouvido": "y  su  cargador,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 5,
+   "esperado": "Mandril de trece milímetros, de ajuste rápido.",
+   "ouvido": "mandril  de  13  milímetros  de  ajuste  rápido,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 6,
+   "esperado": "Con el anillo eliges el modo:",
+   "ouvido": "con  el  anillo  eliges  el  modo",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "taladro, para madera y metal;",
+   "ouvido": "taladro  para  madera  y  metal,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 8,
+   "esperado": "percutor, para muro y concreto;",
+   "ouvido": "percutor  para  muro  y  concreto  y",
+   "ratio": 0.909,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "esperado": "y atornillador, con quince posiciones de torque.",
+   "ouvido": "y  atornillador  con  15  posiciones  de  torque,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 10,
+   "esperado": "Dos velocidades, hasta mil setecientas cincuenta revoluciones por minuto.",
+   "ouvido": "2  velocidades  hasta  1750  revoluciones  por  minuto  y",
+   "ratio": 0.947,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "esperado": "Y luz LED para ver bien donde trabajas.",
+   "ouvido": "y  luz  LED  para  ver  bien  donde  trabajas,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 12,
+   "esperado": "Todo esto, en un solo kit.",
+   "ouvido": "todo  esto  en  un  solo  kit,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 13,
+   "esperado": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+   "ouvido": "pre  black  friday  pídelo  hoy  y  pagas  recién  cuando  te  llegue,  envío  a  todo  Chile",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "corpo_2": [
+  {
+   "i": 0,
+   "esperado": "Pones el anillo en modo percutor,",
+   "ouvido": "Pones  el  anillo  en  modo  percutor  y",
+   "ratio": 0.923,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "esperado": "y la broca entra en el muro sin pelear.",
+   "ouvido": "la  broca  entra  en  el  muro  sin  pelear,",
+   "ratio": 0.941,
+   "dif": [
+    [
+     "y",
+     ""
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "esperado": "En madera, pasa limpiecita.",
+   "ouvido": "en  madera  pasa  limpiecita  y",
+   "ratio": 0.889,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "esperado": "Y para atornillar, quince posiciones de torque: aprietas justo, sin pasarte.",
+   "ouvido": "para  atornillar  15  posiciones  de  torque  aprietas  justo  sin  pasarte,",
+   "ratio": 0.952,
+   "dif": [
+    [
+     "y",
+     ""
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "esperado": "¿El secreto? Motor sin carbones.",
+   "ouvido": "el  secreto  motor  sin  carbones,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 5,
+   "esperado": "DeWalt dice que es diecisiete por ciento más eficiente que un motor con carbones.",
+   "ouvido": "DeWalt  dice  que  es  17 %  más  eficiente  que  un  motor  con  carbones,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 6,
+   "esperado": "Dos velocidades: fuerza en la primera, rapidez en la segunda.",
+   "ouvido": "dos  velocidades,  fuerza  en  la  primera  rapidez  en  la  segunda",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 7,
+   "esperado": "Y trae dos baterías con indicador de carga: mientras una trabaja, la otra se carga.",
+   "ouvido": "y  trae  dos  baterías  con  indicador  de  carga,  mientras  una  trabaja  y  la  otra  se  carga,",
+   "ratio": 0.968,
+   "dif": [
+    [
+     "",
+     "y"
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "esperado": "Compacto y liviano, para trabajar todo el día.",
+   "ouvido": "compacto  y  liviano  para  trabajar  todo  el  día,",
+   "ratio": 1.0,
+   "dif": []
+  },
+  {
+   "i": 9,
+   "esperado": "Aprovecha el Pre Black Friday. Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+   "ouvido": "aprovecha  el  pre  black  friday,  pídelo  hoy  y  pagas  recién  cuando  te  llegue,  envío  a  todo  Chile",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_1_3b": [
+  {
+   "i": 0,
+   "esperado": "¿Buscas un taladro bueno, bonito y barato?",
+   "ouvido": "¿Buscas  un  taladro  bueno,  bonito  y  barato?",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_2_debil": [
+  {
+   "i": 0,
+   "esperado": "¿Sigues peleando con un taladro débil?",
+   "ouvido": "¿Sigues  peleando  con  un  taladro  débil?",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_3_pega": [
+  {
+   "i": 0,
+   "esperado": "Maestro, este aguanta pega pesada.",
+   "ouvido": "Maestro  este  taladro  aguanta  pega  pesada",
+   "ratio": 0.909,
+   "dif": [
+    [
+     "",
+     "taladro"
+    ]
+   ]
+  }
+ ],
+ "gancho_4_bf": [
+  {
+   "i": 0,
+   "esperado": "¡Llegó el Pre Black Friday, maestro!",
+   "ouvido": "Llegó  el  pre -black  friday  maestro",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ],
+ "gancho_5_kit": [
+  {
+   "i": 0,
+   "esperado": "Dos baterías, cargador y maleta: todo incluido.",
+   "ouvido": "Dos  baterías,  cargador  y  maleta,  todo  incluido.",
+   "ratio": 1.0,
+   "dif": []
+  }
+ ]
+}

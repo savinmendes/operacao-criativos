@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\fora\\trab\\H5\\H5.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 4.2,
+  "fala_s": 3.07,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 4.2
+   }
+  ],
+  "ganho_db": 2.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\H5 - MAMA-TAMBIEN-PUEDE-B-ES-CL.mp4"
+}

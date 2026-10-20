@@ -1,0 +1,191 @@
+[
+ {
+  "i": 0,
+  "tipo": "take",
+  "T_ini": 0.0,
+  "T_fim": 6.967,
+  "narr_ini": 0.0,
+  "narr_fim": 7.386,
+  "fonte": "gancho_amplo.mp4"
+ },
+ {
+  "i": 1,
+  "tipo": "take",
+  "T_ini": 6.967,
+  "T_fim": 11.0,
+  "narr_ini": 7.386,
+  "narr_fim": 11.423,
+  "fonte": "antes.mp4"
+ },
+ {
+  "i": 2,
+  "tipo": "take",
+  "T_ini": 11.0,
+  "T_fim": 13.5,
+  "narr_ini": 11.423,
+  "narr_fim": 13.923,
+  "fonte": "depois.mp4"
+ },
+ {
+  "i": 3,
+  "tipo": "take",
+  "T_ini": 13.5,
+  "T_fim": 16.467,
+  "narr_ini": 13.923,
+  "narr_fim": 16.877,
+  "fonte": "frustrado.mp4"
+ },
+ {
+  "i": 4,
+  "tipo": "selfie",
+  "T_ini": 16.467,
+  "T_fim": 20.933,
+  "narr_ini": 17.099,
+  "narr_fim": 21.591,
+  "fonte": "selfie"
+ },
+ {
+  "i": 5,
+  "tipo": "selfie",
+  "T_ini": 20.933,
+  "T_fim": 23.933,
+  "narr_ini": 21.754,
+  "narr_fim": 24.737,
+  "fonte": "selfie"
+ },
+ {
+  "i": 6,
+  "tipo": "selfie",
+  "T_ini": 23.933,
+  "T_fim": 27.8,
+  "narr_ini": 25.121,
+  "narr_fim": 28.986,
+  "fonte": "selfie"
+ },
+ {
+  "i": 7,
+  "tipo": "selfie",
+  "T_ini": 27.8,
+  "T_fim": 31.0,
+  "narr_ini": 29.15,
+  "narr_fim": 32.352,
+  "fonte": "selfie"
+ },
+ {
+  "i": 8,
+  "tipo": "pad",
+  "T_ini": 31.0,
+  "T_fim": 33.467,
+  "narr_ini": 32.352,
+  "narr_fim": 34.836,
+  "fonte": "pad"
+ },
+ {
+  "i": 9,
+  "tipo": "take",
+  "T_ini": 33.467,
+  "T_fim": 37.633,
+  "narr_ini": 34.836,
+  "narr_fim": 38.987,
+  "fonte": "medalla.mp4"
+ },
+ {
+  "i": 10,
+  "tipo": "pad",
+  "T_ini": 37.633,
+  "T_fim": 39.133,
+  "narr_ini": 38.987,
+  "narr_fim": 40.565,
+  "fonte": "pad"
+ },
+ {
+  "i": 11,
+  "tipo": "pad",
+  "T_ini": 39.133,
+  "T_fim": 42.5,
+  "narr_ini": 40.565,
+  "narr_fim": 44.145,
+  "fonte": "pad"
+ },
+ {
+  "i": 12,
+  "tipo": "take",
+  "T_ini": 42.5,
+  "T_fim": 44.533,
+  "narr_ini": 44.145,
+  "narr_fim": 46.28,
+  "fonte": "SB-BRV-35 MEDALLA EN CUELLO KLING25.mp4"
+ },
+ {
+  "i": 13,
+  "tipo": "take",
+  "T_ini": 44.533,
+  "T_fim": 47.2,
+  "narr_ini": 46.28,
+  "narr_fim": 49.021,
+  "fonte": "SB-BRV-03 LLUVIA MILAGROS KLING25.mp4"
+ },
+ {
+  "i": 14,
+  "tipo": "pad",
+  "T_ini": 47.2,
+  "T_fim": 49.233,
+  "narr_ini": 49.021,
+  "narr_fim": 51.22,
+  "fonte": "pad"
+ },
+ {
+  "i": 15,
+  "tipo": "take",
+  "T_ini": 49.233,
+  "T_fim": 52.3,
+  "narr_ini": 51.22,
+  "narr_fim": 54.462,
+  "fonte": "SB-BRV-47 PUERTA ABRIENDO KLING25.mp4"
+ },
+ {
+  "i": 16,
+  "tipo": "pad",
+  "T_ini": 52.3,
+  "T_fim": 55.067,
+  "narr_ini": 54.462,
+  "narr_fim": 57.326,
+  "fonte": "pad"
+ },
+ {
+  "i": 17,
+  "tipo": "take",
+  "T_ini": 55.067,
+  "T_fim": 56.6,
+  "narr_ini": 57.326,
+  "narr_fim": 58.841,
+  "fonte": "SB-BRV-14 MEDALLA MACRO KLING25.mp4"
+ },
+ {
+  "i": 18,
+  "tipo": "take",
+  "T_ini": 56.6,
+  "T_fim": 61.067,
+  "narr_ini": 58.841,
+  "narr_fim": 63.363,
+  "fonte": "SB-BRV-50 CAPILLA TRANSMISION KLING25.mp4"
+ },
+ {
+  "i": 19,
+  "tipo": "pad",
+  "T_ini": 61.067,
+  "T_fim": 64.533,
+  "narr_ini": 63.363,
+  "narr_fim": 66.904,
+  "fonte": "pad"
+ },
+ {
+  "i": 20,
+  "tipo": "pad",
+  "T_ini": 64.533,
+  "T_fim": 66.0,
+  "narr_ini": 66.904,
+  "narr_fim": 68.392,
+  "fonte": "pad"
+ }
+]

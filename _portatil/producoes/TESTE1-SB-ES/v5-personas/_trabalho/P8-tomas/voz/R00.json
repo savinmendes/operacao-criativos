@@ -1,0 +1,70 @@
+{
+"texto": "Imágenes impactantes: un vendedor fue echado de un bus… por su fe.",
+"voz": "hHjbwzYZW17oh0p05AKv",
+"est": 0.5,
+"estilo": 0.2,
+"vel": 1.2,
+"dur": 4.386,
+"palavras": [
+{
+"w": "Imágenes",
+"ini": 0.035,
+"fim": 0.488
+},
+{
+"w": "impactantes:",
+"ini": 0.546,
+"fim": 1.335
+},
+{
+"w": "un",
+"ini": 1.567,
+"fim": 1.66
+},
+{
+"w": "vendedor",
+"ini": 1.707,
+"fim": 2.136
+},
+{
+"w": "fue",
+"ini": 2.194,
+"fim": 2.357
+},
+{
+"w": "echado",
+"ini": 2.38,
+"fim": 2.694
+},
+{
+"w": "de",
+"ini": 2.74,
+"fim": 2.786
+},
+{
+"w": "un",
+"ini": 2.879,
+"fim": 2.949
+},
+{
+"w": "bus...",
+"ini": 2.984,
+"fim": 3.367
+},
+{
+"w": "por",
+"ini": 3.617,
+"fim": 3.768
+},
+{
+"w": "su",
+"ini": 3.803,
+"fim": 3.896
+},
+{
+"w": "fe.",
+"ini": 3.954,
+"fim": 4.186
+}
+]
+}

@@ -1,0 +1,27 @@
+{
+ "ad": "03",
+ "idioma": "sem fala (só música); sem legenda",
+ "origem": {"perfil": "@dewaltbrasil (TikTok)", "tipo": "marca oficial DeWalt Brasil (combo edição McLaren F1)", "url": "https://www.tiktok.com/@dewaltbrasil/video/7538877186334346501"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 38.0,
+ "cortes": {"n": 13, "ritmo": "médio, ~3 s por plano, câmera na mão"},
+ "formato": "UGC unboxing de kit em maleta (mãos + tronco, sem rosto)",
+ "gancho": {"0_3s_visual": "mãos sobre maleta TSTAK preta/laranja fechada (edição McLaren) numa mesa, prestes a abrir", "0_3s_fala": "nenhuma (música)", "0_3s_texto_tela": "nenhum"},
+ "corpo": [
+  {"t": "0-4.7", "bloco": "maleta fechada, mãos abrindo travas"},
+  {"t": "4.7-14.3", "bloco": "tira a parafusadeira/furadeira, acende o LED; tira a parafusadeira de impacto e encaixa bateria"},
+  {"t": "14.3-25", "bloco": "mostra acessórios em saquinho, bits, carregador, manual"},
+  {"t": "25-32.6", "bloco": "bateria POWERSTACK em close, fecha a maleta, frente 'LIMITED EDITION'"},
+  {"t": "32.6-35.4", "bloco": "duas ferramentas na vitrine de loja"},
+  {"t": "35.4-38", "bloco": "cartela McLaren F1 + DeWalt 'Official tools and storage partner'"}
+ ],
+ "cta": "nenhum",
+ "texto_na_tela": "nenhum durante o vídeo; cartela final McLaren + DeWalt",
+ "produto": {"modelo": "Combo DCK200ME2GT edição McLaren (furadeira de impacto + parafusadeira de impacto, cinza grafite, baterias POWERSTACK)", "e_nosso_produto": false},
+ "rosto": {"tem": false, "tempo_aprox_s": "0 (tronco de camiseta preta e mãos)"},
+ "marca_dagua": "sem @; cartela final de marcas McLaren/DeWalt",
+ "audio": "música, sem voz",
+ "uso_para_nos": ["só referência de formato (unboxing ASMR de kit em maleta: abrir, tirar ferramenta, acender LED, mostrar baterias/carregador, fechar)"],
+ "nota_cod_chile": 2,
+ "justificativa": "O formato unboxing do kit completo na maleta é exatamente o que vende o nosso kit (2 baterias + carregador + maleta), mas o produto é uma edição limitada grafite/laranja que não se parece com o DCD7771 amarelo; takes não reaproveitáveis. Refazer o mesmo roteiro com o nosso kit."
+}

@@ -1,0 +1,10 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/ADLIB-104060992792639/producao/AD 05 - ORACION-FAMILIA-ES-LATAM.mp4",
+  "estilo": "drop",
+  "corpo": "corpo_ad05.mp4",
+  "legenda": {"fonte": "alinhamento:narracao_es.alinhamento.json", "y": 1537},
+  "faixa_sb": false,
+  "cta": {"inicio": 73.4},
+  "resolucao": "720",
+  "limite_mb": 30
+}

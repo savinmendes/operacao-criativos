@@ -1,0 +1,26 @@
+{
+ "ad": "09",
+ "idioma": "pt-BR",
+ "origem": {"perfil": "@superproatacado (TikTok)", "tipo": "loja/atacado de ferramentas (Super Pro Atacado, BR) - revendedor com apresentador contratado", "url": "https://www.tiktok.com/@superproatacado/video/7501369287265799479"},
+ "resolucao": "576x1024 (abaixo de 720p); área útil 9:16 menor porque o rodapé tem banner fixo da loja",
+ "duracao_s": 58.8,
+ "cortes": {"n": 12, "ritmo": "médio: apresentador nos primeiros ~10 s, b-roll de produto 10-27 s (~2 s por plano), apresentador de novo até o fim"},
+ "formato": "talking head de apresentador em loja + unboxing/b-roll de produto (vídeo de varejo/oferta)",
+ "gancho": {"0_3s_visual": "apresentador de camisa verde em loja de ferramentas, maleta DeWalt sobre a caixa do produto", "0_3s_fala": "Profissional, sabe aquele equipamento que faz diferença no dia a dia?", "0_3s_texto_tela": "legenda branca 'aquele equipamento' / 'no dia a dia?' + banner fixo 'SUPER PRO - A LOJA DO PROFISSIONAL! CONFIRA'"},
+ "corpo": [
+  {"t": "0-9.7", "bloco": "gancho + 'esse kit da DeWalt vai mudar o seu serviço de vez' (abre a caixa)"},
+  {"t": "9.7-27", "bloco": "b-roll: maleta aberta, carregador, furadeira em close, mão girando mandril, LED; 'kit furadeira e parafusadeira 1/2 pol 20V MAX Brushless', 'maior durabilidade, menor aquecimento, mais autonomia', 'leve, ergonômico', 'da madeira ao metal'"},
+  {"t": "27-42", "bloco": "apresentador segurando a maleta: autoridade da marca ('quem trabalha sério sabe'), força, eficiência, agilidade"},
+  {"t": "42-55", "bloco": "oferta: site, condições especiais, frete grátis em regiões selecionadas, 6x sem juros"},
+  {"t": "55-58.8", "bloco": "cartela da loja com endereços"}
+ ],
+ "cta": "'Garanta agora seu kit DeWalt no site superproatacado.com.br' + frete grátis + 6x sem juros",
+ "texto_na_tela": "legenda palavra a palavra em branco; banner fixo da loja no rodapé (~20% da tela); logo SUPER PRO no canto",
+ "produto": {"modelo": "kit furadeira/parafusadeira 1/2 pol 20V MAX Brushless DeWalt com maleta, 2 baterias e carregador; modelo não legível na tela (visual compacto amarelo compatível com DCD7771/DCD7781) - precisa de revisão manual", "e_nosso_produto": "muito provável mesma linha/kit; não confirmado"},
+ "rosto": {"tem": true, "tempo_aprox_s": "~40 s"},
+ "marca_dagua": "banner e logo 'SUPER PRO Atacado' fixos durante todo o vídeo",
+ "audio": "voz masculina em português (apresentador) + trilha",
+ "uso_para_nos": ["traduzir/adaptar (roteiro de varejo 'profissional' + benefícios brushless + kit; trocar a oferta por COD Chile)", "banco de takes: b-roll 9,7-27 s sem rosto (maleta, carregador, mandril, LED), mas com logo SUPER PRO no canto e banner no rodapé - exige corte/cobertura"],
+ "nota_cod_chile": 4,
+ "justificativa": "É o produto/kit mais próximo do nosso, com roteiro de benefícios certo para o maestro (brushless = dura mais, aquece menos, mais autonomia; madeira ao metal). Roteiro bem traduzível para espanhol chileno. O b-roll tem marca da loja (canto + banner): só usar recortado ou refazer as cenas com o nosso produto."
+}

@@ -1,0 +1,137 @@
+REVISÃO: AD 03 - ORACION-PADRE-ROMERO-ES-LATAM.mp4
+duração 96.30s | 720x1280 | 30/1 fps | áudio: sim | 26.0 MB
+decodificação: OK
+pts do áudio: 4516 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: 9.13/9.27, 9.27/9.37
+setas (vermelho) no fim: y 890-1178, x 232-705 | no último quadro: sim | faixa escura do rodapé: 1017-1097
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\AD 03 - ORACION-PADRE-ROMERO-ES-LATAM_revisao.jpg
+idioma detectado: es (0.96)
+
+=== transcrição (es) ===
+   0.00-  5.16 En el nombre del Padre, del Hijo y del Espíritu Santo con esta ruda y esta espada de San Jorge,
+   5.16- 10.64 quito toda envidia y el mal de ojo y profetizo una lluvia de bendiciones en tu vida.
+  10.64- 16.60 Quédate hasta el final de este video porque este mensaje llegó hasta ti por una razón muy especial que Dios preparó.
+  16.60- 23.90 Yo vengo con el Romero Divino y con la Desatadora de Nudos para traer una revelación muy importante para tu vida.
+  23.90- 28.44 Una bendición de paz muy grande está preparada para llegar a tu hogar.
+  28.44- 37.44 Por eso este video llegó a tu pantalla ahora, porque la oración de nueve palabras ya tocó el corazón de muchas personas que la rezaron con fe.
+  38.44- 47.44 Una mujer que vivía el momento más difícil de su vida la rezó con fe y sintió una paz y una esperanza que no sentía hace mucho tiempo.
+  47.44- 54.44 Y ahora Dios pide que la desatadora de nudos corte con su amor el nudo que está atando tu vida y cerrando tus caminos.
+  54.44- 59.44 Pero para eso, tu necesitas aceptar su bendición con el corazón abierto.
+  59.44- 64.44 Por eso toca el botón de abajo ahora mismo, porque yo te dejé un acceso totalmente gratis,
+  64.44- 70.44 con mucho cariño, al audio que revela las nueve palabras de la oración
+  70.44- 74.44 de la desatadora de nudos, preparada especialmente para ti.
+  74.44- 77.44 Una palabra para cada lazo que está trabando tu vida,
+  77.44- 82.44 en tu hogar, en tu familia, en tus sueños y en tu corazón para que vuelva la paz.
+  82.44- 88.80 Presta mucha atención porque esta oración fue preparada con amor y llegó hasta ti porque Dios quiere
+  88.80- 92.16 bendecir tu camino y llenar tu casa de paz.
+  92.16- 96.16 Toca el botón de abajo y recibe lo que Dios preparó para ti.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  5.24    Em o nome do Padre, do Lícho e do Espírito Santo com esta ruda e esta espada de São Jorge,
+   5.24- 10.68    quito toda a envidia e o mal de ojo e profetizo uma chuva de bendições em sua vida.
+  10.68- 16.64    Fiquem até o final deste vídeo porque este mensagem chegou até você por uma razão muito especial que Deus preparou.
+  16.64- 23.96    Eu venho com o Romero Divino e com a Desatadora de Nudos para trair uma revelação muito importante para a sua vida.
+  23.96- 28.48    Uma bendição de paz muito grande está preparada para chegar à sua casa.
+  28.48- 38.68    Por isso este vídeo chegou à sua pantalla agora, porque a oração de 9 palavras já tocou o coração de muitas pessoas que arreçaram com fé.
+  38.68- 47.90    Uma mulher que vivia o momento mais difícil da sua vida arreçou com fé e sentiu uma paz e uma esperança que não sentia há muito tempo.
+  47.90- 55.12    E agora Deus pide que a desatadora de nudos corte com seu amor, o nudo que está atando a sua vida e cerrando os seus caminhos.
+  55.12- 59.98    Mas para isso, você precisa aceitar sua bendição com o coração aberto.
+  59.98- 67.38    Por isso, toca o botão de baixo agora mesmo, porque eu deixei um acesso totalmente gratis, com muito carinho,
+  67.38- 74.64    ao áudio que revela as 9 palavras da oração da desatadora de Nudos, preparada especialmente para você.
+  74.64- 82.88    Uma palavra para cada laço que está trabando sua vida, em seu hogar, em sua família, em seus sonhos e em seu coração, para que vuelva a paz.
+  82.88- 86.84    Presta muita atenção porque esta oração foi preparada com amor
+  86.84- 92.32    e chegou até você porque Deus quer vender seu caminho e cair sua casa de paz.
+  92.32- 96.28    Toca o botão de baixo e recebe o que Deus preparou para você.
+
+=== lipsync ===
+LIPSYNC: ls_p01.mp4 (73 quadros, rosto em 100%, rosto 247,516,288,322 [único rosto])
+  boca x original: dif. boca 18.20 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original -0.10
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.46 (atraso 0 ms) | corr. original 0.12
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.46 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_p02.mp4 (90 quadros, rosto em 100%, rosto 173,474,384,424 [único rosto])
+  boca x original: dif. boca 10.66 | dif. controle 0.90 | mudou em 100% dos quadros | corr. abertura saída x original -0.23
+  pausas da voz nova: índice de pausa 0.14 (51 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.81 (atraso 100 ms) | corr. original 0.83
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.14)
+LIPSYNC: ls_p03.mp4 (167 quadros, rosto em 100%, rosto 212,520,290,313 [único rosto])
+  boca x original: dif. boca 18.68 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original -0.09
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.18 (atraso 0 ms) | corr. original 0.04
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.18 (original 0.04); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_p04.mp4 (216 quadros, rosto em 100%, rosto 238,517,292,323 [único rosto])
+  boca x original: dif. boca 18.06 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original 0.00
+  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.34 (atraso 0 ms) | corr. original 0.22
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.22); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_p05.mp4 (345 quadros, rosto em 100%, rosto 222,522,293,318 [único rosto])
+  boca x original: dif. boca 17.54 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original 0.27
+  pausas da voz nova: índice de pausa 0.06 (46 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.50 (atraso -33 ms) | corr. original 0.22
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.06)
+LIPSYNC: ls_p06.mp4 (354 quadros, rosto em 100%, rosto 229,518,292,314 [único rosto])
+  boca x original: dif. boca 18.85 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.04 (68 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.60 (atraso 0 ms) | corr. original 0.13
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.04)
+LIPSYNC: ls_p07.mp4 (239 quadros, rosto em 100%, rosto 216,184,295,320 [2 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 17.41 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original -0.02
+  pausas da voz nova: índice de pausa 0.02 (15 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.43 (atraso 0 ms) | corr. original 0.20
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.02)
+LIPSYNC: ls_p08.mp4 (96 quadros, rosto em 100%, rosto 207,507,294,323 [único rosto])
+  boca x original: dif. boca 22.10 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original -0.17
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.28 (atraso 0 ms) | corr. original 0.21
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28 (original 0.21); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_p09.mp4 (165 quadros, rosto em 100%, rosto 218,518,292,318 [único rosto])
+  boca x original: dif. boca 17.46 | dif. controle 1.07 | mudou em 100% dos quadros | corr. abertura saída x original -0.01
+  pausas da voz nova: índice de pausa 0.05 (33 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.63 (atraso -33 ms) | corr. original 0.09
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.05)
+LIPSYNC: ls_p10.mp4 (207 quadros, rosto em 100%, rosto 239,524,290,316 [único rosto])
+  boca x original: dif. boca 18.83 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original -0.12
+  pausas da voz nova: índice de pausa 0.05 (36 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.68 (atraso -33 ms) | corr. original 0.35
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.05)
+LIPSYNC: ls_p11.mp4 (244 quadros, rosto em 100%, rosto 232,511,290,320 [único rosto])
+  boca x original: dif. boca 15.89 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original 0.02
+  pausas da voz nova: índice de pausa 0.13 (49 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.55 (atraso 33 ms) | corr. original 0.35
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.13)
+LIPSYNC: ls_p12.mp4 (90 quadros, rosto em 100%, rosto 137,399,419,463 [único rosto])
+  boca x original: dif. boca 16.25 | dif. controle 0.99 | mudou em 100% dos quadros | corr. abertura saída x original 0.78
+  pausas da voz nova: índice de pausa 0.12 (33 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.68 (atraso -100 ms) | corr. original 0.71
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.12)
+LIPSYNC: ls_p13.mp4 (199 quadros, rosto em 100%, rosto 196,504,370,405 [único rosto])
+  boca x original: dif. boca 16.64 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.03 (18 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.57 (atraso -33 ms) | corr. original 0.25
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.03)
+LIPSYNC: ls_p14.mp4 (276 quadros, rosto em 100%, rosto 227,538,292,324 [único rosto])
+  boca x original: dif. boca 18.09 | dif. controle 1.07 | mudou em 100% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.25 (atraso 0 ms) | corr. original 0.13
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.25 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_p15.mp4 (121 quadros, rosto em 100%, rosto 216,534,296,328 [único rosto])
+  boca x original: dif. boca 17.33 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original 0.21
+  pausas da voz nova: índice de pausa 0.03 (20 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.72 (atraso 33 ms) | corr. original 0.18
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.03)
+índice de pausa do conjunto (15 trechos): 0.08 -> APROVADO
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 9.13s e 9.27s (133 ms)
+PROBLEMA: quadro solto? cortes em 9.27s e 9.37s (100 ms)
+PROBLEMA: setas de CTA em cima da faixa escura do rodapé (suba as setas ou a faixa)
+aviso: lipsync ls_p01.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.46 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync ls_p03.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.18 (original 0.04); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync ls_p04.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.22); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync ls_p08.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28 (original 0.21); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync ls_p14.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.25 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+3 problema(s)

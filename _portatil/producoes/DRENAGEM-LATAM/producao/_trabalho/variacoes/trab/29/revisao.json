@@ -1,0 +1,25 @@
+{
+ "arquivo": "VAR 29 - G9-PAGAS-AL-RECIBIR x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 309.17,
+ "mb": 38.8,
+ "whisper_gancho": "¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya probaste de todo. Escucha esta historia.",
+ "whisper_emenda": "ya probaste de todo. Escucha esta historia.",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  2.1,
+  4.266667,
+  5.933333,
+  7.0,
+  9.366667
+ ],
+ "cortes_plan": [
+  2.1,
+  4.267,
+  5.933,
+  7.0
+ ],
+ "silencios": [],
+ "ok": true
+}

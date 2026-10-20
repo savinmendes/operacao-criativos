@@ -1,0 +1,8 @@
+SB-IT-ADS-12 pronto (16/10/2026).
+Vídeo: SB-IT-ADS-12.mp4, 27,8 s, 720x1280, 30 fps, 11,8 MB.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, italiano, atempo 1,06.
+HeyGen: 2 lipsync speed (A 9,1 s: 23c811dcda454cb9a4590aaf4196fae0; F 5,8 s: 662d50b3f0534aacb65cbaea4e5a39c8). Pausa 0,26 / 0,58.
+ElevenLabs: 3 gerações (~US$0,25 no total).
+revisar_ad.py (it): OK. Revisor independente: sem defeito grave; correções feitas (legenda presa ao corte, fade no fim).
+Ressalvas: rastro leve da legenda ES na cruz (18,7–22,0, braço/manto) e no fundo da cena C (13,4–14,3);
+cruz a 0,92x; cena F a 0,93x; seta vermelha original entra ~22,8 s (fim do "qui sotto").

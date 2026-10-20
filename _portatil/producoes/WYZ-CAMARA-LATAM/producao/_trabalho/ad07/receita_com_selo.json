@@ -1,0 +1,38 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 07 - WYZE-SOLAR-CAM-PAN-GRABACIONES-ES-LATAM-SELO.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad07\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad07\\alinhamento.json",
+  "chaves": [
+   "solar",
+   "360",
+   "2K",
+   "nocturna",
+   "enchufarla",
+   "sol",
+   "lluvia",
+   "reflector",
+   "app",
+   "inteligencia",
+   "personas",
+   "toca"
+  ],
+  "y": 1540
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1660
+ },
+ "limite_mb": 30,
+ "resolucao": "720",
+ "selo": {
+  "linhas": [
+   "PAGO CONTRA",
+   "ENTREGA"
+  ],
+  "x": 160,
+  "y": 1250
+ },
+ "_nota": "Versão com selo: só usar quando a oferta COD for confirmada. Conferir posição do selo no frames.jpg."
+}

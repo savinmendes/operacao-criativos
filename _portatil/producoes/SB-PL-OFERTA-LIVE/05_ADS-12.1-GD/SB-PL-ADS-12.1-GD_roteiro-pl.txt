@@ -1,0 +1,46 @@
+SB-PL-ADS-12.1-GD — Święty Benedykt · Polski (Polska)
+Origem: SB-EN-ADS-12.1-GD (base EN) / SB-IT-ADS-12.1-GD (modelo corrigido) ← SB-ES_10_ADS-12.1-GD.mp4 (ES, 31,6 s). Destino: modlitwa na żywo. Botão do Meta: LEARN_MORE ("Dowiedz się więcej").
+Sem produto e sem preço no vídeo. Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN/IT, eleven_multilingual_v2.
+
+======================================================================
+ROTEIRO EN × PL (mesmas cenas e mesmos cortes)
+======================================================================
+[GANCHO 0,0 s]
+EN: If you ignore me, I will have no choice but to give the miracle you need so much to someone else.
+PL: Jeśli mnie zignorujesz, nie będę miał wyboru i oddam komuś innemu cud, którego tak bardzo potrzebujesz.
+
+[5,75 s Jesus falando]
+EN: This is your last chance to receive what I have prepared for you.
+PL: To twoja ostatnia szansa, by otrzymać to, co dla ciebie przygotowałem.
+
+[10,1 s abraço]
+EN: Jesus has chosen you. He has brought you a powerful gift.
+PL: Jezus cię wybrał. Przyniósł ci potężny dar.
+
+[14,35 s Jesus ajoelhado / livro nas nuvens]
+EN: Today, you will hear an ancient, lost prayer from the Bible, that will unlock a shower of blessings and miracles over your life.
+PL: Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii, która sprowadzi na twoje życie deszcz błogosławieństw i cudów.
+
+[22,8 s Jesus com a cruz]
+EN: Do not reject me... again.
+PL: Nie odrzucaj mnie... znowu.
+
+[25,6 s CTA ("Dotknij" ainda no fim da cena da cruz; Jesus falando + setas a partir de 26,1 s; pausa de ~0,45 s antes de "Odbierz" em 29,07 s)]
+EN: Tap Learn More below, and join the live prayer right now. Receive your miracle, before it is too late.
+PL: Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo. Odbierz swój cud, zanim będzie za późno.
+
+TEXTO NA TELA
+- Carimbo vermelho na conta do gancho (0–5 s): "OVERDUE" (EN) / "SCADUTO" (IT) → "ZALEGŁE" (PL), mesma moldura, cor, inclinação e desfoque (zalegle.py).
+- Legenda palavra a palavra em caixa alta no estilo do EN/IT, fonte Poppins Bold (tem todos os diacríticos ĄĆĘŁŃÓŚŹŻ; conferido). Vermelho: ZIGNORUJESZ, CUD/CUDÓW, OSTATNIA SZANSA, DAR, ŻYCIE, ODRZUCAJ, PÓŹNO; amarelo: PRZYGOTOWAŁEM, WYBRAŁ, USŁYSZYSZ, MODLITWĘ/MODLITWY, DOWIEDZ SIĘ WIĘCEJ, ŻYWO; verde: BŁOGOSŁAWIEŃSTW. Setas vermelhas do original mantidas no CTA.
+
+Decisões de tradução
+- "Saint Benedict"/"San Benito" = "Święty Benedykt" (só no texto do anúncio; o vídeo não cita o santo).
+- "unlock a shower of blessings" = "sprowadzi na twoje życie deszcz błogosławieństw i cudów" (mais natural em polonês que "odblokuje").
+- "Today, you will hear" = "Dziś usłyszysz" (destino é a live), sem vírgula (lição do IT).
+- "Jesus has chosen you" mantido em 3ª pessoa como no EN/IT.
+- CTA padrão do lote: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo" + "Odbierz swój cud, zanim będzie za późno" (mesma urgência, sem suavizar).
+- Gancho a 1,18x com vírgula depois de "zignorujesz" (a 1ª versão, com "..." e pausa de 0,5 s, deu índice de pausa 0,78 no lipsync); frase 1 do CTA a 1,2x / frase 2 a 1,15x para caber nos mesmos cortes (o polonês ficou ~15% mais longo). As duas frases do CTA foram geradas separadas e postas com ~0,45 s de pausa (lição do IT: fala corrida reprovava o lipsync).
+- Whisper pl na voz: transcrição idêntica ao roteiro, pronúncia polonesa.
+
+HeyGen (lipsync mode speed, entrada com o áudio ES original do heygen_in EN/IT): hook v1 fcad9317 (AVISO 0,78 na pausa longa de "zignorujesz...", descartado), hook v2 b561e327 (usado; AVISO 0,71 só nas pausas de borda 0–0,38 s e 4,68–5,07 s, lábios quase fechados), jb b2d2c578 (aprovado, 0,18), cta 01e83c85 (usado; AVISO 0,62, boca quase fechada na pausa de 28,9–29,2 s e no fim). Total: 4 jobs, nenhum reenvio.
+QA: revisar_ad.py (whisper pl) OK, idioma pl 1,00, sem termos proibidos, sem salto de pts, sem quadro solto, sem silêncio no fim. Revisor independente: sem problemas; notas leves de pré-articulação da boca em 0,13–0,33 s e abertura ~0,1 s antes de "Odbierz" (29,1 s).

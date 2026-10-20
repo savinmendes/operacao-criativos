@@ -1,0 +1,38 @@
+   0.00 +10.73 AB       Imágenes impactantes: un taxista fue humillado por un pasajero… por su fe. ¿Reza
+  10.73 + 2.40 MAOS     
+  13.13 + 1.90 VAZIO    
+  15.03 + 1.80 DOIS     
+  16.83 + 2.20 FILA     
+  19.03 + 4.03 R01      Al día siguiente, el taxi de don Ramón no paró ni un minuto.
+  23.07 + 8.73 RA1      Esa noche me quedé dentro del taxi, sin ganas de volver a casa. Llevaba semanas 
+  31.80 +10.30 RA2      Mi hija me mandó la transmisión del padre Juan Méndez. La hice ahí mismo, en el 
+  42.10 +11.87 PEDa     Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeora
+  53.97 +10.50 PEDb     El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito… y está
+  64.47 + 6.23 CTA      ¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en 
+TOTAL 70.7 CTA 64.4667
+  [1] AB 322q z1
+  [2] MAOS 72q z1
+  [3] VAZIO 57q z1
+  [4] DOIS 54q z1
+  [5] FILA 66q z1
+  [6] R01 121q z1
+  [7] RA1_6 69q z1.0
+  [8] RA1_7 51q z1.12
+  [9] RA1_8 79q z1.0
+  [10] RA1_9 63q z1.12
+  [11] RA2_10 97q z1.0
+  [12] RA2_11 63q z1.12
+  [13] RA2_12 64q z1.0
+  [14] RA2_13 85q z1.12
+  [15] PEDa_14 101q z1.0
+  [16] PEDa_15 68q z1.12
+  [17] PEDa_16 58q z1.0
+  [18] PEDa_17 60q z1.12
+  [19] PEDa_18 69q z1.0
+  [20] PEDb_19 135q z1.12
+  [21] PEDb_20 75q z1.0
+  [22] PEDb_21 105q z1.12
+  [23] CTA 187q z1
+audio ok
+ok C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P1-RAMON_FICTICIO.mp4 70.70 s
+C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P1-RAMON_FICTICIO_narracion.txt

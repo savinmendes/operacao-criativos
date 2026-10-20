@@ -1,0 +1,87 @@
+{
+ "ad": "48",
+ "idioma": "es",
+ "origem": {
+  "perfil": "@ferrevolt (TikTok)",
+  "de_quem": "loja (Ferrevolt, Chile — ferrevolt.cl) — série '1 herramienta x día'",
+  "url": "https://www.tiktok.com/@ferrevolt/video/7648289698351156481"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 111.2,
+ "cortes": {
+  "n": 3,
+  "tempos_s": [
+   32.9,
+   35.8,
+   111.13
+  ],
+  "ritmo": "lento: talking head contínuo com inserts curtos de close (~33-36 s e ~75-85 s) e vinheta 'Cyber Ferrevolt' no fim"
+ },
+ "formato": "talking head de vendedor da loja (review de produto em estúdio preto com caixas DeWalt)",
+ "gancho": {
+  "visual_0_3s": "tela clara/branca no 1º quadro e depois vendedor de boné apoiado na bancada ao lado da caixa e da furadeira; texto 'DCD806' surge ~2,5 s",
+  "texto_0_3s": "DCD806 (surge ~2,5 s); fala: 'Día 19, hablando de herramientas... vamos a hablar del DCD 806'",
+  "fala_0_3s": "10-19, hablando de herramientas y esta vez lo vamos a hacer especial. Vamos a hablar del DCD 806."
+ },
+ "corpo": [
+  {
+   "t": "0-33",
+   "o_que": "vendedor apresenta o DCD806 segurando a ferramenta"
+  },
+  {
+   "t": "33-36",
+   "o_que": "insert close da bateria 20V e da base"
+  },
+  {
+   "t": "36-75",
+   "o_que": "segue falando, mostrando mandril e empunhadura"
+  },
+  {
+   "t": "75-85",
+   "o_que": "transição com overlay/dupla exposição (bateria PowerStack, ferramenta)"
+  },
+  {
+   "t": "85-111",
+   "o_que": "fecha falando + vinheta 'CYBER FERREVOLT / Cyber 1-7 JUNIO'"
+  }
+ ],
+ "cta": "vinheta 'Cyber Ferrevolt — Cyber 1-7 junio' (promo da loja); site no post",
+ "texto_na_tela": "'DCD806', logo Cyber Ferrevolt",
+ "produto": {
+  "modelo": "DCD806 (lido na tela e no post)",
+  "eh_nosso": "não (DCD806 XR, 90 Nm)"
+ },
+ "rosto": {
+  "tem": true,
+  "tempo_s": 100
+ },
+ "marca_dagua": "vinheta e logo Ferrevolt; boné/jaqueta com marca",
+ "audio": "fala do vendedor em espanhol chileno (sem música relevante)",
+ "uso": [
+  "só referência de formato"
+ ],
+ "uso_detalhe": "útil como referência de LINGUAGEM chilena de ferretería ('uso diario en obra y taller', 'potente, ligero, buen agarre') para o roteiro ES-CL; é concorrente local (ferrevolt.cl) com rosto o tempo todo e produto diferente: não reaproveitar takes.",
+ "nota": 1,
+ "nota_justificativa": "único do lote em espanhol chileno real (vocabulário útil), mas 111 s de talking head, produto DCD806 e é de um concorrente chileno.",
+ "transcricao": [
+  "0.0-5.4: 10-19, hablando de herramientas y esta vez lo vamos a hacer especial. Vamos a hablar del DCD 806.",
+  "7.0-13.5: El 806 es uno de los modelos más recientes de la línea XR que ha llegado acá a Chile.",
+  "13.5-20.1: Cuenta con los 90 N de fuerza, sus mandriles metálicos, la toma, la tradicional toma de 13",
+  "20.1-26.4: milímetros, pero tiene algo especial, el que conoce sabe que 90 N de fuerza es mucho para",
+  "26.4-31.3: una persona o para las personas en general para manipularlo. Pero el que hizo, digo,",
+  "31.3-40.5: para evitar lesiones tiene un sistema anti-rotación que si tu broca o la herramienta o la punta que",
+  "40.5-46.4: estés usando se traba automáticamente para evitar toda la lesión se va a detener. Tiene",
+  "46.4-51.8: lo habitual, va a poder trabajar con las opciones de atornillador de impacto, que te encuentran",
+  "51.8-57.3: que son 90 N, tienes la opción de tal ladro y la opción del automartillo con el que vas a",
+  "57.3-62.5: poder hacer perforaciones con brocas de hasta 10 milímetros sin ningún problema. Este tal",
+  "62.5-68.0: ladro tiene terminaciones en goma, plástico de alta duración y las partes importantes son metálicas.",
+  "68.0-74.7: Ocupa las mismas baterías de 20V de la línea XR de DIG1. Por supuesto, también puede",
+  "74.7-80.2: ocupar baterías de la línea Flexbox sin ningún inconveniente. Tiene una luz basculante,",
+  "80.2-85.1: la cual puede estar bien regular y la puedes dejar fija en caso de que lo quieras ocupar",
+  "85.3-91.8: como un alinterno. Este taladro viene con más fuerza, es más liguiano, la misma tecnología sin",
+  "91.8-97.8: carbones y lo mejor su precio. Si necesitas cosas certas y con habilidad y costo de esta herramienta,",
+  "97.8-102.3: déjanos un comentario o ponen contacto con nosotros. Y si viste este video,",
+  "102.3-108.9: los días del cyber, entra en nuestra página www.ferregoll.cl, donde una excelente oferta",
+  "108.9-109.8: va a estar esperando."
+ ]
+}

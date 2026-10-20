@@ -1,0 +1,30 @@
+REVISÃO: PERFUMES-CL_P1_EL-MAESTRO_H2.mp4
+duração 35.29s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.0 MB
+decodificação: OK
+pts do áudio: 1656 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1030-1096, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD1-EL-MAESTRO\PERFUMES-CL_P1_EL-MAESTRO_H2_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.00 ¿Perdón? ¿Qué perfume es ese?
+   4.00-  6.00 Soy maestro de la construcción.
+   6.00-  9.00 Y desde que uso estos perfumes, no me dejan tranquilo.
+   9.00- 11.00 Tres perfumes árabes al precio de un.
+  11.00- 13.00 En la mañana, Armaz Club.
+  13.00- 16.00 Fresco, masculino y poderoso.
+  16.00- 18.00 Hasta en el paradero me miran.
+  18.00- 20.00 En la noche, la Tafá Azat.
+  20.00- 22.00 Intenso y seductor.
+  22.00- 25.00 Mi señora ya no me deja ni ver tele.
+  25.00- 27.00 ¿Qué perfume es ese?
+  27.00- 31.34 Y el fin de semana, haz una 9PM, elegante y moderno.
+  31.34- 34.34 Los tres te llegan a la casa y pagas cuando lo recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

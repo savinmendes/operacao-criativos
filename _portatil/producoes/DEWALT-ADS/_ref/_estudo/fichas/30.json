@@ -1,0 +1,35 @@
+{
+  "ad": "30",
+  "idioma": "sem fala (só som da furadeira; whisper alucinou 'You')",
+  "origem": "TikTok @geovani.merchiori (usuario comum BR)",
+  "url": "https://www.tiktok.com/@geovani.merchiori/video/7393838269424880901",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 10.4,
+  "cortes": 0,
+  "ritmo": "plano unico estatico",
+  "formato": "POV demo (furar parede)",
+  "gancho": {
+    "visual": "POV mao furando parede branca com broca e protetor vermelho",
+    "texto_tela": "nenhum",
+    "fala_0_3s": "sem fala"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-10s",
+      "conteudo": "POV furando a parede"
+    }
+  ],
+  "cta": "nenhum",
+  "texto_na_tela": "nenhum",
+  "produto": "DeWalt 20V compacta com colar de torque (numeros '13 15') - corpo igual ao da familia DCD777x/778x; modelo exato nao legivel",
+  "e_nosso_produto": "provavel (mesma familia), nao confirmado",
+  "rosto": "nao",
+  "marca_dagua": "nao",
+  "audio": "som ambiente da furadeira",
+  "transcricao": null,
+  "uso": [
+    "banco de takes"
+  ],
+  "nota_cod_chile": 3,
+  "justificativa": "POV sem rosto e sem texto com o corpo do nosso produto: take limpo de 'furar parede em casa' para gancho/corpo. Curto e monotono sozinho."
+}

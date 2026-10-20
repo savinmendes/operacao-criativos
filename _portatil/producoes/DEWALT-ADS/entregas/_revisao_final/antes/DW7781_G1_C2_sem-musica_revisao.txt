@@ -1,0 +1,35 @@
+REVISÃO: DW7781_G1_C2_sem-musica.mp4
+duração 41.63s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 14.8 MB
+decodificação: OK
+pts do áudio: 1950 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.21-5.10, 10.35-11.40, 16.93-17.75, 18.82-19.60, 23.50-24.37, 31.17-32.23, 40.44-41.57
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G1_C2_sem-musica_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¿Buscas un taladro bueno, bonito y barato?
+   2.32-  4.32 Pones el anillo en modo percutor
+   5.08-  7.58 y la broca entra en el muro sin pelear
+   8.22- 10.46 en madera, pasa limpiecita
+  11.36- 15.86 y para atornillar 15 posiciones de torque aprietas justo sin pasarte
+  15.86- 17.02 el secreto
+  17.52- 19.02 motor sin carbones
+  19.56- 23.66 The Wall dice que es 17% más eficiente que un motor con carbones
+  24.26- 25.42 2 velocidades
+  25.42- 27.22 Fuerzas en la primera, rapidez en la segunda
+  27.22- 29.52 y trae dos baterías con indicador de carga
+  29.52- 31.22 Mientras una trabaja, la otra se carga.
+  32.22- 34.62 Compacto y liviano para trabajar todo el día.
+  35.12- 36.72 Aprovecha el pre Black Friday.
+  37.32- 39.22 Pídelo hoy y pagas recién cuando te llegue.
+  39.52- 40.52 Envío a todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 1.19s no fim (a partir de 40.44s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

@@ -1,0 +1,40 @@
+REVISÃO: F5 - REGALO-PAPA-B-ES-CL.mp4
+duração 41.63s | 720x1280 | 30/1 fps | áudio: sim | 25.0 MB
+decodificação: OK
+pts do áudio: 1952 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 3.06-4.34, 37.38-41.61
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\FORA\revisao\F5 - REGALO-PAPA-B-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.00 Pensé que no iba a poder, es liviana y tiene ruedas.
+   7.00- 10.00 Mira, dos baterías, ruedas y cuatro cabezores.
+  10.00- 12.00 Las ruedas hacen más ligero el trabajo.
+  12.00- 14.00 Una pasada y mira la diferencia.
+  14.00- 16.00 El cabezo también se ajusta.
+  16.00- 18.00 Y deja la orida bien pareja.
+  18.00- 19.00 Sí, valió la pena.
+  19.00- 21.00 Pícale aquí abajo.
+  21.00- 23.00 Ya ni se venía la orilla.
+  23.00- 24.00 Sigue viendo.
+  24.00- 26.00 Mira, dos baterías, ruedas y cuatro cabezores.
+  26.00- 28.00 Las ruedas hacen más ligero el trabajo.
+  28.00- 33.16 una pasada y mira la diferencia, el cabezo también se ajusta y deja la orida bien pareja.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: F5_senhor.mp4 (97 quadros, rosto em 100%, rosto 254,329,177,208 [único rosto])
+  pausas da voz nova: índice de pausa 0.22 (17 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.42 (atraso 40 ms) | corr. original -
+APROVADO: fecha nas pausas da voz nova (índice de pausa 0.22)
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 4.25s no fim (a partir de 37.38s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 33.2s; vídeo vai até 41.6s
+aviso: lipsync F5_senhor.mp4 checado sem o original (sem o teste 'a boca mudou')
+1 problema(s)

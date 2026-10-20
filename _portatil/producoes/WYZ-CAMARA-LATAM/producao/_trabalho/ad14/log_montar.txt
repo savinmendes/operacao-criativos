@@ -1,0 +1,7 @@
+arquivo : C:\Users\PICHAU\Downloads\WYZ-CAMARA-LATAM\producao\AD 14 - WYZE-SOLAR-CAM-PAN-GARAJE-ES-LATAM.mp4
+duração : 52.66s | 720x1280 | áudio: sim | 26.2 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\WYZ-CAMARA-LATAM\producao\AD 14 - WYZE-SOLAR-CAM-PAN-GARAJE-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 49.78s
+montagem rápida: 13s para 53s de vídeo (0.25x)

@@ -1,0 +1,27 @@
+REVISÃO: DW7781_C2_casaIA.mp4
+duração 42.57s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.1 MB
+decodificação: OK
+pts do áudio: 1997 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: 31.87/31.90, 38.17/38.23
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao\DW7781_C2_casaIA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.00 Tu taladro no le entra al muro, el problema no eres tú.
+   6.00-  9.00 Si tu taladro no es percutor, en el muro se queda girando y no avanza.
+   9.00- 18.00 Este taladro sí es percutor, tiras el anillo hasta el martillo y con broca de concreto entra en el muro sin pelear.
+  18.00- 25.00 En modo taladro, pasa limpio formador al metal, motor sin carbones, 20V max
+  25.00- 32.00 y trae dos baterías de dos amperes hora, con una trabajas y la otra se va cargando
+  32.00- 36.00 más el cargador y su maleta todo en un solo kit
+  36.00- 41.00 aprovecha el pre black friday, pídelo hoy y pagas recién cuando te llegue, envío a todo chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 31.87s e 31.90s (33 ms)
+PROBLEMA: quadro solto? cortes em 38.17s e 38.23s (67 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

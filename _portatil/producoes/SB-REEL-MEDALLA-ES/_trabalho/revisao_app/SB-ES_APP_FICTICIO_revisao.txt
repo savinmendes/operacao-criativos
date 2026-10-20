@@ -1,0 +1,31 @@
+REVISÃO: SB-ES_APP_FICTICIO.mp4
+duração 71.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 73.7 MB
+decodificação: OK
+pts do áudio: 3362 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 971-1011, x 530-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\revisao_app\SB-ES_APP_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.00 Oh, glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla.
+   6.00-  8.00 Sácame de esta escasez.
+   9.00- 11.00 Si me escuchas, ayúdame.
+  14.00- 18.00 Yo pasé casi seis meses casi sin viajes.
+  18.00- 21.00 Chegué a pensar en vender mi carro.
+  21.00- 24.00 Hasta que, en una transmisión en vivo,
+  24.00- 29.00 un padre explicó la forma exacta de pedirle a San Benito.
+  29.00- 36.20 Ese día recupere la paz y poco a poco las puertas empezaron a abrirse.
+  36.20- 42.20 Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió.
+  42.20- 47.76 Preparó un regalo poderoso solo para ti. En este vídeo vas a escuchar la oración
+  47.76- 54.32 perdida de San Benito que desbloquea una lluvia de milagros. Pero solo si no la rechazas otra
+  54.32- 61.36 vez toca más información ahora recibe tu milagro antes de que la puerta se cierre para siempre
+  61.36- 68.12 ahora mismo está ocurriendo una transmisión en vivo con san benito toca el botón ver más aquí
+  68.12- 71.12 abajo del vídeo y entra a rezar con nosotros
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

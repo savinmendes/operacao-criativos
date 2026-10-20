@@ -1,0 +1,6 @@
+SB-FR-ADS-13.13F-REZA-MUJER pronto (17/10/2026).
+Vídeo: SB-FR-ADS-13.13F-REZA-MUJER.mp4, 27,8 s, 720x1280, 30 fps, 11,3 MB.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, francês (whisper fr 0,99), atempo 1,07. 2 gerações TTS.
+HeyGen: 2 lipsync speed. A 8,5 s: 4d26fa1c800e40ffbf1b7321e4653584, pausa 0,40. F 5,9 s: c0eb40c3077a4142a114ed5f55d522be, pausa 0,62 (aviso conferido a olho).
+revisar_ad.py (fr): OK. 1º revisor: dedo e dentes no PiP (0–5,5 s), corrigido. Reconferência do revisor (v2): PiP liberado; só aviso menor em 1,57–1,63 s (lábio inferior pálido junto à borda do dedo, visível só com zoom 3x).
+Ressalvas: rastro leve de LaMa no abraço (9,9–11,8 s, y≈760–800); legenda do PiP pequena como no original; seta vermelha do ADS 12 no CTA (o 13.13F não tinha); 0,45 s de silêncio final após o fade.

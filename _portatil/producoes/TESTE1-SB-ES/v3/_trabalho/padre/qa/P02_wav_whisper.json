@@ -1,0 +1,18 @@
+{
+"arquivo": "P02.wav",
+"whisper": "Repitan conmigo.",
+"palavras": [
+{
+"w": "Repitan",
+"ini": 0.0,
+"fim": 0.48
+},
+{
+"w": "conmigo.",
+"ini": 0.48,
+"fim": 0.94
+}
+],
+"ratio": 1.0,
+"dif": []
+}

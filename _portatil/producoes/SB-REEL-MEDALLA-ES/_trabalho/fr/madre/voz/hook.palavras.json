@@ -1,0 +1,135 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.046,
+  "fim": 0.197,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "prié",
+  "ini": 0.244,
+  "fim": 0.534,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "par",
+  "ini": 0.592,
+  "fim": 0.743,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "terre",
+  "ini": 0.813,
+  "fim": 1.022,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "dans",
+  "ini": 1.045,
+  "fim": 1.161,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "ma",
+  "ini": 1.184,
+  "fim": 1.265,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "cuisine,",
+  "ini": 1.312,
+  "fim": 1.881,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "avec",
+  "ini": 1.916,
+  "fim": 2.183,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "les",
+  "ini": 2.229,
+  "fim": 2.31,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "factures",
+  "ini": 2.345,
+  "fim": 2.752,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "sur",
+  "ini": 2.775,
+  "fim": 2.891,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "la",
+  "ini": 2.926,
+  "fim": 3.019,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "table...",
+  "ini": 3.088,
+  "fim": 3.506,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "et",
+  "ini": 3.947,
+  "fim": 4.052,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "voilà",
+  "ini": 4.098,
+  "fim": 4.331,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "ce",
+  "ini": 4.377,
+  "fim": 4.447,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "qui",
+  "ini": 4.493,
+  "fim": 4.598,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "s'est",
+  "ini": 4.644,
+  "fim": 4.783,
+  "personagem": "madre",
+  "parte": "hook"
+ },
+ {
+  "w": "passé.",
+  "ini": 4.807,
+  "fim": 5.259,
+  "personagem": "madre",
+  "parte": "hook"
+ }
+]

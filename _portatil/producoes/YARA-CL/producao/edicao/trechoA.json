@@ -1,0 +1,66 @@
+{
+ "_nota": "Prova da opcao A: trecho do meio (T3 + T4 da consultora) com a voz unica (STS). Sem titulo e sem CTA. T4: legenda no alto (legenda_y 350) porque em 1060 cobria a boca/queixo e o frasco no close.",
+ "saida": "../../entregas/TRECHO-A_yara_consultora.mp4",
+ "overlays": ".",
+ "sfx": "sfx",
+ "segmentos": [
+  {
+   "video": "../takes/T3_yara.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.9,
+   "audio": "../takes/T3_yara_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.9
+  },
+  {
+   "video": "../takes/T4_yara_close.mp4",
+   "tipo": "consultora",
+   "de": 0.8,
+   "ate": 6.04,
+   "audio": "../takes/T4_yara_close_vz.wav",
+   "audio_de": 0.8,
+   "audio_ate": 6.04,
+   "legenda_y": 350
+  }
+ ],
+ "titulo": null,
+ "cta": null,
+ "banner": true,
+ "sticker": false,
+ "selo": null,
+ "whoosh": true,
+ "pop": false,
+ "legenda": {
+  "modelo": "small",
+  "idioma": "es",
+  "y": 1060,
+  "chaves": [
+   "yara",
+   "dulce",
+   "femenino",
+   "vainilla"
+  ],
+  "juntar": [
+   [
+    "día",
+    "a",
+    "día"
+   ]
+  ],
+  "corrigir": [
+   [
+    "^orqu[^.,!?]*",
+    "Orquídea"
+   ]
+  ],
+  "inicio": [
+   [
+    "^orquídea",
+    5.84
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30
+}

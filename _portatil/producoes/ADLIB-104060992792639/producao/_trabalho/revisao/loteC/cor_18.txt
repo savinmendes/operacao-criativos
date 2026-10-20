@@ -1,0 +1,18 @@
+AD 18: final - original | boca Y U V | face Y U V | degrau boca-face Y V
+s00       boca -31.0  +8.5  -5.3 | face -14.7  +2.7  -4.4 | degrau Y -16.3 V  -0.9
+s02       boca -23.9  +7.5  -5.2 | face -15.8  +3.9  -5.1 | degrau Y  -8.1 V  -0.1
+s03       boca -24.3  +7.5  -5.4 | face -16.1  +4.0  -5.2 | degrau Y  -8.1 V  -0.2
+s04       boca -24.5  +7.6  -5.1 | face -15.6  +3.8  -5.2 | degrau Y  -8.9 V  +0.1
+s05       boca -22.0  +7.4  -5.2 | face -15.8  +3.8  -5.0 | degrau Y  -6.2 V  -0.3
+s06a      boca -25.3  +8.2  -5.6 | face -16.2  +4.2  -5.1 | degrau Y  -9.0 V  -0.4
+s06b      boca -23.0  +6.3  -5.1 | face -15.0  +3.2  -4.7 | degrau Y  -8.0 V  -0.3
+s07       boca -24.0  +8.0  -4.9 | face -16.3  +4.1  -5.2 | degrau Y  -7.7 V  +0.3
+s08       boca -24.3  +7.6  -5.5 | face -16.3  +4.2  -5.1 | degrau Y  -8.0 V  -0.4
+s09       boca -24.2  +7.6  -4.8 | face -15.8  +3.9  -5.1 | degrau Y  -8.4 V  +0.3
+s10       boca -24.1  +7.0  -5.3 | face -16.0  +3.8  -5.2 | degrau Y  -8.1 V  -0.1
+s11       boca -23.1  +7.3  -5.0 | face -16.3  +3.9  -5.0 | degrau Y  -6.7 V  -0.0
+s12       boca -22.6  +7.8  -5.2 | face -15.6  +3.7  -5.0 | degrau Y  -7.0 V  -0.2
+s13       boca -22.7  +7.1  -5.1 | face -15.5  +3.8  -4.9 | degrau Y  -7.2 V  -0.2
+s14       boca -22.6  +8.0  -5.3 | face -15.8  +4.1  -5.1 | degrau Y  -6.8 V  -0.2
+s15       boca -27.0  +7.5  -5.2 | face -16.3  +4.0  -5.3 | degrau Y -10.8 V  +0.0
+TODOS     boca -24.3  +7.6  -5.3 | face -15.8  +3.9  -5.1 | degrau Y  -8.4 V  -0.2

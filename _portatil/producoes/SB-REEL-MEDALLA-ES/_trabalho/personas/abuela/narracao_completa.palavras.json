@@ -1,0 +1,1110 @@
+[
+ {
+  "w": "Oh",
+  "ini": 0.245,
+  "fim": 0.454,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "glorioso",
+  "ini": 0.512,
+  "fim": 1.383,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "San",
+  "ini": 1.452,
+  "fim": 1.65,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "Benito,",
+  "ini": 1.731,
+  "fim": 2.636,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "hoy",
+  "ini": 2.88,
+  "fim": 3.229,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "pronuncio",
+  "ini": 3.31,
+  "fim": 4.169,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "las",
+  "ini": 4.239,
+  "fim": 4.413,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "palabras",
+  "ini": 4.506,
+  "fim": 5.272,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "grabadas",
+  "ini": 5.33,
+  "fim": 6.085,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "en",
+  "ini": 6.201,
+  "fim": 6.282,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "tu",
+  "ini": 6.352,
+  "fim": 6.479,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "medalla.",
+  "ini": 6.549,
+  "fim": 7.35,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f1"
+ },
+ {
+  "w": "Devuélveme",
+  "ini": 8.593,
+  "fim": 9.476,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "a",
+  "ini": 9.51,
+  "fim": 9.534,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "mi",
+  "ini": 9.603,
+  "fim": 9.696,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "familia.",
+  "ini": 9.754,
+  "fim": 10.648,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "Si",
+  "ini": 11.031,
+  "fim": 11.217,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "me",
+  "ini": 11.287,
+  "fim": 11.368,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "escuchas...",
+  "ini": 11.391,
+  "fim": 12.332,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "no",
+  "ini": 12.657,
+  "fim": 12.819,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "me",
+  "ini": 12.889,
+  "fim": 12.993,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "dejes",
+  "ini": 13.063,
+  "fim": 13.4,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "sola.",
+  "ini": 13.446,
+  "fim": 14.073,
+  "personagem": "abuela",
+  "parte": "reza",
+  "fala": "f2"
+ },
+ {
+  "w": "Pasé",
+  "ini": 14.796,
+  "fim": 15.423,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "años",
+  "ini": 15.516,
+  "fim": 15.981,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "poniendo",
+  "ini": 16.05,
+  "fim": 16.608,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "la",
+  "ini": 16.677,
+  "fim": 16.782,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "mesa",
+  "ini": 16.875,
+  "fim": 17.258,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "para",
+  "ini": 17.327,
+  "fim": 17.56,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "todos...",
+  "ini": 17.652,
+  "fim": 18.349,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "y",
+  "ini": 18.674,
+  "fim": 18.79,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "comiendo",
+  "ini": 18.906,
+  "fim": 19.719,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "sola.",
+  "ini": 19.835,
+  "fim": 20.543,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "Mis",
+  "ini": 20.927,
+  "fim": 21.252,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "hijos",
+  "ini": 21.344,
+  "fim": 21.786,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "ya",
+  "ini": 21.902,
+  "fim": 22.064,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "ni",
+  "ini": 22.146,
+  "fim": 22.285,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "me",
+  "ini": 22.343,
+  "fim": 22.459,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "llamaban.",
+  "ini": 22.482,
+  "fim": 23.365,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f3"
+ },
+ {
+  "w": "Hasta",
+  "ini": 23.858,
+  "fim": 24.288,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "que,",
+  "ini": 24.369,
+  "fim": 24.683,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "en",
+  "ini": 24.857,
+  "fim": 25.019,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "una",
+  "ini": 25.17,
+  "fim": 25.402,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "transmisión",
+  "ini": 25.449,
+  "fim": 26.389,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "en",
+  "ini": 26.47,
+  "fim": 26.54,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "vivo,",
+  "ini": 26.61,
+  "fim": 27.225,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "un",
+  "ini": 27.504,
+  "fim": 27.666,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "padre",
+  "ini": 27.759,
+  "fim": 28.247,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "explicó",
+  "ini": 28.27,
+  "fim": 28.897,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "la",
+  "ini": 28.978,
+  "fim": 29.083,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "forma",
+  "ini": 29.176,
+  "fim": 29.628,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "exacta",
+  "ini": 29.663,
+  "fim": 30.36,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "de",
+  "ini": 30.418,
+  "fim": 30.499,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "pedirle",
+  "ini": 30.58,
+  "fim": 31.196,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "a",
+  "ini": 31.231,
+  "fim": 31.254,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "San",
+  "ini": 31.312,
+  "fim": 31.498,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "Benito.",
+  "ini": 31.567,
+  "fim": 32.334,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f4"
+ },
+ {
+  "w": "Ese",
+  "ini": 32.827,
+  "fim": 33.28,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "día",
+  "ini": 33.35,
+  "fim": 33.71,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "recuperé",
+  "ini": 33.802,
+  "fim": 34.406,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "la",
+  "ini": 34.487,
+  "fim": 34.592,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "paz.",
+  "ini": 34.673,
+  "fim": 35.23,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "Y",
+  "ini": 35.509,
+  "fim": 35.625,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "poco",
+  "ini": 35.799,
+  "fim": 36.159,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "a",
+  "ini": 36.194,
+  "fim": 36.229,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "poco,",
+  "ini": 36.287,
+  "fim": 36.867,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "mi",
+  "ini": 36.984,
+  "fim": 37.135,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "casa",
+  "ini": 37.216,
+  "fim": 37.657,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "volvió",
+  "ini": 37.715,
+  "fim": 38.33,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "a",
+  "ini": 38.412,
+  "fim": 38.446,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "llenarse.",
+  "ini": 38.47,
+  "fim": 39.387,
+  "personagem": "abuela",
+  "parte": "selfie",
+  "fala": "f5"
+ },
+ {
+  "w": "Esta",
+  "ini": 40.101,
+  "fim": 40.403,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "es",
+  "ini": 40.426,
+  "fim": 40.472,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 40.53,
+  "fim": 40.6,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "última",
+  "ini": 40.67,
+  "fim": 41.018,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vez",
+  "ini": 41.064,
+  "fim": 41.204,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 41.273,
+  "fim": 41.366,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Dios",
+  "ini": 41.413,
+  "fim": 41.668,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "intenta",
+  "ini": 41.749,
+  "fim": 42.144,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "hablarte",
+  "ini": 42.167,
+  "fim": 42.62,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 42.678,
+  "fim": 42.748,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "esta",
+  "ini": 42.806,
+  "fim": 43.015,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "forma.",
+  "ini": 43.096,
+  "fim": 43.63,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Jesús",
+  "ini": 44.141,
+  "fim": 44.652,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "te",
+  "ini": 44.698,
+  "fim": 44.768,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "eligió.",
+  "ini": 44.791,
+  "fim": 45.453,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Preparó",
+  "ini": 45.894,
+  "fim": 46.289,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "un",
+  "ini": 46.312,
+  "fim": 46.359,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "regalo",
+  "ini": 46.44,
+  "fim": 46.753,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "poderoso",
+  "ini": 46.8,
+  "fim": 47.322,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "solo",
+  "ini": 47.404,
+  "fim": 47.752,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 47.81,
+  "fim": 47.996,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ti.",
+  "ini": 48.077,
+  "fim": 48.483,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "En",
+  "ini": 48.924,
+  "fim": 49.052,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "este",
+  "ini": 49.11,
+  "fim": 49.261,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video,",
+  "ini": 49.308,
+  "fim": 49.656,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vas",
+  "ini": 49.679,
+  "fim": 49.807,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 49.853,
+  "fim": 49.876,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "escuchar",
+  "ini": 49.9,
+  "fim": 50.283,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 50.329,
+  "fim": 50.376,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "oración",
+  "ini": 50.41,
+  "fim": 50.747,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "perdida",
+  "ini": 50.805,
+  "fim": 51.154,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 51.2,
+  "fim": 51.258,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 51.304,
+  "fim": 51.444,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito",
+  "ini": 51.502,
+  "fim": 52.024,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 52.465,
+  "fim": 52.582,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "desbloquea",
+  "ini": 52.64,
+  "fim": 53.371,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 53.522,
+  "fim": 53.801,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lluvia",
+  "ini": 53.824,
+  "fim": 54.195,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 54.242,
+  "fim": 54.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "milagros,",
+  "ini": 54.346,
+  "fim": 55.066,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "pero",
+  "ini": 55.577,
+  "fim": 55.797,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "solo",
+  "ini": 55.844,
+  "fim": 56.064,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "si",
+  "ini": 56.123,
+  "fim": 56.227,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "no",
+  "ini": 56.32,
+  "fim": 56.413,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 56.459,
+  "fim": 56.517,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rechazas",
+  "ini": 56.587,
+  "fim": 57.028,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "otra",
+  "ini": 57.086,
+  "fim": 57.295,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vez.",
+  "ini": 57.342,
+  "fim": 57.69,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 58.294,
+  "fim": 58.793,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Más",
+  "ini": 59.118,
+  "fim": 59.362,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Información,",
+  "ini": 59.431,
+  "fim": 60.151,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ahora.",
+  "ini": 60.302,
+  "fim": 60.836,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Recibe",
+  "ini": 61.788,
+  "fim": 62.183,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "tu",
+  "ini": 62.229,
+  "fim": 62.311,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "milagro",
+  "ini": 62.357,
+  "fim": 62.752,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "antes",
+  "ini": 62.798,
+  "fim": 63.054,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 63.089,
+  "fim": 63.135,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 63.181,
+  "fim": 63.251,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 63.286,
+  "fim": 63.356,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "puerta",
+  "ini": 63.414,
+  "fim": 63.739,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "se",
+  "ini": 63.785,
+  "fim": 63.866,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "cierre",
+  "ini": 63.924,
+  "fim": 64.284,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 64.331,
+  "fim": 64.528,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "siempre.",
+  "ini": 64.586,
+  "fim": 65.12,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ahora",
+  "ini": 65.445,
+  "fim": 65.724,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "mismo",
+  "ini": 65.77,
+  "fim": 66.003,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "está",
+  "ini": 66.026,
+  "fim": 66.188,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ocurriendo",
+  "ini": 66.212,
+  "fim": 66.676,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 66.722,
+  "fim": 66.85,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "transmisión",
+  "ini": 66.885,
+  "fim": 67.477,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 67.524,
+  "fim": 67.593,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vivo",
+  "ini": 67.663,
+  "fim": 68.034,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 68.243,
+  "fim": 68.452,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 68.522,
+  "fim": 68.673,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito.",
+  "ini": 68.719,
+  "fim": 69.335,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 69.938,
+  "fim": 70.194,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 70.217,
+  "fim": 70.263,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "botón",
+  "ini": 70.31,
+  "fim": 70.6,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ver",
+  "ini": 70.658,
+  "fim": 70.821,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "más,",
+  "ini": 70.89,
+  "fim": 71.343,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "aquí",
+  "ini": 71.494,
+  "fim": 71.726,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "abajo",
+  "ini": 71.761,
+  "fim": 72.005,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "del",
+  "ini": 72.04,
+  "fim": 72.156,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video,",
+  "ini": 72.214,
+  "fim": 72.678,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 73.003,
+  "fim": 73.12,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "entra",
+  "ini": 73.236,
+  "fim": 73.514,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 73.537,
+  "fim": 73.561,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezar",
+  "ini": 73.63,
+  "fim": 73.979,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 74.048,
+  "fim": 74.176,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nosotros.",
+  "ini": 74.222,
+  "fim": 74.966,
+  "personagem": "sacerdote"
+ }
+]

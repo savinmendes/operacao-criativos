@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+"""
+Copia arquivos de um plano de classificacao para uma estrutura de pastas por
+categoria, com seguranca: nunca move, nunca apaga, nunca sobrescreve.
+
+Uso:
+    python organize_files.py plano.json --destino "C:/caminho/pasta-destino"
+
+Formato de entrada (plano.json) - lista de objetos, um por arquivo:
+[
+  {
+    "caminho_original": "C:/.../pasta-origem/nota.txt",
+    "categoria": "estudos",
+    "subcategoria": "resumos",              # opcional, pode ser ""
+    "novo_nome": "2026-05-03_estudo_resumo-produtividade.txt",
+    "tipo": "estudo",                        # usado so para o indice
+    "assunto": "resumo de produtividade",    # usado so para o indice
+    "data_identificada": "2026-05-03",       # ou "sem-data"
+    "observacoes": "",                       # observacoes ja conhecidas antes da copia
+    "status_revisao": "ok"                   # "ok" ou "precisa de revisao manual"
+  },
+  ...
+]
+
+Saida: <destino>/_indice/index.json e <destino>/_indice/index.csv, com as
+colunas: nome_original, novo_nome, extensao, categoria, subcategoria,
+data_identificada, nova_localizacao, acao_realizada, observacoes, status_revisao
+
+O script SEMPRE copia (shutil.copy2, preservando metadados). Se o destino ja
+tiver um arquivo com o mesmo nome, adiciona um sufixo numerico (_2, _3, ...)
+e registra isso em "observacoes". Arquivos de origem que nao existem mais
+sao registrados com acao_realizada = "erro" e nao interrompem o restante do lote.
+"""
+
+import argparse
+import csv
+import json
+import shutil
+import sys
+from pathlib import Path
+
+
+COLUNAS_INDICE = [
+    "nome_original",
+    "novo_nome",
+    "extensao",
+    "categoria",
+    "subcategoria",
+    "data_identificada",
+    "nova_localizacao",
+    "acao_realizada",
+    "observacoes",
+    "status_revisao",
+]
+
+
+def resolver_colisao(destino_pasta: Path, nome_arquivo: str) -> tuple[Path, str]:
+    """Retorna um caminho de destino livre, adicionando sufixo numerico se preciso.
+
+    Devolve (caminho_final, observacao) onde observacao explica se houve colisao.
+    """
+    candidato = destino_pasta / nome_arquivo
+    if not candidato.exists():
+        return candidato, ""
+
+    stem = candidato.stem
+    sufixo = candidato.suffix
+    contador = 2
+    while True:
+        novo_nome = f"{stem}_{contador}{sufixo}"
+        candidato_novo = destino_pasta / novo_nome
+        if not candidato_novo.exists():
+            return candidato_novo, (
+                f"nome ja existia no destino; renomeado para {novo_nome} "
+                f"para nao sobrescrever"
+            )
+        contador += 1
+
+
+def processar_item(item: dict, destino_raiz: Path) -> dict:
+    origem = Path(item["caminho_original"])
+    categoria = (item.get("categoria") or "outros").strip()
+    subcategoria = (item.get("subcategoria") or "").strip()
+    novo_nome = item.get("novo_nome") or origem.name
+    observacoes_previas = (item.get("observacoes") or "").strip()
+
+    linha = {
+        "nome_original": origem.name,
+        "novo_nome": novo_nome,
+        "extensao": origem.suffix.lower().lstrip("."),
+        "categoria": categoria,
+        "subcategoria": subcategoria,
+        "data_identificada": item.get("data_identificada") or "sem-data",
+        "nova_localizacao": "",
+        "acao_realizada": "",
+        "observacoes": observacoes_previas,
+        "status_revisao": item.get("status_revisao") or "ok",
+    }
+
+    if not origem.exists():
+        linha["acao_realizada"] = "erro"
+        obs = "arquivo original nao encontrado no momento da copia"
+        linha["observacoes"] = f"{observacoes_previas}; {obs}" if observacoes_previas else obs
+        linha["status_revisao"] = "precisa de revisao manual"
+        return linha
+
+    pasta_destino = destino_raiz / categoria
+    if subcategoria:
+        pasta_destino = pasta_destino / subcategoria
+    pasta_destino.mkdir(parents=True, exist_ok=True)
+
+    caminho_final, obs_colisao = resolver_colisao(pasta_destino, novo_nome)
+
+    try:
+        shutil.copy2(origem, caminho_final)
+    except OSError as exc:
+        linha["acao_realizada"] = "erro"
+        obs = f"falha ao copiar: {exc}"
+        linha["observacoes"] = f"{observacoes_previas}; {obs}" if observacoes_previas else obs
+        linha["status_revisao"] = "precisa de revisao manual"
+        return linha
+
+    linha["novo_nome"] = caminho_final.name
+    linha["nova_localizacao"] = str(caminho_final)
+    linha["acao_realizada"] = "copiado"
+    if obs_colisao:
+        linha["observacoes"] = (
+            f"{observacoes_previas}; {obs_colisao}" if observacoes_previas else obs_colisao
+        )
+
+    return linha
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("plano", help="Caminho para o JSON com o plano de classificacao")
+    parser.add_argument("--destino", required=True, help="Pasta de destino raiz da organizacao")
+    args = parser.parse_args()
+
+    plano_path = Path(args.plano)
+    destino_raiz = Path(args.destino)
+    destino_raiz.mkdir(parents=True, exist_ok=True)
+
+    with open(plano_path, "r", encoding="utf-8") as f:
+        itens = json.load(f)
+
+    if not isinstance(itens, list):
+        print("Erro: o plano deve ser uma lista JSON de itens.", file=sys.stderr)
+        sys.exit(1)
+
+    resultados = [processar_item(item, destino_raiz) for item in itens]
+
+    pasta_indice = destino_raiz / "_indice"
+    pasta_indice.mkdir(parents=True, exist_ok=True)
+
+    indice_json_path = pasta_indice / "index.json"
+    indice_previo = []
+    if indice_json_path.exists():
+        with open(indice_json_path, "r", encoding="utf-8") as f:
+            indice_previo = json.load(f)
+
+    # O indice e cumulativo entre execucoes contra o mesmo destino: cada rodada
+    # soma ao anterior em vez de sobrescrever.
+    resultados_finais = indice_previo + resultados
+
+    with open(indice_json_path, "w", encoding="utf-8") as f:
+        json.dump(resultados_finais, f, ensure_ascii=False, indent=2)
+
+    with open(pasta_indice / "index.csv", "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=COLUNAS_INDICE)
+        writer.writeheader()
+        for linha in resultados_finais:
+            writer.writerow(linha)
+
+    total = len(resultados)
+    copiados = sum(1 for r in resultados if r["acao_realizada"] == "copiado")
+    erros = sum(1 for r in resultados if r["acao_realizada"] == "erro")
+    revisao = sum(1 for r in resultados if r["status_revisao"] == "precisa de revisao manual")
+
+    print(f"Total de itens no plano: {total}")
+    print(f"Copiados com sucesso: {copiados}")
+    print(f"Erros (arquivo original nao encontrado ou falha ao copiar): {erros}")
+    print(f"Marcados como 'precisa de revisao manual': {revisao}")
+    print(f"Indice salvo em: {pasta_indice / 'index.json'} e {pasta_indice / 'index.csv'}")
+
+
+if __name__ == "__main__":
+    main()

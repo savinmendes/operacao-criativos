@@ -1,0 +1,77 @@
+{
+ "ad": "41",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@cicampo_oficial (TikTok)",
+  "de_quem": "loja (Cicampo Ferramentas, SC, Brasil)",
+  "url": "https://www.tiktok.com/@cicampo_oficial/video/7463190962152672517"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 37.5,
+ "cortes": {
+  "n": 2,
+  "tempos_s": [
+   25.27,
+   27.1
+  ],
+  "ritmo": "lento: plano-sequência de mão com câmera em movimento (tomadas longas, giros de câmera), só 2 cortes detectados"
+ },
+ "formato": "UGC unboxing na loja / apresentação do kit (POV mão com luva)",
+ "gancho": {
+  "visual_0_3s": "close da caixa DeWalt DCD7781 na prateleira/balcão, câmera passando pela caixa",
+  "texto_0_3s": "PARAFUSADEIRA E FURADEIRA DE IMPACTO DEWALT",
+  "fala_0_3s": "Parafusadeira e furadeira de impacto The Walt."
+ },
+ "corpo": [
+  {
+   "t": "0-6",
+   "o_que": "caixa do kit (DCD7781D2) em close"
+  },
+  {
+   "t": "6-13",
+   "o_que": "maleta aberta: furadeira, 2 baterias, carregador",
+   "texto": "ACOMPANHA DUAS BATERIAS 20 V MAX E UM CARREGADOR BIVOLT UMA MALETA"
+  },
+  {
+   "t": "13-21",
+   "o_que": "mão de luva mostra bateria com indicador e luz LED da ferramenta",
+   "texto": "COM LUZ INDICADORA DE CARGA DA BATERIA E POSSUI LUZ LED"
+  },
+  {
+   "t": "21-27",
+   "o_que": "anel de torque em close; giro rápido de câmera",
+   "texto": "15 POSIÇÕES DE TORQUE / MOTOR BRUSHLESS"
+  },
+  {
+   "t": "27-37.5",
+   "o_que": "closes do mandril/seletores e plano final do kit montado no balcão (furadeira + 2 baterias + carregador)"
+  }
+ ],
+ "cta": "falado: 'Compre agora' (~28 s); site e WhatsApp só no texto do post",
+ "texto_na_tela": "legendas de benefício amarelas com contorno (pt-BR), centradas no meio do quadro",
+ "produto": {
+  "modelo": "DCD7781 (lido na caixa: 'DCD7781D2' / texto do post DCD7781D2-BR)",
+  "eh_nosso": "não exatamente: é a versão de IMPACTO (percutor) da mesma família; visualmente quase idêntica ao DCD7771 (mesmo corpo cinza/amarelo, 20V MAX brushless, 2 baterias 2Ah, carregador, maleta)"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "nenhuma visível no vídeo",
+ "audio": "narração masculina pt-BR lendo as legendas (voz de locução/TTS) + fundo; termina com 'Compre agora' (~28 s)",
+ "uso": [
+  "banco de takes",
+  "traduzir/adaptar"
+ ],
+ "uso_detalhe": "takes sem rosto do kit aberto na maleta, baterias e kit montado no balcão servem como B-roll do kit (2 baterias + carregador + maleta = nosso kit). Evitar closes da caixa/etiqueta com 'DCD7781' e 'impacto' (modelo diferente) e as legendas pt queimadas (centradas, precisariam de faixa ou LaMa). Ritmo lento demais para usar inteiro. O roteiro falado (kit: 2 baterias 20V MAX + carregador + maleta, luz LED, 15 posições de torque, brushless, compre agora) bate quase 1:1 com o nosso kit e é traduzível para ES-CL, trocando 'impacto' por 'taladro atornillador'.",
+ "nota": 3,
+ "nota_justificativa": "kit visualmente igual ao nosso (2 baterias + carregador + maleta) e sem rosto, bom B-roll de 'o que vem na caixa'; perde ponto por legenda pt queimada no meio do quadro, ritmo lento, modelo DCD7781 legível na caixa e 576p.",
+ "transcricao": [
+  "0.0-6.0: Parafusadeira e furadeira de impacto The Walt.",
+  "6.0-11.6: Acompanha duas baterias, 20 volts max e um carregador b-volt.",
+  "11.6-22.4: Uma maleta com luz indicadora de carga da bateria e possui luz LED.",
+  "22.4-26.5: 15 posições de torque.",
+  "26.5-28.1: Motor brushless.",
+  "28.1-33.9: Pompre agora."
+ ]
+}

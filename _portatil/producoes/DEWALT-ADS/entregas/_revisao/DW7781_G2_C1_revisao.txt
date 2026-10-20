@@ -1,0 +1,42 @@
+REVISÃO: DW7781_G2_C1.mp4
+duração 47.97s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 18.3 MB
+decodificação: OK
+pts do áudio: 2250 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: 9.77/9.80, 32.60/32.63
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G2_C1_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.00 sigues peleando con un taladro debi
+   2.00-  4.00 mira todo lo que trae este kit de wall
+   4.00-  6.00 viene en su maleta dura
+   6.00-  8.00 para llevarlo a cargir pega
+   8.00- 10.00 adentro el taladro percutor
+  10.00- 12.00 y atornillador
+  12.00- 14.00 2 baterías de 20 volts
+  14.00- 16.00 de 2 amperes hora y su cargador
+  16.00- 18.00 mandril de 13 milímetros
+  18.00- 20.00 de ajuste rápido
+  20.00- 22.00 con el anillo eliges el modo
+  22.00- 24.00 taladro
+  24.00- 26.00 para madera y metal
+  26.00- 28.00 percutor para muro y concreto
+  28.00- 32.32 y atornillador con 15 posiciones de torque
+  32.32- 36.56 dos velocidades hasta 1.750 revoluciones por minuto
+  36.56- 38.56 y luz led
+  38.56- 40.56 para ver bien donde trabajas
+  40.56- 42.56 todo esto en un solo kit
+  42.56- 44.00 pre black friday
+  44.00- 46.00 pídelo hoy y pagas recién cuando te llegue
+  46.00- 48.00 envío a todo chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 9.77s e 9.80s (33 ms)
+PROBLEMA: quadro solto? cortes em 32.60s e 32.63s (33 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

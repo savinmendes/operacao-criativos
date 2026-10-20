@@ -1,0 +1,47 @@
+SB-PL-ADS-7 — Anioł stróż / błogosławieństwo finansowe · Polski (Polska)
+Base: SB-EN-ADS-7 (EN, 22,4 s) e SB-IT-ADS-7 (IT, 24,6 s), que vieram do "ads 7.mp4" (ES, vencedor) via versão FR 720p
+(anjo em close, legenda FR removida com LaMa). Mesma base limpa do EN, lipsync HeyGen speed para o PL (3 trechos:
+0–4,30 / 4,30–12,90 / 12,90–23,90 s, entrada com o áudio FR ORIGINAL, áudio PL separado), cortes nas pausas entre frases.
+Destino: a modlitwa na żywo. Botão do Meta: LEARN_MORE ("Dowiedz się więcej"). Sem produto e sem preço.
+Voz: ElevenLabs "Brian" (nPczCjzI2devNBz1zQrb), a mesma do EN/IT, eleven_multilingual_v2 (o v2 não aceita language_code;
+o idioma sai do texto), velocidade 1,12. Whisper detectou polonês com 0,998 de confiança e transcreveu as palavras com
+ś/ć/ż/ł/rz/cz corretas. Nenhuma voz criada/clonada/apagada.
+
+======================================================================
+ROTEIRO EN (base)
+======================================================================
+Your guardian angel has chosen you... and he has brought a gift, just for you.
+In this live stream, you will hear a seven-minute prayer, based on the Bible,
+that can bring a great financial blessing into your life.
+[CTA 1] Tap the button below to hear it.
+Don't ignore the financial blessing that is meant for you.
+[CTA 2] Tap Learn More below, and join the live prayer now.
+
+======================================================================
+ROTEIRO PL (narrado, 23,1 s de fala, vídeo 23,9 s)
+======================================================================
+Twój anioł stróż cię wybrał... i przyniósł ci dar, tylko dla ciebie.
+W tej transmisji na żywo usłyszysz siedmiominutową modlitwę, opartą na Biblii,
+która może przynieść wielkie błogosławieństwo finansowe do twojego życia.
+[CTA 1] Dotknij przycisku poniżej, aby jej wysłuchać.
+Nie ignoruj błogosławieństwa finansowego, które jest przeznaczone dla ciebie.
+[CTA 2] Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo.
+
+Decyzje (decisões de tradução)
+- "In this live stream" virou "W tej transmisji na żywo" (forma natural; "live stream" seria anglicismo).
+- "a gift" virou "dar" (termo espiritual; "prezent" soaria comercial, mesmo critério do "dono" do IT).
+- "that can bring ... into your life" virou "która może przynieść ... do twojego życia" (mesmo teor, sem suavizar).
+- "seven-minute prayer" virou "siedmiominutową modlitwę" (acusativo, objeto de "usłyszysz").
+- CTA final = o padrão do lote PL: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo".
+- Este AD não cita o santo (não há "Święty Benedykt" na fala nem na tela), igual ao EN/IT.
+- Velocidade 1,12 (a mesma do IT): a fala ficou em 23,1 s, entre o EN (21,7) e o IT (24,0).
+
+Legenda: mesmo estilo do EN/IT (Arial Black caixa alta, 2 linhas, palavra falada em verde com brilho, palavras-chave em
+vermelho: DAR, ŻYWO, MODLITWĘ/MODLITWY, BŁOGOSŁAWIEŃSTWO/-A, FINANSOWE/-GO, IGNORUJ, PONIŻEJ, DOWIEDZ SIĘ WIĘCEJ).
+A Arial Black tem todos os diacríticos poloneses (ĄĆĘŁŃÓŚŹŻ conferidos na fonte e no quadro renderizado).
+Blocos definidos à mão para não separar "na żywo" / "dla ciebie"; o corpo da fonte encolhe por bloco (98 → mín. 72)
+para palavras longas como BŁOGOSŁAWIEŃSTWO e SIEDMIOMINUTOWĄ caberem na largura.
+Setas amarelas nos dois CTAs (13,17–15,70 s e 19,83 s até o fim). Música: trilha do FR sem a voz (demucs), sob a fala.
+
+Compliance (decisão da pessoa, mantido como no ES/EN/IT): "wielkie błogosławieństwo finansowe do twojego życia" e
+"błogosławieństwa finansowego, które jest przeznaczone dla ciebie" são promessa financeira na fala, igual ao original.

@@ -1,0 +1,46 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\LYMPHORIA-ENXUTO\\LYM-CL_C3_jubilada-60_avatar-ugc_a.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_enxuto_c1c3\\c3a\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_enxuto_c1c3\\c3a\\narr.alinhamento.json",
+  "chaves": [
+   "hinchados",
+   "hinchazón",
+   "lymphoria",
+   "natural",
+   "miel",
+   "livianas",
+   "anillos",
+   "anillo",
+   "zapatos",
+   "compre",
+   "dos",
+   "gratis",
+   "recibir"
+  ]
+ },
+ "manchete": {
+  "texto": "¡Volví a usar mi anillo!",
+  "y": 150,
+  "ate": 3.0,
+  "px": 78
+ },
+ "selo": {
+  "linhas": [
+   "",
+   "PAGO CONTRA",
+   "ENTREGA",
+   ""
+  ],
+  "escala": 0.55,
+  "x": 331,
+  "y": 1330,
+  "desde": 37.66
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

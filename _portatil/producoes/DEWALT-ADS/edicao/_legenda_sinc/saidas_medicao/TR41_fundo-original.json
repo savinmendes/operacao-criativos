@@ -1,0 +1,237 @@
+{
+ "rotulo": "TR41_fundo-original",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\cfg\\TR41_fundo.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 30.167,
+ "blocos_medidos": 27,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 41,
+ "erro_max_abs_ms": 94,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 73,
+ "n_energia": 3,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 26,
+  "aparecem_no_quadro_esperado": 26,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "TALADRO PERCUTOR",
+   "leg_t": 0.0,
+   "palavra": "Taladro",
+   "fala_t": 0.08,
+   "erro_ms": -80,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "Y ATORNILLADOR",
+   "leg_t": 1.067,
+   "palavra": "y",
+   "fala_t": 1.04,
+   "erro_ms": 27,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DEWALT.",
+   "leg_t": 1.833,
+   "palavra": "DeWalt.",
+   "fala_t": 1.82,
+   "erro_ms": 13,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TRAE",
+   "leg_t": 5.967,
+   "palavra": "Trae",
+   "fala_t": 6.061,
+   "erro_ms": -94,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DOS BATERÍAS DE",
+   "leg_t": 6.367,
+   "palavra": "dos",
+   "fala_t": 6.381,
+   "erro_ms": -14,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VEINTE VOLTS",
+   "leg_t": 7.267,
+   "palavra": "veinte",
+   "fala_t": 7.261,
+   "erro_ms": 6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MAX,",
+   "leg_t": 8.033,
+   "palavra": "MAX,",
+   "fala_t": 8.042,
+   "erro_ms": -9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE DOS AMPERES",
+   "leg_t": 8.7,
+   "palavra": "de",
+   "fala_t": 8.682,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "HORA,",
+   "leg_t": 9.6,
+   "palavra": "hora,",
+   "fala_t": 9.562,
+   "erro_ms": 38,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y SU CARGADOR,",
+   "leg_t": 10.033,
+   "palavra": "y",
+   "fala_t": 10.082,
+   "erro_ms": -49,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y SU MALETA",
+   "leg_t": 11.633,
+   "palavra": "y",
+   "fala_t": 11.702,
+   "erro_ms": -69,
+   "erro_energia_ms": 73
+  },
+  {
+   "legenda": "DURA.",
+   "leg_t": 12.433,
+   "palavra": "dura.",
+   "fala_t": 12.462,
+   "erro_ms": -29,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LA BATERÍA TRAE",
+   "leg_t": 17.0,
+   "palavra": "La",
+   "fala_t": 17.083,
+   "erro_ms": -83,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "INDICADOR DE CARGA,",
+   "leg_t": 17.833,
+   "palavra": "indicador",
+   "fala_t": 17.864,
+   "erro_ms": -31,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y EL TALADRO",
+   "leg_t": 19.1,
+   "palavra": "y",
+   "fala_t": 19.184,
+   "erro_ms": -84,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TIENE LUZ LED",
+   "leg_t": 19.967,
+   "palavra": "tiene",
+   "fala_t": 19.984,
+   "erro_ms": -17,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PARA VER BIEN",
+   "leg_t": 20.933,
+   "palavra": "para",
+   "fala_t": 20.964,
+   "erro_ms": -31,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DONDE TRABAJAS.",
+   "leg_t": 21.567,
+   "palavra": "donde",
+   "fala_t": 21.584,
+   "erro_ms": -17,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "QUINCE POSICIONES",
+   "leg_t": 22.867,
+   "palavra": "Quince",
+   "fala_t": 22.945,
+   "erro_ms": -78,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE TORQUE,",
+   "leg_t": 23.933,
+   "palavra": "de",
+   "fala_t": 23.925,
+   "erro_ms": 8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y MODO PERCUTOR",
+   "leg_t": 24.6,
+   "palavra": "y",
+   "fala_t": 24.665,
+   "erro_ms": -65,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PARA MURO.",
+   "leg_t": 25.633,
+   "palavra": "para",
+   "fala_t": 25.645,
+   "erro_ms": -12,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MOTOR",
+   "leg_t": 26.567,
+   "palavra": "Motor",
+   "fala_t": 26.645,
+   "erro_ms": -78,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SIN CARBONES.",
+   "leg_t": 27.033,
+   "palavra": "sin",
+   "fala_t": 27.025,
+   "erro_ms": 8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PRE BLACK",
+   "leg_t": 28.3,
+   "palavra": "Pre",
+   "fala_t": 28.386,
+   "erro_ms": -86,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "FRIDAY:",
+   "leg_t": 28.867,
+   "palavra": "Friday:",
+   "fala_t": 28.886,
+   "erro_ms": -19,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PÍDELO",
+   "leg_t": 29.6,
+   "palavra": "Pídelo",
+   "fala_t": 29.646,
+   "erro_ms": -46,
+   "erro_energia_ms": null
+  }
+ ]
+}

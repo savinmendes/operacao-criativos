@@ -1,0 +1,20 @@
+{
+ "texto": "",
+ "esperado": "(sem fala: a filha abre a caixa e se surpreende; a mãe sorri)",
+ "faltam": [
+  "(sem",
+  "fala",
+  "a",
+  "filha",
+  "abre",
+  "a",
+  "caixa",
+  "e",
+  "se",
+  "surpreende",
+  "a",
+  "mae",
+  "sorri)"
+ ],
+ "palavras": []
+}

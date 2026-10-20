@@ -1,0 +1,5 @@
+file 'C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/curto_s0.mp4'
+file 'C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/curto_s1.mp4'
+file 'C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/curto_s2.mp4'
+file 'C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/curto_s3.mp4'
+file 'C:/Users/PICHAU/Downloads/DRENAGEM-LATAM/producao/_trabalho/ad01/curto_s4.mp4'

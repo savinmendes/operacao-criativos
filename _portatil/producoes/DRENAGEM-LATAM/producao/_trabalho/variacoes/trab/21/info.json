@@ -1,0 +1,53 @@
+{
+ "var": "21",
+ "gancho": "G1",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Vi a mi esposo mirar a mi mejor amiga como antes me miraba a mí. Como si yo no estuviera en la sala. Esto fue lo que pasó.",
+ "Hd": 8.0,
+ "fala_s": 7.57,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 19.975,
+   "dur": 1.6666666666666667
+  },
+  {
+   "src": "30",
+   "ini": 10.691,
+   "dur": 1.7333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 0.158,
+   "dur": 2.2666666666666666
+  },
+  {
+   "src": "30",
+   "ini": 8.508,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 6.542,
+   "dur": 0.8
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Vi a mi esposo mirar a mi mejor amiga como antes me miraba a mí.",
+   0.174
+  ],
+  [
+   "Como si yo no estuviera en la sala.",
+   4.238
+  ],
+  [
+   "Esto fue lo que pasó.",
+   6.188
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 21 - G1-ESPOSO-AMIGA x AD30.mp4",
+ "seed": 150
+}

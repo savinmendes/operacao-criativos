@@ -1,0 +1,62 @@
+{
+ "cod": "F1",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F1 - ASMR-B-ES-CL.mp4",
+ "gancho_s": 7.233,
+ "tomadas": [
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 0.0,
+   "quadros_origem": 30,
+   "quadros": 30,
+   "op": "",
+   "de_s": 0.0
+  },
+  {
+   "fonte": "original_03.mp4",
+   "ini": 13.55,
+   "quadros_origem": 42,
+   "quadros": 42,
+   "op": "cobre",
+   "de_s": 1.0
+  },
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 16.45,
+   "quadros_origem": 30,
+   "quadros": 30,
+   "op": "",
+   "de_s": 2.4
+  },
+  {
+   "fonte": "original_03.mp4",
+   "ini": 18.05,
+   "quadros_origem": 33,
+   "quadros": 33,
+   "op": "cobre",
+   "de_s": 3.4
+  },
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 19.4,
+   "quadros_origem": 30,
+   "quadros": 30,
+   "op": "",
+   "de_s": 4.5
+  },
+  {
+   "fonte": "vencedor1.mp4",
+   "ini": 22.33,
+   "quadros_origem": 26,
+   "quadros": 52,
+   "op": "lento",
+   "de_s": 5.5
+  }
+ ],
+ "corpo": "B",
+ "corte": 2.1,
+ "total_s": 42.1,
+ "ganho_db": 3.8,
+ "mb": 26.8,
+ "kbps": 5289,
+ "cenas": "corredor tomado de mato (vencedor1 0,00–1,00) → máquina entrando no mato alto, close (original_03 13,55–14,95) → POV cortando mato alto (vencedor1 16,45–17,45) → close no mato alto (original_03 18,05–19,15) → faixa sendo aberta no gramado alto (vencedor1 19,40–20,40) → POV da faixa listrada, câmera lenta 0,5x (vencedor1 22,33–23,20 → 1,73 s)"
+}

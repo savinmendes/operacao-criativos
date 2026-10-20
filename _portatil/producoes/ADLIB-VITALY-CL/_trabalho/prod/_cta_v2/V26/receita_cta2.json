@@ -1,0 +1,36 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_cta_v2\\V26\\out\\V26 - LYMPHORIA-ADIOS-HINCHAZON.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_cta_v2\\V26\\corpo_fim.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\V26\\parte1.mp4"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_cta_v2\\V26\\narr.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "compre",
+   "dos",
+   "gratis",
+   "recibir"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "",
+   "PAGO CONTRA",
+   "ENTREGA",
+   ""
+  ],
+  "escala": 0.55,
+  "x": 331,
+  "y": 1330,
+  "desde": 35.23
+ },
+ "cta": {
+  "palavra": "toque"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

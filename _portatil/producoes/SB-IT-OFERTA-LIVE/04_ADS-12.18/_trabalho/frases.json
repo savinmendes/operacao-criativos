@@ -1,0 +1,62 @@
+[
+ {
+  "id": "p1",
+  "txt": "Se mi volti le spalle, non avrò altra scelta: darò a qualcun altro il miracolo di cui hai tanto bisogno.",
+  "janela": [
+   0.0,
+   5.07
+  ],
+  "vel": 1.1
+ },
+ {
+  "id": "p2",
+  "txt": "Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.",
+  "janela": [
+   5.1,
+   10.0
+  ]
+ },
+ {
+  "id": "p3",
+  "txt": "Gesù ti ha scelto.",
+  "janela": [
+   10.1,
+   12.4
+  ]
+ },
+ {
+  "id": "p4",
+  "txt": "Ti ha portato un dono potente.",
+  "janela": [
+   12.5,
+   14.6
+  ]
+ },
+ {
+  "id": "p5",
+  "txt": "Oggi ascolterai un'antica preghiera perduta della Bibbia, che farà scendere una pioggia di benedizioni e di miracoli sulla tua vita.",
+  "janela": [
+   14.7,
+   23.0
+  ],
+  "vel": 0.95
+ },
+ {
+  "id": "p6",
+  "txt": "Non rifiutarmi di nuovo.",
+  "janela": [
+   23.1,
+   26.1
+  ],
+  "vel": 0.9
+ },
+ {
+  "id": "p7",
+  "txt": "Tocca «Scopri di più» qui sotto, unisciti alla preghiera in diretta e ricevi il tuo miracolo, prima che sia troppo tardi.",
+  "janela": [
+   26.1,
+   32.1
+  ],
+  "vel": 1.12
+ }
+]

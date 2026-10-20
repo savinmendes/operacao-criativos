@@ -1,0 +1,57 @@
+{
+ "var": "24",
+ "gancho": "G4",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Durante años pensé que era peso de la menopausia. Me equivoqué. No era peso, era lodo. Te cuento cómo lo descubrí.",
+ "Hd": 7.2,
+ "fala_s": 6.78,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 3.475,
+   "dur": 1.5
+  },
+  {
+   "src": "30",
+   "ini": 12.775,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 6.025,
+   "dur": 1.8333333333333333
+  },
+  {
+   "src": "30",
+   "ini": 18.008,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "30",
+   "ini": 11.158,
+   "dur": 0.8
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Durante años pensé que era peso de la menopausia.",
+   0.151
+  ],
+  [
+   "Me equivoqué.",
+   2.74
+  ],
+  [
+   "No era peso, era lodo.",
+   3.622
+  ],
+  [
+   "Te cuento cómo lo descubrí.",
+   5.213
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 24 - G4-NO-ES-PESO-ES-LODO x AD30.mp4",
+ "seed": 171
+}

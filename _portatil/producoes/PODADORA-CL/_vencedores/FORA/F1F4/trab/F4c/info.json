@@ -1,0 +1,38 @@
+{
+ "cod": "F4c",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F4c - COMENTARIO-PESADA-A-ES-CL.mp4",
+ "gancho_s": 4.667,
+ "tomadas": [
+  {
+   "fonte": "original_04.mp4",
+   "ini": 14.0,
+   "quadros_origem": 37,
+   "quadros": 37,
+   "op": "",
+   "de_s": 0.0
+  },
+  {
+   "fonte": "original_04.mp4",
+   "ini": 28.8,
+   "quadros_origem": 30,
+   "quadros": 30,
+   "op": "",
+   "de_s": 1.233
+  },
+  {
+   "fonte": "original_04.mp4",
+   "ini": 24.45,
+   "quadros_origem": 73,
+   "quadros": 73,
+   "op": "",
+   "de_s": 2.233
+  }
+ ],
+ "corpo": "A",
+ "corte": 9.0,
+ "total_s": 51.77,
+ "ganho_db": -1.5,
+ "mb": 26.1,
+ "kbps": 4287,
+ "cenas": "máquina rodando no gramado junto à escada, só pernas (original_04 14,00–15,23) → close das rodas (28,80–29,80) → guiando a máquina com uma mão junto às plantas, só pernas (24,45–26,88)"
+}

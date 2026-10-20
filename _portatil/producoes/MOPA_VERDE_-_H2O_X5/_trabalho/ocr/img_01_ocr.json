@@ -1,0 +1,134 @@
+[
+ {
+  "texto": "14 MILLION SOLD WORLDWIDE",
+  "conf": 0.97,
+  "caixa": [
+   445,
+   36,
+   1051,
+   72
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "H2O X5",
+  "conf": 0.94,
+  "caixa": [
+   58,
+   197,
+   422,
+   285
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "5-IN-1 STEAM CLEANER",
+  "conf": 0.97,
+  "caixa": [
+   63,
+   307,
+   538,
+   345
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FLOOR CLEANER",
+  "conf": 0.99,
+  "caixa": [
+   149,
+   413,
+   427,
+   449
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "CARPETCLEANER",
+  "conf": 0.99,
+  "caixa": [
+   151,
+   509,
+   441,
+   542
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "GARMENTSTEAMER",
+  "conf": 0.99,
+  "caixa": [
+   152,
+   606,
+   484,
+   635
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "HANDHELDSTEAMER",
+  "conf": 0.99,
+  "caixa": [
+   151,
+   701,
+   508,
+   731
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "GLASS CLEANER",
+  "conf": 1.0,
+  "caixa": [
+   149,
+   793,
+   418,
+   826
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "★★★★★",
+  "conf": 0.99,
+  "caixa": [
+   775,
+   960,
+   1038,
+   1006
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SHOPNOW",
+  "conf": 0.99,
+  "caixa": [
+   80,
+   995,
+   257,
+   1027
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "(3026+ Reviews)",
+  "conf": 0.99,
+  "caixa": [
+   767,
+   1016,
+   1047,
+   1053
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

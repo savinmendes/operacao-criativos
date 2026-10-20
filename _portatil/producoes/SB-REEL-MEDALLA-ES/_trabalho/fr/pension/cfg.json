@@ -1,0 +1,46 @@
+{
+ "t_reza": 5.35,
+ "t_self": 11.35,
+ "hook_fim": 5.2,
+ "reza": [
+  [
+   0.0,
+   3.0
+  ]
+ ],
+ "vira": 8.9,
+ "frus_fim": 2.6,
+ "self_off": 2.6,
+ "selfies": [
+  [
+   2.6,
+   5.75,
+   1.0
+  ],
+  [
+   5.75,
+   7.85,
+   1.13
+  ],
+  [
+   7.85,
+   null,
+   1.0
+  ]
+ ],
+ "r_self": [],
+ "rosto_self": [
+  540,
+  760
+ ],
+ "gancho_zoom": 1.2,
+ "gancho_centro": [
+  500,
+  1250
+ ],
+ "antes_zoom": 1.0,
+ "depois_ss": 0.4,
+ "frus_ss": 0.2,
+ "trilha_tensao": "trilha_tensao.wav",
+ "slug": "pension"
+}

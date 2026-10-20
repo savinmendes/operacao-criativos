@@ -1,0 +1,804 @@
+[
+ {
+  "t": 0,
+  "txt": []
+ },
+ {
+  "t": 1,
+  "txt": [
+   [
+    "CARADELUNA",
+    0.99,
+    [
+     737,
+     763
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 2,
+  "txt": [
+   [
+    "LUNA",
+    0.99,
+    [
+     734,
+     765
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 3,
+  "txt": [
+   [
+    "LUNA",
+    0.99,
+    [
+     734,
+     765
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 4,
+  "txt": []
+ },
+ {
+  "t": 5,
+  "txt": []
+ },
+ {
+  "t": 6,
+  "txt": []
+ },
+ {
+  "t": 7,
+  "txt": []
+ },
+ {
+  "t": 8,
+  "txt": []
+ },
+ {
+  "t": 9,
+  "txt": [
+   [
+    "Elsistema linfaticoesunareddeorganos,tejidosyvasosque transportanla linfay",
+    0.96,
+    [
+     129,
+     152
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.96,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "liquidoscorporalesy defendiendo alorganismo contra infeccionesycelulascancerosas.",
+    0.98,
+    [
+     178,
+     201
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.97,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.97,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     252,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 10,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.98,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     251,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 11,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.97,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     252,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 12,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.98,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     251,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 13,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.97,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     252,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 14,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.97,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     252,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 15,
+  "txt": [
+   [
+    "Elsistemalinfaticoesunareddeorganos,tejidosyvasosquetransportanlalinfay",
+    0.98,
+    [
+     132,
+     151
+    ]
+   ],
+   [
+    "desempenanunpapel fundamental enel sistema inmunitario,manteniendoelequilibriode",
+    0.95,
+    [
+     154,
+     176
+    ]
+   ],
+   [
+    "Sufuncionprincipalesdrenarelexcesodeliquidodelostejidos,filtrarloatravesdelos",
+    0.98,
+    [
+     204,
+     223
+    ]
+   ],
+   [
+    "ganglioslinfaticosparaeliminargermenesycelulasdanadas,ydevolverloalasangre,",
+    0.98,
+    [
+     226,
+     249
+    ]
+   ],
+   [
+    "ademasdeproducirymadurarglobulosblancosespecializadosparaladefensadel",
+    0.99,
+    [
+     252,
+     270
+    ]
+   ],
+   [
+    "cuerpo.",
+    0.98,
+    [
+     275,
+     297
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 16,
+  "txt": []
+ },
+ {
+  "t": 17,
+  "txt": []
+ },
+ {
+  "t": 18,
+  "txt": []
+ },
+ {
+  "t": 19,
+  "txt": []
+ },
+ {
+  "t": 20,
+  "txt": [
+   [
+    "二",
+    0.59,
+    [
+     558,
+     683
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 21,
+  "txt": []
+ },
+ {
+  "t": 22,
+  "txt": []
+ },
+ {
+  "t": 23,
+  "txt": []
+ },
+ {
+  "t": 24,
+  "txt": []
+ },
+ {
+  "t": 25,
+  "txt": []
+ },
+ {
+  "t": 26,
+  "txt": []
+ },
+ {
+  "t": 27,
+  "txt": []
+ },
+ {
+  "t": 28,
+  "txt": []
+ },
+ {
+  "t": 29,
+  "txt": []
+ },
+ {
+  "t": 30,
+  "txt": []
+ },
+ {
+  "t": 31,
+  "txt": []
+ },
+ {
+  "t": 32,
+  "txt": []
+ },
+ {
+  "t": 33,
+  "txt": []
+ },
+ {
+  "t": 34,
+  "txt": []
+ },
+ {
+  "t": 35,
+  "txt": []
+ },
+ {
+  "t": 36,
+  "txt": [
+   [
+    "25",
+    0.58,
+    [
+     534,
+     795
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 37,
+  "txt": [
+   [
+    "mphatic",
+    0.9,
+    [
+     301,
+     322
+    ]
+   ],
+   [
+    "minage",
+    0.88,
+    [
+     317,
+     338
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 38,
+  "txt": [
+   [
+    "iphatic",
+    0.9,
+    [
+     299,
+     322
+    ]
+   ],
+   [
+    "tiage",
+    0.75,
+    [
+     318,
+     337
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 39,
+  "txt": [
+   [
+    "二",
+    0.53,
+    [
+     598,
+     725
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 40,
+  "txt": []
+ },
+ {
+  "t": 41,
+  "txt": []
+ },
+ {
+  "t": 42,
+  "txt": []
+ },
+ {
+  "t": 43,
+  "txt": []
+ },
+ {
+  "t": 44,
+  "txt": [
+   [
+    "a",
+    0.65,
+    [
+     461,
+     564
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 45,
+  "txt": []
+ },
+ {
+  "t": 46,
+  "txt": []
+ },
+ {
+  "t": 47,
+  "txt": []
+ },
+ {
+  "t": 48,
+  "txt": []
+ },
+ {
+  "t": 49,
+  "txt": []
+ },
+ {
+  "t": 50,
+  "txt": [
+   [
+    "二",
+    0.65,
+    [
+     633,
+     761
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 51,
+  "txt": []
+ },
+ {
+  "t": 52,
+  "txt": []
+ },
+ {
+  "t": 53,
+  "txt": []
+ },
+ {
+  "t": 54,
+  "txt": []
+ },
+ {
+  "t": 55,
+  "txt": [
+   [
+    "←",
+    0.6,
+    [
+     356,
+     481
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 56,
+  "txt": []
+ },
+ {
+  "t": 57,
+  "txt": []
+ },
+ {
+  "t": 58,
+  "txt": []
+ },
+ {
+  "t": 59,
+  "txt": []
+ },
+ {
+  "t": 60,
+  "txt": []
+ },
+ {
+  "t": 61,
+  "txt": []
+ },
+ {
+  "t": 62,
+  "txt": []
+ },
+ {
+  "t": 63,
+  "txt": []
+ },
+ {
+  "t": 64,
+  "txt": [
+   [
+    "二",
+    0.52,
+    [
+     650,
+     759
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 65,
+  "txt": []
+ },
+ {
+  "t": 66,
+  "txt": [
+   [
+    "二",
+    0.7,
+    [
+     662,
+     793
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 67,
+  "txt": []
+ },
+ {
+  "t": 68,
+  "txt": []
+ },
+ {
+  "t": 69,
+  "txt": []
+ },
+ {
+  "t": 70,
+  "txt": [
+   [
+    "二",
+    0.91,
+    [
+     613,
+     750
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 71,
+  "txt": [
+   [
+    "二",
+    0.58,
+    [
+     623,
+     743
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 72,
+  "txt": []
+ },
+ {
+  "t": 73,
+  "txt": []
+ },
+ {
+  "t": 74,
+  "txt": []
+ }
+]

@@ -1,0 +1,5 @@
+SB COMPLETA FR UCI (14/10/2026) -> C:\Users\PICHAU\Downloads\SB-MEDALLA-COMPLETA-FR${n}_SB-FR_UCI_COMPLETA.mp4 + _narracion.txt (com texto do anúncio FR)
+Voz FR: Céline (3fxbs2pB9bs8S6Z1N38A), eleven_multilingual_v2 via app/tts_ctx.py (speed 1.0). Caracteres: hook 92 + reza 44 + selfie 301 = 437. Whisper fr conferido (saint Benoît ok).
+HeyGen: create_video_from_image, retrato_triste.png da versão ES, expressividade low, 1080p, vídeo f7e7e81b2a6e8f1b7eafce20f64a2004 (11,4 s). Saldo compartilhado (6967 -> 6875 com outros agentes); estimativa ~15-20 créditos.
+Montagem: script ES da persona copiado e adaptado (vozes, selfie, padre FR com novos cortes/B-roll mapeados nas falas FR, gráficos FR de _comum, legenda FR). Takes/B-roll/trilha iguais ao ES. Flora US$0.
+QA: revisar_ad --idioma fr --idioma-residual es OK (aviso padrão de setas vermelhas: CTA é amarelo); boca da selfie quadro a quadro (5 q/s) e zoom no rosto; CTA único no fim; selo VIDÉO FICTIVE do 1º ao último quadro.

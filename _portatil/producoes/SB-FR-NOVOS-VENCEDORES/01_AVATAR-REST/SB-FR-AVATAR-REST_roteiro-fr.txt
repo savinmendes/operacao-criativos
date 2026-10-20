@@ -1,0 +1,37 @@
+SB FR — AVATAR_REST (fonte: 1-VIDEOS/AVATAR_REST.mp4, ES, 71,7 s) -> SB-FR-AVATAR-REST.mp4
+Mercado: France, Canada FR, Belgique, Suisse, Antilles/Guyane. Tutoiement. "San Benito" -> "saint Benoît".
+
+TÍTULO DO GANCHO (queimado, 0-4,9 s)
+ES: ALGO INESPERADO PASÓ / DURANTE LA ORACIÓN / A SAN BENITO
+FR: QUELQUE CHOSE D'INATTENDU / EST ARRIVÉ PENDANT LA PRIÈRE / À SAINT BENOÎT   (mesmas 3 faixas: branca/vermelho, branca/preto, vermelha/branco)
+
+COMERCIANTE — oração (voz em off, ajoelhado no restaurante vazio)
+ES: ¡Oh, glorioso San Benito! Hoy pronuncio las palabras grabadas en tu medalla. Sácame de esta escasez. Si me escuchas, ayúdame.
+FR: Ô glorieux saint Benoît, aujourd'hui je prononce les paroles gravées sur ta médaille. Délivre-moi de cette misère. Si tu m'entends, aide-moi.
+
+COMERCIANTE — depoimento em selfie (lipsync)
+ES: Yo pasé casi seis meses sin clientes. Llegué a pensar en cerrar mi negocio. Hasta que, en una transmisión en vivo, un padre explicó la forma exacta de pedirle a San Benito. Ese día recuperé la paz. Y poco a poco las puertas empezaron a abrirse.
+FR: J'ai passé presque six mois sans clients. J'ai même pensé à fermer mon commerce. Jusqu'au jour où, pendant une diffusion en direct, un prêtre a expliqué la façon exacte de demander à saint Benoît. Ce jour-là, j'ai retrouvé la paix. Et petit à petit, les portes ont commencé à s'ouvrir.
+
+PADRE (lipsync nos planos dele; voz em off nos b-rolls)
+ES: Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió. Preparó un regalo poderoso solo para ti. En este video vas a escuchar la oración perdida de San Benito, que desbloquea una lluvia de milagros. Pero solo si no la rechazas otra vez.
+FR: C'est la dernière fois que Dieu essaie de te parler de cette façon. Jésus t'a choisi. Il a préparé un cadeau puissant, rien que pour toi. Dans cette vidéo, tu vas écouter la prière perdue de saint Benoît, qui débloque une pluie de miracles. Mais seulement si tu ne la refuses pas une fois de plus.
+
+CTA (unificado)
+ES: Toca más información ahora. Recibe tu milagro antes de que la puerta se cierre para siempre. Ahora mismo está ocurriendo una transmisión en vivo con San Benito. Toca el botón ver más aquí abajo del video y entra a rezar con nosotros.
+FR: Reçois ton miracle avant que la porte ne se ferme pour toujours. En ce moment même, une prière à saint Benoît est diffusée en direct. Appuie sur « En savoir plus » ci-dessous et rejoins la prière en direct.
+Faixa do CTA (com as setas amarelas originais): ES "TOCA «MÁS INFORMACIÓN»" / "TOCA «VER MÁS» AQUÍ ABAJO" -> FR "APPUIE SUR «EN SAVOIR PLUS»" (uma só faixa até o fim).
+
+DECISÕES
+- Vocabulário dos FR vencedores (OP2 FR: "C'est la dernière fois que Dieu essaie de te parler de cette façon…", "la prière perdue de saint Benoît qui débloque une pluie de miracles").
+- Os dois CTAs do ES ("más información" e "ver más") viraram um só: "Appuie sur « En savoir plus » ci-dessous et rejoins la prière en direct", no fim; a frase de urgência ("Reçois ton miracle…") foi mantida antes dele.
+- "escasez" -> "misère"; "transmisión en vivo" -> "diffusion en direct" (comerciante) / "prière … diffusée en direct" (padre).
+- Teor, promessas e urgência mantidos, sem suavizar. Sem preço e sem produto.
+- Vozes (já existentes na conta ElevenLabs, eleven_multilingual_v2, nenhuma criada/clonada):
+  comerciante = "Martin - Deep and Conversational" (b0Ev8lcOOXx2o9ZcF46H), francês nativo, grave (F0 ~89 Hz; original ~95 Hz);
+  padre = "Jérôme - Narrateur FR Podcast Réflexif" (TES2Z4FdTbwd5F5uHmLW), francês nativo, mais agudo/jovem (F0 ~101 Hz; original ~105 Hz).
+- Duração: 62,3 s (ES 71,7 s). Cenas reposicionadas na fala FR; alguns planos alongados até 10% (rosto) / 25% (b-roll) e o altar congela ~0,4 s no fim.
+- Lipsync: HeyGen speed, 10 jobs (9 trechos + 1 reenvio do selfie A2 com o áudio já sem a pausa). Boca/queixo colados sobre o take original (elipse por landmarks), sem retoque.
+- Pausas longas do comerciante (~0,5 s cada, depois de "clients." e de "commerce.") viraram jump cut na selfie (12,87 s e 15,0 s do final), em vez de boca entreaberta.
+- Mix: voz -12 LUFS (só voz), trilha do original sem voz (demucs) -28 LUFS sob a voz (~-30 LUFS medida); total -17 LUFS.
+- Revisor independente: sem bloqueante; corrigidos "REÇOIS" na posição alta e espaço dentro de « EN SAVOIR PLUS ».

@@ -1,0 +1,43 @@
+REVISÃO: SB-ES_VIDEO04_ORACION-ESCONDIDA.mp4
+duração 85.30s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 27.8 MB
+decodificação: OK
+pts do áudio: 4000 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 15 | pares a <0,3 s: 43.07/43.20
+setas (vermelho) no fim: y 1006-1072, x 227-488 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\VIDEO-04-ADAPTAR_analise\producao\_trab\rev\SB-ES_VIDEO04_ORACION-ESCONDIDA_revisao.jpg
+idioma detectado: es (0.94)
+
+=== transcrição (es) ===
+   0.00-  3.92 Detente, si este video llegó a ti, no fue por casualidad.
+   3.92-  9.16 Esta es la oración a San Benito que escondieron de ti durante 900 años.
+   9.16- 14.08 La escondieron porque quien la reza de la forma correcta rompe cualquier atadura,
+  14.08- 20.00 deudas, envidia, puertas cerradas, tus rezas, trabajas, haces todo bien
+  20.00- 24.44 y aun así el dinero se va, la familia pelea y nada avanza.
+  24.44- 27.88 Eso no es falta de fe, es un camino bloqueado.
+  27.88- 29.88 Repite conmigo ahora mismo,
+  29.88- 31.88 ¡Oh poderoso San Benito,
+  31.88- 33.88 guardián de los arcanos sagrados
+  33.88- 35.88 que venciste a las serpientes
+  35.88- 37.88 con la señal de la cruz
+  37.88- 39.88 y callaste el rugido de los sabismos
+  39.88- 41.88 con tu fe inquebrantable!
+  41.88- 43.88 ¡Alto!
+  43.88- 45.88 Lo que viene después,
+  45.88- 47.88 no lo puedo decir aquí,
+  47.88- 49.88 ya me borraron videos por enseñarla.
+  49.88- 51.88 La última vez que la recé en vivo,
+  51.88- 53.88 más de 697 personas
+  53.88- 55.88 me escribieron al día siguiente
+  55.88- 61.64 contando bendiciones. Todavía no termino de leer los mensajes, pero escucha bien. Si la
+  61.64- 67.84 rezas de la forma equivocada no funciona, tiene una manera correcta de hacerla y de escucharla,
+  67.84- 74.20 por eso en este momento la estoy rezando completa, en vivo, paso a paso, con miles de familias.
+  74.20- 80.52 Envía este vídeo a quien amas. Antes de que lo borren otra vez, toca en ver más aquí
+  80.52- 84.92 aquí abajo y entra a rezar conmigo tu bendición empieza hoy.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 43.07s e 43.20s (133 ms)
+1 problema(s)

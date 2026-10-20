@@ -1,0 +1,58 @@
+{
+  "ad": "13",
+  "arquivo": "13 AD.mp4",
+  "folha": "_estudo/folhas/13.jpg",
+  "idioma": "sem fala (whisper 'en' prob 0,33; só música)",
+  "origem": {
+    "perfil": "@sydneytools (TikTok)",
+    "tipo": "loja/revenda Sydney Tools (Austrália)"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 15.0,
+  "cortes": {
+    "n": 4,
+    "ritmo": "rápido: cortes em 2,0 / 3,2 / 8,3 / 11,5 s"
+  },
+  "formato": "demo de recurso (cabeças intercambiáveis), vendedor de camisa vermelha aparece só do torso para baixo",
+  "gancho": {
+    "visual": "0-3 s: mãos tiram a cabeça do mandril da furadeira e encaixam outra; furo em madeira",
+    "fala_ou_texto": "sem fala e sem texto"
+  },
+  "estrutura": [
+    {
+      "t": "0-3",
+      "bloco": "troca de cabeça"
+    },
+    {
+      "t": "3-8",
+      "bloco": "broca em madeira com cada cabeça"
+    },
+    {
+      "t": "8-11.5",
+      "bloco": "broca chata em tábua vertical"
+    },
+    {
+      "t": "11.5-15",
+      "bloco": "flat lay da ferramenta + cabeças"
+    }
+  ],
+  "cta": "nenhum no vídeo",
+  "texto_tela": "nenhum",
+  "produto": {
+    "mostrado": "DeWalt DCD803 multi-head drill driver 18V (segundo o texto do post; bateria PowerStack)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "logo 'Sydney Tools' na camisa",
+  "audio": "música de fundo, sem voz",
+  "uso": [
+    "só referência de formato (demo rápida de recurso em 15 s, sem fala)"
+  ],
+  "nota": {
+    "valor": 1,
+    "justificativa": "Produto diferente (multicabeças 18V), com um recurso que o DCD7771 não tem, e a camisa da loja aparece em todos os planos. Serve só como referência de corte rápido sem fala."
+  }
+}

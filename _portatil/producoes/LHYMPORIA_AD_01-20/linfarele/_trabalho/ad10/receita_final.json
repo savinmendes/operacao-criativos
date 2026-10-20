@@ -1,0 +1,49 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\AD 10 - LINFARELE-MATRIMONIO-IT.mp4",
+ "estilo": "drop",
+ "corpo": "parte2.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\_trabalho\\ad10\\parte1.mp4"
+ },
+ "legenda_hook": {
+  "fonte": "transcrever",
+  "idioma": "it",
+  "modelo": "medium",
+  "corrigir": [
+   [
+    "^l'?infarele",
+    "Linfarele"
+   ],
+   [
+    "^ma(i|y)a ?ver+a",
+    "Linfarele"
+   ]
+  ]
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\_trabalho\\ad10\\narr_fim.alinhamento.json",
+  "chaves": [
+   "linfarele",
+   "miele",
+   "gratuita",
+   "novanta"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "SPEDIZIONE GRATUITA",
+   "GARANZIA",
+   "90 GIORNI",
+   "SODDISFATTI O RIMBORSATI"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 424.95
+ },
+ "cta": {
+  "palavra": "tocca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

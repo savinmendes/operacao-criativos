@@ -1,0 +1,50 @@
+{
+  "ad": "14",
+  "arquivo": "14 AD.mp4",
+  "folha": "_estudo/folhas/14.jpg",
+  "idioma": "sem fala (whisper 'en' prob 0,33; som de template)",
+  "origem": {
+    "perfil": "@torresdrywall2 (TikTok)",
+    "tipo": "criador/instalador de drywall (perfil pessoal)"
+  },
+  "resolucao": "720x1280 (mas o conteúdo é uma gravação de tela de uma foto, em qualidade baixa)",
+  "duracao_s": 8.0,
+  "cortes": {
+    "n": 1,
+    "ritmo": "uma transição com flash em 4,6 s; foto parada com efeito de moldura e faíscas"
+  },
+  "formato": "slideshow (gravação de tela de foto + template de efeito)",
+  "gancho": {
+    "visual": "0-3 s: gravação de tela do celular com a foto da parafusadeira de drywall DeWalt XR na caixa",
+    "fala_ou_texto": "texto: 'bandita próximamente tendré estás bellezas la puedes apartar las calare Aser pollito una'"
+  },
+  "estrutura": [
+    {
+      "t": "0-4.6",
+      "bloco": "gravação de tela da foto"
+    },
+    {
+      "t": "4.6-8",
+      "bloco": "mesma foto com moldura e faíscas"
+    }
+  ],
+  "cta": "nenhum (texto informal de reserva, 'apartar')",
+  "texto_tela": "frase informal com erros de ortografia; barra de navegação do Android visível",
+  "produto": {
+    "mostrado": "Parafusadeira de drywall DeWalt 20V XR (modelo exato não legível)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "interface do visualizador de fotos do Android ('1 de 1', X)",
+  "audio": "música/áudio de template, sem voz",
+  "uso": [
+    "descartar (gravação de tela de foto, produto errado, sem demonstração)"
+  ],
+  "nota": {
+    "valor": 0,
+    "justificativa": "Gravação de tela de uma foto, com o produto errado e sem demonstração nem fala. Nada aproveitável."
+  }
+}

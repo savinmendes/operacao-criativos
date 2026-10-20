@@ -1,0 +1,189 @@
+{
+ "_nota": "B-roll das narracoes N_yara/N_moi/N_elixir. 7 s cada (cortar pela duracao do audio na montagem). Tipos: normal | punch (z>1, animado se z0!=z1) | detalhe (close no laco/medalhao/tampa). Todo corte comeca com snap de zoom (+10% -> base em 0,2 s). Nunca 2 takes seguidos da mesma fonte. moi_03/moi_04: legenda queimada fica FORA do recorte (caixa no topo do quadro). Takes evitados: yara_10-13 (relogio do notebook na tela), yara_17/18 (luvas), elixir_05/06 (homem), elixir_12/13 (qualidade), moi_01/02/05/06 (legenda no meio da acao).",
+ "duracao": 7.0,
+ "sequencias": {
+  "b_yara": {
+   "takes": [
+    {
+     "take": "yara_04.mp4",
+     "ini": 0.3,
+     "dur": 1.5,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.04,
+     "acao": "frasco de frente nas duas maos"
+    },
+    {
+     "take": "yara_14.mp4",
+     "ini": 0.8,
+     "dur": 1.3,
+     "tipo": "detalhe",
+     "z0": 1.15,
+     "z1": 1.22,
+     "centro": [
+      0.5,
+      0.62
+     ],
+     "acao": "close do laco/medalhao girando"
+    },
+    {
+     "take": "yara_02.mp4",
+     "ini": 0.2,
+     "dur": 1.4,
+     "tipo": "punch",
+     "z0": 1.0,
+     "z1": 1.25,
+     "acao": "maos seguram a caixa (push-in)"
+    },
+    {
+     "take": "yara_16.mp4",
+     "ini": 1.0,
+     "dur": 1.4,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.0,
+     "acao": "frasco nas maos mostra o laco"
+    },
+    {
+     "take": "yara_07.mp4",
+     "ini": 0.5,
+     "dur": 1.4,
+     "tipo": "punch",
+     "z0": 1.22,
+     "z1": 1.22,
+     "centro": [
+      0.5,
+      0.45
+     ],
+     "acao": "tira a tampa, mostra o spray"
+    }
+   ]
+  },
+  "b_moi": {
+   "takes": [
+    {
+     "take": "moi_09.mp4",
+     "ini": 0.4,
+     "dur": 1.5,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.04,
+     "acao": "maos giram o frasco de frente"
+    },
+    {
+     "take": "moi_03.mp4",
+     "ini": 0.6,
+     "dur": 1.4,
+     "tipo": "detalhe",
+     "caixa": [
+      0.17,
+      0.0,
+      0.66,
+      0.66
+     ],
+     "z0": 1.0,
+     "z1": 1.06,
+     "centro": [
+      0.5,
+      0.6
+     ],
+     "acao": "close do laco dourado (recorte acima da legenda queimada)"
+    },
+    {
+     "take": "moi_08.mp4",
+     "ini": 0.8,
+     "dur": 1.5,
+     "tipo": "punch",
+     "z0": 1.0,
+     "z1": 1.25,
+     "acao": "tira o frasco e coloca ao lado da caixa (push-in)"
+    },
+    {
+     "take": "moi_11.mp4",
+     "ini": 0.2,
+     "dur": 1.3,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.0,
+     "acao": "mao segura o frasco, estante ao fundo"
+    },
+    {
+     "take": "moi_04.mp4",
+     "ini": 0.0,
+     "dur": 1.3,
+     "tipo": "detalhe",
+     "caixa": [
+      0.17,
+      0.0,
+      0.66,
+      0.66
+     ],
+     "z0": 1.0,
+     "z1": 1.05,
+     "acao": "close da tampa com logo (recorte acima da legenda)",
+     "centro": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  "b_elixir": {
+   "takes": [
+    {
+     "take": "elixir_08.mp4",
+     "ini": 0.5,
+     "dur": 1.5,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.04,
+     "acao": "mao segura o frasco de frente"
+    },
+    {
+     "take": "elixir_11.mp4",
+     "ini": 0.5,
+     "dur": 1.3,
+     "tipo": "detalhe",
+     "z0": 1.25,
+     "z1": 1.32,
+     "acao": "close do laco rose-gold",
+     "centro": [
+      0.45,
+      0.32
+     ]
+    },
+    {
+     "take": "elixir_01.mp4",
+     "ini": 0.3,
+     "dur": 1.4,
+     "tipo": "punch",
+     "z0": 1.0,
+     "z1": 1.25,
+     "acao": "mao mostra a caixa (push-in)"
+    },
+    {
+     "take": "elixir_07.mp4",
+     "ini": 0.5,
+     "dur": 1.4,
+     "tipo": "punch",
+     "z0": 1.2,
+     "z1": 1.3,
+     "centro": [
+      0.5,
+      0.55
+     ],
+     "acao": "frasco em pe no balcao de marmore"
+    },
+    {
+     "take": "elixir_03.mp4",
+     "ini": 0.6,
+     "dur": 1.5,
+     "tipo": "normal",
+     "z0": 1.0,
+     "z1": 1.0,
+     "acao": "frasco de frente mostra o laco"
+    }
+   ]
+  }
+ }
+}

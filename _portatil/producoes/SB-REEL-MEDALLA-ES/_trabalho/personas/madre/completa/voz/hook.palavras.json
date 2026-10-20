@@ -1,0 +1,135 @@
+[
+ {
+  "w": "Recé",
+  "ini": 0.023,
+  "fim": 0.267,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "en",
+  "ini": 0.29,
+  "fim": 0.337,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "el",
+  "ini": 0.395,
+  "fim": 0.464,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "piso",
+  "ini": 0.534,
+  "fim": 0.801,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "de",
+  "ini": 0.824,
+  "fim": 0.871,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "mi",
+  "ini": 0.906,
+  "fim": 0.987,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "cocina,",
+  "ini": 1.045,
+  "fim": 1.718,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "con",
+  "ini": 1.892,
+  "fim": 2.055,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "las",
+  "ini": 2.078,
+  "fim": 2.194,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "cuentas",
+  "ini": 2.276,
+  "fim": 2.763,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "sobre",
+  "ini": 2.786,
+  "fim": 3.007,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "la",
+  "ini": 3.053,
+  "fim": 3.135,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "mesa...",
+  "ini": 3.204,
+  "fim": 3.866,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "y",
+  "ini": 4.563,
+  "fim": 4.632,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "esto",
+  "ini": 4.714,
+  "fim": 4.888,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "fue",
+  "ini": 4.957,
+  "fim": 5.05,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "lo",
+  "ini": 5.085,
+  "fim": 5.155,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "que",
+  "ini": 5.201,
+  "fim": 5.283,
+  "personagem": "persona",
+  "parte": "hook"
+ },
+ {
+  "w": "pasó.",
+  "ini": 5.341,
+  "fim": 5.851,
+  "personagem": "persona",
+  "parte": "hook"
+ }
+]

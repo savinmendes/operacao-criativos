@@ -1,0 +1,44 @@
+{
+ "texto": "Oye, ¿qué perfume traes? Huele demasiado rico.",
+ "esperado": "Oye… ¿qué perfume traes? Hueles demasiado rico.",
+ "faltam": [
+  "hueles"
+ ],
+ "palavras": [
+  {
+   "p": "Oye,",
+   "ini": 0.5,
+   "fim": 1.86
+  },
+  {
+   "p": "¿qué",
+   "ini": 2.26,
+   "fim": 2.5
+  },
+  {
+   "p": "perfume",
+   "ini": 2.5,
+   "fim": 2.82
+  },
+  {
+   "p": "traes?",
+   "ini": 2.82,
+   "fim": 3.5
+  },
+  {
+   "p": "Huele",
+   "ini": 3.7,
+   "fim": 3.92
+  },
+  {
+   "p": "demasiado",
+   "ini": 3.92,
+   "fim": 4.46
+  },
+  {
+   "p": "rico.",
+   "ini": 4.46,
+   "fim": 4.84
+  }
+ ]
+}

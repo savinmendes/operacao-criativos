@@ -1,0 +1,42 @@
+{
+  "_LEIA": [
+    "Receita-base do montar_ad.py (kit-edicao-criativos). Caminhos <...> são placeholders. Rodar com o diretório de trabalho em kit-edicao-criativos/.",
+    "O montar_ad.py NÃO tem chave para PNG livre (só manchete/selo de texto/faixa_sb/setas). Por isso banner_topo.png, sticker_kit.png e selo_bf.png entram ANTES, queimados no hook e no corpo com o ffmpeg de _pre_overlays; o cartão final entra como último trecho do corpo (fim_cartao).",
+    "Posições abaixo (legenda.y, cta.y) em px do quadro BASE 1080x1920, como o kit exige; os PNGs foram desenhados para 720x1280 (no corpo 1080 usar ×1,5, já no comando).",
+    "Sem 'selo' do kit: o banner preto/dourado já carrega PAGO CONTRA ENTREGA · ENVÍO GRATIS (o selo amarelo do kit duplicaria a informação).",
+    "Setas: o sticker ocupa o rodapé (y≈1380–1815 no quadro 1080), então as setas sobem para cta.y=1190 (entre legenda e sticker). Conferir no _frames.jpg / revisar_ad.py."
+  ],
+  "saida": "<pasta_produto>/ads/AD 01 - YARA-KIT3-BF-H1-CONSULTORA-ES-CL.mp4",
+  "estilo": "drop",
+  "formato": "9:16",
+  "resolucao": "720",
+  "hook": {"tipo": "antes", "video": "<hooks>/YARA-BF-H1_seedance_ovl.mp4"},
+  "legenda_hook": {"fonte": "transcrever", "idioma": "es",
+                   "corrigir": [["(?i)\\byara\\s*(moi|mua)\\b", "Yara Moi"], ["(?i)\\b(llara|iara|jara)\\b", "Yara"], ["(?i)\\belixir\\b", "Elixir"]]},
+  "corpo": "<corpo>/corpo_ovl.mp4",
+  "legenda": {"fonte": "alinhamento:<audio>/narr_corpo_cta.alinhamento.json", "idioma": "es",
+              "chaves": ["kit", "Yara", "vainilla", "pega", "Moi", "jazmín", "cita", "Elixir", "frutilla", "noche", "cien", "tres", "gratis", "pedido", "recibas"]},
+  "cta": {"palavra": "pedido", "y": 1190},
+  "limite_mb": 30,
+
+  "_narracao": {
+    "texto": "roteiro.json → corpo_texto_tts + cta.fala (um único arquivo de TTS para o alinhamento sair contínuo)",
+    "comando": "python ferramentas/tts_elevenlabs.py --arquivo <audio>/narr_corpo_cta.txt -o <audio>/narr_corpo_cta.mp3 --voz <voice_id ES feminina>",
+    "obs": "Voz feminina latina/chilena a escolher (a do kit 'uHo8F3FY11rc2LxCwDSB' é a chilena registrada — conferir se é feminina antes). Custo ~US$0,165/1.000 caracteres (~800 caracteres ≈ US$0,13). NÃO gerado."
+  },
+  "_corpo": {
+    "comando": "python ferramentas/video.py takes <audio>/narr_corpo_cta.mp3 <takes>/t01.mp4 <takes>/t02.mp4 ... -o <corpo>/corpo.mp4",
+    "obs": "Takes reais de unboxing (mãos) dos 3 frascos, 4–5 s cada, sem repetir; nos últimos ~8 s (CTA) usar o cartão final (fim_cartao)."
+  },
+  "fim_cartao": {
+    "obs": "Cartão final cobre a imagem durante a fala do CTA (áudio da narração segue). Ajuste <ini_cta> = início da frase 'Llévate los tres' no alinhamento.",
+    "comando": "ffmpeg -i <corpo>/corpo.mp4 -loop 1 -i cta_final.png -filter_complex \"[1:v]scale=1080:1920,format=yuv420p[c];[0:v][c]overlay=0:0:enable='gte(t,<ini_cta>)'[v]\" -map [v] -map 0:a -c:v libx264 -crf 18 -preset medium -c:a copy -shortest <corpo>/corpo_cta.mp4"
+  },
+  "_pre_overlays": {
+    "obs": "Banner no topo esquerdo o vídeo todo; sticker no rodapé até o início do cartão final; selo BF no topo direito só no hook (o cartão final já tem o preço). Corpo em 1080x1920 → PNGs ×1,5.",
+    "corpo": "ffmpeg -i <corpo>/corpo_cta.mp4 -i banner_topo.png -i sticker_kit.png -filter_complex \"[1:v]scale=iw*1.5:-1[b];[2:v]scale=iw*1.5:-1[s];[0:v][s]overlay=(W-w)/2:H-h-105:enable='lt(t,<ini_cta>)'[v1];[v1][b]overlay=24:24[v]\" -map [v] -map 0:a -c:v libx264 -crf 18 -c:a copy -color_range tv -colorspace bt709 -color_primaries bt709 -color_trc bt709 <corpo>/corpo_ovl.mp4",
+    "hook": "ffmpeg -i <hooks>/YARA-BF-H1_seedance.mp4 -i banner_topo.png -i selo_bf.png -i sticker_kit.png -filter_complex \"[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30[h];[1:v]scale=iw*1.5:-1[b];[2:v]scale=iw*1.5:-1[e];[3:v]scale=iw*1.5:-1[s];[h][s]overlay=(W-w)/2:H-h-105[v1];[v1][b]overlay=24:24[v2];[v2][e]overlay=W-w-24:210[v]\" -map [v] -map 0:a -c:v libx264 -crf 18 -c:a aac -ar 48000 -ac 2 -color_range tv -colorspace bt709 -color_primaries bt709 -color_trc bt709 <hooks>/YARA-BF-H1_seedance_ovl.mp4",
+    "atencao": "No hook o sticker do rodapé pode cobrir os frascos da bancada: se cobrir, tirar o sticker do hook (só banner + selo). Conferir o rosto: nada sobre o rosto da consultora."
+  },
+  "_revisao": "python ferramentas/revisar_ad.py \"<saida>\" --idioma es --saida <pasta_revisao>  (rodar pelo PowerShell; folha de contato + whisper + salto de pts)"
+}

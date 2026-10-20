@@ -1,0 +1,23 @@
+{
+  "_nota": "Teste do montar.py com placeholders: gancho de teste + b_yara com o audio do gancho. Nao e o AD final.",
+  "saida": "_teste/teste_montar.mp4",
+  "overlays": ".",
+  "sfx": "sfx",
+  "segmentos": [
+    {"video": "../../teste/gancho_teste_v1.mp4", "tipo": "consultora", "de": 0, "ate": 5.2},
+    {"video": "b_yara.mp4", "tipo": "broll", "audio": "../../teste/gancho_teste_v1.mp4", "audio_de": 5.2, "audio_ate": 9.6},
+    {"video": "../../teste/gancho_teste_v1.mp4", "tipo": "consultora", "de": 9.6, "ate": 11.07},
+    {"video": "b_moi.mp4", "tipo": "broll", "audio": "../../teste/gancho_teste_v1.mp4", "audio_de": 0.0, "audio_ate": 2.0},
+    {"video": "../../teste/gancho_teste_v1.mp4", "tipo": "consultora", "zoom": "in", "de": 2.0, "ate": 5.2}
+  ],
+  "titulo": {"png": "titulo_abertura.png", "dur": 1.5},
+  "cta": {"png": "cta_final.png", "dur": 2.5},
+  "banner": true,
+  "sticker": true,
+  "selo": {"em": "broll"},
+  "whoosh": true,
+  "pop": true,
+  "legenda": {"modelo": "small", "idioma": "es", "y": 1060},
+  "loudnorm": -15,
+  "limite_mb": 30
+}

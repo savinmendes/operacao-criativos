@@ -1,0 +1,90 @@
+{
+ "ad": "ad03",
+ "corte": 660.0,
+ "saida": "AD 03 - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4",
+ "curto": "AD 03 CURTO - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4",
+ "cortes": "cortes_longo.json",
+ "cortes_curto": "cortes_curto.json",
+ "extras": [
+  {
+   "clipe": "bf/t1_fix.mp4",
+   "inicio": 407.1,
+   "quadros": 86
+  },
+  {
+   "clipe": "bf/t2_fix.mp4",
+   "inicio": 419.0,
+   "quadros": 51
+  },
+  {
+   "clipe": "bf/t3_fix.mp4",
+   "inicio": 420.7,
+   "quadros": 52
+  },
+  {
+   "clipe": "bf/t4_fix.mp4",
+   "inicio": 482.93,
+   "quadros": 122
+  },
+  {
+   "clipe": "leg/L02.mp4",
+   "inicio": 98.9,
+   "quadros": 5
+  },
+  {
+   "clipe": "leg/L03.mp4",
+   "inicio": 113.2667,
+   "quadros": 3
+  },
+  {
+   "clipe": "leg/L05.mp4",
+   "inicio": 199.0667,
+   "quadros": 18
+  },
+  {
+   "clipe": "leg/L06.mp4",
+   "inicio": 252.3333,
+   "quadros": 9
+  },
+  {
+   "clipe": "leg/L07.mp4",
+   "inicio": 269.4,
+   "quadros": 37
+  },
+  {
+   "clipe": "leg/L08.mp4",
+   "inicio": 322.3,
+   "quadros": 19
+  },
+  {
+   "clipe": "leg/L09.mp4",
+   "inicio": 370.0667,
+   "quadros": 18
+  },
+  {
+   "clipe": "leg/L11.mp4",
+   "inicio": 531.2333,
+   "quadros": 9
+  },
+  {
+   "clipe": "leg/L13.mp4",
+   "inicio": 640.5,
+   "quadros": 11
+  },
+  {
+   "clipe": "leg/L14.mp4",
+   "inicio": 439.5333,
+   "quadros": 30
+  },
+  {
+   "clipe": "leg/L15.mp4",
+   "inicio": 578.6,
+   "quadros": 25
+  },
+  {
+   "clipe": "leg/L16.mp4",
+   "inicio": 138.3333,
+   "quadros": 2
+  }
+ ]
+}

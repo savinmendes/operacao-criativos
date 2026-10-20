@@ -1,0 +1,14 @@
+{
+ "id": "L188",
+ "quadros_heygen": 334,
+ "quadros": 334,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "indice_pausa": 0.12,
+ "checar": "APROVADO",
+ "saida_checar": "LIPSYNC: L188.mp4 (334 quadros, rosto em 100%, rosto 230,143,175,205 [único rosto])\n  boca x original: dif. boca 9.19 | dif. controle 0.34 | mudou em 100% dos quadros | corr. abertura saída x original 0.18\n  pausas da voz nova: índice de pausa 0.12 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.42 (atraso 0 ms) | corr. original -\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.12)"
+}

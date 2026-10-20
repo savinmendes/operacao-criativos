@@ -1,0 +1,99 @@
+TEXTOS DOS ANÚNCIOS — PODADORA INALÁMBRICA CÉSPED RUEDAS · CHILE
+Botão CTA: SHOP_NOW ("Comprar") — o vídeo manda "Toca el botón de abajo"
+Link: [loja Chile — preencher]   ·   Conta: [preencher]
+Nome no Meta: conjunto = anúncio = "AD NN"
+Oferta usada: pago contra entrega · despacho gratis · 90 días de garantía (sem preço no vídeo/texto).
+Compliance: sem promessa de resultado, sem hora do dia.
+
+------------------------------------------------------------
+AD 01 — AD 01 - PODADORA-INALAMBRICA-JARDINERO-ES-CL.mp4
+TÍTULO: Sin jardinero, sin bencina
+TEXTO:
+Me dijeron que necesitaba un jardinero… y encontré esto. 🌿
+Podadora inalámbrica de césped con ruedas: sin bencina, sin cables y con 2 baterías de 21 V.
+Despacho gratis, pagas al recibir y 90 días de garantía.
+👇 Toca "Comprar" y pide la tuya.
+
+------------------------------------------------------------
+AD 02 — AD 02 - PODADORA-INALAMBRICA-PERRO-ES-CL.mp4
+TÍTULO: Cortapasto, orilladora y bordeadora en uno
+TEXTO:
+Un hueso… y mi perro se cambió de equipo. 😂
+Pesa unos 4,5 kg, las ruedas cargan el peso y la cuchilla de metal corta pasto grueso y maleza.
+Despacho gratis, pagas al recibir y 90 días de garantía.
+👇 Toca "Comprar" y pide la tuya.
+
+------------------------------------------------------------
+AD 03 — AD 03 - PODADORA-INALAMBRICA-AUMENTO-ES-CL.mp4
+TÍTULO: Olvídate del hilo que se corta
+TEXTO:
+Quien inventó esto merece un aumento. 🙌
+Podadora inalámbrica con ruedas y cuchilla de metal: la usas con una sola mano.
+Despacho gratis, pagas al recibir y 90 días de garantía.
+👇 Toca "Comprar" y pide la tuya.
+
+------------------------------------------------------------
+AD 04 — AD 04 - PODADORA-INALAMBRICA-DEVOLVER-ES-CL.mp4
+TÍTULO: Ya no la devuelvo
+TEXTO:
+Llegó la caja… y ya no la pienso devolver. 📦😅
+Cortapasto, orilladora y bordeadora en uno, inalámbrica y con 2 baterías de 21 V.
+Despacho gratis, pagas al recibir y 90 días de garantía.
+👇 Toca "Comprar" y pide la tuya.
+
+============================================================
+VARIAÇÕES (matriz gancho × corpo) — testar 1 variável por vez
+Ganchos: JARDINERO · PERRO · AUMENTO · DEVOLVER | Corpos: FUNCIONES (A) · CUCHILLA (B) · KIT (C)
+============================================================
+
+AD 05 — AD 05 - PODADORA-INALAMBRICA-JARDINERO-CUCHILLA-ES-CL.mp4
+TÍTULO: Olvídate del hilo que se corta
+TEXTO: Me dijeron que necesitaba un jardinero… y encontré esto. 🌿
+3 en 1 con cuchilla de metal y ruedas: la usas con una sola mano.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 06 — AD 06 - PODADORA-INALAMBRICA-JARDINERO-KIT-ES-CL.mp4
+TÍTULO: Mira todo lo que trae la caja
+TEXTO: Me dijeron que necesitaba un jardinero… y encontré esto. 📦
+Trae 2 baterías de 21 V y varias cuchillas de metal. Ajustas ángulo y altura.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 07 — AD 07 - PODADORA-INALAMBRICA-PERRO-CUCHILLA-ES-CL.mp4
+TÍTULO: Hasta el perro se cambió de equipo
+TEXTO: Un hueso… y mi perro se cambió de equipo. 😂
+Cortapasto, orilladora y bordeadora en uno, con cuchilla de metal reforzada.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 08 — AD 08 - PODADORA-INALAMBRICA-PERRO-KIT-ES-CL.mp4
+TÍTULO: Todo viene en la caja
+TEXTO: Un hueso… y mi perro se cambió de equipo. 😂
+Podadora inalámbrica con ruedas, 2 baterías de 21 V y cuchillas de metal.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 09 — AD 09 - PODADORA-INALAMBRICA-AUMENTO-FUNCIONES-ES-CL.mp4
+TÍTULO: Sin bencina, sin cables, sin cuerda
+TEXTO: Quien inventó esto merece un aumento. 🙌
+Pones la batería y listo: con ruedas, solo la vas guiando por el pasto alto.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 10 — AD 10 - PODADORA-INALAMBRICA-AUMENTO-KIT-ES-CL.mp4
+TÍTULO: Mira todo lo que trae la caja
+TEXTO: Quien inventó esto merece un aumento. 🙌
+2 baterías de 21 V, cuchillas de metal y ruedas que cargan el peso.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 11 — AD 11 - PODADORA-INALAMBRICA-DEVOLVER-FUNCIONES-ES-CL.mp4
+TÍTULO: Ya no la devuelvo
+TEXTO: Llegó la caja… y ya no la pienso devolver. 📦😅
+Inalámbrica, con ruedas y perfecta para rejas, veredas y rincones del patio.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+AD 12 — AD 12 - PODADORA-INALAMBRICA-DEVOLVER-KIT-ES-CL.mp4
+TÍTULO: Todo lo que trae la caja
+TEXTO: Llegó la caja… y ya no la pienso devolver. 📦😅
+2 baterías de 21 V, cuchillas de metal y ajuste de ángulo y altura.
+Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca "Comprar".
+
+============================================================
+ESTÁTICOS (pasta estaticos/) — feed 4:5 (01–07) e carrossel 1:1 (carrusel_1→4, nessa ordem)
+Texto sugerido para todos: "Podadora inalámbrica de césped con ruedas 🌿 Despacho gratis, pagas al recibir y 90 días de garantía. 👇 Toca 'Comprar'."

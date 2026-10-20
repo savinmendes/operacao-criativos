@@ -1,0 +1,696 @@
+{
+ "tema": "problema",
+ "gerado_em": "2026-10-15",
+ "flow_elevenlabs": "LjMnVUYPlmTERnBEXaVE",
+ "formato": "720x1280 30fps H.264 CRF22 sem audio, bt601/tv",
+ "takes": [
+  {
+   "arquivo": "problema_01_contas-mesa-cozinha.mp4",
+   "descricao": "Mulher ~50 com a mão sobre pilha de envelopes e papéis em branco na mesa da cozinha, lâmpada nua à noite",
+   "tags": [
+    "contas",
+    "envelopes",
+    "mesa",
+    "cozinha",
+    "noite",
+    "lampada",
+    "mulher",
+    "50+",
+    "maos"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_02_maos-contando-moedas.mp4",
+   "descricao": "Homem ~60 contando poucas moedas na mesa de madeira, close nas mãos, luz de lampião",
+   "tags": [
+    "moedas",
+    "maos",
+    "homem",
+    "60+",
+    "dinheiro",
+    "noite",
+    "close"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_03_carteira-vazia.mp4",
+   "descricao": "Mulher ~45 abre carteira de couro vazia na mesa da cozinha à noite",
+   "tags": [
+    "carteira",
+    "vazia",
+    "dinheiro",
+    "mulher",
+    "40+",
+    "noite",
+    "maos"
+   ],
+   "duracao_s": 4.2,
+   "in_s": 0.0,
+   "out_s": 4.2,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 4.2
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": "ponta final cortada (carteira fechava/degradava)"
+  },
+  {
+   "arquivo": "problema_04_geladeira-vazia.mp4",
+   "descricao": "Mãe ~45 olha geladeira quase vazia, luz fria da geladeira no rosto, cozinha escura",
+   "tags": [
+    "geladeira",
+    "fome",
+    "cozinha",
+    "mulher",
+    "40+",
+    "noite",
+    "luz-fria"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_05_homem-beira-cama.mp4",
+   "descricao": "Homem ~55 sentado na beira da cama de madrugada, esfrega o rosto, luar azul",
+   "tags": [
+    "insonia",
+    "madrugada",
+    "homem",
+    "50+",
+    "quarto",
+    "luz-fria",
+    "desespero"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_06_mulher-janela-chorando.mp4",
+   "descricao": "Mulher ~60 chora olhando pela janela com chuva, perfil em close",
+   "tags": [
+    "choro",
+    "janela",
+    "chuva",
+    "mulher",
+    "60+",
+    "tristeza",
+    "close"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_07_mercearia-vazia.mp4",
+   "descricao": "Dono ~50 de mercearia de bairro espera atrás do balcão, sem clientes",
+   "tags": [
+    "negocio",
+    "loja",
+    "vazia",
+    "homem",
+    "50+",
+    "dia",
+    "sem-clientes"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_08_banca-feira-vazia.mp4",
+   "descricao": "Feirante ~65 sentada sozinha ao lado da banca de frutas em feira vazia, céu nublado",
+   "tags": [
+    "feira",
+    "banca",
+    "vazia",
+    "mulher",
+    "60+",
+    "dia",
+    "nublado",
+    "sem-clientes"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_09_salao-vazio.mp4",
+   "descricao": "Cabeleireira ~40 de braços cruzados no salão vazio, olha a porta",
+   "tags": [
+    "salao",
+    "negocio",
+    "vazio",
+    "mulher",
+    "40+",
+    "dia",
+    "sem-clientes"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_10_porta-aco-cadeado.mp4",
+   "descricao": "Porta de aço de loja fechada com cadeado, rua molhada à noite, luz de poste laranja",
+   "tags": [
+    "porta-de-aco",
+    "cadeado",
+    "fechado",
+    "falencia",
+    "noite",
+    "chuva",
+    "rua"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_11_celular-sem-mensagens.mp4",
+   "descricao": "Mão de homem ~50 segura celular de tela apagada/vazia no quarto escuro",
+   "tags": [
+    "celular",
+    "solidao",
+    "sem-mensagens",
+    "homem",
+    "noite",
+    "maos"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_12_casal-discutindo-costas.mp4",
+   "descricao": "Casal ~45 de costas na cozinha, afastados em silêncio tenso após discussão",
+   "tags": [
+    "casal",
+    "briga",
+    "discussao",
+    "costas",
+    "cozinha",
+    "noite",
+    "lampada"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_13_idoso-sozinho-mesa.mp4",
+   "descricao": "Idoso ~75 come sozinho com um prato, cadeiras vazias, entardecer",
+   "tags": [
+    "idoso",
+    "solidao",
+    "mesa",
+    "prato",
+    "70+",
+    "entardecer"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_14_mulher-chuva-noite.mp4",
+   "descricao": "Mulher ~50 caminha sozinha na rua molhada sob chuva à noite, de costas",
+   "tags": [
+    "chuva",
+    "noite",
+    "rua",
+    "mulher",
+    "50+",
+    "solidao",
+    "costas"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_15_calendario-riscado.mp4",
+   "descricao": "Calendário de parede só com grade e X vermelhos, sem números, luz de lâmpada",
+   "tags": [
+    "calendario",
+    "dias",
+    "tempo",
+    "espera",
+    "parede",
+    "noite"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_16_maos-segurando-cabeca.mp4",
+   "descricao": "Homem ~40 com as mãos na cabeça, olhos fechados, mesa à noite",
+   "tags": [
+    "desespero",
+    "maos",
+    "cabeca",
+    "homem",
+    "40+",
+    "noite",
+    "lampada",
+    "close"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_17_chuva-janela.mp4",
+   "descricao": "Gotas de chuva escorrendo na janela à noite, luzes da rua desfocadas",
+   "tags": [
+    "chuva",
+    "janela",
+    "noite",
+    "melancolia",
+    "sem-pessoas"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_18_idosa-papel-mesa.mp4",
+   "descricao": "Avó ~68 de óculos lê papel em branco e o abaixa na mesa, preocupada, abajur",
+   "tags": [
+    "idosa",
+    "contas",
+    "papel",
+    "envelopes",
+    "60+",
+    "noite",
+    "abajur",
+    "preocupacao"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 4432.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": "video regerado 1x (papel sumia na 1a versao)"
+  },
+  {
+   "arquivo": "problema_19_pote-moedas.mp4",
+   "descricao": "Mulher ~40 esvazia pote de vidro e caem poucas moedas na mesa",
+   "tags": [
+    "moedas",
+    "pote",
+    "economias",
+    "mulher",
+    "40+",
+    "noite",
+    "maos"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_20_homem-janela-noite.mp4",
+   "descricao": "Silhueta de homem ~60 com a mão no vidro da janela, chuva, luz fria",
+   "tags": [
+    "janela",
+    "silhueta",
+    "homem",
+    "60+",
+    "noite",
+    "chuva",
+    "costas"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_21_idosa-sozinha-sofa.mp4",
+   "descricao": "Idosa ~72 sozinha no sofá da sala ao entardecer, olha para a janela",
+   "tags": [
+    "idosa",
+    "solidao",
+    "sofa",
+    "sala",
+    "70+",
+    "entardecer",
+    "abajur"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_22_rua-lojas-fechadas.mp4",
+   "descricao": "Rua de bairro vazia à noite após chuva, lojas com portas de aço fechadas",
+   "tags": [
+    "rua",
+    "lojas-fechadas",
+    "noite",
+    "chuva",
+    "crise",
+    "sem-pessoas"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_23_homem-ponto-onibus-chuva.mp4",
+   "descricao": "Homem ~50 sentado sozinho no ponto de ônibus sob chuva forte à noite",
+   "tags": [
+    "chuva",
+    "noite",
+    "ponto-de-onibus",
+    "homem",
+    "50+",
+    "solidao"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_24_despensa-vazia.mp4",
+   "descricao": "Mão de mulher abre armário quase vazio com dois potes, à noite",
+   "tags": [
+    "despensa",
+    "armario",
+    "vazio",
+    "fome",
+    "mulher",
+    "noite",
+    "maos"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_25_mulher-insonia-cama.mp4",
+   "descricao": "Mulher ~50 acordada na cama olhando o teto, marido dormindo, vista de cima",
+   "tags": [
+    "insonia",
+    "cama",
+    "casal",
+    "mulher",
+    "50+",
+    "noite",
+    "luz-fria",
+    "plongee"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_26_oficina-vazia.mp4",
+   "descricao": "Marceneiro ~55 parado sentado num caixote na oficina sem trabalho, feixe de luz",
+   "tags": [
+    "oficina",
+    "marcenaria",
+    "desemprego",
+    "homem",
+    "50+",
+    "dia",
+    "sem-clientes"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_27_maos-idosas-papel.mp4",
+   "descricao": "Mãos enrugadas de idosa ~75 segurando papel dobrado em branco no colo",
+   "tags": [
+    "maos",
+    "idosa",
+    "papel",
+    "70+",
+    "dia-chuvoso",
+    "close"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_28_casal-silencio-mesa.mp4",
+   "descricao": "Casal ~60 à mesa da cozinha em silêncio, ele esfrega a testa, ela olha a parede",
+   "tags": [
+    "casal",
+    "silencio",
+    "mesa",
+    "cozinha",
+    "60+",
+    "noite",
+    "lampada"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_29_homem-escada-noite.mp4",
+   "descricao": "Homem ~42 sentado na escada da casa à noite sob lâmpada da varanda, pensativo",
+   "tags": [
+    "homem",
+    "40+",
+    "escada",
+    "varanda",
+    "noite",
+    "preocupacao"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  },
+  {
+   "arquivo": "problema_30_mulher-vela-apagao.mp4",
+   "descricao": "Mulher ~55 com o rosto nas mãos à luz de vela durante apagão, envelopes ao lado",
+   "tags": [
+    "apagao",
+    "vela",
+    "choro",
+    "mulher",
+    "50+",
+    "noite",
+    "envelopes"
+   ],
+   "duracao_s": 5.03,
+   "in_s": 0.0,
+   "out_s": 5.03,
+   "corte_do_bruto": {
+    "in": 0.0,
+    "out": 5.03
+   },
+   "creditos": 2311.4,
+   "modelos": "gpt-image-2.5-sunburst (1K 9:16) + kling-2.5-turbo i2v 5s 9:16",
+   "obs": ""
+  }
+ ],
+ "creditos_total": 71463.0
+}

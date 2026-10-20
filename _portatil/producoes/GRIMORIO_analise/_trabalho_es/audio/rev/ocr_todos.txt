@@ -1,0 +1,2037 @@
+0.0	VIDEOFICTICIO
+0.0	EL PADREPABLOLOVAA
+0.0	REVELARTODO ENVIVO
+0.0	GENTE
+0.5	VIDEOFICTICIO
+0.5	EL PADREPABLOLOVAA
+0.5	REVELARTODO ENVIVO
+0.5	GENTE
+1.0	VIDEOFICTICIO
+1.0	EL PADREPABLOLOVAA
+1.0	REVELARTODOENVIVO
+1.0	ESTAN TRATANDO DE
+1.5	VIDEOFICTICIO
+1.5	EL PADREPABLOLOVAA
+1.5	REVELARTODO EN VIVO
+1.5	IMPEDIR QUE ESTE
+2.0	VIDEOFICTICIO
+2.0	EL PADREPABLOLOVAA
+2.0	REVELARTODOENVIVO
+2.0	SACERDOTE AYUDE A
+2.5	VIDEOFICTICIO
+2.5	EL PADREPABLOLOVAA
+2.5	REVELARTODOENVIVO
+2.5	SACERDOTE AYUDE A
+3.0	VIDEOFICTICIO
+3.0	EL PADRE PABLOLOVAA
+3.0	REVELARTODOENVIVO
+3.0	SACERDOTE AYUDE A
+3.5	VIDEOFICTICIO
+3.5	EL PADRE PABLO LOVAA
+3.5	REVELARTODOENVIVO
+3.5	NUESTRA GENTE
+4.0	VIDEOFICTICIO
+4.0	EL PADREPABLOLOVAA
+4.0	REVELARTODOENVIVO
+4.0	NUESTRA GENTE
+4.5	VIDEOFICTICIO
+4.5	EL PADREPABLOLOVAA
+4.5	REVELARTODO EN VIVO
+4.5	GRABEN
+5.0	VIDEOFICTICIO
+5.0	EL PADREPABLOLOVAA
+5.0	REVELARTODOENVIVO
+5.0	NO QUIEREN QUE
+5.5	VIDEOFICTICIO
+5.5	EL PADREPABLOLOVAA
+5.5	REVELARTODOENVIVO
+5.5	NO QUIEREN QUE
+6.0	VIDEOFICTICIO
+6.0	EL PADREPABLOLOVAA
+6.0	REVELARTODOENVIVO
+6.0	EL PUEBLO PROSPERE
+6.5	VIDEOFICTICIO
+6.5	EL PADREPABLOLOVAA
+6.5	REVELARTODOENVIVO
+6.5	EL PUEBLO PROSPERE
+7.0	VIDEOFICTICIO
+7.0	EL PADRE PABLOLOVAA
+7.0	REVELARTODOENVIVO
+7.0	EL PUEBLO PROSPERE
+7.5	VIDEOFICTICIO
+7.5	ES INDIGNANTE VER
+8.0	VIDEOFICTICIO
+8.0	ES INDIGNANTE
+8.0	VER
+8.5	VIDEOFICTICIO
+8.5	LO QUE ME
+9.0	VIDEOFICTICIO
+9.0	HICIERON SOLO PORQUE
+9.5	VIDEOFICTICIO
+9.5	HICIERON SOLO PORQUE
+10.0	VIDEOFICTICIO
+10.0	ENSENE
+10.0	UNA ORACION
+10.5	VIDEOFICTICIO
+10.5	ENSENE UNA ORACION
+11.0	VIDEOFICTICIO
+11.0	QUE PODRiA BENDECIR
+11.5	VIDEOFICTICIO
+11.5	QUE PODRiA BENDECIR
+12.0	VIDEOFICTICIO
+12.0	AYUDAR A
+12.5	VIDEOFICTICIO
+12.5	MUCHAS PERSONAS
+13.0	VIDEOFICTICIO
+13.0	MUCHAS PERSONAS
+13.5	VIDEOFICTICIO
+13.5	MUCHAS PERSONAS
+14.0	VIDEOFICTICIO
+14.0	PERO LA VERDAD
+14.5	VIDEOFICTICIO
+14.5	PERO LA VERDAD
+15.0	VIDEOFICTICIO
+15.0	QUEDAR ESCONDIDA
+15.5	VIDEOFICTICIO
+15.5	QUEDAR ESCONDIDA
+16.0	VIDEOFICTICIO
+16.0	QUEDAR ESCONDIDA
+16.5	VIDEOFICTICIO
+16.5	LE ENSENE
+16.5	ESTA
+17.0	VIDEOFICTICIO
+17.0	ORACION A MI
+17.5	VIDEOFICTICIO
+17.5	AMIGO
+18.0	VIDEOFICTICIO
+18.0	EL PADRE PABLO
+18.5	VIDEOFICTICIO
+18.5	EL PADRE PABLO
+19.0	VIDEOFICTICIO
+19.0	VA A REVELAR
+19.5	VIDEOFICTICIO
+19.5	VA A REVELAR
+20.0	VIDEOFICTICIO
+20.0	EN UNA TRANSMISION
+20.5	VIDEOFICTICIO
+20.5	EN VIVO
+21.0	VIDEOFICTICIO
+21.0	EN VIVO
+21.5	VIDEOFICTICIO
+21.5	EN VIVO
+22.0	VIDEOFICTICIO
+22.0	padre.pablo_
+22.0	LIVE
+22.0	LIVE
+22.0	Prestenmucha atencion
+22.5	VIDEOFICTICIO
+22.5	padre.pablo_
+22.5	LIVE
+22.5	LIVE
+22.5	Presten mucha atencion
+23.0	VIDEOFICTICIO
+23.0	padre.pablo_
+23.0	LIVE
+23.0	LIVE
+23.0	Presten mucha ateneion
+23.5	VIDEOFICTICIO
+23.5	padre.pablo_
+23.5	LIVE
+23.5	LIVE
+23.5	porgue sera la
+24.0	VIDEOFICTICIO
+24.0	padre.pablo_
+24.0	LIVE
+24.0	LIVE
+24.0	porque sera la
+24.5	VIDEOFICTICIO
+24.5	padre.pablo_
+24.5	LIVE
+24.5	LIVE
+24.5	ultima vez gue
+25.0	VIDEOFICTICIO
+25.0	padre.pablo_
+25.0	LIVE
+25.0	LIVE
+25.0	voy
+25.0	a ensenar
+25.5	VIDEOFICTICIO
+25.5	padre.pablo_
+25.5	LIVE
+25.5	LIVE
+25.5	voy
+25.5	a ensenar
+25.5	KOXW
+25.5	2
+26.0	VIDEOFICTICIO
+26.0	padre.pablo_
+26.0	LIVE
+26.0	LIVE
+26.0	esto en publico
+26.5	VIDEOFICTICIO
+26.5	padre.pablo_
+26.5	LIVE
+26.5	LIVE
+26.5	esto
+26.5	en publico
+27.0	VIDEOFICTICIO
+27.0	padre.pablo_
+27.0	LIVE
+27.0	LIVE
+27.0	a pedido de
+27.5	VIDEOFICTICIO
+27.5	padre.pablo_
+27.5	LIVE
+27.5	LIVE
+27.5	miamigoel
+27.5	3
+28.0	VIDEOFICTICIO
+28.0	padre.pablo_
+28.0	LIVE
+28.0	LIVE
+28.0	miamig
+28.0	el
+28.0	KX
+28.5	VIDEOFICTICIO
+28.5	padre.pablo_
+28.5	LIVE
+28.5	LIVE
+28.5	padreJoe
+29.0	VIDEOFICTICIO
+29.0	padre.pablo_
+29.0	LIVE
+29.0	LIVE
+29.0	padre
+29.5	VIDEOFICTICIO
+29.5	padre.pablo_
+29.5	LIVE
+29.5	LIVE
+29.5	a quien intentaron
+30.0	VIDEOFICTICIO
+30.0	padre.pablo_
+30.0	LIVE
+30.0	LIVE
+30.0	X
+30.0	a quien intentaro
+30.5	VIDEOFICTICIO
+30.5	padre.pablo_
+30.5	LIVE
+30.5	LIVE
+30.5	silencia
+31.0	VIDEOFICTICIO
+31.0	padre.pablo
+31.0	LIVE
+31.0	LIVE
+31.0	silenciar
+31.5	VIDEOFICTICIO
+31.5	padre.pablo_
+31.5	LIVE
+31.5	LIVE
+31.5	silenciar
+32.0	VIDEOFICTICIO
+32.0	padre.pablo_
+32.0	LIVE
+32.0	LIVE
+32.5	VIDEOFICTICIO
+32.5	padre.pablo_
+32.5	LIVE
+32.5	LIVE
+33.0	VIDEOFICTICIO
+33.0	padre.pablo_
+33.0	LIVE
+33.0	LIVE
+33.0	Oh poderoso
+33.0	Sar
+33.5	VIDEOFICTICIO
+33.5	padre.pablo
+33.5	LIVE
+33.5	LIVE
+33.5	Oh poderoso San
+34.0	VIDEOFICTICIO
+34.0	padre.pablo
+34.0	LIVE
+34.0	LIVE
+34.0	十
+34.0	Benito
+34.5	VIDEOFICTICIO
+34.5	padre.pablo
+34.5	LIVE
+34.5	LIVE
+34.5	guardian de los
+35.0	VIDEOFICTICIO
+35.0	padre.pablo_
+35.0	LIVE
+35.0	LIVE
+35.0	guardian de los
+35.5	VIDEOFICTICIO
+35.5	padre.pablo_
+35.5	LIVE
+35.5	LIVE
+35.5	arcanos sagrados
+36.0	VIDEOFICTICIO
+36.0	padre.pablo_
+36.0	LIVE
+36.0	LIVE
+36.0	arcanos sagrados
+36.5	VIDEOFICTICIO
+36.5	padre.pablo_
+36.5	LIVE
+36.5	LIVE
+36.5	arcanos sagrados
+37.0	VIDEOFICTICIO
+37.0	pa
+37.0	re.pablo_
+37.0	LIVE
+37.0	LIVE
+37.0	que venciste a
+37.5	VIDEOFICTICIO
+37.5	pablo
+37.5	LIVE
+37.5	LIVE
+37.5	las serpientes con
+38.0	VIDEOFICTICIO
+38.0	pablo
+38.0	LIVE
+38.0	LIVE
+38.0	las serpientes con
+38.5	VIDEOFICTICIO
+38.5	pablo
+38.5	LIVE
+38.5	LIVE
+38.5	las serpientes con
+39.0	VIDEOFICTICIO
+39.0	pablo
+39.0	LIVE
+39.0	LIVE
+39.0	la senal de
+39.5	VIDEOFICTICIO
+39.5	pablo
+39.5	LIVE
+39.5	LIVE
+39.5	la cruz y
+40.0	VIDEOFICTICIO
+40.0	pablo
+40.0	LIVE
+40.0	LIVE
+40.0	callaste el rugido
+40.5	VIDEOFICTICIO
+40.5	padre.pablo_
+40.5	LIVE
+40.5	LIVE
+40.5	callaste el rugido
+41.0	VIDEOFICTICIO
+41.0	padre.pablo_
+41.0	LIVE
+41.0	LIVE
+41.0	callaste elrugid
+41.5	VIDEOFICTICIO
+41.5	padre.pablo_
+41.5	LIVE
+41.5	LIVE
+41.5	AAY
+41.5	de losabismos
+42.0	VIDEOFICTICIO
+42.0	padre.pablo_
+42.0	LIVE
+42.0	LIVE
+42.5	VIDEOFICTICIO
+42.5	padre.pablo_
+42.5	LIVE
+42.5	LIVE
+42.5	con
+42.5	tu fe
+43.0	VIDEOFICTICIO
+43.0	padre.pablo_
+43.0	LIVE
+43.0	LIVE
+43.0	inquebrantable
+43.0	满
+43.5	VIDEOFICTICIO
+43.5	padre.pablo_
+43.5	LIVE
+43.5	LIVE
+43.5	inquebrantable
+44.0	VIDEOFICTICIO
+44.0	padre.pablo_
+44.0	LIVE
+44.0	LIVE
+44.0	Invocoahoralas
+44.5	VIDEOFICTICIO
+44.5	padre.pablc
+44.5	LIVE
+44.5	Invoco ahora las
+45.0	VIDEOFICTICIO
+45.0	padre.pablo
+45.0	LIVE
+45.0	Invoco ahora las
+45.5	VIDEOFICTICIO
+45.5	padre.pablo
+45.5	LIVE
+45.5	doce palabras selladas
+46.0	VIDEOFICTICIO
+46.0	padre.pablo
+46.0	LIVE
+46.0	doce palabras selladas
+46.5	VIDEOFICTICIO
+46.5	padre.pablo
+46.5	LIVE
+46.5	doce palabras selladas
+47.0	VIDEOFICTICIO
+47.0	padre.pable
+47.0	LIVE
+47.0	por tu mano
+47.5	VIDEOFICTICIO
+47.5	padre.pablo
+47.5	LIVE
+47.5	por tu mano
+48.0	VIDEOFICTICIO
+48.0	padre.pablo
+48.0	LIVE
+48.5	VIDEOFICTICIO
+48.5	padre.pablo
+48.5	LIVE
+48.5	LIVE
+48.5	Crux: Cruz
+48.5	Lux:Luz
+48.5	Fides:Fe
+48.5	lgnes:Fuego
+48.5	Veritas:Verdad
+48.5	Silencio: Silencio
+48.5	Glades:Espada
+48.5	Fortitudo:Fortaleza
+48.5	Custodia:Custodia
+48.5	Santitas:Santidad
+48.5	Espiritos:Espiritu
+48.5	Triunfos:Triunfo
+49.0	VIDEOFICTICIO
+49.0	padre.pablo
+49.0	LIVE
+49.0	LIVE
+49.0	Crux:Cruz
+49.0	Lux:Luz
+49.0	Fides:Fe
+49.0	lgnes:Fuego
+49.0	Veritas:Verdad
+49.0	Silencio: Silencio
+49.0	Glades:Espada
+49.0	Fortitudo:Fortaleza
+49.0	Custodia:Custodia
+49.0	Santitas:Santidad
+49.0	Espiritos:Espiritu
+49.0	Triunfos:Triunfo
+49.5	VIDEOFICTICIO
+49.5	padre.pablo
+49.5	LIVE
+49.5	LIVE
+49.5	Crux:Cruz
+49.5	Lux:Luz
+49.5	Fides:Fe
+49.5	lgnes:Fuego
+49.5	Veritas:Verdad
+49.5	Silencio: Silencio
+49.5	Glades:Espada
+49.5	Fortitudo:Fortaleza
+49.5	Custodia:Custodia
+49.5	Santitas:Santidad
+49.5	Espiritos:Espiritu
+49.5	Triunfos:Triunfo
+50.0	VIDEOFICTICIO
+50.0	padre.pablo_
+50.0	LIVE
+50.0	LIVE
+50.0	Crux: Cruz
+50.0	Lux:Luz
+50.0	Fides:Fe
+50.0	Ignes:Fuego
+50.0	Veritas:Verdad
+50.0	Silencio: Silencio
+50.0	Glades:Espada
+50.0	Fortitudo:Fortaleza
+50.0	Custodia:Custodia
+50.0	Santitas:Santidad
+50.0	Espiritos:Espiritu
+50.0	Triunfos:Triunfo
+50.5	VIDEOFICTICIO
+50.5	padre.pablo_
+50.5	LIVE
+50.5	LIVE
+50.5	Crux: Cruz
+50.5	Lux:Luz
+50.5	Fides:Fe
+50.5	Ignes:Fuego
+50.5	Veritas:Verdad
+50.5	Silencio: Silencio
+50.5	Glades:Espada
+50.5	Fortitudo:Fortaleza
+50.5	Custodia:Custodia
+50.5	Santitas:Santidad
+50.5	Espiritos:Espiritu
+50.5	Triunfos:Triunfo
+51.0	VIDEOFICTICIO
+51.0	padre.pablo_
+51.0	LIVE
+51.0	LIVE
+51.0	Crux:Cruz
+51.0	Lux:Luz
+51.0	Fides:Fe
+51.0	Ignes:Fuego
+51.0	Veritas:Verdad
+51.0	Silencio: Silencio
+51.0	Glades:Espada
+51.0	Fortitudo:Fortaleza
+51.0	Custodia:Custodia
+51.0	Santitas:Santidad
+51.0	Espiritos:Espiritu
+51.0	Triunfos:Triunfo
+51.5	VIDEOFICTICIO
+51.5	padre.pablo
+51.5	LIVE
+51.5	LIVE
+51.5	Crux:Cruz
+51.5	Lux:Luz
+51.5	Fides:Fe
+51.5	Ignes:Fuego
+51.5	Veritas:Verdad
+51.5	Silencio: Silencio
+51.5	Glades:Espada
+51.5	Fortitudo:Fortaleza
+51.5	Custodia:Custodia
+51.5	Santitas:Santidad
+51.5	Espiritos:Espiritu
+51.5	Triunfos:Triunfo
+52.0	VIDEOFICTICIO
+52.0	padre.pablo
+52.0	LIVE
+52.0	LIVE
+52.0	Crux:Cruz
+52.0	Lux:Luz
+52.0	Fides:Fe
+52.0	Ignes:Fuego
+52.0	Veritas:Verdad
+52.0	Silencio:Silencio
+52.0	Glades:Espada
+52.0	Fortitudo:Fortaleza
+52.0	Custodia:Custodia
+52.0	Santitas:Santidad
+52.0	Espiritos:Espiritu
+52.0	Triunfos:Triunfo
+52.5	VIDEOFICTICIO
+52.5	padre.pablo
+52.5	LIVE
+52.5	LIVE
+52.5	Crux:Cruz
+52.5	Lux:Luz
+52.5	Fides:Fe
+52.5	Ignes:Fuego
+52.5	Veritas:Verdad
+52.5	Silencio: Silencio
+52.5	Glades:Espada
+52.5	Fortitudo:Fortaleza
+52.5	Custodia:Custodia
+52.5	Santitas:Santidad
+52.5	Espiritos:Espiritu
+52.5	Triunfos:Triunfo
+53.0	VIDEOFICTICIO
+53.0	padre.pablo
+53.0	LIVE
+53.0	LIVE
+53.0	Crux:Cruz
+53.0	Lux:Luz
+53.0	Fides:Fe
+53.0	Ignes:Fuego
+53.0	Veritas:Verdad
+53.0	Silencio:Silencio
+53.0	Glades:Espada
+53.0	Fortitudo:Fortaleza
+53.0	Custodia:Custodia
+53.0	Santitas:Santidad
+53.0	Espiritos:Espiritu
+53.0	Triunfos:Triunfo
+53.5	VIDEOFICTICIO
+53.5	padre.pablo
+53.5	LIVE
+53.5	LIVE
+53.5	Crux:Cruz
+53.5	Lux:Luz
+53.5	Fides:Fe
+53.5	Ignes:Fuego
+53.5	Veritas:Verdad
+53.5	Silencio:Silencio
+53.5	Glades:Espada
+53.5	Fortitudo:Fortaleza
+53.5	Custodia:Custodia
+53.5	Santitas:Santidad
+53.5	Espiritos:Espiritu
+53.5	Triunfos:Triunfo
+54.0	VIDEOFICTICIO
+54.0	padre.pablo
+54.0	LIVE
+54.0	LIVE
+54.0	Crux:Cruz
+54.0	Lux:Luz
+54.0	Fides:Fe
+54.0	Ignes:Fuego
+54.0	Veritas:Verdad
+54.0	Silencio: Silencio
+54.0	Glades:Espada
+54.0	Fortitudo:Fortaleza
+54.0	Custodia:Custodia
+54.0	Santitas:Santidad
+54.0	Espiritos:Espiritu
+54.0	Triunfos:Triunfo
+54.5	VIDEOFICTICIO
+54.5	padre.pablo
+54.5	LIVE
+54.5	LIVE
+54.5	Crux:Cruz
+54.5	Lux:Luz
+54.5	Fides:Fe
+54.5	Ignes:Fuego
+54.5	Veritas:Verdad
+54.5	Silencio: Silencio
+54.5	Glades:Espada
+54.5	Fortitudo:Fortaleza
+54.5	Custodia:Custodia
+54.5	Santitas:Santidad
+54.5	Espiritos:Espiritu
+54.5	Triunfos:Triunfo
+55.0	VIDEOFICTICIO
+55.0	padre.pablo
+55.0	LIVE
+55.0	LIVE
+55.0	Crux:Cruz
+55.0	Lux:Luz
+55.0	Fides:Fe
+55.0	Ignes:Fuego
+55.0	Veritas:Verdad
+55.0	Silencio: Silencio
+55.0	Glades:Espada
+55.0	Fortitudo:Fortaleza
+55.0	Custodia:Custodia
+55.0	Santitas:Santidad
+55.0	Espiritos:Espiritu
+55.0	Triunfos:Triunfo
+55.5	VIDEOFICTICIO
+55.5	padre.pablo
+55.5	LIVE
+55.5	LIVE
+55.5	Crux:Cruz
+55.5	Lux:Luz
+55.5	Fides:Fe
+55.5	Ignes:Fuego
+55.5	Veritas:Verdad
+55.5	Silencio: Silencio
+55.5	Glades:Espada
+55.5	Fortitudo:Fortaleza
+55.5	Custodia:Custodia
+55.5	Santitas:Santidad
+55.5	Espiritos:Espiritu
+55.5	Triunfos:Triunfo
+56.0	VIDEOFICTICIO
+56.0	padre.pablo_
+56.0	LIVE
+56.0	LIVE
+56.0	Crux:Cruz
+56.0	Lux:Luz
+56.0	Fides:Fe
+56.0	Ignes:Fuego
+56.0	Veritas:Verdad
+56.0	Silencio:Silencio
+56.0	Glades: Espada
+56.0	Fortitudo:Fortaleza
+56.0	Custodia:Custodia
+56.0	Santitas:Santidad
+56.0	Espiritos:Espiritu
+56.0	Triunfos:Triunfo
+56.5	VIDEOFICTICIO
+56.5	padre.pablo_
+56.5	LIVE
+56.5	LIVE
+56.5	Crux:Cruz
+56.5	Lux:Luz
+56.5	Fides:Fe
+56.5	lgnes:Fuego
+56.5	Veritas:Verdad
+56.5	Silencio: Silencio
+56.5	Glades:Espada
+56.5	Fortitudo:Fortaleza
+56.5	Custodia:Custodia
+56.5	Santitas:Santidad
+56.5	Espiritos:Espiritu
+56.5	Triunfos:Triunfo
+57.0	VIDEOFICTICIO
+57.0	padre.pablo_
+57.0	LIVE
+57.0	LIVE
+57.0	Crux:Cruz
+57.0	Lux:Luz
+57.0	Fides:Fe
+57.0	lgnes:Fuego
+57.0	Veritas:Verdad
+57.0	Silencio:Silencio
+57.0	Glades: Espada
+57.0	Fortitudo:Fortaleza
+57.0	Custodia: Custodia
+57.0	Santitas:Santidad
+57.0	Espiritos:Espiritu
+57.0	Triunfos:Triunfo
+57.5	VIDEOFICTICIO
+57.5	padre.pablo_
+57.5	LIVE
+57.5	LIVE
+57.5	Crux:Cruz
+57.5	Lux:Luz
+57.5	Fides:Fe
+57.5	lgnes:Fuego
+57.5	Veritas:Verdad
+57.5	Silencio:Silencio
+57.5	Glades: Espada
+57.5	Fortitudo:Fortaleza
+57.5	Custodia:Custodia
+57.5	Santitas:Santidad
+57.5	Espiritos:Espiritu
+57.5	Triunfos:Triunfo
+58.0	VIDEOFICTICIO
+58.0	padre.pablo_
+58.0	LIVE
+58.0	LIVE
+58.0	Crux:Cruz
+58.0	Lux:Luz
+58.0	Fides:Fe
+58.0	lgnes:Fuego
+58.0	Veritas:Verdad
+58.0	Silencio:Silencio
+58.0	Glades: Espada
+58.0	Fortitudo:Fortaleza
+58.0	Custodia:Custodia
+58.0	Santitas:Santidad
+58.0	Espiritos:Espiritu
+58.0	Triunfos:Triunfo
+58.5	VIDEOFICTICIO
+58.5	padre.pablo_
+58.5	LIVE
+58.5	LIVE
+58.5	Crux:Cruz
+58.5	Lux:Luz
+58.5	Fides:Fe
+58.5	lgnes:Fuego
+58.5	Veritas:Verdad
+58.5	Silencio: Silencio
+58.5	Glades:Espada
+58.5	Fortitudo:Fortaleza
+58.5	Custodia:Custodia
+58.5	Santitas:Santidad
+58.5	Espiritos:Espiritu
+58.5	Triunfos:Triunfo
+59.0	VIDEOFICTICIO
+59.0	padre.pablo_
+59.0	LIVE
+59.0	LIVE
+59.0	Crux:Cruz
+59.0	Lux:Luz
+59.0	Fides:Fe
+59.0	lgnes:Fuego
+59.0	Veritas:Verdad
+59.0	Silencio: Silencio
+59.0	Glades:Espada
+59.0	Fortitudo:Fortaleza
+59.0	Custodia:Custodia
+59.0	Santitas:Santidad
+59.0	Espiritos:Espiritu
+59.0	Triunfos:Triunfo
+59.5	VIDEOFICTICIO
+59.5	padre.pablo_
+59.5	LIVE
+59.5	LIVE
+59.5	Crux:Cruz
+59.5	Lux:Luz
+59.5	Fides:Fe
+59.5	lgnes:Fuego
+59.5	Veritas:Verdad
+59.5	Silencio: Silencio
+59.5	Glades: Espada
+59.5	Fortitudo:Fortaleza
+59.5	Custodia:Custodia
+59.5	Santitas:Santidad
+59.5	Espiritos:Espiritu
+59.5	Triunfos:Triunfo
+60.0	VIDEOFICTICIO
+60.0	padre.pablo_
+60.0	LIVE
+60.0	LIVE
+60.0	icles
+60.0	lgnes
+60.0	Verita
+60.0	Silenci
+60.0	Glades
+60.0	rtitudo
+60.0	odia
+60.0	itas
+60.5	VIDEOFICTICIO
+60.5	padre.pablo_
+60.5	LIVE
+60.5	LIVE
+61.0	VIDEOFICTICIO
+61.0	padre.pablo_
+61.0	LIVE
+61.0	LIVE
+61.0	福
+61.5	VIDEOFICTICIO
+61.5	padre.pablo_
+61.5	LIVE
+61.5	LIVE
+61.5	es la poderosisima
+62.0	VIDEOFICTICIO
+62.0	padre.pablo_
+62.0	LIVE
+62.0	LIVE
+62.0	es la poderosisima
+62.5	VIDEOFICTICIO
+62.5	padre.pablo_
+62.5	LIVE
+62.5	LIVE
+62.5	oracion de las
+63.0	VIDEOFICTICIO
+63.0	padre.pablo_
+63.0	LIVE
+63.0	LIVE
+63.0	oracion de las
+63.5	VIDEOFICTICIO
+63.5	padre.pablo_
+63.5	LIVE
+63.5	LIVE
+63.5	doce palabras del
+64.0	VIDEOFICTICIO
+64.0	padre.pablo_
+64.0	LIVE
+64.0	LIVE
+64.0	doce palabras del
+64.5	VIDEOFICTICIO
+64.5	padre.pablo_
+64.5	LIVE
+64.5	LIVE
+64.5	Grimorio Sagrado
+65.0	VIDEOFICTICIO
+65.0	padre.pablo_
+65.0	LIVE
+65.0	LIVE
+65.0	Grimorio Sagrado
+65.5	VIDEOFICTICIO
+65.5	padre.pablo_
+65.5	LIVE
+65.5	LIVE
+65.5	Grimorio Sagrado
+66.0	VIDEOFICTICIO
+66.0	padre.pablo_
+66.0	LIVE
+66.0	LIVE
+66.0	y Secreto de
+66.5	VIDEOFICTICIO
+66.5	padre.pablo_
+66.5	LIVE
+66.5	LIVE
+66.5	y Secreto de
+67.0	VIDEOFICTICIO
+67.0	padre.pablo_
+67.0	LIVE
+67.0	LIVE
+67.0	San Benito
+67.5	VIDEOFICTICIO
+67.5	padre.pablo_
+67.5	LIVE
+67.5	LIVE
+67.5	que esta ayudando
+68.0	VIDEOFICTICIO
+68.0	padre.pablo_
+68.0	LIVE
+68.0	LIVE
+68.0	que esta ayudando
+68.5	VIDEOFICTICIO
+68.5	padre.pablo_
+68.5	LIVE
+68.5	LIVE
+68.5	a muchas familias
+69.0	VIDEOFICTICIO
+69.0	padre.pablo_
+69.0	LIVE
+69.0	LIVE
+69.0	a muchas familias
+69.5	VIDEOFICTICIO
+69.5	padre.pablo_
+69.5	LIVE
+69.5	LIVE
+69.5	hispanas
+70.0	VIDEOFICTICIO
+70.0	padre.pablo_
+70.0	LIVE
+70.0	LIVE
+70.0	hispanas
+70.5	VIDEOFICTICIO
+70.5	padre.pablo_
+70.5	LIVE
+70.5	LIVE
+70.5	y cada dia
+71.0	VIDEOFICTICIO
+71.0	padre.pablo_
+71.0	LIVE
+71.0	LIVE
+71.0	llegan testimonios
+71.5	VIDEOFICTICIO
+71.5	padre.pablo_
+71.5	LIVE
+71.5	LIVE
+71.5	llegan testimonios
+72.0	VIDEOFICTICIO
+72.0	padre.pablo_
+72.0	LIVE
+72.0	LIVE
+72.0	de bendiciones
+72.5	VIDEOFICTICIO
+72.5	padre.pablo_
+72.5	LIVE
+72.5	LIVE
+72.5	de bendiciones
+73.0	VIDEOFICTICIO
+73.0	padre.pablo_
+73.0	LIVE
+73.0	LIVE
+73.0	de bendiciones
+73.5	VIDEOFICTICIO
+73.5	padre.pablo_
+73.5	LIVE
+73.5	LIVE
+74.0	VIDEOFICTICIO
+74.0	padre.pablo_
+74.0	LIVE
+74.0	LIVE
+74.0	Fue escrita por
+74.0	丫
+74.5	VIDEOFICTICIO
+74.5	padre.pablo_
+74.5	LIVE
+74.5	LIVE
+74.5	Fue escrita por
+75.0	VIDEOFICTICIO
+75.0	padre.pablo_
+75.0	LIVE
+75.0	LIVE
+75.0	el propio San
+75.5	VIDEOFICTICIO
+75.5	padre.pablo_
+75.5	LIVE
+75.5	LIVE
+75.5	Benito
+75.5	en
+75.5	su
+76.0	VIDEOFICTICIO
+76.0	padre.pablo_
+76.0	LIVE
+76.0	LIVE
+76.0	Benito en su
+76.5	VIDEOFICTICIO
+76.5	padre.pablo_
+76.5	LIVE
+76.5	LIVE
+76.5	regla
+77.0	VIDEOFICTICIO
+77.0	padre.pablo_
+77.0	LIVE
+77.0	LIVE
+77.0	y se mantuvo
+77.5	VIDEOFICTICIO
+77.5	padre.pablo_
+77.5	LIVE
+77.5	LIVE
+77.5	y se mantuvo
+78.0	VIDEOFICTICIO
+78.0	padre.pablo_
+78.0	LIVE
+78.0	LIVE
+78.0	en secreto durante
+78.5	VIDEOFICTICIO
+78.5	padre.pablo_
+78.5	LIVE
+78.5	LIVE
+78.5	en secreto durante
+79.0	VIDEOFICTICIO
+79.0	padre.pablo_
+79.0	LIVE
+79.0	LIVE
+79.0	918 anos
+79.5	VIDEOFICTICIO
+79.5	padre.pablo_
+79.5	LIVE
+79.5	LIVE
+79.5	918 anos
+80.0	VIDEOFICTICIO
+80.0	padre.pablo_
+80.0	LIVE
+80.0	LIVE
+80.0	918 anos
+80.5	VIDEOFICTICIO
+80.5	padre.pablo_
+80.5	LIVE
+80.5	LIVE
+80.5	918 anos
+81.0	VIDEOFICTICIO
+81.0	padre.pablo_
+81.0	LIVE
+81.0	LIVE
+81.0	918 anos
+81.5	VIDEOFICTICIO
+81.5	padre.pablo_
+81.5	LIVE
+81.5	LIVE
+81.5	918 anos
+82.0	VIDEOFICTICIO
+82.0	padre.pablo_
+82.0	LIVE
+82.0	LIVE
+82.0	lejos de la
+82.5	VIDEOFICTICIO
+82.5	padre.pablo_
+82.5	LIVE
+82.5	LIVE
+82.5	humanidad
+83.0	VIDEOFICTICIO
+83.0	padre.pablo_
+83.0	LIVE
+83.0	LIVE
+83.0	solo un grupo
+83.5	VIDEOFICTICIO
+83.5	padre.pablo_
+83.5	LIVE
+83.5	LIVE
+83.5	solo un grupo
+84.0	VIDEOFICTICIO
+84.0	padre.pablo_
+84.0	LIVE
+84.0	LIVE
+84.0	de monjes tenia
+84.5	VIDEOFICTICIO
+84.5	padre.pablo_
+84.5	LIVE
+84.5	LIVE
+84.5	de monjes tenia
+85.0	VIDEOFICTICIO
+85.0	padre.pablo_
+85.0	LIVE
+85.0	LIVE
+85.0	acceso a esta
+85.5	VIDEOFICTICIO
+85.5	padre.pablo_
+85.5	LIVE
+85.5	LIVE
+85.5	acceso a esta
+86.0	VIDEOFICTICIO
+86.0	padre.pablo_
+86.0	LIVE
+86.0	LIVE
+86.0	oracion completa
+86.5	VIDEOFICTICIO
+86.5	padre.pablo_
+86.5	LIVE
+86.5	LIVE
+86.5	oracion completa
+87.0	VIDEOFICTICIO
+87.0	padre.pablo_
+87.0	LIVE
+87.0	LIVE
+87.0	oracion completa
+87.5	VIDEOFICTICIO
+87.5	padre.pablo_
+87.5	LIVE
+87.5	LIVE
+87.5	Por eso
+87.5	nunca
+88.0	VIDEOFICTICIO
+88.0	padre.pablo_
+88.0	LIVE
+88.0	LIVE
+88.0	Por eso nunca
+88.5	VIDEOFICTICIO
+88.5	padre.pablo_
+88.5	LIVE
+88.5	LIVE
+88.5	habianoidohabla
+89.0	VIDEOFICTICIO
+89.0	padre.pablo_
+89.0	LIVE
+89.0	LIVE
+89.0	habian oido habla
+89.5	VIDEOFICTICIO
+89.5	padre.pablo_
+89.5	LIVE
+89.5	LIVE
+89.5	dee
+89.5	a
+89.5	福十
+90.0	VIDEOFICTICIO
+90.0	padre.pablo_
+90.0	LIVE
+90.0	LIVE
+90.0	Latraj
+90.5	VIDEOFICTICIO
+90.5	padre.pablo_
+90.5	LIVE
+90.5	LIVE
+90.5	Latraje
+91.0	VIDEOFICTICIO
+91.0	padre.pablo_
+91.0	LIVE
+91.0	LIVE
+91.0	un viaje que
+91.5	VIDEOFICTICIO
+91.5	padre.pablo_
+91.5	LIVE
+91.5	LIVE
+91.5	hicealtalia
+92.0	VIDEOFICTICIO
+92.0	padre.pablo_
+92.0	LIVE
+92.0	LIVE
+92.0	hice a ltalia
+92.5	VIDEOFICTICIO
+92.5	padre.pablo_
+92.5	LIVE
+92.5	LIVE
+92.5	para revelar este
+93.0	VIDEOFICTICIO
+93.0	padre.pablo_
+93.0	LIVE
+93.0	LIVE
+93.0	para revelar este
+93.5	VIDEOFICTICIO
+93.5	padre.pablo_
+93.5	LIVE
+93.5	LIVE
+93.5	secreto a nuestra
+94.0	VIDEOFICTICIO
+94.0	padre.pablo_
+94.0	LIVE
+94.0	LIVE
+94.0	secreto a nuestra
+94.5	VIDEOFICTICIO
+94.5	padre.pablo_
+94.5	LIVE
+94.5	LIVE
+94.5	区区
+94.5	gente
+95.0	VIDEOFICTICIO
+95.0	padre.pablo_
+95.0	LIVE
+95.0	LIVE
+95.0	gente
+95.0	学
+95.5	VIDEOFICTICIO
+95.5	padre.pablo_
+95.5	LIVE
+95.5	LIVE
+96.0	VIDEOFICTICIO
+96.0	padre.pablo_
+96.0	LIVE
+96.0	LIVE
+96.0	Yla ultima
+96.5	VIDEOFICTICIO
+96.5	padre.pablo_
+96.5	LIVE
+96.5	LIVE
+96.5	vez que ensené
+96.5	商
+97.0	VIDEOFICTICIO
+97.0	padre.pablo_
+97.0	LIVE
+97.0	LIVE
+97.0	vez gue ensene
+97.0	福
+97.0	5
+97.5	VIDEOFICTICIO
+97.5	padre.pablo_
+97.5	LIVE
+97.5	LIVE
+97.5	esta oracior
+97.5	en
+98.0	VIDEOFICTICIO
+98.0	padre.pablo_
+98.0	LIVE
+98.0	LIVE
+98.0	estaoradlonen
+98.5	VIDEOFICTICIO
+98.5	padre.pablo_
+98.5	LIVE
+98.5	LIVE
+98.5	un congreso
+99.0	VIDEOFICTICIO
+99.0	padre.pablo_
+99.0	LIVE
+99.0	LIVE
+99.0	un.congreso
+99.5	VIDEOFICTICIO
+99.5	padre.pablo_
+99.5	LIVE
+99.5	LIVE
+99.5	recibi mas de
+100.0	VIDEOFICTICIO
+100.0	padre.pablo_
+100.0	LIVE
+100.0	LIVE
+100.0	recibi mas de
+100.5	VIDEOFICTICIO
+100.5	padre.pablo_
+100.5	LIVE
+100.5	LIVE
+100.5	497 testimonios de
+101.0	VIDEOFICTICIO
+101.0	padre.pablo_
+101.0	LIVE
+101.0	LIVE
+101.0	497 testimonios de
+101.5	VIDEOFICTICIO
+101.5	padre.pablo_
+101.5	LIVE
+101.5	LIVE
+101.5	497 testimonios de
+102.0	VIDEOFICTICIO
+102.0	padre.pablo_
+102.0	LIVE
+102.0	LIVE
+102.0	497 testimonios de
+102.5	VIDEOFICTICIO
+102.5	padre.pablo_
+102.5	LIVE
+102.5	LIVE
+102.5	497 testimonios de
+103.0	VIDEOFICTICIO
+103.0	padre.pablo_
+103.0	LIVE
+103.0	LIVE
+103.0	497 testimonios de
+103.5	VIDEOFICTICIO
+103.5	padre.pablo_
+103.5	LIVE
+103.5	LIVE
+103.5	bendiciones al dia
+104.0	VIDEOFICTICIO
+104.0	padre.pablo_
+104.0	LIVE
+104.0	LIVE
+104.0	bendiciones al dia
+104.5	VIDEOFICTICIO
+104.5	padre.pablo_
+104.5	LIVE
+104.5	LIVE
+104.5	siguiente
+105.0	VIDEOFICTICIO
+105.0	padre.pablo_
+105.0	LIVE
+105.0	LIVE
+105.0	siguiente
+105.5	VIDEOFICTICIO
+105.5	padre.pablo_
+105.5	LIVE
+105.5	LIVE
+105.5	Fueincreible
+106.0	VIDEOFICTICIO
+106.0	padre.pablo_
+106.0	LIVE
+106.0	LIVE
+106.0	Fueincreibl
+106.0	e
+106.5	VIDEOFICTICIO
+106.5	padre.pablo_
+106.5	LIVE
+106.5	LIVE
+106.5	Pero atencion
+107.0	VIDEOFICTICIO
+107.0	padre.pablo_
+107.0	LIVE
+107.0	LIVE
+107.0	Pero atencion
+107.5	VIDEOFICTICIO
+107.5	padre.pablo_
+107.5	LIVE
+107.5	LIVE
+107.5	Peroa
+107.5	atencion
+107.5	福
+107.5	Y
+108.0	VIDEOFICTICIO
+108.0	padre.pablo_
+108.0	LIVE
+108.0	LIVE
+108.0	tiene gue hacerse
+108.5	VIDEOFICTICIO
+108.5	padre.pablo_
+108.5	LIVE
+108.5	LIVE
+108.5	etienequehacerse
+108.5	X
+109.0	VIDEOFICTICIO
+109.0	padre.pablo_
+109.0	LIVE
+109.0	LIVE
+109.0	de la form
+109.0	a
+109.5	VIDEOFICTICIO
+109.5	padre.pabTo
+109.5	LIVE
+109.5	LIVE
+109.5	?
+109.5	correcta
+110.0	VIDEOFICTICIO
+110.0	padre.pabto
+110.0	LIVE
+110.0	LIVE
+110.0	?
+110.0	siguiendo las instrucciones
+110.5	VIDEOFICTICIO
+110.5	padre.pab
+110.5	LIVE
+110.5	LIVE
+110.5	?
+110.5	siguiendo las instrucciones
+111.0	VIDEOFICTICIO
+111.0	padre.pab
+111.0	LIVE
+111.0	LIVE
+111.0	?
+111.0	siguiendo las instrucciones
+111.5	VIDEOFICTICIO
+111.5	padre.pable
+111.5	LIVE
+111.5	LIVE
+111.5	?
+111.5	siguiendo las instrucciones
+112.0	VIDEOFICTICIO
+112.0	padre.pablo
+112.0	LIVE
+112.0	LIVE
+112.0	?
+112.0	Porque no es
+112.5	VIDEOFICTICIO
+112.5	padre.pablo
+112.5	LIVE
+112.5	LIVE
+112.5	?
+112.5	Porque no es
+113.0	VIDEOFICTICIO
+113.0	padre.pablo_
+113.0	LIVE
+113.0	LIVE
+113.0	una oracionco
+113.0	mu
+113.5	VIDEOFICTICIO
+113.5	padre.pablo_
+113.5	LIVE
+113.5	LIVE
+113.5	una oracioncomun
+114.0	VIDEOFICTICIO
+114.0	padre.pablo_
+114.0	LIVE
+114.0	LIVE
+114.0	una oracion comun
+114.5	VIDEOFICTICIO
+114.5	padre.pablo_
+114.5	LIVE
+114.5	LIVE
+114.5	tieneinstrucciones
+115.0	VIDEOFICTICIO
+115.0	padre.pablo_
+115.0	LIVE
+115.0	LIVE
+115.0	tieneinstrucciones
+115.5	VIDEOFICTICIO
+115.5	padre.pablo_
+115.5	LIVE
+115.5	LIVE
+115.5	una manera
+115.5	包
+116.0	VIDEOFICTICIO
+116.0	padre.pablo_
+116.0	LIVE
+116.0	LIVE
+116.0	una manera
+116.5	VIDEOFICTICIO
+116.5	padre.pablo_
+116.5	LIVE
+116.5	LIVE
+116.5	correcta de hacerla
+117.0	VIDEOFICTICIO
+117.0	padre.pablo_
+117.0	LIVE
+117.0	LIVE
+117.0	correcta de hacerla
+117.5	VIDEOFICTICIO
+117.5	padre.pablo
+117.5	LIVE
+117.5	LIVE
+117.5	y de escucharla
+118.0	VIDEOFICTICIO
+118.0	padre.pablo
+118.0	LIVE
+118.0	LIVE
+118.0	y de escucharla
+118.5	VIDEOFICTICIO
+118.5	padre.pablo_
+118.5	LIVE
+118.5	LIVE
+118.5	y de escucharla
+119.0	VIDEOFICTICIO
+119.0	padre.pablo_
+119.0	LIVE
+119.0	LIVE
+119.5	VIDEOFICTICIO
+119.5	padre.pablo_
+119.5	LIVE
+119.5	LIVE
+120.0	VIDEOFICTICIO
+120.0	padre.pablo_
+120.0	LIVE
+120.0	LIVE
+120.5	VIDEOFICTICIO
+120.5	padre.pablo_
+120.5	LIVE
+120.5	LIVE
+120.5	Voya pedirle
+120.5	福
+120.5	9
+121.0	VIDEOFICTICIO
+121.0	padre.pablo_
+121.0	LIVE
+121.0	LIVE
+121.0	Voy a pedirl
+121.0	e
+121.0	福
+121.5	VIDEOFICTICIO
+121.5	padre.pablo_
+121.5	LIVE
+121.5	LIVE
+121.5	a la produccion
+122.0	VIDEOFICTICIO
+122.0	padre.pablo_
+122.0	LIVE
+122.0	LIVE
+122.0	a la produccion
+122.5	VIDEOFICTICIO
+122.5	padre.pablo_
+122.5	LIVE
+122.5	LIVE
+122.5	que dei
+122.5	lee
+123.0	VIDEOFICTICIO
+123.0	padre.pablo_
+123.0	LIVE
+123.0	LIVE
+123.0	GrimorioSagrado
+123.5	VIDEOFICTICIO
+123.5	padre.pablo_
+123.5	LIVE
+123.5	LIVE
+123.5	Grimorio Sagrado
+124.0	VIDEOFICTICIO
+124.0	padre.pablo_
+124.0	LIVE
+124.0	LIVE
+124.0	Grimorio Sagrado
+124.5	VIDEOFICTICIO
+124.5	padre.pablo_
+124.5	LIVE
+124.5	LIVE
+124.5	y Secreto de
+125.0	VIDEOFICTICIO
+125.0	padre.pablo_
+125.0	LIVE
+125.0	LIVE
+125.0	San Benit
+125.0	KOXXO
+125.5	VIDEOFICTICIO
+125.5	padre.pablo_
+125.5	LIVE
+125.5	LIVE
+125.5	San Benito
+126.0	VIDEOFICTICIO
+126.0	padre.pablo_
+126.0	LIVE
+126.0	LIVE
+126.0	GRIMORIO
+126.0	SAGRADOYSECRETO
+126.0	DESANBENITO
+126.0	R
+126.0	7
+126.0	P
+126.0	S
+126.0	NDS
+126.0	S
+126.0	MML
+126.0	P
+126.0	B
+126.0	C
+126.0	W
+126.0	NURSIA
+126.0	+COLLAR DE REGALO
+126.0	junto con el
+126.0	TOCA AQUI
+126.0	IABAJO
+126.5	VIDEOFICTICIO
+126.5	padre.pablo_
+126.5	LIVE
+126.5	LIVE
+126.5	GRIMORIO
+126.5	SAGRADOYSECRETO
+126.5	DESANBENITO
+126.5	R
+126.5	7
+126.5	NDS
+126.5	S
+126.5	MML
+126.5	P
+126.5	B
+126.5	W
+126.5	NURSIA
+126.5	+COLLAR DE REGALO
+126.5	junto con el
+126.5	TOCA AQUI
+126.5	IABAJO
+127.0	VIDEOFICTICIO
+127.0	padre.pablo_
+127.0	LIVE
+127.0	IVF
+127.0	GRIMORIO
+127.0	SAGRADOYSECRETO
+127.0	DESANBENITO
+127.0	R
+127.0	S/
+127.0	L
+127.0	NDS
+127.0	S
+127.0	MML
+127.0	P
+127.0	B
+127.0	C
+127.0	W
+127.0	NURSIA
+127.0	+ COLLAR DE REGALO
+127.0	collar de la
+127.0	TOCAAQUI
+127.0	IABAJO
+127.5	VIDEOFICTICIO
+127.5	padre.pablo_
+127.5	LIVE
+127.5	GRIMORIO
+127.5	SAGRADOYSECRETO
+127.5	DESANBENITO
+127.5	IV
+127.5	·R·SI
+127.5	7
+127.5	S
+127.5	NDS
+127.5	S
+127.5	MML
+127.5	B
+127.5	C
+127.5	W
+127.5	NURSIA
+127.5	+COLLAR DE REGALO
+127.5	medalla de San
+127.5	TOCA AQUI ABAJO
+128.0	VIDEOFICTICIO
+128.0	padre.pablo_
+128.0	LIVE
+128.0	GRIMORIO
+128.0	SAGRADOYSECRETO
+128.0	DESANBENITO
+128.0	N·R·SI
+128.0	7
+128.0	S
+128.0	NDS
+128.0	S
+128.0	MML
+128.0	B
+128.0	C
+128.0	W
+128.0	NURSIA
+128.0	+COLLAR DE REGALO
+128.0	medalla de San
+128.0	TOCA AQUI ABAJO
+128.5	VIDEOFICTICIO
+128.5	padre.pablo_
+128.5	LIVE
+128.5	GRIMORIO
+128.5	SAGRADOYSECRETO
+128.5	DESANBENITO
+128.5	7
+128.5	NDS
+128.5	S
+128.5	MML
+128.5	M
+128.5	B
+128.5	W
+128.5	NURSIA
+128.5	+COLLAR DE REGALO
+128.5	Benito de regalo
+128.5	TOCAAQUI ABAJO
+129.0	VIDEOFICTICIO
+129.0	padre.pablo_
+129.0	LIVE
+129.0	GRIMORIO
+129.0	SAGRADOYSECRETO
+129.0	DESANBENITO
+129.0	IV·R·SI
+129.0	7
+129.0	S
+129.0	NDS
+129.0	S
+129.0	MML
+129.0	B
+129.0	C
+129.0	W
+129.0	NURSIA
+129.0	+COLLAR DE REGALO
+129.0	Benito de regalo
+129.0	TOCA AQUI ABAJO
+129.5	VIDEOFICTICIO
+129.5	padre.pablo_
+129.5	LIVE
+129.5	GRIMORIO
+129.5	SAGRADOYSECRETO
+129.5	DESANBENITO
+129.5	P
+129.5	NDS
+129.5	S
+129.5	MML
+129.5	B
+129.5	C
+129.5	W
+129.5	NURSIA
+129.5	+COLLAR DE REGALO
+129.5	disponible en el
+129.5	TOCA AQUI ABAJO
+130.0	VIDEOFICTICIO
+130.0	padre.pablo_
+130.0	LIVE
+130.0	GRIMORIO
+130.0	SAGRADOYSECRETO
+130.0	DESANBENITO
+130.0	S
+130.0	NDS
+130.0	S
+130.0	MML
+130.0	B
+130.0	C
+130.0	W
+130.0	NURSIA
+130.0	+COLLAR DE REGALO
+130.0	disponible en el
+130.0	TOCA AQUI ABAJO
+130.5	VIDEOFICTICIO
+130.5	padre.pablo_
+130.5	LIVE
+130.5	GRIMORIO
+130.5	SAGRADOYSECRETO
+130.5	DESANBENITO
+130.5	NDS
+130.5	S
+130.5	MML
+130.5	B
+130.5	C
+130.5	W
+130.5	NURSIA
+130.5	+COLLAR DE REGALO
+130.5	sitio web
+130.5	TOCA AQUI ABAJO
+131.0	VIDEOFICTICIO
+131.0	padre.pablo_
+131.0	LIVE
+131.0	GRIMORIO
+131.0	SAGRADOYSECRETO
+131.0	DESANBENITO
+131.0	IV·R·SI
+131.0	S
+131.0	NDS
+131.0	S
+131.0	MML
+131.0	B
+131.0	W
+131.0	NURSIA
+131.0	+COLLAR DE REGALO
+131.0	sitio web
+131.0	TOCA AQUI ABAJO
+131.5	VIDEOFICTICIO
+131.5	padre.pablo_
+131.5	LIVE
+131.5	GRIMORIO
+131.5	SAGRADOYSECRETO
+131.5	DESANBENITO
+131.5	IV·R-SI
+131.5	L
+131.5	NDS
+131.5	S
+131.5	MML
+131.5	B
+131.5	S
+131.5	W
+131.5	NURSIA
+131.5	+COLLAR DE REGALO
+131.5	sitio web
+131.5	TOCA AQUI
+131.5	ABAJO
+132.0	VIDEOFICTICIO
+132.0	padre.pablo_
+132.0	LIVE
+132.0	GRIMORIO
+132.0	SAGRADOYSECRETO
+132.0	DESANBENITO
+132.0	IV·R·SI
+132.0	P
+132.0	S
+132.0	NDS
+132.0	S
+132.0	MML
+132.0	P
+132.0	B
+132.0	C
+132.0	W
+132.0	NURSIA
+132.0	+COLLAR DE REGALO
+132.0	para que puedan
+132.0	TOCA AQUI ABAJO
+132.5	VIDEOFICTICIO
+132.5	padre.pablo_
+132.5	LIVE
+132.5	GRIMORIO
+132.5	SAGRADOYSECRETO
+132.5	DESANBENITO
+132.5	IV·R·SI
+132.5	S
+132.5	NDS
+132.5	S
+132.5	MML
+132.5	P
+132.5	B
+132.5	C
+132.5	W
+132.5	B
+132.5	NURSIA
+132.5	+COLLAR DE REGALO
+132.5	hacerlo de la
+132.5	TOCA AQUI
+132.5	ABAJO
+133.0	VIDEOFICTICIO
+133.0	padre.pablo_
+133.0	LIVE
+133.0	GRIMORIO
+133.0	SAGRADOYSECRETO
+133.0	DESANBENITO
+133.0	R·SI
+133.0	S
+133.0	NDS
+133.0	SMML
+133.0	P
+133.0	M
+133.0	B
+133.0	W
+133.0	NURSIA
+133.0	+COLLAR DE REGALO
+133.0	hacerlo de la
+133.0	TOCA AQUI
+133.0	ABAJO
+133.5	VIDEOFICTICIO
+133.5	padre.pablo_
+133.5	LIVE
+133.5	GRIMORIO
+133.5	SAGRADOYSECRETO
+133.5	DESANBENITO
+133.5	R·SI
+133.5	S
+133.5	NDS
+133.5	SMML
+133.5	P
+133.5	B
+133.5	C
+133.5	W
+133.5	NURSIA
+133.5	+COLLAR DE REGALO
+133.5	forma correcta
+133.5	TOCA AQUI
+133.5	ABAJO
+134.0	VIDEOFICTICIO
+134.0	padre.pablo_
+134.0	LIVE
+134.0	GRIMORIO
+134.0	SAGRADOYSECRETO
+134.0	DESANBENITO
+134.0	N·R·SI
+134.0	NDS
+134.0	MML
+134.0	P
+134.0	B
+134.0	W
+134.0	NURSIA
+134.0	+COLLAR DE REGALO
+134.0	forma correcta
+134.0	TOCA AQUI
+134.0	ABAJO
+134.5	VIDEOFICTICIO
+134.5	padre.pablo_
+134.5	LIVE
+134.5	LIVE
+134.5	Pero no
+135.0	VIDEOFICTICIO
+135.0	padre.pablo_
+135.0	LIVE
+135.0	LIVE
+135.0	por cuanto tiempo
+135.5	VIDEOFICTICIO
+135.5	padre.pablo_
+135.5	LIVE
+135.5	LIVE
+135.5	por cuantotiempo
+135.5	3
+135.5	Y
+136.0	VIDEOFICTICIO
+136.0	padre.pablo_
+136.0	LIVE
+136.0	LIVE
+136.0	va a esta
+136.0	福
+136.5	VIDEOFICTICIO
+136.5	padre.pablo_
+136.5	LIVE
+136.5	LIVE
+136.5	disponible
+136.5	福
+136.5	®
+137.0	VIDEOFICTICIO
+137.0	padre.pablo_
+137.0	LIVE
+137.0	LIVE
+137.0	disponible
+137.5	VIDEOFICTICIO
+137.5	padre.pablo_
+137.5	LIVE
+137.5	LIVE
+137.5	Entra mientras todavia
+138.0	VIDEOFICTICIO
+138.0	padre.pablo_
+138.0	LIVE
+138.0	LIVE
+138.0	Entra mientras todavia
+138.5	VIDEOFICTICIO
+138.5	padre.pablo_
+138.5	LIVE
+138.5	LIVE
+138.5	sea posible
+139.0	VIDEOFICTICIO
+139.0	padre.pablo_
+139.0	LIVE
+139.0	LIVE
+139.0	sea posibl
+139.0	福
+139.5	VIDEOFICTICIO
+139.5	padre.pablo_
+139.5	LIVE
+139.5	LIVE
+139.5	seaposib
+140.0	VIDEOFICTICIO
+140.0	padre.pablo_
+140.0	LIVE
+140.0	LIVE
+140.5	VIDEOFICTICIO
+140.5	padre.pablo_
+140.5	LIVE
+140.5	LIVE
+140.5	福
+141.0	VIDEOFICTICIO
+141.0	padre.pablo_
+141.0	LIVE
+141.0	LIVE
+141.0	A partil
+141.5	VIDEOFICTICIO
+141.5	padre.pablo_
+141.5	LIVE
+141.5	LIVE
+141.5	hoyle
+141.5	eVas
+142.0	VIDEOFICTICIO
+142.0	padre.pablo_
+142.0	LIVE
+142.0	LIVE
+142.0	hoy
+142.0	le
+142.0	as
+142.5	VIDEOFICTICIO
+142.5	padre.pablo_
+142.5	LIVE
+142.5	LIVE
+142.5	a entregar
+142.5	®
+143.0	VIDEOFICTICIO
+143.0	padre.pablo_
+143.0	LIVE
+143.0	LIVE
+143.0	Dios tus dificultade
+143.5	VIDEOFICTICIO
+143.5	padre.pablo_
+143.5	LIVE
+143.5	LIVE
+143.5	Dios tus dificultades
+144.0	VIDEOFICTICIO
+144.0	padre.pablo_
+144.0	LIVE
+144.0	LIVE
+144.0	Dios tus dificultades
+144.0	Y
+144.5	VIDEOFICTICIO
+144.5	padre.pablo_
+144.5	LIVE
+144.5	LIVE
+144.5	economicas
+145.0	VIDEOFICTICIO
+145.0	padre.pablo_
+145.0	LIVE
+145.0	LIVE
+145.0	economicas
+145.5	VIDEOFICTICIO
+145.5	padre.pablo_
+145.5	LIVE
+145.5	LIVE
+145.5	economicas
+146.0	VIDEOFICTICIO
+146.0	padre.pablo_
+146.0	LIVE
+146.0	LIVE
+146.0	y le daras
+146.5	VIDEOFICTICIO
+146.5	padre.pablo_
+146.5	LIVE
+146.5	LIVE
+146.5	la bienvenida a
+146.5	G
+147.0	VIDEOFICTICIO
+147.0	padre.pablo_
+147.0	LIVE
+147.0	LIVE
+147.0	la bienvenida a
+147.0	6
+147.0	Y
+147.5	VIDEOFICTICIO
+147.5	padre.pablo_
+147.5	LIVE
+147.5	LIVE
+147.5	una vida prospera
+148.0	VIDEOFICTICIO
+148.0	padre.pablo_
+148.0	LIVE
+148.0	LIVE
+148.0	una vida prospera
+148.5	VIDEOFICTICIO
+148.5	padre.pablo_
+148.5	LIVE
+148.5	LIVE
+148.5	una vida prospera
+149.0	VIDEOFICTICIO
+149.0	padre.pablo_
+149.0	LIVE
+149.0	LIVE
+149.0	Vuelve aqui despues
+149.5	VIDEOFICTICIO
+149.5	padre.pablo_
+149.5	LIVE
+149.5	LIVE
+149.5	Vuelveaqui despues
+149.5	Y
+150.0	VIDEOFICTICIO
+150.0	padre.pablo_
+150.0	LIVE
+150.0	LIVE
+150.0	de siete
+150.5	VIDEOFICTICIO
+150.5	padre.pablo_
+150.5	LIVE
+150.5	LIVE
+150.5	de siete
+150.5	la
+151.0	VIDEOFICTICIO
+151.0	padre.pablo_
+151.0	LIVE
+151.0	LIVE
+151.0	para contarlas
+151.5	VIDEOFICTICIO
+151.5	padre.pablo_
+151.5	LIVE
+151.5	LIVE
+151.5	paracontarlas
+152.0	VIDEOFICTICIO
+152.0	padre.pablo_
+152.0	LIVE
+152.0	LIVE
+152.0	bendiciones que llegaron
+152.5	VIDEOFICTICIO
+152.5	padre.pablo_
+152.5	LIVE
+152.5	LIVE
+152.5	bendiciones quellegaron
+153.0	VIDEOFICTICIO
+153.0	padre.pablo_
+153.0	LIVE
+153.0	LIVE
+153.0	bendiciones que llegaron
+153.0	?
+153.5	VIDEOFICTICIO
+153.5	padre.pablo_
+153.5	LIVE
+153.5	LIVE
+153.5	a tu vida
+154.0	VIDEOFICTICIO
+154.0	padre.pablo_
+154.0	LIVE
+154.0	LIVE
+154.0	a tu vida
+154.5	VIDEOFICTICIO
+154.5	padre.pablo_
+154.5	LIVE
+154.5	LIVE
+154.5	Enviaeste
+154.5	Vlde
+154.5	福
+155.0	VIDEOFICTICIO
+155.0	padre.pablo
+155.0	LIVE
+155.0	LIVE
+155.0	Envia este
+155.0	Video
+155.5	VIDEOFICTICIO
+155.5	padre.pablo_
+155.5	LIVE
+155.5	LIVE
+155.5	Envia este
+156.0	VIDEOFICTICIO
+156.0	padre.pablo
+156.0	LIVE
+156.0	LIVE
+156.0	a quien amas
+156.5	VIDEOFICTICIO
+156.5	padre.pablo
+156.5	LIVE
+156.5	LIVE
+156.5	y haz la
+157.0	VIDEOFICTICIO
+157.0	padre.pablo
+157.0	LIVE
+157.0	LIVE
+157.0	oracion de la
+157.5	VIDEOFICTICIO
+157.5	padre.pablo
+157.5	LIVE
+157.5	LIVE
+157.5	oracion de la
+158.0	VIDEOFICTICIO
+158.0	padre.pablo
+158.0	LIVE
+158.0	LIVE
+158.0	forma correcta
+158.5	VIDEOFICTICIO
+158.5	padre.pablo
+158.5	LIVE
+158.5	LIVE
+158.5	forma correcta

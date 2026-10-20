@@ -1,0 +1,25 @@
+REVISÃO: CESPED-CL_C2_FACEBOOK.mp4
+duração 43.92s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.8 MB
+decodificação: OK
+pts do áudio: 2060 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 16 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 910-976, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C2-FACEBOOK\CESPED-CL_C2_FACEBOOK_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  8.06 Me hicieron famoso por mi pasto, probé con la desforzadora de mi cuñare y el hilo se
+   8.06- 14.34 cortaba cada 5 minutos, hasta que probé esta.
+  14.34- 20.90 Es corta pasto, orilladora y bordeadora, en uno, tienen ruedas, así que la usas con
+  20.90- 27.86 una sola mano, cuchilla de metal reforzada, olvídate de los hilos que se cortan y es
+  27.86- 36.22 Inalámbrica con dos baterías.
+  36.22- 38.62 Despacho gratis a todo Chile.
+  38.62- 42.02 Pagas al recibir y tienes 90 días de garantía.
+  42.02- 43.54 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

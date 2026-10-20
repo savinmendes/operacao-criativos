@@ -1,0 +1,32 @@
+{
+ "arquivo": "VAR 14 - G4-NO-ES-PESO-ES-LODO x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 284.23,
+ "mb": 35.0,
+ "whisper_gancho": "Durante años pensé que era peso de la menopausia. Me equivoqué. No era peso, era lodo. Te cuento cómo lo descubrí.",
+ "whisper_emenda": "era peso, era lodo. Te cuento cómo lo descubrí. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.233333,
+  2.2,
+  3.366667,
+  4.933333,
+  6.4,
+  7.3
+ ],
+ "cortes_plan": [
+  1.233,
+  2.2,
+  3.367,
+  4.933,
+  6.4
+ ],
+ "silencios": [
+  [
+   56.74,
+   57.56
+  ]
+ ],
+ "ok": true
+}

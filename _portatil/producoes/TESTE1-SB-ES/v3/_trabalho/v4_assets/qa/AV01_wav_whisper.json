@@ -1,0 +1,98 @@
+{
+"arquivo": "vo_AV01.wav",
+"whisper": "Y no era la primera vez, yo pensaba que era mala suerte, todas las puertas se me cerraban.",
+"palavras": [
+{
+"w": "Y",
+"ini": 0.0,
+"fim": 0.28
+},
+{
+"w": "no",
+"ini": 0.28,
+"fim": 0.54
+},
+{
+"w": "era",
+"ini": 0.54,
+"fim": 0.82
+},
+{
+"w": "la",
+"ini": 0.82,
+"fim": 1.14
+},
+{
+"w": "primera",
+"ini": 1.14,
+"fim": 1.48
+},
+{
+"w": "vez,",
+"ini": 1.48,
+"fim": 2.1
+},
+{
+"w": "yo",
+"ini": 2.64,
+"fim": 2.86
+},
+{
+"w": "pensaba",
+"ini": 2.86,
+"fim": 3.5
+},
+{
+"w": "que",
+"ini": 3.5,
+"fim": 3.8
+},
+{
+"w": "era",
+"ini": 3.8,
+"fim": 4.1
+},
+{
+"w": "mala",
+"ini": 4.1,
+"fim": 4.48
+},
+{
+"w": "suerte,",
+"ini": 4.48,
+"fim": 5.3
+},
+{
+"w": "todas",
+"ini": 5.82,
+"fim": 6.06
+},
+{
+"w": "las",
+"ini": 6.06,
+"fim": 6.48
+},
+{
+"w": "puertas",
+"ini": 6.48,
+"fim": 6.94
+},
+{
+"w": "se",
+"ini": 6.94,
+"fim": 7.16
+},
+{
+"w": "me",
+"ini": 7.16,
+"fim": 7.4
+},
+{
+"w": "cerraban.",
+"ini": 7.4,
+"fim": 8.06
+}
+],
+"ratio": 1.0,
+"dif": []
+}

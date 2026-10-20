@@ -1,0 +1,72 @@
+REVISÃO: SB-ES_RANKING01_G2_VACIO.mp4
+duração 99.86s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.4 MB
+decodificação: OK
+pts do áudio: 4682 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 35 | pares a <0,3 s: 47.73/47.90
+setas (vermelho) no fim: y 944-1069, x 232-487 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_01\producao\rev3\SB-ES_RANKING01_G2_VACIO_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  2.80 Hace una hora, este restaurante estaba vacío.
+   4.30-  5.70 No lo van a creer.
+   5.70-  8.30 Pasé seis meses, casi sin clientes.
+   8.30-  9.80 Ya iba a cerrar.
+  10.30- 12.70 Resé la oración de San Benito
+  12.70- 16.10 y minutos después mi restaurante se llenó.
+  16.10- 18.80 La aprendí con el padre Juan Méndez
+  18.80- 21.30 en una transmisión en vivo.
+  21.60- 25.70 Presten mucha atención porque esta oración puede cambiar su vida.
+  25.70- 29.10 Cada vez que la enseño intentan tumbar la transmisión
+  29.10- 34.66 y decir que es mentira. No quieren que nuestra gente prospere, pero los testimonios que llegan
+  34.66- 40.74 todos los días no mienten y yo no voy a dejar de enseñarla. Repitan conmigo, o poderosos
+  40.74- 46.62 San Benito guardían de los arcanos sagrados que venciste a las serpientes con la señal
+  46.62- 52.18 de la cruz. Alto, el resto no lo puedo decir aquí, ya me borraron la transmisión por
+  52.18- 58.98 enseñarla. Esta oración estuvo escondida por 900 años. Sólo los más poderosos la
+  58.98- 66.06 conocían y tiene una forma correcta de hacerla y de escucharla. Muchos me preguntan ¿Padre,
+  66.06- 70.78 Dios quiere que prosperemos? Claro que sí, la falta de dinero es lo que más divide
+  70.78- 78.78 a las familias. Lo dice el Salmo 112. Riqueza y abundancia habrá en su casa y su justicia
+  78.78- 86.54 permanece para siempre. Por eso le estoy rezando completa, en vivo, paso a paso. Imagina pagar
+  86.54- 93.18 la última cuota y dormir tranquilo otra vez. Vuelve en siete días y cuéntame qué pasó.
+  93.18- 98.90 Envía este video a quien amas. Toca en ver más aquí abajo y entra a rezar con
+  98.90- 99.40 amigo.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  2.84    Há uma hora esse restaurante estava vazio.
+   4.44-  5.64    Não o vão acreditar.
+   5.64-  8.28    Passei seis meses quase sem clientes.
+   8.28-  9.72    Já ia cerrar.
+  10.32- 12.72    Reci a oração de San Benito
+  12.72- 16.00    e minutos depois o meu restaurante se enganou.
+  16.00- 18.88    Aprendi com o pai Juan Mendes
+  18.88- 21.28    em uma transmissão em vivo.
+  21.68- 25.72    Prestem muita atenção porque essa oração pode mudar sua vida.
+  25.72- 29.08    Cada vez que eu ensino, tentam tombar a transmissão
+  29.08- 32.84    e dizer que é mentira. Não querem que nossa gente prospera,
+  32.84- 36.34    mas os testemunhos que chegam todos os dias não mentem
+  36.34- 38.74    e eu não vou deixar de ensinar-la.
+  38.74- 39.82    Repitam comigo,
+  39.82- 43.62    O poderoso San Benito, guardiando os arcanos sagrados
+  43.62- 47.62    que venciste a las serpientes com a señal de la Cruz.
+  47.62- 50.08    Alto, o resto não posso dizer aqui,
+  50.08- 53.34    já me borraron la transmisión por ensinarla.
+  53.34- 57.04    Esta oración estuvo escondida por novecientos anos,
+  57.04- 63.88    Só os mais poderosos a conheciam e têm uma forma correta de fazer ela e de escutar ela.
+  63.88- 65.16    Muitos me perguntam,
+  65.16- 67.60    Padre, Deus quer que possamos prosperar?
+  67.60- 71.84    Claro que sim, a falta de dinheiro é o que mais divide as famílias.
+  71.84- 74.08    O diz o Salmo 112.
+  74.08- 80.76    Riqueza e abundância habrá em sua casa e sua justiça permanece para sempre.
+  80.76- 85.32    Por isso eu estou rezando completa, em vivo, passo a passo.
+  85.32- 89.70    Imagine pagar a última quota e dormir tranquilo outra vez.
+  89.70- 93.10    Volve em 7 dias e conta-me o que aconteceu.
+  93.10- 95.10    Envie este vídeo a quem ama.
+  95.10- 99.60    Toca em ver mais aqui abaixo e entra a rezar comigo.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 47.73s e 47.90s (167 ms)
+1 problema(s)

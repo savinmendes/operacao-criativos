@@ -1,0 +1,36 @@
+REVISÃO: DW7781_G3_C1.mp4
+duração 48.13s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.5 MB
+decodificação: OK
+pts do áudio: 2258 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: 9.93/9.97, 32.77/32.80
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G3_C1_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.32 Maestro de este taladro aguanta vega pesada
+   2.32-  4.96 Mira todo lo que trae este kit de wall
+   4.96-  8.36 viene en su maleta dura para llevarlo a cualquier pega
+   8.36- 12.24 adentro el taladro percutor y atornillador
+  12.24- 17.08 2 baterías de 20 volts de 2 amperes hora y su cargador
+  17.08- 21.36 mandril de 13 milímetros de ajuste rápido
+  21.36- 26.60 con el anillo eliges el modo taladro para madera y metal
+  26.60- 28.64 percutor para muro y concreto
+  28.64- 31.64 y atornillador con 15 posiciones de torque
+  32.64- 36.64 2 velocidades hasta 1750 revoluciones por minuto
+  36.64- 38.64 y luz led
+  38.64- 40.64 para ver bien donde trabajas
+  40.64- 42.64 todo esto en un solo kit
+  42.64- 43.64 pre black friday
+  43.64- 45.64 pídelo hoy y pagas recién cuando te llegue
+  45.64- 47.64 envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 9.93s e 9.97s (33 ms)
+PROBLEMA: quadro solto? cortes em 32.77s e 32.80s (33 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/PERFUMES-CL_P5_EL-FERIANTE.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/corpo.alinhamento.json", "chaves": ["Casero", "ese", "paltas", "perfumes", "árabes", "uno", "Armaf", "regatean", "Asad", "casero", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "SE OLVIDAN DE LAS PALTAS 🥑", "y": 560, "ate": 3.7},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

@@ -1,0 +1,79 @@
+{
+ "R00": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.16,
+  "texto": "Imágenes impactantes: un mesero fue humillado frente a todo un restaurante… por su fe."
+ },
+ "R01": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.08,
+  "texto": "Al día siguiente, los clientes hacían fila para que don Ernesto los atendiera."
+ },
+ "RCTA": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.08,
+  "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+ },
+ "E1": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "Esa noche me encerré en el baño del restaurante, con vergüenza de que mis compañeros me vieran llorar."
+ },
+ "E2": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "A mi edad, sentía que ya no servía para nada."
+ },
+ "E3": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "Un compañero me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña."
+ },
+ "E4": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "Al otro día, el dueño me llamó para ofrecerme ser encargado."
+ },
+ "P1": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche."
+ },
+ "P2": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada."
+ },
+ "P3": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito… y está haciendo la oración en vivo ahora mismo."
+ },
+ "P4": {
+  "voz": "lQFpy8cEH4bDaHre2DpA",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.06,
+  "texto": "¿Usted puede pasar la transmisión para los que nos están viendo?"
+ }
+}

@@ -1,0 +1,6 @@
+{"dur": 18.066667, "tts": "_audio/tts", "pecas": [
+ {"b": "b0", "pos": 0.05, "tempo": 1.06, "quem": "MULHER", "cortes": [[3.40, 3.55]]},
+ {"b": "b1", "pos": 4.70, "tempo": 1.06, "quem": "MULHER"},
+ {"b": "b2", "pos": 11.20, "tempo": 1.06, "quem": "MULHER"},
+ {"b": "b3", "pos": 13.50, "tempo": 1.06, "quem": "MULHER", "cortes": [[2.50, 2.75]]}
+]}

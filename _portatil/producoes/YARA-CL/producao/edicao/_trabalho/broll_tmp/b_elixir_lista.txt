@@ -1,0 +1,5 @@
+file 'C:/Users/PICHAU/Downloads/YARA-CL/producao/edicao/_trabalho/broll_tmp/b_elixir_00.mp4'
+file 'C:/Users/PICHAU/Downloads/YARA-CL/producao/edicao/_trabalho/broll_tmp/b_elixir_01.mp4'
+file 'C:/Users/PICHAU/Downloads/YARA-CL/producao/edicao/_trabalho/broll_tmp/b_elixir_02.mp4'
+file 'C:/Users/PICHAU/Downloads/YARA-CL/producao/edicao/_trabalho/broll_tmp/b_elixir_03.mp4'
+file 'C:/Users/PICHAU/Downloads/YARA-CL/producao/edicao/_trabalho/broll_tmp/b_elixir_04.mp4'

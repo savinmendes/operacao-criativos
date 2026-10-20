@@ -1,0 +1,10 @@
+SB-IT-ADS-12.18 pronto (16/10/2026).
+Vídeo: SB-IT-ADS-12.18.mp4 — 32,6 s, 720x1280, 30 fps, 11,9 MB.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2.
+HeyGen: 3 jobs lipsync speed (s1 0–5,47 / s2 5,47–10,4 / s7 26,5–32,6), sem reenvio.
+QA: revisar_ad.py (whisper it 0,99, sem proibidos, sem salto de pts, sem quadro solto) OK + revisor independente sem problema grave.
+Ressalvas: ver relatório no roteiro (_roteiro-it.txt) e abaixo.
+- Gancho 0–5,47: checar_lipsync AVISO (índice de pausa 0,82, só 7 quadros de pausa; rosto pequeno, boca fecha a olho em 1,0–1,2 s).
+- CTA 26,5–32,6: AVISO 0,65 (boca fecha na pausa 28,1–28,5 s; sorriso com dentes ~29,7–30,1 s).
+- Cenas 1 e 7 levemente desaceleradas (0,93x e 0,885x) para caber o italiano.
+- Seta do CTA vermelha (igual ao ES/EN), não amarela.

@@ -1,0 +1,7 @@
+SB COMPLETA FERIA (14/10/2026) -> SB-ES_FERIA_COMPLETA.mp4 (1:01) + _narracion.txt
+Flora prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (canvas n786/n790)
+ retrato_triste.png 0.122 | gancho_amplo.png 0.13 | frustrado.png 0.13 | gancho_amplo.mp4 0.294 | frustrado.mp4 0.294 = US$0.97
+ElevenLabs Maria Blanco (tts_ctx v2): hook 85 + selfie 260 = 345 car. Reza = cortes de voz/reza.mp3 antiga.
+HeyGen 004fdcd6ed7d649fbd655369a3dfb838 (audio selfie a partir de 2,90 s, 13,1 s; ficou ~10 min em pending) ~14-18 creditos.
+QA: takes estaveis a cada 0,2 s. Gancho: ela ajoelhada no corredor ao lado da banca (nao atras dela). Selfie: choro, mao no rosto/cabelo ~4,5-5,5 s (local selfie), mao integra.
+revisar_ad --idioma es: OK. -14,2 LUFS, TP -2,4 dBTP.

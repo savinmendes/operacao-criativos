@@ -1,0 +1,75 @@
+{
+"texto": "Esa noche conté las monedas… no alcanzaba ni para el pasaje de vuelta.",
+"voz": "sJYGLUA6m2su09XOMEb8",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.06,
+"dur": 4.458,
+"palavras": [
+{
+"w": "Esa",
+"ini": 0.035,
+"fim": 0.244
+},
+{
+"w": "noche",
+"ini": 0.302,
+"fim": 0.546
+},
+{
+"w": "conté",
+"ini": 0.604,
+"fim": 0.882
+},
+{
+"w": "las",
+"ini": 0.94,
+"fim": 1.068
+},
+{
+"w": "monedas...",
+"ini": 1.126,
+"fim": 1.741
+},
+{
+"w": "no",
+"ini": 1.974,
+"fim": 2.09
+},
+{
+"w": "alcanzaba",
+"ini": 2.136,
+"fim": 2.659
+},
+{
+"w": "ni",
+"ini": 2.717,
+"fim": 2.81
+},
+{
+"w": "para",
+"ini": 2.868,
+"fim": 3.042
+},
+{
+"w": "el",
+"ini": 3.065,
+"fim": 3.123
+},
+{
+"w": "pasaje",
+"ini": 3.204,
+"fim": 3.704
+},
+{
+"w": "de",
+"ini": 3.727,
+"fim": 3.773
+},
+{
+"w": "vuelta.",
+"ini": 3.82,
+"fim": 4.261
+}
+]
+}

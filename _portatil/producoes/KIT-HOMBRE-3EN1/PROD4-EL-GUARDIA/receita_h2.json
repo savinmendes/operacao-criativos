@@ -1,0 +1,35 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD4-EL-GUARDIA/PERFUMES-CL_P4_EL-GUARDIA_H2.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD4-EL-GUARDIA/corpo_h2.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD4-EL-GUARDIA/audio/trilha.mp3",
+  "legenda": {
+    "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD4-EL-GUARDIA/corpo_h2.alinhamento.json",
+    "chaves": [
+      "perfume",
+      "mall",
+      "veces",
+      "árabes",
+      "uno",
+      "Armaf",
+      "mí",
+      "Asad",
+      "casa",
+      "9PM",
+      "recibes",
+      "Pídelo"
+    ]
+  },
+  "manchete": {
+    "texto": "HICIERON SONAR LA ALARMA A PROPÓSITO 🚨",
+    "y": 1250,
+    "ate": 4.6
+  },
+  "cta": {
+    "palavra": "pídelo",
+    "y": 1480
+  },
+  "resolucao": "720",
+  "limite_mb": 30
+}

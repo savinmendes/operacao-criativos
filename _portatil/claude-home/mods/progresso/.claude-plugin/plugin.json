@@ -1,0 +1,7 @@
+{
+  "name": "progresso",
+  "version": "0.1.0",
+  "description": "Painel de progresso de cada tarefa, faixa com limite de 5h e modelo, próximos passos como seleção e dicas para gastar menos tokens",
+  "author": { "name": "Savio" },
+  "types": "./types/index.d.ts"
+}

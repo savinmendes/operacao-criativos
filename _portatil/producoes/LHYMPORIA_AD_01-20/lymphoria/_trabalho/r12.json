@@ -1,0 +1,5 @@
+﻿{"ad":"ad12","corte":294.9,"saida":"AD 12 - LYMPHORIA-BANO-RESERVA-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/16c64371-d76c-4590-a9bb-d2eb18f7e7c6.mp4","inicio":222.6,"quadros":31},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/9c7713b0-37d4-4017-94ad-c220a8ec69ed.mp4","inicio":224.37,"quadros":66}],
+"extras":[{"clipe":"flora/cobre_tela.mp4","inicio":218.87,"quadros":34}],
+"audios":[{"mp3":"p1.mp3","de":199.4,"ate":200.95}]}

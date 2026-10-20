@@ -1,0 +1,26 @@
+# AD 15 — Wyze Solar Cam Pan, câmera no poste (Grupo A)
+
+- **Arquivo:** `producao\AD 15 - WYZE-SOLAR-CAM-PAN-POSTE-ES-LATAM.mp4` — 34,2 s, 720x1280, 22,7 MB, decodifica OK.
+- **Voz:**
+  - "Diego - Engaging, Energetic, Confident" (`Iq9IDbsAh0XiIAKtSuSg`), do catálogo ElevenLabs: espanhol latino, masculino, para anúncio.
+  - O narrador original é homem (mão com aliança e relógio; tom médio ~165 Hz) e é outro criador, diferente do 08/10/13.
+- **TTS:** 520 caracteres, ≈ US$ 0,086 (eleven_multilingual_v2, velocidade 1.0, sem atempo).
+- **Roteiro (`roteiro_es.txt`):**
+  - "No tienes que cargar esta cámara" entrou no lugar de "10 meses sin cargar".
+  - 2K, 360° e **70°** (no lugar de "7 grados"), visión nocturna a color, sirena, reflector, IP65 y cable largo.
+  - "1 hora de sol directo al día".
+  - IA: "sigue a las personas y detecta movimiento". Tirei "paquetes, animales, autos".
+  - Tirei também "WDR technology / contraste", que não está nas especificações oficiais.
+  - CTA padrão.
+- **Tela:**
+  - Título em inglês (0–4,5 s) coberto por uma caixa branca opaca: "¡La cámara solar inalámbrica que no tienes que cargar!" (sem "best").
+  - Legenda roxa coberta por uma caixa roxa opaca (alpha 252, y 975–1125), com a legenda nova por cima.
+  - Setas no "Toca" (31,3 s), acima da caixa.
+  - O vídeo termina em 34,2 s. Cortei o resto do take final do original (37,2 s), que ficaria sem fala.
+- **Selo:** não aplicado. Ficou pronto em `receita_com_selo.json`.
+- **Revisão:**
+  - Whisper es: o texto bate com o roteiro. "2K", "IP65" e "70 grados" são falados corretamente. Sem alegação proibida.
+  - Whisper en: só espanhol.
+  - Folha 1/s: nenhum inglês vazando. Sem quadros soltos. Setas fora da legenda. Sem silêncio no fim.
+- **Pendências:**
+  - Conferir se a pessoa quer o título no topo também depois dos 4,5 s (o original o tira junto com o corte de cena).

@@ -1,0 +1,24 @@
+{
+ "id": "01",
+ "video": "original_01.mp4",
+ "fundo": "orig_01",
+ "corte_inicio": 0.13333333333333333,
+ "narr": "narr_A1.mp3",
+ "narr_inicio": 0.3,
+ "atempo": 1.0,
+ "aviso": [
+  "Solo con fines demostrativos. El rendimiento real puede variar",
+  "según el tipo de pasto, su grosor y las condiciones de uso."
+ ],
+ "faixa_topo": 1165,
+ "gancho": {
+  "linhas": [
+   "Me dijeron que necesitaba un jardinero.",
+   "Encontré esto 😏🌾"
+  ],
+  "px": 29,
+  "cy": 235,
+  "de": 0,
+  "ate": 3.0
+ }
+}

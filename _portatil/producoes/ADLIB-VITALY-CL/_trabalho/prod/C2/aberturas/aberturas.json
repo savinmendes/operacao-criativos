@@ -1,0 +1,53 @@
+{
+ "limiar": 0.85,
+ "tempos": [
+  0.2,
+  1.0,
+  2.0
+ ],
+ "videos": [
+  "LYM-CL_C2_drama-embarazada-suegra_gancho-x-ad30_a.mp4",
+  "LYM-CL_C2_drama-de-cuantos-meses-cunado_gancho-x-ad23_b.mp4",
+  "46 - VAR 21 - G1-ESPOSO-AMIGA x AD30.mp4",
+  "53 - VAR 28 - G8-POR-QUE-NOS-HINCHAMOS x AD30.mp4",
+  "54 - VAR 29 - G9-PAGAS-AL-RECIBIR x AD30.mp4"
+ ],
+ "matriz": [
+  [
+   1.0,
+   0.578,
+   0.536,
+   0.594,
+   0.557
+  ],
+  [
+   0.578,
+   1.0,
+   0.51,
+   0.464,
+   0.51
+  ],
+  [
+   0.536,
+   0.51,
+   1.0,
+   0.693,
+   0.542
+  ],
+  [
+   0.594,
+   0.464,
+   0.693,
+   1.0,
+   0.776
+  ],
+  [
+   0.557,
+   0.51,
+   0.542,
+   0.776,
+   1.0
+  ]
+ ],
+ "parecidos": []
+}

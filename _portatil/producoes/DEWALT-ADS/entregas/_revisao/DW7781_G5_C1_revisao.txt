@@ -1,0 +1,36 @@
+REVISÃO: DW7781_G5_C1.mp4
+duração 48.57s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 18.6 MB
+decodificação: OK
+pts do áudio: 2278 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: 10.37/10.40, 33.20/33.23
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G5_C1_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.48 2 baterías, cargador y maleta, todo incluido
+   2.48-  4.98 Mira todo lo que trae este kit de Bolt
+   4.98-  8.38 Viene en su maleta dura para llevarlo a cualquier pega
+   8.38- 12.00 Adentro, el taladro con el cultor y atornillador
+  12.00- 16.44 2 baterías de 20 volts, de 2 amperes horas y su cargador
+  17.44- 20.76 Mandril de 13 milímetros, de ajuste rápido
+  20.76- 26.16 Con el anillo eliges el modo taladro, ramadera y metal
+  26.16- 28.66 Percutor para muro y concreto
+  28.66- 32.16 y atornillador, con 15 posiciones de torque
+  33.16- 37.16 2 velocidades hasta 1750 revoluciones por minuto
+  37.16- 39.16 y luz, led
+  39.16- 41.16 para ver bien donde trabajas
+  41.16- 43.16 todo esto con un solo kit
+  43.16- 44.66 pre black friday
+  44.66- 46.66 pídelo hoy y pagas recién cuando te llegue
+  46.66- 48.66 envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 10.37s e 10.40s (33 ms)
+PROBLEMA: quadro solto? cortes em 33.20s e 33.23s (33 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

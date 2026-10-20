@@ -1,0 +1,115 @@
+{
+ "musica": [
+  "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\V12\\sep\\htdemucs\\orig\\no_vocals.wav",
+  2.0
+ ],
+ "segs": [
+  {
+   "f": "../broll/h_mesera.mp4",
+   "t0": 0,
+   "t1": 2.1,
+   "ss": 0.6
+  },
+  {
+   "f": "../broll/h_zapato.mp4",
+   "t0": 2.1,
+   "t1": 5.3,
+   "ss": 0.8
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\VIDEOS\\12 - Mi Camino al Bienestar - 1313049140654830.mp4",
+   "ss": 8.15,
+   "ate": 8.95,
+   "crop": "140,150,439,780",
+   "t0": 5.3,
+   "t1": 6.7
+  },
+  {
+   "f": "../broll/h_masaje.mp4",
+   "t0": 6.7,
+   "t1": 9.9,
+   "ss": 1.0
+  },
+  {
+   "f": "../broll/h_sillon.mp4",
+   "t0": 9.9,
+   "t1": 12.6,
+   "ss": 0.4
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\VIDEOS\\12 - Mi Camino al Bienestar - 1313049140654830.mp4",
+   "ss": 51.95,
+   "ate": 53.5,
+   "crop": "170,150,439,780",
+   "t0": 12.6,
+   "t1": 15.7
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad22\\flora\\t1_edit.mp4",
+   "t0": 15.7,
+   "t1": 17.8
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad13\\flora\\t4_edit.mp4",
+   "t0": 17.8,
+   "t1": 19.6
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad19\\flora\\t3_edit.mp4",
+   "t0": 19.6,
+   "t1": 21.4
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad16\\flora\\t2_edit.mp4",
+   "t0": 21.4,
+   "t1": 23.9
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad13\\flora\\t5_edit.mp4",
+   "t0": 23.9,
+   "t1": 25.4
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ugc\\prod\\P2_frasco_miel.mp4",
+   "t0": 25.4,
+   "t1": 26.6,
+   "ss": 1.0
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad14\\flora2\\t6_edit.mp4",
+   "t0": 26.6,
+   "t1": 28.9
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\VIDEOS\\12 - Mi Camino al Bienestar - 1313049140654830.mp4",
+   "ss": 58.65,
+   "ate": 59.6,
+   "crop": "140,150,439,780",
+   "t0": 28.9,
+   "t1": 30.6
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad03\\flora\\t2_edit.mp4",
+   "t0": 30.6,
+   "t1": 33.4
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ugc\\prod\\V2_frasco_cocina.mp4",
+   "t0": 33.4,
+   "t1": 36.5
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad10\\flora\\t1_edit.mp4",
+   "t0": 36.5,
+   "t1": 39.8
+  },
+  {
+   "f": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_trabalho\\ad11\\flora\\t3_edit.mp4",
+   "t0": 39.8,
+   "t1": 99
+  }
+ ],
+ "narr": "narr.mp3",
+ "cauda": 0.7,
+ "saida": "corpo.mp4"
+}

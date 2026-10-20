@@ -1,0 +1,51 @@
+[
+ {
+  "w": "Ô",
+  "ini": 0.046,
+  "fim": 0.163,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "glorieux",
+  "ini": 0.255,
+  "fim": 0.766,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "saint",
+  "ini": 0.813,
+  "fim": 1.022,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "Benoît...",
+  "ini": 1.045,
+  "fim": 1.486,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "protège",
+  "ini": 1.811,
+  "fim": 2.345,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "mes",
+  "ini": 2.392,
+  "fim": 2.508,
+  "personagem": "madre",
+  "parte": "reza"
+ },
+ {
+  "w": "enfants.",
+  "ini": 2.589,
+  "fim": 3.053,
+  "personagem": "madre",
+  "parte": "reza"
+ }
+]

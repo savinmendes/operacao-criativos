@@ -1,0 +1,26 @@
+{
+ "ad": "10",
+ "idioma": "pt-BR (narração com voz sintética/TTS, pronúncia 'bruxlesa', 'Deual')",
+ "origem": {"perfil": "@arcazulferramentas (TikTok)", "tipo": "loja de ferramentas (Arcazul, BR) - revendedor", "url": "https://www.tiktok.com/@arcazulferramentas/video/7193740134498454790"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 39.4,
+ "cortes": {"n": 0, "ritmo": "plano-sequência único com câmera na mão (scene detect não acusou cortes)"},
+ "formato": "UGC unboxing/apresentação de kit em loja (mãos com luvas, sem rosto) + narração TTS",
+ "gancho": {"0_3s_visual": "parede de ferramentas DeWalt (serra tico-tico, esmerilhadeira) e maleta do kit aberta sobre caixas FLEXVOLT; mãos de luva entrando", "0_3s_fala": "Parafusadeira furadeira de impacto brushless com duas baterias 20 volts DeWalt com maleta.", "0_3s_texto_tela": "texto pequeno branco centralizado com a mesma frase + 'www.arcazulferramentas.com.br' e '(41) 988309859' em verde"},
+ "corpo": [
+  {"t": "0-6", "bloco": "nome do kit; mãos tiram a furadeira da maleta"},
+  {"t": "6-16.7", "bloco": "'design leve e compacto, interruptor de velocidade variável'; gira a furadeira mostrando o mandril e o seletor"},
+  {"t": "16.7-22.5", "bloco": "aperta o gatilho: luz de LED; indicador de carga da bateria"},
+  {"t": "22.5-34", "bloco": "volta à maleta: bateria, carregador; 'brushless, mais eficiência, mais tempo de uso e menos manutenção'"},
+  {"t": "34-39.4", "bloco": "fecha a maleta com a logo DeWalt"}
+ ],
+ "cta": "sem CTA falado; site e WhatsApp da loja fixos na tela; texto do post 'Compre pelo site ou pelo WhatsApp! Enviamos para todo o Brasil'",
+ "texto_na_tela": "frases da narração em fonte pequena no centro; site e telefone da loja fixos; etiqueta de preço da prateleira visível no rodapé (R$ 433,25)",
+ "produto": {"modelo": "parafusadeira/furadeira de IMPACTO brushless 20V DeWalt com 2 baterias e maleta (falado e escrito); modelo não legível - pelo 'de impacto' é provavelmente DCD7781/DCD778, não o DCD7771 (sem martelo); visualmente idêntico ao nosso - precisa de revisão manual", "e_nosso_produto": "irmão quase idêntico (versão com martelo), não confirmado"},
+ "rosto": {"tem": false, "tempo_aprox_s": "0 (só mãos com luvas e antebraço)"},
+ "marca_dagua": "site arcazulferramentas.com.br + WhatsApp (41) 988309859 sobrepostos no centro-baixo durante todo o vídeo; etiqueta de preço R$ da loja",
+ "audio": "narração TTS em português, sem música aparente",
+ "uso_para_nos": ["só referência de formato (unboxing sem rosto, mãos com luva, LED aceso e indicador de carga)", "banco de takes: limitado - sem rosto e produto parecido, mas site/WhatsApp da loja ficam no meio do quadro em todo o vídeo, exigiria remoção (LaMa) quadro a quadro"],
+ "nota_cod_chile": 3,
+ "justificativa": "Formato sem rosto, barato de reproduzir e mostra exatamente o que o comprador do kit quer ver (maleta, 2 baterias, carregador, LED, indicador de carga). Narração robótica e texto miúdo fracos; as marcas da loja no centro do quadro tornam o reaproveitamento caro. Melhor refilmar o mesmo roteiro com o nosso kit."
+}

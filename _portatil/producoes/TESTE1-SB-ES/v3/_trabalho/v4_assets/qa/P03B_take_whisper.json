@@ -1,0 +1,74 @@
+{
+"arquivo": "take_P03B.mp4",
+"whisper": "Esta es la poderosísima oración de las 12 palabras de San Benito.",
+"palavras": [
+{
+"w": "Esta",
+"ini": 0.0,
+"fim": 0.28
+},
+{
+"w": "es",
+"ini": 0.28,
+"fim": 0.44
+},
+{
+"w": "la",
+"ini": 0.44,
+"fim": 0.64
+},
+{
+"w": "poderosísima",
+"ini": 0.64,
+"fim": 1.46
+},
+{
+"w": "oración",
+"ini": 1.46,
+"fim": 1.86
+},
+{
+"w": "de",
+"ini": 1.86,
+"fim": 2.02
+},
+{
+"w": "las",
+"ini": 2.02,
+"fim": 2.2
+},
+{
+"w": "12",
+"ini": 2.2,
+"fim": 2.44
+},
+{
+"w": "palabras",
+"ini": 2.44,
+"fim": 2.78
+},
+{
+"w": "de",
+"ini": 2.78,
+"fim": 2.98
+},
+{
+"w": "San",
+"ini": 2.98,
+"fim": 3.1
+},
+{
+"w": "Benito.",
+"ini": 3.1,
+"fim": 3.46
+}
+],
+"ratio": 0.917,
+"dif": [
+[
+"replace",
+"doce",
+"12"
+]
+]
+}

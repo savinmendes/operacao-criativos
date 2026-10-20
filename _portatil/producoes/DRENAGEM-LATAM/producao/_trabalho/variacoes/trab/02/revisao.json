@@ -1,0 +1,39 @@
+{
+ "arquivo": "VAR 02 - G2-HOMBRE-MAS-JOVEN x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 294.37,
+ "mb": 37.1,
+ "whisper_gancho": "Vi al hombre que hacía reír a mi esposa como yo ya no podía. Tenía 10 años menos que yo y no era solo la edad. Así empezó todo.",
+ "whisper_emenda": "la edad. Así empezó todo. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy",
+ "cobertura_gancho": 0.96,
+ "cortes": [
+  1.566667,
+  2.866667,
+  6.166667,
+  7.4,
+  8.833333,
+  9.633333,
+  11.6
+ ],
+ "cortes_plan": [
+  1.567,
+  2.867,
+  4.4,
+  6.167,
+  7.4,
+  8.833,
+  9.667
+ ],
+ "silencios": [
+  [
+   282.66,
+   283.69
+  ],
+  [
+   291.06,
+   291.92
+  ]
+ ],
+ "ok": true
+}

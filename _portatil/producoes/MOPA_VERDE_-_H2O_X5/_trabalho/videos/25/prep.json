@@ -1,0 +1,64 @@
+{
+ "video": "../../../VIDEOS/25 AD.mp4",
+ "res": [
+  720,
+  1280
+ ],
+ "fundo": "../../audio/25_no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "narr.mp3",
+ "offsets": [
+  0.05,
+  3.75,
+  5.75,
+  10.15,
+  15.35,
+  18.2,
+  19.3
+ ],
+ "faixas": [
+  {
+   "y": [
+    1072,
+    1166
+   ],
+   "grad": 18
+  }
+ ],
+ "titulos": [
+  {
+   "linhas": [
+    "¡Limpia tu casa a fondo",
+    "en minutos, no en horas!"
+   ],
+   "cx": 360,
+   "cy": 604,
+   "cobrir_w": 447,
+   "cobrir_h": 168,
+   "px": 31,
+   "de": 0,
+   "ate": 6.74,
+   "fundo": [
+    41,
+    157,
+    0
+   ],
+   "cor": [
+    255,
+    255,
+    255
+   ],
+   "raio": 8
+  }
+ ],
+ "pngs": [
+  {
+   "arq": "../_A_ferramentas/selo_916.png"
+  }
+ ],
+ "fim": {
+  "folga": 0.5,
+  "max_total": null
+ },
+ "saida": "corpo.mp4"
+}

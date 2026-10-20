@@ -1,0 +1,68 @@
+{
+"arquivo": "P01.wav",
+"whisper": "Presten mucha atención porque posiblemente este video saldrá del aire muy rápido.",
+"palavras": [
+{
+"w": "Presten",
+"ini": 0.0,
+"fim": 0.44
+},
+{
+"w": "mucha",
+"ini": 0.44,
+"fim": 0.66
+},
+{
+"w": "atención",
+"ini": 0.66,
+"fim": 1.08
+},
+{
+"w": "porque",
+"ini": 1.08,
+"fim": 1.38
+},
+{
+"w": "posiblemente",
+"ini": 1.38,
+"fim": 1.98
+},
+{
+"w": "este",
+"ini": 1.98,
+"fim": 2.16
+},
+{
+"w": "video",
+"ini": 2.16,
+"fim": 2.46
+},
+{
+"w": "saldrá",
+"ini": 2.46,
+"fim": 2.84
+},
+{
+"w": "del",
+"ini": 2.84,
+"fim": 2.96
+},
+{
+"w": "aire",
+"ini": 2.96,
+"fim": 3.12
+},
+{
+"w": "muy",
+"ini": 3.12,
+"fim": 3.4
+},
+{
+"w": "rápido.",
+"ini": 3.4,
+"fim": 3.64
+}
+],
+"ratio": 1.0,
+"dif": []
+}

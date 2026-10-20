@@ -1,0 +1,76 @@
+{
+ "ad": "43",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@cicampo_oficial (TikTok)",
+  "de_quem": "loja (Cicampo Ferramentas, SC, Brasil)",
+  "url": "https://www.tiktok.com/@cicampo_oficial/video/7592953592697343248"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 28.2,
+ "cortes": {
+  "n": 2,
+  "tempos_s": [
+   11.2,
+   23.7
+  ],
+  "ritmo": "médio: tomadas de mão contínuas com movimento, legenda trocando a cada ~1,5 s"
+ },
+ "formato": "UGC unboxing/apresentação do kit na loja (mão feminina, sem rosto)",
+ "gancho": {
+  "visual_0_3s": "kit sobre a bancada: bolsa DeWalt, furadeira, carregador e bateria",
+  "texto_0_3s": "CONHEÇA O NOVO KIT COMPLETO DA DEWALT / COM PARAFUSADEIRA E FURADEIRA DE IMPACTO",
+  "fala_0_3s": "Conheça um novo kit completo da Dell Auto, com parafusadeira e furadeira de impacto DCD"
+ },
+ "corpo": [
+  {
+   "t": "0-6",
+   "o_que": "kit na bolsa",
+   "texto": "DCD806B-B3 / 2 BATERIAS 20V 1.7AH POWERSTACK"
+  },
+  {
+   "t": "6-11",
+   "o_que": "caixa PowerStack 'La nueva dimensión de poder'",
+   "texto": "+ 1 CARREGADOR DE BATERIA E BOLSA DE TRANSPORTE"
+  },
+  {
+   "t": "11-23.7",
+   "o_que": "furadeira girando em close na mão",
+   "texto": "EQUIPADA COM MOTOR SEM ESCOVAS / ATÉ 30% MAIS AUTONOMIA... / OFERECE 90 NM DE TORQUE MÁXIMO / TRANSMISSÃO DE 2 VELOCIDADES E MANDRIL"
+  },
+  {
+   "t": "23.7-28.2",
+   "o_que": "carregador DCB107 e baterias PowerStack",
+   "texto": "AS BATERIAS OFERECEM TAMANHO REDUZIDO / LEVEZA E MAIOR DESEMPENHO ENERGÉTICO"
+  }
+ ],
+ "cta": "nenhum na tela",
+ "texto_na_tela": "legendas amarelas de especificação, centro/rodapé",
+ "produto": {
+  "modelo": "DCD806B (lido na legenda e caixa PowerStack; XR, bateria PowerStack 1.7Ah)",
+  "eh_nosso": "não (DCD806 XR PowerStack, outro corpo e outra bateria)"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "narração pt-BR (voz de locução lendo as especificações)",
+ "uso": [
+  "só referência de formato"
+ ],
+ "uso_detalhe": "estrutura 'conheça o kit → o que vem → specs → baterias' em ~28 s com legenda trocando rápido é bom molde para unboxing do nosso kit; takes não servem (produto é outro, PowerStack/XR bem diferentes do DCD7771).",
+ "nota": 2,
+ "nota_justificativa": "formato de unboxing objetivo e replicável, mas produto diferente e legenda pt queimada; zero aproveitamento de takes.",
+ "transcricao": [
+  "0.0-4.1: Conheça um novo kit completo da Dell Auto, com parafusadeira e furadeira de impacto DCD",
+  "4.1-10.2: 806 PEP3, com 2 baterias 20 volts, 1.7 Amperes PowerStack, mais um carregador de bateria",
+  "10.2-11.2: e bolsa de transporte.",
+  "11.2-16.2: Equipada com motor sem escovas, a DCD 806B entrega até 30% mais autonomia e maior vida",
+  "16.2-18.3: útil, em comparação a modelos convencionais.",
+  "18.3-22.4: Oferece 90 Nm de torque máximo, transmissão de duas velocidades e mandril metálico",
+  "22.4-23.4: de meia polegada.",
+  "23.4-27.0: As baterias oferecem tamanho reduzido, leveza e maior desempenho energético em comparação",
+  "27.0-28.1: as baterias convencionais."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "03",
+ "video": "original_03.mp4",
+ "fundo": "orig_03",
+ "narr": "narr_B.mp3",
+ "narr_inicio": 0.2,
+ "atempo": 1.083,
+ "aviso": [
+  "Este video está acelerado e incluye varios cortes de escena,",
+  "con limpieza de maleza y cambio de batería durante el proceso."
+ ],
+ "faixa_topo": 1150
+}

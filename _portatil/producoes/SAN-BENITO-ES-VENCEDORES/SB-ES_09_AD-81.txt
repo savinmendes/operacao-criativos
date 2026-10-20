@@ -1,0 +1,28 @@
+Ranking: 09 (VENCEDOR PROVISÓRIO: só 3 compras)
+Anúncio (criativo): AD 81
+Nomes de anúncio somados: AD 81
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (1): SB ES - 26/09 - 1-4-8 A20 VOZDIVINA [ABO]
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 71.21
+Compras (pixel): 3
+Custo por compra: US$ 23.74  (média SB ES: US$ 31.62)
+ROAS compra no site: 2.08  (média SB ES: 1.22)
+CTR de link: 6.32%  (cliques no link / impressões)
+Impressões: 4588
+Cliques no link: 290
+Status atual dos anúncios: {'CAMPAIGN_PAUSED': 1}
+
+ARQUIVO: SB-ES_09_AD-81.mp4 — 1080x1920 h264, 109.9 s
+Origem: Arquivo local C:\Users\PICHAU\Downloads\1-VIDEOS\AD 81 - SB-A20-NATUREZA-VOZDIVINA-HOOK_HOMEM-CB-V3.mp4 (1080x1920, 109,85 s = mesma duração do video_id 1001013536356793 no Meta).
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 71.21 / 3 / 120248459291010259 / 1388621159581384 / SB ES - 26/09 - 1-4-8 A20 VOZDIVINA [ABO] / HOMBRE
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 1388621159581384
+Título: 🙏 La oración a San Benito que casi nadie conoce
+Texto principal:
+Hay hombres que cargan todo en silencio. De día aguantan, y de noche, sentados al borde de la cama, se preguntan por qué nada avanza por más que trabajen y oren. Caminos que parecen cerrados, puertas que no se abren, un peso que no saben explicar. Muchos lo llaman «mala suerte»… pero hay quienes sienten que detrás de todo eso hay algo más profundo, en lo espiritual. Una oración ligada a San Benito —poco conocida por la mayoría— está despertando la atención de quienes buscan protección, fuerza y paz interior. ¿Qué revela esta oración? Escúchala con atención 👇

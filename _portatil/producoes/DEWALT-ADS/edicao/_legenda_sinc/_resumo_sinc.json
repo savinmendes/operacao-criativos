@@ -1,0 +1,290 @@
+{
+ "G1_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 19,
+  "erro_max_abs_ms": 90,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 70,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G1_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 17,
+  "erro_max_abs_ms": 51,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 17,
+  "n_energia": 17,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G2_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 90,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 70,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G2_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 51,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 60,
+  "n_energia": 18,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G3_C1": {
+  "blocos_medidos": 49,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 90,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 70,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 49,
+   "aparecem_no_quadro_esperado": 49,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G3_C2": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 19,
+  "erro_max_abs_ms": 61,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 17,
+  "n_energia": 17,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G4_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 19,
+  "erro_max_abs_ms": 90,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 70,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G4_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 17,
+  "erro_max_abs_ms": 51,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 17,
+  "n_energia": 17,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G5_C1": {
+  "blocos_medidos": 49,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 90,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 70,
+  "n_energia": 22,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 49,
+   "aparecem_no_quadro_esperado": 49,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "G5_C2": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 51,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 60,
+  "n_energia": 19,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR21": {
+  "blocos_medidos": 66,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 21,
+  "erro_max_abs_ms": 95,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 267,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 66,
+   "aparecem_no_quadro_esperado": 66,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR37": {
+  "blocos_medidos": 90,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 28,
+  "erro_max_abs_ms": 94,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 67,
+  "n_energia": 16,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 89,
+   "aparecem_no_quadro_esperado": 89,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR38": {
+  "blocos_medidos": 15,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 18,
+  "erro_max_abs_ms": 55,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 17,
+  "n_energia": 8,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 15,
+   "aparecem_no_quadro_esperado": 15,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR41": {
+  "blocos_medidos": 27,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 26,
+  "erro_max_abs_ms": 84,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 60,
+  "n_energia": 11,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 27,
+   "aparecem_no_quadro_esperado": 27,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR21_fundo-original": {
+  "blocos_medidos": 66,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 25,
+  "erro_max_abs_ms": 97,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 107,
+  "n_energia": 4,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 66,
+   "aparecem_no_quadro_esperado": 66,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR37_fundo-original": {
+  "blocos_medidos": 90,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 30,
+  "erro_max_abs_ms": 94,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 0,
+  "n_energia": 1,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 89,
+   "aparecem_no_quadro_esperado": 89,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR38_fundo-original": {
+  "blocos_medidos": 15,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 39,
+  "erro_max_abs_ms": 92,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 103,
+  "n_energia": 1,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 15,
+   "aparecem_no_quadro_esperado": 15,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR41_fundo-original": {
+  "blocos_medidos": 27,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 41,
+  "erro_max_abs_ms": 94,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 73,
+  "n_energia": 3,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 26,
+   "aparecem_no_quadro_esperado": 26,
+   "falhas": []
+  },
+  "fora_100ms": []
+ }
+}

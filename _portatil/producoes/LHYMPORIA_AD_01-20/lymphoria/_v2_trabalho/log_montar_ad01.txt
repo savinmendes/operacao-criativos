@@ -1,0 +1,19 @@
+>> substituir_trechos.py base.mp4 v2_b1.mp4 trechos_v2.json
+t1_final.mp4: 74 quadros a partir de 265.1s
+t3_final.mp4: 71 quadros a partir de 268.83s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad01\v2_b1.mp4 | 10380 quadros, 145 trocados
+>> trocar_texto_tela.py v2_b1.mp4 v2_b2.mp4 --de 241
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad01\v2_b2.mp4 | 271 quadros com texto trocado
+>> -v error -y -i v2_b2.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 6.1 min não cabe em 30 MB com qualidade; usando 900 kbps (~46 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 01 - LYMPHORIA-ESPOSA-ES-LATAM v2.mp4
+duração : 367.57s | 720x1280 | áudio: sim | 45.0 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 01 - LYMPHORIA-ESPOSA-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 363.86s
+montagem rápida: 82s para 368s de vídeo (0.22x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 01 - LYMPHORIA-ESPOSA-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 10955, "psnr_min": 20.61, "psnr_medio": 37.5, "px40_max": 67024, "px40_medio": 396.38, "quadro_px40_max": 7239, "t_px40_max": 241.3}}
+{"quadros": 71, "psnr_medio": 31.36, "px40_medio": 2220.7, "px40_max": 3555}

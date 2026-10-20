@@ -1,0 +1,7 @@
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/01_gancho.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/02_selfie.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/03_oferta.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/04_dia.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/05_noche.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/06_finde.mp4'
+file 'C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/_seg/07_cta.mp4'

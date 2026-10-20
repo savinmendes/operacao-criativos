@@ -1,0 +1,12 @@
+REVISÃO: SB-ES_RANKING03_DESPEDIDA-CAMARA.mp4
+duração 103.90s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.4 MB
+decodificação: OK
+pts do áudio: 4872 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 34 | pares a <0,3 s: 51.63/51.80
+setas (vermelho) no fim: y 1052-1117, x 229-490 | no último quadro: sim | faixa escura do rodapé: 1256-1279
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_03\producao\rev\SB-ES_RANKING03_DESPEDIDA-CAMARA_revisao.jpg
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 51.63s e 51.80s (167 ms)
+1 problema(s)

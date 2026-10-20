@@ -1,0 +1,51 @@
+{
+  "ad": "24",
+  "idioma": "es",
+  "origem": "TikTok @tallerdeideasdeerick (criador/review MX; marca DeWalt LATAM e Home Depot MX)",
+  "url": "https://www.tiktok.com/@tallerdeideasdeerick/video/7666652398567476501",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 46.2,
+  "cortes": 33,
+  "ritmo": "muito rapido, corte a cada ~1,4 s",
+  "formato": "review de criador + loja Home Depot + demo em materiais",
+  "gancho": {
+    "visual": "DCD1007 XR com bateria 8Ah em pe, depois mao instalando acessorio no mandril",
+    "texto_tela": "'INSTALAR' / 'DCD1007' / 'EL MAS POTENTE'",
+    "fala_0_3s": "Con una misma herramienta podemos perforar, armar e instalar."
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-3s",
+      "conteudo": "produto + instalar"
+    },
+    {
+      "tempo": "3-10s",
+      "conteudo": "criador na Home Depot pega a caixa, carrinho - 'el mas potente'"
+    },
+    {
+      "tempo": "10-20s",
+      "conteudo": "closes: brushless, mandril metalico, LED, bateria XR 8Ah"
+    },
+    {
+      "tempo": "20-32s",
+      "conteudo": "demo: serra copo em madeira, concreto, metal"
+    },
+    {
+      "tempo": "32-46s",
+      "conteudo": "criador: versatiles, durabilidad, productividad"
+    }
+  ],
+  "cta": "sem CTA de compra (fecho: 'durabilidad, seguridad y productividad')",
+  "texto_na_tela": "palavras-chave brancas grandes (ES)",
+  "produto": "DCD1007 XR 20V com bateria 8Ah - NAO e o nosso",
+  "e_nosso_produto": "nao",
+  "rosto": "sim, ~45%",
+  "marca_dagua": "logo 'Taller de Ideas' no cenario",
+  "audio": "voz masculina ES-MX + trilha",
+  "transcricao": "Con una misma herramienta podemos perforar, armar e instalar. Y para conseguir esta herramienta, hoy fuimos a de Home Depot. Este es el taladro DSD-1007D de DeWALT, uno de los taladros XR más nuevos y el más potente de DeWALT de 20V. Este cuenta con motor sin carbones, empuñadura lateral para mayor ergonomía, luz LED ajustable y para automático de seguridad en dado caso que el taladro se atore. Ahora complementándolo con una batería XR, podemos sacarle el máximo provecho. Perforaciones en concreto de hasta media pulgada, perforaciones en madera, metal, etc. Además, este es uno de los pocos taladros que tienen tres velocidades mecánicas para todas las necesidades, por eso es uno de los más versátiles y así es como tenemos durabilidad, seguridad y productividad.",
+  "uso": [
+    "so referencia de formato"
+  ],
+  "nota_cod_chile": 3,
+  "justificativa": "Espanhol LATAM nativo e ritmo otimo de retencao, mas e DCD1007, com criador e cenas de Home Depot. Serve de molde de edicao (palavra-chave grande + demo em 3 materiais)."
+}

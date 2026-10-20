@@ -1,0 +1,48 @@
+PEÇAS COMUNS FR - SB Medalla COMPLETA (14/10/2026)
+
+=== PADRE (pasta _comum\padre\) ===
+Voz: "Alexandre - Calm, Warm & Authentic"  voice_id = gP52hjM48hyNoVCbizxO
+     (biblioteca ElevenLabs, fr-parisian, middle-aged; registrada em _vozes_fr.json como "padre")
+     eleven_multilingual_v2, speed 1.0, previous/next text (app\tts_ctx.py).
+padre.mp3 = 36,06 s (pausa de 0,35 s de silêncio entre falas)
+  Fala 1: 0,04 – 11,57 s
+  Fala 2: 12,02 – 21,90 s
+  Fala 3: 22,32 – 36,00 s
+palavras.json = 106 palavras, formato w/ini/fim/personagem ("padre"), igual ao ES.
+  Aspas francesas: tokens "«" e "»," (já corrigidos do "<<" que vinha do alinhamento).
+blocos.json = falas (texto, ini, fim) + partes_avatar + voz.
+
+Avatar HeyGen (sacerdote_live.png, 9:16, 1080x1920, 25 fps, expressividade low, sem fechar_boca):
+  padre_parte1.mp4 = 22,12 s -> áudio 0,00–22,11 (falas 1+2)
+  padre_parte2.mp4 = 13,96 s -> áudio 22,11–36,06 (fala 3)
+  Corte no meio da pausa entre fala 2 e 3 (mesmo esquema do ES). Cada mp4 já tem o trecho de áudio embutido.
+  Se o seu script ES usa "padre_parte1/2.mp4" de _trabalho\completa\padre\, troque a pasta para _trabalho\fr\_comum\padre\
+  e use os tempos acima (o FR é ~0,85 s mais longo que o ES: 36,06 vs 35,21 s).
+
+QA voz: Whisper medium fr transcreve o texto inteiro certo ("disent ces/ses lettres", "En savoir plus", "24 heures sur 24").
+  A 1ª versão da fala 1 lia "disent" nasal ("disent-dans"); foi refeita escrevendo "dise" no TTS (mesma pronúncia).
+  "saint Benoît" NÃO aparece nas falas do padre (só na frase final das personas): conferir lá.
+QA avatar: boca quadro a quadro com zoom (folhas em padre\_tmp\boca_p1.jpg e boca_p2.jpg): articulação acompanha
+  a fala (vogais arredondadas em "pour", "explication", "plus"), fecha na pausa entre falas; rosto estável, sem deformação
+  (padre\_tmp\rostos.jpg). Reflexo verde nos óculos em alguns quadros vem do estilo "live" (igual ao ES). Nada refeito.
+
+=== GRÁFICOS (pasta _comum\graficos\, 1080x1920 RGBA, gerados por gerar_graficos_fr.py) ===
+  titulo_gancho_fr.png         -> substitui "titulo_gancho.png"          (0 .. T_REZA)
+  cta_ensavoirplus_unico_fr.png-> substitui "cta_masinfo_unico.png"      (CTA .. TOTAL)  = texto + setas, como o ES
+  selo_ficticio_mini_fr.png    -> substitui "selo_ficticio_mini.png"     (0 .. TOTAL)    «VIDÉO FICTIVE», topo à direita
+  Peças separadas (se algum script usar o esquema texto/setas): cta_txt_ensavoirplus_fr.png (= cta_txt_masinfo.png)
+  e cta_setas_fr.png (= cta_setas.png, idêntico ao ES).
+  No montar_completa2.py: GR passa a ser _trabalho\fr\_comum\graficos e a lista pngs vira
+  [("titulo_gancho_fr.png", 0, T_REZA), ("cta_ensavoirplus_unico_fr.png", CTA, TOTAL), ("selo_ficticio_mini_fr.png", 0, TOTAL)]
+  Diferenças de layout: título com fonte 54 (ES 60) e faixas de 81 px (ES 76) para caber o texto mais longo e os acentos;
+  caixa 80–1000 x 1111–1411 (ES 128–952 x 1119–1404). Conferido sobre quadros dos ES MEDALLA e MADRE: não cobre o personagem.
+  CTA: «APPUIE SUR « EN SAVOIR PLUS »» fonte 62, mesma linha y=1572 e mesmas setas. Selo: 909–1060 x 4–34.
+  previa.jpg e previa_zoom.jpg: nenhum acento cortado, nenhum texto fora da caixa.
+
+=== CUSTOS ===
+ElevenLabs: 566 + 207 (fala 1 refeita) = 773 caracteres. Teto era 550: as 3 falas fixas do briefing já somam 566,
+  e a correção de "disent" exigiu refazer a fala 1.
+HeyGen: saldo 6979 antes -> 6962 logo depois (-17). A conta é compartilhada com os agentes das personas rodando em
+  paralelo, então a medição não é isolada; pela duração (36 s, igual ao ES que custou 24) a estimativa é ~17–24 créditos,
+  dentro do teto de 30. A cobrança pode atualizar até ~1 h depois.
+Flora: US$ 0.

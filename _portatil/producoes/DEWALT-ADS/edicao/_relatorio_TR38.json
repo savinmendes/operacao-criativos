@@ -1,0 +1,50 @@
+{
+ "TR38": {
+  "montar_voz": {
+   "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_montado\\TR38_voz.mp4",
+   "duracao_video_s": 15.8,
+   "duracao_audio_decodificado_s": 15.8,
+   "diferenca_s": 0.0,
+   "mb": 6.32,
+   "cortes_s": [],
+   "titulo_ate_s": 0.0,
+   "cta_desde_s": 13.4,
+   "decodificacao": "ok"
+  },
+  "mix": {
+   "musica_fala_corpo_lufs": -32.0,
+   "voz_fala_corpo_lufs": -15.3,
+   "musica_titulo_lufs": NaN,
+   "musica_cartao_lufs": -24.0,
+   "musica_pausas_corpo_lufs": -23.1,
+   "pausas_corpo_s": 5.3,
+   "razao_voz_musica_lu": 16.7,
+   "razao_min_por_frase_lu": 15.9,
+   "pre_aac_lufs": -14.5,
+   "pre_aac_tp": -1.6,
+   "final_lufs": -14.4,
+   "final_tp_dbtp": -1.6,
+   "versao": "bbywow",
+   "fonte": "C:\\Users\\PICHAU\\Downloads\\YARA-CL\\producao\\musica_trend\\sep\\htdemucs\\bbywow\\no_vocals.wav",
+   "inicio_s": 30.6,
+   "ganho_musica_db": -9.4,
+   "lift_titulo_db": 0.0,
+   "lift_cartao_db": 5.6,
+   "duck_db": 11.0,
+   "ataque_ms": 20,
+   "release_ms": 250,
+   "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\entregas\\DW7781_TR38.mp4"
+  },
+  "montar_fundo": {
+   "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_montado\\TR38_fundo.mp4",
+   "duracao_video_s": 15.8,
+   "duracao_audio_decodificado_s": 15.8,
+   "diferenca_s": 0.0,
+   "mb": 6.32,
+   "cortes_s": [],
+   "titulo_ate_s": 0.0,
+   "cta_desde_s": 13.4,
+   "decodificacao": "ok"
+  }
+ }
+}

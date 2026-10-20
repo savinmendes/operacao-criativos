@@ -1,0 +1,53 @@
+REVISÃO: SB-ES_NOTICIA-AURELIO_B-ORACION-COMPLETA_FICTICIO.mp4
+duração 160.90s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 47.2 MB
+decodificação: OK
+pts do áudio: 7541 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 59 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 676-1124, x 143-630 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/3s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v3\_trabalho\v4_reporter_pip\qa\SB-ES_NOTICIA-AURELIO_B-ORACION-COMPLETA_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.90 Imágenes impactantes, un vendedor se ha atacado en plena calle.
+   3.90-  6.20 ¡No crees en Dios! ¡Entonces, llámalo ahora!
+   6.20-  9.00 Señor, yo no hice nada, paré, por el amor de Dios.
+  18.00- 21.60 Después de ser atacado por un cliente y volverse viral,
+  21.60- 26.70 el carrito de Don Aurelio se convirtió en uno de los más pedidos del país.
+  26.70- 29.10 Sí, eso me pasó a mí.
+  29.10- 31.70 Y no era la primera vez.
+  31.70- 34.70 Yo pensaba que era mala suerte.
+  34.70- 37.80 Todas las puertas se me cerraban.
+  37.80- 42.70 Pero yo había aprendido la oración de San Benito completa
+  42.70- 46.70 y decidí hacerla después de aquella situación.
+  46.70- 51.10 Al día siguiente, a mi carrito empezaron a llover clientes.
+  51.10- 53.10 No lo podía creer.
+  53.10- 61.10 ¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?
+  61.10- 61.80 ¡Claro!
+  61.80- 66.80 No es mala suerte, cuando los caminos se cierran así hay algo espiritual detrás.
+  66.80- 70.80 Presten mucha atención porque posiblemente este video saldrá del aire muy rápido.
+  70.80- 75.10 No quieren que tengas acceso a esto porque es una oración muy poderosa.
+  75.10- 76.50 Repitan conmigo...
+  76.50- 83.16 O poderoso San Benito, guardían de los misterios sagrados, que venciste a la serpiente con la
+  83.16- 89.48 señal de la cruz y callaste el rugido del abismo con tu fe inquebrantable, invoco ahora
+  89.48- 96.16 las doce palabras selladas por tu mano, crux, lux, feeds, ignez, veritas, silencio,
+  96.16-101.80 un gladius, fortitud, custodia, sáctitas, espíritus y triunfus.
+ 101.80-105.68 Esta es la poderosísima oración de las doce palabras de San Benito.
+ 105.68-111.76 surgiendo relatos de bendiciones todos los días. Fue escrita por el propio San Benito en su regla y
+ 111.76-118.52 se mantuvo en secreto durante 918 años. Sólo un grupo de monjes tenía acceso a esta oración
+ 118.52-124.92 completa, la traje de una excursión que hice a Italia y decidí compartirla con ustedes. La última
+ 124.92-132.00 vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día
+ 132.00-136.80 siguiente pero atención tiene que hacerse de la forma correcta porque no es una
+ 136.80-141.44 oración común tiene instrucciones y una manera correcta de hacerla y de
+ 141.44-146.40 escucharla a partir de hoy le darás la bienvenida a una vida próspera por eso
+ 146.40-150.28 grabé un vídeo donde enseño la oración de san benito completa paso a
+ 150.28-154.64 paso de la forma correcta pero no sé por cuánto tiempo va a estar
+ 154.64-159.40 disponible toca el botón ver más aquí abajo y mírala ahora mientras
+ 159.40-161.96 todavía está disponible
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

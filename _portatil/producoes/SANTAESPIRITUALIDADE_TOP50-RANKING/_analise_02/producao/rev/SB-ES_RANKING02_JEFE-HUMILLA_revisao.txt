@@ -1,0 +1,70 @@
+REVISÃO: SB-ES_RANKING02_JEFE-HUMILLA.mp4
+duração 83.50s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 27.3 MB
+decodificação: OK
+pts do áudio: 3916 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 26 | pares a <0,3 s: 44.20/44.37
+setas (vermelho) no fim: y 1058-1123, x 232-489 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_02\producao\rev\SB-ES_RANKING02_JEFE-HUMILLA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.60 Tú nunca vas a ser nadie en la vida, solo sobrevives porque yo te pago.
+   4.60-  7.12 ¡Estás despedida! ¡Lárgate de mi tienda!
+  11.84- 13.32 Sí, esto me pasó a mí.
+  13.32- 16.76 Pero no se enojen porque ese mismo día aprendí la oración de San Benito.
+  16.76- 20.00 Pocos días después me llamaron para el trabajo de mis sueños.
+  20.00- 22.04 Y mi antiguo jefe terminó en la quiebra.
+  22.04- 24.12 La aprendí con el padre Juan Mendes,
+  24.12- 27.24 en la transmisión en vivo que intentaron borrar de internet.
+  27.24- 33.38 Solo existe una oración capaz de abrir los caminos así de rápido y yo no voy a dejar
+  33.38- 34.38 de enseñarla.
+  34.38- 41.24 Repitan conmigo, oh poderoso, sanvenito, guardián de los arcanos sagrados que venciste a las
+  41.24- 44.32 serpientes con la señal de la cruz.
+  44.32- 50.68 Alto, el resto no lo puedo decir aquí, la última vez que la enseñé me silenciaron.
+  50.68- 54.52 Esta oración estuvo escondida por 900 años.
+  54.52- 57.48 Sólo la élite religiosa la conocía.
+  57.48- 59.88 La última vez que la recé en vivo,
+  59.88- 62.84 recibimos cientos de mensajes al día siguiente,
+  62.84- 64.80 todos contando bendiciones.
+  64.80- 67.88 Pero atención, tiene una forma correcta de hacerla y de
+  67.88- 69.00 escucharla.
+  69.00- 72.80 Por eso la estoy rezando completa, en vivo, paso a paso.
+  72.80- 75.48 Y a quien te humilló, Dios le responde.
+  75.48- 78.20 Vuelve en siete días y cuéntame qué pasó.
+  78.20- 83.24 envía este vídeo a quien amas toca en ver más aquí abajo y entras a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  2.00    Você nunca vai fazer ninguém a sua vida!
+   2.00-  4.00    Só sobrevive porque eu te pago!
+   4.00-  6.00    Você está despedido!
+   6.00-  8.00    Lágrate da minha tienda!
+  12.00- 14.00    Sim, isso me passou a mim.
+  14.00- 16.00    Mas não se enganem porque esse mesmo dia aprendi a oração de San Benito.
+  16.00- 20.00    Poucos dias depois me chamaram para o trabalho de meus sonhos.
+  20.00- 22.00    E meu antigo chefe terminou na quebra.
+  22.00- 24.00    Aprendi com o padre Juan Mendes.
+  24.00- 27.00    Em transmissão em vivo, que tentaram borrar da internet.
+  27.00- 32.24    Só existe uma oração capaz de abrir os caminhos assim de rápido
+  32.24- 34.28    e eu não vou deixar de ensinar ela.
+  34.28- 39.84    Repitam comigo, o poderoso Sambenito, guardião dos arcanos sagrados
+  39.84- 44.00    que venciste a serpientes com a senhal da cruz.
+  44.00- 47.36    Alto, o resto não posso dizer aqui.
+  47.36- 50.44    A última vez que lhe ensinou, me silenciaram.
+  50.44- 54.40    Esta oração estava escondida por 900 anos.
+  54.40- 57.34    Só a élite religiosa a conhecia.
+  57.34- 61.84    A última vez que a recém em vivo recebemos cientos de mensagens
+  61.84- 64.64    ao dia seguinte, todos contando bendições.
+  64.64- 68.84    Mas a atenção tem uma forma correta de fazer ela e de escutá-la.
+  68.84- 72.68    Por isso, ela estou rezando completa, em vivo, passo a passo.
+  72.68- 75.34    E a quem te humilhou, Deus lhe responde.
+  75.34- 78.10    Vuelva em 7 dias e conta-me o que aconteceu.
+  78.10- 79.70    Envie este vídeo a quem ama.
+  79.70- 83.40    Toca em ver mais aqui abaixo e entras a rezar comigo.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 44.20s e 44.37s (167 ms)
+1 problema(s)

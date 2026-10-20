@@ -1,0 +1,32 @@
+REVISÃO: SB-ES_MEDALLA_COMPLETA.mp4
+duração 61.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 27.3 MB
+decodificação: OK
+pts do áudio: 2889 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\revisao_comp2\SB-ES_MEDALLA_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.56 Recé de rodillas en mi restaurante vacío.
+   3.56-  5.92 Y esto fue lo que pasó.
+   5.92-  8.40 Oh, glorioso San Benito.
+   8.40-  9.64 Sácame de esta escasez.
+  12.92- 16.04 Pasé casi seis meses sin clientes.
+  16.04- 20.36 Llegaba a casa y no podía mirar a mi esposa a los ojos.
+  20.36- 24.76 Me sentía un fracasado, hasta que un padre explicó algo que
+  24.76- 28.80 nadie me había dicho sobre la medalla de San Benito.
+  28.80- 34.56 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras,
+  34.56- 39.28 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  39.28- 45.60 de la forma correcta, la casa se calma, el miedo se va y uno vuelve a ver salidas donde
+  45.60- 51.36 antes solo veía puertas cerradas. Por eso dejé la explicación completa, letra por
+  51.36- 55.96 letra en una transmisión en vivo que está abierta las 24 horas.
+  55.96- 61.12 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

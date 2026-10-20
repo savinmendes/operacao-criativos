@@ -1,0 +1,22 @@
+{
+ "saida": "../../../ES-LATAM/VIDEOS/32 AD - ES.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "resolucao": "720",
+ "legenda": {
+  "fonte": "alinhamento:alinhamento.json",
+  "y": 1576,
+  "chaves": [
+   "H2O",
+   "vapor",
+   "químicos",
+   "pisos",
+   "rincón"
+  ]
+ },
+ "cta": {
+  "palavra": "más",
+  "y": 1712
+ },
+ "limite_mb": 30
+}

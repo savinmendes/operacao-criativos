@@ -1,0 +1,83 @@
+{
+"arquivo": "take_P04B.mp4",
+"whisper": "Pero atención, tiene que hacerse de la forma correcta porque no es una oración común.",
+"palavras": [
+{
+"w": "Pero",
+"ini": 0.0,
+"fim": 0.26
+},
+{
+"w": "atención,",
+"ini": 0.26,
+"fim": 0.98
+},
+{
+"w": "tiene",
+"ini": 1.22,
+"fim": 1.46
+},
+{
+"w": "que",
+"ini": 1.46,
+"fim": 1.68
+},
+{
+"w": "hacerse",
+"ini": 1.68,
+"fim": 2.06
+},
+{
+"w": "de",
+"ini": 2.06,
+"fim": 2.2
+},
+{
+"w": "la",
+"ini": 2.2,
+"fim": 2.36
+},
+{
+"w": "forma",
+"ini": 2.36,
+"fim": 2.6
+},
+{
+"w": "correcta",
+"ini": 2.6,
+"fim": 3.16
+},
+{
+"w": "porque",
+"ini": 3.16,
+"fim": 3.38
+},
+{
+"w": "no",
+"ini": 3.38,
+"fim": 3.54
+},
+{
+"w": "es",
+"ini": 3.54,
+"fim": 3.7
+},
+{
+"w": "una",
+"ini": 3.7,
+"fim": 3.84
+},
+{
+"w": "oración",
+"ini": 3.84,
+"fim": 4.3
+},
+{
+"w": "común.",
+"ini": 4.3,
+"fim": 4.62
+}
+],
+"ratio": 1.0,
+"dif": []
+}

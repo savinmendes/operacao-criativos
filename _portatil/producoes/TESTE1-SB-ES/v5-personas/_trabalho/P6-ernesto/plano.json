@@ -1,0 +1,350 @@
+{
+ "titulo_ate": 2.3,
+ "cauda": 0.0,
+ "nota_virada": "Sin voz entre la pelea y la reportera: manos de don Ernesto juntando el crucifijo entre los pedazos del plato (música triste) -> salón vacío -> dos mesas ocupadas -> restaurante lleno con don Ernesto sonriendo (música que se vuelve esperanza). La pelea va en cámara lenta (0,63x) hasta que tira el plato, mientras la reportera habla en PiP.",
+ "itens": [
+  {
+   "id": "ABERT",
+   "audio": "w/abertura_mix.wav",
+   "palavras_json": "voz/abertura_palavras.json",
+   "uso": [
+    0.0,
+    12.2333
+   ],
+   "lufs": -15.0,
+   "frases": [
+    {
+     "id": "R00",
+     "quem": "REPORTERA (en PiP)",
+     "texto": "Imágenes impactantes: un mesero fue humillado frente a todo un restaurante… por su fe."
+    },
+    {
+     "id": "AGR",
+     "quem": "CLIENTE",
+     "texto": "¿Rezas antes de servir? ¡Llama a tu Dios para que limpie esto!"
+    },
+    {
+     "id": "ERN",
+     "quem": "DON ERNESTO",
+     "texto": "Señor, disculpe, yo solo traje lo que usted pidió."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/abertura.mov",
+     "id": "abertura_briga_pip"
+    }
+   ]
+  },
+  {
+   "id": "VIR",
+   "uso": [
+    0.0,
+    8.6
+   ],
+   "gap": 0.0,
+   "frases": [],
+   "video": [
+    {
+     "fonte": "takes/k_maos.mp4",
+     "de": 0.0,
+     "ate": 2.4,
+     "vt": 0.5,
+     "id": "k_maos",
+     "broll": true
+    },
+    {
+     "fonte": "takes/k_vazio.mp4",
+     "de": 2.4,
+     "ate": 4.2,
+     "vt": 1.0,
+     "id": "k_vazio",
+     "broll": true
+    },
+    {
+     "fonte": "takes/k_duas.mp4",
+     "de": 4.2,
+     "ate": 6.0,
+     "vt": 0.8,
+     "id": "k_duas",
+     "broll": true
+    },
+    {
+     "fonte": "takes/k_cheio.mp4",
+     "de": 6.0,
+     "ate": 8.6,
+     "vt": 0.6,
+     "id": "k_cheio",
+     "broll": true,
+     "cy": 0.6
+    }
+   ]
+  },
+  {
+   "id": "R01",
+   "audio": "voz/JR1.wav",
+   "palavras_json": "voz/JR1.json",
+   "uso": [
+    0.0,
+    5.146
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "R01",
+     "quem": "REPORTERA",
+     "texto": "Al día siguiente, los clientes hacían fila para que don Ernesto los atendiera."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_R01r.mp4",
+     "id": "hg_R01",
+     "cy": 0.3
+    }
+   ]
+  },
+  {
+   "id": "J1",
+   "audio": "voz/J1.wav",
+   "palavras_json": "voz/J1.json",
+   "uso": [
+    0.0,
+    9.785
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "E1",
+     "quem": "DON ERNESTO",
+     "texto": "Esa noche me encerré en el baño del restaurante, con vergüenza de que mis compañeros me vieran llorar."
+    },
+    {
+     "id": "E2",
+     "quem": "DON ERNESTO",
+     "texto": "A mi edad, sentía que ya no servía para nada."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_J1.mp4",
+     "ate": 3.66,
+     "id": "hg_J1",
+     "cy": 0.3
+    },
+    {
+     "fonte": "takes/k_banheiro.mp4",
+     "de": 3.66,
+     "ate": 7.1,
+     "vt": 0.4,
+     "id": "k_banheiro",
+     "broll": true,
+     "cy": 0.3
+    },
+    {
+     "fonte": "takes/hg_J1.mp4",
+     "de": 7.1,
+     "id": "hg_J1",
+     "cy": 0.3,
+     "zoom": 1.12
+    }
+   ]
+  },
+  {
+   "id": "J2",
+   "audio": "voz/J2.wav",
+   "palavras_json": "voz/J2.json",
+   "uso": [
+    0.0,
+    10.888
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "E3",
+     "quem": "DON ERNESTO",
+     "texto": "Un compañero me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña."
+    },
+    {
+     "id": "E4",
+     "quem": "DON ERNESTO",
+     "texto": "Al otro día, el dueño me llamó para ofrecerme ser encargado."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_J2.mp4",
+     "ate": 3.84,
+     "id": "hg_J2",
+     "cy": 0.3
+    },
+    {
+     "fonte": "takes/k_noite.mp4",
+     "de": 3.84,
+     "ate": 7.05,
+     "vt": 0.5,
+     "id": "k_noite",
+     "broll": true,
+     "cy": 0.4
+    },
+    {
+     "fonte": "takes/hg_J2.mp4",
+     "de": 7.05,
+     "id": "hg_J2",
+     "cy": 0.3,
+     "zoom": 1.12
+    }
+   ]
+  },
+  {
+   "id": "J3",
+   "audio": "voz/J3.wav",
+   "palavras_json": "voz/J3.json",
+   "uso": [
+    0.0,
+    11.69
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "P1",
+     "quem": "DON ERNESTO",
+     "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche."
+    },
+    {
+     "id": "P2",
+     "quem": "DON ERNESTO",
+     "texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_J3.mp4",
+     "ate": 7.45,
+     "id": "hg_J3",
+     "cy": 0.3
+    },
+    {
+     "fonte": "takes/hg_J3.mp4",
+     "de": 7.45,
+     "id": "hg_J3",
+     "cy": 0.3,
+     "zoom": 1.12
+    }
+   ]
+  },
+  {
+   "id": "J4",
+   "audio": "voz/J4.wav",
+   "palavras_json": "voz/J4.json",
+   "uso": [
+    0.0,
+    10.893
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "P3",
+     "quem": "DON ERNESTO",
+     "texto": "El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito… y está haciendo la oración en vivo ahora mismo."
+    },
+    {
+     "id": "P4",
+     "quem": "DON ERNESTO",
+     "texto": "¿Usted puede pasar la transmisión para los que nos están viendo?"
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_J4.mp4",
+     "ate": 7.37,
+     "id": "hg_J4",
+     "cy": 0.3
+    },
+    {
+     "fonte": "takes/hg_J4.mp4",
+     "de": 7.37,
+     "id": "hg_J4",
+     "cy": 0.3,
+     "zoom": 1.12
+    }
+   ]
+  },
+  {
+   "id": "RCTA",
+   "audio": "voz/JRC.wav",
+   "palavras_json": "voz/JRC.json",
+   "uso": [
+    0.0,
+    6.355
+   ],
+   "gap": 0.0,
+   "frases": [
+    {
+     "id": "RCTA",
+     "quem": "REPORTERA",
+     "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+    }
+   ],
+   "video": [
+    {
+     "fonte": "takes/hg_RCTAr.mp4",
+     "id": "hg_RCTA",
+     "cy": 0.3
+    }
+   ]
+  }
+ ],
+ "musica": [
+  {
+   "arquivo": "trilha/triste_1.mp3",
+   "t0": "ABERT.fim-0.25",
+   "t1": "VIR+5.1",
+   "lufs": -19,
+   "fi": 0.2,
+   "fo": 0.9
+  },
+  {
+   "arquivo": "trilha/esperanca_1.mp3",
+   "t0": "VIR+4.2",
+   "t1": "R01+2.4",
+   "lufs": -20,
+   "fi": 0.9,
+   "fo": 0.8,
+   "duck": [
+    [
+     "VIR",
+     0
+    ],
+    [
+     "R01-0.3",
+     0
+    ],
+    [
+     "R01+0.3",
+     -12
+    ],
+    [
+     "R01+5",
+     -12
+    ]
+   ]
+  },
+  {
+   "arquivo": "trilha/bed_esperanca.mp3",
+   "t0": "R01+1.0",
+   "t1": "fim",
+   "lufs": -31,
+   "fi": 1.5,
+   "fo": 1.0
+  },
+  {
+   "arquivo": "trilha/amb_restaurante.mp3",
+   "t0": "R01",
+   "t1": "fim",
+   "lufs": -36,
+   "fi": 0.5,
+   "fo": 1.0
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+"arquivo": "vo_V05.wav",
+"whisper": "La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.",
+"palavras": [
+{
+"w": "La",
+"ini": 0.0,
+"fim": 0.26
+},
+{
+"w": "última",
+"ini": 0.26,
+"fim": 0.48
+},
+{
+"w": "vez",
+"ini": 0.48,
+"fim": 0.66
+},
+{
+"w": "que",
+"ini": 0.66,
+"fim": 0.9
+},
+{
+"w": "enseñé",
+"ini": 0.9,
+"fim": 1.32
+},
+{
+"w": "esta",
+"ini": 1.32,
+"fim": 1.5
+},
+{
+"w": "oración",
+"ini": 1.5,
+"fim": 1.92
+},
+{
+"w": "en",
+"ini": 1.92,
+"fim": 2.08
+},
+{
+"w": "un",
+"ini": 2.08,
+"fim": 2.34
+},
+{
+"w": "congreso,",
+"ini": 2.34,
+"fim": 3.02
+},
+{
+"w": "recibí",
+"ini": 3.42,
+"fim": 3.54
+},
+{
+"w": "más",
+"ini": 3.54,
+"fim": 3.76
+},
+{
+"w": "de",
+"ini": 3.76,
+"fim": 4.08
+},
+{
+"w": "497",
+"ini": 4.08,
+"fim": 5.64
+},
+{
+"w": "relatos",
+"ini": 5.64,
+"fim": 6.12
+},
+{
+"w": "de",
+"ini": 6.12,
+"fim": 6.22
+},
+{
+"w": "bendiciones",
+"ini": 6.22,
+"fim": 6.92
+},
+{
+"w": "al",
+"ini": 6.92,
+"fim": 7.46
+},
+{
+"w": "día",
+"ini": 7.46,
+"fim": 7.66
+},
+{
+"w": "siguiente.",
+"ini": 7.66,
+"fim": 8.1
+}
+],
+"ratio": 1.0,
+"dif": []
+}

@@ -1,0 +1,36 @@
+{
+ "arquivo": "VAR 01 - G1-ESPOSA-AMIGO x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 291.43,
+ "mb": 36.7,
+ "whisper_gancho": "Vi a mi esposa mirar a mi mejor amigo como antes me miraba a mí. Como si yo no estuviera en la sala. Esto fue lo que pasó.",
+ "whisper_emenda": "yo no estuviera en la sala. Esto fue lo que pasó. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.366667,
+  2.7,
+  3.933333,
+  5.066667,
+  6.733333,
+  8.666667
+ ],
+ "cortes_plan": [
+  1.367,
+  2.7,
+  3.933,
+  5.067,
+  6.733
+ ],
+ "silencios": [
+  [
+   279.72,
+   280.75
+  ],
+  [
+   288.13,
+   288.99
+  ]
+ ],
+ "ok": true
+}

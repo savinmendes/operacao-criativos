@@ -1,0 +1,34 @@
+{
+ "saida": ".",
+ "slides": [
+  {
+   "img": "_geradas/A2_tnCF1yb5.png", "modo": "topo", "alt_img": 840, "cx": 0.5, "fade": 240,
+   "blocos": [
+    {"texto": "SAN BENITO Y LA VIRGEN DESATANUDOS VAN A DESATAR LOS NUDOS DE TU VIDA FINANCIERA CON ESTA ORACIÓN →",
+     "caixa": [70, 830, 1010, 1270], "tamanho": 60, "cor": [255, 255, 255]}
+   ]
+  },
+  {
+   "img": "_geradas/A1_pOFhOPfX.png", "modo": "cheia", "cx": 0.5, "desfocar": 7, "escurecer": 0.74,
+   "blocos": [
+    {"texto": "OH SAN BENITO, LIBERA MIS PASOS.\nVIRGEN DESATANUDOS, DESATA LOS NUDOS DE MI VIDA.\n\nQUE LA ABUNDANCIA FLUYA EN MI MESA, EN MI CASA Y EN MI FAMILIA.\n\nASÍ SEA. AMÉN. →",
+     "caixa": [90, 150, 990, 1200], "tamanho": 58, "cor": [255, 255, 255], "entrelinha": 1.3}
+   ]
+  },
+  {
+   "img": "_geradas/B2_myvJR42X.png", "modo": "topo", "alt_img": 840, "cx": 0.5, "fade": 240,
+   "blocos": [
+    {"texto": "REZA ESTA ORACIÓN POR 7 DÍAS. GUÁRDALA PARA ORAR Y COMPÁRTELA CON QUIEN LO NECESITA →",
+     "caixa": [70, 830, 1010, 1270], "tamanho": 60, "cor": [255, 255, 255]}
+   ]
+  },
+  {
+   "img": "_geradas/B1_yZFvAYo6.png", "modo": "topo", "alt_img": 720, "cx": 0.5, "fade": 240,
+   "blocos": [
+    {"texto": "AHORA MISMO SE ESTÁ REZANDO LA ORACIÓN DE SAN BENITO EN VIVO.\nTOCA EN «MÁS INFORMACIÓN» Y REZA CON NOSOTROS ↓",
+     "caixa": [70, 700, 1010, 1130], "tamanho": 56, "cor": [240, 200, 125], "entrelinha": 1.3}
+   ],
+   "seta_cta": [1255, [691, 907]]
+  }
+ ]
+}

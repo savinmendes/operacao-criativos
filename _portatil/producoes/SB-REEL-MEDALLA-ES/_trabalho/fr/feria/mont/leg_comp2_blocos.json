@@ -1,0 +1,1777 @@
+[
+ {
+  "i": 1,
+  "ini": 0.033,
+  "fim": 0.533,
+  "texto": "J'AI PRIÉ",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "J'AI",
+    "ini": 0.03333333333333333,
+    "fim": 0.16666666666666666
+   },
+   {
+    "w": "PRIÉ",
+    "ini": 0.2,
+    "fim": 0.5
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "ini": 0.533,
+  "fim": 1.1,
+  "texto": "DERRIÈRE MON",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DERRIÈRE",
+    "ini": 0.5333333333333333,
+    "fim": 0.8666666666666667
+   },
+   {
+    "w": "MON",
+    "ini": 0.9,
+    "fim": 1.0333333333333334
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "ini": 1.1,
+  "fim": 1.833,
+  "texto": "ÉTAL PLEIN DE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ÉTAL",
+    "ini": 1.1,
+    "fim": 1.4
+   },
+   {
+    "w": "PLEIN",
+    "ini": 1.5,
+    "fim": 1.7333333333333334
+   },
+   {
+    "w": "DE",
+    "ini": 1.7666666666666666,
+    "fim": 1.8
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "ini": 1.833,
+  "fim": 3.333,
+  "texto": "FRUITS SANS UN",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "FRUITS",
+    "ini": 1.8333333333333333,
+    "fim": 2.4
+   },
+   {
+    "w": "SANS",
+    "ini": 2.9,
+    "fim": 3.1666666666666665
+   },
+   {
+    "w": "UN",
+    "ini": 3.2,
+    "fim": 3.2666666666666666
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "ini": 3.333,
+  "fim": 4.767,
+  "texto": "SEUL CLIENT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SEUL",
+    "ini": 3.3333333333333335,
+    "fim": 3.466666666666667
+   },
+   {
+    "w": "CLIENT",
+    "ini": 3.533333333333333,
+    "fim": 4.166666666666667
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "ini": 4.867,
+  "fim": 5.333,
+  "texto": "ET VOILÀ CE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ET",
+    "ini": 4.866666666666666,
+    "fim": 4.933333333333334
+   },
+   {
+    "w": "VOILÀ",
+    "ini": 4.966666666666667,
+    "fim": 5.233333333333333
+   },
+   {
+    "w": "CE",
+    "ini": 5.266666666666667,
+    "fim": 5.333333333333333
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "ini": 5.333,
+  "fim": 6.733,
+  "texto": "QUI S'EST PASSÉ",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUI",
+    "ini": 5.333333333333333,
+    "fim": 5.433333333333334
+   },
+   {
+    "w": "S'EST",
+    "ini": 5.5,
+    "fim": 5.633333333333334
+   },
+   {
+    "w": "PASSÉ",
+    "ini": 5.633333333333334,
+    "fim": 6.166666666666667
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "ini": 6.733,
+  "fim": 7.433,
+  "texto": "Ô GLORIEUX",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "Ô",
+    "ini": 6.733333333333333,
+    "fim": 6.866666666666666
+   },
+   {
+    "w": "GLORIEUX",
+    "ini": 6.966666666666667,
+    "fim": 7.4
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "ini": 7.433,
+  "fim": 8.733,
+  "texto": "SAINT BENOÎT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAINT BENOÎT",
+    "ini": 7.433333333333334,
+    "fim": 8.133333333333333
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "ini": 8.733,
+  "fim": 9.467,
+  "texto": "ENLÈVE CE QUI",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ENLÈVE",
+    "ini": 8.733333333333333,
+    "fim": 9.133333333333333
+   },
+   {
+    "w": "CE",
+    "ini": 9.166666666666666,
+    "fim": 9.266666666666667
+   },
+   {
+    "w": "QUI",
+    "ini": 9.3,
+    "fim": 9.433333333333334
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "ini": 9.467,
+  "fim": 10.033,
+  "texto": "A FERMÉ MON",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "A",
+    "ini": 9.466666666666667,
+    "fim": 9.5
+   },
+   {
+    "w": "FERMÉ",
+    "ini": 9.566666666666666,
+    "fim": 9.833333333333334
+   },
+   {
+    "w": "MON",
+    "ini": 9.866666666666667,
+    "fim": 10.0
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "ini": 10.033,
+  "fim": 11.067,
+  "texto": "CHEMIN",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CHEMIN",
+    "ini": 10.033333333333333,
+    "fim": 10.466666666666667
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "ini": 14.1,
+  "fim": 15.0,
+  "texto": "MON ÉTAL ÉTAIT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MON",
+    "ini": 14.1,
+    "fim": 14.333333333333334
+   },
+   {
+    "w": "ÉTAL",
+    "ini": 14.433333333333334,
+    "fim": 14.7
+   },
+   {
+    "w": "ÉTAIT",
+    "ini": 14.766666666666667,
+    "fim": 14.966666666666667
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "ini": 15.0,
+  "fim": 16.3,
+  "texto": "PLEIN ET",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PLEIN",
+    "ini": 15.0,
+    "fim": 15.4
+   },
+   {
+    "w": "ET",
+    "ini": 16.066666666666666,
+    "fim": 16.266666666666666
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "ini": 16.3,
+  "fim": 16.867,
+  "texto": "PERSONNE NE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERSONNE",
+    "ini": 16.3,
+    "fim": 16.7
+   },
+   {
+    "w": "NE",
+    "ini": 16.733333333333334,
+    "fim": 16.8
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "ini": 16.867,
+  "fim": 17.933,
+  "texto": "S'APPROCHAIT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "S'APPROCHAIT",
+    "ini": 16.866666666666667,
+    "fim": 17.666666666666668
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "ini": 17.933,
+  "fim": 18.567,
+  "texto": "JE VOYAIS LES",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "JE",
+    "ini": 17.933333333333334,
+    "fim": 18.066666666666666
+   },
+   {
+    "w": "VOYAIS",
+    "ini": 18.133333333333333,
+    "fim": 18.4
+   },
+   {
+    "w": "LES",
+    "ini": 18.433333333333334,
+    "fim": 18.5
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "ini": 18.567,
+  "fim": 19.233,
+  "texto": "VOISINES TOUT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VOISINES",
+    "ini": 18.566666666666666,
+    "fim": 19.0
+   },
+   {
+    "w": "TOUT",
+    "ini": 19.033333333333335,
+    "fim": 19.2
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "ini": 19.233,
+  "fim": 20.533,
+  "texto": "VENDRE ET MOI",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VENDRE",
+    "ini": 19.233333333333334,
+    "fim": 19.9
+   },
+   {
+    "w": "ET",
+    "ini": 20.133333333333333,
+    "fim": 20.266666666666666
+   },
+   {
+    "w": "MOI",
+    "ini": 20.3,
+    "fim": 20.466666666666665
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "ini": 20.533,
+  "fim": 21.333,
+  "texto": "JE RENTRAIS AVEC",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "JE",
+    "ini": 20.533333333333335,
+    "fim": 20.6
+   },
+   {
+    "w": "RENTRAIS",
+    "ini": 20.666666666666668,
+    "fim": 21.033333333333335
+   },
+   {
+    "w": "AVEC",
+    "ini": 21.066666666666666,
+    "fim": 21.266666666666666
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "ini": 21.333,
+  "fim": 21.733,
+  "texto": "MES FRUITS",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MES",
+    "ini": 21.333333333333332,
+    "fim": 21.433333333333334
+   },
+   {
+    "w": "FRUITS",
+    "ini": 21.466666666666665,
+    "fim": 21.7
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "ini": 21.733,
+  "fim": 22.6,
+  "texto": "PERDUS",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERDUS",
+    "ini": 21.733333333333334,
+    "fim": 22.366666666666667
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "ini": 22.6,
+  "fim": 22.9,
+  "texto": "J'AVAIS",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "J'AVAIS",
+    "ini": 22.6,
+    "fim": 22.9
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "ini": 22.9,
+  "fim": 23.567,
+  "texto": "L'IMPRESSION",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "L'IMPRESSION",
+    "ini": 22.9,
+    "fim": 23.5
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "ini": 23.567,
+  "fim": 24.033,
+  "texto": "QU'ON M'AVAIT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QU'ON",
+    "ini": 23.566666666666666,
+    "fim": 23.666666666666668
+   },
+   {
+    "w": "M'AVAIT",
+    "ini": 23.7,
+    "fim": 23.966666666666665
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "ini": 24.033,
+  "fim": 24.9,
+  "texto": "JETÉ LE MAUVAIS",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "JETÉ",
+    "ini": 24.033333333333335,
+    "fim": 24.333333333333332
+   },
+   {
+    "w": "LE",
+    "ini": 24.4,
+    "fim": 24.466666666666665
+   },
+   {
+    "w": "MAUVAIS",
+    "ini": 24.5,
+    "fim": 24.766666666666666
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "ini": 24.9,
+  "fim": 25.567,
+  "texto": "ŒIL",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ŒIL",
+    "ini": 24.9,
+    "fim": 25.366666666666667
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "ini": 25.567,
+  "fim": 26.433,
+  "texto": "JUSQU'AU JOUR OÙ",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "JUSQU'AU",
+    "ini": 25.566666666666666,
+    "fim": 25.966666666666665
+   },
+   {
+    "w": "JOUR",
+    "ini": 26.033333333333335,
+    "fim": 26.266666666666666
+   },
+   {
+    "w": "OÙ",
+    "ini": 26.3,
+    "fim": 26.4
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "ini": 26.433,
+  "fim": 27.2,
+  "texto": "UN PRÊTRE M'A",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "UN",
+    "ini": 26.433333333333334,
+    "fim": 26.5
+   },
+   {
+    "w": "PRÊTRE",
+    "ini": 26.566666666666666,
+    "fim": 26.966666666666665
+   },
+   {
+    "w": "M'A",
+    "ini": 27.033333333333335,
+    "fim": 27.133333333333333
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "ini": 27.2,
+  "fim": 28.0,
+  "texto": "EXPLIQUÉ QUELQUE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EXPLIQUÉ",
+    "ini": 27.2,
+    "fim": 27.633333333333333
+   },
+   {
+    "w": "QUELQUE",
+    "ini": 27.666666666666668,
+    "fim": 27.966666666666665
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "ini": 28.0,
+  "fim": 28.5,
+  "texto": "CHOSE QUE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CHOSE",
+    "ini": 28.0,
+    "fim": 28.333333333333332
+   },
+   {
+    "w": "QUE",
+    "ini": 28.333333333333332,
+    "fim": 28.433333333333334
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "ini": 28.5,
+  "fim": 29.067,
+  "texto": "PERSONNE NE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERSONNE",
+    "ini": 28.5,
+    "fim": 28.9
+   },
+   {
+    "w": "NE",
+    "ini": 28.933333333333334,
+    "fim": 29.0
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "ini": 29.067,
+  "fim": 29.6,
+  "texto": "M'AVAIT JAMAIS",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "M'AVAIT",
+    "ini": 29.066666666666666,
+    "fim": 29.3
+   },
+   {
+    "w": "JAMAIS",
+    "ini": 29.333333333333332,
+    "fim": 29.6
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "ini": 29.6,
+  "fim": 30.133,
+  "texto": "DIT SUR LA",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DIT",
+    "ini": 29.6,
+    "fim": 29.8
+   },
+   {
+    "w": "SUR",
+    "ini": 29.833333333333332,
+    "fim": 30.0
+   },
+   {
+    "w": "LA",
+    "ini": 30.033333333333335,
+    "fim": 30.1
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "ini": 30.133,
+  "fim": 30.6,
+  "texto": "MÉDAILLE DE",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MÉDAILLE",
+    "ini": 30.133333333333333,
+    "fim": 30.466666666666665
+   },
+   {
+    "w": "DE",
+    "ini": 30.466666666666665,
+    "fim": 30.566666666666666
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "ini": 30.6,
+  "fim": 31.467,
+  "texto": "SAINT BENOÎT",
+  "personagem": "feria",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAINT BENOÎT",
+    "ini": 30.6,
+    "fim": 31.233333333333334
+   }
+  ]
+ },
+ {
+  "i": 37,
+  "ini": 31.467,
+  "fim": 32.1,
+  "texto": "DES MILLIONS DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DES",
+    "ini": 31.466666666666665,
+    "fim": 31.6
+   },
+   {
+    "w": "MILLIONS",
+    "ini": 31.633333333333333,
+    "fim": 31.933333333333334
+   },
+   {
+    "w": "DE",
+    "ini": 31.966666666666665,
+    "fim": 32.03333333333333
+   }
+  ]
+ },
+ {
+  "i": 38,
+  "ini": 32.1,
+  "fim": 32.733,
+  "texto": "PERSONNES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERSONNES",
+    "ini": 32.1,
+    "fim": 32.63333333333333
+   }
+  ]
+ },
+ {
+  "i": 39,
+  "ini": 32.733,
+  "fim": 33.3,
+  "texto": "PORTENT CETTE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PORTENT",
+    "ini": 32.733333333333334,
+    "fim": 33.06666666666667
+   },
+   {
+    "w": "CETTE",
+    "ini": 33.1,
+    "fim": 33.266666666666666
+   }
+  ]
+ },
+ {
+  "i": 40,
+  "ini": 33.3,
+  "fim": 33.9,
+  "texto": "MÉDAILLE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MÉDAILLE",
+    "ini": 33.3,
+    "fim": 33.8
+   }
+  ]
+ },
+ {
+  "i": 41,
+  "ini": 33.9,
+  "fim": 34.967,
+  "texto": "ET PERSONNE NE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ET",
+    "ini": 33.9,
+    "fim": 34.03333333333333
+   },
+   {
+    "w": "PERSONNE",
+    "ini": 34.06666666666667,
+    "fim": 34.6
+   },
+   {
+    "w": "NE",
+    "ini": 34.8,
+    "fim": 34.93333333333333
+   }
+  ]
+ },
+ {
+  "i": 42,
+  "ini": 34.967,
+  "fim": 35.567,
+  "texto": "LEUR A JAMAIS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LEUR",
+    "ini": 34.96666666666667,
+    "fim": 35.03333333333333
+   },
+   {
+    "w": "A",
+    "ini": 35.1,
+    "fim": 35.1
+   },
+   {
+    "w": "JAMAIS",
+    "ini": 35.2,
+    "fim": 35.53333333333333
+   }
+  ]
+ },
+ {
+  "i": 43,
+  "ini": 35.567,
+  "fim": 36.667,
+  "texto": "EXPLIQUÉ CE QUE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EXPLIQUÉ",
+    "ini": 35.56666666666667,
+    "fim": 36.166666666666664
+   },
+   {
+    "w": "CE",
+    "ini": 36.333333333333336,
+    "fim": 36.46666666666667
+   },
+   {
+    "w": "QUE",
+    "ini": 36.53333333333333,
+    "fim": 36.63333333333333
+   }
+  ]
+ },
+ {
+  "i": 44,
+  "ini": 36.667,
+  "fim": 37.4,
+  "texto": "DISENT SES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DISENT",
+    "ini": 36.666666666666664,
+    "fim": 37.03333333333333
+   },
+   {
+    "w": "SES",
+    "ini": 37.166666666666664,
+    "fim": 37.36666666666667
+   }
+  ]
+ },
+ {
+  "i": 45,
+  "ini": 37.4,
+  "fim": 37.9,
+  "texto": "LETTRES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LETTRES",
+    "ini": 37.4,
+    "fim": 37.833333333333336
+   }
+  ]
+ },
+ {
+  "i": 46,
+  "ini": 37.9,
+  "fim": 38.4,
+  "texto": "CE N'EST PAS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CE",
+    "ini": 37.9,
+    "fim": 38.0
+   },
+   {
+    "w": "N'EST",
+    "ini": 38.03333333333333,
+    "fim": 38.166666666666664
+   },
+   {
+    "w": "PAS",
+    "ini": 38.2,
+    "fim": 38.36666666666667
+   }
+  ]
+ },
+ {
+  "i": 47,
+  "ini": 38.4,
+  "fim": 38.8,
+  "texto": "UN MANQUE DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "UN",
+    "ini": 38.4,
+    "fim": 38.46666666666667
+   },
+   {
+    "w": "MANQUE",
+    "ini": 38.5,
+    "fim": 38.666666666666664
+   },
+   {
+    "w": "DE",
+    "ini": 38.7,
+    "fim": 38.766666666666666
+   }
+  ]
+ },
+ {
+  "i": 48,
+  "ini": 38.8,
+  "fim": 39.367,
+  "texto": "FOI",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "FOI",
+    "ini": 38.8,
+    "fim": 39.166666666666664
+   }
+  ]
+ },
+ {
+  "i": 49,
+  "ini": 39.367,
+  "fim": 39.733,
+  "texto": "C'EST QUE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "C'EST",
+    "ini": 39.36666666666667,
+    "fim": 39.53333333333333
+   },
+   {
+    "w": "QUE",
+    "ini": 39.56666666666667,
+    "fim": 39.666666666666664
+   }
+  ]
+ },
+ {
+  "i": 50,
+  "ini": 39.733,
+  "fim": 40.767,
+  "texto": "PERSONNE NE LEUR",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERSONNE",
+    "ini": 39.733333333333334,
+    "fim": 40.266666666666666
+   },
+   {
+    "w": "NE",
+    "ini": 40.46666666666667,
+    "fim": 40.56666666666667
+   },
+   {
+    "w": "LEUR",
+    "ini": 40.6,
+    "fim": 40.7
+   }
+  ]
+ },
+ {
+  "i": 51,
+  "ini": 40.767,
+  "fim": 41.267,
+  "texto": "A APPRIS LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "A",
+    "ini": 40.766666666666666,
+    "fim": 40.766666666666666
+   },
+   {
+    "w": "APPRIS",
+    "ini": 40.86666666666667,
+    "fim": 41.13333333333333
+   },
+   {
+    "w": "LA",
+    "ini": 41.13333333333333,
+    "fim": 41.2
+   }
+  ]
+ },
+ {
+  "i": 52,
+  "ini": 41.267,
+  "fim": 41.933,
+  "texto": "BONNE FAÇON DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "BONNE",
+    "ini": 41.266666666666666,
+    "fim": 41.5
+   },
+   {
+    "w": "FAÇON",
+    "ini": 41.53333333333333,
+    "fim": 41.8
+   },
+   {
+    "w": "DE",
+    "ini": 41.833333333333336,
+    "fim": 41.86666666666667
+   }
+  ]
+ },
+ {
+  "i": 53,
+  "ini": 41.933,
+  "fim": 42.7,
+  "texto": "LA PRIER",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LA",
+    "ini": 41.93333333333333,
+    "fim": 41.96666666666667
+   },
+   {
+    "w": "PRIER",
+    "ini": 42.03333333333333,
+    "fim": 42.5
+   }
+  ]
+ },
+ {
+  "i": 54,
+  "ini": 42.7,
+  "fim": 43.133,
+  "texto": "QUAND ON LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUAND",
+    "ini": 42.7,
+    "fim": 42.86666666666667
+   },
+   {
+    "w": "ON",
+    "ini": 42.93333333333333,
+    "fim": 42.96666666666667
+   },
+   {
+    "w": "LA",
+    "ini": 43.0,
+    "fim": 43.06666666666667
+   }
+  ]
+ },
+ {
+  "i": 55,
+  "ini": 43.133,
+  "fim": 43.667,
+  "texto": "PRIE DE LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PRIE",
+    "ini": 43.13333333333333,
+    "fim": 43.4
+   },
+   {
+    "w": "DE",
+    "ini": 43.4,
+    "fim": 43.46666666666667
+   },
+   {
+    "w": "LA",
+    "ini": 43.53333333333333,
+    "fim": 43.6
+   }
+  ]
+ },
+ {
+  "i": 56,
+  "ini": 43.667,
+  "fim": 44.733,
+  "texto": "BONNE FAÇON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "BONNE",
+    "ini": 43.666666666666664,
+    "fim": 43.9
+   },
+   {
+    "w": "FAÇON",
+    "ini": 43.9,
+    "fim": 44.46666666666667
+   }
+  ]
+ },
+ {
+  "i": 57,
+  "ini": 44.733,
+  "fim": 45.2,
+  "texto": "LA MAISON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LA",
+    "ini": 44.733333333333334,
+    "fim": 44.8
+   },
+   {
+    "w": "MAISON",
+    "ini": 44.9,
+    "fim": 45.166666666666664
+   }
+  ]
+ },
+ {
+  "i": 58,
+  "ini": 45.2,
+  "fim": 46.633,
+  "texto": "S'APAISE LA PEUR",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "S'APAISE",
+    "ini": 45.2,
+    "fim": 45.86666666666667
+   },
+   {
+    "w": "LA",
+    "ini": 46.1,
+    "fim": 46.233333333333334
+   },
+   {
+    "w": "PEUR",
+    "ini": 46.3,
+    "fim": 46.56666666666667
+   }
+  ]
+ },
+ {
+  "i": 59,
+  "ini": 46.633,
+  "fim": 47.3,
+  "texto": "S'EN VA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "S'EN",
+    "ini": 46.63333333333333,
+    "fim": 46.766666666666666
+   },
+   {
+    "w": "VA",
+    "ini": 46.833333333333336,
+    "fim": 47.13333333333333
+   }
+  ]
+ },
+ {
+  "i": 60,
+  "ini": 47.3,
+  "fim": 48.2,
+  "texto": "ET ON RECOMMENCE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ET",
+    "ini": 47.3,
+    "fim": 47.4
+   },
+   {
+    "w": "ON",
+    "ini": 47.43333333333333,
+    "fim": 47.5
+   },
+   {
+    "w": "RECOMMENCE",
+    "ini": 47.56666666666667,
+    "fim": 48.166666666666664
+   }
+  ]
+ },
+ {
+  "i": 61,
+  "ini": 48.2,
+  "fim": 48.667,
+  "texto": "À VOIR DES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "À",
+    "ini": 48.2,
+    "fim": 48.2
+   },
+   {
+    "w": "VOIR",
+    "ini": 48.266666666666666,
+    "fim": 48.4
+   },
+   {
+    "w": "DES",
+    "ini": 48.46666666666667,
+    "fim": 48.56666666666667
+   }
+  ]
+ },
+ {
+  "i": 62,
+  "ini": 48.667,
+  "fim": 49.9,
+  "texto": "ISSUES LÀ OÙ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ISSUES",
+    "ini": 48.666666666666664,
+    "fim": 49.1
+   },
+   {
+    "w": "LÀ",
+    "ini": 49.3,
+    "fim": 49.6
+   },
+   {
+    "w": "OÙ",
+    "ini": 49.666666666666664,
+    "fim": 49.833333333333336
+   }
+  ]
+ },
+ {
+  "i": 63,
+  "ini": 49.9,
+  "fim": 50.967,
+  "texto": "L'ON NE VOYAIT",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "L'ON",
+    "ini": 49.9,
+    "fim": 50.0
+   },
+   {
+    "w": "NE",
+    "ini": 50.06666666666667,
+    "fim": 50.13333333333333
+   },
+   {
+    "w": "VOYAIT",
+    "ini": 50.2,
+    "fim": 50.766666666666666
+   }
+  ]
+ },
+ {
+  "i": 64,
+  "ini": 50.967,
+  "fim": 51.633,
+  "texto": "QUE DES PORTES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUE",
+    "ini": 50.96666666666667,
+    "fim": 51.1
+   },
+   {
+    "w": "DES",
+    "ini": 51.13333333333333,
+    "fim": 51.266666666666666
+   },
+   {
+    "w": "PORTES",
+    "ini": 51.3,
+    "fim": 51.63333333333333
+   }
+  ]
+ },
+ {
+  "i": 65,
+  "ini": 51.633,
+  "fim": 52.3,
+  "texto": "FERMÉES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "FERMÉES",
+    "ini": 51.63333333333333,
+    "fim": 52.1
+   }
+  ]
+ },
+ {
+  "i": 66,
+  "ini": 52.3,
+  "fim": 52.833,
+  "texto": "C'EST POUR ÇA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "C'EST",
+    "ini": 52.3,
+    "fim": 52.43333333333333
+   },
+   {
+    "w": "POUR",
+    "ini": 52.46666666666667,
+    "fim": 52.6
+   },
+   {
+    "w": "ÇA",
+    "ini": 52.666666666666664,
+    "fim": 52.766666666666666
+   }
+  ]
+ },
+ {
+  "i": 67,
+  "ini": 52.833,
+  "fim": 53.4,
+  "texto": "QUE J'AI LAISSÉ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUE",
+    "ini": 52.833333333333336,
+    "fim": 52.93333333333333
+   },
+   {
+    "w": "J'AI",
+    "ini": 52.96666666666667,
+    "fim": 53.06666666666667
+   },
+   {
+    "w": "LAISSÉ",
+    "ini": 53.1,
+    "fim": 53.333333333333336
+   }
+  ]
+ },
+ {
+  "i": 68,
+  "ini": 53.4,
+  "fim": 54.067,
+  "texto": "L'EXPLICATION",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "L'EXPLICATION",
+    "ini": 53.4,
+    "fim": 54.0
+   }
+  ]
+ },
+ {
+  "i": 69,
+  "ini": 54.067,
+  "fim": 55.533,
+  "texto": "COMPLÈTE LETTRE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "COMPLÈTE",
+    "ini": 54.06666666666667,
+    "fim": 54.766666666666666
+   },
+   {
+    "w": "LETTRE",
+    "ini": 55.13333333333333,
+    "fim": 55.5
+   }
+  ]
+ },
+ {
+  "i": 70,
+  "ini": 55.533,
+  "fim": 56.633,
+  "texto": "PAR LETTRE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PAR",
+    "ini": 55.53333333333333,
+    "fim": 55.7
+   },
+   {
+    "w": "LETTRE",
+    "ini": 55.733333333333334,
+    "fim": 56.3
+   }
+  ]
+ },
+ {
+  "i": 71,
+  "ini": 56.633,
+  "fim": 57.0,
+  "texto": "DANS UNE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DANS",
+    "ini": 56.63333333333333,
+    "fim": 56.8
+   },
+   {
+    "w": "UNE",
+    "ini": 56.86666666666667,
+    "fim": 56.96666666666667
+   }
+  ]
+ },
+ {
+  "i": 72,
+  "ini": 57.0,
+  "fim": 57.733,
+  "texto": "TRANSMISSION",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "TRANSMISSION",
+    "ini": 57.0,
+    "fim": 57.666666666666664
+   }
+  ]
+ },
+ {
+  "i": 73,
+  "ini": 57.733,
+  "fim": 58.467,
+  "texto": "EN DIRECT",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN DIRECT",
+    "ini": 57.733333333333334,
+    "fim": 58.36666666666667
+   }
+  ]
+ },
+ {
+  "i": 74,
+  "ini": 58.467,
+  "fim": 59.733,
+  "texto": "OUVERTE 24",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "OUVERTE",
+    "ini": 58.46666666666667,
+    "fim": 59.06666666666667
+   },
+   {
+    "w": "24",
+    "ini": 59.266666666666666,
+    "fim": 59.733333333333334
+   }
+  ]
+ },
+ {
+  "i": 75,
+  "ini": 59.733,
+  "fim": 60.967,
+  "texto": "HEURES SUR 24",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "HEURES",
+    "ini": 59.733333333333334,
+    "fim": 59.93333333333333
+   },
+   {
+    "w": "SUR",
+    "ini": 59.93333333333333,
+    "fim": 60.1
+   },
+   {
+    "w": "24",
+    "ini": 60.166666666666664,
+    "fim": 60.8
+   }
+  ]
+ },
+ {
+  "i": 76,
+  "ini": 60.967,
+  "fim": 62.067,
+  "texto": "APPUIE SUR",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "APPUIE",
+    "ini": 60.96666666666667,
+    "fim": 61.4
+   },
+   {
+    "w": "SUR",
+    "ini": 61.4,
+    "fim": 61.733333333333334
+   }
+  ]
+ },
+ {
+  "i": 77,
+  "ini": 62.067,
+  "fim": 63.367,
+  "texto": "EN SAVOIR PLUS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN SAVOIR PLUS",
+    "ini": 62.06666666666667,
+    "fim": 63.0
+   }
+  ]
+ },
+ {
+  "i": 78,
+  "ini": 63.367,
+  "fim": 64.333,
+  "texto": "JUSTE EN DESSOUS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "JUSTE",
+    "ini": 63.36666666666667,
+    "fim": 63.63333333333333
+   },
+   {
+    "w": "EN",
+    "ini": 63.666666666666664,
+    "fim": 63.7
+   },
+   {
+    "w": "DESSOUS",
+    "ini": 63.733333333333334,
+    "fim": 64.2
+   }
+  ]
+ },
+ {
+  "i": 79,
+  "ini": 64.333,
+  "fim": 65.167,
+  "texto": "ET VIENS PRIER",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ET",
+    "ini": 64.33333333333333,
+    "fim": 64.5
+   },
+   {
+    "w": "VIENS",
+    "ini": 64.53333333333333,
+    "fim": 64.76666666666667
+   },
+   {
+    "w": "PRIER",
+    "ini": 64.8,
+    "fim": 65.13333333333334
+   }
+  ]
+ },
+ {
+  "i": 80,
+  "ini": 65.167,
+  "fim": 65.967,
+  "texto": "AVEC NOUS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "AVEC",
+    "ini": 65.16666666666667,
+    "fim": 65.36666666666666
+   },
+   {
+    "w": "NOUS",
+    "ini": 65.43333333333334,
+    "fim": 65.66666666666667
+   }
+  ]
+ }
+]

@@ -1,0 +1,36 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/PERFUMES-CL_P2_EL-GARZON_H2.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/corpo_h2.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/audio/trilha.mp3",
+  "legenda": {
+    "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/corpo_h2.alinhamento.json",
+    "chaves": [
+      "Garzón",
+      "usted",
+      "propina",
+      "perfumes",
+      "árabes",
+      "uno",
+      "Armaf",
+      "olerme",
+      "Asad",
+      "loza",
+      "9PM",
+      "recibes",
+      "Pídelo"
+    ]
+  },
+  "manchete": {
+    "texto": "ME DEJARON SU NÚMERO 📱",
+    "y": 1200,
+    "ate": 3.3
+  },
+  "cta": {
+    "palavra": "pídelo",
+    "y": 1480
+  },
+  "resolucao": "720",
+  "limite_mb": 30
+}

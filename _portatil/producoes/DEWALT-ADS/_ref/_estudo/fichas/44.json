@@ -1,0 +1,72 @@
+{
+ "ad": "44",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@melhorcompra.com.br (TikTok)",
+  "de_quem": "site de review/comparação (Melhor Compra)",
+  "url": "https://www.tiktok.com/@melhorcompra.com.br/video/7475081848960371973"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 24.4,
+ "cortes": {
+  "n": 7,
+  "tempos_s": [
+   1.96,
+   4.59,
+   7.26,
+   10.22,
+   12.51,
+   17.77,
+   21.9
+  ],
+  "ritmo": "médio-rápido: corte a cada ~2,5-5 s, produção de estúdio (luz neon azul, câmera estabilizada)"
+ },
+ "formato": "review de estúdio / vitrine do kit (B-roll cinematográfico)",
+ "gancho": {
+  "visual_0_3s": "kit DeWalt na bancada de madeira: furadeira + parafusadeira de impacto + bolsa + carregador, travelling lento",
+  "texto_0_3s": "nenhum",
+  "fala_0_3s": "O Kit DeWalt DCD7781 e DCF7871 combina desempenho profissional com praticidade, oferecendo potência e versatilidade"
+ },
+ "corpo": [
+  {
+   "t": "0-7",
+   "o_que": "kit duplo (furadeira DCD7781 + parafusadeira de impacto DCF7871) com bolsa, luz neon"
+  },
+  {
+   "t": "7-12.5",
+   "o_que": "closes da parafusadeira de impacto, logotipo neon 'melhor compra' ao fundo"
+  },
+  {
+   "t": "12.5-18",
+   "o_que": "furadeira na mão contra fundo bege com logo 'melhor compra'"
+  },
+  {
+   "t": "18-24.4",
+   "o_que": "parafusadeira de impacto na mão e bolsa DeWalt"
+  }
+ ],
+ "cta": "nenhum na tela",
+ "texto_na_tela": "nenhum",
+ "produto": {
+  "modelo": "kit DCD7781 (furadeira de impacto) + DCF7871 (parafusadeira de impacto), segundo o post; etiqueta '20V MAX BRUSHLESS' legível",
+  "eh_nosso": "não (kit combo de 2 ferramentas; a furadeira é da família DCD7781, parecida com a nossa)"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "logo/neon 'melhor compra' no cenário em vários takes",
+ "audio": "narração pt-BR de review ('é um investimento que indicamos...')",
+ "uso": [
+  "banco de takes"
+ ],
+ "uso_detalhe": "os closes de estúdio da furadeira na mão (12,5-18 s, fundo bege) têm boa qualidade visual e sem texto queimado; mas o logo 'melhor compra' está no fundo e a maior parte dos takes mostra a parafusadeira de impacto (não vem no nosso kit).",
+ "nota": 2,
+ "nota_justificativa": "imagem bonita mas produto é combo diferente, logo do canal no cenário e sem gancho/argumento; aproveitamento pequeno.",
+ "transcricao": [
+  "0.0-8.7: O Kit DeWalt DCD7781 e DCF7871 combina desempenho profissional com praticidade, oferecendo potência e versatilidade",
+  "8.7-14.3: para diversas tarefas. As suas ferramentas robustas, equipadas com motores brushless e design compacto,",
+  "14.3-19.9: atendem bem as demandas frequentes, enquanto os acessórios, incluídos, garantem organização e eficiência.",
+  "19.9-24.4: É um investimento que indicamos para quem busca qualidade e durabilidade em usos intensivos."
+ ]
+}

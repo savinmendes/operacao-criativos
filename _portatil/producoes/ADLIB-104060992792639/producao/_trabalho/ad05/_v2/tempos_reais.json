@@ -1,0 +1,128 @@
+[
+ {
+  "quem": "CLARA",
+  "texto": "Toma, mi amor, aquí está tu comida.",
+  "ini": 0.1,
+  "fim": 1.92
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Gracias, mi reina.",
+  "ini": 3.95,
+  "fim": 4.88
+ },
+ {
+  "quem": "CLARA",
+  "texto": "Toma, papá, aquí está tu merienda.",
+  "ini": 6.15,
+  "fim": 7.82
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Amor, ¿por qué le serviste tan poquita comida a tu papá?",
+  "ini": 8.95,
+  "fim": 11.54
+ },
+ {
+  "quem": "CLARA",
+  "texto": "Ay, mi amor, es que mi papá no trabaja, y yo tampoco, y siento que traje una carga más a la casa.",
+  "ini": 12.15,
+  "fim": 17.71
+ },
+ {
+  "quem": "CLARA",
+  "texto": "Como tú eres el único que se esfuerza, trato de ahorrar lo más que puedo.",
+  "ini": 18.1,
+  "fim": 21.98
+ },
+ {
+  "quem": "CLARA",
+  "texto": "No quiero que mi papá sea una carga para ti.",
+  "ini": 23.84,
+  "fim": 25.94
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Escucha, Clara. Tu papá no es ninguna carga en esta casa.",
+  "ini": 27.25,
+  "fim": 30.45
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "La comida que compro es para todos, porque este mes se desató un nudo que ataba nuestra vida.",
+  "ini": 31.28,
+  "fim": 36.25
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Recibí la oración de la Desatadora de Nudos, la novena de las nueve palabras, en mi celular.",
+  "ini": 37.34,
+  "fim": 42.07
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Recé en el orden correcto, y la bendición que estaba detenida empezó a llegar.",
+  "ini": 42.56,
+  "fim": 46.57
+ },
+ {
+  "quem": "MARIDO",
+  "texto": "Por eso volvió la paz a nuestra casa, y las puertas cerradas empezaron a abrirse.",
+  "ini": 47.9,
+  "fim": 52.13
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Este es un momento especial, porque cuando este hombre desató su nudo, le prometí que ayudaría a una persona más.",
+  "ini": 54.3,
+  "fim": 61.16
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Esa persona está viendo este video. Esa persona eres tú.",
+  "ini": 61.7,
+  "fim": 65.37
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Yo soy la Desatadora de Nudos, y no fue por casualidad que este video llegó hasta ti.",
+  "ini": 65.7,
+  "fim": 71.2
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "No dejes pasar este momento.",
+  "ini": 71.45,
+  "fim": 73.12
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Toca el botón de abajo ahora:",
+  "ini": 73.4,
+  "fim": 75.07
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "te dejé gratis el video con el orden correcto de las nueve oraciones, una para cada nudo, para desatar lo que ata tu vida.",
+  "ini": 75.35,
+  "fim": 82.51
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Presta atención:",
+  "ini": 83.5,
+  "fim": 84.65
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "esta ayuda es para ti, y este es tu momento de recibirla.",
+  "ini": 84.95,
+  "fim": 88.83
+ },
+ {
+  "quem": "DESATADORA",
+  "texto": "Toca el botón de abajo y recibe gratis la oración que fue preparada para ti.",
+  "ini": 90.4,
+  "fim": 94.8
+ }
+]

@@ -1,0 +1,33 @@
+ok: ad25/flora/t1_final.mp4 | 54 quadros | editado tinha 81 @ 24 fps | saltos>2: 4
+ok: ad25/flora/t4_final.mp4 | 175 quadros | editado tinha 137 @ 24 fps | saltos>2: 5
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\b1.mp4
+t1_final.mp4: 54 quadros a partir de 126.767s
+t4_final.mp4: 175 quadros a partir de 168.167s
+t2_band.mp4: 78 quadros a partir de 143.067s
+t3_band.mp4: 55 quadros a partir de 149.567s
+t5_band.mp4: 41 quadros a partir de 174.067s
+t6_band.mp4: 59 quadros a partir de 175.5s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\b1.mp4 | 8376 quadros, 462 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\p1.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\b2.mp4 | trecho 167.90-173.75s trocado (velocidade 0.93x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\parte2.mp4 19.69s
+aviso: 5.0 min não cabe em 30 MB com qualidade; usando 900 kbps (~38 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 - LYMPHORIA-VECINO-ES-LATAM.mp4
+duração : 298.90s | 720x1280 | áudio: sim | 36.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 - LYMPHORIA-VECINO-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 296.06s
+montagem rápida: 52s para 299s de vídeo (0.17x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 - LYMPHORIA-VECINO-ES-LATAM.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad25\curto\parte2.mp4 22.80s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 CURTO - LYMPHORIA-VECINO-ES-LATAM.mp4
+duração : 71.69s | 720x1280 | áudio: sim | 24.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 25 CURTO - LYMPHORIA-VECINO-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 68.51s
+montagem rápida: 28s para 72s de vídeo (0.40x)
+FIM ad25

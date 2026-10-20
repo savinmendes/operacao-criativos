@@ -1,0 +1,6 @@
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g00.mp4'
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g01.mp4'
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g02.mp4'
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g03.mp4'
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g04.mp4'
+file 'C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/C2/B/var/g05.mp4'

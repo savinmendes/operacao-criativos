@@ -1,0 +1,21 @@
+{
+ "idioma": "en",
+ "prob": 0.6,
+ "segmentos": [
+  {
+   "ini": 0.24,
+   "fim": 2.96,
+   "texto": "Where did you come from, baby?"
+  },
+  {
+   "ini": 2.96,
+   "fim": 5.12,
+   "texto": "And ooh, I want you to take me back"
+  },
+  {
+   "ini": 5.12,
+   "fim": 7.04,
+   "texto": "Outta way, one, two, baby"
+  }
+ ]
+}

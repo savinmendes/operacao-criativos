@@ -1,0 +1,20 @@
+{
+ "id": "08",
+ "texto": "Music",
+ "segmentos": [
+  {
+   "ini": 10.0,
+   "fim": 11.4,
+   "texto": "Music",
+   "no_speech": 0.44,
+   "palavras": [
+    {
+     "w": "Music",
+     "ini": 10.0,
+     "fim": 11.4,
+     "p": 0.01
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+SB-PL-ADS-12.1-GD — pronto em 16/10/2026
+Vídeo: SB-PL-ADS-12.1-GD.mp4 (31,6 s, 1080x1920, 30 fps, 18,9 MB)
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2 (gancho 1,18x, CTA 1,2x/1,15x)
+HeyGen: 4 jobs de lipsync speed (hook v1 descartado, hook v2, jb, cta), nenhum reenvio
+QA: revisar_ad.py (whisper pl) OK, sem termos proibidos, sem salto de pts e sem quadro solto; revisor independente sem problemas
+Avisos: lipsync hook índice de pausa 0,71 (pausas de borda 0–0,38 s e 4,68–5,07 s) e CTA 0,62 (pausa 28,9–29,2 s); carimbo ZALEGŁE desfocado como o original (ogonek do Ę discreto)

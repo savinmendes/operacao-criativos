@@ -1,0 +1,1623 @@
+{
+ "B001": {
+  "wer": 0.0,
+  "whisper": "Meine Lieben, bevor wir weitergehen, muss ich Sie um etwas sehr Wichtiges bitten. Schließen Sie diese Übertragung nicht.",
+  "diffs": [],
+  "prob_min": 0.84
+ },
+ "B002": {
+  "wer": 0.0,
+  "whisper": "Was Sie in den nächsten Minuten hören, ist kein gewöhnliches Gebet und auch keine Lehre, wie man sie sonst erklärt bekommt.",
+  "diffs": [],
+  "prob_min": 0.65
+ },
+ "B003": {
+  "wer": 0.0,
+  "whisper": "Lange Zeit haben unzählige Menschen kraftvolle Gebete wiederholt, ohne zu verstehen, warum manche Wege öffneten und andere nichts veränderten.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B004": {
+  "wer": 0.0,
+  "whisper": "Nicht weil Gott nicht zugehört hätte, nicht weil ihr Glaube zu klein gewesen wäre, sondern weil es Gebete gibt, die eine Ordnung brauchen, eine Absicht und eine geistliche Führung.",
+  "diffs": [],
+  "prob_min": 0.45
+ },
+ "B005": {
+  "wer": 0.0,
+  "whisper": "Und eines davon ist das Gebet des heiligen Benedikt. Über Jahrhunderte war der heilige Benedikt weit mehr als nur ein Name aus der Kirchengeschichte.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B006": {
+  "wer": 0.0,
+  "whisper": "Sein Name steht für Schutz, Befreiung, geistliche Abwehr und für das Brechen jener Mächte, die einem Menschen die Wege verschließen wollen.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B007": {
+  "wer": 0.0,
+  "whisper": "Deshalb hängten viele Familien seine Medaille im Haus auf. Viele Menschen erbaten seine Fürsprache vor schweren Stunden.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B008": {
+  "wer": 0.0,
+  "whisper": "Und viele Gläubige wandten sich an ihn, wenn sie spürten, dass ein unsichtbarer Schatten auf ihrem Leben lastete. Doch eines erklärt kaum jemand.",
+  "diffs": [],
+  "prob_min": 0.65
+ },
+ "B009": {
+  "wer": 0.0,
+  "whisper": "Der Schutz des heiligen Benedikt beginnt nicht schon dann, wenn jemand seinen Namen hört. Er beginnt, wenn ein Mensch lernt, auf die richtige Weise ins Gebet zu gehen.",
+  "diffs": [],
+  "prob_min": 0.86
+ },
+ "B010": {
+  "wer": 0.0,
+  "whisper": "Denn ein zerstreutes Gebet geht vielleicht nur über die Lippen. Ein Gebet aber, das im Glauben geführt wird, kann das Herz durchdringen.",
+  "diffs": [],
+  "prob_min": 0.74
+ },
+ "B011": {
+  "wer": 0.0,
+  "whisper": "Und wenn es das Herz durchdringt, beginnt sich geistlich etwas zu bewegen. Vielleicht ist das der Grund, warum Sie heute hier sind.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B012": {
+  "wer": 0.0,
+  "whisper": "Vielleicht tragen sie finanzielle Sorgen mit sich. Vielleicht fühlt sich ihr Zuhause schwer an. Vielleicht wollten sie vorankommen. Und immer wieder stand eine Mauer im Weg.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B013": {
+  "wer": 0.0,
+  "whisper": "Vielleicht gab es Neid, Verrat, Demütigung, Verluste oder eine Traurigkeit, die sie sich selbst nicht erklären können. Und auch wenn viele um sie herum es nicht sehen, Gott sieht es.",
+  "diffs": [],
+  "prob_min": 0.73
+ },
+ "B014": {
+  "wer": 0.0,
+  "whisper": "Gott sieht, wenn ein Mensch im Stillen weint. Gott sieht, wenn ein Mensch sich voller Sorgen schlafen legt. Gott sieht, wenn ein Mensch wieder aufstehen will und doch spürt, wie ihn etwas erneut nach unten drückt.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B015": {
+  "wer": 0.0,
+  "whisper": "Darum ist diese Übertragung nicht zufällig zu Ihnen gekommen. Heute, hier, werden Sie verstehen, wie ein heiliges Benediktusgebet sieben Minuten lang geführt, Schutz herabrufen, Wege öffnen und Ihr geistliches Leben wieder mit dem Segen verbinden kann.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B016": {
+  "wer": 0.0,
+  "whisper": "den Gott schon für sie bereithält. Es ist keine Magie, kein Aberglaube, kein leeres Versprechen. Es ist ein geführtes Gebet mit Glauben, Absicht und Richtung.",
+  "diffs": [],
+  "prob_min": 0.54
+ },
+ "B017": {
+  "wer": 0.0,
+  "whisper": "Doch ich bitte Sie, von Anfang an genau hinzuhören, denn manche Einzelheiten darf man nicht übergehen. Ein Wort, im richtigen Moment gesprochen, kann eine Wunde berühren.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B018": {
+  "wer": 0.0,
+  "whisper": "Ein Satz, im Glauben wiederholt, kann Frieden schenken. Und ein Gebet mit Führung kann eine Tür öffnen, die lange verschlossen schien.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B019": {
+  "wer": 0.0,
+  "whisper": "Atmen Sie also tief durch. Lassen Sie alle Ablenkungen hinter sich und bleiben Sie bei mir bis zum Ende. Denn jetzt werden Sie verstehen, warum das Gebet des heiligen Benedikt über Jahrhunderte als eines der stärksten geistlichen Werkzeuge bewahrt wurde – für Schutz und für neue Wege.",
+  "diffs": [],
+  "prob_min": 0.19
+ },
+ "B019A": {
+  "wer": 0.071,
+  "whisper": "Meine Lieben, Gott segne alle, die hier versammelt sind. Das Wort Gottes im Buch Malayachi, Kapitel 3, Vers 10, sagt etwas ganz Klares. Gott verspricht nicht wenig, Gott verspricht Fülle. Er verspricht ihr Leben, ihr Zuhause und ihr Schicksal überfließen zu lassen.",
+  "diffs": [
+   [
+    "maleachi",
+    "malayachi"
+   ],
+   [
+    "drei",
+    "3"
+   ],
+   [
+    "zehn",
+    "10"
+   ]
+  ],
+  "prob_min": 0.56
+ },
+ "B020": {
+  "wer": 0.0,
+  "whisper": "Vielleicht ist ihr Konto heute leer, ihr Haus still und ihr Herz voller Angst. Doch Gott sagt genau jetzt, mein Kind, mach dich bereit, denn was ich ausgießen werde, ist so groß, dass der Wohlstand über dein Leben überfließen wird.",
+  "diffs": [],
+  "prob_min": 0.51
+ },
+ "B021": {
+  "wer": 0.087,
+  "whisper": "Es ist kein Segen nur für heute, es ist ein Segen für ihr Leben, für ihre Familie und für alle, die ihnen nahe stehen.",
+  "diffs": [
+   [
+    "nahestehen",
+    "nahe stehen"
+   ]
+  ],
+  "prob_min": 0.54
+ },
+ "B022": {
+  "wer": 0.0,
+  "whisper": "Wenn sie glauben und ihr Herz jetzt öffnen, werden sie spüren, wie sich die Fenster des Himmels schon über ihrem Leben öffnen. Amen.",
+  "diffs": [],
+  "prob_min": 0.49
+ },
+ "B034": {
+  "wer": 0.115,
+  "whisper": "Brüder und Schwestern, in den nächsten 57 Sekunden erhalten die auserwählten Gotteszugang zum heiligen Benediktusgebet. Einem Gebet, das finanzielle Wunder bewirkt, Krankheiten heilt, Ehen wiederherstellt,",
+  "diffs": [
+   [
+    "siebenundfünfzig",
+    "57"
+   ],
+   [
+    "gottes zugang",
+    "gotteszugang"
+   ]
+  ],
+  "prob_min": 0.89
+ },
+ "B035": {
+  "wer": 0.0,
+  "whisper": "Frieden in die Familie bringt, Wege öffnet, Häuser befreit, Wohlstand anzieht und Schicksale wendet.",
+  "diffs": [],
+  "prob_min": 0.62
+ },
+ "B036": {
+  "wer": 0.0,
+  "whisper": "beginnen wir im Namen des Vaters und des Sohnes und des Heiligen Geistes. Amen.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B037": {
+  "wer": 0.054,
+  "whisper": "Meine Lieben zu Hause, schreiben Sie jetzt Ihre Anliegen in den Chat. Ich lese einige Nachrichten vor. Eine Mutter aus Dortmund bittet um unser Gebet. Sie ist hochverschuldet und kann vor lauter Geldsorgen nicht mehr schlafen.",
+  "diffs": [
+   [
+    "hoch verschuldet",
+    "hochverschuldet"
+   ]
+  ],
+  "prob_min": 0.75
+ },
+ "B038": {
+  "wer": 0.0,
+  "whisper": "Ein Familienvater aus Berlin bittet um Segen, damit er Arbeit findet. Er ist seit Monaten mit der Miete im Rückstand und seine Kinder leiden Not.",
+  "diffs": [],
+  "prob_min": 0.73
+ },
+ "B039": {
+  "wer": 0.0,
+  "whisper": "Eine Großmutter aus einem kleinen Dorf in Niederbayern bittet um Heilung, Gelenkschmerzen, Diabetes. Sie möchte nur wieder mit ihren Enkeln spielen und ein normales Leben führen.",
+  "diffs": [],
+  "prob_min": 0.93
+ },
+ "B040": {
+  "wer": 0.0,
+  "whisper": "Sie alle werden heute gesegnet, denn in wenigen Minuten erhalten Sie Zugang zum Heiligen Benediktusgebet.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B041": {
+  "wer": 0.0,
+  "whisper": "Doch verstehen Sie eines, das ist kein gewöhnliches Gebet. Sie finden es in keiner Suchmaschine, auf keiner öffentlichen Website, in keinem herkömmlichen Buch. Es ist nicht frei zugänglich.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B042": {
+  "wer": 0.0,
+  "whisper": "Es ist etwas Heiliges, verborgen, gehütet, geschützt. So kraftvoll, dass es noch heute in vertraulichen Studien internationaler wissenschaftlicher Einrichtungen untersucht wird. Und zum ersten Mal mussten selbst Menschen, die nicht an Gott glaubten, anerkennen,",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B043": {
+  "wer": 0.0,
+  "whisper": "dass dieses Gebet eine echte Kraft hat. Sie selbst sagten, das könnte der Schlüssel sein, den Gott hinterlassen hat, damit die Menschheit wieder zu den Wundern findet. Meine Lieben, was jetzt offenbart wird, kann ihr Leben und das Leben ihrer Familie vollkommen verändern.",
+  "diffs": [],
+  "prob_min": 0.64
+ },
+ "B044": {
+  "wer": 0.0,
+  "whisper": "Aber ich muss Sie auf etwas Wichtiges hinweisen. Diese Offenbarung wird nur hier weitergegeben, in dieser Live-Übertragung.",
+  "diffs": [],
+  "prob_min": 0.57
+ },
+ "B045": {
+  "wer": 0.0,
+  "whisper": "Schließen Sie diese Seite nicht, prüfen Sie Ihren Akku, verbinden Sie sich im Geist, denn eine solche Gelegenheit kommt nicht wieder. Bereiten Sie sich darauf vor zu empfangen, was Gott für Sie bereithält.",
+  "diffs": [],
+  "prob_min": 0.64
+ },
+ "B046": {
+  "wer": 0.0,
+  "whisper": "Regie, bitte jetzt das Video einspielen.",
+  "diffs": [],
+  "prob_min": 0.92
+ },
+ "B047": {
+  "wer": 0.053,
+  "whisper": "Hallo, ich bin Maria Fernandes. Vor zwei Wochen habe ich angefangen, dieses Benediktusgebet zu beten. Täglich, nur sieben Minuten.",
+  "diffs": [
+   [
+    "fernández",
+    "fernandes"
+   ]
+  ],
+  "prob_min": 0.8
+ },
+ "B048": {
+  "wer": 0.0,
+  "whisper": "Ehrlich gesagt hatte ich anfangs Zweifel, aber nach und nach änderte sich etwas. Ich bekam mehr Ordnung ins Leben, verkaufte Produkte von zu Hause aus, regelte meine Schulden und war beim Thema Geld endlich wieder ruhig.",
+  "diffs": [],
+  "prob_min": 0.47
+ },
+ "B049": {
+  "wer": 0.0,
+  "whisper": "Heute habe ich Stabilität. Aber das Schönste war, mein Mann hat sich verändert, zu Gott zurückgefunden, betet wieder mit mir. Wir gehen unseren Weg wieder gemeinsam.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B050": {
+  "wer": 0.0,
+  "whisper": "Padre Juan, von Herzen Dank, dieses Gebet hat unsere Familie verändert.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B051": {
+  "wer": 0.0,
+  "whisper": "Als ich mit diesem Gebet anfing, habe ich schon geglaubt, aber ich ahnte nicht, wie weit Gott gehen kann. Ich betete es im Glauben, still, jeden Morgen sieben Minuten.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B052": {
+  "wer": 0.0,
+  "whisper": "und etwas begann sich zu ändern. Ich bekam ein Jobangebot, genau als ich es am meisten brauchte. Eine verschlossene Tür...",
+  "diffs": [],
+  "prob_min": 0.51
+ },
+ "B053": {
+  "wer": 0.0,
+  "whisper": "ging auf. Heute habe ich Stabilität, finanzielle Ruhe. Ich schlafe in Frieden ohne Schuldensorgen.",
+  "diffs": [],
+  "prob_min": 0.63
+ },
+ "B054": {
+  "wer": 0.0,
+  "whisper": "Aber Gott heilte nicht nur meine Finanzen, sondern auch meinen Körper. Meine starken Rückenschmerzen sind weg.",
+  "diffs": [],
+  "prob_min": 0.69
+ },
+ "B055": {
+  "wer": 0.154,
+  "whisper": "Er heilte meine Seele. Zuhause ist wieder Frieden. Kein Zufall. Ein Wunder.",
+  "diffs": [
+   [
+    "zu hause",
+    "zuhause"
+   ]
+  ],
+  "prob_min": 0.81
+ },
+ "B056": {
+  "wer": 0.083,
+  "whisper": "Danke, Padre Juan. Danke, Heiliger Benedikt. Dieses Gebet hat mein Leben verwandelt.",
+  "diffs": [
+   [
+    "pádre",
+    "padre"
+   ]
+  ],
+  "prob_min": 0.57
+ },
+ "B057": {
+  "wer": 0.0,
+  "whisper": "Mein Geschäft stand kurz vor dem Aus. Wirklich. Keine Kunden, keine Einnahmen und keine Hoffnung mehr.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B058": {
+  "wer": 0.0,
+  "whisper": "Manchmal wollte ich ernsthaft aufgeben. Genau da lernte ich Padre Juan kennen und er erzählte mir vom Benediktusgebet.",
+  "diffs": [],
+  "prob_min": 0.18
+ },
+ "B059": {
+  "wer": 0.0,
+  "whisper": "Ich wusste nicht, ob es wirkt, aber ich habe gebetet. Im Glauben jeden Tag, auch wenn ich innerlich am Boden war.",
+  "diffs": [],
+  "prob_min": 0.92
+ },
+ "B060": {
+  "wer": 0.0,
+  "whisper": "Und dann begann sich etwas zu verändern. Nicht von heute auf morgen. Aber es kamen Kunden. Menschen, die vorher nie aufgetaucht waren, riefen plötzlich an.",
+  "diffs": [],
+  "prob_min": 0.86
+ },
+ "B061": {
+  "wer": 0.0,
+  "whisper": "Langsam lief das Geschäft wieder. Heute habe ich Arbeit, Kunden, ein Auskommen.",
+  "diffs": [],
+  "prob_min": 0.96
+ },
+ "B062": {
+  "wer": 0.0,
+  "whisper": "Aber das Wichtigste, meine innere Ruhe ist zurück. Danke Gott, danke Heiliger Benedikt.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B063": {
+  "wer": 0.0,
+  "whisper": "Und danke, Padre Juan, von Herzen.",
+  "diffs": [],
+  "prob_min": 0.55
+ },
+ "B064": {
+  "wer": 0.0,
+  "whisper": "Für alle, die mich nicht kennen, ich bin Padre Juan Méndez von der Pfarrei Sankt Benedikt. Und es gibt einen sehr wichtigen Grund, warum ich diese Live-Übertragung für Sie zu Hause angesetzt habe, damit Sie diesen Segen empfangen können.",
+  "diffs": [],
+  "prob_min": 0.57
+ },
+ "B065": {
+  "wer": 0.143,
+  "whisper": "Zuallererst sollen Sie wissen, ich habe unseren himmlischen Vater inständig angefleht, genau die Menschen hierher zu führen, die dringend Segen und Wunder brauchen.",
+  "diffs": [
+   [
+    "hierherzuführen",
+    "hierher zu führen"
+   ]
+  ],
+  "prob_min": 0.55
+ },
+ "B066": {
+  "wer": 0.0,
+  "whisper": "Wenn sie also jetzt bei mir sind, hat das einen Grund. Gott schenkt ihnen die Gelegenheit zu verstehen, wie sie die Kraft freisetzen, Wunder in ihrem Leben zu erfahren.",
+  "diffs": [],
+  "prob_min": 0.36
+ },
+ "B067": {
+  "wer": 0.0,
+  "whisper": "Sie sind nicht zufällig hier. Gott bereitet die Wege. Gehen müssen Sie Sie selbst.",
+  "diffs": [],
+  "prob_min": 0.55
+ },
+ "B068": {
+  "wer": 0.111,
+  "whisper": "Darum bereiten sie ihr Herz im Glauben vor, denn sie werden gleich den Segen dieses kraftvollen Benediktus-Gebet empfangen.",
+  "diffs": [
+   [
+    "benediktusgebets",
+    "benediktus gebet"
+   ]
+  ],
+  "prob_min": 0.54
+ },
+ "B069": {
+  "wer": 0.0,
+  "whisper": "Und achten Sie genau auf das, was ich jetzt offenbare. Wir aktivieren die Antenne der Wunder. Einen Teil unseres Körpers, den viele nicht verstehen, der aber die Wunder in ihrem Leben außergewöhnlich vervielfachen kann.",
+  "diffs": [],
+  "prob_min": 0.49
+ },
+ "B070": {
+  "wer": 0.0,
+  "whisper": "Wir werden auch ein altes heiliges Rezept verwenden mit nur drei Zutaten, mit dem die mächtigsten Priester das wundertätige Wasser zubereiteten.",
+  "diffs": [],
+  "prob_min": 0.51
+ },
+ "B071": {
+  "wer": 0.0,
+  "whisper": "Dieses Wasser kann ihr Leben mit Segen erfüllen, Krankheiten heilen, ihrem Geist Frieden bringen und sie vor dem Bösen schützen.",
+  "diffs": [],
+  "prob_min": 0.64
+ },
+ "B072": {
+  "wer": 0.0,
+  "whisper": "Und es gibt noch mehr, einen geheimen Brief, den ein alter Bischof fünf Nächte vor seinem Heimgang geschrieben hat.",
+  "diffs": [],
+  "prob_min": 0.77
+ },
+ "B073": {
+  "wer": 0.0,
+  "whisper": "Er liegt bis heute in den alten Archiven des Vatikans verborgen. Nur zwölf Worte, doch wer sie im Glauben hört, spürt Gott näher als je zuvor.",
+  "diffs": [],
+  "prob_min": 0.9
+ },
+ "B074": {
+  "wer": 0.0,
+  "whisper": "Diese Offenbarung kann Ihr Leben mit Gott in wenigen Wochen vollkommen verändern. Was tun, wenn Gebete nicht erhört werden?",
+  "diffs": [],
+  "prob_min": 0.56
+ },
+ "B075": {
+  "wer": 0.059,
+  "whisper": "Eine Nonne aus einem Klausurkloster, die 67 Jahre ihres Lebens dem Gebet geweiht hat, zeigt ihnen den feinen Fehler, den 99 Prozent der Gläubigen beim Beten machen und der verhindert, dass Gott sie erhört.",
+  "diffs": [
+   [
+    "siebenundsechzig",
+    "67"
+   ],
+   [
+    "neunundneunzig",
+    "99"
+   ]
+  ],
+  "prob_min": 0.45
+ },
+ "B076": {
+  "wer": 0.069,
+  "whisper": "Das Geheimnis, das mir ein 93-jähriger Bischof über die Freimaurer anvertraute, streng unter Verschluss gehalten, kann ihren Geist neu programmieren und in sieben Tagen Reichtum, Gesundheit und Glück bringen.",
+  "diffs": [
+   [
+    "dreiundneunzigjähriger",
+    "93 jähriger"
+   ]
+  ],
+  "prob_min": 0.72
+ },
+ "B077": {
+  "wer": 0.143,
+  "whisper": "Er hat mir den Verhaltenskodex offenbart, mit dem die Elite viel Geld anzieht. Was Sie hier erhalten, ist 500 Mal mehr wert als Gold und 1000 Mal mehr als Diamanten.",
+  "diffs": [
+   [
+    "fünfhundertmal",
+    "500 mal"
+   ],
+   [
+    "tausendmal",
+    "1000 mal"
+   ]
+  ],
+  "prob_min": 0.35
+ },
+ "B078": {
+  "wer": 0.0,
+  "whisper": "Selbst dem reichsten Mann der Welt wurde verwehrt, es zu kaufen. Heute ist ein Tag, den sie nie vergessen werden. Wahrscheinlich kenne ich sie nicht. Aber eines weiß ich, vielleicht leiden sie. Tragen einen tiefen Schmerz wegen etwas, das ihnen ausweglos erscheint. Schulden, die nur wachsen. Eine unerträgliche Arbeit.",
+  "diffs": [],
+  "prob_min": 0.48
+ },
+ "B079": {
+  "wer": 0.0,
+  "whisper": "eine Krankheit oder Probleme in der Liebe, und all das verursacht schreckliche Angst, seelischen Schmerz, Streit in der Familie, den Schmerz der Einsamkeit. Nichts davon ist leicht.",
+  "diffs": [],
+  "prob_min": 0.86
+ },
+ "B080": {
+  "wer": 0.0,
+  "whisper": "Deshalb kann ich Ihnen dieses kraftvolle Gebet unmöglich vorenthalten. Ich erhielt es auf meiner jüngsten Italienreise in einem alten Benediktinerkloster, das dem heiligen Benedikt geweiht ist.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B081": {
+  "wer": 0.048,
+  "whisper": "Hören Sie genau zu, denn Sie erhalten nicht nur Zugang zum mächtigsten Wohlstandsgebet der Welt, sondern erfahren auch die drei Geheimnisse, die der Vatikan unter sieben Siegeln hütet. Geheimnisse, die mir persönlich offenbart wurden in den frühen Morgenstunden des 23. März 2025.",
+  "diffs": [
+   [
+    "dreiundzwanzigsten",
+    "23"
+   ],
+   [
+    "zweitausendfünfundzwanzig",
+    "2025"
+   ]
+  ],
+  "prob_min": 0.59
+ },
+ "B082": {
+  "wer": 0.0,
+  "whisper": "Mit ihnen können sie den Reichtum und die Fülle erlangen, die sie sich wünschen und ihre tiefsten Wünsche erfüllen, welche auch immer. Doch ich muss sie warnen.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B083": {
+  "wer": 0.069,
+  "whisper": "Dieses heilige Wissen ist allein für ehrliche, fleißige und Gottes fürchtige Menschen bestimmt. Es darf ausschließlich dazu dienen, Ihnen und Ihrer Familie zu helfen und dem Nächsten Gutes zu tun.",
+  "diffs": [
+   [
+    "gottesfürchtige",
+    "gottes fürchtige"
+   ]
+  ],
+  "prob_min": 0.3
+ },
+ "B084": {
+  "wer": 0.0,
+  "whisper": "Wenn Ihre Absichten gierig und böse sind, dann schließen Sie bitte dieses Video und verlassen Sie diese Messe. Ich bin es leid, wie die Eliten dieses Geheimnis nutzen, um immer reicher zu werden, während die Armen immer ärmer und kränker werden.",
+  "diffs": [],
+  "prob_min": 0.73
+ },
+ "B085": {
+  "wer": 0.0,
+  "whisper": "Darum, wer bis zum Ende dieser Messe bleibt, wird einen unerschöpflichen Vorrat an Segen, Wundern und Heilung empfangen.",
+  "diffs": [],
+  "prob_min": 0.96
+ },
+ "B086": {
+  "wer": 0.05,
+  "whisper": "Ich gestehe, sie werden sogar ein wenig empört sein, wenn sie die ganze Wahrheit hinter diesem 7-Minuten-Gebet erfahren.",
+  "diffs": [
+   [
+    "sieben",
+    "7"
+   ]
+  ],
+  "prob_min": 0.44
+ },
+ "B087": {
+  "wer": 0.0,
+  "whisper": "Denn es ist so einfach und kraftvoll, dass es bei jedem wirkt, auch bei ihnen, egal wie alt sie sind, ob Mann oder Frau. Gott macht keinen Unterschied.",
+  "diffs": [],
+  "prob_min": 0.63
+ },
+ "B088": {
+  "wer": 0.091,
+  "whisper": "Und es spielt auch keine Rolle, welcher Religion sie angehören. Alles begann am 24. November 2024. Es war ein kalter, trüber Sonntag.",
+  "diffs": [
+   [
+    "vierundzwanzigsten",
+    "24"
+   ],
+   [
+    "zweitausendvierundzwanzig",
+    "2024"
+   ]
+  ],
+  "prob_min": 0.57
+ },
+ "B089": {
+  "wer": 0.0,
+  "whisper": "Ich weiß es noch wie gestern, nach der Messe hatte ich zwölf verpasste Anrufe von meinem älteren Bruder Gabriel.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B090": {
+  "wer": 0.0,
+  "whisper": "Ich rief sofort zurück. Bei unserer geliebten Mutter war ein Aneurysma im Gehirn geplatzt. Man hatte sie ins nächste Krankenhaus gebracht.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B091": {
+  "wer": 0.0,
+  "whisper": "Gott sei Dank überlebte sie, doch man fand eine seltene Erkrankung im Gehirn laut den Ärzten unheilbar und in spätestens drei Monaten tödlich.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B092": {
+  "wer": 0.0,
+  "whisper": "Es war der größte Schmerz meines Lebens. Ich sah die Verzweiflung in den Augen meines Bruders und die Ungewissheit über die Zukunft unserer Mutter.",
+  "diffs": [],
+  "prob_min": 0.78
+ },
+ "B093": {
+  "wer": 0.091,
+  "whisper": "Sofort suchten wir nach anderen Möglichkeiten und stießen auf die Cleveland Klinik, eine Spezialklinik mit einer Behandlung, die sich noch in der Erprobung befand und schon für den Beginn rund 90.000 Euro kostete.",
+  "diffs": [
+   [
+    "clinic",
+    "klinik"
+   ],
+   [
+    "neunzigtausend",
+    "90 000"
+   ]
+  ],
+  "prob_min": 0.77
+ },
+ "B094": {
+  "wer": 0.0,
+  "whisper": "Das lag völlig außerhalb unserer Möglichkeiten. Mein Bruder war arbeitslos, hielt sich mit Fahrerjobs über Wasser und seine Schulden wuchsen immer weiter.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B095": {
+  "wer": 0.259,
+  "whisper": "Und ich als Priester hatte keine Möglichkeit, die Behandlung zu bezahlen. Ich weiß noch, mein Konto stand in der Banking-App, lag bei 49,37 Euro.",
+  "diffs": [
+   [
+    "kontostand",
+    "konto stand"
+   ],
+   [
+    "neunundvierzig",
+    "49 37"
+   ],
+   [
+    "und siebenunddreissig cent",
+    ""
+   ]
+  ],
+  "prob_min": 0.5
+ },
+ "B096": {
+  "wer": 0.0,
+  "whisper": "Meine Lieben, ich war völlig verloren, ganz unten, ich konnte nicht schlafen, mein Glaube wankte, ich war ratlos und die Tage meiner Mutter waren gezählt.",
+  "diffs": [],
+  "prob_min": 0.68
+ },
+ "B097": {
+  "wer": 0.0,
+  "whisper": "Am nächsten Morgen, als ich es am wenigsten erwartete, erhielt ich eine Nachricht, die mich verstummen ließ. Unsere Pfarrei war vom Bischof ausgewählt worden, an einer Pilgerreise nach Italien teilzunehmen zum Kloster des heiligen Benedikt.",
+  "diffs": [],
+  "prob_min": 0.65
+ },
+ "B098": {
+  "wer": 0.0,
+  "whisper": "Es schien nicht vernünftig, doch Gott berührte mein Herz, ich sollte fahren, es war die letzte Hoffnung.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B099": {
+  "wer": 0.0,
+  "whisper": "Als ich im Kloster in Italien ankam, empfing mich seine Exzellenz, Bischof Felipe Santoro. Dieser Diener Gottes kleidete sich demütig und schlicht.",
+  "diffs": [],
+  "prob_min": 0.87
+ },
+ "B100": {
+  "wer": 0.0,
+  "whisper": "Doch seine Augen schienen direkt in meine Seele zu blicken. Vor dem Heiligtum sagte er etwas, das mich tief traf. Mein Sohn, lass mich dich segnen.",
+  "diffs": [],
+  "prob_min": 0.53
+ },
+ "B101": {
+  "wer": 0.0,
+  "whisper": "Ich spüre, dass dein Herz von Angst bedrückt ist. Komm, übergib deine Sorgen dem heiligen Benedikt und vertraue auf die göttliche Vorsehung.",
+  "diffs": [],
+  "prob_min": 0.73
+ },
+ "B102": {
+  "wer": 0.0,
+  "whisper": "Er bat mich, die Augen zu schließen und mich zu entspannen. Was dann geschah, bewegte mich zutiefst. Bischof Felipe bat den heiligen Benedikt um Erlaubnis und begann ein Gebet, das ich noch nie in meinem Leben gehört hatte.",
+  "diffs": [],
+  "prob_min": 0.84
+ },
+ "B103": {
+  "wer": 0.0,
+  "whisper": "Es war altes Italienisch, ich verstand es nicht, aber die Worte schwangen in einer anderen Frequenz. Mein Geist wurde in ein wunderschönes grünes Tal getragen, die Vögel sangen, die Blumen blühten und die Sonne schien.",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B104": {
+  "wer": 0.0,
+  "whisper": "Ich konnte das Gras riechen. All meine Sorgen verdampften wie Wasser auf einem heißen Stein. Die Last der Welt fiel von meinen Schultern. Als ich die Augen öffnete, sagte Bischof Felipe nichts.",
+  "diffs": [],
+  "prob_min": 0.74
+ },
+ "B105": {
+  "wer": 0.0,
+  "whisper": "Er lächelte nur. Am nächsten Morgen eilte ich zurück ins Kloster. Ich erzählte ihm alles von der Krankheit meiner Mutter, vom fehlenden Geld und von den Problemen, die mein Leben überfluteten.",
+  "diffs": [],
+  "prob_min": 0.65
+ },
+ "B106": {
+  "wer": 0.0,
+  "whisper": "Er hörte zu und sagte nach einem Moment der Stille, du hast in deinem Leben viele Opfer gebracht. Dann schloss er die Tür des Zimmers, schloss die Fenster und sagte, hier im Kloster des heiligen Benedikt ist etwas geschehen, das die Lösung für deine Probleme sein könnte.",
+  "diffs": [],
+  "prob_min": 0.61
+ },
+ "B107": {
+  "wer": 0.0,
+  "whisper": "Er erzählte mir von Benedikt von Nursia, die Menschen kamen zu ihm, um von schweren Krankheiten geheilt, vom Bösen befreit und in Geldnot unterstützt zu werden.",
+  "diffs": [],
+  "prob_min": 0.54
+ },
+ "B108": {
+  "wer": 0.0,
+  "whisper": "Der heilige Benedikt führte alles auf seine Gespräche mit seinem Schutzengel zurück. Er verband sich auf einzigartige Weise, bat um Wunder und die Wunder geschahen.",
+  "diffs": [],
+  "prob_min": 0.58
+ },
+ "B109": {
+  "wer": 0.0,
+  "whisper": "Vor drei Monaten haben wir in der verschlossenen Kammer des heiligen Benedikt eine seiner Handschriften entdeckt. Sie beschreibt die Worte und Klangfrequenzen eines heiligen Gebets, das die Gegenwart seines Schutzengels herbeirufen kann.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B110": {
+  "wer": 0.0,
+  "whisper": "Und im selben Augenblick konnte der Engel deine Nöte verstehen und mit seinem Schwert alles Böse durchtrennen, jeden Fluch und alle Fesseln der Probleme.",
+  "diffs": [],
+  "prob_min": 0.57
+ },
+ "B111": {
+  "wer": 0.0,
+  "whisper": "So schöpfte der heilige Benedikt seine Kraft. Der Bischof erzählte mir, dass sie es anfangs für Einbildung hielten, sich aber entschieden, es zu versuchen.",
+  "diffs": [],
+  "prob_min": 0.86
+ },
+ "B112": {
+  "wer": 0.0,
+  "whisper": "Ganz in der Nähe gibt es ein Waisenhaus mit finanziellen Schwierigkeiten. Wir gaben der Leiterin das Gebet und die Anleitung, wie man es betet.",
+  "diffs": [],
+  "prob_min": 0.86
+ },
+ "B113": {
+  "wer": 0.143,
+  "whisper": "Drei Tage später geschah etwas Außergewöhnliches. Es kam eine anonyme Spende über 35.000 Euro.",
+  "diffs": [
+   [
+    "fünfunddreissigtausend",
+    "35 000"
+   ]
+  ],
+  "prob_min": 0.77
+ },
+ "B114": {
+  "wer": 0.0,
+  "whisper": "In diesem Moment begriff ich, dass Gott mir ein Zeichen sandte. Wenn dieses Gebet die Lage eines ganzen Waisenhauses in nur drei Tagen verändern konnte, dann durfte ich den Glauben nicht verlieren.",
+  "diffs": [],
+  "prob_min": 0.73
+ },
+ "B115": {
+  "wer": 0.0,
+  "whisper": "Meine Lieben, da füllte sich mein Herz mit Glauben und Hoffnung. Unsere Engel können in unser Leben eingreifen, doch wir haben die Verbindung zu ihnen verloren.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B116": {
+  "wer": 0.0,
+  "whisper": "Der Bischof forschte unermüdlich im Vatikan und entdeckte, dass unsere Engel sich über die Zirbeldrüse mit uns verbinden. Er nannte sie liebevoll die Antenne der Wunder.",
+  "diffs": [],
+  "prob_min": 0.83
+ },
+ "B117": {
+  "wer": 0.062,
+  "whisper": "Der Satan weiß das, darum benutzt der Unruhe Angst und Sorgen um diese Antenne zu blockieren.",
+  "diffs": [
+   [
+    "er",
+    "der"
+   ]
+  ],
+  "prob_min": 0.61
+ },
+ "B118": {
+  "wer": 0.0,
+  "whisper": "Der Bischof offenbarte mir, dass das Benediktusgebet genau die Klangfrequenz ist, die die Blockade der Zirbeldrüse löst, damit sie sich mit ihrem Schutzengel verbinden und das Wunder empfangen, das sie brauchen.",
+  "diffs": [],
+  "prob_min": 0.63
+ },
+ "B119": {
+  "wer": 0.0,
+  "whisper": "Sie ist wie eine kleine Radioantenne im Kopf, kleiner als ein Reiskorn. Deshalb nannte er sie die Antenne der Wunder.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B120": {
+  "wer": 0.037,
+  "whisper": "Doch bei 99 Prozent der Menschen ist diese Antenne abgeschaltet und es gibt einen ganz einfachen Weg herauszufinden, ob ihre Antenne der Wunder aktiv ist oder nicht.",
+  "diffs": [
+   [
+    "neunundneunzig",
+    "99"
+   ]
+  ],
+  "prob_min": 0.46
+ },
+ "B121": {
+  "wer": 0.0,
+  "whisper": "Beantworten Sie nur diese drei Fragen. Konnten Sie in den letzten Monaten jemals direkt mit Gott oder mit Ihrem Schutzengel sprechen?",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B122": {
+  "wer": 0.0,
+  "whisper": "wurden in dieser Zeit all ihre Gebete erhört, haben sie unerwarteten Segen und Wunder empfangen. Wer auch nur eine dieser Fragen mit Nein beantwortet hat, dessen Antenne der Wunder ist abgeschaltet. Aber keine Sorge, es ist nicht ihre Schuld.",
+  "diffs": [],
+  "prob_min": 0.62
+ },
+ "B123": {
+  "wer": 0.0,
+  "whisper": "Bei all den täglichen Ablenkungen, Sorgen und dem Lärm der Welt, Popmusik, Radio, Fernsehen und Handys, wird diese Antenne immer schwächer. Das entfernt uns von unserem Schutzengel und verhindert, dass göttliche Wunder sichtbar werden.",
+  "diffs": [],
+  "prob_min": 0.89
+ },
+ "B124": {
+  "wer": 0.0,
+  "whisper": "Doch wenn Sie jetzt daran denken, alle elektronischen Geräte loszuwerden und einsam auf einem Berg zu leben, dann irren Sie sich gewaltig.",
+  "diffs": [],
+  "prob_min": 0.77
+ },
+ "B125": {
+  "wer": 0.0,
+  "whisper": "Bischof Felipe selbst sagte, er habe das fünf Monate lang versucht, um seine Antenne der Wunder zu reinigen und wiederherzustellen und sei kläglich gescheitert.",
+  "diffs": [],
+  "prob_min": 0.62
+ },
+ "B126": {
+  "wer": 0.0,
+  "whisper": "Und jetzt fragen Sie sich vielleicht, wie man diese Frequenz wiederfindet. Genau hier kommt das heilige Benediktusgebet ins Spiel. Es besitzt eine vollkommene Kombination aus Worten und Klangfrequenzen, die unsere Antenne der Wunder wieder aktiviert und uns erneut mit unserem Schutzengel verbindet.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B127": {
+  "wer": 0.0,
+  "whisper": "Tatsächlich waren Gebete schon immer gegenwärtig, in Kirchen, in Klöstern und in den Gotteshäusern aller Religionen.",
+  "diffs": [],
+  "prob_min": 0.78
+ },
+ "B128": {
+  "wer": 0.0,
+  "whisper": "Und alle nutzen das Gebet, um eine Verbindung zum Göttlichen herzustellen, denn so hören uns die Engel. Jesus sagte, es gebe keinen besseren Weg zu Gott als das Gebet.",
+  "diffs": [],
+  "prob_min": 0.55
+ },
+ "B129": {
+  "wer": 0.0,
+  "whisper": "Endlich verstand ich, warum unsere Gebete nicht erhört wurden. Und das Schlimmste, bei all den Ablenkungen, dem Druck und dem ständigen Lärm der modernen Welt, die ihren Geist und ihre Seele belasten, ist es egal, wie viel sie arbeiten, lernen oder sich anstrengen.",
+  "diffs": [],
+  "prob_min": 0.7
+ },
+ "B130": {
+  "wer": 0.0,
+  "whisper": "Sie werden nie erreichen, was Gott für Sie geplant hat. Die Moderne hat uns das genommen, aber wir sind kurz davor, diese Kraft zurückzugewinnen. Denn wenn Sie Zugang zu diesem heiligen Gebet erhalten, wird Ihre Antenne der Wunder in ihren ursprünglichen Zustand zurückversetzt, die Verbindung zu Ihrem Schutzengel wird hergestellt.",
+  "diffs": [],
+  "prob_min": 0.55
+ },
+ "B131": {
+  "wer": 0.059,
+  "whisper": "und Sie können seine Gaben und seinen göttlichen Segen empfangen. Mit Gottes Erlaubnis kann ich Ihnen sagen, als Priester habe ich schon viel göttliches erlebt, aber nichts kommt den Geheimnissen dieses heiligen Benediktus-Gebet gleich.",
+  "diffs": [
+   [
+    "benediktusgebets",
+    "benediktus gebet"
+   ]
+  ],
+  "prob_min": 0.52
+ },
+ "B132": {
+  "wer": 0.0,
+  "whisper": "Meine lieben Brüder und Schwestern, ich schwöre ihnen, in diesem Moment dachte ich, das sei fast zu schön, um wahr zu sein. Aber ich hatte nichts zu verlieren.",
+  "diffs": [],
+  "prob_min": 0.55
+ },
+ "B133": {
+  "wer": 0.0,
+  "whisper": "Also flehte ich ihn an, mir eine Fassung des Gebets zu geben, um meiner Familie zu helfen. Nach langem Überlegen war er von meiner Lage gerührt und ließ mich versprechen, es niemandem außer meiner Mutter und meinem Bruder zu offenbaren.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B134": {
+  "wer": 0.0,
+  "whisper": "Daraufhin schickte ich den beiden das ursprüngliche Gebet des heiligen Benedikt mit der Anleitung und war voller Glauben und Hoffnung.",
+  "diffs": [],
+  "prob_min": 0.92
+ },
+ "B135": {
+  "wer": 0.0,
+  "whisper": "Am nächsten Morgen wachte ich auf und erwartete gute Nachrichten von meiner Familie. Doch so kam es nicht.",
+  "diffs": [],
+  "prob_min": 0.94
+ },
+ "B136": {
+  "wer": 0.0,
+  "whisper": "Die Symptome meiner Mutter verschlimmerten sich und sie kam notfallmäßig auf die Intensivstation. Mein Bruder war weiterhin arbeitslos, mit sieben Monatsmieten im Rückstand und jederzeit von der Räumung bedroht. Und seine Frau hatte die gemeinsame Tochter genommen und war ausgezogen.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B137": {
+  "wer": 0.0,
+  "whisper": "Sofort fragte ich mich, mein Gott, und jetzt war dieses Gebet nur eine große Zeitverschwendung. Ich kann es nicht erklären, aber ich hielt eine kleine Flamme der Hoffnung am Brennen und bat Gabriel, das Sieben-Minuten-Gebet weiter im Glauben zu hören.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B138": {
+  "wer": 0.0,
+  "whisper": "zusammen mit unserer Mutter. Und drei Tage später schien es, als hätten wir endlich die Verbindung zu unserem Schutzengel gefunden. Wie durch ein Wunder ging es meiner Mutter deutlich besser, und sie durfte nach Hause. Die Ärzte warnten jedoch, ihr blieben weniger als zwei Monate zu leben.",
+  "diffs": [],
+  "prob_min": 0.63
+ },
+ "B139": {
+  "wer": 0.0,
+  "whisper": "Am selben Tag bekam Gabriel einen unerwarteten Anruf von einem Jugendfreund. Der eröffnete gerade eine Niederlassung seiner Importfirma in Madrid und bat ihn sie zu leiten, weil er ihm voll und ganz vertraute.",
+  "diffs": [],
+  "prob_min": 0.6
+ },
+ "B140": {
+  "wer": 0.143,
+  "whisper": "das Gehalt 29.700 Euro im Jahr plus Provisionen. Mein Gott, war das alles nur Zufall oder die Frucht des heiligen Benediktusgebetes?",
+  "diffs": [
+   [
+    "neunundzwanzigtausendsiebenhundert",
+    "29 700"
+   ],
+   [
+    "benediktusgebets",
+    "benediktusgebetes"
+   ]
+  ],
+  "prob_min": 0.47
+ },
+ "B141": {
+  "wer": 0.0,
+  "whisper": "Wir hörten es weiter jeden Morgen im Glauben, genau sieben Minuten lang, und sie werden es nicht glauben. In der Woche darauf bekam meine Mutter ein neues MRT des Gehirns und die Befunde zeigten eine unerwartete Rückbildung.",
+  "diffs": [],
+  "prob_min": 0.62
+ },
+ "B142": {
+  "wer": 0.0,
+  "whisper": "Obwohl ich Priester bin, war ich von dieser Nachricht zutiefst bewegt. Ich weinte stundenlang vor Rührung und dankte Gott, dem heiligen Benedikt und unserem Schutzengel. Und dann kam das Beste von allem.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B143": {
+  "wer": 0.0,
+  "whisper": "Voller Begeisterung besuchte ich Bischof Felipe, um ihm zu danken. Doch ich konnte mich nicht zurückhalten und flehte ihn an, eine Abschrift des Gebets in meine Pfarrei mitnehmen zu dürfen.",
+  "diffs": [],
+  "prob_min": 0.69
+ },
+ "B144": {
+  "wer": 0.0,
+  "whisper": "Aber er machte meine Hoffnungen zunichte. Dieses Gebet sei nicht öffentlich zugänglich, der Zugang streng beschränkt. Es dürfe nur mit besonderer Erlaubnis weitergegeben werden. Und allein der Hüter der alten Archive des Vatikans dürfe entscheiden, wer es erhält.",
+  "diffs": [],
+  "prob_min": 0.48
+ },
+ "B145": {
+  "wer": 0.0,
+  "whisper": "Da tat ich etwas Verrücktes. Ich tat es für sie, die sie jetzt mit mir in dieser Messe sind, aus einem sehr wichtigen Grund. Unsere Gesellschaft schlittert in Katastrophen, die das Leben von Hunderttausenden zerstören.",
+  "diffs": [],
+  "prob_min": 0.43
+ },
+ "B146": {
+  "wer": 0.0,
+  "whisper": "Ich spreche nicht von Naturkatastrophen, von Stürmen oder Erdbeben. Was mich bedrückt und mich traurig macht und was auch sie beunruhigen sollte, sind die körperlichen und seelischen Katastrophen.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B147": {
+  "wer": 0.0,
+  "whisper": "Die soziale und wirtschaftliche Lage ist aus den Fugen geraten und alles scheint unser Leben zu bedrohen wie nie zuvor.",
+  "diffs": [],
+  "prob_min": 0.67
+ },
+ "B148": {
+  "wer": 0.0,
+  "whisper": "Geld, das für die Rechnungen fehlt, Depressionen, unheilbare Krankheiten, zerbrochene Ehen, Eltern und Kinder im Streit, Diebstahl und Tod.",
+  "diffs": [],
+  "prob_min": 0.96
+ },
+ "B149": {
+  "wer": 0.047,
+  "whisper": "Als ich all das sah, wollte ich unbedingt einige Originalfassungen dieses Gebets in meine Pfarrei bringen. Und am 23. März 2025 bekam ich ein geheimes Treffen mit dem Bischof, der in Rom über die alten Archive des Vatikans wacht, damals schon schwer krank.",
+  "diffs": [
+   [
+    "dreiundzwanzigsten",
+    "23"
+   ],
+   [
+    "zweitausendfünfundzwanzig",
+    "2025"
+   ]
+  ],
+  "prob_min": 0.67
+ },
+ "B150": {
+  "wer": 0.0,
+  "whisper": "und heute in Frieden beim himmlischen Vater ruht. Während des Treffens siegte mein Glaube, denn was Gott geschrieben hat, kann niemand ändern.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B151": {
+  "wer": 0.0,
+  "whisper": "Darum glaube ich, wenn Sie bis hierher geblieben sind, gehören Sie zu den Auserwählten, die hören sollen, was ich jetzt erzähle.",
+  "diffs": [],
+  "prob_min": 0.58
+ },
+ "B152": {
+  "wer": 0.0,
+  "whisper": "Nach drei Stunden Gesprächen und Dutzenden unterschriebener Dokumente übergab mir der Bischof einige der Originalfassungen dieses heiligen Gebets.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B153": {
+  "wer": 0.0,
+  "whisper": "Meine Hände begannen zu zittern, ich spürte eine sehr starke Kraft, die davon ausging. So etwas hatte ich noch nie erlebt, aber ich musste mich verpflichten, einige Regeln einzuhalten, die Originalfassung auf Italienisch zu bewahren, im alten Dialekt mit den engelsgleichen Klangfrequenzen im Hintergrund.",
+  "diffs": [],
+  "prob_min": 0.44
+ },
+ "B154": {
+  "wer": 0.0,
+  "whisper": "es mit dem offiziellen Echtheitssiegel zu versehen, um Nachahmungen zu verhindern, und alle, die es erhalten, anzuleiten, es mit Weisheit zu gebrauchen.",
+  "diffs": [],
+  "prob_min": 0.78
+ },
+ "B155": {
+  "wer": 0.0,
+  "whisper": "Jetzt frage ich Sie. Glauben Sie, dass Gott Ihr Leben verändern und Ihnen Fülle und Wohlstand schenken kann? Wenn ja, möchte ich eine Abmachung mit Ihnen treffen.",
+  "diffs": [],
+  "prob_min": 0.59
+ },
+ "B156": {
+  "wer": 0.0,
+  "whisper": "An die wenigen Auserwählten, die heute live in dieser Messe bei mir sind, wenn sie Gott sieben Minuten am Tag schenken, mit aufrichtigem Glauben im Herzen, ich habe gesehen, wie Gott selbst in wenigen Tagen Wunder wirkt.",
+  "diffs": [],
+  "prob_min": 0.52
+ },
+ "B157": {
+  "wer": 0.0,
+  "whisper": "Ich würde hier nicht mein Gesicht und meine Geschichte zeigen, hätte ich nicht mit eigenen Augen gesehen, was dieses Gebet bewirkt.",
+  "diffs": [],
+  "prob_min": 0.7
+ },
+ "B158": {
+  "wer": 0.0,
+  "whisper": "Sie müssen dieses heilige Gebet nur jeden Morgen sieben Minuten lang hören und Gott wirken lassen, was nur er wirken kann.",
+  "diffs": [],
+  "prob_min": 0.83
+ },
+ "B159": {
+  "wer": 0.0,
+  "whisper": "und sie können eine beständige Quelle von Wohlstand, Wundern und Segen für ihre ganze Familie haben. Die Nachricht von diesem Gebet verbreitete sich mit erstaunlicher Geschwindigkeit.",
+  "diffs": [],
+  "prob_min": 0.56
+ },
+ "B160": {
+  "wer": 0.0,
+  "whisper": "Menschen aus verschiedenen Städten riefen an, schrieben und baten, um eine Möglichkeit, es zu erhalten. Manche boten der Kirche großzügige Spenden an, nur um Zugang zu einer dieser Originalfassungen zu bekommen.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B161": {
+  "wer": 0.071,
+  "whisper": "Das Problem, ich hatte nur die Erlaubnis, 300 Exemplare weiterzugeben. 200 davon habe ich den Gläubigen meiner Pfarrei überreicht, und sie waren in weniger als zwei Minuten vergriffen.",
+  "diffs": [
+   [
+    "dreihundert",
+    "300"
+   ],
+   [
+    "zweihundert",
+    "200"
+   ]
+  ],
+  "prob_min": 0.8
+ },
+ "B162": {
+  "wer": 0.0,
+  "whisper": "Die übrigen möchte ich denen zur Verfügung stellen, die jetzt gerade live bei mir sind. Aber ich muss etwas sehr wichtiges betonen.",
+  "diffs": [],
+  "prob_min": 0.77
+ },
+ "B163": {
+  "wer": 0.0,
+  "whisper": "Das ist ausschließlich für Menschen, die eine schwere Zeit durchmachen. Schulden, Arbeitslosigkeit, körperliche oder seelische Gesundheitsprobleme, auch Schwierigkeiten in der Liebe.",
+  "diffs": [],
+  "prob_min": 0.83
+ },
+ "B164": {
+  "wer": 0.037,
+  "whisper": "Wenn Sie also hier sind, möchte ich Ihnen das heilige Benediktusgebet anvertrauen, dass die Eliten totgeschwiegen haben. Allen, die im Herzen spüren, dass sie es heute brauchen.",
+  "diffs": [
+   [
+    "das",
+    "dass"
+   ]
+  ],
+  "prob_min": 0.7
+ },
+ "B165": {
+  "wer": 0.0,
+  "whisper": "Und wenn Sie jetzt hier sind, ist das kein Zufall. Diese Botschaft gilt auch Ihnen. Etwas in Ihnen weiß schon, dass dies ein wichtiger Moment ist. Darum spreche ich klar und in Ruhe zu Ihnen.",
+  "diffs": [],
+  "prob_min": 0.56
+ },
+ "B166": {
+  "wer": 0.0,
+  "whisper": "Wenn Sie gleich auf den Button unten klicken, gehen Sie einen einfachen Schritt. Sie gelangen in einen geschützten Bereich, in dem Sie klar und in Ruhe fortfahren können.",
+  "diffs": [],
+  "prob_min": 0.84
+ },
+ "B167": {
+  "wer": 0.0,
+  "whisper": "Dort bestätigen Sie Ihren Zugang, indem Sie Ihren Beitrag sicher leisten und wenige Augenblicke später erhalten Sie den vollständigen Zugang.",
+  "diffs": [],
+  "prob_min": 0.43
+ },
+ "B168": {
+  "wer": 0.045,
+  "whisper": "Alles kommt per E-Mail mit klaren Anweisungen. Es ist nicht kompliziert. Sie brauchen keine Vorkenntnisse. Und wenn Sie eintreten, finden Sie einen Raum, der für Sie vorbereitet ist, in Stille, ohne Unterbrechungen, indem Sie dieses Gebet vollständig und noch tiefer hören können.",
+  "diffs": [
+   [
+    "in dem",
+    "indem"
+   ]
+  ],
+  "prob_min": 0.69
+ },
+ "B169": {
+  "wer": 0.0,
+  "whisper": "Und von diesem Moment an beginnen Sie, Veränderungen zu spüren. Mehr Ruhe, mehr Klarheit, mehr Richtung. Dinge, die Sie früher belastet haben, verlieren an Kraft und nach und nach kommt alles in Ordnung.",
+  "diffs": [],
+  "prob_min": 0.33
+ },
+ "B170": {
+  "wer": 0.0,
+  "whisper": "Wäre dies eine private, geistliche Begleitung, hätte sie einen viel höheren Wert. Aber diese Mission wurde nicht geschaffen, um reich zu werden, sondern um zu helfen.",
+  "diffs": [],
+  "prob_min": 0.91
+ },
+ "B171": {
+  "wer": 0.043,
+  "whisper": "Deshalb gibt es heute eine einfache Möglichkeit, diesen Weg weiterzugehen. Sie können Ihren Zugang heute mit einem Beitrag von nur 37 Euro bestätigen.",
+  "diffs": [
+   [
+    "siebenunddreissig",
+    "37"
+   ]
+  ],
+  "prob_min": 0.63
+ },
+ "B172": {
+  "wer": 0.036,
+  "whisper": "Das ist kein Preis, sondern ein Versprechen an Sie selbst, an Ihren Frieden und an diesen Neuanfang. Und Sie gehen kein Risiko ein. Sie haben 90 Tage Garantie.",
+  "diffs": [
+   [
+    "neunzig",
+    "90"
+   ]
+  ],
+  "prob_min": 0.73
+ },
+ "B173": {
+  "wer": 0.0,
+  "whisper": "Wenn es nichts für Sie ist, können Sie ganz unkompliziert Ihr Geld zurückverlangen. Klicken Sie also jetzt und bestätigen Sie Ihren Zugang.",
+  "diffs": [],
+  "prob_min": 0.89
+ },
+ "B174": {
+  "wer": 0.0,
+  "whisper": "Und das ist noch nicht alles. Ich möchte Ihnen noch mehr schenken, denn meine Mission endet nicht mit dem Gebet. Ich habe fünf besondere geistliche Hilfen für Sie vorbereitet.",
+  "diffs": [],
+  "prob_min": 0.64
+ },
+ "B175": {
+  "wer": 0.0,
+  "whisper": "Die erste heißt Schutz des Hauses, eine geistliche Aktivierung für ihr Zuhause und ihre Familie, damit der Friede bleibt, die Dunkelheit keinen Zutritt hat und der Segen in jedem Winkel ihres Hauses wohnt.",
+  "diffs": [],
+  "prob_min": 0.41
+ },
+ "B176": {
+  "wer": 0.067,
+  "whisper": "Außerdem erhalten Sie das Wohlstandsprotokoll, eine geführte geistliche Methode, die Ihnen hilft, finanzielle Wege freizulegen und Raum für neue Möglichkeiten zu schaffen, die Gott schon für Sie vorbereitet hat.",
+  "diffs": [
+   [
+    "wohlstands protokoll",
+    "wohlstandsprotokoll"
+   ]
+  ],
+  "prob_min": 0.76
+ },
+ "B177": {
+  "wer": 0.0,
+  "whisper": "Dazu seelische Heilung, ein tiefgehender Leitfaden zur inneren Wiederherstellung, denn oft liegt die Wunde nicht im Körper, sondern in der Seele.",
+  "diffs": [],
+  "prob_min": 0.91
+ },
+ "B178": {
+  "wer": 0.097,
+  "whisper": "Und auch das will Gott heilen. Sie erhalten außerdem geistliche Disziplin. Eine einfache und kraftvolle tägliche Routine, um dran zu bleiben, sich zu sammeln und ihre Verbindung zu Gott jeden Tag zu stärken.",
+  "diffs": [
+   [
+    "dranzubleiben",
+    "dran zu bleiben"
+   ]
+  ],
+  "prob_min": 0.76
+ },
+ "B179": {
+  "wer": 0.0,
+  "whisper": "Und zum Schluss erhalten Sie ein Überraschungsgeschenk. Darüber darf ich nicht viel mehr sagen, denn es ist nicht öffentlich erhältlich und nur für die Menschen bestimmt, die Vertrauen und Zugang zum heiligen Benediktusgebet erhalten.",
+  "diffs": [],
+  "prob_min": 0.61
+ },
+ "B180": {
+  "wer": 0.05,
+  "whisper": "Nur so viel kann ich Ihnen sagen. Bei denen, die es erhalten, beginnen die Veränderungen in weniger als 48 Stunden.",
+  "diffs": [
+   [
+    "achtundvierzig",
+    "48"
+   ]
+  ],
+  "prob_min": 0.75
+ },
+ "B181": {
+  "wer": 0.0,
+  "whisper": "Das sind keine bloßen Materialien, es sind Werkzeuge des Glaubens, die sie in diesem Neuanfang tragen, führen und stärken sollen.",
+  "diffs": [],
+  "prob_min": 0.67
+ },
+ "B182": {
+  "wer": 0.0,
+  "whisper": "Das verspricht ihnen keinen magischen Reichtum, es verspricht ihnen etwas Kraftvolleres, innere Ordnung, geistige Klarheit, seelische Stabilität, geistliche Richtung, einen gefestigten Glauben, inneren Frieden, Disziplin, Fokus, Stärke, Bewusstsein und als Folge bessere Entscheidungen.",
+  "diffs": [],
+  "prob_min": 0.65
+ },
+ "B183": {
+  "wer": 0.086,
+  "whisper": "bessere Ergebnisse, ein besseres Leben. Und jetzt liegt dieser Moment vor Ihnen, nicht als etwas Zufälliges, sondern als Entscheidung. Denn es gibt Momente im Leben, in denen alles still zu stehen scheint und sich trotzdem etwas öffnet.",
+  "diffs": [
+   [
+    "stillzustehen",
+    "still zu stehen"
+   ]
+  ],
+  "prob_min": 0.65
+ },
+ "B184": {
+  "wer": 0.0,
+  "whisper": "Und dies ist einer dieser Momente. Sie müssen jetzt nicht alles verstehen. Sie dürfen ihn nur nicht verstreichen lassen. Denn wenn wir solche Rufe überhören, bleibt alles wie es ist. Doch wenn wir antworten, beginnt sich etwas zu bewegen. Zuerst in uns und dann in allem anderen.",
+  "diffs": [],
+  "prob_min": 0.62
+ },
+ "B185": {
+  "wer": 0.091,
+  "whisper": "Und das verändert alles. Was ihnen hier angeboten wird, steht nicht jedem offen. Es wird in bestimmten Momenten denen geschenkt, die bleiben und sich entscheiden, hier zu sein. Denn nicht alle kommen bis an diesen Punkt. Und oft geben wir Geld aus für Dinge, die wir nicht brauchen.",
+  "diffs": [
+   [
+    "",
+    "die wir nicht brauchen"
+   ]
+  ],
+  "prob_min": 0.12
+ },
+ "B186": {
+  "wer": 0.044,
+  "whisper": "die nicht bleiben, nichts verwandeln, nichts verändern. Aber dieser Schritt ist anders. Er ist keine Ausgabe, sondern eine Entscheidung, die ihr Leben wirklich wenden kann. Gehen Sie ihn in Ruhe. Sie haben 90 Tage, volle 90 Tage, um diesen Weg in Ihrem Tempo zu gehen.",
+  "diffs": [
+   [
+    "neunzig",
+    "90"
+   ],
+   [
+    "neunzig",
+    "90"
+   ]
+  ],
+  "prob_min": 0.49
+ },
+ "B187": {
+  "wer": 0.0,
+  "whisper": "um zuzuhören, anzuwenden und klar zu spüren, ob dieser Weg für Sie ist. Und wenn nicht, lassen Sie ihn einfach hinter sich, ohne Hürden. Außerdem ist der ganze Ablauf geschützt. Es ist dieselbe digitale Umgebung.",
+  "diffs": [],
+  "prob_min": 0.7
+ },
+ "B188": {
+  "wer": 0.0,
+  "whisper": "die Sie nutzen, wenn Sie bei bekannten Plattformen einkaufen, etwa bei Amazon oder bei Google Diensten. Ihre Daten sind geschützt und der Zugang erfolgt sofort. Darum können Sie beruhigt weitergehen. Es geht nicht um das, was Sie bisher gesehen haben, sondern darum, was Sie jetzt daraus machen.",
+  "diffs": [],
+  "prob_min": 0.74
+ },
+ "B189": {
+  "wer": 0.0,
+  "whisper": "Schieben Sie es also nicht auf, gehen Sie diesen Schritt, klicken Sie auf den Button unter diesem Video, sichern Sie sich jetzt Ihren Zugang und lassen Sie hier etwas Neues beginnen. Gott begleite Ihre Entscheidung im Namen des Vaters und des Sohnes und des Heiligen Geistes.",
+  "diffs": [],
+  "prob_min": 0.78
+ },
+ "B190": {
+  "wer": 0.0,
+  "whisper": "Amen.",
+  "diffs": [],
+  "prob_min": 0.97
+ },
+ "B191": {
+  "wer": 0.0,
+  "whisper": "Sie sind noch da, dann möchte ich Ihnen acht wichtige Fragen beantworten, damit Sie Ihre Entscheidung in Ruhe und ohne jeden Zweifel treffen können.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B192": {
+  "wer": 0.0,
+  "whisper": "Hören Sie gut zu, denn vielleicht ist eine dieser Fragen genau die, die Ihnen gerade durch den Kopf geht.",
+  "diffs": [],
+  "prob_min": 0.66
+ },
+ "B193": {
+  "wer": 0.0,
+  "whisper": "Renate Schneider fragt, Padre Juan, ich habe vor drei Tagen angefangen das Gebet zu hören und spüre schon mehr Ruhe.",
+  "diffs": [],
+  "prob_min": 0.53
+ },
+ "B194": {
+  "wer": 0.0,
+  "whisper": "Außerdem wurde ich nach vielen Monaten ohne Chancen zu einem Vorstellungsgespräch eingeladen. Ist es normal, so schnell Veränderungen zu bemerken?",
+  "diffs": [],
+  "prob_min": 0.87
+ },
+ "B195": {
+  "wer": 0.0,
+  "whisper": "Wie lange dauert es, bis man Ergebnisse sieht? Ja Renate, manche Menschen spüren schon in den ersten Tagen Veränderungen.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B196": {
+  "wer": 0.0,
+  "whisper": "Manchmal geschieht die erste Veränderung im Inneren. Man spürt mehr Ruhe, gewinnt die Hoffnung zurück, kann klarer denken und hat wieder Kraft zu handeln.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B197": {
+  "wer": 0.0,
+  "whisper": "Aus dieser inneren Verwandlung heraus erkennt man oft Möglichkeiten, die man vorher nicht sehen konnte. Andere brauchen mehr Zeit, denn jede Geschichte und jeder Weg ist anders.",
+  "diffs": [],
+  "prob_min": 0.92
+ },
+ "B198": {
+  "wer": 0.08,
+  "whisper": "Deshalb empfehle ich, das Gebet sieben Minuten am Tag zu hören, mindestens sieben Tage hintereinander, mit einer aufrichtigen Absicht und in dem Sie alle Anweisungen befolgen.",
+  "diffs": [
+   [
+    "indem",
+    "in dem"
+   ]
+  ],
+  "prob_min": 0.48
+ },
+ "B199": {
+  "wer": 0.0,
+  "whisper": "Vergleichen Sie sich mit niemandem, tun Sie weiter Ihren Teil, bereiten Sie sich auf Ihr Vorstellungsgespräch vor und nehmen Sie jede neue Gelegenheit mit Glauben, Dankbarkeit und Verantwortung an.",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B200": {
+  "wer": 0.12,
+  "whisper": "Kostet der Zugang zum Gebet monatlich etwas? Nein. Sie zahlen einmalig 37 Euro und erhalten Zugang zum Heiligen Benediktus Gebet und zu allen Materialien dieses Angebots.",
+  "diffs": [
+   [
+    "siebenunddreissig",
+    "37"
+   ],
+   [
+    "benediktusgebet",
+    "benediktus gebet"
+   ]
+  ],
+  "prob_min": 0.68
+ },
+ "B201": {
+  "wer": 0.0,
+  "whisper": "Es gibt keine versteckten Monatsgebühren, kein automatisches Abo und keine weiteren Abbuchungen für diesen Zugang. Es ist eine einmalige Zahlung.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B202": {
+  "wer": 0.0,
+  "whisper": "Nachdem Sie Ihre Anmeldung bestätigt haben, erhalten Sie die Anleitung für den Zugang zu den Inhalten direkt per E-Mail.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B203": {
+  "wer": 0.034,
+  "whisper": "Und wenn ich nach dem Einstieg merke, dass dieser Weg nichts für mich ist, Sie können ganz beruhigt beginnen, denn Ihre Entscheidung ist durch eine 90-Tage-Garantie geschützt.",
+  "diffs": [
+   [
+    "neunzig",
+    "90"
+   ]
+  ],
+  "prob_min": 0.43
+ },
+ "B204": {
+  "wer": 0.0,
+  "whisper": "In dieser Zeit können Sie hineinschauen, die Inhalte kennenlernen, das Gebet hören und den Anleitungen folgen, um in Ruhe zu entscheiden, ob dieser Weg für Sie Sinn ergibt.",
+  "diffs": [],
+  "prob_min": 0.89
+ },
+ "B205": {
+  "wer": 0.0,
+  "whisper": "Wenn Sie innerhalb der Garantiezeit merken, dass Sie nicht weitermachen möchten, können Sie sich an unser Support-Team wenden und die Erstattung gemäß den auf der Seite genannten Bedingungen beantragen.",
+  "diffs": [],
+  "prob_min": 0.81
+ },
+ "B206": {
+  "wer": 0.0,
+  "whisper": "So müssen Sie Ihre Entscheidung nicht aus Angst treffen. Sie haben genug Zeit, alles kennenzulernen, was für Sie vorbereitet wurde.",
+  "diffs": [],
+  "prob_min": 0.68
+ },
+ "B207": {
+  "wer": 0.0,
+  "whisper": "Wie kann ich bezahlen? Ganz einfach. Wenn Sie auf den Button unter diesem Video klicken, gelangen Sie auf eine sichere Bezahlseite.",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B208": {
+  "wer": 0.045,
+  "whisper": "Dort wählen Sie bequem eine der angezeigten Zahlungsarten und zahlen den einmaligen Betrag von 37 Euro, ohne Umrechnung und ohne versteckte Kosten.",
+  "diffs": [
+   [
+    "siebenunddreissig",
+    "37"
+   ]
+  ],
+  "prob_min": 0.72
+ },
+ "B209": {
+  "wer": 0.0,
+  "whisper": "Der Bezahlvorgang ist verschlüsselt und dauert nur einen Augenblick.",
+  "diffs": [],
+  "prob_min": 0.82
+ },
+ "B210": {
+  "wer": 0.0,
+  "whisper": "Sobald die Zahlung bestätigt ist, erhalten Sie die Zugangsdaten per E-Mail. Karin Wagner fragt...",
+  "diffs": [],
+  "prob_min": 0.77
+ },
+ "B211": {
+  "wer": 0.091,
+  "whisper": "Mein Mann hat gesehen, wie ich mich verändert habe und möchte jetzt auch beten. Kann er das Gebet mit mir zusammenhören?",
+  "diffs": [
+   [
+    "zusammen hören",
+    "zusammenhören"
+   ]
+  ],
+  "prob_min": 0.78
+ },
+ "B212": {
+  "wer": 0.0,
+  "whisper": "Ja Karin, Ihr Mann kann das Gebet gemeinsam mit Ihnen hören. Sie können sich zusammen sieben Minuten nehmen, eine ruhige Atmosphäre schaffen und ihre Anliegen vor Gott bringen.",
+  "diffs": [],
+  "prob_min": 0.53
+ },
+ "B213": {
+  "wer": 0.0,
+  "whisper": "Jeder kann ein anderes Anliegen haben. Sie können um Wohlstand und Frieden im Haus bitten.",
+  "diffs": [],
+  "prob_min": 0.87
+ },
+ "B214": {
+  "wer": 0.0,
+  "whisper": "während ihr Mann für seine Arbeit, seine Gesundheit, um Schutz oder für ein persönliches Anliegen beten kann.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B215": {
+  "wer": 0.0,
+  "whisper": "Das gemeinsame Gebet als Paar kann auch zu einem besonderen Moment der Verbundenheit, des Gesprächs und der geistlichen Stärkung werden.",
+  "diffs": [],
+  "prob_min": 0.91
+ },
+ "B216": {
+  "wer": 0.0,
+  "whisper": "Auch die Menschen, die mit ihnen leben, ihre Kinder eingeschlossen, können an diesem Familienmoment teilnehmen.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B217": {
+  "wer": 0.0,
+  "whisper": "Immer mit Liebe, Respekt und einer altersgerechten Begleitung.",
+  "diffs": [],
+  "prob_min": 0.42
+ },
+ "B218": {
+  "wer": 0.0,
+  "whisper": "Niemand muss gezwungen werden. Laden Sie sie einfach ein, einen Moment des Friedens, der Dankbarkeit und der Verbindung mit Gott zu teilen.",
+  "diffs": [],
+  "prob_min": 0.72
+ },
+ "B219": {
+  "wer": 0.0,
+  "whisper": "Klaus Becker fragt, ich bin nicht katholisch und war seit Jahren in keiner Kirche mehr.",
+  "diffs": [],
+  "prob_min": 0.68
+ },
+ "B220": {
+  "wer": 0.0,
+  "whisper": "Kann ich das Benediktusgebet trotzdem nutzen? Ja Klaus, Sie müssen keiner bestimmten Kirche angehören und auch keinen vollkommenen Glauben haben, um zu beginnen.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B221": {
+  "wer": 0.0,
+  "whisper": "Dieser Weg wurde für Menschen vorbereitet, die an Gott glauben, das Gebet achten und ihr geistliches Leben stärken möchten.",
+  "diffs": [],
+  "prob_min": 0.79
+ },
+ "B222": {
+  "wer": 0.0,
+  "whisper": "Viele Menschen kommen mit Zweifeln nach Jahren fern der Kirche oder in Zeiten, in denen ihr Glaube schwach geworden ist.",
+  "diffs": [],
+  "prob_min": 0.54
+ },
+ "B223": {
+  "wer": 0.0,
+  "whisper": "Dafür müssen Sie sich nicht unwürdig fühlen. Sie müssen nur mit Ehrfurcht zuhören, Ihr Herz offen halten und bereit sein, sich ein paar Minuten zu nehmen, um wieder in Verbindung zu kommen. Der Glaube ist nicht immer vollständig da, bevor man den ersten Schritt geht.",
+  "diffs": [],
+  "prob_min": 0.59
+ },
+ "B224": {
+  "wer": 0.0,
+  "whisper": "Oft wächst er während wir gehen. Elena Vogel fragt, Padre, ich verstehe kein Italienisch.",
+  "diffs": [],
+  "prob_min": 0.63
+ },
+ "B225": {
+  "wer": 0.0,
+  "whisper": "Muss ich alle Worte verstehen, um das Gebet richtig zu beten? Nein, Elena, Sie müssen weder italienisch sprechen, noch schwierige Wörter auswendig lernen oder jeden Ausdruck der Originalfassung verstehen.",
+  "diffs": [],
+  "prob_min": 0.68
+ },
+ "B226": {
+  "wer": 0.0,
+  "whisper": "Im Programm erhalten Sie klare Anleitungen auf Deutsch, wie Sie den Raum vorbereiten, wie Sie Ihre Absicht formulieren und wie Sie das Gebet richtig hören.",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B227": {
+  "wer": 0.0,
+  "whisper": "Ihr Teil ist ganz einfach, nehmen Sie sich sieben Minuten, suchen Sie einen ruhigen Ort, vermeiden Sie Unterbrechungen und hören Sie aufmerksam und mit Ehrfurcht zu.",
+  "diffs": [],
+  "prob_min": 0.75
+ },
+ "B228": {
+  "wer": 0.0,
+  "whisper": "Sie müssen nicht jedes Wort kontrollieren oder analysieren. Konzentrieren Sie sich auf Ihre Absicht, auf Ihre Verbindung mit Gott und auf die Anweisungen, die Sie Schritt für Schritt erhalten.",
+  "diffs": [],
+  "prob_min": 0.88
+ },
+ "B229": {
+  "wer": 0.0,
+  "whisper": "Christian Krämer fragt, ich bin bereit. Wie fange ich an? Ganz einfach.",
+  "diffs": [],
+  "prob_min": 0.69
+ },
+ "B230": {
+  "wer": 0.037,
+  "whisper": "Klicken Sie auf den Button unter diesem Video. Sie gelangen auf eine sichere Seite, auf der Sie Ihren Zugang mit der einmaligen Zahlung von 37 Euro bestätigen.",
+  "diffs": [
+   [
+    "siebenunddreissig",
+    "37"
+   ]
+  ],
+  "prob_min": 0.67
+ },
+ "B231": {
+  "wer": 0.0,
+  "whisper": "Nach der Bestätigung erhalten Sie die Anleitung per E-Mail, damit Sie sofort einsteigen und beginnen können.",
+  "diffs": [],
+  "prob_min": 0.85
+ },
+ "B232": {
+  "wer": 0.0,
+  "whisper": "Falls die Nachricht nicht in Ihrem Posteingang erscheint, schauen Sie bitte auch im Ordner Werbung oder im Spam-Ordner nach.",
+  "diffs": [],
+  "prob_min": 0.59
+ },
+ "B233": {
+  "wer": 0.0,
+  "whisper": "Sie müssen keine komplizierten Programme installieren und sich nicht mit Technik auskennen. Sie können mit Ihrem Handy, Computer oder Tablet darauf zugreifen.",
+  "diffs": [],
+  "prob_min": 0.71
+ },
+ "B234": {
+  "wer": 0.0,
+  "whisper": "Der Button befindet sich direkt hier unten. Klicken Sie jetzt, bestätigen Sie Ihren Zugang und beginnen Sie diesen Weg mit dem heiligen Benediktusgebet.",
+  "diffs": [],
+  "prob_min": 0.8
+ },
+ "B235": {
+  "wer": 0.0,
+  "whisper": "Gott beschütze ihr Zuhause, stärke ihre Familie, öffne ihnen die Wege und leite jede ihrer Entscheidungen.",
+  "diffs": [],
+  "prob_min": 0.68
+ },
+ "B236": {
+  "wer": 0.0,
+  "whisper": "im Namen des Vaters und des Sohnes und des Heiligen Geistes. Amen.",
+  "diffs": [],
+  "prob_min": 0.59
+ }
+}

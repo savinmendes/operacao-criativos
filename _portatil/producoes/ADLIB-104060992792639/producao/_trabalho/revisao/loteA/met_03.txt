@@ -1,0 +1,72 @@
+AD 03: 2889 quadros
+p01         0.00-  2.43s rosto(362,365) L145 presenca 100% mudou  86% | idx   -  (0 q pausa) sem pausa | corrES  0.42 PT  0.18 | 
+p02         2.43-  3.57s rosto(355,384) L193 presenca 100% mudou  68% | idx   -  (0 q pausa) sem pausa | corrES  0.49 PT  0.66 | 
+p03         3.57-  9.13s rosto(347,369) L145 presenca 100% mudou  93% | idx   -  (0 q pausa) sem pausa | corrES  0.17 PT  0.05 | 
+p04         9.43- 16.63s rosto(358,370) L146 presenca 100% mudou  88% | idx 0.60 (6 q pausa) APROVADO  | corrES  0.30 PT  0.24 | 
+p05        16.63- 28.13s rosto(353,369) L145 presenca 100% mudou  86% | idx 0.09 (46 q pausa) APROVADO  | corrES  0.54 PT  0.21 | 
+p06        28.13- 39.93s rosto(356,367) L145 presenca 100% mudou  92% | idx 0.03 (68 q pausa) APROVADO  | corrES  0.66 PT  0.09 | 
+p07        39.93- 47.90s rosto(352,201) L148 presenca 100% mudou  33% | idx   -  (5 q pausa) sem pausa (idx pausas>=4q: 0.19, 14 q) | corrES  0.42 PT  0.19 | 
+p08        47.90- 51.10s rosto(348,362) L148 presenca 100% mudou  86% | idx   -  (0 q pausa) sem pausa | corrES  0.38 PT  0.26 | 
+p09        54.20- 59.70s rosto(345,377) L147 presenca 100% mudou  96% | idx 0.05 (33 q pausa) APROVADO  | corrES  0.70 PT  0.12 | 
+p10        59.70- 66.60s rosto(357,371) L144 presenca 100% mudou  91% | idx 0.05 (36 q pausa) APROVADO  | corrES  0.74 PT  0.35 | 
+p11        66.60- 74.73s rosto(354,369) L146 presenca 100% mudou  75% | idx 0.13 (49 q pausa) APROVADO  | corrES  0.61 PT  0.35 | 
+p12        74.73- 76.47s rosto(340,346) L210 presenca 100% mudou  69% | idx   -  (0 q pausa) sem pausa | corrES  0.46 PT  0.50 | 
+p13        76.47- 83.10s rosto(354,394) L186 presenca 100% mudou  88% | idx 0.03 (18 q pausa) APROVADO  | corrES  0.59 PT  0.21 | 
+p14        83.10- 92.30s rosto(353,376) L147 presenca 100% mudou  83% | idx   -  (0 q pausa) sem pausa (idx pausas>=4q: 0.40, 7 q) | corrES  0.27 PT  0.12 | 
+p15        92.30- 96.30s rosto(347,378) L149 presenca 100% mudou  89% | idx 0.02 (19 q pausa) APROVADO  | corrES  0.78 PT  0.18 | 
+CONJUNTO: indice de pausa 0.07
+
+Pausas ES >= 0,3 s com boca aberta (>= 80% da fala):
+  nenhuma
+
+Quadros com rosto (L>=60) e boca IGUAL ao original enquanto o PT original falava (candidatos a boca em PT), corridas >= 3 q:
+     9.13-   9.43s (9 q) dentro_trecho 0% fala_ES 100% rosto (346,370) L150 var.abertura_orig 0.033
+    10.53-  10.70s (5 q) dentro_trecho 100% fala_ES 0% rosto (363,382) L146 var.abertura_orig 0.014
+    13.70-  13.83s (4 q) dentro_trecho 100% fala_ES 75% rosto (362,370) L148 var.abertura_orig 0.018
+    18.80-  18.97s (5 q) dentro_trecho 100% fala_ES 100% rosto (347,370) L145 var.abertura_orig 0.011
+    20.43-  20.57s (4 q) dentro_trecho 100% fala_ES 100% rosto (353,364) L145 var.abertura_orig 0.009
+    25.33-  25.50s (5 q) dentro_trecho 100% fala_ES 100% rosto (354,370) L151 var.abertura_orig 0.025
+    26.47-  26.77s (9 q) dentro_trecho 100% fala_ES 100% rosto (363,363) L145 var.abertura_orig 0.033
+    33.17-  33.27s (3 q) dentro_trecho 100% fala_ES 100% rosto (364,363) L144 var.abertura_orig 0.010
+    34.47-  34.57s (3 q) dentro_trecho 100% fala_ES 100% rosto (357,381) L146 var.abertura_orig 0.013
+    40.37-  40.50s (4 q) dentro_trecho 100% fala_ES 100% rosto (344,202) L147 var.abertura_orig 0.009
+    40.67-  41.50s (25 q) dentro_trecho 100% fala_ES 100% rosto (344,197) L150 var.abertura_orig 0.025
+    42.13-  42.57s (13 q) dentro_trecho 100% fala_ES 92% rosto (347,210) L148 var.abertura_orig 0.022
+    43.13-  43.73s (18 q) dentro_trecho 100% fala_ES 89% rosto (350,209) L148 var.abertura_orig 0.035
+    44.07-  44.57s (15 q) dentro_trecho 100% fala_ES 100% rosto (354,204) L146 var.abertura_orig 0.021
+    44.60-  45.10s (15 q) dentro_trecho 100% fala_ES 93% rosto (352,201) L148 var.abertura_orig 0.035
+    45.63-  46.07s (13 q) dentro_trecho 100% fala_ES 92% rosto (354,201) L148 var.abertura_orig 0.028
+    46.73-  47.00s (8 q) dentro_trecho 100% fala_ES 88% rosto (352,197) L150 var.abertura_orig 0.010
+    47.30-  47.50s (6 q) dentro_trecho 100% fala_ES 0% rosto (352,211) L146 var.abertura_orig 0.023
+    47.63-  48.00s (11 q) dentro_trecho 100% fala_ES 27% rosto (353,215) L146 var.abertura_orig 0.019
+    64.20-  64.33s (4 q) dentro_trecho 100% fala_ES 100% rosto (365,358) L142 var.abertura_orig 0.010
+    67.70-  67.83s (4 q) dentro_trecho 100% fala_ES 100% rosto (359,364) L147 var.abertura_orig 0.036
+    70.53-  70.90s (11 q) dentro_trecho 100% fala_ES 91% rosto (355,367) L146 var.abertura_orig 0.012
+    71.20-  71.60s (12 q) dentro_trecho 100% fala_ES 100% rosto (353,375) L146 var.abertura_orig 0.018
+    73.37-  73.53s (5 q) dentro_trecho 100% fala_ES 100% rosto (349,366) L149 var.abertura_orig 0.011
+    73.67-  73.80s (4 q) dentro_trecho 100% fala_ES 50% rosto (353,365) L150 var.abertura_orig 0.009
+    75.93-  76.03s (3 q) dentro_trecho 100% fala_ES 100% rosto (335,348) L212 var.abertura_orig 0.016
+    76.17-  76.27s (3 q) dentro_trecho 100% fala_ES 100% rosto (337,358) L214 var.abertura_orig 0.018
+    76.60-  76.70s (3 q) dentro_trecho 100% fala_ES 100% rosto (346,388) L183 var.abertura_orig 0.014
+    78.47-  78.57s (3 q) dentro_trecho 100% fala_ES 100% rosto (361,394) L186 var.abertura_orig 0.022
+    84.53-  84.63s (3 q) dentro_trecho 100% fala_ES 100% rosto (343,377) L147 var.abertura_orig 0.023
+    85.67-  85.77s (3 q) dentro_trecho 100% fala_ES 100% rosto (342,388) L148 var.abertura_orig 0.023
+    93.17-  93.27s (3 q) dentro_trecho 100% fala_ES 100% rosto (340,384) L149 var.abertura_orig 0.018
+    94.27-  94.37s (3 q) dentro_trecho 100% fala_ES 100% rosto (350,371) L150 var.abertura_orig 0.012
+    94.63-  94.77s (4 q) dentro_trecho 100% fala_ES 100% rosto (351,368) L152 var.abertura_orig 0.011
+
+Fora dos trechos de lipsync: corridas com rosto e fala ES:
+     9.13-   9.43s (9 q) fala ES 100% rostos 1
+
+Dentro dos trechos: corridas >= 6 q com a boca de QUEM FALA igual ao original durante fala ES:
+  p05: 26.47-26.77s (9 q)
+  p07: 40.67-41.50s (25 q)
+  p07: 42.13-42.50s (11 q)
+  p07: 43.17-43.57s (12 q)
+  p07: 44.07-44.57s (15 q)
+  p07: 44.77-45.10s (10 q)
+  p07: 45.60-45.90s (9 q)
+  p11: 70.53-70.87s (10 q)
+  p11: 71.20-71.60s (12 q)
+  p11: 72.07-72.33s (8 q)
+  p14: 84.07-84.27s (6 q)

@@ -1,0 +1,17 @@
+{
+ "L036": {
+  "indice": null,
+  "veredito": "REPROVADO",
+  "nota": "out 135 q (esperado 135)"
+ },
+ "L047": {
+  "indice": 0.49,
+  "veredito": "APROVADO",
+  "nota": "out 230 q (esperado 230)"
+ },
+ "L051": {
+  "indice": 0.13,
+  "veredito": "APROVADO",
+  "nota": "out 96 q (esperado 96)"
+ }
+}

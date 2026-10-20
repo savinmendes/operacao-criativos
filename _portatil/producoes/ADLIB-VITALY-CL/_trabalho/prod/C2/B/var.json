@@ -1,0 +1,64 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\p1_final.mp4",
+ "trab": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\var",
+ "resolucao": "720",
+ "limite_mb": 60,
+ "semente": 7,
+ "bancos": {
+  "h": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\banco_hook.json"
+ },
+ "gancho": {
+  "fala": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\voz\\B_gancho.mp3",
+  "lead": 0.12,
+  "cauda": 0.3,
+  "pool": [
+   [
+    "h",
+    90.58999999999999,
+    93.86
+   ],
+   [
+    "h",
+    77.49,
+    80.36
+   ],
+   [
+    "h",
+    80.39,
+    82.76
+   ],
+   [
+    "h",
+    87.33999999999999,
+    90.46000000000001
+   ],
+   [
+    "h",
+    60.79,
+    63.76
+   ],
+   [
+    "h",
+    51.74,
+    55.51
+   ]
+  ],
+  "tomada": [
+   3.5,
+   3.5
+  ],
+  "caixas": {
+   "cy": 975,
+   "min_w": 600,
+   "min_h": 130,
+   "px": 44
+  },
+  "fundo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\fontes\\23\\bed.wav",
+  "fundo_vol": 1.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\corpo_fonte.mp4",
+  "corte": 69.42,
+  "ganho_db": null
+ }
+}

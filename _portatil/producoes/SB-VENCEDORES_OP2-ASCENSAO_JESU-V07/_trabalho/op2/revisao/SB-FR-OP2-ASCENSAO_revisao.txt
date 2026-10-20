@@ -1,0 +1,51 @@
+REVISÃO: SB-FR-OP2-ASCENSAO.mp4
+duração 28.00s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 19.7 MB
+decodificação: OK
+pts do áudio: 1314 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 963-1549, x 323-570 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-VENCEDORES_OP2-ASCENSAO_JESU-V07\_trabalho\op2\revisao\SB-FR-OP2-ASCENSAO_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  3.20 Ferme cette vidéo et le miracle passe à une autre personne.
+   3.20-  6.54 C'est la dernière fois que Dieu essaie de te parler de cette façon.
+   6.54-  8.24 Jésus t'a choisi.
+   8.24- 11.68 Il a préparé un cadeau puissant, rien que pour toi.
+  11.68- 15.38 Dans cette vidéo, tu vas écouter la prière perdue de saint Benoit,
+  15.38- 17.78 qui débloque une pluie de miracle.
+  17.78- 21.06 Mais seulement si tu ne la refuses pas encore une fois.
+  21.06- 23.86 Touche en savoir plus, maintenant.
+  23.86- 27.86 Reçoit ton miracle avant que la porte ne se ferme pour toujours.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.34    Ferme este video, y el Miracle pasa a otra persona.
+   3.34-  6.62    Es la última vez que Dios está intentando hablar de ti de esta manera.
+   6.62-  8.34    Jesús ha elegido.
+   8.34- 11.78    Él ha preparado un cadeo puño, nada que para ti.
+  11.78- 15.46    En este video, vas a escuchar la pria perdida de Saint Benoit,
+  15.46- 17.90    que desbloca una pluma de Miracles.
+  17.90- 21.16    Pero sólo si no la refusas una vez más.
+  21.16- 23.98    Túche en saber más, ahora.
+  23.98- 27.98    Recuerda tu Miracle antes de que la puerta no se ferme para siempre.
+
+=== lipsync ===
+LIPSYNC: corpo_fr_heygen.mp4 (618 quadros, rosto em 100%, rosto 298,554,493,580 [único rosto])
+  pausas da voz nova: índice de pausa 0.54 (106 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.28 (atraso 80 ms) | corr. original -
+APROVADO: fecha nas pausas da voz nova (índice de pausa 0.54)
+LIPSYNC: hook_fr_heygen.mp4 (83 quadros, rosto em 100%, rosto 325,410,437,522 [único rosto])
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.31 (atraso 200 ms) | corr. original -
+AVISO: correlação com o áudio novo 0.31; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+índice de pausa do conjunto (2 trechos): 0.53 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync corpo_fr_heygen.mp4 checado sem o original (sem o teste 'a boca mudou')
+aviso: lipsync hook_fr_heygen.mp4: correlação com o áudio novo 0.31; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync hook_fr_heygen.mp4 checado sem o original (sem o teste 'a boca mudou')
+OK: nenhum problema encontrado

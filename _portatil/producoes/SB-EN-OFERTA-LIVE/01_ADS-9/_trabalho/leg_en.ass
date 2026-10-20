@@ -1,0 +1,281 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Poppins,100,&H00FFFFFF,&H00FFFFFF,&H70505050,&H90404040,-1,0,0,0,100,100,0,0,1,3,4,5,30,30,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.26,0:00:00.53,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MY {\alpha&HA0&\3a&HF0&\4a&HF0&}CHILD
+Dialogue: 0,0:00:00.53,0:00:01.00,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MY {\alpha&H00&}CHILD
+Dialogue: 0,0:00:01.00,0:00:01.19,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU'VE {\alpha&HA0&\3a&HF0&\4a&HF0&}BEEN {\alpha&HA0&\3a&HF0&\4a&HF0&}IGNORING
+Dialogue: 0,0:00:01.19,0:00:01.32,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU'VE {\alpha&H00&}BEEN {\alpha&HA0&\3a&HF0&\4a&HF0&}IGNORING
+Dialogue: 0,0:00:01.32,0:00:01.73,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU'VE {\alpha&H00&}BEEN {\alpha&H00&}IGNORING
+Dialogue: 0,0:00:01.73,0:00:01.86,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}ME {\alpha&HA0&\3a&HF0&\4a&HF0&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}LONG
+Dialogue: 0,0:00:01.86,0:00:02.01,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ME {\alpha&H00&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}LONG
+Dialogue: 0,0:00:02.01,0:00:02.26,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ME {\alpha&H00&}FOR {\alpha&H00&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}LONG
+Dialogue: 0,0:00:02.26,0:00:02.67,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ME {\alpha&H00&}FOR {\alpha&H00&}SO {\alpha&H00&}LONG
+Dialogue: 0,0:00:02.67,0:00:02.89,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}IT {\alpha&HA0&\3a&HF0&\4a&HF0&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}BROKEN
+Dialogue: 0,0:00:02.89,0:00:03.00,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IT {\alpha&HA0&\3a&HF0&\4a&HF0&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}BROKEN
+Dialogue: 0,0:00:03.00,0:00:03.14,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IT {\alpha&H00&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}BROKEN
+Dialogue: 0,0:00:03.14,0:00:03.55,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IT {\alpha&H00&}HAS {\alpha&H00&}BROKEN
+Dialogue: 0,0:00:03.55,0:00:03.75,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MY {\alpha&HA0&\3a&HF0&\4a&HF0&}HEART
+Dialogue: 0,0:00:03.75,0:00:04.76,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MY {\alpha&H00&}HEART
+Dialogue: 0,0:00:04.82,0:00:05.04,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I'VE {\alpha&HA0&\3a&HF0&\4a&HF0&}SENT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGNS
+Dialogue: 0,0:00:05.04,0:00:05.23,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}SENT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGNS
+Dialogue: 0,0:00:05.23,0:00:05.37,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}SENT {\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGNS
+Dialogue: 0,0:00:05.37,0:00:05.95,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}SENT {\alpha&H00&}YOU {\alpha&H00&}SIGNS
+Dialogue: 0,0:00:05.95,0:00:06.12,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}DREAMS
+Dialogue: 0,0:00:06.12,0:00:06.28,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}DREAMS
+Dialogue: 0,0:00:06.28,0:00:06.76,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&H00&}DREAMS
+Dialogue: 0,0:00:06.76,0:00:06.92,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}INTUITIONS
+Dialogue: 0,0:00:06.92,0:00:07.07,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}INTUITIONS
+Dialogue: 0,0:00:07.07,0:00:07.65,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&H00&}INTUITIONS
+Dialogue: 0,0:00:07.65,0:00:07.83,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}FEELINGS
+Dialogue: 0,0:00:07.83,0:00:07.93,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}FEELINGS
+Dialogue: 0,0:00:07.93,0:00:08.09,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}FEELINGS
+Dialogue: 0,0:00:08.09,0:00:09.37,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&H00&}FEELINGS
+Dialogue: 0,0:00:09.92,0:00:10.15,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I'VE {\alpha&HA0&\3a&HF0&\4a&HF0&}ALSO {\alpha&HA0&\3a&HF0&\4a&HF0&}SENT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:10.15,0:00:10.40,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}ALSO {\alpha&HA0&\3a&HF0&\4a&HF0&}SENT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:10.40,0:00:10.58,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}ALSO {\alpha&H00&}SENT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:10.58,0:00:10.71,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'VE {\alpha&H00&}ALSO {\alpha&H00&}SENT {\alpha&H00&}YOU
+Dialogue: 0,0:00:10.71,0:00:11.36,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MESSAGES
+Dialogue: 0,0:00:11.36,0:00:12.24,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}OPPORTUNITIES
+Dialogue: 0,0:00:12.24,0:00:12.43,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}EVEN {\alpha&HA0&\3a&HF0&\4a&HF0&}ENCOUNTERS
+Dialogue: 0,0:00:12.43,0:00:12.64,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}EVEN {\alpha&HA0&\3a&HF0&\4a&HF0&}ENCOUNTERS
+Dialogue: 0,0:00:12.64,0:00:13.15,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}EVEN {\alpha&H00&}ENCOUNTERS
+Dialogue: 0,0:00:13.15,0:00:13.31,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}SEEMED {\alpha&HA0&\3a&HF0&\4a&HF0&}LIKE
+Dialogue: 0,0:00:13.31,0:00:13.61,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THAT {\alpha&H00&}SEEMED {\alpha&HA0&\3a&HF0&\4a&HF0&}LIKE
+Dialogue: 0,0:00:13.61,0:00:13.81,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THAT {\alpha&H00&}SEEMED {\alpha&H00&}LIKE
+Dialogue: 0,0:00:13.81,0:00:14.11,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SIMPLE {\alpha&HA0&\3a&HF0&\4a&HF0&}COINCIDENCES
+Dialogue: 0,0:00:14.11,0:00:15.77,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SIMPLE {\alpha&H00&}COINCIDENCES
+Dialogue: 0,0:00:16.48,0:00:16.72,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BUT {\alpha&HA0&\3a&HF0&\4a&HF0&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}OFTEN
+Dialogue: 0,0:00:16.72,0:00:16.96,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BUT {\alpha&H00&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}OFTEN
+Dialogue: 0,0:00:16.96,0:00:17.32,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BUT {\alpha&H00&}SO {\alpha&H00&}OFTEN
+Dialogue: 0,0:00:17.32,0:00:17.47,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}CHOOSE {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:17.47,0:00:17.75,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}CHOOSE {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:17.75,0:00:17.93,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}CHOOSE {\alpha&H00&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:17.93,0:00:18.05,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}CHOOSE {\alpha&H00&}NOT {\alpha&H00&}TO
+Dialogue: 0,0:00:18.05,0:00:18.28,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SEE {\alpha&HA0&\3a&HF0&\4a&HF0&}THEM
+Dialogue: 0,0:00:18.28,0:00:19.22,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SEE {\alpha&H00&}THEM
+Dialogue: 0,0:00:19.78,0:00:20.04,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}YET
+Dialogue: 0,0:00:20.04,0:00:20.36,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}YET
+Dialogue: 0,0:00:20.36,0:00:20.49,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I {\alpha&HA0&\3a&HF0&\4a&HF0&}HAVE {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}GIVEN
+Dialogue: 0,0:00:20.49,0:00:20.65,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}HAVE {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}GIVEN
+Dialogue: 0,0:00:20.65,0:00:20.83,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}HAVE {\alpha&H00&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}GIVEN
+Dialogue: 0,0:00:20.83,0:00:21.09,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}HAVE {\alpha&H00&}NOT {\alpha&H00&}GIVEN
+Dialogue: 0,0:00:21.09,0:00:21.24,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}UP {\alpha&HA0&\3a&HF0&\4a&HF0&}ON {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:21.24,0:00:21.38,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}UP {\alpha&H00&}ON {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:21.38,0:00:22.52,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}UP {\alpha&H00&}ON {\alpha&H00&}YOU
+Dialogue: 0,0:00:22.88,0:00:23.27,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}TODAY
+Dialogue: 0,0:00:23.27,0:00:23.43,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I'M {\alpha&HA0&\3a&HF0&\4a&HF0&}SENDING {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}ONE
+Dialogue: 0,0:00:23.43,0:00:23.74,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}SENDING {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}ONE
+Dialogue: 0,0:00:23.74,0:00:23.91,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}SENDING {\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}ONE
+Dialogue: 0,0:00:23.91,0:00:24.08,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}SENDING {\alpha&H00&}YOU {\alpha&H00&}ONE
+Dialogue: 0,0:00:24.08,0:00:24.32,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MORE {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGN
+Dialogue: 0,0:00:24.32,0:00:24.69,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MORE {\alpha&H00&}SIGN
+Dialogue: 0,0:00:24.69,0:00:24.93,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}THROUGH {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}VIDEO
+Dialogue: 0,0:00:24.93,0:00:25.11,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THROUGH {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}VIDEO
+Dialogue: 0,0:00:25.11,0:00:25.61,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THROUGH {\alpha&H00&}THIS {\alpha&H00&}VIDEO
+Dialogue: 0,0:00:25.61,0:00:25.85,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}DEEP {\alpha&HA0&\3a&HF0&\4a&HF0&}DOWN
+Dialogue: 0,0:00:25.85,0:00:26.10,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}DEEP {\alpha&HA0&\3a&HF0&\4a&HF0&}DOWN
+Dialogue: 0,0:00:26.10,0:00:26.42,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}DEEP {\alpha&H00&}DOWN
+Dialogue: 0,0:00:26.42,0:00:26.59,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}KNOW {\alpha&HA0&\3a&HF0&\4a&HF0&}IT
+Dialogue: 0,0:00:26.59,0:00:26.79,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}KNOW {\alpha&HA0&\3a&HF0&\4a&HF0&}IT
+Dialogue: 0,0:00:26.79,0:00:27.66,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}KNOW {\alpha&H00&}IT
+Dialogue: 0,0:00:29.32,0:00:29.60,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BECAUSE {\alpha&HA0&\3a&HF0&\4a&HF0&}EVEN {\alpha&HA0&\3a&HF0&\4a&HF0&}BEFORE
+Dialogue: 0,0:00:29.60,0:00:29.78,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}EVEN {\alpha&HA0&\3a&HF0&\4a&HF0&}BEFORE
+Dialogue: 0,0:00:29.78,0:00:30.03,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}EVEN {\alpha&H00&}BEFORE
+Dialogue: 0,0:00:30.03,0:00:30.17,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}OPENED {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS
+Dialogue: 0,0:00:30.17,0:00:30.42,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}OPENED {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS
+Dialogue: 0,0:00:30.42,0:00:30.59,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}OPENED {\alpha&H00&}THIS
+Dialogue: 0,0:00:30.59,0:00:30.98,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}VIDEO
+Dialogue: 0,0:00:30.98,0:00:31.30,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}INSIDE {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:31.30,0:00:31.69,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}INSIDE {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:31.69,0:00:31.84,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}INSIDE {\alpha&H00&}YOU
+Dialogue: 0,0:00:31.84,0:00:31.99,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}WAS {\alpha&HA0&\3a&HF0&\4a&HF0&}ALREADY {\alpha&HA0&\3a&HF0&\4a&HF0&}WARNING
+Dialogue: 0,0:00:31.99,0:00:32.31,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WAS {\alpha&H00&}ALREADY {\alpha&HA0&\3a&HF0&\4a&HF0&}WARNING
+Dialogue: 0,0:00:32.31,0:00:32.61,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WAS {\alpha&H00&}ALREADY {\alpha&H00&}WARNING
+Dialogue: 0,0:00:32.61,0:00:33.45,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU
+Dialogue: 0,0:00:34.06,0:00:34.32,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BUT {\alpha&HA0&\3a&HF0&\4a&HF0&}LISTEN {\alpha&HA0&\3a&HF0&\4a&HF0&}CAREFULLY
+Dialogue: 0,0:00:34.32,0:00:34.65,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BUT {\alpha&H00&}LISTEN {\alpha&HA0&\3a&HF0&\4a&HF0&}CAREFULLY
+Dialogue: 0,0:00:34.65,0:00:35.16,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BUT {\alpha&H00&}LISTEN {\alpha&H00&}CAREFULLY
+Dialogue: 0,0:00:35.16,0:00:35.48,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BECAUSE {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MAY {\alpha&HA0&\3a&HF0&\4a&HF0&}BE
+Dialogue: 0,0:00:35.48,0:00:35.70,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MAY {\alpha&HA0&\3a&HF0&\4a&HF0&}BE
+Dialogue: 0,0:00:35.70,0:00:35.91,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}THIS {\alpha&H00&}MAY {\alpha&HA0&\3a&HF0&\4a&HF0&}BE
+Dialogue: 0,0:00:35.91,0:00:36.03,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}THIS {\alpha&H00&}MAY {\alpha&H00&}BE
+Dialogue: 0,0:00:36.03,0:00:36.14,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}THE {\alpha&HA0&\3a&HF0&\4a&HF0&}LAST {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:36.14,0:00:36.42,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THE {\alpha&H00&}LAST {\alpha&HA0&\3a&HF0&\4a&HF0&}SIGN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:36.42,0:00:36.71,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THE {\alpha&H00&}LAST {\alpha&H00&}SIGN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:36.71,0:00:36.86,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THE {\alpha&H00&}LAST {\alpha&H00&}SIGN {\alpha&H00&}YOU
+Dialogue: 0,0:00:36.86,0:00:37.22,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}RECEIVE {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:00:37.22,0:00:37.41,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}RECEIVE {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:00:37.41,0:00:38.38,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}RECEIVE {\alpha&H00&}THIS {\alpha&H00&}WAY
+Dialogue: 0,0:00:39.60,0:00:39.90,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}THAT'S {\alpha&HA0&\3a&HF0&\4a&HF0&}WHY
+Dialogue: 0,0:00:39.90,0:00:40.24,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}THAT'S {\alpha&H00&}WHY
+Dialogue: 0,0:00:40.24,0:00:40.58,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BEFORE {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}VIDEO
+Dialogue: 0,0:00:40.58,0:00:40.75,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BEFORE {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}VIDEO
+Dialogue: 0,0:00:40.75,0:00:41.09,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BEFORE {\alpha&H00&}THIS {\alpha&H00&}VIDEO
+Dialogue: 0,0:00:41.09,0:00:41.56,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}ENDS
+Dialogue: 0,0:00:41.56,0:00:41.69,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I {\alpha&HA0&\3a&HF0&\4a&HF0&}MUST {\alpha&HA0&\3a&HF0&\4a&HF0&}SHOW {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:41.69,0:00:41.89,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}MUST {\alpha&HA0&\3a&HF0&\4a&HF0&}SHOW {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:41.89,0:00:42.09,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}MUST {\alpha&H00&}SHOW {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:42.09,0:00:42.21,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I {\alpha&H00&}MUST {\alpha&H00&}SHOW {\alpha&H00&}YOU
+Dialogue: 0,0:00:42.21,0:00:42.56,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}CAN
+Dialogue: 0,0:00:42.56,0:00:42.70,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}CAN
+Dialogue: 0,0:00:42.70,0:00:42.85,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}THAT {\alpha&H00&}CAN
+Dialogue: 0,0:00:42.85,0:00:43.19,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}PROTECT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR
+Dialogue: 0,0:00:43.19,0:00:43.34,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}PROTECT {\alpha&H00&}YOUR
+Dialogue: 0,0:00:43.34,0:00:43.83,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SPIRITUAL {\alpha&HA0&\3a&HF0&\4a&HF0&}LIFE
+Dialogue: 0,0:00:43.83,0:00:44.14,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SPIRITUAL {\alpha&H00&}LIFE
+Dialogue: 0,0:00:44.14,0:00:44.33,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}OPEN {\alpha&HA0&\3a&HF0&\4a&HF0&}PATHS {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT
+Dialogue: 0,0:00:44.33,0:00:44.59,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}OPEN {\alpha&HA0&\3a&HF0&\4a&HF0&}PATHS {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT
+Dialogue: 0,0:00:44.59,0:00:45.02,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}OPEN {\alpha&H00&}PATHS {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT
+Dialogue: 0,0:00:45.02,0:00:45.18,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}OPEN {\alpha&H00&}PATHS {\alpha&H00&}THAT
+Dialogue: 0,0:00:45.18,0:00:45.35,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}WERE {\alpha&HA0&\3a&HF0&\4a&HF0&}BLOCKED
+Dialogue: 0,0:00:45.35,0:00:46.89,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WERE {\alpha&H00&}BLOCKED
+Dialogue: 0,0:00:48.30,0:00:48.70,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT
+Dialogue: 0,0:00:48.70,0:00:48.85,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}THAT
+Dialogue: 0,0:00:48.85,0:00:49.15,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}STAYED {\alpha&HA0&\3a&HF0&\4a&HF0&}HIDDEN {\alpha&HA0&\3a&HF0&\4a&HF0&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:00:49.15,0:00:49.41,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAYED {\alpha&H00&}HIDDEN {\alpha&HA0&\3a&HF0&\4a&HF0&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:00:49.41,0:00:49.56,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAYED {\alpha&H00&}HIDDEN {\alpha&H00&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:00:49.56,0:00:49.66,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAYED {\alpha&H00&}HIDDEN {\alpha&H00&}FOR {\alpha&H00&}A
+Dialogue: 0,0:00:49.66,0:00:49.90,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}VERY {\alpha&HA0&\3a&HF0&\4a&HF0&}LONG {\alpha&HA0&\3a&HF0&\4a&HF0&}TIME
+Dialogue: 0,0:00:49.90,0:00:50.16,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}VERY {\alpha&H00&}LONG {\alpha&HA0&\3a&HF0&\4a&HF0&}TIME
+Dialogue: 0,0:00:50.16,0:00:50.67,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}VERY {\alpha&H00&}LONG {\alpha&H00&}TIME
+Dialogue: 0,0:00:50.67,0:00:50.98,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}PASSED {\alpha&HA0&\3a&HF0&\4a&HF0&}DOWN {\alpha&HA0&\3a&HF0&\4a&HF0&}THROUGH
+Dialogue: 0,0:00:50.98,0:00:51.21,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}PASSED {\alpha&H00&}DOWN {\alpha&HA0&\3a&HF0&\4a&HF0&}THROUGH
+Dialogue: 0,0:00:51.21,0:00:51.46,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}PASSED {\alpha&H00&}DOWN {\alpha&H00&}THROUGH
+Dialogue: 0,0:00:51.46,0:00:51.53,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}A {\alpha&HA0&\3a&HF0&\4a&HF0&}PRAYER {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}VERY
+Dialogue: 0,0:00:51.53,0:00:51.86,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}A {\alpha&H00&}PRAYER {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}VERY
+Dialogue: 0,0:00:51.86,0:00:52.04,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}A {\alpha&H00&}PRAYER {\alpha&H00&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}VERY
+Dialogue: 0,0:00:52.04,0:00:52.33,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}A {\alpha&H00&}PRAYER {\alpha&H00&}THAT {\alpha&H00&}VERY
+Dialogue: 0,0:00:52.33,0:00:52.64,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}FEW {\alpha&HA0&\3a&HF0&\4a&HF0&}HAVE {\alpha&HA0&\3a&HF0&\4a&HF0&}LEARNED {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:52.64,0:00:52.82,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}FEW {\alpha&H00&}HAVE {\alpha&HA0&\3a&HF0&\4a&HF0&}LEARNED {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:52.82,0:00:53.06,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}FEW {\alpha&H00&}HAVE {\alpha&H00&}LEARNED {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:53.06,0:00:53.20,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}FEW {\alpha&H00&}HAVE {\alpha&H00&}LEARNED {\alpha&H00&}TO
+Dialogue: 0,0:00:53.20,0:00:53.44,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}USE {\alpha&HA0&\3a&HF0&\4a&HF0&}CORRECTLY
+Dialogue: 0,0:00:53.44,0:00:55.31,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}USE {\alpha&H00&}CORRECTLY
+Dialogue: 0,0:00:56.12,0:00:56.54,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT
+Dialogue: 0,0:00:56.54,0:00:56.75,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SOMETHING {\alpha&H00&}NOT
+Dialogue: 0,0:00:56.75,0:00:57.15,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}EVERYONE {\alpha&HA0&\3a&HF0&\4a&HF0&}IS {\alpha&HA0&\3a&HF0&\4a&HF0&}READY {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:57.15,0:00:57.28,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}EVERYONE {\alpha&H00&}IS {\alpha&HA0&\3a&HF0&\4a&HF0&}READY {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:57.28,0:00:57.50,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}EVERYONE {\alpha&H00&}IS {\alpha&H00&}READY {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:00:57.50,0:00:57.64,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}EVERYONE {\alpha&H00&}IS {\alpha&H00&}READY {\alpha&H00&}TO
+Dialogue: 0,0:00:57.64,0:00:58.81,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}RECEIVE
+Dialogue: 0,0:00:59.10,0:00:59.38,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BUT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:00:59.38,0:01:00.02,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BUT {\alpha&H00&}YOU
+Dialogue: 0,0:01:00.02,0:01:00.31,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}ARE {\alpha&HA0&\3a&HF0&\4a&HF0&}HERE
+Dialogue: 0,0:01:00.31,0:01:00.54,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}ARE {\alpha&HA0&\3a&HF0&\4a&HF0&}HERE
+Dialogue: 0,0:01:00.54,0:01:01.36,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOU {\alpha&H00&}ARE {\alpha&H00&}HERE
+Dialogue: 0,0:01:01.36,0:01:01.55,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:01.55,0:01:01.71,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}THAT {\alpha&HA0&\3a&HF0&\4a&HF0&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:01.71,0:01:01.86,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}THAT {\alpha&H00&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:01.86,0:01:01.94,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}THAT {\alpha&H00&}HAS {\alpha&H00&}A
+Dialogue: 0,0:01:01.94,0:01:02.95,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}PURPOSE
+Dialogue: 0,0:01:03.12,0:01:03.35,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IF {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU'VE {\alpha&HA0&\3a&HF0&\4a&HF0&}MADE {\alpha&HA0&\3a&HF0&\4a&HF0&}IT
+Dialogue: 0,0:01:03.35,0:01:03.58,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IF {\alpha&H00&}YOU'VE {\alpha&HA0&\3a&HF0&\4a&HF0&}MADE {\alpha&HA0&\3a&HF0&\4a&HF0&}IT
+Dialogue: 0,0:01:03.58,0:01:03.78,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IF {\alpha&H00&}YOU'VE {\alpha&H00&}MADE {\alpha&HA0&\3a&HF0&\4a&HF0&}IT
+Dialogue: 0,0:01:03.78,0:01:03.88,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IF {\alpha&H00&}YOU'VE {\alpha&H00&}MADE {\alpha&H00&}IT
+Dialogue: 0,0:01:03.88,0:01:03.97,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MOMENT
+Dialogue: 0,0:01:03.97,0:01:04.18,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TO {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MOMENT
+Dialogue: 0,0:01:04.18,0:01:05.13,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TO {\alpha&H00&}THIS {\alpha&H00&}MOMENT
+Dialogue: 0,0:01:05.13,0:01:05.36,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IT'S {\alpha&HA0&\3a&HF0&\4a&HF0&}BECAUSE {\alpha&HA0&\3a&HF0&\4a&HF0&}THERE
+Dialogue: 0,0:01:05.36,0:01:05.66,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IT'S {\alpha&H00&}BECAUSE {\alpha&HA0&\3a&HF0&\4a&HF0&}THERE
+Dialogue: 0,0:01:05.66,0:01:05.86,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IT'S {\alpha&H00&}BECAUSE {\alpha&H00&}THERE
+Dialogue: 0,0:01:05.86,0:01:05.95,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IS {\alpha&HA0&\3a&HF0&\4a&HF0&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:01:05.95,0:01:06.32,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IS {\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:01:06.32,0:01:06.45,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IS {\alpha&H00&}SOMETHING {\alpha&H00&}YOU
+Dialogue: 0,0:01:06.45,0:01:06.64,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}NEED {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}UNDERSTAND
+Dialogue: 0,0:01:06.64,0:01:06.77,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}NEED {\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}UNDERSTAND
+Dialogue: 0,0:01:06.77,0:01:08.55,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}NEED {\alpha&H00&}TO {\alpha&H00&}UNDERSTAND
+Dialogue: 0,0:01:08.66,0:01:08.86,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}WHAT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU'RE
+Dialogue: 0,0:01:08.86,0:01:09.00,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}WHAT {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU'RE
+Dialogue: 0,0:01:09.00,0:01:09.19,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}WHAT {\alpha&H00&}YOU'RE
+Dialogue: 0,0:01:09.19,0:01:09.39,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}ABOUT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}SEE {\alpha&HA0&\3a&HF0&\4a&HF0&}CAN
+Dialogue: 0,0:01:09.39,0:01:09.51,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ABOUT {\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}SEE {\alpha&HA0&\3a&HF0&\4a&HF0&}CAN
+Dialogue: 0,0:01:09.51,0:01:09.80,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ABOUT {\alpha&H00&}TO {\alpha&H00&}SEE {\alpha&HA0&\3a&HF0&\4a&HF0&}CAN
+Dialogue: 0,0:01:09.80,0:01:10.02,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ABOUT {\alpha&H00&}TO {\alpha&H00&}SEE {\alpha&H00&}CAN
+Dialogue: 0,0:01:10.02,0:01:10.44,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}CHANGE {\alpha&HA0&\3a&HF0&\4a&HF0&}THE {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:01:10.44,0:01:10.56,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}CHANGE {\alpha&H00&}THE {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:01:10.56,0:01:10.81,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}CHANGE {\alpha&H00&}THE {\alpha&H00&}WAY
+Dialogue: 0,0:01:10.81,0:01:11.27,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}EVERYTHING {\alpha&HA0&\3a&HF0&\4a&HF0&}BEGINS {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:01:11.27,0:01:11.66,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}EVERYTHING {\alpha&H00&}BEGINS {\alpha&HA0&\3a&HF0&\4a&HF0&}TO
+Dialogue: 0,0:01:11.66,0:01:11.82,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}EVERYTHING {\alpha&H00&}BEGINS {\alpha&H00&}TO
+Dialogue: 0,0:01:11.82,0:01:12.25,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MOVE {\alpha&HA0&\3a&HF0&\4a&HF0&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}LIFE
+Dialogue: 0,0:01:12.25,0:01:12.44,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MOVE {\alpha&H00&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}LIFE
+Dialogue: 0,0:01:12.44,0:01:12.62,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MOVE {\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&HA0&\3a&HF0&\4a&HF0&}LIFE
+Dialogue: 0,0:01:12.62,0:01:13.90,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MOVE {\alpha&H00&}IN {\alpha&H00&}YOUR {\alpha&H00&}LIFE
+Dialogue: 0,0:01:14.40,0:01:14.61,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SO {\alpha&HA0&\3a&HF0&\4a&HF0&}DON'T {\alpha&HA0&\3a&HF0&\4a&HF0&}LET
+Dialogue: 0,0:01:14.61,0:01:14.78,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SO {\alpha&H00&}DON'T {\alpha&HA0&\3a&HF0&\4a&HF0&}LET
+Dialogue: 0,0:01:14.78,0:01:14.90,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SO {\alpha&H00&}DON'T {\alpha&H00&}LET
+Dialogue: 0,0:01:14.90,0:01:15.21,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}YOURSELF {\alpha&HA0&\3a&HF0&\4a&HF0&}BE
+Dialogue: 0,0:01:15.21,0:01:15.33,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}YOURSELF {\alpha&H00&}BE
+Dialogue: 0,0:01:15.33,0:01:15.96,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}DISTRACTED
+Dialogue: 0,0:01:15.96,0:01:16.20,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}STAY {\alpha&HA0&\3a&HF0&\4a&HF0&}WITH {\alpha&HA0&\3a&HF0&\4a&HF0&}ME {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:16.20,0:01:16.35,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAY {\alpha&H00&}WITH {\alpha&HA0&\3a&HF0&\4a&HF0&}ME {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:16.35,0:01:16.47,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAY {\alpha&H00&}WITH {\alpha&H00&}ME {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:16.47,0:01:16.55,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}STAY {\alpha&H00&}WITH {\alpha&H00&}ME {\alpha&H00&}A
+Dialogue: 0,0:01:16.55,0:01:16.82,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}MOMENT {\alpha&HA0&\3a&HF0&\4a&HF0&}LONGER
+Dialogue: 0,0:01:16.82,0:01:17.14,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}MOMENT {\alpha&H00&}LONGER
+Dialogue: 0,0:01:17.14,0:01:17.29,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}PAY {\alpha&HA0&\3a&HF0&\4a&HF0&}CLOSE
+Dialogue: 0,0:01:17.29,0:01:17.47,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}PAY {\alpha&HA0&\3a&HF0&\4a&HF0&}CLOSE
+Dialogue: 0,0:01:17.47,0:01:17.72,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}PAY {\alpha&H00&}CLOSE
+Dialogue: 0,0:01:17.72,0:01:18.14,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}ATTENTION {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}WHAT
+Dialogue: 0,0:01:18.14,0:01:18.24,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ATTENTION {\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}WHAT
+Dialogue: 0,0:01:18.24,0:01:18.39,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}ATTENTION {\alpha&H00&}TO {\alpha&H00&}WHAT
+Dialogue: 0,0:01:18.39,0:01:18.53,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}I'M {\alpha&HA0&\3a&HF0&\4a&HF0&}ABOUT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}REVEAL
+Dialogue: 0,0:01:18.53,0:01:18.79,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}ABOUT {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}REVEAL
+Dialogue: 0,0:01:18.79,0:01:18.91,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}ABOUT {\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}REVEAL
+Dialogue: 0,0:01:18.91,0:01:19.24,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}I'M {\alpha&H00&}ABOUT {\alpha&H00&}TO {\alpha&H00&}REVEAL
+Dialogue: 0,0:01:19.24,0:01:19.35,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}NOW
+Dialogue: 0,0:01:19.35,0:01:19.48,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TO {\alpha&H00&}YOU {\alpha&HA0&\3a&HF0&\4a&HF0&}NOW
+Dialogue: 0,0:01:19.48,0:01:21.22,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TO {\alpha&H00&}YOU {\alpha&H00&}NOW
+Dialogue: 0,0:01:22.10,0:01:22.49,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}TAP {\alpha&HA0&\3a&HF0&\4a&HF0&}LEARN {\alpha&HA0&\3a&HF0&\4a&HF0&}MORE {\alpha&HA0&\3a&HF0&\4a&HF0&}BELOW
+Dialogue: 0,0:01:22.49,0:01:22.74,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TAP {\alpha&H00&}LEARN {\alpha&HA0&\3a&HF0&\4a&HF0&}MORE {\alpha&HA0&\3a&HF0&\4a&HF0&}BELOW
+Dialogue: 0,0:01:22.74,0:01:22.92,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TAP {\alpha&H00&}LEARN {\alpha&H00&}MORE {\alpha&HA0&\3a&HF0&\4a&HF0&}BELOW
+Dialogue: 0,0:01:22.92,0:01:23.28,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TAP {\alpha&H00&}LEARN {\alpha&H00&}MORE {\alpha&H00&}BELOW
+Dialogue: 0,0:01:23.28,0:01:23.45,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}JOIN {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS
+Dialogue: 0,0:01:23.45,0:01:23.81,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}JOIN {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS
+Dialogue: 0,0:01:23.81,0:01:23.98,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}JOIN {\alpha&H00&}THIS
+Dialogue: 0,0:01:23.98,0:01:24.49,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}SPECIAL {\alpha&HA0&\3a&HF0&\4a&HF0&}LIVE {\alpha&HA0&\3a&HF0&\4a&HF0&}PRAYER
+Dialogue: 0,0:01:24.49,0:01:24.77,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SPECIAL {\alpha&H00&}LIVE {\alpha&HA0&\3a&HF0&\4a&HF0&}PRAYER
+Dialogue: 0,0:01:24.77,0:01:25.12,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}SPECIAL {\alpha&H00&}LIVE {\alpha&H00&}PRAYER
+Dialogue: 0,0:01:25.12,0:01:25.36,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}WHERE {\alpha&HA0&\3a&HF0&\4a&HF0&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}IS
+Dialogue: 0,0:01:25.36,0:01:25.68,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WHERE {\alpha&H00&}SOMETHING {\alpha&HA0&\3a&HF0&\4a&HF0&}IS
+Dialogue: 0,0:01:25.68,0:01:25.79,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WHERE {\alpha&H00&}SOMETHING {\alpha&H00&}IS
+Dialogue: 0,0:01:25.79,0:01:26.16,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}REVEALED {\alpha&HA0&\3a&HF0&\4a&HF0&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}ONLY {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:26.16,0:01:26.33,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}REVEALED {\alpha&H00&}TO {\alpha&HA0&\3a&HF0&\4a&HF0&}ONLY {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:26.33,0:01:26.63,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}REVEALED {\alpha&H00&}TO {\alpha&H00&}ONLY {\alpha&HA0&\3a&HF0&\4a&HF0&}A
+Dialogue: 0,0:01:26.63,0:01:26.71,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}REVEALED {\alpha&H00&}TO {\alpha&H00&}ONLY {\alpha&H00&}A
+Dialogue: 0,0:01:26.71,0:01:27.85,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}FEW
+Dialogue: 0,0:01:29.86,0:01:30.15,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}DON'T {\alpha&HA0&\3a&HF0&\4a&HF0&}PUT {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}OFF
+Dialogue: 0,0:01:30.15,0:01:30.34,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}DON'T {\alpha&H00&}PUT {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}OFF
+Dialogue: 0,0:01:30.34,0:01:30.57,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}DON'T {\alpha&H00&}PUT {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}OFF
+Dialogue: 0,0:01:30.57,0:01:31.12,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}DON'T {\alpha&H00&}PUT {\alpha&H00&}THIS {\alpha&H00&}OFF
+Dialogue: 0,0:01:31.12,0:01:31.48,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}BECAUSE {\alpha&HA0&\3a&HF0&\4a&HF0&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MOMENT
+Dialogue: 0,0:01:31.48,0:01:31.69,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}THIS {\alpha&HA0&\3a&HF0&\4a&HF0&}MOMENT
+Dialogue: 0,0:01:31.69,0:01:32.02,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}BECAUSE {\alpha&H00&}THIS {\alpha&H00&}MOMENT
+Dialogue: 0,0:01:32.02,0:01:32.20,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}WILL {\alpha&HA0&\3a&HF0&\4a&HF0&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}COME {\alpha&HA0&\3a&HF0&\4a&HF0&}AGAIN
+Dialogue: 0,0:01:32.20,0:01:32.37,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WILL {\alpha&H00&}NOT {\alpha&HA0&\3a&HF0&\4a&HF0&}COME {\alpha&HA0&\3a&HF0&\4a&HF0&}AGAIN
+Dialogue: 0,0:01:32.37,0:01:32.56,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WILL {\alpha&H00&}NOT {\alpha&H00&}COME {\alpha&HA0&\3a&HF0&\4a&HF0&}AGAIN
+Dialogue: 0,0:01:32.56,0:01:32.89,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}WILL {\alpha&H00&}NOT {\alpha&H00&}COME {\alpha&H00&}AGAIN
+Dialogue: 0,0:01:32.89,0:01:32.98,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}IN {\alpha&HA0&\3a&HF0&\4a&HF0&}THE {\alpha&HA0&\3a&HF0&\4a&HF0&}SAME {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:01:32.98,0:01:33.11,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}THE {\alpha&HA0&\3a&HF0&\4a&HF0&}SAME {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:01:33.11,0:01:33.46,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}THE {\alpha&H00&}SAME {\alpha&HA0&\3a&HF0&\4a&HF0&}WAY
+Dialogue: 0,0:01:33.46,0:01:34.76,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}IN {\alpha&H00&}THE {\alpha&H00&}SAME {\alpha&H00&}WAY
+Dialogue: 0,0:01:34.76,0:01:35.09,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}TAP {\alpha&HA0&\3a&HF0&\4a&HF0&}NOW
+Dialogue: 0,0:01:35.09,0:01:35.39,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}TAP {\alpha&H00&}NOW
+Dialogue: 0,0:01:35.39,0:01:35.58,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}AND {\alpha&HA0&\3a&HF0&\4a&HF0&}DISCOVER {\alpha&HA0&\3a&HF0&\4a&HF0&}WHAT
+Dialogue: 0,0:01:35.58,0:01:35.99,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}DISCOVER {\alpha&HA0&\3a&HF0&\4a&HF0&}WHAT
+Dialogue: 0,0:01:35.99,0:01:36.18,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}AND {\alpha&H00&}DISCOVER {\alpha&H00&}WHAT
+Dialogue: 0,0:01:36.18,0:01:36.32,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}HAS {\alpha&HA0&\3a&HF0&\4a&HF0&}BEEN {\alpha&HA0&\3a&HF0&\4a&HF0&}PREPARED
+Dialogue: 0,0:01:36.32,0:01:36.49,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}HAS {\alpha&H00&}BEEN {\alpha&HA0&\3a&HF0&\4a&HF0&}PREPARED
+Dialogue: 0,0:01:36.49,0:01:36.90,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}HAS {\alpha&H00&}BEEN {\alpha&H00&}PREPARED
+Dialogue: 0,0:01:36.90,0:01:37.08,C,,0,0,0,,{\an5\pos(540,1440)\fscx90\fscy90\t(0,100,\fscx100\fscy100)}{\alpha&H00&}FOR {\alpha&HA0&\3a&HF0&\4a&HF0&}YOU
+Dialogue: 0,0:01:37.08,0:01:37.77,C,,0,0,0,,{\an5\pos(540,1440)}{\alpha&H00&}FOR {\alpha&H00&}YOU

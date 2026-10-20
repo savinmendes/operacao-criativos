@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Poppins,151,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,1,0,1,10,4,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.62,0:00:02.59,C,,0,0,0,,{\an5\pos(540,1060)\fscx71\fscy71\t(0,90,\fscx95\fscy95)\t(90,160,\fscx89\fscy89)}{\c&HFFFFFF&}CUÁNTO {\c&HFFFFFF&}PAGUÉ {\c&HFFFFFF&}POR
+Dialogue: 0,0:00:02.59,0:00:05.05,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}ESTE {\c&HFFFFFF&}PERFUME… {\c&HFFFFFF&}Y
+Dialogue: 0,0:00:05.05,0:00:06.52,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}CUANDO {\c&HFFFFFF&}LES {\c&HFFFFFF&}DIJE,
+Dialogue: 0,0:00:07.62,0:00:09.05,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}NO {\c&HFFFFFF&}ME {\c&HFFFFFF&}CREYERON.
+Dialogue: 0,0:00:09.09,0:00:09.75,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}SON {\c&HFFFFFF&}PERFUMES
+Dialogue: 0,0:00:09.75,0:00:10.35,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}ÁRABES,
+Dialogue: 0,0:00:10.35,0:00:10.89,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}Y {\c&HFFFFFF&}TODOS {\c&HFFFFFF&}ME
+Dialogue: 0,0:00:10.89,0:00:11.62,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}PREGUNTAN {\c&HFFFFFF&}QUÉ
+Dialogue: 0,0:00:11.62,0:00:12.45,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}PERFUME {\c&HFFFFFF&}ES.
+Dialogue: 0,0:00:12.45,0:00:12.45,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}VIENEN {\c&H00FFFF&}TRES {\c&HFFFFFF&}EN
+Dialogue: 0,0:00:13.69,0:00:14.79,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}UN {\c&HFFFFFF&}KIT.
+Dialogue: 0,0:00:14.79,0:00:15.89,C,,0,0,0,,{\an5\pos(540,1060)\fscx76\fscy76\t(0,90,\fscx102\fscy102)\t(90,160,\fscx96\fscy96)}{\c&HFFFFFF&}POR {\c&H00FFFF&}BLACK {\c&HFFFFFF&}FRIDAY
+Dialogue: 0,0:00:15.89,0:00:16.95,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}PAGAS {\c&H00FFFF&}DOS {\c&HFFFFFF&}Y
+Dialogue: 0,0:00:16.95,0:00:17.85,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}TE {\c&HFFFFFF&}LLEVAS {\c&HFFFFFF&}LOS
+Dialogue: 0,0:00:17.85,0:00:18.35,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}TRES,
+Dialogue: 0,0:00:18.35,0:00:18.73,C,,0,0,0,,{\an5\pos(540,1060)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}Y {\c&HFFFFFF&}PAGAS

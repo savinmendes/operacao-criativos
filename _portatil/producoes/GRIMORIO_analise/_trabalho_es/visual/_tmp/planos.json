@@ -1,0 +1,314 @@
+[
+ {
+  "quadros": [
+   0,
+   122
+  ],
+  "t": [
+   0.0,
+   4.1
+  ],
+  "quem": "reporter (PiP embaixo à esquerda; voz feminina ~250 Hz)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   4,
+   848,
+   248,
+   308
+  ],
+  "caixa_uniao_xywh": [
+   0,
+   837,
+   257,
+   334
+  ]
+ },
+ {
+  "quadros": [
+   123,
+   230
+  ],
+  "t": [
+   4.1,
+   7.7
+  ],
+  "quem": "padre do tumulto gritando (rosto se move muito)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   199,
+   452,
+   279,
+   329
+  ],
+  "caixa_uniao_xywh": [
+   0,
+   281,
+   649,
+   677
+  ]
+ },
+ {
+  "quadros": [
+   239,
+   665
+  ],
+  "t": [
+   7.97,
+   22.2
+  ],
+  "quem": "padre chorando (selfie)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   48,
+   360,
+   569,
+   748
+  ],
+  "caixa_uniao_xywh": [
+   0,
+   304,
+   672,
+   888
+  ]
+ },
+ {
+  "quadros": [
+   666,
+   925
+  ],
+  "t": [
+   22.2,
+   30.87
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   272,
+   348,
+   234,
+   237
+  ],
+  "caixa_uniao_xywh": [
+   253,
+   341,
+   269,
+   259
+  ]
+ },
+ {
+  "quadros": [
+   984,
+   1009
+  ],
+  "t": [
+   32.8,
+   33.67
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   261,
+   365,
+   231,
+   234
+  ],
+  "caixa_uniao_xywh": [
+   257,
+   360,
+   237,
+   247
+  ]
+ },
+ {
+  "quadros": [
+   1215,
+   1333
+  ],
+  "t": [
+   40.5,
+   44.47
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   264,
+   348,
+   237,
+   240
+  ],
+  "caixa_uniao_xywh": [
+   221,
+   339,
+   313,
+   256
+  ]
+ },
+ {
+  "quadros": [
+   1806,
+   2284
+  ],
+  "t": [
+   60.2,
+   76.17
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   273,
+   345,
+   233,
+   239
+  ],
+  "caixa_uniao_xywh": [
+   236,
+   324,
+   320,
+   290
+  ]
+ },
+ {
+  "quadros": [
+   2622,
+   2992
+  ],
+  "t": [
+   87.4,
+   99.77
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   294,
+   348,
+   229,
+   233
+  ],
+  "caixa_uniao_xywh": [
+   169,
+   330,
+   412,
+   309
+  ]
+ },
+ {
+  "quadros": [
+   3150,
+   3286
+  ],
+  "t": [
+   105.0,
+   109.57
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   296,
+   347,
+   230,
+   233
+  ],
+  "caixa_uniao_xywh": [
+   281,
+   332,
+   270,
+   343
+  ]
+ },
+ {
+  "quadros": [
+   3387,
+   3502
+  ],
+  "t": [
+   112.9,
+   116.77
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   330,
+   340,
+   232,
+   236
+  ],
+  "caixa_uniao_xywh": [
+   308,
+   320,
+   262,
+   267
+  ]
+ },
+ {
+  "quadros": [
+   3597,
+   3781
+  ],
+  "t": [
+   119.9,
+   126.07
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   312,
+   346,
+   231,
+   235
+  ],
+  "caixa_uniao_xywh": [
+   270,
+   327,
+   305,
+   333
+  ]
+ },
+ {
+  "quadros": [
+   3921,
+   4003
+  ],
+  "t": [
+   130.7,
+   133.47
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 1,
+  "caixa_mediana_xywh": [
+   301,
+   348,
+   235,
+   232
+  ],
+  "caixa_uniao_xywh": [
+   284,
+   333,
+   301,
+   261
+  ]
+ },
+ {
+  "quadros": [
+   4041,
+   4555
+  ],
+  "t": [
+   134.7,
+   151.87
+  ],
+  "quem": "padre de roxo (live)",
+  "rostos_no_quadro_max": 2,
+  "caixa_mediana_xywh": [
+   328,
+   347,
+   231,
+   236
+  ],
+  "caixa_uniao_xywh": [
+   289,
+   327,
+   307,
+   296
+  ]
+ }
+]

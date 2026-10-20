@@ -1,0 +1,23 @@
+REVISÃO: PERFUMES-CL_P6_EL-CHOFER.mp4
+duração 32.77s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.2 MB
+decodificação: OK
+pts do áudio: 1538 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1029-1094, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD6-EL-CHOFER\PERFUMES-CL_P6_EL-CHOFER_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00- 10.20 Soy chofer de negro y ahora nadie se quiere bajar en su paradero, tres perfumes árabes
+  10.20- 11.80 al precio de uno.
+  11.80- 18.24 En el día, armafclub, fresco, masculino y poderoso, me piden que de otra vuelta.
+  18.24- 22.64 En la noche, látafa asad, intenso y seductor, mi señora me espera despierta.
+  22.64- 28.96 Y el fin de semana, AFNA 9PM, elegante y moderno.
+  28.96- 32.04 los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

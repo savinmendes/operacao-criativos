@@ -1,0 +1,102 @@
+{
+ "texto": "Son árabes. Tengo tres, uno para cada día. Los pedí por Black Friday. Pagué dos y me llegaron tres.",
+ "esperado": "¡Son árabes! Tengo tres, uno para cada día. Los pedí por Black Friday: pagué dos y me llegaron tres.",
+ "faltam": [],
+ "palavras": [
+  {
+   "p": "Son",
+   "ini": 0.08,
+   "fim": 0.82
+  },
+  {
+   "p": "árabes.",
+   "ini": 0.82,
+   "fim": 1.62
+  },
+  {
+   "p": "Tengo",
+   "ini": 1.84,
+   "fim": 2.3
+  },
+  {
+   "p": "tres,",
+   "ini": 2.3,
+   "fim": 2.82
+  },
+  {
+   "p": "uno",
+   "ini": 3.02,
+   "fim": 3.22
+  },
+  {
+   "p": "para",
+   "ini": 3.22,
+   "fim": 3.64
+  },
+  {
+   "p": "cada",
+   "ini": 3.64,
+   "fim": 3.94
+  },
+  {
+   "p": "día.",
+   "ini": 3.94,
+   "fim": 4.28
+  },
+  {
+   "p": "Los",
+   "ini": 4.68,
+   "fim": 4.96
+  },
+  {
+   "p": "pedí",
+   "ini": 4.96,
+   "fim": 5.26
+  },
+  {
+   "p": "por",
+   "ini": 5.26,
+   "fim": 5.5
+  },
+  {
+   "p": "Black",
+   "ini": 5.5,
+   "fim": 5.8
+  },
+  {
+   "p": "Friday.",
+   "ini": 5.8,
+   "fim": 6.28
+  },
+  {
+   "p": "Pagué",
+   "ini": 6.76,
+   "fim": 7.08
+  },
+  {
+   "p": "dos",
+   "ini": 7.08,
+   "fim": 7.44
+  },
+  {
+   "p": "y",
+   "ini": 7.44,
+   "fim": 7.78
+  },
+  {
+   "p": "me",
+   "ini": 7.78,
+   "fim": 8.02
+  },
+  {
+   "p": "llegaron",
+   "ini": 8.02,
+   "fim": 8.46
+  },
+  {
+   "p": "tres.",
+   "ini": 8.46,
+   "fim": 8.84
+  }
+ ]
+}

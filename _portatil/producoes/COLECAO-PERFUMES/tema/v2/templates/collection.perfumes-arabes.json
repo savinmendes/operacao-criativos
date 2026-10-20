@@ -1,0 +1,47 @@
+{
+  "sections": {
+    "pa-topo": {
+      "type": "pa-colecao-topo",
+      "settings": {
+        "eyebrow": "Lattafa · Armaf · Afnan",
+        "subtitulo": "Fragancias intensas y duraderas para mujer y hombre.",
+        "mostrar_imagem": true,
+        "selo_1": "Originales",
+        "selo_2": "Paga al recibir",
+        "selo_3": "Envío gratis",
+        "botao_filtro": true
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "pa-seo": {
+      "type": "pa-colecao-seo",
+      "settings": {
+        "titulo": "Perfumes árabes originales en Chile",
+        "usar_descricao": true,
+        "texto": "<p>Los perfumes árabes son conocidos por sus notas intensas de ámbar, vainilla, oud y especias, y por su buena duración en la piel. En esta colección encuentras fragancias de casas árabes como Lattafa, Armaf y Afnan, en presentación individual o en kits para ahorrar.</p><p><strong>¿Kit o unitario?</strong> Si ya sabes cuál te gusta, elige el perfume unitario. Si quieres variar según la ocasión o regalar, los kits reúnen varios perfumes en un solo pedido.</p><p><strong>¿Cómo pago?</strong> Pagas al recibir tu pedido en casa, con despacho a todo Chile.</p>"
+      }
+    }
+  },
+  "order": [
+    "pa-topo",
+    "main-collection-product-grid",
+    "pa-seo"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+ "flora_project": "prj_ns71wa013q56ym167ddsyfwjvd8gahn6",
+ "elevenlabs_flow": "GTn2RFRActv9MbCMCbP4",
+ "heygen_avatar": {
+  "R00": "e39981c6f0c9fb3866da08f1d8d6064c",
+  "R01": "c8bd7a5fe5377b31205ec4b5dfb6b628",
+  "CTA": "ee730e5feb4edc1005f698e635afcb86",
+  "RA2": "26fd58dc81b985a5a996715c8c20e590",
+  "RA4": "c9e24384e3112000573ca4e04d4a804f",
+  "RP1": "3f7ee89401fefec77961ab834b2bfd42",
+  "RP2": "d6b8a425c5725bb86f690eb3f014f5a4",
+  "RP3": "23b1d8fe78c84431537dff34a28fbb35"
+ },
+ "heygen_video1": {
+  "maos": "cf9bd7f8c89a44ccb36f6231c9024c16",
+  "vazio_clientes": "ad300aa67895408c8bb52a69d7ebe8ab",
+  "cheio": "b35d39c6a4d8411880346500b144ccd5",
+  "noite": "a53ed314078a4d68829f1acebbb9b1f4",
+  "celular": "1c875301fd004d249b7d8e8a9965c0a7",
+  "costura(ref2video)": "53dcb707a19a4da2b26fb26b4bbfa734",
+  "oracion(ref2video)": "68b8601708794db0a4f3d1b18599db3c"
+ },
+ "seedance_session": "yQBG2UnK9GFG8dbgMiCH",
+ "custos": {
+  "flora_usd_real": 0.254,
+  "elevenlabs_creative_equiv_usd": {
+   "7 imagens gpt-image-2.5-sunburst": 0.433,
+   "seedance-v2-fast 11 s 720p": 2.678
+  },
+  "elevenlabs_tts_sts_usd_aprox": 0.17,
+  "total_equiv_usd": 3.53,
+  "heygen": "conta compartilhada: saldo 6797 -> 6420 durante o lote (10 agentes); estimativa P2 ~150 cr Avatar IV 720p (52 s) + 7 clipes Video 1"
+ },
+ "notas": [
+  "Flora sem saldo (US$0,005) após a imagem-mestra: imagens e Seedance via ElevenLabs Creative (créditos da assinatura Pro); Kling substituído por HeyGen Video 1 (image_to_video / reference_to_video)",
+  "briga: Seedance 2 fast (não o 2.0 normal, que custaria US$3,35 equiv.); clienta começou a falar em 2,88 s -> 0-2,80 s em câmera lenta x1,59 para a reportera em PiP terminar antes",
+  "voz da Rosa na briga trocada por Luisa via STS (eleven_multilingual_sts_v2, demucs) e normalizada a -13,5 LUFS"
+ ]
+}

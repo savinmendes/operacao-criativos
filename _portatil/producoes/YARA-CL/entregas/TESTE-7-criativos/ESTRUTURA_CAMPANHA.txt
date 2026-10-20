@@ -1,0 +1,41 @@
+ESTRUTURA DA CAMPANHA — KIT 3 YARA · BLACK FRIDAY · CHILE (COD)
+Orçamento: US$ 100/dia
+
+==================================================
+FASE 1 — TESTE (dias 1 a 4)
+==================================================
+Campanha: [CL] YARA-KIT3 | BF | TESTE CRIATIVOS | ABO
+- Objetivo: Vendas · Otimização: Compra · Atribuição: 7d clique / 1d visualização
+- ABO (orçamento por conjunto): todos gastam igual, para comparar
+
+7 conjuntos · 1 anúncio cada · US$ 14/dia cada
+  CJ01 · H1    -> CJ01_YARA-BF_H1_bbywow.mp4
+  CJ02 · H2    -> CJ02_YARA-BF_H2_bbywow.mp4
+  CJ03 · H3    -> CJ03_YARA-BF_H3_bbywow.mp4
+  CJ04 · H4    -> CJ04_YARA-BF_H4_bbywow.mp4
+  CJ05 · H5    -> CJ05_YARA-BF_H5_bbywow.mp4
+  CJ06 · AD-A  -> CJ06_YARA-BF_AD-A_bbywow.mp4
+  CJ07 · AD-C  -> CJ07_YARA-BF_AD-C_bbywow.mp4
+
+Igual em todos os conjuntos:
+- Chile · Advantage+ audience (sugestão: mulheres 25-55, sem travar)
+- Posicionamentos Advantage+
+- Texto: texto_do_anuncio.txt · Botão: Comprar · Link: página do kit + UTM com o nome do anúncio
+
+Regras (não mexer antes de 48 h):
+- Gastou 2x o CPA alvo sem venda -> pausar
+- Hook rate (3s ÷ impressões) abaixo de ~25% -> gancho fraco, pausar
+- Hook bom e CTR baixo -> problema no corpo/oferta, não no gancho
+- Decidir pelo CPA + taxa de pedido confirmado/entregue (COD)
+
+==================================================
+FASE 2 — ESCALA (a partir do dia 4/5)
+==================================================
+Campanha: [CL] YARA-KIT3 | BF | ESCALA | CBO (ou Advantage+ Sales)
+- 1 conjunto aberto
+- Vencedor(es) entram pelo ID da publicação (mantém a prova social)
+- Junto, as versões de música do vencedor: Bam Bam, SUPERESTRELLA, sem música
+- Subir o orçamento 20-30% a cada 48 h enquanto o CPA aguentar
+- A campanha de teste continua com pouco orçamento para os próximos criativos
+
+PENDENTE: definir o CPA alvo dos perfumes no Chile para fechar as regras de corte.

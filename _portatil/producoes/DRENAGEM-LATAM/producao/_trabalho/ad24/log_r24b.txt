@@ -1,0 +1,23 @@
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\parte2.mp4 22.98s
+aviso: 6.8 min não cabe em 30 MB com qualidade; usando 900 kbps (~51 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 24 - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4
+duração : 408.50s | 720x1280 | áudio: sim | 48.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 24 - LYMPHORIA-HOMBRE-40-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 404.87s
+montagem rápida: 62s para 408s de vídeo (0.15x)
+PRONTO AD 24 - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\curto C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\curto\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\curto\parte2.mp4 23.73s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 24 CURTO - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4
+duração : 88.10s | 720x1280 | áudio: sim | 23.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 24 CURTO - LYMPHORIA-HOMBRE-40-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 84.00s
+montagem rápida: 11s para 88s de vídeo (0.13x)
+PRONTO AD 24 CURTO - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4

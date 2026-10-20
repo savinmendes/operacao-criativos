@@ -1,0 +1,31 @@
+REVISÃO: SB-ES_DESEMPLEADO_COMPLETA.mp4
+duração 60.83s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 48.1 MB
+decodificação: OK
+pts do áudio: 2853 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\desempleado\completa\revisao\SB-ES_DESEMPLEADO_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.50 Recé en un banco de la plaza, con mi carpeta de currículums, y esto fue lo que pasó.
+   6.50-  8.70 ¡Oh glorioso San Benito!
+   8.70- 11.20 ¡Sácame de esta escasez!
+  13.30- 16.50 A mis cincuenta y tantos me quedé sin trabajo.
+  16.50- 20.60 Salía de casa cada mañana de traje para que mi familia no supiera.
+  20.60- 22.50 Me sentía un inútil.
+  22.50- 28.00 Hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  28.00- 32.80 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus
+  32.80- 37.36 letras, no es falta de fe, es que nadie les enseñó la forma correcta de rezarla,
+  37.36- 43.16 cuando se reza de la forma correcta la casa se calma, el miedo se va y uno
+  43.16- 48.44 vuelve a ver salidas donde antes sólo veía puertas cerradas, por eso dejé la
+  48.44- 53.28 explicación completa letra por letra en una transmisión en vivo que está
+  53.28- 60.24 abierta las 24 horas toca en más información aquí abajo y entra a rezar con nosotros
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

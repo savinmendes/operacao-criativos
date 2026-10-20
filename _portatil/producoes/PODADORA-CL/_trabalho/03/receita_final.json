@@ -1,0 +1,38 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\AD 03 - PODADORA-INALAMBRICA-AUMENTO-ES-CL.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_trabalho\\03\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_trabalho\\03\\alinhamento.json",
+  "chaves": [
+   "podadora",
+   "ruedas",
+   "baterías",
+   "batería",
+   "metal",
+   "gratis",
+   "recibir",
+   "noventa",
+   "garantía",
+   "toca",
+   "inalámbrica"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "DESPACHO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1110,
+  "desde": 35.19
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1490
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

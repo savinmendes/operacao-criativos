@@ -1,0 +1,5 @@
+Voz usada nos ADs 08 e 10 (mesmo roteiro/criador do 13) — use a MESMA no 13:
+ElevenLabs catálogo (Voice Library): "Juan Carlos - Confident and Upbeat" (latino, masculino, meia-idade, anúncio)
+voice_id: G4IAP30yc6c1gK0csDfu  (já adicionada à conta como "WYZE 08-10-13 Juan Carlos upbeat")
+Modelo: eleven_multilingual_v2, estabilidade 0.5, velocidade 1.0
+Narração pronta (pode reaproveitar sem gastar de novo): ad08\narr.mp3 + ad08\narr.alinhamento.json

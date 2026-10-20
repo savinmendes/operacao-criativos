@@ -1,0 +1,37 @@
+{
+ "arquivo": "41 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.97,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 5.97,
+   "texto": "Parafusadeira e furadeira de impacto The Walt."
+  },
+  {
+   "ini": 5.97,
+   "fim": 11.61,
+   "texto": "Acompanha duas baterias, 20 volts max e um carregador b-volt."
+  },
+  {
+   "ini": 11.61,
+   "fim": 22.44,
+   "texto": "Uma maleta com luz indicadora de carga da bateria e possui luz LED."
+  },
+  {
+   "ini": 22.44,
+   "fim": 26.53,
+   "texto": "15 posições de torque."
+  },
+  {
+   "ini": 26.53,
+   "fim": 28.07,
+   "texto": "Motor brushless."
+  },
+  {
+   "ini": 28.07,
+   "fim": 33.94,
+   "texto": "Pompre agora."
+  }
+ ]
+}

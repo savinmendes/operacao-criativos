@@ -1,0 +1,41 @@
+REVISÃO: SB-FR-JESU-V07.mp4
+duração 31.85s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 22.2 MB
+decodificação: OK
+pts do áudio: 1494 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1794-1919
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-VENCEDORES_OP2-ASCENSAO_JESU-V07\_trabalho\revisor\SB-FR-JESU-V07_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  2.00 Si tu fermes cette vidéo maintenant,
+   2.00-  5.90 le miracle qui portait ton nom sera donné à quelqu'un d'autre.
+   5.90-  9.30 C'est la dernière fois que Dieu essaie de te parler de cette façon.
+   9.30- 11.40 Jésus t'a choisi.
+  11.40- 15.10 Il a préparé un cadeau puissant, rien que pour toi.
+  15.10- 16.70 Dans cette vidéo,
+  16.70- 19.80 tu vas entendre la prière perdue de saint Benoit
+  19.80- 22.20 qui débloque une pluie de miracle.
+  22.20- 25.30 Mais seulement si tu ne la refuses pas une nouvelle fois.
+  25.30- 27.80 Touche en savoir plus maintenant.
+  27.80- 31.80 reçoit ton miracle avant que la porte ne se ferme pour toujours.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.80    Si cerras este video ahora, el Miracle que porté tu nombre será dado a alguien otro.
+   5.80-  9.20    Es la última vez que Dios está intentando hablar de esta manera.
+   9.20- 11.40    Jesús ha decidido.
+  11.40- 15.00    Él ha preparado un cadeo puño, nada que para ti.
+  15.00- 16.62    En este video,
+  16.62- 19.70    vas a escuchar la priera perdida de Saint Benoit
+  19.70- 22.20    que desbloque una pluma de Miracles.
+  22.20- 25.30    Pero solo si no la refusas una nueva vez.
+  25.30- 27.70    Cállate en saber más ahora.
+  27.70- 31.70    Recuerda tu miráculo antes de que la puerta no se ferme para siempre.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

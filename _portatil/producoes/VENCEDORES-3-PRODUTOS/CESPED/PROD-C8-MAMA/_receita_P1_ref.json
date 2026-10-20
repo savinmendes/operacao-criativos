@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/PERFUMES-CL_P1_EL-MAESTRO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/corpo.alinhamento.json", "chaves": ["echaste", "perfumes", "árabes", "uno", "Armaf", "paradero", "Asad", "tele", "ese", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "ME PASA TODOS LOS DÍAS 😅", "y": 330, "ate": 3.9},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

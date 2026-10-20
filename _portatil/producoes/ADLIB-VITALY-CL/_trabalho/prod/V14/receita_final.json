@@ -1,0 +1,35 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/LYMPHORIA-ES-CL/V14 - LYMPHORIA-DEJAR-AZUCAR.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_fim_V14-V22-V25-V30\\parte2.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\V14\\parte1_norm.mp4"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\_fim_V14-V22-V25-V30\\narr_fim.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "reciba",
+   "gratis",
+   "recibir",
+   "noventa"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 13.69
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

@@ -1,0 +1,16 @@
+{
+ "idioma": "en",
+ "prob": 0.88,
+ "segmentos": [
+  {
+   "ini": 0.02,
+   "fim": 4.8,
+   "texto": "That's what I love, Nestle Crunch"
+  },
+  {
+   "ini": 4.8,
+   "fim": 8.12,
+   "texto": "I never meant to call-"
+  }
+ ]
+}

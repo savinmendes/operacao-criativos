@@ -1,0 +1,25 @@
+{
+ "cod": "A4",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\A4 - DEVOLVER-INALAMBRICO-ES-CL.mp4",
+ "gancho_s": 3.4,
+ "fala_s": 3.111,
+ "tomadas": [
+  [
+   35.85,
+   1.4
+  ],
+  [
+   24.6,
+   2.0
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 50.5,
+ "ganho_fala_db": -1.4,
+ "mb": 26.3,
+ "kbps": 4397,
+ "cenas": "mesa com as 2 baterias 21V e as rodas (35,85–37,25 s, só mão) → máquina com rodas cortando sem cabo (24,6 s em diante, só pernas)",
+ "texto": [
+  "SIN CABLES. SIN BENCINA."
+ ]
+}

@@ -1,0 +1,23 @@
+REVISÃO: LYM-CL_C5_desconfiada-online_montaje-pagas-al-recibir_b.mp4
+duração 32.30s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.9 MB
+decodificação: OK
+pts do áudio: 1512 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1105-1170, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\enxuto_c5\b\rev\LYM-CL_C5_desconfiada-online_montaje-pagas-al-recibir_b_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  6.30 Pagas al recibir, así de simple, pides tus gotas linforia y no pagas nada por adelantado.
+   6.30- 11.60 Te las llevan a tu casa con envío gratis y recién cuando las tienes en la mano, pagas.
+  11.60- 18.70 Adentro hay cuatro hierbas, galeo, trébol rojo, raíz de estilinja y fresno espinoso.
+  18.70- 24.40 100% natural y sabe a miel, unas gotitas al día y adiós hinchazón.
+  24.40- 29.30 Además tienes 90 días de garantía, compre uno y reciba dos.
+  29.30- 31.50 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

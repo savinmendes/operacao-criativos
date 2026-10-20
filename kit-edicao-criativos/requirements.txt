@@ -1,0 +1,6 @@
+numpy
+pillow
+opencv-python
+faster-whisper
+requests
+mediapipe>=0.10.30  # checar_lipsync.py (API Tasks; baixa face_landmarker.task na 1a vez)

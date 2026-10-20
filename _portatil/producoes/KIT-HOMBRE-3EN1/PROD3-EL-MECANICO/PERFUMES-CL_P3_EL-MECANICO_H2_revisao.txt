@@ -1,0 +1,22 @@
+REVISÃO: PERFUMES-CL_P3_EL-MECANICO_H2.mp4
+duração 32.68s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 22.9 MB
+decodificação: OK
+pts do áudio: 1533 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 644-830, x 0-109 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD3-EL-MECANICO\PERFUMES-CL_P3_EL-MECANICO_H2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  7.60 traigamelo de nuevo, creo que suena raro. Soy mecánico y ahora las clientas tienen, aunque el
+   7.60- 13.72 auto no tenga nada, tres perfumes árabes al precio de uno. En el día, Armav Club, fresco, masculino
+  13.72- 21.20 y poderoso, hasta con grasa me buscan. En la noche, látafa, asad, intenso y seductor, mi polola me
+  21.20- 28.28 abraza hasta con el oberol puesto. Y el fin de semana, AFNA 9PM, elegante y moderno. Los
+  28.28- 32.40 los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

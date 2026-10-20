@@ -1,0 +1,29 @@
+REVISÃO: SB-ES_PAREJA_COMPLETA.mp4
+duração 60.13s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 47.4 MB
+decodificação: OK
+pts do áudio: 2820 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\pareja\completa\revisao\SB-ES_PAREJA_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.76 Recéde rodillas en mi cuarto mientras mi esposo dormía en el sofá y esto fue lo que pasó.
+   5.76-  8.36 ¡Oh glorioso San Benito!
+   8.36- 10.36 ¡Te vuelve la paz a mi casa!
+  12.88- 19.68 Mi esposo y yo vivíamos como dos extraños, 30 años juntos y ya no nos mirábamos a los ojos.
+  19.68- 27.32 Sentía que lo estaba perdiendo hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  27.32- 33.10 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras,
+  33.10- 37.82 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  37.82- 44.14 de la forma correcta, la casa se calma, el miedo se va y uno vuelve a ver salidas donde
+  44.14- 49.90 antes solo veía puertas cerradas. Por eso dejé la explicación completa, letra por
+  49.90- 54.46 letra en una transmisión en vivo que está abierta a las 24 horas.
+  54.46- 59.66 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

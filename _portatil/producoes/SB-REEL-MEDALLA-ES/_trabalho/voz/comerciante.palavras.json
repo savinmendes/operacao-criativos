@@ -1,0 +1,485 @@
+[
+ {
+  "w": "Oh",
+  "ini": 0.267,
+  "fim": 0.48,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "glorioso",
+  "ini": 0.544,
+  "fim": 1.2,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "San",
+  "ini": 1.24,
+  "fim": 1.36,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Benito...",
+  "ini": 1.44,
+  "fim": 2.4,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "hoy",
+  "ini": 2.5,
+  "fim": 2.8,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "pronuncio",
+  "ini": 2.848,
+  "fim": 3.28,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "las",
+  "ini": 3.32,
+  "fim": 3.44,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "palabras",
+  "ini": 3.484,
+  "fim": 3.84,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "grabadas",
+  "ini": 3.904,
+  "fim": 4.32,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "en",
+  "ini": 4.373,
+  "fim": 4.48,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "tu",
+  "ini": 4.507,
+  "fim": 4.56,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "medalla.",
+  "ini": 4.62,
+  "fim": 5.68,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Sácame",
+  "ini": 6.909,
+  "fim": 7.362,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "de",
+  "ini": 7.415,
+  "fim": 7.522,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "esta",
+  "ini": 7.554,
+  "fim": 7.682,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "escasez.",
+  "ini": 7.722,
+  "fim": 8.802,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Si",
+  "ini": 9.406,
+  "fim": 9.442,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "me",
+  "ini": 9.469,
+  "fim": 9.522,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "escuchas…",
+  "ini": 9.602,
+  "fim": 10.562,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "ayúdame.",
+  "ini": 10.642,
+  "fim": 11.362,
+  "personagem": "comerciante",
+  "parte": "reza"
+ },
+ {
+  "w": "Yo",
+  "ini": 11.97,
+  "fim": 12.097,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "pasé",
+  "ini": 12.144,
+  "fim": 12.55,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "casi",
+  "ini": 12.689,
+  "fim": 13.131,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "seis",
+  "ini": 13.247,
+  "fim": 13.607,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "meses",
+  "ini": 13.723,
+  "fim": 14.199,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "sin",
+  "ini": 14.222,
+  "fim": 14.385,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "clientes.",
+  "ini": 14.443,
+  "fim": 15.302,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Llegué",
+  "ini": 15.557,
+  "fim": 16.01,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 16.056,
+  "fim": 16.08,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "pensar",
+  "ini": 16.138,
+  "fim": 16.683,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 16.753,
+  "fim": 16.799,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "cerrar",
+  "ini": 16.869,
+  "fim": 17.415,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "mi",
+  "ini": 17.496,
+  "fim": 17.589,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "negocio.",
+  "ini": 17.647,
+  "fim": 18.46,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Hasta",
+  "ini": 18.761,
+  "fim": 19.203,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "que,",
+  "ini": 19.284,
+  "fim": 19.702,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 19.783,
+  "fim": 19.969,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "una",
+  "ini": 20.108,
+  "fim": 20.317,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "transmisión",
+  "ini": 20.375,
+  "fim": 21.234,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 21.292,
+  "fim": 21.374,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "vivo,",
+  "ini": 21.432,
+  "fim": 21.943,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 22.21,
+  "fim": 22.361,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "sacerdote",
+  "ini": 22.419,
+  "fim": 23.313,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "explicó",
+  "ini": 23.371,
+  "fim": 24.021,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "lo",
+  "ini": 24.114,
+  "fim": 24.218,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 24.276,
+  "fim": 24.358,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "significan",
+  "ini": 24.404,
+  "fim": 25.251,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "las",
+  "ini": 25.356,
+  "fim": 25.519,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "letras",
+  "ini": 25.635,
+  "fim": 26.099,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 26.169,
+  "fim": 26.227,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 26.296,
+  "fim": 26.378,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "medalla",
+  "ini": 26.436,
+  "fim": 26.923,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 26.993,
+  "fim": 27.051,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "San",
+  "ini": 27.109,
+  "fim": 27.26,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benito.",
+  "ini": 27.318,
+  "fim": 28.038,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Ese",
+  "ini": 28.398,
+  "fim": 28.851,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "día",
+  "ini": 28.943,
+  "fim": 29.292,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "recuperé",
+  "ini": 29.408,
+  "fim": 30.012,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 30.081,
+  "fim": 30.197,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "paz.",
+  "ini": 30.267,
+  "fim": 30.778,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "Y",
+  "ini": 31.138,
+  "fim": 31.207,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "poco",
+  "ini": 31.37,
+  "fim": 31.765,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 31.823,
+  "fim": 31.846,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "poco,",
+  "ini": 31.916,
+  "fim": 32.461,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "las",
+  "ini": 32.624,
+  "fim": 32.833,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "puertas",
+  "ini": 32.949,
+  "fim": 33.506,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "empezaron",
+  "ini": 33.576,
+  "fim": 34.365,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 34.435,
+  "fim": 34.493,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ },
+ {
+  "w": "abrirse.",
+  "ini": 34.598,
+  "fim": 35.445,
+  "personagem": "comerciante",
+  "parte": "selfie"
+ }
+]

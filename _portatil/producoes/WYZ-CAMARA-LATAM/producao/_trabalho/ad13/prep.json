@@ -1,0 +1,25 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/originais/13.mp4",
+ "fundo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/sep/htdemucs/orig_13/no_vocals.wav",
+ "narr": "narr.mp3",
+ "narr_inicio": 0.2,
+ "atempo": 1.0,
+ "fundo_vol": 1.0,
+ "caixas": [
+  {
+   "rect": [
+    20,
+    1068,
+    700,
+    1178
+   ],
+   "cor": [
+    0,
+    0,
+    0
+   ],
+   "raio": 18
+  }
+ ],
+ "max_total": 41.4
+}

@@ -1,0 +1,5 @@
+﻿{"ad":"ad09","corte":318.0,"saida":"AD 09 - LYMPHORIA-SESENTA-ES-LATAM.mp4","takes":[
+{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/1ac7c3aa-227c-42eb-b9a0-63270c62fcc7.mp4","inicio":144.7,"quadros":30},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/5e4004cd-3e6f-4064-a758-2e1a8b582a7a.mp4","inicio":159.0,"quadros":43}],
+"textos":[{"de":120.3,"ate":122.4,"caixa":"85,1010,620,1064","texto":"en la mesa. Lymphoria.","ref":121.6,"fonte":"Poppins-Medium.ttf"}],
+"audios":[{"mp3":"p1.mp3","de":120.6,"ate":122.2}]}

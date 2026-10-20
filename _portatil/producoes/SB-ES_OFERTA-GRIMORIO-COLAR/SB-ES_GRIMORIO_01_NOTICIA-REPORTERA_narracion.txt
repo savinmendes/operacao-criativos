@@ -1,0 +1,35 @@
+NARRACIÓN COMPLETA — SB-ES_NOTICIA-AURELIO_A-GRIMORIO_FICTICIO.mp4 (2:53)
+Tiempos = momento en que empieza cada frase en el video final. Texto = ROTEIRO_v3 + ROTEIRO_v4_AB (VERSIÓN A: PDF Grimorio + collar, destino sitio).
+Título en pantalla 0-3 s: "🔴 LO HUMILLARON EN PLENA CALLE… AL DÍA SIGUIENTE PASÓ ESTO". CTA único al final (P07 + flechas TOCA «VER MÁS»); nada se habla después.
+Personajes ficticios: REPORTERA (en PiP desde 0:00 y luego en la calle), AGRESOR, DON AURELIO (vendedor) y SACERDOTE (P. Andrés Molina, siempre dentro de la transmisión EN VIVO).
+Sello "VIDEO FICTICIO" arriba a la derecha durante todo el video. "(voz en off)" = narración sobre b-roll, sin rostro.
+Voces (ElevenLabs): agresor Richard · don Aurelio Santiago · reportera Gabriela · sacerdote Pa Gabriel.
+B04–B06 sin voz (carrito vacío con música triste -> clientes llegando -> fila llena).
+
+[00:00] B01 REPORTERA (en PiP): Imágenes impactantes: un vendedor fue atacado en plena calle.
+[00:03] B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora!
+[00:06] B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.
+[00:18] R01 REPORTERA: Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.
+[00:26] A01 DON AURELIO: Sí, eso me pasó a mí.
+[00:29] AV01 DON AURELIO (voz en off): Y no era la primera vez… yo pensaba que era mala suerte; todas las puertas se me cerraban.
+[00:37] A01 DON AURELIO (sigue): Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.
+[00:47] A02 DON AURELIO: Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.
+[00:54] A03 DON AURELIO: ¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?
+[01:02] R02 REPORTERA: ¡Claro!
+[01:03] PB01 SACERDOTE (EN VIVO): No es mala suerte. Cuando los caminos se cierran así, hay algo espiritual detrás.
+[01:07] P01 SACERDOTE (EN VIVO): Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido.
+[01:11] V01 SACERDOTE (voz en off): No quieren que tengas acceso a esto, porque es una oración muy poderosa.
+[01:15] P02 SACERDOTE (EN VIVO): Repitan conmigo.
+[01:17] O01 SACERDOTE (oración, voz en off): Oh poderoso San Benito, guardián de los misterios sagrados, que venciste a la serpiente con la señal de la cruz y callaste el rugido del abismo con tu fe inquebrantable. Invoco ahora las doce palabras selladas por tu mano: Crux, Lux, Fides, Ignes, Veritas, Silentium, Gladius, Fortitudo, Custodia, Sanctitas, Spiritus y Triumphus.
+[01:42] P03 SACERDOTE (EN VIVO): Esta es la poderosísima oración de las doce palabras del Grimorio Sagrado y Secreto de San Benito.
+[01:48] V02 SACERDOTE (voz en off): Están surgiendo relatos de bendiciones todos los días.
+[01:51] V03 SACERDOTE (voz en off): Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.
+[01:58] V04 SACERDOTE (voz en off): Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes.
+[02:07] V05 SACERDOTE (voz en off): La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.
+[02:16] P04 SACERDOTE (EN VIVO): Pero atención: tiene que hacerse de la forma correcta, según las instrucciones del Grimorio, porque no es una oración común.
+[02:23] V06 SACERDOTE (voz en off): Tiene instrucciones y una manera correcta de hacerla y de escucharla.
+[02:27] V08 SACERDOTE (voz en off): A partir de hoy le darás la bienvenida a una vida próspera.
+[02:31] P05 SACERDOTE (EN VIVO): Voy a pedirle a la producción que deje el Grimorio Sagrado y Secreto de San Benito disponible en este sitio, para que puedan hacerla de la forma correcta,
+[02:40] V07 SACERDOTE (voz en off): pero no sé por cuánto tiempo va a estar disponible.
+[02:43] P06 SACERDOTE (EN VIVO): Y quien obtenga el Grimorio hoy recibirá de regalo un collar de plata de San Benito, el mismo que se usaba en sus oraciones.
+[02:51] P07 SACERDOTE (EN VIVO): Accede mientras todavía es posible.

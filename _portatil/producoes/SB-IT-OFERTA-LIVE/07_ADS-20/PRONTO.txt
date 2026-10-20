@@ -1,0 +1,5 @@
+SB-IT-ADS-20 pronto em 16/10/2026.
+Video: SB-IT-ADS-20.mp4 v2 (138,7 s, 720x1280, 30 fps) — frases "preghiera speciale" e "recitare" corrigidas
+Voz: Jesus The Chosen (gancho) + Brian (corpo), eleven_multilingual_v2 it
+HeyGen: 1 job lipsync speed (gancho 4,3 s), pausa 0,27 APROVADO
+revisar_ad.py: OK (whisper it 0.99, sem proibidos, sem salto de pts); revisor independente: sem problemas

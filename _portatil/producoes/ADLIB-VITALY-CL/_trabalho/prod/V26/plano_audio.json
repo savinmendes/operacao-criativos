@@ -1,0 +1,6 @@
+{"vocals": "sep/htdemucs/orig/vocals.wav", "fundo": "sep/htdemucs/orig/no_vocals.wav", "saida": "audio_corpo.wav", "ate": 30.967,
+ "trocas": [
+  {"janela": [0.0, 2.95], "pecas": [{"src": "audio/h1.wav", "de": 0.27, "ate": 2.96, "em": 0.0, "tempo": 1.04}]},
+  {"janela": [7.70, 8.70], "pecas": [{"src": "audio/h2.wav", "de": 0.27, "ate": 1.04, "em": 7.98, "tempo": 1.10}]},
+  {"janela": [16.95, 20.20], "pecas": [{"src": "audio/h3.wav", "de": 0.27, "ate": 2.74, "em": 17.10, "tempo": 0.88}]}
+ ]}

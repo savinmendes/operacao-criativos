@@ -1,0 +1,36 @@
+Ranking: 06
+Anúncio (criativo): JESU V07
+Nomes de anúncio somados: JESU V07
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (3): SB ES - 04/10 - CBO 1-1-6 - BID 53 [ESPANHA] | SB ES - 24/09 - 1-5-10 JESU [ABO] | SB ES - 27/09 - CBO 1-1-7 CAMPEOES
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 296.20
+Compras (pixel): 11
+Custo por compra: US$ 26.93  (média SB ES: US$ 31.62)
+ROAS compra no site: 1.48  (média SB ES: 1.22)
+CTR de link: 10.14%  (cliques no link / impressões)
+Impressões: 16308
+Cliques no link: 1654
+Status atual dos anúncios: {'ACTIVE': 1, 'ADSET_PAUSED': 5, 'CAMPAIGN_PAUSED': 1}
+
+ARQUIVO: SB-ES_06_JESU-V07.mp4 — 1080x1920 h264, 33.1 s
+Origem: Arquivo local C:\Users\PICHAU\Downloads\VIDEOS PRONTOS SB-JESU V1\SB-JESU-V07.mp4 (1080x1920, 33,13 s = mesma duração do video_id 1902615067573842 no Meta).
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 104.06 / 5 / 120248584629940259 / 27670572962619221 / SB ES - 04/10 - CBO 1-1-6 - BID 53 [ESPANHA] / 1-1-6 ES
+  US$ 75.44 / 3 / 120248428996660259 / 1634294048064919 / SB ES - 24/09 - 1-5-10 JESU [ABO] / CJ 2
+  US$ 59.39 / 2 / 120248429002890259 / 2900935263633006 / SB ES - 24/09 - 1-5-10 JESU [ABO] / CJ 5
+  US$ 18.91 / 1 / 120248473613970259 / 2078250699473530 / SB ES - 27/09 - CBO 1-1-7 CAMPEOES / CAMPEOES
+  US$ 17.42 / 0 / 120248428999550259 / 2900935263633006 / SB ES - 24/09 - 1-5-10 JESU [ABO] / CJ 4
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 27670572962619221
+Título: (vazio)
+Texto principal:
+Puedes estar rodeado de gente y aun así sentirte completamente solo. Como si nadie notara el peso que llevas por dentro.
+
+Hay una oración ligada a San Benito, poco conocida, que muchas personas están rezando justamente en ese momento: cuando ya no saben a quién recurrir.
+
+Escúchala con atención 👇

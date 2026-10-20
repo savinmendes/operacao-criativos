@@ -1,0 +1,6 @@
+PRONTO2 — agente CORPO (19/10/2026): selo «VIDEO FICTICIO» com opacidade de 10%
+corpo_a_partir_selfie.mp4 e V0_COMPLETA.mp4 refeitos a partir da montagem sem selo (a base do v4 não tinha selo queimado; LaMa não foi necessário).
+Selo: mesma posição e tamanho do v4, opacidade 10%, do 1º ao último quadro (PNG: _trab\ov\selo10.png).
+Resto idêntico ao PRONTO.txt: mesmas durações (corpo 75,07 s / V0 83,1 s), mesmo áudio (-16,5 / -15,4 LUFS), mesmos tempos de CTA (70,02 s) e EN VIVO (66,97 s).
+Conferido com zoom no canto (quadros 0, 5, 30 e último do V0; quadro 0 do corpo): sem resto de selo opaco. revisar_ad.py: OK nos dois.
+ENTREGA\V0_COMPLETA.mp4 substituído.

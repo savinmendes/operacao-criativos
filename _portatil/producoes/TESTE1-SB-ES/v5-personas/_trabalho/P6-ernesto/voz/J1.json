@@ -1,0 +1,177 @@
+{
+"dur": 9.785,
+"frases": [
+"E1",
+"E2"
+],
+"palavras": [
+{
+"w": "Esa",
+"ini": 0.046,
+"fim": 0.255,
+"frase": "E1"
+},
+{
+"w": "noche",
+"ini": 0.313,
+"fim": 0.639,
+"frase": "E1"
+},
+{
+"w": "me",
+"ini": 0.697,
+"fim": 0.766,
+"frase": "E1"
+},
+{
+"w": "encerré",
+"ini": 0.789,
+"fim": 1.393,
+"frase": "E1"
+},
+{
+"w": "en",
+"ini": 1.643,
+"fim": 1.817,
+"frase": "E1"
+},
+{
+"w": "el",
+"ini": 1.91,
+"fim": 1.991,
+"frase": "E1"
+},
+{
+"w": "baño",
+"ini": 2.061,
+"fim": 2.34,
+"frase": "E1"
+},
+{
+"w": "del",
+"ini": 2.375,
+"fim": 2.467,
+"frase": "E1"
+},
+{
+"w": "restaurante,",
+"ini": 2.514,
+"fim": 3.512,
+"frase": "E1"
+},
+{
+"w": "con",
+"ini": 3.762,
+"fim": 3.96,
+"frase": "E1"
+},
+{
+"w": "vergüenza",
+"ini": 4.018,
+"fim": 4.598,
+"frase": "E1"
+},
+{
+"w": "de",
+"ini": 4.656,
+"fim": 4.726,
+"frase": "E1"
+},
+{
+"w": "que",
+"ini": 4.784,
+"fim": 4.877,
+"frase": "E1"
+},
+{
+"w": "mis",
+"ini": 4.935,
+"fim": 5.086,
+"frase": "E1"
+},
+{
+"w": "compañeros",
+"ini": 5.155,
+"fim": 5.817,
+"frase": "E1"
+},
+{
+"w": "me",
+"ini": 5.875,
+"fim": 5.968,
+"frase": "E1"
+},
+{
+"w": "vieran",
+"ini": 6.015,
+"fim": 6.27,
+"frase": "E1"
+},
+{
+"w": "llorar.",
+"ini": 6.293,
+"fim": 6.769,
+"frase": "E1"
+},
+{
+"w": "A",
+"ini": 7.275,
+"fim": 7.321,
+"frase": "E2"
+},
+{
+"w": "mi",
+"ini": 7.391,
+"fim": 7.496,
+"frase": "E2"
+},
+{
+"w": "edad,",
+"ini": 7.519,
+"fim": 7.774,
+"frase": "E2"
+},
+{
+"w": "sentía",
+"ini": 7.797,
+"fim": 8.215,
+"frase": "E2"
+},
+{
+"w": "que",
+"ini": 8.285,
+"fim": 8.378,
+"frase": "E2"
+},
+{
+"w": "ya",
+"ini": 8.424,
+"fim": 8.506,
+"frase": "E2"
+},
+{
+"w": "no",
+"ini": 8.552,
+"fim": 8.622,
+"frase": "E2"
+},
+{
+"w": "servía",
+"ini": 8.668,
+"fim": 9.005,
+"frase": "E2"
+},
+{
+"w": "para",
+"ini": 9.063,
+"fim": 9.226,
+"frase": "E2"
+},
+{
+"w": "nada.",
+"ini": 9.284,
+"fim": 9.585,
+"frase": "E2"
+}
+]
+}

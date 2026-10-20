@@ -1,0 +1,10 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V10/V10_final.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V10/corpo_av.mp4",
+ "legenda": {"fonte": "nenhuma"},
+ "selo": {"linhas": ["ENVÍO GRATIS A DOMICILIO", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "x": 160, "y": 990, "desde": 70.97},
+ "cta": {"inicio": 70.97, "y": 1430},
+ "limite_mb": 30,
+ "resolucao": "720"
+}

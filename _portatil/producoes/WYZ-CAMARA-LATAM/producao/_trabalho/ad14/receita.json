@@ -1,0 +1,31 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 14 - WYZE-SOLAR-CAM-PAN-GARAJE-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad14\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad14\\narr.alinhamento.json",
+  "chaves": [
+   "wyze",
+   "solar",
+   "360",
+   "2K",
+   "inteligencia",
+   "nocturna",
+   "lluvia",
+   "metros",
+   "sol",
+   "batería",
+   "simple",
+   "celular",
+   "microSD",
+   "suscripción",
+   "opcional",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

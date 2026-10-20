@@ -1,0 +1,22 @@
+{
+ "arquivo": "46 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.3,
+   "fim": 10.3,
+   "texto": "Quando a ferramenta aguenta uso pesado, ela mostra na prática. Essa deu alto 20V de impacto, que eu já usei bastante e dá para ver claramente na imagem."
+  },
+  {
+   "ini": 11.3,
+   "fim": 18.3,
+   "texto": "Continua firme e forte, sem escova, com alto torque, menos aquecimento e mais autonomia da bateria."
+  },
+  {
+   "ini": 19.3,
+   "fim": 22.3,
+   "texto": "Ferramenta profissional para quem não pode perder tempo nem serviço."
+  }
+ ]
+}

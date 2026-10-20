@@ -1,0 +1,24 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 02 - WYZE-SOLAR-CAM-PAN-INSTALACION-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad02/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad02/alinhamento.json",
+  "y": 1490,
+  "chaves": [
+   "solar",
+   "soporte",
+   "panel",
+   "cable",
+   "listo",
+   "fácil",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1660
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

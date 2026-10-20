@@ -1,0 +1,90 @@
+{
+"texto": "Imágenes impactantes: un jubilado fue humillado en la fila del banco… por su fe.",
+"voz": "hHjbwzYZW17oh0p05AKv",
+"est": 0.5,
+"estilo": 0.2,
+"vel": 1.16,
+"dur": 5.554,
+"palavras": [
+{
+"w": "Imágenes",
+"ini": 0.058,
+"fim": 0.65
+},
+{
+"w": "impactantes:",
+"ini": 0.731,
+"fim": 1.614
+},
+{
+"w": "un",
+"ini": 1.864,
+"fim": 1.957
+},
+{
+"w": "jubilado",
+"ini": 1.992,
+"fim": 2.503
+},
+{
+"w": "fue",
+"ini": 2.561,
+"fim": 2.735
+},
+{
+"w": "humillado",
+"ini": 2.758,
+"fim": 3.316
+},
+{
+"w": "en",
+"ini": 3.362,
+"fim": 3.409
+},
+{
+"w": "la",
+"ini": 3.455,
+"fim": 3.525
+},
+{
+"w": "fila",
+"ini": 3.571,
+"fim": 3.78
+},
+{
+"w": "del",
+"ini": 3.815,
+"fim": 3.931
+},
+{
+"w": "banco...",
+"ini": 3.977,
+"fim": 4.43
+},
+{
+"w": "por",
+"ini": 4.68,
+"fim": 4.866
+},
+{
+"w": "su",
+"ini": 4.924,
+"fim": 5.029
+},
+{
+"w": "fe.",
+"ini": 5.087,
+"fim": 5.354
+}
+],
+"cortes": [
+[
+1.739,
+1.767
+],
+[
+4.583,
+4.774
+]
+]
+}

@@ -1,0 +1,63 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 03 - LYMPHORIA-ESQUELETO-30DIAS-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 03 - LYMPHORIA-ESQUELETO-30DIAS-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 92.8,
+  "quadros": 2781,
+  "dur_audio": 92.8,
+  "mb": 24.7
+ },
+ "info_v2": {
+  "duracao": 92.8,
+  "quadros": 2781,
+  "dur_audio": 92.8,
+  "mb": 26.0
+ },
+ "md5_audio_entregue": "7f17bf2e96282ed9d17e5b33f999b7d6",
+ "md5_audio_v2": "7f17bf2e96282ed9d17e5b33f999b7d6",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/t1_final.mp4",
+   0,
+   162,
+   0.0,
+   5.4
+  ],
+  [
+   "flora/t2_final.mp4",
+   162,
+   314,
+   5.4,
+   10.467
+  ]
+ ],
+ "quadros_comparados": 2781,
+ "fora_dos_takes": {
+  "quadros": 2467,
+  "psnr_min": 37.94,
+  "psnr_medio": 42.92,
+  "px40_max": 184,
+  "px40_medio": 3.08,
+  "quadro_px40_max": 2445,
+  "t_px40_max": 81.5
+ },
+ "dentro_dos_takes": {
+  "quadros": 314,
+  "psnr_medio": 36.71,
+  "px40_medio": 581.4,
+  "px40_max": 1265
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 1834,
+  "px40_max": 19,
+  "t_px40_max": 12.2,
+  "quadros_com_px40>50": 0
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 314,
+  "px40_medio": 545.4
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD03_takes_zoom3x.jpg"
+}

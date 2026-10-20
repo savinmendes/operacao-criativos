@@ -1,0 +1,15 @@
+ABUELA COMPLETA (14/10/2026) -> SB-ES_ABUELA_COMPLETA.mp4 (67,6 s) + _narracion.txt
+Flora projeto prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (ref: retrato.png antigo, asset_jd72rnmr0rmsrp11v9z0g5a6vh8g8atj)
+  img/retrato_triste.png  is2i-gpt-image-2-5-flare 2k  run_m1715vzg7jwr651je89pf3mnb58g8ppw  US$0.122
+  img/gancho_amplo.png    idem  run_m17b35nsh7rpet98m3qrndams98g989r  US$0.122
+  img/frustrado.png       idem  run_m179w2jcaaymjxkygsfgrj87f98g8fqd  US$0.122
+  takes/gancho_amplo.mp4  i2v-kling-2.5 5s canvas n769 run_m171vt9k8jkrpw4jpp11cfxzp58g9w0w US$0.294
+  takes/frustrado.mp4     i2v-kling-2.5 5s canvas n768 run_m17f4p506s5ezv28v6ss3aed1n8g8w0j US$0.294
+  Total Flora: US$0.954
+ElevenLabs (Grandma Aurora, multilingual_v2, previous_text p/ tom): hook 77 + selfie 214 = 291 caracteres.
+  Reza = falas antigas f1 ("Oh glorioso San Benito,") + f2 ("Devuélveme a mi familia.") com reverb, 0 caracteres.
+HeyGen: create_video_from_image (retrato_triste, expressiveness low) video 2a5532bf6c8667d32f8023cca750b48e,
+  só com a selfie a partir de 3,78 s (1ª frase vai sob o take frustrado). 15,05 s. Saldo 7138 -> 7119 (19; pode incluir outros agentes).
+QA: takes a cada 0,2 s sem deformação; selfie com expressão de choro, cantos da boca para baixo, sem sorriso (dentes aparecem só na fala).
+revisar_ad --idioma es: OK (aviso de setas vermelhas = CTA amarelo do modelo). -14,3 LUFS, pico -2,4 dBFS.
+Montagem: montar_completa_persona.py (cópia adaptada de montar_completa2.py, lê config.json); gerar_narracion.py.

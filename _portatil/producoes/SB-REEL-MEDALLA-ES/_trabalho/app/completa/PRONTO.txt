@@ -1,0 +1,11 @@
+APP - serie COMPLETA (14/10/2026) -> ..\..\..\SB-ES_APP_COMPLETA.mp4 (57,4 s)
+Flora projeto prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (is2i-gpt-image-2-5-flare 9:16 high 2k; i2v-kling-2.5 5s)
+ retrato_triste.png run_m17bvt69zskesvgk290v8yfphn8g81de US$0.122
+ gancho_amplo.png  run_m172g3n26zbqzdk06jvsjyqr1s8g9gnn US$0.130 -> gancho_amplo.mp4 run_m175e5dpvx8z16tka0dq1kse718g90v3 US$0.294 (n767)
+ frustrado.png     run_m174xa80vn2dr07nazzg8cvk718g8s4h US$0.130 -> frustrado.mp4    run_m173a37y3kxydvz9anh1k8nzwx8g8vtw US$0.294 (n766)
+ Total Flora: US$0.970. Nenhuma refacao.
+Voz NOVA: Alejandro Duran (sKgg4MPUDBy69X7iv3fA), registrada em personas/_vozes.json como "app". tts_ctx.py (v2, previous_text). 342 caracteres (hook 92 + reza 47 + selfie 203).
+HeyGen: create_video_from_image (retrato_triste), audio = voz/selfie_heygen.mp3 (selfie.mp3 a partir de 2,36 s), 1080p, expressividade low. video 3055bf290b86bf7a1908439c92785677 (9,40 s).
+Montagem: montar_completa_persona.py + persona.json + legenda_completa.py (copia de montar_completa2.py/legenda_comp2.py; padre identico).
+QA: takes a cada 0,2 s (_qa/*_folha.jpg) ok; zoom no rosto da selfie (_qa/selfie_zoom.jpg): triste, sem sorriso; dentes aparecem so na articulacao da fala.
+revisar_ad.py --idioma es: OK (aviso de setas vermelhas = esperado, CTA e o cta_masinfo_unico amarelo). -14,6 LUFS / TP -2,2 dBFS (igual ao modelo).

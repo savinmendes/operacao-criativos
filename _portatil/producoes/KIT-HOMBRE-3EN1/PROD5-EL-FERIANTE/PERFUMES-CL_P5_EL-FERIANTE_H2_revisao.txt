@@ -1,0 +1,27 @@
+REVISÃO: PERFUMES-CL_P5_EL-FERIANTE_H2.mp4
+duração 33.69s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.3 MB
+decodificação: OK
+pts do áudio: 1581 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1041-1241, x 97-711 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD5-EL-FERIANTE\PERFUMES-CL_P5_EL-FERIANTE_H2_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.44 Quédese con el huelte, pero déjame qué perfume usa.
+   4.44-  9.16 Soy feriante, y ahora vendo más por el aroma que por las paltas.
+   9.16- 11.80 Tres perfumes árabes al precio de uno.
+  11.80- 14.96 En el día Armav Club, fresco, masculino y poderoso,
+  14.96- 18.04 las caseras ya no regatean.
+  18.04- 21.28 En la noche en la Tafada Sat, intenso y seductor,
+  21.28- 24.60 mi señora me dice casero a mí ahora.
+  24.60- 29.16 Y el fin de semana, Afnan 9 PM, elegante y moderno.
+  29.16- 32.36 Los tres te llegan a la casa y pagas cuando los recibes.
+  32.36- 33.36 Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,25 @@
+{
+  "api": "ElevenLabs POST /v1/music (music_v1 padrao), force_instrumental=true, music_length_ms=52000, mp3_44100_192, gerado 2026-10-09",
+  "uso": "trilha original gerada por IA para uso em anuncio (plano Pro ElevenLabs)",
+  "trilhas": {
+    "A": {
+      "estilo": "reggaeton/dembow 95 BPM, perfume de lujo",
+      "arquivo": "trilha_A.mp3",
+      "leito": "_leito_A.wav (pula intro fraca de 5 s; emenda em batida antes do outro)",
+      "prompt": "Instrumental modern Latin reggaeton / dembow beat at 95 BPM, sensual and elegant luxury-perfume vibe, lush warm synth pads, clean crisp dembow percussion, deep smooth 808 bass, subtle plucked synth motif, glossy high-end production like a trending TikTok background track in Chile. Starts immediately on the full beat with no slow intro, steady energy throughout, no vocals, no lyrics, no vocal chops, original melody."
+    },
+    "B": {
+      "estilo": "guaracha/aleteo + tech-house latino 124 BPM, Black Friday",
+      "arquivo": "trilha_B.mp3",
+      "leito": "_leito_B.wav",
+      "prompt": "Instrumental Chilean guaracha / aleteo and Latin tech-house at 124 BPM, energetic festive Black Friday party vibe, punchy four-on-the-floor kick, tribal Latin percussion, congas and timbales, bright rolling bassline, short synth stabs and whistle-like lead, high energy club drop feel like a viral TikTok trend in Chile. Starts immediately at full energy with no slow intro, steady groove throughout, no vocals, no lyrics, no vocal chops, original melody."
+    },
+    "C": {
+      "estilo": "pop latino/afrobeat 105 BPM, feminino alegre",
+      "arquivo": "trilha_C.mp3",
+      "leito": "_leito_C.wav",
+      "prompt": "Instrumental light Latin pop / afrobeat at 105 BPM, feminine, joyful and sunny, bouncy afro percussion and shakers, soft marimba and bright guitar plucks, warm bass, airy pads, feel-good trending TikTok background track for a beauty product in Latin America. Starts immediately on the full groove with no slow intro, steady energy throughout, no vocals, no lyrics, no vocal chops, original melody."
+    }
+  },
+  "mixagem": "mixar.py: musica ~-25 LUFS sob a voz, sidechaincompress (thr 0.05, ratio 3, att 20, rel 400) pela voz, +4 dB nos 1,5 s do titulo e +3,5 dB no cartao final (1,8 s), fade-out 0,8 s, loudnorm 2 passadas -14.5 LUFS TP -1.5 + alimiter; video -c:v copy"
+}

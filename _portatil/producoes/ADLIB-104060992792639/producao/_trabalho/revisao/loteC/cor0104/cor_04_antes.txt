@@ -1,0 +1,14 @@
+AD 04: final - original | boca Y U V | face Y U V | degrau boca-face Y V
+w1        boca -11.1  +4.1  -2.3 | face  -8.6  +2.7  -2.7 | degrau Y  -2.6 V  +0.3
+w2coberto boca -16.1  +2.5  -6.9 | face -42.2 +11.6 -14.1 | degrau Y +26.1 V  +7.2
+w3        boca -10.5  +4.4  -2.6 | face  -9.0  +2.8  -2.7 | degrau Y  -1.4 V  +0.0
+w4        boca -10.3  +4.2  -2.3 | face  -8.5  +2.7  -2.4 | degrau Y  -1.9 V  +0.2
+w5        boca -10.6  +4.0  -2.4 | face  -8.6  +2.8  -2.5 | degrau Y  -2.0 V  +0.2
+w6        boca -10.9  +4.2  -2.7 | face  -8.5  +2.5  -2.5 | degrau Y  -2.4 V  -0.2
+w7        boca -10.5  +4.0  -2.6 | face  -8.9  +2.9  -2.6 | degrau Y  -1.5 V  -0.0
+w8        boca -10.1  +4.3  -2.7 | face  -8.3  +2.6  -2.5 | degrau Y  -1.8 V  -0.2
+w9        boca -11.3  +3.9  -2.7 | face  -8.9  +2.8  -2.5 | degrau Y  -2.4 V  -0.2
+w10       boca -12.0  +4.1  -2.5 | face  -8.7  +2.7  -2.4 | degrau Y  -3.2 V  -0.1
+w11       boca -10.9  +4.1  -2.3 | face  -8.2  +2.5  -2.5 | degrau Y  -2.7 V  +0.3
+w12       boca -11.1  +4.1  -2.4 | face  -8.7  +2.7  -2.8 | degrau Y  -2.4 V  +0.4
+TODOS     boca -11.0  +4.1  -2.5 | face  -8.6  +2.7  -2.6 | degrau Y  -2.4 V  +0.0

@@ -1,0 +1,13 @@
+{
+ "video": "../../../VIDEOS/21 AD.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/21 AD - ES.mp4",
+ "W": 720, "H": 900, "audio": "../../../VIDEOS/54 AD.mp4",
+ "camadas": [
+  {"tipo": "rotulo", "rect": [96, 222, 624, 416], "linhas": ["Pisos, cocina, ventanas,", "alfombras y ropa:", "¡límpialo todo con", "UN SOLO aparato!"],
+   "fundo": "#ffffff", "cores": ["#111111"], "px": 38, "fonte": "semi", "raio": 18, "pad": 14, "de": 0, "ate": 4.88},
+  {"tipo": "rotulo", "rect": [150, 266, 570, 402], "linhas": ["H2O X5", "Limpiador a vapor"],
+   "fundo": "#ffffff", "cores": ["#111111"], "px": 46, "fonte": "semi", "raio": 18, "pad": 16, "de": 4.88, "ate": 99},
+  {"tipo": "selo", "x": 200, "y": 445, "larg": 320, "linhas": ["PAGO CONTRA", "ENTREGA"], "fita": "¡PAGAS AL RECIBIR!", "de": 0, "ate": 99},
+  {"tipo": "cta", "cx": 360, "y": 640, "px": 40, "de": 6.04, "setas_de": 6.3, "setas_x": [180, 406], "setas_y": 762, "seta_tam": 100, "seta_amp": 8, "ate": 99}
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 05 - WYZE-SOLAR-CAM-PAN-INSTALACION-FACIL-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad05/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad05/alinhamento.json",
+  "chaves": [
+   "cables",
+   "suscripción",
+   "facilísima",
+   "tornillos",
+   "solar",
+   "sol",
+   "completísima",
+   "sirena",
+   "microsd",
+   "celular",
+   "toca"
+  ],
+  "y": 1537
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1690
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

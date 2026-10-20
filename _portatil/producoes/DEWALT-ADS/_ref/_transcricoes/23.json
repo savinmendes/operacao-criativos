@@ -1,0 +1,27 @@
+{
+ "arquivo": "23 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.02,
+   "fim": 6.02,
+   "texto": "Chegou para mim a ferramenta mais potente do TikTok Shopping, Thewalt."
+  },
+  {
+   "ini": 6.02,
+   "fim": 14.02,
+   "texto": "Ela é sem escova, ela vem com duas baterias, um carregador Pivote."
+  },
+  {
+   "ini": 14.02,
+   "fim": 26.83,
+   "texto": "Agora eu vou testar a potência dessa máquina na função Matelete."
+  },
+  {
+   "ini": 26.83,
+   "fim": 31.83,
+   "texto": "Já clica no link, está em oferta relâmpago, corre porque vai esgotar."
+  }
+ ]
+}

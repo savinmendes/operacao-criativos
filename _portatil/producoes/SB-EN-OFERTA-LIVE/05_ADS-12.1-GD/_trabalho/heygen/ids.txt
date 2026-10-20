@@ -1,0 +1,6 @@
+hook 96478b8cfa874a268856a85b0f36bf8d
+jb fd89156daa784d83af0fa96d70f39e7c
+cta d49353c9efae4c28833ee77b3d522c3d
+saldo_antes 5533 (15/10 ~16:20)
+jb_v2 4587847708be47f1a3619b4b73068307 (voz EN reposicionada; jb v1 descartado)
+saldo_depois 5531 (15/10 ~17:50, medido logo após; cobrança do speed pode aparecer até ~1 h depois; outros agentes usam a mesma conta)

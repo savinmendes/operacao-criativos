@@ -1,0 +1,59 @@
+{
+ "ad": "47",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@jonatamrevestimentos (TikTok)",
+  "de_quem": "criador/profissional (revestimentos) — review caseiro",
+  "url": "https://www.tiktok.com/@jonatamrevestimentos/video/7632713142996372756"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 40.3,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano único fixo, câmera parada, homem falando e manuseando a ferramenta"
+ },
+ "formato": "talking head / review caseiro de profissional (unboxing da bolsa)",
+ "gancho": {
+  "visual_0_3s": "homem de camisa polo laranja segurando a furadeira com bateria, bolsa DeWalt na bancada",
+  "texto_0_3s": "nenhum",
+  "fala_0_3s": "Rapaziada, puradeira parafusadeira, 20 voltos, da DeWalt, coisa boa, viu galera?"
+ },
+ "corpo": [
+  {
+   "t": "0-8",
+   "o_que": "mostra a furadeira e a bateria para a câmera"
+  },
+  {
+   "t": "8-20",
+   "o_que": "tira itens da bolsa (carregador, 2ª bateria), mostra bateria encaixada"
+  },
+  {
+   "t": "20-40",
+   "o_que": "mostra mandril, seletor, aciona a ferramenta, coloca broca"
+  }
+ ],
+ "cta": "falado: 'clica no link aqui abaixo' (~25 s)",
+ "texto_na_tela": "nenhum",
+ "produto": {
+  "modelo": "não legível em 576p; furadeira/parafusadeira de impacto DeWalt 20V com bolsa (post: 'furadeira parafusadeira impacto dewalt 20vt original'). Bolsa de lona em vez de maleta",
+  "eh_nosso": "parecido; modelo não confirmado"
+ },
+ "rosto": {
+  "tem": true,
+  "tempo_s": 40.3
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "fala espontânea do criador em pt-BR ('Rapaziada, furadeira parafusadeira 20 volts da DeWalt, coisa boa...'), pede 'clica no link aqui abaixo'",
+ "uso": [
+  "só referência de formato"
+ ],
+ "uso_detalhe": "rosto do criador o vídeo todo (terceiro, sem autorização), plano único sem cortes; serve só como referência de 'profissional que comprou e aprova'. Para usar, refazer com avatar HeyGen/ator.",
+ "nota": 1,
+ "nota_justificativa": "depoimento de oficio tem apelo de prova social para o público (maestro), mas o vídeo é longo, sem cortes, sem gancho e todo com rosto de terceiro.",
+ "transcricao": [
+  "0.0-7.5: Rapaziada, puradeira parafusadeira, 20 voltos, da DeWalt, coisa boa, viu galera?",
+  "7.5-29.7: Ela vem com um carregador, tem uma maletinha que precisa transportar ela, pensa em uma ferramenta top, ela tem impacto, você furar, parede aí, ela tem também aqui um controle de velocidade, interessante que ela é um motor bruxo, ela aguenta mais tempo aí de uso aí que ela é sem carvão, fechou aí galera, clica no link aqui abaixo, você quer investir em uma ferramenta top,",
+  "29.7-39.7: de qualidade, deixa eu mostrar aqui pra você, a função, olha tem impacto, pra você furar, parede aí, pensa na máquina forte, fechou aí galera"
+ ]
+}

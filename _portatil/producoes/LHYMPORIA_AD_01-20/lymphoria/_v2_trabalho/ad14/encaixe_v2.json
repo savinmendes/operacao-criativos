@@ -1,0 +1,174 @@
+{
+ "refeitos": {
+  "flora/t1_final.mp4": {
+   "args": [
+    "flora/t1.mp4",
+    "flora/t1_edit.mp4",
+    "3.433"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad14\\flora\\t1_final.mp4 | 103 quadros | editado tinha 81 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     103,
+     103
+    ],
+    "dif_media": 1.522,
+    "dif_media_max_quadro": 1.867,
+    "dentro_faixa_media": 1.681,
+    "fora_px40_max": 3,
+    "fora_px40_media": 0.2
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     103,
+     103
+    ],
+    "dif_media": 1.684,
+    "dif_media_max_quadro": 2.094,
+    "dentro_faixa_media": 1.687,
+    "fora_px40_max": 2610,
+    "fora_px40_media": 1252.3
+   }
+  },
+  "flora/t2_final.mp4": {
+   "args": [
+    "flora/t2.mp4",
+    "flora/t2_edit.mp4",
+    "3.967"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad14\\flora\\t2_final.mp4 | 119 quadros | editado tinha 97 @ 24 fps | saltos>2: 2",
+   "reproduz_antigo": {
+    "quadros": [
+     119,
+     119
+    ],
+    "dif_media": 1.646,
+    "dif_media_max_quadro": 1.95,
+    "dentro_faixa_media": 1.929,
+    "fora_px40_max": 5,
+    "fora_px40_media": 0.2
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     119,
+     119
+    ],
+    "dif_media": 1.778,
+    "dif_media_max_quadro": 2.125,
+    "dentro_faixa_media": 1.926,
+    "fora_px40_max": 2134,
+    "fora_px40_media": 986.9
+   }
+  },
+  "flora/t3_final.mp4": {
+   "args": [
+    "flora/t3.mp4",
+    "flora/t3_edit.mp4",
+    "2.667"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad14\\flora\\t3_final.mp4 | 80 quadros | editado tinha 81 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     80,
+     80
+    ],
+    "dif_media": 1.65,
+    "dif_media_max_quadro": 1.978,
+    "dentro_faixa_media": 1.907,
+    "fora_px40_max": 2,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     80,
+     80
+    ],
+    "dif_media": 1.742,
+    "dif_media_max_quadro": 2.078,
+    "dentro_faixa_media": 1.909,
+    "fora_px40_max": 1290,
+    "fora_px40_media": 627.6
+   }
+  },
+  "flora/t4_final.mp4": {
+   "args": [
+    "flora/t4.mp4",
+    "flora/t4_edit.mp4",
+    "1.900"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad14\\flora\\t4_final.mp4 | 57 quadros | editado tinha 81 @ 24 fps | saltos>2: 2",
+   "reproduz_antigo": {
+    "quadros": [
+     57,
+     57
+    ],
+    "dif_media": 1.299,
+    "dif_media_max_quadro": 1.831,
+    "dentro_faixa_media": 1.381,
+    "fora_px40_max": 0,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     57,
+     57
+    ],
+    "dif_media": 1.315,
+    "dif_media_max_quadro": 1.833,
+    "dentro_faixa_media": 1.4,
+    "fora_px40_max": 502,
+    "fora_px40_media": 30.4
+   }
+  },
+  "flora/t5_final.mp4": {
+   "args": [
+    "flora/t5.mp4",
+    "flora/t5_edit.mp4",
+    "1.600"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad14\\flora\\t5_final.mp4 | 48 quadros | editado tinha 81 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     48,
+     48
+    ],
+    "dif_media": 1.741,
+    "dif_media_max_quadro": 1.931,
+    "dentro_faixa_media": 1.903,
+    "fora_px40_max": 0,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     48,
+     48
+    ],
+    "dif_media": 2.119,
+    "dif_media_max_quadro": 2.4,
+    "dentro_faixa_media": 1.994,
+    "fora_px40_max": 1302,
+    "fora_px40_media": 846.6
+   }
+  }
+ },
+ "conferidos": {
+  "flora2/t6_final.mp4": {
+   "args": [
+    "flora2/t6.mp4",
+    "flora2/t6_edit.mp4",
+    "1.267"
+   ],
+   "corrigido_vs_entregue": {
+    "quadros": [
+     38,
+     38
+    ],
+    "dif_media": 1.447,
+    "dif_media_max_quadro": 1.791,
+    "dentro_faixa_media": 1.426,
+    "fora_px40_max": 317,
+    "fora_px40_media": 229.4
+   }
+  }
+ }
+}

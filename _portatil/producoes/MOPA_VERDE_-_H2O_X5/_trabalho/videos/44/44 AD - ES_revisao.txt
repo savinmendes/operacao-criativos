@@ -1,0 +1,23 @@
+REVISÃO: 44 AD - ES.mp4
+duração 3.37s | 720x720 | 30/1 fps | áudio: sim | 0.1 MB
+decodificação: OK
+pts do áudio: 159 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 0.00-3.37
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 581-719, x 48-702 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\44\44 AD - ES_revisao.jpg
+idioma detectado: nn (0.34)
+
+=== transcrição (es) ===
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  2.00    You
+
+=== RESULTADO ===
+PROBLEMA: resolução 720x720 (esperado 720x1280 ou 1080x1920)
+PROBLEMA: silêncio de 3.37s no fim (a partir de 0.00s)
+aviso: idioma detectado nn (0.34), esperado es
+2 problema(s)

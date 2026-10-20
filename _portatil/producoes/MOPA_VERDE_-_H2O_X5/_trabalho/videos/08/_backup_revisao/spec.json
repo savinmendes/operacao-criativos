@@ -1,0 +1,312 @@
+{
+ "video": "../../../VIDEOS/08 AD.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/08 AD - ES.mp4",
+ "W": 720,
+ "H": 720,
+ "audio": "orig",
+ "fps_in": 29.97,
+ "camadas": [
+  {
+   "tipo": "rotulo",
+   "rect": [
+    238,
+    16,
+    558,
+    86
+   ],
+   "linhas": [
+    "Presentamos"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff"
+   ],
+   "px": 40,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 0,
+   "ate": 2.202,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    6,
+    72,
+    484,
+    334
+   ],
+   "linhas": [
+    "5 EN 1",
+    "SISTEMA DE LIMPIEZA",
+    "A VAPOR"
+   ],
+   "fundo": "#4dab46",
+   "cores": [
+    "#ffffff"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 2.12,
+   "ate": 4.204,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    452,
+    720,
+    702
+   ],
+   "linhas": [
+    "CON VAPOR",
+    "AJUSTABLE"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 80,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 4.204,
+   "ate": 5.906,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "coracao",
+   "cx": 195,
+   "cy": 205,
+   "escala": 15,
+   "angulo": 0,
+   "angulo_texto": 18,
+   "linhas": [
+    "14",
+    "MILLONES",
+    "VENDIDAS EN EL MUNDO"
+   ],
+   "fundo": "#55b047",
+   "px": 70,
+   "de": 5.906,
+   "ate": 7.975,
+   "forma": "circulo",
+   "raio_px": 245,
+   "contorno": 5,
+   "pxs": [
+    120,
+    62,
+    27
+   ]
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    458,
+    720,
+    706
+   ],
+   "linhas": [
+    "1. LIMPIADOR DE",
+    "PISOS POTENTE"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 7.975,
+   "ate": 9.776,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    440,
+    720,
+    662
+   ],
+   "linhas": [
+    "VAPORIZADOR DE",
+    "MANO VERSÁTIL"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 9.776,
+   "ate": 11.745,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    546,
+    474,
+    708
+   ],
+   "linhas": [
+    "LIMPIADOR",
+    "DE VIDRIOS"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 11.745,
+   "ate": 13.447,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    38,
+    474,
+    204
+   ],
+   "linhas": [
+    "LIMPIADOR DE",
+    "ALFOMBRAS"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 13.447,
+   "ate": 15.482,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    553,
+    504,
+    710
+   ],
+   "linhas": [
+    "VAPORIZADOR",
+    "DE ROPA"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 15.482,
+   "ate": 17.05,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    456,
+    608,
+    702
+   ],
+   "linhas": [
+    "CAMBIA TU FORMA",
+    "DE LIMPIAR"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 70,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 17.05,
+   "ate": 18.92,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    0,
+    493,
+    720,
+    704
+   ],
+   "linhas": [
+    "CON EL PODER",
+    "DEL VAPOR"
+   ],
+   "fundo": "#1e1e1e",
+   "cores": [
+    "#ffffff",
+    "#6cc04a"
+   ],
+   "px": 80,
+   "fonte": "bold",
+   "raio": 14,
+   "pad": 14,
+   "de": 18.819,
+   "ate": 21.19,
+   "alinhar": "centro"
+  },
+  {
+   "tipo": "selo",
+   "x": 506,
+   "y": 12,
+   "larg": 202,
+   "linhas": [
+    "PAGO CONTRA",
+    "ENTREGA"
+   ],
+   "fita": "¡PAGAS AL RECIBIR!",
+   "de": 2.202,
+   "ate": 99
+  },
+  {
+   "tipo": "cta",
+   "cx": 360,
+   "y": 516,
+   "px": 34,
+   "de": 21.19,
+   "setas_de": 21.5,
+   "setas_x": [
+    190,
+    430
+   ],
+   "setas_y": 614,
+   "seta_tam": 80,
+   "seta_amp": 5,
+   "ate": 99
+  }
+ ]
+}

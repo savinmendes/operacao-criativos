@@ -1,0 +1,31 @@
+REVISÃO: SB-ES_ABUELA_FICTICIO.mp4
+duração 76.10s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 59.3 MB
+decodificação: OK
+pts do áudio: 3569 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 972-1011, x 529-666 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\abuela\revisao\SB-ES_ABUELA_FICTICIO_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  7.50 ¡Oh, gloriosos han venido! Hoy pronuncio las palabras grabadas en tu medalla.
+   8.50- 14.50 Devuélveme a mi familia. Si me escuchas, no me dejes sola.
+  17.50- 23.00 Pasé años poniendo la mesa para todos y comiendo sola.
+  23.00- 29.00 Mis hijos ya ni me llamaban, hasta que, en una transmisión en vivo,
+  29.00- 34.00 un padre explicó la forma exacta de pedirle a San Benito.
+  34.00- 41.00 Ese día recuperé la paz y poco a poco mi casa volvió a llenarse.
+  41.00- 45.00 Esta es la última vez que Dios intenta hablarte de esta forma.
+  45.00- 47.00 Jesús te eligió.
+  47.00- 50.00 Preparó un regalo poderoso solo para ti.
+  50.00- 53.00 En este video vas a escuchar la oración perdida de San Benito
+  53.00- 56.00 que desbloquea una lluvia de milagros.
+  56.00- 63.96 Pero solo si no la rechazas otra vez, toca más información ahora, recibe tu milagro antes de
+  63.96- 69.48 que la puerta se cierre para siempre, ahora mismo está ocurriendo una transmisión en vivo con San
+  69.48- 75.52 Benito, toca el botón ver más aquí abajo del vídeo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,34 @@
+[
+  {
+    "tipo": "broll",
+    "prompt": "Vertical 9:16 documentary-style close-up shot. Weathered elderly hands hold a crumpled overdue electricity bill stamped VENCIDO in bold red ink, the stamp clearly readable but the rest of the printed text soft and out of focus, trembling slightly under warm late-afternoon window light. Shallow depth of field, handheld camera feel, muted desaturated color grade, emotional and intimate tone.",
+    "duracao": 3
+  },
+  {
+    "tipo": "avatar",
+    "imagem_prompt": "Vertical 9:16 photorealistic portrait of a man portraying Jesus Christ, warm golden halo, direct gaze, neutral closed-mouth expression for lipsync, soft cinematic lighting, plain dark background",
+    "fala": "Esta es tu última oportunidad para recibir lo que he preparado para ti. Jesús te ha elegido, ha traído un poderoso regalo. En este vídeo escucharás una antigua oración perdida que desbloqueará una lluvia de bendiciones y milagros sobre tu vida. No me rechaces nuevamente. Dale al botón de ver más ahora mismo y recibe tu milagro antes de que sea demasiado tarde.",
+    "cutaways": [
+      {
+        "a_partir_segundo": 7.0,
+        "duracao": 6.0,
+        "prompt": "Vertical 9:16 cinematic shot, a bearded man with long dark wavy hair, wearing flowing beige robes, comforting a crying woman with a warm embrace, soft golden hour sky in the background, emotional and tender tone"
+      },
+      {
+        "a_partir_segundo": 13.0,
+        "duracao": 2.5,
+        "prompt": "Vertical 9:16 cinematic shot, a bearded man with long dark wavy hair, wearing flowing beige robes, kneeling in prayer on a rocky mountaintop above the clouds, eyes closed, hands together, golden sunset light, serene and spiritual tone"
+      },
+      {
+        "a_partir_segundo": 15.5,
+        "duracao": 2.5,
+        "prompt": "Vertical 9:16 cinematic shot, a bearded man with long dark wavy hair, wearing flowing beige robes, standing on a rocky mountaintop above the clouds, reading an old leather-bound book, soft sunset light, serene and spiritual tone"
+      },
+      {
+        "a_partir_segundo": 18.0,
+        "duracao": 4.0,
+        "prompt": "Vertical 9:16 cinematic shot, a bearded man with long dark wavy hair, wearing a torn beige robe, carrying a wooden cross through a stone street crowd, wearing a crown of thorns, intense direct gaze at camera, dramatic historical tone"
+      }
+    ]
+  }
+]

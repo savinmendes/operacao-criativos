@@ -1,0 +1,9 @@
+Avatar HeyGen masculino (photo avatar, criado em 05/10/2026 pelo agente dos ADs 01 e 12)
+Nome: WYZE Review Latino 35
+avatar_id / look_id: 430f346689b68545f1adbea9f186bd83
+group_id: 430f346689b68545f1adbea9f186bd83
+Tipo: photo_avatar (gerado por prompt), 9:16 retrato, 1536x2752. Engines: avatar_v, avatar_iv, avatar_iii.
+Visual: homem latino ~35 anos, barba curta, camiseta verde-escura lisa, home office com plantas, luz natural. Sem logo/bandeira.
+Preview: avatar_masculino.jpg (nesta pasta)
+Uso: create_video_from_avatar com audioAssetId (áudio do tts_elevenlabs.py), aspectRatio 9:16, resolution 1080p, expressiveness high.
+Voz usada nos ADs 01 e 12 (ElevenLabs): "WYZE 01-12 Mario animado" tomkxGQGz4b1kE0EM722

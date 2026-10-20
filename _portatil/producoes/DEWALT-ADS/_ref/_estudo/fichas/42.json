@@ -1,0 +1,66 @@
+{
+ "ad": "42",
+ "idioma": "sem fala (whisper detectou 'en' com prob 0,67 e nenhum segmento)",
+ "origem": {
+  "perfil": "@powertoolscolombi (TikTok)",
+  "de_quem": "loja/revendedor de ferramentas (Colômbia) — formato review/teste",
+  "url": "https://www.tiktok.com/@powertoolscolombi/video/7639385281082166549"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 75.6,
+ "cortes": {
+  "n": 1,
+  "tempos_s": [
+   41.0
+  ],
+  "ritmo": "lento: 2 blocos espelhados (apresentação da ferramenta ~4 s + teste cronometrado ~17 s em plano fixo), corte único no meio"
+ },
+ "formato": "demo de teste/força — comparação cronometrada DCD7771 × DCD777 (furo em madeira com broca longa)",
+ "gancho": {
+  "visual_0_3s": "close da furadeira 20V MAX Brushless girando na mão de luva diante de prateleiras DeWalt/Milwaukee",
+  "texto_0_3s": "nenhum",
+  "fala_0_3s": "(sem fala nos 3 s iniciais)"
+ },
+ "corpo": [
+  {
+   "t": "0-4",
+   "o_que": "furadeira 1 apresentada em close (lados, etiqueta, bateria)"
+  },
+  {
+   "t": "4-~22",
+   "o_que": "teste: broca longa atravessando bloco de madeira, plano fixo lateral, cronômetro na tela (até ~16,90 s)"
+  },
+  {
+   "t": "~22-41",
+   "o_que": "fim do teste 1 / pausa"
+  },
+  {
+   "t": "41-45",
+   "o_que": "furadeira 2 apresentada em close (etiqueta lateral, seletor de 2 velocidades)"
+  },
+  {
+   "t": "45-75",
+   "o_que": "mesmo teste com cronômetro para a furadeira 2"
+  }
+ ],
+ "cta": "nenhum na tela",
+ "texto_na_tela": "só o cronômetro (mm:ss) no rodapé",
+ "produto": {
+  "modelo": "DCD7771 e DCD777 (segundo o texto do post; no vídeo as etiquetas não são legíveis em 576p para dizer qual furadeira é qual)",
+  "eh_nosso": "sim, um dos dois é o nosso DCD7771"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "nenhuma visível; prateleiras com caixas Milwaukee ao fundo",
+ "audio": "sem narração; som ambiente/ruído da furadeira (sem segmentos de fala)",
+ "uso": [
+  "banco de takes",
+  "só referência de formato"
+ ],
+ "uso_detalhe": "closes da furadeira na mão (0-4 s e 41-45 s) e o take da broca atravessando a madeira são B-roll de força sem rosto. O formato 'cronômetro / prova de força' é bom ângulo para COD (prova). Fundo com caixas Milwaukee aparece o tempo todo (marca concorrente).",
+ "nota": 3,
+ "nota_justificativa": "mostra o nosso modelo em teste real de perfuração (prova de força), sem rosto; mas é longo e monótono (plano fixo de ~17 s), comparação entre dois DeWalt não ajuda a venda e o fundo tem Milwaukee.",
+ "transcricao": []
+}

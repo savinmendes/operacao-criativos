@@ -1,0 +1,52 @@
+{
+ "arquivo": "24 AD.mp4",
+ "idioma": "es",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 3.88,
+   "texto": "Con una misma herramienta podemos perforar, armar e instalar."
+  },
+  {
+   "ini": 3.88,
+   "fim": 6.6,
+   "texto": "Y para conseguir esta herramienta, hoy fuimos a de Home Depot."
+  },
+  {
+   "ini": 6.6,
+   "fim": 13.92,
+   "texto": "Este es el taladro DSD-1007D de DeWALT, uno de los taladros XR más nuevos y el más potente de DeWALT de 20V."
+  },
+  {
+   "ini": 14.64,
+   "fim": 19.24,
+   "texto": "Este cuenta con motor sin carbones, empuñadura lateral para mayor ergonomía,"
+  },
+  {
+   "ini": 19.24,
+   "fim": 24.16,
+   "texto": "luz LED ajustable y para automático de seguridad en dado caso que el taladro se atore."
+  },
+  {
+   "ini": 24.16,
+   "fim": 28.96,
+   "texto": "Ahora complementándolo con una batería XR, podemos sacarle el máximo provecho."
+  },
+  {
+   "ini": 28.96,
+   "fim": 33.92,
+   "texto": "Perforaciones en concreto de hasta media pulgada, perforaciones en madera, metal, etc."
+  },
+  {
+   "ini": 33.92,
+   "fim": 38.96,
+   "texto": "Además, este es uno de los pocos taladros que tienen tres velocidades mecánicas para todas las necesidades,"
+  },
+  {
+   "ini": 38.96,
+   "fim": 45.36,
+   "texto": "por eso es uno de los más versátiles y así es como tenemos durabilidad, seguridad y productividad."
+  }
+ ]
+}

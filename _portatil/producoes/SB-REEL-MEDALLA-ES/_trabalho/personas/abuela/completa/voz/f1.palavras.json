@@ -1,0 +1,86 @@
+[
+ {
+  "w": "Oh",
+  "ini": 0.035,
+  "fim": 0.244,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "glorioso",
+  "ini": 0.302,
+  "fim": 1.173,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "San",
+  "ini": 1.242,
+  "fim": 1.44,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "Benito,",
+  "ini": 1.521,
+  "fim": 2.426,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "hoy",
+  "ini": 2.67,
+  "fim": 3.019,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "pronuncio",
+  "ini": 3.1,
+  "fim": 3.959,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "las",
+  "ini": 4.029,
+  "fim": 4.203,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "palabras",
+  "ini": 4.296,
+  "fim": 5.062,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "grabadas",
+  "ini": 5.12,
+  "fim": 5.875,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "en",
+  "ini": 5.991,
+  "fim": 6.072,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "tu",
+  "ini": 6.142,
+  "fim": 6.269,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "medalla.",
+  "ini": 6.339,
+  "fim": 7.14,
+  "personagem": "persona",
+  "parte": "reza"
+ }
+]

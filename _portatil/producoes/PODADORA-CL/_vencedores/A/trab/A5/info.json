@@ -1,0 +1,25 @@
+{
+ "cod": "A5",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\A5 - DEVOLVER-JARDINERO-ES-CL.mp4",
+ "gancho_s": 4.733333333333333,
+ "fala_s": 4.458,
+ "tomadas": [
+  [
+   21.35,
+   2.5
+  ],
+  [
+   24.6,
+   2.2333333333333334
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 51.83,
+ "ganho_fala_db": 0.7,
+ "mb": 26.1,
+ "kbps": 4281,
+ "cenas": "corte no caminho de pedra junto ao canteiro (21,35–23,85 s, só pernas) → corte ao lado do canteiro de plantas (24,6 s em diante, só pernas)",
+ "texto": [
+  "ADIÓS JARDINERO"
+ ]
+}

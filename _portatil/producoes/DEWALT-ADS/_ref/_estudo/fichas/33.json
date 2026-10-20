@@ -1,0 +1,55 @@
+{
+ "idioma": "pt-BR (whisper 1.0)",
+ "origem": {
+  "perfil": "@achadinhos.pop.shop (TikTok Shop afiliado)",
+  "tipo": "criador/afiliado review"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 197.8,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano único (talking head contínuo ~3 min), só reenquadramentos"
+ },
+ "formato": "talking head review 'é boa?' + alerta original x falsa, kit na mesa",
+ "gancho": {
+  "visual": "homem de boné e camisa azul segurando furadeira DeWalt XR com broca longa, kit (2 baterias + carregador + maleta) na frente; seta vermelha apontando o carregador",
+  "fala": "'Furadeira e parafusadeira DeWalt da linha XR 20V Max, vale a pena você adquirir, pessoal? Eu uso ela há mais ou menos um ano e quatro meses...'",
+  "texto_tela": "seta vermelha (sem texto)"
+ },
+ "corpo": [
+  {
+   "t": "0-60",
+   "bloco": "apresenta o kit: furadeira, 2 baterias, carregador, maleta"
+  },
+  {
+   "t": "60-150",
+   "bloco": "mostra mandril, seletor, encaixe da bateria, botões"
+  },
+  {
+   "t": "150-198",
+   "bloco": "close no corpo da ferramenta, troca bateria"
+  }
+ ],
+ "cta": "carrinho laranja TikTok Shop, 'menor preço da história' (aos 18 s); fecho 'espero ter ajudado'",
+ "texto_tela": "seta vermelha no início",
+ "produto": {
+  "modelo": "DCD996 pelo post (visual 20V MAX XR, mandril metálico, carregador DCB115); não é legível no vídeo",
+  "nosso_produto": false,
+  "obs": "kit parecido com o nosso (2 baterias + carregador + maleta), mas modelo premium XR"
+ },
+ "rosto": {
+  "sim": true,
+  "tempo": "~75% (parte final corta o rosto)"
+ },
+ "marca_dagua": "nenhuma visível",
+ "audio": "voz contínua do criador, sem música",
+ "uso": "só referência de formato",
+ "uso_motivo": "ângulo 'original x falsa, compre de revendedor confiável' útil para COD Chile; vídeo longo, rosto de terceiro, modelo diferente",
+ "nota": 2,
+ "nota_just": "ângulo de confiança/original reaproveitável no roteiro; takes não servem (rosto e modelo XR).",
+ "ad": "33",
+ "fala_resumo": "depoimento de uso real (1 ano e 4 meses, serviço pesado); explica funções, martelete, indicador de bateria",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\33.json",
+ "n_segmentos_fala": 32
+}

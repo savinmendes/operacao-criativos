@@ -1,0 +1,48 @@
+{
+  "ad": "26",
+  "idioma": "pt",
+  "origem": "TikTok @casalpivotoshop (vendedor TikTok Shop BR, criador)",
+  "url": "https://www.tiktok.com/@casalpivotoshop/video/7593451436759846152",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 38.2,
+  "cortes": 3,
+  "ritmo": "lento",
+  "formato": "UGC demo (parafusar tabua escorada com o joelho)",
+  "gancho": {
+    "visual": "homem segurando a furadeira, maleta cinza-azulada DEWALT ao fundo",
+    "texto_tela": "sem texto",
+    "fala_0_3s": "Quem compra hoje vai pagar só a metade do preço, olha só essa parafusadeira da Deowalt."
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-7s",
+      "conteudo": "fala com a furadeira"
+    },
+    {
+      "tempo": "7-14s",
+      "conteudo": "mostra maleta/baterias"
+    },
+    {
+      "tempo": "14-33s",
+      "conteudo": "close: parafuso em tabua escorada com o joelho"
+    },
+    {
+      "tempo": "33-38s",
+      "conteudo": "fecha falando"
+    }
+  ],
+  "cta": "falado: 'mega oportunidade, está aqui no link, corre e aproveita'",
+  "texto_na_tela": "nenhum",
+  "produto": "furadeira amarela DeWalt em maleta cinza-azulada; modelo nao legivel (mesmo vendedor do 23; procedencia duvidosa - revisao manual)",
+  "e_nosso_produto": "nao confirmado",
+  "rosto": "sim, ~55%",
+  "marca_dagua": "nao",
+  "audio": "voz masculina PT-BR",
+  "transcricao": "Quem compra hoje vai pagar só a metade do preço, olha só essa parafusadeira da Deowalt. Ela acompanha essa maleta, o carregador, bivolte e duas baterias. Olha a potência dessa parafusadeira, a grossura desse parafuso. É muito forte, pessoal, mega oportunidade, está aqui no link, corre e aproveita.",
+  "uso": [
+    "descartar"
+  ],
+  "nota_cod_chile": 1,
+  "justificativa": "Rosto, produto duvidoso, filmagem amadora e demonstracao fraca.",
+  "gancho_extra": "fala 0-7s: 'Quem compra hoje vai pagar só a metade do preço, olha só essa parafusadeira da DeWalt' (promessa de preço - checar compliance)"
+}

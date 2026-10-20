@@ -1,0 +1,26 @@
+PERFUMES ÁRABES · KIT HOMBRE 3 EN 1 · COD CHILE · Producción 10 «El Carnicero» · Apertura H2 (H8) (720x1280, 34 s)
+
+ROTEIRO
+GANCHO     (carnicería) La clienta se apoya en el mesón y lo apunta. Ella: «Deme un kilo… de lo que usted se echó.»   [pantalla: ME PIDEN EL PERFUME POR KILO 😂]
+CARNICERO  (selfie detrás del mesón) «Soy carnicero… y ahora las clientas vienen todos los días.»
+OFERTA     (close en los 3 frascos) «Tres perfumes árabes al precio de uno.»
+DÍA        (Armaf + corta la carne y una fila de mujeres sonríe) «En el día, Armaf Club. Fresco, masculino y poderoso. Ya no sé si vienen por el lomo o por mí.»
+NOCHE      (Asad + la señora lo abraza por detrás en la cocina) «En la noche, Lattafa Asad. Intenso y seductor. Mi señora ahora me cocina a mí.»
+FINDE      (de camisa en el asado con los amigos + 9PM) «Y el fin de semana, Afnan 9PM. Elegante y moderno.»
+CTA        (el pack sobre el mesón) «Los tres te llegan a la casa y pagas cuando los recibes. ¡Pídelo ahora!» + flechas
+
+Voz del Carnicero: «Santiago» (VXZKNah1ssrzM8c81OiY) — selfie por speech-to-speech (con «carnicero» y «clientas» corregidos con TTS de la misma voz), resto TTS.
+Voz femenina: nativa del Seedance 2. Música: ElevenLabs Music (cumbia instrumental propia).
+
+TEXTO DEL ANUNCIO (ES-CL, sin precio)
+Título: Me piden el perfume por kilo 😂
+Texto principal:
+Hasta en la carnicería, el perfume habla por ti 🔥
+3 perfumes árabes en un solo pack:
+🖤 Armaf Club de Nuit: fresco, masculino y poderoso (para el día)
+🔥 Lattafa Asad: intenso y seductor (para la noche)
+✨ Afnan 9PM: elegante y moderno (para el finde)
+📦 Envío en 24 horas
+💳 Pagas cuando lo recibes
+👉 Pídelo ahora
+Botón: Comprar

@@ -1,0 +1,155 @@
+{
+ "refeitos": {
+  "flora/t1_final.mp4": {
+   "args": [
+    "flora/t1.mp4",
+    "flora/t1_edit.mp4",
+    "2.333"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad11\\flora\\t1_final.mp4 | 70 quadros | editado tinha 81 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     70,
+     70
+    ],
+    "dif_media": 1.524,
+    "dif_media_max_quadro": 2.139,
+    "dentro_faixa_media": 1.355,
+    "fora_px40_max": 1,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     70,
+     70
+    ],
+    "dif_media": 1.845,
+    "dif_media_max_quadro": 2.402,
+    "dentro_faixa_media": 1.479,
+    "fora_px40_max": 1724,
+    "fora_px40_media": 686.5
+   }
+  },
+  "flora/t2_final.mp4": {
+   "args": [
+    "flora/t2.mp4",
+    "flora/t2_edit.mp4",
+    "1.033"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad11\\flora\\t2_final.mp4 | 31 quadros | editado tinha 81 @ 24 fps | saltos>2: 1",
+   "reproduz_antigo": {
+    "quadros": [
+     31,
+     31
+    ],
+    "dif_media": 1.395,
+    "dif_media_max_quadro": 1.753,
+    "dentro_faixa_media": 1.482,
+    "fora_px40_max": 1,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     31,
+     31
+    ],
+    "dif_media": 1.445,
+    "dif_media_max_quadro": 1.834,
+    "dentro_faixa_media": 1.48,
+    "fora_px40_max": 402,
+    "fora_px40_media": 203.8
+   }
+  },
+  "flora/t3_final.mp4": {
+   "args": [
+    "flora/t3.mp4",
+    "flora/t3_edit.mp4",
+    "0.700"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad11\\flora\\t3_final.mp4 | 21 quadros | editado tinha 81 @ 24 fps | saltos>2: 2",
+   "reproduz_antigo": {
+    "quadros": [
+     21,
+     21
+    ],
+    "dif_media": 0.908,
+    "dif_media_max_quadro": 1.176,
+    "dentro_faixa_media": 1.379,
+    "fora_px40_max": 6,
+    "fora_px40_media": 0.3
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     21,
+     21
+    ],
+    "dif_media": 0.924,
+    "dif_media_max_quadro": 1.18,
+    "dentro_faixa_media": 1.373,
+    "fora_px40_max": 475,
+    "fora_px40_media": 82.3
+   }
+  },
+  "flora/t4_final.mp4": {
+   "args": [
+    "flora/t4.mp4",
+    "flora/t4_edit.mp4",
+    "1.000"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad11\\flora\\t4_final.mp4 | 30 quadros | editado tinha 81 @ 24 fps | saltos>2: 3",
+   "reproduz_antigo": {
+    "quadros": [
+     30,
+     30
+    ],
+    "dif_media": 1.035,
+    "dif_media_max_quadro": 1.579,
+    "dentro_faixa_media": 1.176,
+    "fora_px40_max": 4,
+    "fora_px40_media": 0.2
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     30,
+     30
+    ],
+    "dif_media": 1.484,
+    "dif_media_max_quadro": 2.029,
+    "dentro_faixa_media": 1.197,
+    "fora_px40_max": 4136,
+    "fora_px40_media": 3792.9
+   }
+  },
+  "flora/t5_final.mp4": {
+   "args": [
+    "flora/t5.mp4",
+    "flora/t5_edit.mp4",
+    "5.433"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad11\\flora\\t5_final.mp4 | 163 quadros | editado tinha 129 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     163,
+     163
+    ],
+    "dif_media": 1.791,
+    "dif_media_max_quadro": 2.277,
+    "dentro_faixa_media": 1.937,
+    "fora_px40_max": 1,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     163,
+     163
+    ],
+    "dif_media": 1.964,
+    "dif_media_max_quadro": 2.329,
+    "dentro_faixa_media": 1.891,
+    "fora_px40_max": 2519,
+    "fora_px40_media": 829.9
+   }
+  }
+ },
+ "conferidos": {}
+}

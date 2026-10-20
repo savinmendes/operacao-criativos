@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C5-ARRIENDO/CESPED-CL_C5_ARRIENDO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C5-ARRIENDO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C5-ARRIENDO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C5-ARRIENDO/corpo.alinhamento.json", "chaves": ["pasto", "arrendar", "vacía", "precio", "probé", "uno", "ruedas", "mano", "metal", "inalámbrica", "baterías", "semana", "gratis", "recibir", "noventa", "pídela"]},
+  "manchete": {"texto": "NADIE QUERÍA ARRENDAR MI CASA 😩", "y": 1420, "ate": 3.3},
+  "cta": {"palavra": "pídela", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

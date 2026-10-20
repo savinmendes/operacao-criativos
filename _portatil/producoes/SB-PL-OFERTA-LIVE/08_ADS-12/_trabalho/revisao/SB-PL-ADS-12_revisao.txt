@@ -1,0 +1,34 @@
+REVISÃO: SB-PL-ADS-12.mp4
+duração 28.90s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 12.5 MB
+decodificação: OK
+pts do áudio: 1356 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 5 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 805-940, x 320-399 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-PL-OFERTA-LIVE\08_ADS-12\_trabalho\revisao\SB-PL-ADS-12_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  9.88 Jeśli mnie zignorujesz, nie będę miał wyboru i oddam komuś innemu cud, którego tak bardzo potrzebujesz, to Twoja ostatnia szansa, by otrzymać to, co dla Ciebie przygotowałem.
+   9.88- 13.40 Jezus Cię wybrał, przyniósł Ci potężny dar.
+  13.40- 20.12 Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii, która ze ślę na Twoje życie deszcz błogosławieństw i cudów.
+  20.12- 28.60 Nie odrzucaj mnie znowu, dotknij, dowiedz się więcej, poniżej i dołącz do modlitwy na żywo. Przyjmij swój cud, zanim będzie za późno.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: A_heygen.mp4 (300 quadros, rosto em 100%, rosto 251,180,241,286 [único rosto])
+  boca x original: dif. boca 13.94 | dif. controle 0.96 | mudou em 100% dos quadros | corr. abertura saída x original 0.04
+  pausas da voz nova: índice de pausa 0.31 (9 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.37 (atraso 0 ms) | corr. original 0.23
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.31)
+LIPSYNC: F_heygen.mp4 (171 quadros, rosto em 100%, rosto 250,180,241,281 [único rosto])
+  boca x original: dif. boca 14.78 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original 0.10
+  pausas da voz nova: índice de pausa 0.25 (15 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.51 (atraso -33 ms) | corr. original 0.49
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.25)
+índice de pausa do conjunto (2 trechos): 0.29 -> APROVADO
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,38 @@
+{
+ "arquivo": "VAR 03 - G3-EXESPOSA-FILA x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 292.57,
+ "mb": 36.8,
+ "whisper_gancho": "Mi ex esposa estaba detrás de mí en la fila, con su novio del brazo. 10 minutos ahí y nunca me reconoció. Esto fue lo que pasó.",
+ "whisper_emenda": "me reconoció. Esto fue lo que pasó. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy",
+ "cobertura_gancho": 0.92,
+ "cortes": [
+  1.566667,
+  3.0,
+  4.3,
+  5.266667,
+  6.8,
+  7.833333,
+  9.8
+ ],
+ "cortes_plan": [
+  1.567,
+  3.0,
+  4.3,
+  5.267,
+  6.8,
+  7.867
+ ],
+ "silencios": [
+  [
+   280.86,
+   281.89
+  ],
+  [
+   289.26,
+   290.12
+  ]
+ ],
+ "ok": true
+}

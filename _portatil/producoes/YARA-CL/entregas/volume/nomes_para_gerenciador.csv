@@ -1,0 +1,16 @@
+﻿arquivo,gancho,musica,descricao_do_gancho,nome_do_anuncio
+YARA-BF_H1_bbywow.mp4,H1,"música trend bbywow (baixa, ducking)","Original: consultora no balcão fala 'Liquidación total por Black Friday' (T1 completo), título BLACK FRIDAY · PAGA 2 LLEVA 3",YARA-BF_H1_bbywow
+YARA-BF_H1_bambam.mp4,H1,"música trend bambam (baixa, ducking)","Original: consultora no balcão fala 'Liquidación total por Black Friday' (T1 completo), título BLACK FRIDAY · PAGA 2 LLEVA 3",YARA-BF_H1_bambam
+YARA-BF_H1_sem-musica.mp4,H1,sem música (só voz + sfx),"Original: consultora no balcão fala 'Liquidación total por Black Friday' (T1 completo), título BLACK FRIDAY · PAGA 2 LLEVA 3",YARA-BF_H1_sem-musica
+YARA-BF_H2_bbywow.mp4,H2,"música trend bbywow (baixa, ducking)","Oferta primeiro: consultora no balcão com punch-in diz 'Pagas dos y te llevas los tres', título PAGA 2 · LLEVA 3, segue 'Llévate los tres Yara...'",YARA-BF_H2_bbywow
+YARA-BF_H2_bambam.mp4,H2,"música trend bambam (baixa, ducking)","Oferta primeiro: consultora no balcão com punch-in diz 'Pagas dos y te llevas los tres', título PAGA 2 · LLEVA 3, segue 'Llévate los tres Yara...'",YARA-BF_H2_bambam
+YARA-BF_H2_sem-musica.mp4,H2,sem música (só voz + sfx),"Oferta primeiro: consultora no balcão com punch-in diz 'Pagas dos y te llevas los tres', título PAGA 2 · LLEVA 3, segue 'Llévate los tres Yara...'",YARA-BF_H2_sem-musica
+YARA-BF_H3_bbywow.mp4,H3,"música trend bbywow (baixa, ducking)","Curiosidade/movimento: close dela cheirando o frasco Yara, título ¿YA PROBASTE LOS PERFUMES ÁRABES?, entra o T1 completo",YARA-BF_H3_bbywow
+YARA-BF_H3_bambam.mp4,H3,"música trend bambam (baixa, ducking)","Curiosidade/movimento: close dela cheirando o frasco Yara, título ¿YA PROBASTE LOS PERFUMES ÁRABES?, entra o T1 completo",YARA-BF_H3_bambam
+YARA-BF_H3_sem-musica.mp4,H3,sem música (só voz + sfx),"Curiosidade/movimento: close dela cheirando o frasco Yara, título ¿YA PROBASTE LOS PERFUMES ÁRABES?, entra o T1 completo",YARA-BF_H3_sem-musica
+YARA-BF_H4_bbywow.mp4,H4,"música trend bbywow (baixa, ducking)","Unboxing: 4 cortes rápidos (≤0,8 s) de mãos abrindo caixa/laço/frascos + mais B-roll, voz do T1 por cima, título LIQUIDACIÓN BLACK FRIDAY",YARA-BF_H4_bbywow
+YARA-BF_H4_bambam.mp4,H4,"música trend bambam (baixa, ducking)","Unboxing: 4 cortes rápidos (≤0,8 s) de mãos abrindo caixa/laço/frascos + mais B-roll, voz do T1 por cima, título LIQUIDACIÓN BLACK FRIDAY",YARA-BF_H4_bambam
+YARA-BF_H4_sem-musica.mp4,H4,sem música (só voz + sfx),"Unboxing: 4 cortes rápidos (≤0,8 s) de mãos abrindo caixa/laço/frascos + mais B-roll, voz do T1 por cima, título LIQUIDACIÓN BLACK FRIDAY",YARA-BF_H4_sem-musica
+YARA-BF_H5_bbywow.mp4,H5,"música trend bbywow (baixa, ducking)","Lista visual: 3 closes dos frascos com rótulos YARA / YARA MOI / YARA ELIXIR + 3 PERFUMES ÁRABES · PAGA 2 LLEVA 3, depois a consultora segue o T1",YARA-BF_H5_bbywow
+YARA-BF_H5_bambam.mp4,H5,"música trend bambam (baixa, ducking)","Lista visual: 3 closes dos frascos com rótulos YARA / YARA MOI / YARA ELIXIR + 3 PERFUMES ÁRABES · PAGA 2 LLEVA 3, depois a consultora segue o T1",YARA-BF_H5_bambam
+YARA-BF_H5_sem-musica.mp4,H5,sem música (só voz + sfx),"Lista visual: 3 closes dos frascos com rótulos YARA / YARA MOI / YARA ELIXIR + 3 PERFUMES ÁRABES · PAGA 2 LLEVA 3, depois a consultora segue o T1",YARA-BF_H5_sem-musica

@@ -1,0 +1,48 @@
+REVISÃO: 01_SB-FR_MEDALLA_COMPLETA.mp4
+duração 55.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 34.8 MB
+decodificação: OK
+pts do áudio: 2612 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\medalla\_tmp\rev_01_SB-FR_MEDALLA\01_SB-FR_MEDALLA_COMPLETA_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  3.68 J'ai prié à genoux dans mon restaurant vide, et voilà ce qui s'est passé.
+   3.68-  6.92 Au glorieux Saint-Benoît, sors-moi de cette misère.
+   9.92- 11.80 J'ai passé presque 6 mois sans clients.
+  11.80- 15.12 Je rentrais à la maison et je n'arrivais plus à regarder ma femme dans les yeux.
+  15.12- 19.04 Je me sentais un raté, jusqu'au jour où un prêtre m'a expliqué quelque chose
+  19.04- 21.80 que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  21.80- 24.20 Des millions de personnes portent cette médaille,
+  24.20- 28.16 et personne ne leur a jamais expliqué ce que disent ces lettres.
+  28.16- 29.52 Ce n'est pas un manque de foi.
+  29.52- 32.74 c'est que personne ne leur a appris la bonne façon de la prier.
+  32.74- 37.26 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va,
+  37.26- 42.10 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  42.10- 46.36 C'est pour ça que j'ai laissé l'explication complète, lettre par lettre,
+  46.36- 50.68 dans une transmission en direct ouverte 24 heures sur 24.
+  50.68- 55.64 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.64    Pruebo en mi restaurante VIDE, y ahí es lo que pasó.
+   3.64-  5.64    ¡Oh glorioso Sain Benoît!
+   5.64-  7.64    ¡Venme de esta misera!
+   9.88- 15.12    Hace casi 6 meses, yo entré a la casa y no llegué a mirar a mi mujer en los ojos.
+  15.12- 21.80    Me sentí un rato, hasta el día en que un prédio explicó algo que nadie me había dicho sobre la medalla de Sain Benoît.
+  21.80- 28.16    Los millones de personas porten esta medalla y nadie les ha explicado lo que dicen las letras.
+  28.16- 32.70    No es una falta de confianza, es que nadie les ha aprendido la buena manera de prevenirlo.
+  32.70- 37.28    Cuando la prefiere de la buena manera, la casa se arrasa, la fe se va,
+  37.28- 42.12    y comienza a haber problemas ahí donde no se ve que las puertas son cerradas.
+  42.12- 44.74    Es por eso que he dejado la explicación completa,
+  44.74- 46.38    letra por letra,
+  46.38- 50.66    en una transmisión en directo, abierto, 24 horas por 24 horas.
+  50.66- 55.66    Apuye en saber más, justo debajo, y vienes a prevenir con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

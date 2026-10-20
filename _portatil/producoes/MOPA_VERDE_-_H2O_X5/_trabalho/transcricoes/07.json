@@ -1,0 +1,460 @@
+{
+ "id": "07",
+ "texto": "Did you know bacteria on your kitchen counters is making you sick? This is your sign to sanitize your kitchen using H2O X5. The H2O X5 uses 1300 watts of superheated steam which kills 99% of bacteria and germs where you prepare food. Lab certified. Just steam and a wipe. Look how clean this is. No more germs. Very impressed with this. Get yours and save big today.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 3.44,
+   "texto": "Did you know bacteria on your kitchen counters is making you sick?",
+   "no_speech": 0.02,
+   "palavras": [
+    {
+     "w": "Did",
+     "ini": 0.0,
+     "fim": 0.36,
+     "p": 0.97
+    },
+    {
+     "w": "you",
+     "ini": 0.36,
+     "fim": 0.52,
+     "p": 1.0
+    },
+    {
+     "w": "know",
+     "ini": 0.52,
+     "fim": 0.68,
+     "p": 1.0
+    },
+    {
+     "w": "bacteria",
+     "ini": 0.68,
+     "fim": 1.24,
+     "p": 0.91
+    },
+    {
+     "w": "on",
+     "ini": 1.24,
+     "fim": 1.46,
+     "p": 0.99
+    },
+    {
+     "w": "your",
+     "ini": 1.46,
+     "fim": 1.68,
+     "p": 0.99
+    },
+    {
+     "w": "kitchen",
+     "ini": 1.68,
+     "fim": 1.96,
+     "p": 1.0
+    },
+    {
+     "w": "counters",
+     "ini": 1.96,
+     "fim": 2.38,
+     "p": 0.97
+    },
+    {
+     "w": "is",
+     "ini": 2.38,
+     "fim": 2.68,
+     "p": 0.99
+    },
+    {
+     "w": "making",
+     "ini": 2.68,
+     "fim": 2.9,
+     "p": 1.0
+    },
+    {
+     "w": "you",
+     "ini": 2.9,
+     "fim": 3.18,
+     "p": 1.0
+    },
+    {
+     "w": "sick?",
+     "ini": 3.18,
+     "fim": 3.44,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 3.98,
+   "fim": 8.18,
+   "texto": "This is your sign to sanitize your kitchen using H2O X5.",
+   "no_speech": 0.02,
+   "palavras": [
+    {
+     "w": "This",
+     "ini": 3.98,
+     "fim": 4.14,
+     "p": 0.99
+    },
+    {
+     "w": "is",
+     "ini": 4.14,
+     "fim": 4.34,
+     "p": 1.0
+    },
+    {
+     "w": "your",
+     "ini": 4.34,
+     "fim": 4.58,
+     "p": 1.0
+    },
+    {
+     "w": "sign",
+     "ini": 4.58,
+     "fim": 4.76,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 4.76,
+     "fim": 4.98,
+     "p": 1.0
+    },
+    {
+     "w": "sanitize",
+     "ini": 4.98,
+     "fim": 5.54,
+     "p": 0.98
+    },
+    {
+     "w": "your",
+     "ini": 5.54,
+     "fim": 5.72,
+     "p": 0.99
+    },
+    {
+     "w": "kitchen",
+     "ini": 5.72,
+     "fim": 6.08,
+     "p": 1.0
+    },
+    {
+     "w": "using",
+     "ini": 6.08,
+     "fim": 6.46,
+     "p": 0.98
+    },
+    {
+     "w": "H2O",
+     "ini": 6.46,
+     "fim": 7.38,
+     "p": 0.95
+    },
+    {
+     "w": "X5.",
+     "ini": 7.38,
+     "fim": 8.18,
+     "p": 0.61
+    }
+   ]
+  },
+  {
+   "ini": 9.12,
+   "fim": 15.72,
+   "texto": "The H2O X5 uses 1300 watts of superheated steam which kills 99% of bacteria and germs",
+   "no_speech": 0.02,
+   "palavras": [
+    {
+     "w": "The",
+     "ini": 9.12,
+     "fim": 9.28,
+     "p": 0.97
+    },
+    {
+     "w": "H2O",
+     "ini": 9.28,
+     "fim": 9.96,
+     "p": 1.0
+    },
+    {
+     "w": "X5",
+     "ini": 9.96,
+     "fim": 10.4,
+     "p": 0.99
+    },
+    {
+     "w": "uses",
+     "ini": 10.4,
+     "fim": 10.8,
+     "p": 1.0
+    },
+    {
+     "w": "1300",
+     "ini": 10.8,
+     "fim": 11.48,
+     "p": 0.61
+    },
+    {
+     "w": "watts",
+     "ini": 11.48,
+     "fim": 11.88,
+     "p": 0.87
+    },
+    {
+     "w": "of",
+     "ini": 11.88,
+     "fim": 12.16,
+     "p": 1.0
+    },
+    {
+     "w": "superheated",
+     "ini": 12.16,
+     "fim": 12.7,
+     "p": 0.96
+    },
+    {
+     "w": "steam",
+     "ini": 12.7,
+     "fim": 13.0,
+     "p": 1.0
+    },
+    {
+     "w": "which",
+     "ini": 13.0,
+     "fim": 13.32,
+     "p": 0.58
+    },
+    {
+     "w": "kills",
+     "ini": 13.32,
+     "fim": 13.6,
+     "p": 1.0
+    },
+    {
+     "w": "99",
+     "ini": 13.6,
+     "fim": 14.1,
+     "p": 0.98
+    },
+    {
+     "w": "%",
+     "ini": 14.1,
+     "fim": 14.58,
+     "p": 0.73
+    },
+    {
+     "w": "of",
+     "ini": 14.58,
+     "fim": 14.78,
+     "p": 0.99
+    },
+    {
+     "w": "bacteria",
+     "ini": 14.78,
+     "fim": 15.22,
+     "p": 0.99
+    },
+    {
+     "w": "and",
+     "ini": 15.22,
+     "fim": 15.52,
+     "p": 0.99
+    },
+    {
+     "w": "germs",
+     "ini": 15.52,
+     "fim": 15.72,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 15.72,
+   "fim": 21.36,
+   "texto": "where you prepare food. Lab certified. Just steam and a wipe. Look how clean this is.",
+   "no_speech": 0.02,
+   "palavras": [
+    {
+     "w": "where",
+     "ini": 15.72,
+     "fim": 15.94,
+     "p": 0.96
+    },
+    {
+     "w": "you",
+     "ini": 15.94,
+     "fim": 16.14,
+     "p": 1.0
+    },
+    {
+     "w": "prepare",
+     "ini": 16.14,
+     "fim": 16.44,
+     "p": 1.0
+    },
+    {
+     "w": "food.",
+     "ini": 16.44,
+     "fim": 16.84,
+     "p": 1.0
+    },
+    {
+     "w": "Lab",
+     "ini": 17.32,
+     "fim": 17.56,
+     "p": 0.94
+    },
+    {
+     "w": "certified.",
+     "ini": 17.56,
+     "fim": 18.12,
+     "p": 0.84
+    },
+    {
+     "w": "Just",
+     "ini": 18.52,
+     "fim": 18.82,
+     "p": 0.99
+    },
+    {
+     "w": "steam",
+     "ini": 18.82,
+     "fim": 19.14,
+     "p": 0.98
+    },
+    {
+     "w": "and",
+     "ini": 19.14,
+     "fim": 19.5,
+     "p": 0.97
+    },
+    {
+     "w": "a",
+     "ini": 19.5,
+     "fim": 19.66,
+     "p": 0.99
+    },
+    {
+     "w": "wipe.",
+     "ini": 19.66,
+     "fim": 19.94,
+     "p": 0.99
+    },
+    {
+     "w": "Look",
+     "ini": 20.3,
+     "fim": 20.46,
+     "p": 1.0
+    },
+    {
+     "w": "how",
+     "ini": 20.46,
+     "fim": 20.68,
+     "p": 1.0
+    },
+    {
+     "w": "clean",
+     "ini": 20.68,
+     "fim": 20.86,
+     "p": 1.0
+    },
+    {
+     "w": "this",
+     "ini": 20.86,
+     "fim": 21.14,
+     "p": 1.0
+    },
+    {
+     "w": "is.",
+     "ini": 21.14,
+     "fim": 21.36,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 21.44,
+   "fim": 26.04,
+   "texto": "No more germs. Very impressed with this. Get yours and save big today.",
+   "no_speech": 0.02,
+   "palavras": [
+    {
+     "w": "No",
+     "ini": 21.44,
+     "fim": 21.64,
+     "p": 1.0
+    },
+    {
+     "w": "more",
+     "ini": 21.64,
+     "fim": 21.9,
+     "p": 1.0
+    },
+    {
+     "w": "germs.",
+     "ini": 21.9,
+     "fim": 22.22,
+     "p": 1.0
+    },
+    {
+     "w": "Very",
+     "ini": 22.78,
+     "fim": 23.1,
+     "p": 0.98
+    },
+    {
+     "w": "impressed",
+     "ini": 23.1,
+     "fim": 23.46,
+     "p": 1.0
+    },
+    {
+     "w": "with",
+     "ini": 23.46,
+     "fim": 23.7,
+     "p": 1.0
+    },
+    {
+     "w": "this.",
+     "ini": 23.7,
+     "fim": 24.02,
+     "p": 1.0
+    },
+    {
+     "w": "Get",
+     "ini": 24.36,
+     "fim": 24.6,
+     "p": 1.0
+    },
+    {
+     "w": "yours",
+     "ini": 24.6,
+     "fim": 24.9,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 24.9,
+     "fim": 25.18,
+     "p": 0.97
+    },
+    {
+     "w": "save",
+     "ini": 25.18,
+     "fim": 25.4,
+     "p": 0.93
+    },
+    {
+     "w": "big",
+     "ini": 25.4,
+     "fim": 25.64,
+     "p": 0.97
+    },
+    {
+     "w": "today.",
+     "ini": 25.64,
+     "fim": 26.04,
+     "p": 0.98
+    }
+   ]
+  }
+ ]
+}

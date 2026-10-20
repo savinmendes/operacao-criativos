@@ -1,0 +1,36 @@
+ok: ad18/flora/t1_final.mp4 | 64 quadros | editado tinha 81 @ 24 fps | saltos>2: 1
+ok: ad18/flora/t2_final.mp4 | 46 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+ok: ad18/flora/t3_final.mp4 | 28 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b1.mp4
+t1_final.mp4: 64 quadros a partir de 0.0s
+t2_final.mp4: 46 quadros a partir de 58.933s
+t3_final.mp4: 28 quadros a partir de 63.933s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b1.mp4 | 2438 quadros, 138 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b2.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b2.mp4 | 44 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b2.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b3.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b3.mp4 | 31 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b3.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\p1.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b4.mp4 | trecho 58.60-60.40s trocado (velocidade 0.93x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b4.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\p2.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\b5.mp4 | trecho 76.95-77.97s trocado (velocidade 1.14x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\parte2.mp4 15.00s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 18 - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM.mp4
+duração : 96.10s | 720x1280 | áudio: sim | 25.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 18 - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 93.02s
+montagem rápida: 28s para 96s de vídeo (0.29x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 18 - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad18\curto\parte2.mp4 15.00s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 18 CURTO - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM.mp4
+duração : 58.40s | 720x1280 | áudio: sim | 23.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 18 CURTO - LYMPHORIA-GOTITAS-DIA-A-DIA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 55.36s
+montagem rápida: 8s para 58s de vídeo (0.14x)
+FIM ad18

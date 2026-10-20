@@ -1,0 +1,25 @@
+REVISÃO: V09 - LYMPHORIA-TE-PASO-EL-DATO.mp4
+duração 31.05s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 18.0 MB
+decodificação: OK
+pts do áudio: 1448 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 4 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1005-1166, x 157-563 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V09\rev\V09 - LYMPHORIA-TE-PASO-EL-DATO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.92 Si tú sufres mucho de retención de líquido, este es un suplemento de drenaje linfático,
+   5.92-  9.04 o sea que te va a ayudar a eliminar las toxinas.
+   9.04- 13.36 Si estás así todo embombada, todo hinchada, eso es para esto.
+  13.36- 15.08 Se llama linforia.
+  15.08- 19.04 Son gotitas de drenaje linfático con hierbas naturales.
+  19.04- 25.12 Ahora está en compra uno y reciba dos con envío gratis y pagas al recibir en tu casa
+  25.12- 27.52 y tienes 90 días de garantía.
+  27.52- 30.00 toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

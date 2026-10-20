@@ -1,0 +1,45 @@
+REVISÃO: F3 - VECINA-SAPA-A-ES-CL.mp4
+duração 56.00s | 720x1280 | 30/1 fps | áudio: sim | 24.6 MB
+decodificação: OK
+pts do áudio: 2624 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 55.21-56.00
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 929-1075, x 156-563 | no último quadro: sim | faixa escura do rodapé: 1136-1194
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\FORA\revisao\F3 - VECINA-SAPA-A-ES-CL_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  3.90 ¿Contrataste jardinero? Te debe haber salido carísimo.
+   3.90-  6.90 No puedo, lo hice yo en 10 minutos.
+   8.90- 11.90 Quien inventó esto merece un aumento.
+  11.90- 15.40 Si todavía andas arrastrando un cortapasto pesado
+  15.40- 19.60 o peleando con esas desbrosadoras que se traban, mira esto.
+  19.60- 23.40 Es cortapasto, orilladora y bordeadora en uno.
+  23.40- 27.10 Y ojo, pesa unos 4 kilos y medio y tiene ruedas,
+  27.10- 29.80 así que la puedes usar con una sola mano
+  29.80- 33.72 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  33.72- 36.68 Esta usa una cuchilla de metal reforzada.
+  36.68- 37.84 Es inalámbrica.
+  37.84- 42.60 Trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  42.60- 46.40 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  46.40- 50.68 Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  50.68- 55.20 Toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: F3_vizinha.mp4 (99 quadros, rosto em 100%, rosto 286,463,145,170 [único rosto])
+  pausas da voz nova: índice de pausa 0.02 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.56 (atraso 200 ms) | corr. original -
+APROVADO: fecha nas pausas da voz nova (índice de pausa 0.02)
+LIPSYNC: F3_dono.mp4 (69 quadros, rosto em 100%, rosto 311,157,90,109 [2 rostos; escolhido o que mais acompanha o áudio novo])
+  pausas da voz nova: índice de pausa 0.04 (7 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.59 (atraso 200 ms) | corr. original -
+APROVADO: fecha nas pausas da voz nova (índice de pausa 0.04)
+índice de pausa do conjunto (2 trechos): 0.03 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync F3_vizinha.mp4 checado sem o original (sem o teste 'a boca mudou')
+aviso: lipsync F3_dono.mp4 checado sem o original (sem o teste 'a boca mudou')
+OK: nenhum problema encontrado

@@ -1,0 +1,1550 @@
+[
+ {
+  "texto": "of these communities, how they differ across",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   19,
+   14,
+   713,
+   54
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "surfaces,and sources ofbacteria tokitchen",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   22,
+   78,
+   691,
+   107
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "surfaces. Here we used high-throughput",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   15,
+   133,
+   650,
+   178
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "sequencing of the 16S rRNA gene to explore",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   20,
+   198,
+   708,
+   233
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "biogeographical patterns of bacteria across",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   20,
+   257,
+   691,
+   292
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": ">80surfaceswithinthekitchensofeachof",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   22,
+   318,
+   700,
+   347
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "four households. In total, 34 bacterial and",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   17,
+   376,
+   678,
+   409
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "two archaeal phyla were identified, with",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   20,
+   435,
+   653,
+   472
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "most sequences belonging to the",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   18,
+   495,
+   529,
+   536
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Actinobacteria, Bacteriodetes, Firmicutes and",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   14,
+   550,
+   698,
+   591
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Did you knoyoe",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   38,
+   591,
+   397,
+   630
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "iaonyour",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   375,
+   591,
+   668,
+   634
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "PrO",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   21,
+   623,
+   62,
+   645
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "eneraknownt",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   280,
+   618,
+   514,
+   650
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "kitchen comaking",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   80,
+   640,
+   631,
+   679
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "abundance but broadly distributed",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   737,
+   562,
+   774
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "throughout the kitchens, with different taxa",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   18,
+   796,
+   705,
+   834
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "exhibiting distinct distribution patterns. The",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   20,
+   856,
+   709,
+   894
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "most diverse communities were associated",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   912,
+   686,
+   950
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "with infrequently cleaned surfaces such as",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   975,
+   683,
+   1013
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "fans above stoves, refrigerator/freezer door",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   17,
+   1036,
+   700,
+   1071
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "seals, and floors. In contrast, the least",
+  "ini": 0.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   1097,
+   612,
+   1131
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "diverse communities were observed in and",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   20,
+   1154,
+   689,
+   1190
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "around sinks, which were dominated by",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   20,
+   1212,
+   645,
+   1254
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Proteobacteria. Genera known to contain",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   65,
+   651,
+   100
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "common food-borne pathogens were low in",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   20,
+   125,
+   701,
+   161
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Did you know bacteria on your",
+  "ini": 1.0,
+  "fim": 4.0,
+  "caixa": [
+   40,
+   586,
+   667,
+   633
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "kitchen counters is making",
+  "ini": 1.0,
+  "fim": 4.0,
+  "caixa": [
+   79,
+   634,
+   632,
+   679
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "a",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   17,
+   675,
+   33,
+   697
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "you sick?",
+  "ini": 1.0,
+  "fim": 4.0,
+  "caixa": [
+   256,
+   681,
+   453,
+   727
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "biom-ioi mig giam-egave mitages.",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   13,
+   723,
+   655,
+   779
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Community composition was influenced by",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   21,
+   783,
+   694,
+   821
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "conditions on individual surfaces, usage",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   18,
+   841,
+   644,
+   884
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "patterns, and dispersal from source",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   18,
+   905,
+   571,
+   942
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "environments. Human skin was the primary",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   18,
+   961,
+   707,
+   1005
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "source of bacteria across all kitchen surfaces",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   19,
+   1023,
+   715,
+   1060
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "with contributions from food and faucet",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   21,
+   1086,
+   648,
+   1118
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "water dominating in a few specific locations.",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   18,
+   1143,
+   715,
+   1185
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "This study demonstrates that diverse",
+  "ini": 1.0,
+  "fim": 2.0,
+  "caixa": [
+   19,
+   1205,
+   594,
+   1240
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "around sinks, which were dominated by",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   18,
+   5,
+   645,
+   46
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "biofilm-forming gram-negative lineages.",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   16,
+   67,
+   648,
+   106
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "This studv demonstrates that diverse",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   17,
+   544,
+   592,
+   582
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ed",
+  "ini": 2.0,
+  "fim": 3.0,
+  "caixa": [
+   683,
+   612,
+   719,
+   640
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "predictable. These results also illustrate the",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   18,
+   785,
+   699,
+   823
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ease with whichhuman-and food-associatec",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   20,
+   849,
+   715,
+   881
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "bacteria can be transferred in residential",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   18,
+   908,
+   654,
+   941
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "settings to kitchen surfaces.",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   968,
+   451,
+   1004
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Introduction",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   17,
+   1088,
+   245,
+   1127
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Of all locations in our homes, kitchens are",
+  "ini": 2.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   1208,
+   680,
+   1241
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "inresidentialkitchensand thatthe",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   7,
+   563,
+   35
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "composition of these communities is often",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   61,
+   680,
+   101
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "(Scott et al., 1982; Qjima et al., 2002a;",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   20,
+   782,
+   635,
+   820
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Qjima et al.,2002b;Sinclair and Gerba,",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   17,
+   842,
+   639,
+   881
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "2011). Microbial exposures arise both",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   17,
+   903,
+   614,
+   941
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "directly, from handling, preparing, and",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   964,
+   627,
+   1003
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "eating food, and indirectly, from contact witl",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   18,
+   1023,
+   718,
+   1061
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "surfaces thatharbor microbes derived from ",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   19,
+   1085,
+   713,
+   1117
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "range of potential sources, including",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   15,
+   1138,
+   593,
+   1184
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "humans,food,and aerosolized water(Scott",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   18,
+   1206,
+   707,
+   1238
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "BEFORE",
+  "ini": 4.0,
+  "fim": 7.0,
+  "caixa": [
+   81,
+   224,
+   300,
+   271
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "This is your sign to sanitize your",
+  "ini": 4.0,
+  "fim": 9.0,
+  "caixa": [
+   96,
+   639,
+   620,
+   679
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "kitchen using H2OX5!",
+  "ini": 4.0,
+  "fim": 9.0,
+  "caixa": [
+   179,
+   679,
+   546,
+   714
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "AFTER",
+  "ini": 4.0,
+  "fim": 7.0,
+  "caixa": [
+   73,
+   838,
+   252,
+   883
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Uses 1300 wauuuperheated",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   88,
+   773,
+   618,
+   823
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "steam whl",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   150,
+   817,
+   356,
+   852
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "J0%66",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   444,
+   814,
+   560,
+   852
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "bacternims",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   211,
+   851,
+   506,
+   902
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "where you are food",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   158,
+   888,
+   566,
+   942
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ASALT",
+  "ini": 10.0,
+  "fim": 12.0,
+  "caixa": [
+   408,
+   14,
+   479,
+   65
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Uses13o0wattsofsuperheated",
+  "ini": 10.0,
+  "fim": 12.0,
+  "caixa": [
+   94,
+   779,
+   613,
+   814
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "steamwhichkills99%of",
+  "ini": 10.0,
+  "fim": 17.0,
+  "caixa": [
+   151,
+   817,
+   559,
+   850
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "bacteria &germs",
+  "ini": 10.0,
+  "fim": 17.0,
+  "caixa": [
+   215,
+   854,
+   502,
+   891
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "where you prepare food",
+  "ini": 10.0,
+  "fim": 17.0,
+  "caixa": [
+   163,
+   893,
+   561,
+   931
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "日",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   496,
+   16,
+   522,
+   40
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Uses1300 watts of superheated",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   93,
+   777,
+   614,
+   814
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Uses13o0wattsofsuperheated",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   94,
+   779,
+   613,
+   814
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Uses1300wattsofsuperheated",
+  "ini": 14.0,
+  "fim": 17.0,
+  "caixa": [
+   93,
+   779,
+   614,
+   814
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Lab certified",
+  "ini": 17.0,
+  "fim": 18.0,
+  "caixa": [
+   159,
+   580,
+   489,
+   629
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Just steam and a wipe!",
+  "ini": 19.0,
+  "fim": 20.0,
+  "caixa": [
+   54,
+   436,
+   658,
+   488
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "BOSCH",
+  "ini": 19.0,
+  "fim": 20.0,
+  "caixa": [
+   108,
+   1143,
+   178,
+   1273
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Look how elean this is!",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   118,
+   265,
+   599,
+   310
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "No moie Herms",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   168,
+   312,
+   506,
+   360
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Look how clean this is!",
+  "ini": 21.0,
+  "fim": 23.0,
+  "caixa": [
+   120,
+   269,
+   598,
+   308
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "No more germs",
+  "ini": 21.0,
+  "fim": 23.0,
+  "caixa": [
+   169,
+   318,
+   506,
+   364
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Very impressed with this!",
+  "ini": 23.0,
+  "fim": 25.0,
+  "caixa": [
+   64,
+   289,
+   649,
+   342
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "BOSCH",
+  "ini": 24.0,
+  "fim": 25.0,
+  "caixa": [
+   497,
+   986,
+   593,
+   1076
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "★★★★★",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   66,
+   103,
+   197,
+   143
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20X5",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   73,
+   143,
+   149,
+   174
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Easytoorderdeliverywasexcellentarrived in",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   75,
+   146,
+   373,
+   200
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "goodconditioneasytousefoundveryefficient",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   79,
+   167,
+   382,
+   218
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "foreverydaycleaning.",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   82,
+   203,
+   230,
+   238
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Thishasgenuinelybecomemy",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   388,
+   241,
+   638,
+   296
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Thishasgenuinelybecomemyfavourite",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   390,
+   263,
+   632,
+   319
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "domesticcleaner.It isunbelievablyflexibleand",
+  "ini": 25.0,
+  "fim": 27.0,
+  "caixa": [
+   394,
+   277,
+   670,
+   334
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "has beensocarefuly designed.Worthevery",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   395,
+   298,
+   657,
+   353
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "penny.",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   400,
+   349,
+   446,
+   370
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Lovemysteamcleaner",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   35,
+   364,
+   236,
+   416
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Just boughtareplacementbody asllovethis",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   32,
+   389,
+   315,
+   449
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "steamcleaner.Easytouse,looksgood and",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   27,
+   409,
+   301,
+   467
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "does thejob.So glad tobeabletogeta",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   26,
+   427,
+   279,
+   483
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "replacementbody afteryears of use.",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   23,
+   447,
+   254,
+   499
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Get YousNow",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   102,
+   542,
+   620,
+   627
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "4000+",
+  "ini": 25.0,
+  "fim": 29.0,
+  "caixa": [
+   164,
+   632,
+   306,
+   669
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "REYIWS",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   245,
+   675,
+   478,
+   745
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "er",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   473,
+   1031,
+   493,
+   1047
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "th运",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   475,
+   1051,
+   507,
+   1072
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Iamerandlmnressod",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   513,
+   1053,
+   655,
+   1071
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "ru!",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   479,
+   1077,
+   505,
+   1091
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "softfumswngsclem",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   509,
+   1072,
+   659,
+   1093
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CP",
+  "ini": 25.0,
+  "fim": 26.0,
+  "caixa": [
+   232,
+   1251,
+   257,
+   1269
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "has beensocarefully designed.Worthevery",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   395,
+   298,
+   657,
+   353
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Just boughtareplacementbody asIlovethis",
+  "ini": 26.0,
+  "fim": 27.0,
+  "caixa": [
+   32,
+   389,
+   315,
+   449
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Get Yours Now",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   108,
+   562,
+   614,
+   620
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "REVIEWS",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   257,
+   684,
+   465,
+   720
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "IMPORTAN",
+  "ini": 26.0,
+  "fim": 27.0,
+  "caixa": [
+   152,
+   738,
+   245,
+   781
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Amust!",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   354,
+   835,
+   434,
+   868
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Ihadasteamerbeforeuntil diedonme.l'm",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   356,
+   837,
+   637,
+   891
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "loving thisone.l'm ashamed atwhatit shows of",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   359,
+   854,
+   667,
+   911
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Greatproductwell worthmoney",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   58,
+   916,
+   322,
+   946
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "mykitchenfloor.Certainly cleans!",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   361,
+   883,
+   583,
+   931
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "lovethisiteallydoescleanandfreshen",
+  "ini": 26.0,
+  "fim": 27.0,
+  "caixa": [
+   58,
+   941,
+   308,
+   966
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "everything,definitelyworththemoney，now",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   57,
+   961,
+   326,
+   984
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "useit almost daily.",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   57,
+   979,
+   167,
+   1000
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "GoodSteamer",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   368,
+   1028,
+   495,
+   1048
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Verypleasedwiththissteamerandimpressed",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   365,
+   1052,
+   654,
+   1072
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "howitgetsfloors,rugs&softfurnishingsclean",
+  "ini": 26.0,
+  "fim": 29.0,
+  "caixa": [
+   366,
+   1073,
+   661,
+   1093
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Just boughtareplacementbody asllovethis",
+  "ini": 27.0,
+  "fim": 29.0,
+  "caixa": [
+   32,
+   389,
+   315,
+   449
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "domesticcleaner.It isunbelievabiyflexibleand",
+  "ini": 27.0,
+  "fim": 29.0,
+  "caixa": [
+   394,
+   278,
+   670,
+   334
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "lovethisitreallydoescleanandfreshen",
+  "ini": 27.0,
+  "fim": 29.0,
+  "caixa": [
+   58,
+   941,
+   309,
+   966
+  ],
+  "marca_ou_alerta": false
+ }
+]

@@ -1,0 +1,16 @@
+{
+  "projeto_flora": "https://app.flora.ai/projects/ns79mjeh5s8awe5mzbq41bn6y18g118n",
+  "teto_usd": 12.0,
+  "itens": [
+    {"peca": "img base G_C2_casa (GPT Image 2 is2i 2k high)", "run_id": "run_m17am0emq836wgtnyv6x00wyzh8g1d0c", "usd": 0.527},
+    {"peca": "img base G_C1_obra (GPT Image 2 is2i 2k high)", "run_id": "run_m17b8jcqxzxrbppwtwsbp01aph8g16qk", "usd": 0.527},
+    {"peca": "img base EST_C5 entregador (GPT Image 2 is2i 2k high)", "run_id": "run_m1762nrqjrt5qx6968qr77qz418g14b8", "usd": 0.517},
+    {"peca": "G_C1_obra Seedance 2.0 i2v 6s 720p (aprovado)", "run_id": "run_m171nxmxx2y0w7esqbwa5735k98g10vq", "usd": 1.27},
+    {"peca": "G_C2_casa v1 Seedance 2.0 i2v 6s (usado; 'taladron' corrigido com TTS)", "run_id": "run_m17df789hfrv7pap69cwm2srhh8g0fhk", "usd": 1.27},
+    {"peca": "G_C2_casa v2 Seedance 2.0 i2v 6s (refeito; repetiu 'taladron', produto fora do quadro no inicio; descartado)", "run_id": "run_m173gzeg3f17bhka5srwcz4zr98g124g", "usd": 1.27},
+    {"peca": "ElevenLabs: clone instantaneo (sem custo) + 2 TTS de 33 caracteres (voice_id VhRqgQW6EDUC4kDgiuj1)", "usd": 0.011, "obs": "estimado pela tabela do kit (US$0,165/1000 caracteres)"},
+    {"peca": "EST_C6 (recortes rembg locais) e texto dos estaticos", "usd": 0.0}
+  ],
+  "total_flora_usd": 5.381,
+  "total_geral_usd": 5.392
+}

@@ -1,0 +1,43 @@
+{
+  "ad": "25",
+  "idioma": "pt",
+  "origem": "TikTok @wncarloscarpintaria (carpinteiro criador BR)",
+  "url": "https://www.tiktok.com/@wncarloscarpintaria/video/7678112172395859220",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 73.7,
+  "cortes": 0,
+  "ritmo": "plano-sequencia sem cortes",
+  "formato": "POV obra / demo de forca em campo",
+  "gancho": {
+    "visual": "carpinteiro de chapeu no campo com a furadeira, perto de postes metalicos",
+    "texto_tela": "legenda: 'UM FURO COM' / 'FURADEIRA DCD 996'",
+    "fala_0_3s": "Bora aqui mais um furo com a broca 7mm e 8mm, por adeira DCD 9mm e 9mm da Deowalt, num palanque que era o eira."
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-8s",
+      "conteudo": "apresenta: furo com DCD996"
+    },
+    {
+      "tempo": "8-55s",
+      "conteudo": "fura viga/poste metalico grosso agachado"
+    },
+    {
+      "tempo": "55-74s",
+      "conteudo": "mostra a furadeira: 'rapaz mas trabalha', 'nao consumiu nem' (bateria)"
+    }
+  ],
+  "cta": "nenhum",
+  "texto_na_tela": "legenda palavra a palavra branca/amarela (PT)",
+  "produto": "DCD996 (dito na legenda) - furadeira de impacto XR premium; NAO e o nosso",
+  "e_nosso_produto": "nao",
+  "rosto": "sim, quase todo (parcial, chapeu)",
+  "marca_dagua": "logo verde do perfil fixo embaixo no centro",
+  "audio": "voz masculina PT-BR, som ambiente",
+  "transcricao": "Bora aqui mais um furo com a broca 7mm e 8mm, por adeira DCD 9mm e 9mm da Deowalt, num palanque que era o eira. Estava na velocidade 2mm, agora ropou na 3mm, rapaz, me atrapalha bom viu, não consumiu nenhum pico da bateria.",
+  "uso": [
+    "so referencia de formato"
+  ],
+  "nota_cod_chile": 2,
+  "justificativa": "Angulo 'dizem que bateria nao tem forca - prova' e forte, mas 74 s sem corte, DCD996 e logo fixo; so o angulo e aproveitavel."
+}

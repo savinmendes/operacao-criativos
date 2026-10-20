@@ -1,0 +1,68 @@
+{
+ "idioma": "es (Chile, whisper 0.97)",
+ "origem": {
+  "perfil": "@ferrevolt (TikTok) - ferrevolt.cl",
+  "tipo": "loja chilena de ferramentas (série #1HerramientaXDia)"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 68.4,
+ "cortes": {
+  "n": 4,
+  "tempos_s": [
+   9.1,
+   10.5,
+   57.1,
+   68.4
+  ],
+  "ritmo": "lento; planos longos de 10-45 s"
+ },
+ "formato": "talking head vendedor na loja apresentando acessório (porta-taladro/coldre) - 'herramienta del día'",
+ "gancho": {
+  "visual": "vendedor de gorro e jaqueta na loja (parede Stanley/DeWalt) segurando porta-taladros",
+  "fala": "'Día 28 hablando de herramientas y esta vez te voy a comentar de tres portataladros de la marca DeWalt. Todos los maestros que trabajan en la construcción enfrentan el mismo problema: ¿dónde me cuelgo el taladro?'",
+  "texto_tela": "nenhum legível na folha",
+  "texto_post": "Día 28 – ¿Dejas el taladro tirado en cualquier parte?"
+ },
+ "corpo": [
+  {
+   "t": "0-9",
+   "bloco": "apresenta os porta-taladros"
+  },
+  {
+   "t": "9-10",
+   "bloco": "corte para mesa com vários taladros DeWalt"
+  },
+  {
+   "t": "10-57",
+   "bloco": "close no peito: encaixa o taladro no coldre, mostra bolsos"
+  },
+  {
+   "t": "57-64",
+   "bloco": "close dos coldres na mesa"
+  },
+  {
+   "t": "64-68",
+   "bloco": "volta ao vendedor, fecha"
+  }
+ ],
+ "cta": "'Si necesitas conocer disponibilidad y costos de estos accesorios, ponte en contacto con nosotros... somos Ferrevolt'",
+ "texto_tela": "nenhum relevante",
+ "produto": {
+  "modelo": "porta-taladros DeWalt (coldre); taladros na mesa são DeWalt compactos 20V, modelo não legível",
+  "nosso_produto": false
+ },
+ "rosto": {
+  "sim": true,
+  "tempo": "~50% (rosto); resto close no peito/mãos"
+ },
+ "marca_dagua": "nenhuma visível",
+ "audio": "voz do vendedor (sotaque chileno), sem música aparente",
+ "uso": "só referência de formato",
+ "uso_motivo": "concorrente local Chile: mostra linguagem e cenário; acessório não é nosso produto. Ideia: porta-taladro como brinde do kit",
+ "nota": 1,
+ "nota_just": "referência de tom chileno de loja; produto errado e ritmo lento.",
+ "ad": "32",
+ "fala_resumo": "usa 'maestros', 'tabiquería' – vocabulário chileno útil",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\32.json",
+ "n_segmentos_fala": 12
+}

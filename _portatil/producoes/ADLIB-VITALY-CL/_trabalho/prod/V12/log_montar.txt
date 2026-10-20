@@ -1,0 +1,7 @@
+arquivo : C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/LYMPHORIA-ES-CL/V12 - LYMPHORIA-RUTINA-30-SEGUNDOS.mp4
+duração : 77.20s | 720x1280 | áudio: sim | 23.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\LYMPHORIA-ES-CL\V12 - LYMPHORIA-RUTINA-30-SEGUNDOS_frames.jpg
+RESULTADO: OK
+CTA em 74.47s
+montagem rápida: 127s para 77s de vídeo (1.65x)

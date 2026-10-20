@@ -1,0 +1,55 @@
+AD 15: 540 quadros
+s1          0.00-  4.70s rosto(378,417) L241 presenca 100% mudou   7% | idx 0.04 (6 q pausa) APROVADO  | corrES  0.42 PT  0.23 | 
+s2          4.70- 13.47s rosto(379,413) L241 presenca 100% mudou  12% | idx 0.60 (11 q pausa) AVISO     | corrES  0.11 PT  0.12 | 
+s3         13.47- 18.00s rosto(369,296) L96 presenca 100% mudou  13% | idx 0.02 (11 q pausa) APROVADO  | corrES  0.51 PT  0.34 | 
+CONJUNTO: indice de pausa 0.24
+
+Pausas ES >= 0,3 s com boca aberta (>= 80% da fala):
+  s2: 13.17-13.43s abertura 88% da fala
+
+Quadros com rosto (L>=60) e boca IGUAL ao original enquanto o PT original falava (candidatos a boca em PT), corridas >= 3 q:
+     0.03-   1.73s (51 q) dentro_trecho 100% fala_ES 96% rosto (382,416) L239 var.abertura_orig 0.033
+     1.90-   2.33s (13 q) dentro_trecho 100% fala_ES 92% rosto (376,418) L236 var.abertura_orig 0.022
+     2.50-   2.93s (13 q) dentro_trecho 100% fala_ES 100% rosto (375,423) L242 var.abertura_orig 0.029
+     3.33-   4.53s (36 q) dentro_trecho 100% fala_ES 81% rosto (391,403) L238 var.abertura_orig 0.032
+     5.07-   5.93s (26 q) dentro_trecho 100% fala_ES 100% rosto (391,413) L235 var.abertura_orig 0.029
+     6.00-   6.43s (13 q) dentro_trecho 100% fala_ES 100% rosto (384,403) L239 var.abertura_orig 0.035
+     6.50-   7.20s (21 q) dentro_trecho 100% fala_ES 95% rosto (376,430) L243 var.abertura_orig 0.027
+     7.27-   8.17s (27 q) dentro_trecho 100% fala_ES 89% rosto (377,405) L238 var.abertura_orig 0.032
+     8.23-   8.43s (6 q) dentro_trecho 100% fala_ES 100% rosto (377,385) L239 var.abertura_orig 0.010
+     8.63-   9.33s (21 q) dentro_trecho 100% fala_ES 95% rosto (380,401) L239 var.abertura_orig 0.020
+     9.40-  10.87s (44 q) dentro_trecho 100% fala_ES 100% rosto (379,395) L239 var.abertura_orig 0.035
+    11.80-  12.17s (11 q) dentro_trecho 100% fala_ES 100% rosto (381,416) L241 var.abertura_orig 0.038
+    12.20-  13.33s (34 q) dentro_trecho 100% fala_ES 82% rosto (381,396) L241 var.abertura_orig 0.041
+    13.57-  14.03s (14 q) dentro_trecho 100% fala_ES 100% rosto (367,309) L95 var.abertura_orig 0.027
+    14.07-  14.60s (16 q) dentro_trecho 100% fala_ES 100% rosto (372,295) L96 var.abertura_orig 0.028
+    15.00-  15.80s (24 q) dentro_trecho 100% fala_ES 92% rosto (366,291) L96 var.abertura_orig 0.045
+    16.10-  16.20s (3 q) dentro_trecho 100% fala_ES 100% rosto (374,294) L96 var.abertura_orig 0.021
+    16.47-  17.03s (17 q) dentro_trecho 100% fala_ES 100% rosto (374,291) L97 var.abertura_orig 0.048
+    17.10-  17.50s (12 q) dentro_trecho 100% fala_ES 100% rosto (370,291) L98 var.abertura_orig 0.051
+    17.70-  18.00s (9 q) dentro_trecho 100% fala_ES 0% rosto (367,311) L96 var.abertura_orig 0.037
+
+Fora dos trechos de lipsync: corridas com rosto e fala ES:
+
+Dentro dos trechos: corridas >= 6 q com a boca de QUEM FALA igual ao original durante fala ES:
+  s1: 0.10-1.77s (50 q)
+  s1: 1.83-2.30s (14 q)
+  s1: 2.50-2.93s (13 q)
+  s1: 2.97-3.20s (7 q)
+  s1: 3.40-4.37s (29 q)
+  s2: 4.70-4.97s (8 q)
+  s2: 5.07-5.93s (26 q)
+  s2: 6.00-6.43s (13 q)
+  s2: 6.50-6.93s (13 q)
+  s2: 6.97-7.87s (27 q)
+  s2: 7.97-8.43s (14 q)
+  s2: 8.57-8.97s (12 q)
+  s2: 9.00-10.87s (56 q)
+  s2: 11.80-13.13s (40 q)
+  s3: 13.50-14.03s (16 q)
+  s3: 14.07-14.60s (16 q)
+  s3: 14.70-14.97s (8 q)
+  s3: 15.00-15.53s (16 q)
+  s3: 15.60-15.80s (6 q)
+  s3: 16.27-17.03s (23 q)
+  s3: 17.10-17.50s (12 q)

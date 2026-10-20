@@ -1,0 +1,1067 @@
+[
+ {
+  "w": "Oh",
+  "ini": 0.27,
+  "fim": 0.283,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "glorioso",
+  "ini": 0.347,
+  "fim": 0.923,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "San",
+  "ini": 0.983,
+  "fim": 1.163,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "Benito...",
+  "ini": 1.203,
+  "fim": 2.363,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "hoy",
+  "ini": 2.403,
+  "fim": 2.523,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "pronuncio",
+  "ini": 2.571,
+  "fim": 3.083,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "las",
+  "ini": 3.123,
+  "fim": 3.243,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "palabras",
+  "ini": 3.296,
+  "fim": 3.723,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "grabadas",
+  "ini": 3.787,
+  "fim": 4.363,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "en",
+  "ini": 4.39,
+  "fim": 4.443,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "tu",
+  "ini": 4.496,
+  "fim": 4.603,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "medalla.",
+  "ini": 4.643,
+  "fim": 5.163,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "Quita",
+  "ini": 6.482,
+  "fim": 6.605,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "lo",
+  "ini": 6.658,
+  "fim": 6.765,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "que",
+  "ini": 6.805,
+  "fim": 6.925,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "cerró",
+  "ini": 6.989,
+  "fim": 7.325,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "mi",
+  "ini": 7.352,
+  "fim": 7.405,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "camino.",
+  "ini": 7.496,
+  "fim": 8.205,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "Si",
+  "ini": 8.907,
+  "fim": 8.925,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "me",
+  "ini": 8.952,
+  "fim": 9.005,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "escuchas…",
+  "ini": 9.065,
+  "fim": 10.445,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "ayúdame.",
+  "ini": 10.525,
+  "fim": 11.165,
+  "personagem": "feria",
+  "parte": "reza"
+ },
+ {
+  "w": "Mi",
+  "ini": 11.63,
+  "fim": 11.723,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "puesto",
+  "ini": 11.781,
+  "fim": 12.129,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "estaba",
+  "ini": 12.152,
+  "fim": 12.431,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "lleno",
+  "ini": 12.454,
+  "fim": 12.733,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 12.767,
+  "fim": 12.837,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "fruta",
+  "ini": 12.884,
+  "fim": 13.301,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "y",
+  "ini": 13.394,
+  "fim": 13.476,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "nadie",
+  "ini": 13.569,
+  "fim": 13.894,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "se",
+  "ini": 13.94,
+  "fim": 14.01,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "acercaba.",
+  "ini": 14.033,
+  "fim": 14.764,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Yo",
+  "ini": 15.206,
+  "fim": 15.356,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "sentía",
+  "ini": 15.391,
+  "fim": 15.74,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 15.798,
+  "fim": 15.902,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "alguien",
+  "ini": 15.972,
+  "fim": 16.239,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "me",
+  "ini": 16.297,
+  "fim": 16.355,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "había",
+  "ini": 16.378,
+  "fim": 16.576,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "echado",
+  "ini": 16.599,
+  "fim": 16.959,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 17.017,
+  "fim": 17.075,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "envidia",
+  "ini": 17.098,
+  "fim": 17.469,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "encima.",
+  "ini": 17.493,
+  "fim": 18.073,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Hasta",
+  "ini": 18.584,
+  "fim": 18.909,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "que,",
+  "ini": 18.956,
+  "fim": 19.176,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 19.223,
+  "fim": 19.327,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "una",
+  "ini": 19.42,
+  "fim": 19.559,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "transmisión",
+  "ini": 19.594,
+  "fim": 20.163,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 20.221,
+  "fim": 20.279,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "vivo,",
+  "ini": 20.326,
+  "fim": 20.813,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 20.987,
+  "fim": 21.092,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "padre",
+  "ini": 21.161,
+  "fim": 21.475,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "explicó",
+  "ini": 21.498,
+  "fim": 21.951,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 22.009,
+  "fim": 22.079,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "forma",
+  "ini": 22.16,
+  "fim": 22.473,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "exacta",
+  "ini": 22.508,
+  "fim": 23.019,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 23.065,
+  "fim": 23.135,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "pedirle",
+  "ini": 23.182,
+  "fim": 23.634,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 23.658,
+  "fim": 23.681,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "San",
+  "ini": 23.727,
+  "fim": 23.867,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benito.",
+  "ini": 23.913,
+  "fim": 24.598,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Ese",
+  "ini": 25.039,
+  "fim": 25.364,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "día",
+  "ini": 25.411,
+  "fim": 25.643,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "recuperé",
+  "ini": 25.701,
+  "fim": 26.142,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 26.189,
+  "fim": 26.258,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "paz.",
+  "ini": 26.305,
+  "fim": 26.815,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Y",
+  "ini": 27.141,
+  "fim": 27.222,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "poco",
+  "ini": 27.338,
+  "fim": 27.617,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 27.651,
+  "fim": 27.686,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "poco,",
+  "ini": 27.709,
+  "fim": 28.174,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 28.267,
+  "fim": 28.383,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "gente",
+  "ini": 28.441,
+  "fim": 28.754,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "volvió",
+  "ini": 28.801,
+  "fim": 29.137,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 29.172,
+  "fim": 29.196,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "mi",
+  "ini": 29.254,
+  "fim": 29.335,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "puesto.",
+  "ini": 29.381,
+  "fim": 29.985,
+  "personagem": "feria",
+  "parte": "selfie"
+ },
+ {
+  "w": "Esta",
+  "ini": 30.679,
+  "fim": 30.981,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "es",
+  "ini": 31.004,
+  "fim": 31.05,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 31.108,
+  "fim": 31.178,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "última",
+  "ini": 31.248,
+  "fim": 31.596,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vez",
+  "ini": 31.642,
+  "fim": 31.782,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 31.851,
+  "fim": 31.944,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Dios",
+  "ini": 31.991,
+  "fim": 32.246,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "intenta",
+  "ini": 32.327,
+  "fim": 32.722,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "hablarte",
+  "ini": 32.745,
+  "fim": 33.198,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 33.256,
+  "fim": 33.326,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "esta",
+  "ini": 33.384,
+  "fim": 33.593,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "forma.",
+  "ini": 33.674,
+  "fim": 34.208,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Jesús",
+  "ini": 34.719,
+  "fim": 35.23,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "te",
+  "ini": 35.276,
+  "fim": 35.346,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "eligió.",
+  "ini": 35.369,
+  "fim": 36.031,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Preparó",
+  "ini": 36.472,
+  "fim": 36.867,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "un",
+  "ini": 36.89,
+  "fim": 36.937,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "regalo",
+  "ini": 37.018,
+  "fim": 37.331,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "poderoso",
+  "ini": 37.378,
+  "fim": 37.9,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "solo",
+  "ini": 37.982,
+  "fim": 38.33,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 38.388,
+  "fim": 38.574,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ti.",
+  "ini": 38.655,
+  "fim": 39.061,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "En",
+  "ini": 39.502,
+  "fim": 39.63,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "este",
+  "ini": 39.688,
+  "fim": 39.839,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video,",
+  "ini": 39.886,
+  "fim": 40.234,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vas",
+  "ini": 40.257,
+  "fim": 40.385,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 40.431,
+  "fim": 40.454,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "escuchar",
+  "ini": 40.478,
+  "fim": 40.861,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 40.907,
+  "fim": 40.954,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "oración",
+  "ini": 40.988,
+  "fim": 41.325,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "perdida",
+  "ini": 41.383,
+  "fim": 41.732,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 41.778,
+  "fim": 41.836,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 41.882,
+  "fim": 42.022,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito",
+  "ini": 42.08,
+  "fim": 42.602,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 43.043,
+  "fim": 43.16,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "desbloquea",
+  "ini": 43.218,
+  "fim": 43.949,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 44.1,
+  "fim": 44.379,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lluvia",
+  "ini": 44.402,
+  "fim": 44.773,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 44.82,
+  "fim": 44.878,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "milagros,",
+  "ini": 44.924,
+  "fim": 45.644,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "pero",
+  "ini": 46.155,
+  "fim": 46.375,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "solo",
+  "ini": 46.422,
+  "fim": 46.642,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "si",
+  "ini": 46.701,
+  "fim": 46.805,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "no",
+  "ini": 46.898,
+  "fim": 46.991,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 47.037,
+  "fim": 47.095,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rechazas",
+  "ini": 47.165,
+  "fim": 47.606,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "otra",
+  "ini": 47.664,
+  "fim": 47.873,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vez.",
+  "ini": 47.92,
+  "fim": 48.268,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 48.872,
+  "fim": 49.371,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Más",
+  "ini": 49.696,
+  "fim": 49.94,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Información,",
+  "ini": 50.009,
+  "fim": 50.729,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ahora.",
+  "ini": 50.88,
+  "fim": 51.414,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Recibe",
+  "ini": 52.366,
+  "fim": 52.761,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "tu",
+  "ini": 52.807,
+  "fim": 52.889,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "milagro",
+  "ini": 52.935,
+  "fim": 53.33,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "antes",
+  "ini": 53.376,
+  "fim": 53.632,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 53.667,
+  "fim": 53.713,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 53.759,
+  "fim": 53.829,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 53.864,
+  "fim": 53.934,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "puerta",
+  "ini": 53.992,
+  "fim": 54.317,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "se",
+  "ini": 54.363,
+  "fim": 54.444,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "cierre",
+  "ini": 54.502,
+  "fim": 54.862,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 54.909,
+  "fim": 55.106,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "siempre.",
+  "ini": 55.164,
+  "fim": 55.698,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ahora",
+  "ini": 56.023,
+  "fim": 56.302,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "mismo",
+  "ini": 56.348,
+  "fim": 56.581,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "está",
+  "ini": 56.604,
+  "fim": 56.766,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ocurriendo",
+  "ini": 56.79,
+  "fim": 57.254,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 57.3,
+  "fim": 57.428,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "transmisión",
+  "ini": 57.463,
+  "fim": 58.055,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 58.102,
+  "fim": 58.171,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vivo",
+  "ini": 58.241,
+  "fim": 58.612,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 58.821,
+  "fim": 59.03,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 59.1,
+  "fim": 59.251,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito.",
+  "ini": 59.297,
+  "fim": 59.913,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 60.516,
+  "fim": 60.772,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 60.795,
+  "fim": 60.841,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "botón",
+  "ini": 60.888,
+  "fim": 61.178,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ver",
+  "ini": 61.236,
+  "fim": 61.399,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "más,",
+  "ini": 61.468,
+  "fim": 61.921,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "aquí",
+  "ini": 62.072,
+  "fim": 62.304,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "abajo",
+  "ini": 62.339,
+  "fim": 62.583,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "del",
+  "ini": 62.618,
+  "fim": 62.734,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video,",
+  "ini": 62.792,
+  "fim": 63.256,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 63.581,
+  "fim": 63.698,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "entra",
+  "ini": 63.814,
+  "fim": 64.092,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 64.115,
+  "fim": 64.139,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezar",
+  "ini": 64.208,
+  "fim": 64.557,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 64.626,
+  "fim": 64.754,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nosotros.",
+  "ini": 64.8,
+  "fim": 65.544,
+  "personagem": "sacerdote"
+ }
+]

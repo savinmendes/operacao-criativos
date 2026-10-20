@@ -1,0 +1,32 @@
+--- [1/8]
+[03] OK | 720x1280 292.57s 36.8MB | cobertura 0.92
+   gancho: Mi ex esposa estaba detrás de mí en la fila, con su novio del brazo. 10 minutos ahí y nunca me reconoció. Esto fue lo que pasó.
+   emenda: me reconoció. Esto fue lo que pasó. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy
+--- [2/8]
+[04] OK | 720x1280 293.7s 37.0MB | cobertura 1.0
+   gancho: Durante años pensé que era peso de la edad me equivoqué no era grasa era lodo líquido estancado Te cuento cómo lo descubrí
+   emenda: Te cuento cómo lo descubrí Otra vez vas a llegar tarde ya sé ya voy Ya me voy
+--- [3/8]
+[05] OK | 720x1280 293.1s 36.9MB | cobertura 1.0
+   gancho: Tres semanas lo dejé en el carrito, siempre decía mañana lo pido, fueron tres semanas perdidas, esta es mi historia
+   emenda: perdidas, esta es mi historia Otra vez vas a llegar tarde, ya sé, ya voy Ya me voy
+--- [4/8]
+[06] OK | 720x1280 291.07s 36.6MB | cobertura 1.0
+   gancho: Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.
+   emenda: de lo que me pasó. Ya no me lo guardo más. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy
+--- [5/8]
+[07] OK | 720x1280 292.7s 36.8MB | cobertura 1.0
+   gancho: Cuidado con las copias. Hay frascos que se ven idénticos, pero por dentro son otra cosa. Antes de comprar, escucha mi historia.
+   emenda: Antes de comprar, escucha mi historia. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy
+--- [6/8]
+[08] OK | 720x1280 292.87s 36.9MB | cobertura 0.91
+   gancho: Porque el cuerpo se hincha, aunque comas poco. Casi nunca es la comida. Muchas veces el cuerpo dejó de drenar. Yo lo entendí tarde.
+   emenda: dejó de drenar. Yo lo entendí tarde. Otra vez vas a llegar tarde. Ya sé. Ya voy. Ya me voy
+--- [7/8]
+[09] OK | 720x1280 292.37s 36.8MB | cobertura 1.0
+   gancho: ¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya probaste de todo. Escucha esta historia.
+   emenda: de todo. Escucha esta historia. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy
+--- [8/8]
+[10] OK | 720x1280 290.37s 36.6MB | cobertura 1.0
+   gancho: Esa panza no es grasa, es líquido atrapado y se drena. Yo tardé años en entenderlo.
+   emenda: drena. Yo tardé años en entenderlo. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy

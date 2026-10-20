@@ -1,0 +1,31 @@
+REVISÃO: DW7781_G5_C2.mp4
+duração 42.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.2 MB
+decodificação: OK
+pts do áudio: 1970 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 16 | pares a <0,3 s: 37.63/37.77
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G5_C2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.76 Dos baterías, cargador y maleta, todo incluido.
+   2.76-  5.76 Uno es el anillo en modo percutor.
+   5.76-  8.96 Y la broca entra en el muro sin pelear.
+   8.96- 12.08 En madera, pasa limpiecita.
+  12.08- 16.60 Y para atornillar, quince posiciones de torque, aprietas justo sin pasarte.
+  16.60- 20.24 El secreto, motor sin carbones.
+  20.24- 25.00 The Wall dice que es 17% más eficiente que un motor con carbones.
+  25.00- 27.92 Dos velocidades, fuerza en la primera, rapidez en la segunda.
+  27.92- 33.12 Y trae dos baterías con indicador de carga, mientras una trabaja, la otra se carga.
+  33.12- 35.72 Compacto y liviano para trabajar todo el día.
+  35.72- 37.32 Aprovecha el Pre-Black Friday.
+  37.32- 40.80 Dímelo hoy y pagas recién cuando te llegue, en viva a todos Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 37.63s e 37.77s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

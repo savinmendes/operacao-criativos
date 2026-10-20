@@ -1,0 +1,39 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\AD 06 - LINFARELE-PETTO-IT.mp4",
+ "estilo": "drop",
+ "corpo": "parte2.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\_trabalho\\ad06\\parte1.mp4"
+ },
+ "legenda_hook": {
+  "fonte": "transcrever",
+  "idioma": "it",
+  "modelo": "medium"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\linfarele\\_trabalho\\ad06\\narr_fim.alinhamento.json",
+  "chaves": [
+   "linfarele",
+   "miele",
+   "gratuita",
+   "novanta"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "SPEDIZIONE GRATUITA",
+   "GARANZIA",
+   "90 GIORNI",
+   "SODDISFATTI O RIMBORSATI"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 60.72
+ },
+ "cta": {
+  "palavra": "tocca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

@@ -1,0 +1,24 @@
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V09\out\V09 - LYMPHORIA-TE-PASO-EL-DATO.mp4
+duração : 22.63s | 720x1280 | áudio: sim | 16.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V09\out\V09 - LYMPHORIA-TE-PASO-EL-DATO_frames.jpg
+RESULTADO: OK
+CTA em 19.10s
+montagem rápida: 4s para 23s de vídeo (0.17x)
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V14\out\V14 - LYMPHORIA-DEJAR-AZUCAR.mp4
+duração : 19.57s | 720x1280 | áudio: sim | 14.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V14\out\V14 - LYMPHORIA-DEJAR-AZUCAR_frames.jpg
+RESULTADO: OK
+CTA em 16.47s
+montagem rápida: 4s para 20s de vídeo (0.19x)
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V25\out\V25 - LYMPHORIA-HINCHAZON-ENERGIA.mp4
+duração : 19.77s | 720x1280 | áudio: sim | 14.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V25\out\V25 - LYMPHORIA-HINCHAZON-ENERGIA_frames.jpg
+RESULTADO: OK
+CTA em 16.67s
+montagem rápida: 4s para 20s de vídeo (0.21x)
+OK V09 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V09\out\V09 - LYMPHORIA-TE-PASO-EL-DATO.mp4
+OK V14 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V14\out\V14 - LYMPHORIA-DEJAR-AZUCAR.mp4
+OK V25 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V25\out\V25 - LYMPHORIA-HINCHAZON-ENERGIA.mp4

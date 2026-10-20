@@ -1,0 +1,254 @@
+[
+ {
+  "texto": "Deep clean your",
+  "ini": 0.0,
+  "fim": 7.0,
+  "caixa": [
+   163,
+   537,
+   542,
+   590
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "home in minutes,",
+  "ini": 0.0,
+  "fim": 7.0,
+  "caixa": [
+   156,
+   582,
+   562,
+   629
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "not hours!",
+  "ini": 0.0,
+  "fim": 7.0,
+  "caixa": [
+   240,
+   628,
+   479,
+   667
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "believe",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   255,
+   1087,
+   467,
+   1147
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20 X5 sooner.",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   119,
+   1087,
+   604,
+   1147
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "It's so",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   272,
+   1086,
+   453,
+   1151
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and easy",
+  "ini": 4.0,
+  "fim": 5.0,
+  "caixa": [
+   224,
+   1087,
+   492,
+   1155
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "around.",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   242,
+   1088,
+   470,
+   1153
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "my floors,",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   210,
+   1087,
+   505,
+   1153
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and even",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   225,
+   1089,
+   497,
+   1144
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "all with just",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   187,
+   1082,
+   536,
+   1149
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "one device.",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   192,
+   1092,
+   522,
+   1144
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "completely",
+  "ini": 10.0,
+  "fim": 11.0,
+  "caixa": [
+   196,
+   1086,
+   526,
+   1155
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "free.",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   286,
+   1086,
+   426,
+   1149
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "the power",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   208,
+   1088,
+   513,
+   1156
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "through grime",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   148,
+   1089,
+   575,
+   1153
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and sanitize",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   181,
+   1093,
+   539,
+   1144
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Honestly,",
+  "ini": 15.0,
+  "fim": 16.0,
+  "caixa": [
+   223,
+   1080,
+   499,
+   1157
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "feels so",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   242,
+   1087,
+   478,
+   1149
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and safer",
+  "ini": 17.0,
+  "fim": 18.0,
+  "caixa": [
+   219,
+   1089,
+   503,
+   1146
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "I'm obsessed.",
+  "ini": 18.0,
+  "fim": 19.0,
+  "caixa": [
+   156,
+   1088,
+   561,
+   1145
+  ],
+  "marca_ou_alerta": false
+ }
+]

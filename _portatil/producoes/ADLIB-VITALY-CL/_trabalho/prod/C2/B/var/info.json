@@ -1,0 +1,70 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\var.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 15.6,
+  "fala_s": 15.19,
+  "tomadas": [
+   {
+    "src": "h",
+    "ini": 90.75,
+    "dur": 2.9
+   },
+   {
+    "src": "h",
+    "ini": 77.65,
+    "dur": 2.5
+   },
+   {
+    "src": "h",
+    "ini": 80.55,
+    "dur": 2.0
+   },
+   {
+    "src": "h",
+    "ini": 87.508,
+    "dur": 2.7333
+   },
+   {
+    "src": "h",
+    "ini": 60.95,
+    "dur": 2.6
+   },
+   {
+    "src": "h",
+    "ini": 52.167,
+    "dur": 2.8667
+   }
+  ],
+  "frases": [
+   [
+    "En el almuerzo del domingo, mi cuñado me tocó la guata delante de toda la familia y me preguntó: ¿y de cuántos meses estás?",
+    0.046
+   ],
+   [
+    "Todos se rieron.",
+    7.558
+   ],
+   [
+    "Yo también, pero por dentro me morí.",
+    9.125
+   ],
+   [
+    "No siempre fui así.",
+    11.738
+   ],
+   [
+    "Todo empezó hace cuatro años.",
+    13.34
+   ]
+  ],
+  "ganho_db": 0.8
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\corpo_fonte.mp4",
+  "corte": 69.42,
+  "fim": 398.067
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\B\\p1_final.mp4"
+}

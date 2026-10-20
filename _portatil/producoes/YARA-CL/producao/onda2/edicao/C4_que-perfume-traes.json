@@ -1,0 +1,62 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C4_yara-kit3_que-perfume-traes_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": {
+  "png": "../onda2/overlays/titulo_C4.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "broll"
+ },
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C4_T1_natalie.mp4",
+   "tipo": "consultora",
+   "de": 0.4,
+   "ate": 4.95,
+   "audio": "../takes/C4_T1_natalie_vz.wav",
+   "audio_de": 0.4,
+   "audio_ate": 4.95
+  },
+  {
+   "video": "../takes/C4_T2_aline.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.45,
+   "audio": "../takes/C4_T2_aline_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.45
+  },
+  {
+   "video": "../takes/C4_T2_aline.mp4",
+   "tipo": "consultora",
+   "de": 4.45,
+   "ate": 9.03,
+   "audio": "../takes/C4_T2_aline_vz.wav",
+   "audio_de": 4.45,
+   "audio_ate": 9.03,
+   "zoom": "in"
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C4_N_cta.mp3"
+  }
+ ]
+}

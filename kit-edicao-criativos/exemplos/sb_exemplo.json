@@ -1,0 +1,11 @@
+{
+  "saida": "ads/AD 129 - SB-A20-NATUREZA-VOZDIVINA-AMEN-H6-HOSPITAL.mp4",
+  "estilo": "sb",
+  "narracao": "audio/corpo_vozdivina.mp3",
+  "takes": ["takes/N01.mp4", "takes/N02.mp4", "takes/N03.mp4", "takes/N04.mp4", "takes/N05.mp4"],
+  "hook": {"tipo": "antes", "video": "hooks/SB-H6-HOSPITAL.mp4"},
+  "legenda": {"fonte": "transcrever", "idioma": "es", "chaves": ["dios", "ventana", "amén"]},
+  "faixa_sb": true,
+  "cta": {"palavra": "toca"},
+  "limite_mb": 30
+}

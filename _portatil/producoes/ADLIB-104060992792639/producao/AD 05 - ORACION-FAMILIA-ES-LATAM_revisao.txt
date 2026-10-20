@@ -1,0 +1,133 @@
+REVISÃO: AD 05 - ORACION-FAMILIA-ES-LATAM.mp4
+duração 95.50s | 720x1280 | 30/1 fps | áudio: sim | 27.3 MB
+decodificação: OK
+pts do áudio: 4478 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 645-1160, x 131-491 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\AD 05 - ORACION-FAMILIA-ES-LATAM_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¡Toma, mi amor! Aquí está tu comida.
+   3.80-  5.00 Gracias, mi reina.
+   6.00-  8.00 ¡Toma, papá! Aquí está tu merienda.
+   8.80- 11.60 Amor, ¿por qué le serviste tan poquita comida a tu papá?
+  12.00- 15.30 Ay, mi amor, es que mi papá no trabaja, y yo tampoco.
+  15.30- 17.70 Y siento que traje una carga más a la casa.
+  18.00- 22.00 Como tú eres el único que se esfuerza, trato de ahorrar lo más que puedo.
+  23.70- 26.00 No quiero que mi papá sea una carga para ti.
+  27.00- 31.00 Escucha, Clara, tu papá no es ninguna carga en esta casa.
+  31.00- 34.00 Lo que hay en la mesa es para todos porque aquí somos una familia
+  34.00- 37.00 y nos cuidamos unos a otros.
+  37.00- 42.00 Recibí la oración de la desatadora de nudos, la novena de las nueve palabras en mi celular.
+  42.00- 47.00 Recé en el orden correcto, con fe, y mi corazón encontró descanso.
+  47.00- 52.00 Por eso volvió la paz a nuestra casa y hoy vivimos con más fe y unión.
+  52.00- 59.32 Este es un momento especial, porque cuando este hombre desató su nudo, le prometí que
+  59.32- 61.92 ayudaría a una persona más.
+  61.92- 64.24 Esa persona está viendo este video.
+  64.24- 65.80 Esa persona eres tú.
+  65.80- 67.92 Yo soy la desatadora de nudos.
+  67.92- 71.56 Y no fue por casualidad que este video llegó hasta ti.
+  71.56- 73.44 No dejes pasar este momento.
+  73.44- 75.40 Toca el botón de abajo ahora.
+  75.40- 79.52 Te dejé gratis el video con el orden correcto de las 9 oraciones.
+  79.52- 83.84 para cada nudo, para desatar lo que ata tu vida.
+  83.84- 90.68 Presta atención, esta ayuda es para ti, y este es tu momento de recibirla.
+  90.68- 94.72 Toca el botón de abajo, y recibe gratis la oración que fue preparada para ti.
+
+=== termos proibidos ===
+[hoy] 47.0s: Por eso volvió la paz a nuestra casa y hoy vivimos con más fe y unión.
+
+=== transcrição residual (pt) ===
+   0.00-  2.00    Toma, meu amor, aqui está a tua comida.
+   3.88-  4.88    Obrigada, minha reina.
+   6.08-  7.88    Toma, papá, aqui está a tua merienda.
+   8.88- 11.60    Amor, por que você serviu tão pouco comida para o seu papá?
+  12.00- 15.36    Ai, meu amor, é que meu papá não trabalha, e eu também.
+  15.36- 17.64    E sinto que trajei uma carga mais para a casa.
+  18.08- 20.12    Como você é o único que se esforça,
+  20.12- 21.96    eu tento de ahorrar o mais que posso.
+  23.76- 25.96    Não quero que meu papá seja uma carga para você.
+  25.96- 35.96    Escuta Clara, seu papá não é nenhuma carga em esta casa, o que há em a mesa é para todos, porque aqui somos uma família e nos cuidamos uns a outros.
+  35.96- 41.96    Recebi a oração da desatadora de nudos, a novena das 9 palavras em minha celular.
+  41.96- 46.96    Recé em ordem correto, com fé, e meu coração encontrou descanso.
+  46.96- 51.96    Por isso voltou a passar a nossa casa e hoje vivemos com mais fé e união.
+  51.96- 59.36    Este é um momento especial, porque quando este homem desatou seu nudo, eu prometi que
+  59.36- 61.92    ajudaria uma pessoa mais.
+  61.92- 64.24    Essa pessoa está vendo este vídeo.
+  64.24- 65.76    Essa pessoa é você.
+  65.76- 67.92    Eu sou a desatadora de nudos.
+  67.92- 71.56    E não foi por casualidade que este vídeo chegou até você.
+  71.56- 73.44    Não deixes passar este momento.
+  73.44- 75.36    Toca o botão de baixo agora.
+  75.36- 79.40    Te deixei gratis o vídeo com o ordem correto das 9 orações.
+  79.40- 83.82    uma para cada nudo, para desatar lo que ata tu vida.
+  83.82- 90.64    Presta atenção, esta ajuda, é para ti, e este é o seu momento de receber ela.
+  90.64- 94.72    Toca o botão de baixo, e recebe gratis a oração que foi preparada para ti.
+
+=== lipsync ===
+LIPSYNC: fin_c1.mp4 (75 quadros, rosto em 79%, rosto 380,0,300,320 [forçado (--rosto)])
+  boca x original: dif. boca 9.88 | dif. controle 4.14 | mudou em 68% dos quadros | corr. abertura saída x original -0.09
+  pausas da voz nova: índice de pausa 0.13 (26 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.75 (atraso -125 ms) | corr. original 0.36
+APROVADO: boca mudou em 68% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.13)
+LIPSYNC: fin_c2.mp4 (144 quadros, rosto em 100%, rosto 232,278,343,412 [único rosto])
+  boca x original: dif. boca 7.35 | dif. controle 4.41 | mudou em 19% dos quadros | corr. abertura saída x original 0.18
+  pausas da voz nova: índice de pausa - (4 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.27 (atraso 83 ms) | corr. original 0.12
+AVISO: aviso: pixels da boca quase iguais aos do original (19% dos quadros), mas a abertura não segue a do original (corr. 0.18); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.27 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: fin_c3.mp4 (223 quadros, rosto em 100%, rosto 238,280,347,408 [único rosto])
+  boca x original: dif. boca 7.89 | dif. controle 4.32 | mudou em 28% dos quadros | corr. abertura saída x original 0.15
+  pausas da voz nova: índice de pausa 0.13 (71 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.61 (atraso 0 ms) | corr. original 0.14
+AVISO: aviso: pixels da boca quase iguais aos do original (28% dos quadros), mas a abertura não segue a do original (corr. 0.15); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.13)
+LIPSYNC: fin_m3.mp4 (240 quadros, rosto em 100%, rosto 177,247,385,455 [único rosto])
+  boca x original: dif. boca 10.71 | dif. controle 3.90 | mudou em 71% dos quadros | corr. abertura saída x original 0.03
+  pausas da voz nova: índice de pausa 0.15 (52 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.54 (atraso 0 ms) | corr. original 0.23
+APROVADO: boca mudou em 71% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.15)
+LIPSYNC: fin_m4.mp4 (236 quadros, rosto em 100%, rosto 183,223,326,397 [único rosto])
+  boca x original: dif. boca 9.25 | dif. controle 3.69 | mudou em 66% dos quadros | corr. abertura saída x original 0.15
+  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.33 (atraso 42 ms) | corr. original 0.34
+AVISO: boca mudou em 66% dos quadros; correlação com o áudio novo 0.33 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: fin_m5.mp4 (142 quadros, rosto em 100%, rosto 121,268,485,578 [único rosto])
+  boca x original: dif. boca 7.84 | dif. controle 3.98 | mudou em 27% dos quadros | corr. abertura saída x original 0.19
+  pausas da voz nova: índice de pausa 0.12 (47 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.64 (atraso 0 ms) | corr. original 0.13
+AVISO: aviso: pixels da boca quase iguais aos do original (27% dos quadros), mas a abertura não segue a do original (corr. 0.19); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.12)
+LIPSYNC: fin_d1.mp4 (172 quadros, rosto em 100%, rosto 40,280,260,300 [forçado (--rosto)])
+  boca x original: dif. boca 12.53 | dif. controle 4.62 | mudou em 68% dos quadros | corr. abertura saída x original -0.11
+  pausas da voz nova: índice de pausa 0.05 (9 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.34 (atraso -42 ms) | corr. original 0.31
+APROVADO: boca mudou em 68% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.05)
+LIPSYNC: fin_d2.mp4 (238 quadros, rosto em 100%, rosto 40,280,260,300 [forçado (--rosto)])
+  boca x original: dif. boca 11.00 | dif. controle 4.55 | mudou em 59% dos quadros | corr. abertura saída x original 0.03
+  pausas da voz nova: índice de pausa 0.07 (10 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.45 (atraso 42 ms) | corr. original 0.09
+APROVADO: boca mudou em 59% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)
+LIPSYNC: fin_d3.mp4 (280 quadros, rosto em 100%, rosto 40,280,260,300 [forçado (--rosto)])
+  boca x original: dif. boca 13.39 | dif. controle 4.89 | mudou em 74% dos quadros | corr. abertura saída x original 0.20
+  pausas da voz nova: índice de pausa 0.33 (22 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.43 (atraso -42 ms) | corr. original 0.01
+APROVADO: boca mudou em 74% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.33)
+LIPSYNC: fin_d4.mp4 (158 quadros, rosto em 100%, rosto 40,280,260,300 [forçado (--rosto)])
+  boca x original: dif. boca 13.85 | dif. controle 5.21 | mudou em 65% dos quadros | corr. abertura saída x original 0.06
+  pausas da voz nova: índice de pausa 0.28 (32 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.40 (atraso 208 ms) | corr. original 0.13
+APROVADO: boca mudou em 65% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.28)
+LIPSYNC: fin_d5.mp4 (142 quadros, rosto em 100%, rosto 40,280,260,300 [forçado (--rosto)])
+  boca x original: dif. boca 15.52 | dif. controle 5.13 | mudou em 84% dos quadros | corr. abertura saída x original 0.19
+  pausas da voz nova: índice de pausa 0.02 (31 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.65 (atraso -42 ms) | corr. original 0.17
+APROVADO: boca mudou em 84% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.02)
+índice de pausa do conjunto (11 trechos): 0.15 -> APROVADO
+
+=== RESULTADO ===
+PROBLEMA: termo proibido 'hoy' em 47.0s: Por eso volvió la paz a nuestra casa y hoy vivimos con más fe y unión.
+aviso: lipsync fin_c2.mp4: aviso: pixels da boca quase iguais aos do original (19% dos quadros), mas a abertura não segue a do original (corr. 0.18); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.27 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync fin_c3.mp4: aviso: pixels da boca quase iguais aos do original (28% dos quadros), mas a abertura não segue a do original (corr. 0.15); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.13)
+aviso: lipsync fin_m4.mp4: boca mudou em 66% dos quadros; correlação com o áudio novo 0.33 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync fin_m5.mp4: aviso: pixels da boca quase iguais aos do original (27% dos quadros), mas a abertura não segue a do original (corr. 0.19); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.12)
+1 problema(s)

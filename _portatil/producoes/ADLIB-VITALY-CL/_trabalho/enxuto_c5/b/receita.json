@@ -1,0 +1,36 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\LYMPHORIA-ENXUTO\\LYM-CL_C5_desconfiada-online_montaje-pagas-al-recibir_b.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\enxuto_c5\\b\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\enxuto_c5\\b\\leg.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "gratis",
+   "recibir",
+   "pagas",
+   "miel",
+   "noventa",
+   "dos",
+   "hierbas",
+   "hinchazón"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "",
+   "PAGO CONTRA",
+   "ENTREGA",
+   ""
+  ],
+  "escala": 0.55,
+  "x": 331,
+  "y": 1330,
+  "desde": 24.4
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

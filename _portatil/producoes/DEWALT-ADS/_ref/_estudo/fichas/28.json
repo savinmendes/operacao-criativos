@@ -1,0 +1,43 @@
+{
+  "ad": "28",
+  "idioma": "pt",
+  "origem": "TikTok @wlvideoscaminhao (afiliado TikTok Shop BR)",
+  "url": "https://www.tiktok.com/@wlvideoscaminhao/video/7680960465249324296",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 29.1,
+  "cortes": 5,
+  "ritmo": "medio, ~5 s por cena",
+  "formato": "oferta/kit (apresentador + mesa com kit 4 em 1)",
+  "gancho": {
+    "visual": "apresentador atras de mesa com 4 ferramentas + 5 baterias, prateleiras DeWalt ao fundo",
+    "texto_tela": "'KIT 4 EM 1 / MENOS DE R$130'",
+    "fala_0_3s": "Quem comprou antes dessa promoção vai chorar! Olha o que apareceu por aqui!"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-10s",
+      "conteudo": "apresentador + preco"
+    },
+    {
+      "tempo": "10-18s",
+      "conteudo": "closes: furadeira SDS, parafusadeira, esmerilhadeira, chave de impacto"
+    },
+    {
+      "tempo": "18-29s",
+      "conteudo": "48V, carregador bivolt, caixa portatil, confira no carrinho"
+    }
+  ],
+  "cta": "falado: 'Quer aproveitar essa oferta? Clica no carrinho e confere o preço'",
+  "texto_na_tela": "caixa branca com emojis e lista (PT)",
+  "produto": "kit generico 'DeWalt' 48V 4 em 1 por menos de R$130 (DeWalt nao tem linha 48V nesse formato) - replica; NAO e o nosso",
+  "e_nosso_produto": "nao",
+  "rosto": "sim, ~70% (estetica de estudio/possivel IA - revisar)",
+  "marca_dagua": "nao",
+  "audio": "voz masculina PT-BR",
+  "transcricao": "Quem comprou antes dessa promoção vai chorar! Olha o que apareceu por aqui! Kit 4.1 de 48V com 4 ferramentas por menos de R$130. Você tem 4 ferramentas sem fio em um único conjunto. Furadeira de impacto, SDS, parafusadeira, esmerilhadeira angular e chave de impacto. Tudo organizado nessa caixa portátil. E ainda tem baterias de 48V, carregador com adaptador bivoute e a caixa para transportar tudo. Quer aproveitar essa oferta? Clica no carrinho e confere o preço.",
+  "uso": [
+    "descartar"
+  ],
+  "nota_cod_chile": 1,
+  "justificativa": "Produto pirata - risco de marca e expectativa errada. Vale so a ideia de caixa-lista de oferta 'kit completo'."
+}

@@ -1,0 +1,17 @@
+[1/38] 01 | 6% | decorrido 8min53s | falta ~137min06s
+[2/38] 02 | 7% | decorrido 9min30s | falta ~136min12s
+[3/38] 03 | 17% | decorrido 22min45s | falta ~109min01s
+[4/38] 04 | 22% | decorrido 30min19s | falta ~106min00s
+[5/38] 05 | 26% | decorrido 36min04s | falta ~100min29s
+[6/38] 06 | 31% | decorrido 42min20s | falta ~94min52s
+[7/38] 07 | 31% | decorrido 42min35s | falta ~94min50s
+[8/38] 08 | 32% | decorrido 43min49s | falta ~93min15s
+[9/38] 09 | 32% | decorrido 44min09s | falta ~93min15s
+[10/38] 10 | 33% | decorrido 44min43s | falta ~92min22s
+[11/38] 11 | 34% | decorrido 46min32s | falta ~91min49s
+[12/38] 12 | 34% | decorrido 46min46s | falta ~91min43s
+[13/38] 13 | 34% | decorrido 47min06s | falta ~91min21s
+[14/38] 14 | 35% | decorrido 47min16s | falta ~89min42s
+[15/38] 15 | 35% | decorrido 47min24s | falta ~89min08s
+[16/38] 16 | 36% | decorrido 47min58s | falta ~85min52s
+[17/38] 17 | 37% | decorrido 48min15s | falta ~83min29s

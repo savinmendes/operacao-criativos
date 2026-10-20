@@ -1,0 +1,19 @@
+REVISÃO: gancho_G3.mp4
+duração 6.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 3.3 MB
+decodificação: OK
+pts do áudio: 283 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1226-1279
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\ganchos_g1g3\_revisao\gancho_G3_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  6.00 ¡Suéltelo! ¡El solo nos enseñaba a rezar!
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

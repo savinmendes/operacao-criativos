@@ -1,0 +1,37 @@
+REVISÃO: V10_final.mp4
+duração 77.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 19.5 MB
+decodificação: OK
+pts do áudio: 3609 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 849-1035, x 157-563 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V10\revisao\V10_final_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  7.66 Lo tuve en el carrito tres semanas, tres semanas diéndome lo compro mañana y mañana nunca llevó, ese fue mi peor error.
+   7.66- 15.00 La menopausia me tenía con la aguata hinchada, la ropa apretada y una fatiga que no se iba con nada, probé mil cosas, nada se insulaba de verdad.
+  15.00- 24.74 Miren esto, eso soy yo antes y eso, eso soy yo tres semanas después, la misma persona, las mismas gotas, sin hacer dieta, sin cambiar nada más.
+  24.74- 28.58 Y lo que hice fue esto, 20 gotitas en la mañana con el desayuno,
+  28.58- 30.94 20 gotitas en la noche con la cena.
+  30.94- 35.26 Eso, solo eso, junto a la comida para que el cuerpo lo absorba mejor.
+  35.26- 38.46 Sé que muchas me van a preguntar si tiene contraindicaciones.
+  38.46- 39.58 Les digo de frente.
+  39.58- 42.66 Es 100% natural, sin estimulantes,
+  42.66- 46.26 y además sabe a miel y si están en tratamiento médico.
+  46.26- 48.66 Consultenlo con su médico, cómo corresponde.
+  48.66- 49.90 No hay nada que ocultar.
+  49.90- 52.14 Y ahora tienes la promoción.
+  52.14- 57.66 Compre 1 y reciba 2, con envío gratis, y pagas al recibir en tu casa.
+  57.66- 61.30 O si quieres más, compre 2 y reciba 4.
+  61.30- 63.74 O compre 3 y reciba 6.
+  63.74- 67.22 Y si por alguna razón no ves resultado, te devuelven el dinero.
+  67.22- 71.18 90 días de garantía, sin preguntas, sin trámites.
+  71.18- 74.78 Oye, si lo has tenido en el carrito, si lo has pensado o si lo has postergado,
+  74.78- 76.86 hoy es el día, hoy es tu día.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

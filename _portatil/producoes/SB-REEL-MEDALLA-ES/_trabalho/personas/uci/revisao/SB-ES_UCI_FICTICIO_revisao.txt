@@ -1,0 +1,30 @@
+REVISÃO: SB-ES_UCI_FICTICIO.mp4
+duração 68.50s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 49.0 MB
+decodificação: OK
+pts do áudio: 3212 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 969-1010, x 530-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\uci\revisao\SB-ES_UCI_FICTICIO_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  7.00 ¡Oh glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla, no me lo
+   7.00- 14.00 quites, si me escuchas, dame fuerzas!
+  14.00- 20.00 Pasé días y noches en esa sala, mirando las máquinas, sin saber si él iba a despertar,
+  20.00- 24.92 sentía que me estaba apagando por dentro, hasta que, en una transmisión en vivo,
+  24.92- 28.48 un padre explicó la forma exacta de pedirle a San Benito.
+  28.48- 34.20 día recupere la paz y poco a poco volví a tener esperanza.
+  34.20- 38.00 Esta es la última vez que Dios intenta hablarte de esta forma.
+  38.00- 42.84 Jesús te eligió, preparó un regalo poderoso solo para ti.
+  42.84- 48.00 En este video vas a escuchar la oración perdida de San Benito que desbloquea una lluvia
+  48.00- 52.16 de milagros, pero solo si no la rechazas otra vez.
+  52.16- 58.64 toca más información ahora recibe tu milagro antes de que la puerta se cierre para siempre
+  58.64- 64.00 ahora mismo está ocurriendo una transmisión en vivo con san benito toca el botón ver
+  64.00- 68.04 más aquí abajo del vídeo y entra a rezar con nosotros
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,67 @@
+{
+ "var": "02",
+ "gancho": "G2",
+ "corpo": "20",
+ "genero": "M",
+ "texto": "Vi al hombre que hacía reír a mi esposa como yo ya no podía. Tenía diez años menos que yo. Y no era solo la edad. Así empezó todo.",
+ "Hd": 9.666666666666666,
+ "fala_s": 9.24,
+ "tomadas": [
+  {
+   "src": "20",
+   "ini": 8.009,
+   "dur": 1.5666666666666667
+  },
+  {
+   "src": "20",
+   "ini": 110.475,
+   "dur": 1.3
+  },
+  {
+   "src": "20",
+   "ini": 63.975,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 79.892,
+   "dur": 1.7666666666666666
+  },
+  {
+   "src": "25",
+   "ini": 1.458,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 50.042,
+   "dur": 1.4333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 62.491,
+   "dur": 0.8333333333333334
+  }
+ ],
+ "corte": 10.933,
+ "frases": [
+  [
+   "Vi al hombre que hacía reír a mi esposa como yo ya no podía.",
+   0.035
+  ],
+  [
+   "Tenía diez años menos que yo.",
+   3.762
+  ],
+  [
+   "Y no era solo la edad.",
+   6.13
+  ],
+  [
+   "Así empezó todo.",
+   8.057
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 02 - G2-HOMBRE-MAS-JOVEN x AD20.mp4",
+ "seed": 17
+}

@@ -1,0 +1,37 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F7-PRIMERA-CITA/PERFUMES-CL_F7_PRIMERA-CITA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F7-PRIMERA-CITA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F7-PRIMERA-CITA/audio/trilha.mp3",
+  "legenda": {
+    "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F7-PRIMERA-CITA/corpo.alinhamento.json",
+    "chaves": [
+      "pedir",
+      "perfume",
+      "Asad",
+      "seductor",
+      "árabes",
+      "uno",
+      "semana",
+      "Armaf",
+      "9PM",
+      "mano",
+      "recibes",
+      "Pídelo"
+    ],
+    "y": 1300
+  },
+  "manchete": {
+    "texto": "POV: PRIMERA CITA 🔥",
+    "y": 1640,
+    "ate": 4.25,
+    "px": 80
+  },
+  "cta": {
+    "palavra": "pídelo",
+    "y": 1700
+  },
+  "resolucao": "720",
+  "limite_mb": 30
+}

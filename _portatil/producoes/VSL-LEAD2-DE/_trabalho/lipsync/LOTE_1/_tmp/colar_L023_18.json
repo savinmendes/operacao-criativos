@@ -1,0 +1,110 @@
+{
+ "L023": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 345 q (esperado 346)"
+ },
+ "L028": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 207 q (esperado 208)"
+ },
+ "L031": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 150 q (esperado 151)"
+ },
+ "L038": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 267 q (esperado 268)"
+ },
+ "L041": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 219 q (esperado 220)"
+ },
+ "L043": {
+  "indice": 0.36,
+  "veredito": "APROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 165 q (esperado 166)"
+ },
+ "L050": {
+  "indice": 0.26,
+  "veredito": "APROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 300 q (esperado 301)"
+ },
+ "L054": {
+  "indice": 0.52,
+  "veredito": "APROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 342 q (esperado 343)"
+ },
+ "L057": {
+  "indice": 0.68,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 303 q (esperado 304)"
+ },
+ "L059": {
+  "indice": 0.81,
+  "veredito": "REPROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 327 q (esperado 328)"
+ },
+ "L061": {
+  "indice": 0.75,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 300 q (esperado 301)"
+ },
+ "L068": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 153 q (esperado 154)"
+ },
+ "L070": {
+  "indice": null,
+  "veredito": "REPROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 276 q (esperado 277)"
+ },
+ "L072": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 264 q (esperado 265)"
+ },
+ "L078": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 144 q (esperado 145)"
+ },
+ "L079": {
+  "indice": null,
+  "veredito": "REPROVADO",
+  "medida": "quadro_inteiro",
+  "nota": "out 252 q (esperado 253)"
+ },
+ "L080": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 114 q (esperado 115)"
+ },
+ "L081": {
+  "indice": null,
+  "veredito": "AVISO",
+  "medida": "quadro_inteiro",
+  "nota": "out 162 q (esperado 163)"
+ }
+}

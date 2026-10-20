@@ -1,0 +1,34 @@
+{
+ "arquivo": "VAR 11 - G1-ESPOSO-AMIGA x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 286.33,
+ "mb": 35.2,
+ "whisper_gancho": "Vi a mi esposo mirar a mi mejor amiga, como antes me miraba a mí Como si yo no estuviera en la sala, esto fue lo que pasó",
+ "whisper_emenda": "la sala, esto fue lo que pasó Así que culpe a mi cuerpo, a mi carinchada A la mandíbula que",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.233333,
+  2.4,
+  4.533333,
+  5.5,
+  7.266667,
+  8.5,
+  9.4
+ ],
+ "cortes_plan": [
+  1.233,
+  2.4,
+  4.533,
+  5.5,
+  7.267,
+  8.5
+ ],
+ "silencios": [
+  [
+   58.84,
+   59.66
+  ]
+ ],
+ "ok": true
+}

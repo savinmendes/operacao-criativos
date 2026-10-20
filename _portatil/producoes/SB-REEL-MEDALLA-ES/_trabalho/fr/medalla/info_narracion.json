@@ -1,0 +1,29 @@
+{
+ "medalla": {
+  "slug": "MEDALLA",
+  "nome": "COMMERÇANT",
+  "voz_txt": "commerçant Martin (b0Ev8lcOOXx2o9ZcF46H)",
+  "cena_gancho": "plan large : lui à genoux entre les tables vides de son restaurant",
+  "cena_frustrado": "lui debout, frustré, regardant la salle vide",
+  "titulo": "Ce que disent les lettres de la médaille",
+  "texto": "Six mois sans clients, et la honte de rentrer à la maison. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre en explique le sens, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous."
+ },
+ "app": {
+  "slug": "APP",
+  "nome": "CHAUFFEUR",
+  "voz_txt": "chauffeur Aurel (X91kq0xypSEbSMQwWKmf)",
+  "cena_gancho": "plan large de nuit : lui dans sa voiture arrêtée dans une rue vide, priant les mains sur le volant",
+  "cena_frustrado": "lui dans la voiture, frustré, regardant le téléphone sans courses",
+  "titulo": "La médaille de saint Benoît expliquée",
+  "texto": "Des nuits entières sans une seule course. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre en explique le sens, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous."
+ },
+ "costurera": {
+  "slug": "COSTURERA",
+  "nome": "COUTURIÈRE",
+  "voz_txt": "couturière Claire (NEjemlRxgWmL5ZGJetsB)",
+  "cena_gancho": "plan large : elle à genoux à côté de sa machine à coudre arrêtée",
+  "cena_frustrado": "elle assise devant la machine arrêtée, regardant le carnet de commandes vide",
+  "titulo": "Le sens des lettres de saint Benoît",
+  "texto": "Des mois sans une seule commande. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre en explique le sens, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous."
+ }
+}

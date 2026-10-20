@@ -1,0 +1,803 @@
+{
+ "nota": "tempos em s relativos ao início de cada arquivo; palavras = alinhamento ElevenLabs remapeado após encurtar pausas (sacerdote ≤0,25 s; AV01 voz off pausas naturais ≤0,45 s).",
+ "padre": {
+  "voz": "Zkg9LlmGNlBWLgWjzTnu (Pa Gabriel) est 0.5 / estilo 0.25 / vel 1.06, eleven_multilingual_v2",
+  "imagem": "img/padre_gpt.png (mesma de v3/_trabalho/padre)",
+  "formato_takes": "720x1280, 25 fps, H.264 da HeyGen copiado sem recodificar (sem etiqueta de cor, igual aos takes atuais), áudio = wav recortado (AAC 48 kHz). Sem moldura EN VIVO.",
+  "heygen": "Avatar IV (create_video_from_image) 720p, 9:16, expressiveness low, áudio enviado como asset"
+ },
+ "aurelio_voz": "VXZKNah1ssrzM8c81OiY (Santiago) est 0.45 / estilo 0.3 / vel 1.06 (falas.json v1 L05)",
+ "itens": [
+  {
+   "id": "AV01",
+   "bloco": "AV01",
+   "tipo": "narracao_off",
+   "arquivo": "vo_AV01.wav",
+   "texto": "Y no era la primera vez… yo pensaba que era mala suerte; todas las puertas se me cerraban.",
+   "duracao": 8.313,
+   "fps": null,
+   "palavras": [
+    {
+     "w": "Y",
+     "ini": 0.035,
+     "fim": 0.07
+    },
+    {
+     "w": "no",
+     "ini": 0.209,
+     "fim": 0.395
+    },
+    {
+     "w": "era",
+     "ini": 0.476,
+     "fim": 0.72
+    },
+    {
+     "w": "la",
+     "ini": 0.801,
+     "fim": 0.882
+    },
+    {
+     "w": "primera",
+     "ini": 0.94,
+     "fim": 1.451
+    },
+    {
+     "w": "vez...",
+     "ini": 1.533,
+     "fim": 2.125
+    },
+    {
+     "w": "yo",
+     "ini": 2.543,
+     "fim": 2.705
+    },
+    {
+     "w": "pensaba",
+     "ini": 2.775,
+     "fim": 3.402
+    },
+    {
+     "w": "que",
+     "ini": 3.495,
+     "fim": 3.715
+    },
+    {
+     "w": "era",
+     "ini": 3.738,
+     "fim": 3.959
+    },
+    {
+     "w": "mala",
+     "ini": 4.04,
+     "fim": 4.447
+    },
+    {
+     "w": "suerte;",
+     "ini": 4.528,
+     "fim": 5.178
+    },
+    {
+     "w": "todas",
+     "ini": 5.538,
+     "fim": 5.979
+    },
+    {
+     "w": "las",
+     "ini": 6.072,
+     "fim": 6.235
+    },
+    {
+     "w": "puertas",
+     "ini": 6.339,
+     "fim": 6.908
+    },
+    {
+     "w": "se",
+     "ini": 6.954,
+     "fim": 7.047
+    },
+    {
+     "w": "me",
+     "ini": 7.129,
+     "fim": 7.233
+    },
+    {
+     "w": "cerraban.",
+     "ini": 7.279,
+     "fim": 8.15
+    }
+   ],
+   "intervalos_ruins": [],
+   "heygen_video_id": null,
+   "creditos_heygen_est": 0,
+   "custo_tts_usd": 0.0149,
+   "whisper": "Y no era la primera vez, yo pensaba que era mala suerte, todas las puertas se me cerraban.",
+   "whisper_ok": true,
+   "whisper_dif": null,
+   "whisper_obs": null
+  },
+  {
+   "id": "PB01",
+   "bloco": "PB01",
+   "tipo": "take_avatar",
+   "arquivo": "take_PB01.mp4",
+   "texto": "No es mala suerte. Cuando los caminos se cierran así, hay algo espiritual detrás.",
+   "duracao": 5.04,
+   "fps": 25,
+   "palavras": [
+    {
+     "w": "No",
+     "ini": 0.07,
+     "fim": 0.151
+    },
+    {
+     "w": "es",
+     "ini": 0.186,
+     "fim": 0.232
+    },
+    {
+     "w": "mala",
+     "ini": 0.279,
+     "fim": 0.464
+    },
+    {
+     "w": "suerte.",
+     "ini": 0.522,
+     "fim": 1.08
+    },
+    {
+     "w": "Cuando",
+     "ini": 1.33,
+     "fim": 1.573
+    },
+    {
+     "w": "los",
+     "ini": 1.62,
+     "fim": 1.736
+    },
+    {
+     "w": "caminos",
+     "ini": 1.782,
+     "fim": 2.108
+    },
+    {
+     "w": "se",
+     "ini": 2.131,
+     "fim": 2.2
+    },
+    {
+     "w": "cierran",
+     "ini": 2.235,
+     "fim": 2.572
+    },
+    {
+     "w": "así,",
+     "ini": 2.642,
+     "fim": 3.048
+    },
+    {
+     "w": "hay",
+     "ini": 3.245,
+     "fim": 3.396
+    },
+    {
+     "w": "algo",
+     "ini": 3.431,
+     "fim": 3.594
+    },
+    {
+     "w": "espiritual",
+     "ini": 3.628,
+     "fim": 4.209
+    },
+    {
+     "w": "detrás.",
+     "ini": 4.29,
+     "fim": 4.871
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.12,
+     "motivo": "quadro 0 com olhos fechados e lábios em bico (entrada do HeyGen)",
+     "grave": true
+    },
+    {
+     "ini": 1.08,
+     "fim": 1.33,
+     "motivo": "dentes à mostra na pausa depois de 'suerte.'",
+     "grave": true
+    },
+    {
+     "ini": 3.048,
+     "fim": 3.245,
+     "motivo": "dentes à mostra / olhos semicerrados na pausa",
+     "grave": true
+    },
+    {
+     "ini": 4.871,
+     "fim": 5.04,
+     "motivo": "cauda após a última palavra (boca fechada, ok)",
+     "grave": false
+    }
+   ],
+   "heygen_video_id": "77f5a7a9d7607469be3326745377f73d",
+   "creditos_heygen_est": 14.6,
+   "custo_tts_usd": 0.0134,
+   "whisper": "No es mala suerte, cuando los caminos se cierran así, hay algo espiritual detrás.",
+   "whisper_ok": true,
+   "whisper_dif": null,
+   "whisper_obs": null
+  },
+  {
+   "id": "P03B",
+   "bloco": "P03B",
+   "tipo": "take_avatar",
+   "arquivo": "take_P03B.mp4",
+   "texto": "Esta es la poderosísima oración de las doce palabras de San Benito.",
+   "duracao": 3.8,
+   "fps": 25,
+   "palavras": [
+    {
+     "w": "Esta",
+     "ini": 0.058,
+     "fim": 0.232
+    },
+    {
+     "w": "es",
+     "ini": 0.267,
+     "fim": 0.313
+    },
+    {
+     "w": "la",
+     "ini": 0.36,
+     "fim": 0.43
+    },
+    {
+     "w": "poderosísima",
+     "ini": 0.522,
+     "fim": 1.405
+    },
+    {
+     "w": "oración",
+     "ini": 1.44,
+     "fim": 1.834
+    },
+    {
+     "w": "de",
+     "ini": 1.869,
+     "fim": 1.916
+    },
+    {
+     "w": "las",
+     "ini": 1.962,
+     "fim": 2.067
+    },
+    {
+     "w": "doce",
+     "ini": 2.101,
+     "fim": 2.368
+    },
+    {
+     "w": "palabras",
+     "ini": 2.426,
+     "fim": 2.775
+    },
+    {
+     "w": "de",
+     "ini": 2.798,
+     "fim": 2.879
+    },
+    {
+     "w": "San",
+     "ini": 2.926,
+     "fim": 3.042
+    },
+    {
+     "w": "Benito.",
+     "ini": 3.088,
+     "fim": 3.599
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.12,
+     "motivo": "quadro 0 já com boca aberta/dentes",
+     "grave": true
+    },
+    {
+     "ini": 3.599,
+     "fim": 3.8,
+     "motivo": "cauda após a última palavra (boca fechada, ok)",
+     "grave": false
+    }
+   ],
+   "heygen_video_id": "47e492ad0d331e8ef7c3190270cabf0a",
+   "creditos_heygen_est": 11.0,
+   "custo_tts_usd": 0.0111,
+   "whisper": "Esta es la poderosísima oración de las 12 palabras de San Benito.",
+   "whisper_ok": true,
+   "whisper_dif": [
+    [
+     "replace",
+     "doce",
+     "12"
+    ]
+   ],
+   "whisper_obs": "'doce' transcrito como '12' (só normalização)"
+  },
+  {
+   "id": "P04B",
+   "bloco": "P04B",
+   "tipo": "take_avatar",
+   "arquivo": "take_P04B.mp4",
+   "texto": "Pero atención: tiene que hacerse de la forma correcta, porque no es una oración común.",
+   "duracao": 5.0,
+   "fps": 25,
+   "palavras": [
+    {
+     "w": "Pero",
+     "ini": 0.058,
+     "fim": 0.221
+    },
+    {
+     "w": "atención:",
+     "ini": 0.255,
+     "fim": 0.917
+    },
+    {
+     "w": "tiene",
+     "ini": 1.167,
+     "fim": 1.434
+    },
+    {
+     "w": "que",
+     "ini": 1.492,
+     "fim": 1.562
+    },
+    {
+     "w": "hacerse",
+     "ini": 1.585,
+     "fim": 1.98
+    },
+    {
+     "w": "de",
+     "ini": 2.026,
+     "fim": 2.084
+    },
+    {
+     "w": "la",
+     "ini": 2.13,
+     "fim": 2.2
+    },
+    {
+     "w": "forma",
+     "ini": 2.27,
+     "fim": 2.56
+    },
+    {
+     "w": "correcta,",
+     "ini": 2.63,
+     "fim": 3.106
+    },
+    {
+     "w": "porque",
+     "ini": 3.129,
+     "fim": 3.361
+    },
+    {
+     "w": "no",
+     "ini": 3.419,
+     "fim": 3.489
+    },
+    {
+     "w": "es",
+     "ini": 3.524,
+     "fim": 3.57
+    },
+    {
+     "w": "una",
+     "ini": 3.651,
+     "fim": 3.779
+    },
+    {
+     "w": "oración",
+     "ini": 3.814,
+     "fim": 4.232
+    },
+    {
+     "w": "común.",
+     "ini": 4.302,
+     "fim": 4.789
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.058,
+     "motivo": "início antes da 1ª palavra",
+     "grave": false
+    },
+    {
+     "ini": 0.917,
+     "fim": 1.167,
+     "motivo": "dentes à mostra na pausa depois de 'atención:'",
+     "grave": true
+    },
+    {
+     "ini": 4.789,
+     "fim": 5.0,
+     "motivo": "cauda após a última palavra (boca fechada, ok)",
+     "grave": false
+    }
+   ],
+   "heygen_video_id": "c3a5336e48244f42d6538b77bdc649a0",
+   "creditos_heygen_est": 14.5,
+   "custo_tts_usd": 0.0142,
+   "whisper": "Pero atención, tiene que hacerse de la forma correcta porque no es una oración común.",
+   "whisper_ok": true,
+   "whisper_dif": null,
+   "whisper_obs": null
+  },
+  {
+   "id": "P05B",
+   "bloco": "P05B",
+   "tipo": "take_avatar",
+   "arquivo": "take_P05B.mp4",
+   "texto": "Por eso grabé un video donde enseño la Oración de San Benito completa, paso a paso, de la forma correcta,",
+   "duracao": 6.56,
+   "fps": 25,
+   "palavras": [
+    {
+     "w": "Por",
+     "ini": 0.07,
+     "fim": 0.197
+    },
+    {
+     "w": "eso",
+     "ini": 0.244,
+     "fim": 0.372
+    },
+    {
+     "w": "grabé",
+     "ini": 0.406,
+     "fim": 0.615
+    },
+    {
+     "w": "un",
+     "ini": 0.65,
+     "fim": 0.697
+    },
+    {
+     "w": "video",
+     "ini": 0.743,
+     "fim": 1.022
+    },
+    {
+     "w": "donde",
+     "ini": 1.045,
+     "fim": 1.265
+    },
+    {
+     "w": "enseño",
+     "ini": 1.289,
+     "fim": 1.776
+    },
+    {
+     "w": "la",
+     "ini": 1.811,
+     "fim": 1.869
+    },
+    {
+     "w": "Oración",
+     "ini": 1.904,
+     "fim": 2.287
+    },
+    {
+     "w": "de",
+     "ini": 2.322,
+     "fim": 2.38
+    },
+    {
+     "w": "San",
+     "ini": 2.426,
+     "fim": 2.543
+    },
+    {
+     "w": "Benito",
+     "ini": 2.589,
+     "fim": 2.914
+    },
+    {
+     "w": "completa,",
+     "ini": 2.972,
+     "fim": 3.622
+    },
+    {
+     "w": "paso",
+     "ini": 3.872,
+     "fim": 4.209
+    },
+    {
+     "w": "a",
+     "ini": 4.255,
+     "fim": 4.279
+    },
+    {
+     "w": "paso,",
+     "ini": 4.337,
+     "fim": 4.836
+    },
+    {
+     "w": "de",
+     "ini": 5.068,
+     "fim": 5.149
+    },
+    {
+     "w": "la",
+     "ini": 5.207,
+     "fim": 5.277
+    },
+    {
+     "w": "forma",
+     "ini": 5.358,
+     "fim": 5.648
+    },
+    {
+     "w": "correcta,",
+     "ini": 5.707,
+     "fim": 6.345
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.07,
+     "motivo": "início antes da 1ª palavra",
+     "grave": false
+    },
+    {
+     "ini": 3.622,
+     "fim": 3.872,
+     "motivo": "pausa interna encurtada (≤0,25 s): boca fechada no QA, ok",
+     "grave": false
+    },
+    {
+     "ini": 4.836,
+     "fim": 5.068,
+     "motivo": "dentes à mostra na pausa",
+     "grave": true
+    },
+    {
+     "ini": 6.345,
+     "fim": 6.56,
+     "motivo": "cauda após a última palavra (boca fechada, ok)",
+     "grave": false
+    }
+   ],
+   "heygen_video_id": "6ae51a64a62dab5d887ee38be168e8c7",
+   "creditos_heygen_est": 19.0,
+   "custo_tts_usd": 0.0173,
+   "whisper": "Por eso grabé un video donde enseño la oración de San Benito completa, paso a paso, de la forma correcta.",
+   "whisper_ok": true,
+   "whisper_dif": null,
+   "whisper_obs": null
+  },
+  {
+   "id": "P07B",
+   "bloco": "P07B",
+   "tipo": "take_avatar",
+   "arquivo": "take_P07B.mp4",
+   "texto": "Toca el botón Ver más, aquí abajo, y mírala ahora, mientras todavía está disponible.",
+   "duracao": 5.2,
+   "fps": 25,
+   "palavras": [
+    {
+     "w": "Toca",
+     "ini": 0.058,
+     "fim": 0.267
+    },
+    {
+     "w": "el",
+     "ini": 0.29,
+     "fim": 0.337
+    },
+    {
+     "w": "botón",
+     "ini": 0.395,
+     "fim": 0.72
+    },
+    {
+     "w": "Ver",
+     "ini": 0.778,
+     "fim": 0.917
+    },
+    {
+     "w": "más,",
+     "ini": 0.998,
+     "fim": 1.324
+    },
+    {
+     "w": "aquí",
+     "ini": 1.37,
+     "fim": 1.637
+    },
+    {
+     "w": "abajo,",
+     "ini": 1.672,
+     "fim": 2.055
+    },
+    {
+     "w": "y",
+     "ini": 2.09,
+     "fim": 2.171
+    },
+    {
+     "w": "mírala",
+     "ini": 2.241,
+     "fim": 2.554
+    },
+    {
+     "w": "ahora,",
+     "ini": 2.589,
+     "fim": 3.007
+    },
+    {
+     "w": "mientras",
+     "ini": 3.257,
+     "fim": 3.652
+    },
+    {
+     "w": "todavía",
+     "ini": 3.698,
+     "fim": 4.081
+    },
+    {
+     "w": "está",
+     "ini": 4.104,
+     "fim": 4.29
+    },
+    {
+     "w": "disponible.",
+     "ini": 4.325,
+     "fim": 5.01
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.12,
+     "motivo": "quadro 0 com olhos fechados e lábios em bico (entrada do HeyGen)",
+     "grave": true
+    },
+    {
+     "ini": 3.007,
+     "fim": 3.257,
+     "motivo": "dentes à mostra na pausa",
+     "grave": true
+    },
+    {
+     "ini": 5.01,
+     "fim": 5.2,
+     "motivo": "cauda após a última palavra (boca fechada, ok)",
+     "grave": false
+    }
+   ],
+   "heygen_video_id": "19355b2d96dd824123ce6dfe8457402b",
+   "creditos_heygen_est": 15.1,
+   "custo_tts_usd": 0.0139,
+   "whisper": "Toca el botón Ver más aquí abajo y mírala ahora, mientras todavía está disponible.",
+   "whisper_ok": true,
+   "whisper_dif": null,
+   "whisper_obs": null
+  },
+  {
+   "id": "BR_AV01",
+   "bloco": "AV01",
+   "tipo": "broll",
+   "arquivo": "broll/n01_aurelio_cierra_carrito.mp4",
+   "texto": null,
+   "descricao": "Don Aurelio sozinho à noite fechando o toldo do carrinho vazio, rua vazia com lojas de porta de aço baixada (sem colar)",
+   "versao": "A e B",
+   "custo_usd": 0.303,
+   "custo_detalhe": "Flux 2 i2i com aurelio_colar_v1.png como referência (US$0,009) + Kling 2.5 Turbo i2v 5 s (US$0,294)",
+   "in": 0.0,
+   "out": 5.0,
+   "obs": "pano/toldo some de forma um pouco abrupta ao lado do carrinho ~2,5–3,0 s (leve); AV01 tem 8,31 s → este plano cobre só ~5 s: completar com outro plano ou começar o b-roll em 'yo pensaba'",
+   "formato": "720x1280, 30 fps, yuv420p bt601/tv (etiqueta bt709/tv no bitstream, igual broll/_ferr/norm.py), sem áudio",
+   "duracao": 5.0,
+   "fps": 30,
+   "intervalos_ruins": []
+  },
+  {
+   "id": "BR_FE1",
+   "bloco": "B (substitui Grimorio/colar)",
+   "tipo": "broll",
+   "arquivo": "broll/n03_manos_abren_biblia.mp4",
+   "texto": null,
+   "descricao": "mãos de idosa abrindo a Bíblia na mesa da cozinha, luz da manhã (capa diz 'Holy Bible' em inglês — fica pequena; recortar/cobrir se incomodar)",
+   "versao": "B",
+   "custo_usd": 0.303,
+   "custo_detalhe": "Flux 2 (US$0,009) + Kling 2.5 Turbo i2v 5 s (US$0,294)",
+   "in": 0.0,
+   "out": 5.0,
+   "obs": "",
+   "formato": "720x1280, 30 fps, yuv420p bt601/tv (etiqueta bt709/tv no bitstream, igual broll/_ferr/norm.py), sem áudio",
+   "duracao": 5.0,
+   "fps": 30,
+   "intervalos_ruins": []
+  },
+  {
+   "id": "BR_FE2",
+   "bloco": "B (substitui Grimorio/colar)",
+   "tipo": "broll",
+   "arquivo": "broll/n04_agua_bendita.mp4",
+   "texto": null,
+   "descricao": "dedos tocando a pia de água benta na entrada da igreja, ondas na água",
+   "versao": "B",
+   "custo_usd": 0.303,
+   "custo_detalhe": "Flux 2 (US$0,009) + Kling 2.5 Turbo i2v 5 s (US$0,294)",
+   "in": 0.0,
+   "out": 3.8,
+   "obs": "depois de ~3,8 s a mão sai do quadro (usar até 3,8 s)",
+   "formato": "720x1280, 30 fps, yuv420p bt601/tv (etiqueta bt709/tv no bitstream, igual broll/_ferr/norm.py), sem áudio",
+   "duracao": 5.0,
+   "fps": 30,
+   "intervalos_ruins": []
+  },
+  {
+   "id": "BR_FE3",
+   "bloco": "B (substitui Grimorio/colar)",
+   "tipo": "broll",
+   "arquivo": "broll/n02_iglesia_vacia_amanecer.mp4",
+   "texto": null,
+   "descricao": "igreja vazia ao amanhecer, nave com bancos vazios e raios de luz (Ken Burns zoom in)",
+   "versao": "B",
+   "custo_usd": 0.009,
+   "custo_detalhe": "Flux 2 (US$0,009) + Ken Burns local",
+   "in": 0.0,
+   "out": 3.0,
+   "obs": "",
+   "formato": "720x1280, 30 fps, yuv420p bt601/tv (etiqueta bt709/tv no bitstream, igual broll/_ferr/norm.py), sem áudio",
+   "duracao": 3.0,
+   "fps": 30,
+   "intervalos_ruins": []
+  },
+  {
+   "id": "BR_FE4",
+   "bloco": "B (substitui Grimorio/colar)",
+   "tipo": "broll",
+   "arquivo": "broll/n05_pareja_rezando_mesa.mp4",
+   "texto": null,
+   "descricao": "casal de idosos de mãos dadas rezando de olhos fechados na mesa da cozinha (Ken Burns zoom out)",
+   "versao": "B",
+   "custo_usd": 0.009,
+   "custo_detalhe": "Flux 2 (US$0,009) + Ken Burns local",
+   "in": 0.0,
+   "out": 3.0,
+   "obs": "",
+   "formato": "720x1280, 30 fps, yuv420p bt601/tv (etiqueta bt709/tv no bitstream, igual broll/_ferr/norm.py), sem áudio",
+   "duracao": 3.0,
+   "fps": 30,
+   "intervalos_ruins": []
+  }
+ ],
+ "custos": {
+  "elevenlabs_usd": 0.085,
+  "elevenlabs_chars": 513,
+  "flora_usd": 0.927,
+  "flora_detalhe": "5x Flux 2 (US$0,009) + 3x Kling 2.5 Turbo i2v 5 s (US$0,294) = US$0,927 (charged_cost real)",
+  "heygen_creditos": "saldo 6842 -> 6827 logo após os 5 jobs (15 créditos debitados até agora; a cobrança pode aparecer até ~1 h depois; estimativa 2,9 créd/s x 25,6 s ≈ 74). Outros agentes podem usar a mesma conta ao mesmo tempo.",
+  "heygen_jobs": {
+   "PB01": "77f5a7a9d7607469be3326745377f73d",
+   "P03B": "47e492ad0d331e8ef7c3190270cabf0a",
+   "P04B": "c3a5336e48244f42d6538b77bdc649a0",
+   "P05B": "6ae51a64a62dab5d887ee38be168e8c7",
+   "P07B": "19355b2d96dd824123ce6dfe8457402b"
+  }
+ },
+ "qa": "whisper medium es: 6/6 wav e 5/5 takes batem com ROTEIRO_v4_AB.md (P03B: '12' = 'doce', só normalização). Rosto = mesma imagem padre_gpt.png, conferido com take_P04 da v3 (qa/rosto_vs_v3.jpg). Boca: qa/<id>_pausas.jpg e qa/<id>_boca.jpg; intervalos grave=true têm dentes/boca aberta ou olhos fechados → cobrir com b-roll/corte."
+}

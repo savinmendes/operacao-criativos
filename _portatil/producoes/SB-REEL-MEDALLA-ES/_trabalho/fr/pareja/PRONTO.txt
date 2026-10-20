@@ -1,0 +1,8 @@
+PAREJA COMPLETA FR (14/10/2026) -> C:\Users\PICHAU\Downloads\SB-MEDALLA-COMPLETA-FR${nn}_SB-FR_PAREJA_COMPLETA.mp4 (+ _narracion.txt)
+Voz: Sara (QGfpyFuk3rtPv4pRSQwp), tts_ctx.py (eleven_multilingual_v2, speed 1.0): hook + reza + selfie = 422 caracteres (2 chamadas 409 'already_running' na pareja, sem cobrança, refeitas).
+Pausas longas da voz encurtadas sem acelerar (apertar.py -> *_a.wav + *_a.alinhamento.json). Whisper fr ok ("saint Benoît" pronunciado certo).
+HeyGen: selfie_final.mp4 = video f4e36c0e7c0ebc9d403ed6402cc6e27a (13,9 s, create_video_from_image, retrato_triste.png do ES, expressividade low, audio selfie_a.wav a partir da 2a frase).
+  Sem fechar_boca, sem quadro segurado, sem fusao. Boca conferida quadro a quadro (_qa/boca_folha.jpg, _qa/final_rosto.jpg).
+Montagem: montar_completa_fr.py (copia do ES; cfg.json + padre_fr.json) + legenda_comp_fr.py -> mont/master.mp4. Takes/b-roll/trilha do ES.
+Revisao: revisar_ad.py --idioma fr --idioma-residual es + proibidos_es.txt: OK (aviso de setas vermelhas = setas sao amarelas, igual ao ES). Selo FR do 1o ao ultimo quadro; CTA unico.
+Flora: US$ 0.

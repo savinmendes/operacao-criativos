@@ -1,0 +1,51 @@
+{
+  "ad": "22",
+  "idioma": "sem fala (só música; whisper detectou 'en' com prob 0,33)",
+  "origem": "TikTok @powertoolsdepot (loja/revenda, 'DM to order')",
+  "url": "https://www.tiktok.com/@powertoolsdepot/video/7608974965508951326",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 19.4,
+  "cortes": 10,
+  "ritmo": "rapido, corte a cada ~1,5 s",
+  "formato": "demo de features com titulo por feature (loja)",
+  "gancho": {
+    "visual": "DCD1007 em pe sobre madeira, LED aceso, logo DeWalt",
+    "texto_tela": "'DCD1007 COMBI DRILL'",
+    "fala_0_3s": "sem fala"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-3s",
+      "conteudo": "produto + nome"
+    },
+    {
+      "tempo": "3-6s",
+      "conteudo": "anti-rotation system"
+    },
+    {
+      "tempo": "6-12s",
+      "conteudo": "LED 3 posicoes, 70 lumen, modo lanterna 20 min"
+    },
+    {
+      "tempo": "12-16s",
+      "conteudo": "3 velocidades"
+    },
+    {
+      "tempo": "16-19s",
+      "conteudo": "11 torques, battery vibration protection (bateria Powerstack 18V 5Ah)"
+    }
+  ],
+  "cta": "nenhum no video (post: 'DM to order')",
+  "texto_na_tela": "titulos EN caixa alta por feature",
+  "produto": "DCD1007 XR (versao 18V Powerstack) - NAO e o nosso",
+  "e_nosso_produto": "nao",
+  "rosto": "nao (so maos)",
+  "marca_dagua": "nao visivel",
+  "audio": "só música",
+  "transcricao": "",
+  "uso": [
+    "so referencia de formato"
+  ],
+  "nota_cod_chile": 2,
+  "justificativa": "Formato 'feature por feature com titulo' e rapido e bom, mas o produto e DCD1007 premium (anti-rotacao, LED 3 posicoes) - features que o DCD7771 nao tem; usar os takes enganaria."
+}

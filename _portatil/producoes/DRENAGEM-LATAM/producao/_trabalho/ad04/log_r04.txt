@@ -1,0 +1,38 @@
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b1.mp4
+c1.mp4: 89 quadros a partir de 120.0s
+c2.mp4: 90 quadros a partir de 124.767s
+c3.mp4: 42 quadros a partir de 196.367s
+c4.mp4: 48 quadros a partir de 303.867s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b1.mp4 | 10509 quadros, 269 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\desfocar_regioes.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b2.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b2.mp4 | 62 quadros desfocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\trocar_legenda_caixa.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b2.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b3.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b3.mp4 | 77 quadros trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\trocar_legenda_caixa.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b3.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b4.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b4.mp4 | 102 quadros trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\trocar_legenda_caixa.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b4.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b5.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b5.mp4 | 76 quadros trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\trocar_legenda_caixa.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b5.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b6.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b6.mp4 | 76 quadros trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\trocar_legenda_caixa.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b6.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b7.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b7.mp4 | 132 quadros trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b7.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\p1.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b8.mp4 | trecho 175.50-178.62s trocado (velocidade 1.16x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b8.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\p3.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b9.mp4 | trecho 237.40-240.90s trocado (velocidade 1.01x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b9.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\p4.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b10.mp4 | trecho 243.55-245.95s trocado (velocidade 1.03x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b10.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\p2.mp3
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\b11.mp4 | trecho 303.85-306.38s trocado (velocidade 0.86x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad04\parte2.mp4 22.94s
+aviso: 6.2 min não cabe em 30 MB com qualidade; usando 900 kbps (~47 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 04 - LYMPHORIA-MUJER-28-ES-LATAM.mp4
+duração : 373.03s | 720x1280 | áudio: sim | 44.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 04 - LYMPHORIA-MUJER-28-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 369.61s
+montagem rápida: 35s para 373s de vídeo (0.09x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 04 - LYMPHORIA-MUJER-28-ES-LATAM.mp4

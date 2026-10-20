@@ -1,0 +1,133 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(//c/Users/PICHAU/Downloads/ADLIB-104060992792639/**)",
+      "Write(//c/Users/PICHAU/Downloads/ADLIB-104060992792639/**)",
+      "Bash(python *)",
+      "Bash(ffmpeg *)",
+      "Agent"
+    ]
+  },
+  "model": "opus",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\Users\\PICHAU\\.claude\\hooks\\falar.ps1\" -tipo fim",
+            "timeout": 15
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\Users\\PICHAU\\.claude\\hooks\\falar.ps1\" -tipo aviso",
+            "timeout": 15
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/PICHAU/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/PICHAU/.claude/hooks/atividade.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  },
+  "enabledPlugins": {
+    "document-skills@anthropic-agent-skills": true,
+    "example-skills@anthropic-agent-skills": true
+  },
+  "extraKnownMarketplaces": {
+    "anthropic-agent-skills": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/anthropics/skills.git"
+      }
+    },
+    "meus-mods": {
+      "source": {
+        "source": "github",
+        "repo": "Grupo-Chegou-Geral/central-de-projetos"
+      }
+    }
+  },
+  "autoUpdatesChannel": "latest",
+  "theme": "auto",
+  "agentPushNotifEnabled": true
+}

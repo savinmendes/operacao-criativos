@@ -1,0 +1,9 @@
+SB-PL-ADS-12.18 pronto (16/10/2026).
+Vídeo: SB-PL-ADS-12.18.mp4 — 33,1 s, 720x1280, 30 fps, 12,1 MB.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2 (whisper pl 1,00).
+HeyGen: 4 jobs lipsync speed (s1 0–5,6 / s2 5,6–10,53 / s7 CTA 26,63–33,13 + s1 reenviado recortado no rosto), sem reenvio por espera.
+QA: revisar_ad.py (whisper pl 1,00, sem proibidos, sem salto de pts, sem quadro solto, sem silêncio no fim) OK + revisor independente sem problema.
+Ressalvas:
+- Gancho 0–5,6 s: checar_lipsync REPROVADO pela métrica (rosto pequeno, só 5 quadros de pausa → cai na correlação 0,09–0,15); a olho a boca articula e quase fecha na pausa 1,2–1,5 s; boca do job recortado colada com elipse (sem emenda visível). Mesmo tipo de ressalva do IT (aviso 0,82).
+- CTA 26,6–33,1 s: aprovado (pausa 0,59), SEM o sorriso com dentes do IT: entrada montada só com trechos neutros do original, 3 jump cuts nas fronteiras de palavra (28,2 / 30,37 / 31,67 s; o de 31,67 é o mais visível, leve) + vai-e-volta curto.
+- Cena 1 desacelerada 0,905x; seta do CTA vermelha (igual ES/EN/IT).

@@ -1,0 +1,134 @@
+[
+ {
+  "texto": "14MILLIONSOLDWORLDWIDE",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   296,
+   23,
+   704,
+   49
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "H2O X5",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   38,
+   131,
+   281,
+   188
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "5-IN-1STEAMCLEANER",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   42,
+   204,
+   357,
+   231
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "FLOORCLEANER",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   102,
+   274,
+   290,
+   300
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "CARPETCLEANER",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   102,
+   338,
+   298,
+   364
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "GARMENTSTEAMER",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   103,
+   404,
+   325,
+   427
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "★★★★★",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   514,
+   640,
+   694,
+   673
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "SHOPNOW",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   54,
+   661,
+   171,
+   687
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "(3026+Reviews)",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   511,
+   675,
+   700,
+   704
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "HANDHELDSTEAMER",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   100,
+   463,
+   341,
+   491
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "GLASSCLEANER",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   100,
+   525,
+   282,
+   554
+  ],
+  "marca_ou_alerta": false
+ }
+]

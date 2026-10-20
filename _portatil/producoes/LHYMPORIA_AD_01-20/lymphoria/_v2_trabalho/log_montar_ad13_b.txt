@@ -1,0 +1,31 @@
+  trecho flora/t1_final.mp4 -> REFEITO
+  trecho flora/t2_final.mp4 -> REFEITO
+  trecho flora/t3_final.mp4 -> igual ao entregue
+  trecho flora/t4_final.mp4 -> REFEITO
+  trecho flora/t5_final.mp4 -> REFEITO
+>> substituir_trechos.py base.mp4 v2b_b1.mp4 trechos_v2b.json
+t1_final_b.mp4: 162 quadros a partir de 329.433s
+t2_final_b.mp4: 92 quadros a partir de 435.133s
+t3_final.mp4: 118 quadros a partir de 438.2s
+t4_final_b.mp4: 122 quadros a partir de 585.533s
+t5_final_b.mp4: 92 quadros a partir de 635.933s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad13\v2b_b1.mp4 | 20226 quadros, 586 trocados
+>> desfocar_regioes.py v2b_b1.mp4 v2b_b2.mp4 --de 589.6
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad13\v2b_b2.mp4 | 111 quadros desfocados
+>> trocar_texto_tela.py v2b_b2.mp4 v2b_b3.mp4 --de 241.3
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad13\v2b_b3.mp4 | 67 quadros com texto trocado
+>> trocar_texto_tela.py v2b_b3.mp4 v2b_b4.mp4 --de 436.5
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad13\v2b_b4.mp4 | 151 quadros com texto trocado
+>> trocar_texto_tela.py v2b_b4.mp4 v2b_b5.mp4 --de 583.5
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad13\v2b_b5.mp4 | 91 quadros com texto trocado
+>> -v error -y -i v2b_b5.mp4
+>> montar_ad.py receita_final_v2b.json
+aviso: 11.6 min não cabe em 30 MB com qualidade; usando 900 kbps (~87 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 13 - LYMPHORIA-HERMANO-ES-LATAM v2.mp4
+duração : 694.50s | 720x1280 | áudio: sim | 85.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 13 - LYMPHORIA-HERMANO-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 691.45s
+montagem rápida: 165s para 694s de vídeo (0.24x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 13 - LYMPHORIA-HERMANO-ES-LATAM v2.mp4

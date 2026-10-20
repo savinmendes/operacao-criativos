@@ -1,0 +1,56 @@
+REVISÃO: AD 04 - ORACION-ENVIDIA-ES-LATAM.mp4
+duração 83.10s | 720x1280 | 30/1 fps | áudio: sim | 26.4 MB
+decodificação: OK
+pts do áudio: 3897 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 82.36-83.10
+cortes de cena: 12 | pares a <0,3 s: 9.67/9.77
+setas (vermelho) no fim: y 1129-1194, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\revisao\loteB\revisar\AD 04 - ORACION-ENVIDIA-ES-LATAM_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.40 Señor, bendice a la persona que está viendo este video ahora. Te pido que le des la paz
+   5.40-  9.88 que pidió en oración, porque tiene fe y va a escuchar hasta el final.
+   9.88- 15.84 Hijo, yo soy la desatadora de nudos, tu madre del cielo, y vine a revelarte algo importante.
+  15.84- 20.96 Hay alguien cerca de ti que por pura envidia ató un nudo en tu vida. Ese nudo está
+  20.96- 25.76 apagando tu alegría. Por eso sientes que tus esfuerzos se escapan de tus manos,
+  25.76- 32.80 arena. Por eso trabajas de sol a sol, haces todo bien. Pero tu corazón sigue cansado y tus caminos
+  32.80- 39.52 siguen cerrados. Me fue revelado cuál fue la atadura. Alguien te miró con envidia y lanzó palabras
+  39.52- 46.72 escondidas sobre tu vida. Pero calma tu corazón, porque tu madre del cielo ya está actuando y
+  46.72- 52.76 te trajo hasta este video. Cuando el mal es revelado, pierde su fuerza. La semana pasada,
+  52.76- 58.44 un hombre que vivía un momento muy difícil hizo esta oración conmigo. El nudo se desató,
+  58.44- 64.58 y él sintió una paz y una esperanza que no sentía hacía mucho tiempo. Su corazón volvió
+  64.58- 70.96 a descansar. Ahora es tu turno. Te pido sólo una cosa con todo mi amor. Toca el botón de
+  70.96- 76.44 abajo para recibir la oración de 9 palabras que desata ese nudo. Te la voy a enseñar gratis.
+  76.44- 82.08 No dejes pasar este momento. Toca el botón de abajo y recibe la oración que preparé para
+  82.08- 82.38 a ti.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  4.00    Senhor, vende-se à pessoa que está vendo este vídeo agora.
+   4.00-  9.78    Te pido que lhe dê a paz que pediu em oração, porque tem fé e vai ouvir até o final.
+   9.78- 15.78    Meu filho, eu sou a desatadora de novos, sua mãe do céu, e vim te revelar algo importante.
+  15.78- 20.14    Há alguém perto de você que por pura envidia atou um novo em sua vida.
+  20.14- 22.38    Esse novo está apagando sua alegria.
+  22.38- 26.42    Por isso sentes que seus esforços se escapam de suas mãos, como arena.
+  26.42- 29.92    Por isso trabalhas de sol a sol, faz tudo bem.
+  29.92- 34.34    mas seu coração continua cansado e seus caminhos seguem cerrados.
+  34.34- 36.76    Me foi revelado qual foi a atadura.
+  36.76- 42.24    Alguém te olhou com a envidia e lançou palavras escondidas sobre sua vida.
+  42.24- 48.74    Mas calma seu coração, porque sua mãe do céu já está actuando e te trouxe até esse vídeo,
+  48.74- 51.68    quando o mal é revelado, perde sua força.
+  51.68- 57.24    A semana passada, um homem que vivia um momento muito difícil fez essa oração comigo.
+  57.24- 63.54    O nuvo se desatou e ele sentiu uma paz e uma esperança que não sentia há muito tempo.
+  63.54- 66.18    Seu coração voltou a descansar.
+  66.18- 67.68    Agora é seu turno.
+  67.68- 70.08    Te pido apenas uma coisa com todo meu amor.
+  70.08- 75.04    Toca o botão de baixo para receber a oração de 9 palavras que desata esse nuvo.
+  75.04- 76.84    Te vou ensinar gratis.
+  76.84- 78.80    Não deixe passar esse momento.
+  78.80- 83.04    Toca o botão de baixo e recebe a oração que preparei para você.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 9.67s e 9.77s (100 ms)
+1 problema(s)

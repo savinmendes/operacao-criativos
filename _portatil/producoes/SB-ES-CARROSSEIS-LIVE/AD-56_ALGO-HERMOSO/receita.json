@@ -1,0 +1,18 @@
+{
+ "saida": ".",
+ "slides": [
+  {
+   "img": "_geradas/D1_ZMN6V4tr.png", "modo": "topo", "alt_img": 1000, "cx": 0.53, "fade": 170, "fundo": [38, 30, 15],
+   "blocos": [
+    {"texto": "ALGO HERMOSO VA A PASAR EN TU VIDA",
+     "caixa": [60, 600, 1020, 820], "tamanho": 84, "cor": [255, 214, 60], "entrelinha": 1.12},
+    {"texto": "Te paso la bendición de San Benito. Pásala a quien quieras bien, no la guardes solo para ti.",
+     "caixa": [70, 845, 640, 1060], "tamanho": 40, "cor": [255, 255, 255], "alinhar": "esquerda", "equilibrar": false},
+    {"texto": "DI «AMÉN» Y ÚNETE AHORA A LA ORACIÓN DE SAN BENITO EN VIVO: TOCA EN «MÁS INFORMACIÓN» ↓",
+     "caixa": [70, 1085, 1010, 1205], "tamanho": 36, "cor": [255, 214, 60]}
+   ],
+   "seta_cta": [1290, [691, 907]],
+   "seta_tam": 32
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+REVISÃO: DW7781_G1_C1.mp4
+duração 48.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.3 MB
+decodificação: OK
+pts do áudio: 2261 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: 8.27/8.30
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G1_C1_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.30 buscas un taladro bueno, bonito y barato
+   2.30-  4.80 mire a todo lo que trae este kit de Waltz
+   4.80-  8.20 viene en su maleta dura para llevarlo a cualquier pega
+   8.20- 12.00 adentro el taladro percutor y atornillador
+  12.00- 13.70 2 baterías de 20 volts
+  13.70- 17.00 de 2 amperes hora y su cargador
+  17.00- 21.00 mandril de 13 milímetros de ajuste rápido
+  21.00- 23.30 con el anillo eliges el modo
+  23.30- 26.50 taladro para madera y metal
+  26.50- 28.50 percutor para muro y concreto
+  28.50- 31.94 y atornillador, con 15 posiciones de torque
+  32.74- 36.24 2 velocidades hasta 1750 revoluciones por minuto
+  36.90- 38.30 y luz, led
+  38.78- 40.46 para ver bien donde trabajas
+  40.94- 42.62 todo esto, no solo kit
+  43.06- 46.10 pre black friday, pídelo hoy y pagas recién cuando te llegue
+  46.10- 47.30 envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 8.27s e 8.30s (33 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

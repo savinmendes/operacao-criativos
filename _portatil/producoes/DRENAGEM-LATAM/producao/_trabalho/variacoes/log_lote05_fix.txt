@@ -1,0 +1,22 @@
+[23:53] [1/10] VAR 11 G1 x AD05
+ok VAR 11 G1 x AD05 | gancho 8.50s (6 tomadas) | total 286.3s | VAR 11 - G1-ESPOSO-AMIGA x AD05.mp4
+[23:54] [2/10] VAR 12 G2 x AD05
+ok VAR 12 G2 x AD05 | gancho 8.93s (6 tomadas) | total 286.8s | VAR 12 - G2-MUJER-28 x AD05.mp4
+[23:54] [3/10] VAR 13 G3 x AD05
+ok VAR 13 G3 x AD05 | gancho 10.37s (7 tomadas) | total 288.2s | VAR 13 - G3-EXESPOSO-FILA x AD05.mp4
+[23:55] [4/10] VAR 14 G4 x AD05
+ok VAR 14 G4 x AD05 | gancho 6.40s (5 tomadas) | total 284.2s | VAR 14 - G4-NO-ES-PESO-ES-LODO x AD05.mp4
+[23:55] [5/10] VAR 15 G5 x AD05
+ok VAR 15 G5 x AD05 | gancho 7.87s (6 tomadas) | total 285.7s | VAR 15 - G5-CARRITO x AD05.mp4
+[23:56] [6/10] VAR 16 G6 x AD05
+ok VAR 16 G6 x AD05 | gancho 6.70s (5 tomadas) | total 284.5s | VAR 16 - G6-DISCULPA x AD05.mp4
+[23:56] [7/10] VAR 17 G7 x AD05
+ok VAR 17 G7 x AD05 | gancho 8.53s (6 tomadas) | total 286.4s | VAR 17 - G7-COPIAS x AD05.mp4
+[23:57] [8/10] VAR 18 G8 x AD05
+ok VAR 18 G8 x AD05 | gancho 7.93s (6 tomadas) | total 285.8s | VAR 18 - G8-POR-QUE-NOS-HINCHAMOS x AD05.mp4
+[23:57] [9/10] VAR 19 G9 x AD05
+ok VAR 19 G9 x AD05 | gancho 7.70s (5 tomadas) | total 285.5s | VAR 19 - G9-PAGAS-AL-RECIBIR x AD05.mp4
+[23:58] [10/10] VAR 20 G10 x AD05
+ok VAR 20 G10 x AD05 | gancho 5.33s (4 tomadas) | total 283.2s | VAR 20 - G10-PANCITA-NO-ES-GRASA x AD05.mp4
+LOTE_OK 05
+LOTE_FIM

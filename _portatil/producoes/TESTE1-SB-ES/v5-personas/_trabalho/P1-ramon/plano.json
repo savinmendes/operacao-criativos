@@ -1,0 +1,239 @@
+{
+ "segmentos": [
+  {
+   "id": "AB",
+   "video": "takes/abertura.mp4",
+   "ss": 0,
+   "dur": 10.75,
+   "audio": [
+    {
+     "arq": "audio/R00f.wav",
+     "lufs": -15
+    },
+    {
+     "arq": "audio/briga_audio.wav",
+     "lufs": -16,
+     "env": [
+      [
+       0,
+       -6
+      ],
+      [
+       4.45,
+       -6
+      ],
+      [
+       4.75,
+       0
+      ],
+      [
+       99,
+       0
+      ]
+     ],
+     "fade_ms": 40
+    }
+   ],
+   "falas": [
+    {
+     "id": "R00",
+     "json": "audio/R00f.json",
+     "quem": "REPORTERA (en PiP)",
+     "texto": "Imágenes impactantes: un taxista fue humillado por un pasajero… por su fe."
+    },
+    {
+     "id": "PAS",
+     "json": "audio/PAS_out.json",
+     "quem": "PASAJERO",
+     "texto": "¿Rezas en el taxi? ¡Pídale a tu Dios que te pague!"
+    },
+    {
+     "id": "RAMB",
+     "json": "audio/RAMB_out.json",
+     "quem": "DON RAMÓN",
+     "texto": "Señor, yo solo hice mi trabajo. Por favor, no me trate así."
+    }
+   ]
+  },
+  {
+   "id": "MAOS",
+   "video": "takes/k_maos.mp4",
+   "ss": 0.8,
+   "dur": 2.4,
+   "cx": 0.35,
+   "sem_fala": "Ramón junta el rosario de la cuneta (música triste)"
+  },
+  {
+   "id": "VAZIO",
+   "video": "takes/k_vazio.mp4",
+   "ss": 0.6,
+   "dur": 1.9,
+   "cx": 0.6,
+   "sem_fala": "taxi parado, Ramón solo en la vereda"
+  },
+  {
+   "id": "DOIS",
+   "video": "takes/k_dois.mp4",
+   "ss": 0.2,
+   "dur": 1.8,
+   "sem_fala": "dos personas llaman el taxi (música de esperanza)"
+  },
+  {
+   "id": "FILA",
+   "video": "takes/k_fila.mp4",
+   "ss": 0.3,
+   "dur": 2.2,
+   "cx": 0.27,
+   "sem_fala": "fila de pasajeros esperando el taxi"
+  },
+  {
+   "id": "R01",
+   "video": "takes/hg_R01.mp4",
+   "ss": 0,
+   "dur": 4.04,
+   "audio": [
+    {
+     "arq": "audio/R01.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "R01",
+     "json": "audio/R01.json",
+     "quem": "REPORTERA",
+     "texto": "Al día siguiente, el taxi de don Ramón no paró ni un minuto."
+    }
+   ]
+  },
+  {
+   "id": "RA1",
+   "video": "takes/hg_RA1.mp4",
+   "ss": 0,
+   "dur": 8.745,
+   "frases": true,
+   "audio": [
+    {
+     "arq": "audio/RA1.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "RA1",
+     "json": "audio/RA1.json",
+     "quem": "DON RAMÓN",
+     "texto": "Esa noche me quedé dentro del taxi, sin ganas de volver a casa. Llevaba semanas haciendo dos carreras por día… no alcanzaba ni para la gasolina."
+    }
+   ]
+  },
+  {
+   "id": "RA2",
+   "video": "takes/hg_RA2.mp4",
+   "ss": 0,
+   "dur": 10.284,
+   "frases": true,
+   "audio": [
+    {
+     "arq": "audio/RA2.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "RA2",
+     "json": "audio/RA2.json",
+     "quem": "DON RAMÓN",
+     "texto": "Mi hija me mandó la transmisión del padre Juan Méndez. La hice ahí mismo, en el taxi, como él enseña. Al otro día, el teléfono empezó a sonar a las seis de la mañana."
+    }
+   ]
+  },
+  {
+   "id": "PEDa",
+   "video": "takes/hg_PEDa.mp4",
+   "ss": 0,
+   "dur": 11.88,
+   "frases": true,
+   "audio": [
+    {
+     "arq": "audio/PEDa.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "PEDa",
+     "json": "audio/PEDa.json",
+     "quem": "DON RAMÓN",
+     "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche. Es que, igual que yo, lo estabas pidiendo de la forma equivocada."
+    }
+   ]
+  },
+  {
+   "id": "PEDb",
+   "video": "takes/hg_PEDb.mp4",
+   "ss": 0,
+   "dur": 10.512,
+   "frases": true,
+   "audio": [
+    {
+     "arq": "audio/PEDb.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "PEDb",
+     "json": "audio/PEDb.json",
+     "quem": "DON RAMÓN",
+     "texto": "El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito… y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?"
+    }
+   ]
+  },
+  {
+   "id": "CTA",
+   "video": "takes/hg_CTA.mp4",
+   "ss": 0,
+   "dur": 6.22,
+   "audio": [
+    {
+     "arq": "audio/CTA.wav"
+    }
+   ],
+   "falas": [
+    {
+     "id": "CTA",
+     "json": "audio/CTA.json",
+     "quem": "REPORTERA",
+     "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+    }
+   ]
+  }
+ ],
+ "trilhas": [
+  {
+   "arq": "audio/triste_1.mp3",
+   "de": 10.6,
+   "ate": 15.65,
+   "lufs": -19,
+   "fi": 0.3,
+   "fo": 0.7
+  },
+  {
+   "arq": "audio/esperanca_1.mp3",
+   "de": 14.950000000000001,
+   "ate": 20.25,
+   "lufs": -20,
+   "fi": 0.6,
+   "fo": 1.2
+  },
+  {
+   "arq": "audio/rua.mp3",
+   "de": 19.05,
+   "ate": 70.731,
+   "lufs": -33,
+   "fi": 0.8,
+   "fo": 0.5,
+   "loop": true
+  }
+ ],
+ "titulo": [
+  0.0,
+  3.0
+ ]
+}

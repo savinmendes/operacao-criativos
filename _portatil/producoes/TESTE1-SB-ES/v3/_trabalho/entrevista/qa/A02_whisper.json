@@ -1,0 +1,98 @@
+{
+"id": "A02",
+"take": "take_A02_aurelio.mp4",
+"res": "720x900",
+"fps": 25.0,
+"quadros": 161,
+"dur_video": 6.44,
+"dur_audio": 6.407,
+"dur_audio_enviado": 6.407,
+"whisper": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+"diferencas": [],
+"palavras_whisper": [
+{
+"w": "Al",
+"ini": 0.0,
+"fim": 0.18,
+"p": 0.91
+},
+{
+"w": "día",
+"ini": 0.18,
+"fim": 0.4,
+"p": 1.0
+},
+{
+"w": "siguiente,",
+"ini": 0.4,
+"fim": 0.98,
+"p": 1.0
+},
+{
+"w": "a",
+"ini": 1.38,
+"fim": 1.48,
+"p": 0.98
+},
+{
+"w": "mi",
+"ini": 1.48,
+"fim": 1.62,
+"p": 0.99
+},
+{
+"w": "carrito",
+"ini": 1.62,
+"fim": 2.16,
+"p": 0.82
+},
+{
+"w": "empezaron",
+"ini": 2.16,
+"fim": 2.9,
+"p": 0.97
+},
+{
+"w": "a",
+"ini": 2.9,
+"fim": 3.02,
+"p": 1.0
+},
+{
+"w": "llover",
+"ini": 3.02,
+"fim": 3.4,
+"p": 0.99
+},
+{
+"w": "clientes.",
+"ini": 3.4,
+"fim": 4.22,
+"p": 0.99
+},
+{
+"w": "No",
+"ini": 4.44,
+"fim": 4.76,
+"p": 0.97
+},
+{
+"w": "lo",
+"ini": 4.76,
+"fim": 4.94,
+"p": 0.99
+},
+{
+"w": "podía",
+"ini": 4.94,
+"fim": 5.42,
+"p": 0.97
+},
+{
+"w": "creer.",
+"ini": 5.42,
+"fim": 6.12,
+"p": 1.0
+}
+]
+}

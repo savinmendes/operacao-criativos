@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\AD 01 CURTO - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "parte2.mp4",
+ "hook": {
+  "tipo": "antes",
+  "video": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ad01\\parte1_curto.mp4"
+ },
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ad01\\narr_fim_curto.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "miel",
+   "gratis",
+   "recibir",
+   "noventa"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "ENVÍO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1225,
+  "desde": 71.82
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

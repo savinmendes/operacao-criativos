@@ -1,0 +1,49 @@
+{
+  "ad": "21",
+  "idioma": "pt",
+  "origem": "TikTok @torktools (loja de ferramentas BR - Tork Tools, marca d'agua 'Tork'); legenda do post cita DCD778",
+  "url": "https://www.tiktok.com/@torktools/video/7294691244855414022",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 58.3,
+  "cortes": 4,
+  "ritmo": "lento, 4 cenas longas com camera em movimento continuo",
+  "formato": "demo de produto / apresentacao de kit (loja) com narracao + legenda",
+  "gancho": {
+    "visual": "caixa amarela do kit DeWalt 20V em close no deposito, camera passeando",
+    "texto_tela": "legenda: 'se voce busca versatilidade'",
+    "fala_0_3s": "Se você busca versatilidade, potência e mobilidade em suas tarefas de perfuração e parafusamento,"
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-11s",
+      "conteudo": "caixa do kit, maleta preta, abre: furadeira + 2 baterias + carregador"
+    },
+    {
+      "tempo": "11-37s",
+      "conteudo": "furadeira girando no deposito: mandril, torque, 65 Nm, brushless; maos femininas manuseando"
+    },
+    {
+      "tempo": "37-41s",
+      "conteudo": "LED aceso"
+    },
+    {
+      "tempo": "41-58s",
+      "conteudo": "maleta + carregador + furadeira em pe com bateria - 'resultados precisos'"
+    }
+  ],
+  "cta": "sem CTA de compra; fecho falado 'Invista na qualidade da DeWalt e tenha em mãos uma ferramenta que vai facilitar seu trabalho e garantir resultados precisos'",
+  "texto_na_tela": "legenda queimada branca frase a frase (PT); logo Tork no canto",
+  "produto": "DCD7781D2 (legivel na legenda 'DCD7781D2 da Dewalt'; caixa amarela 20V brushless) - kit furadeira de impacto 20V + 2 baterias + carregador + maleta. Mesma familia/kit do nosso DCD7771 (versao com percussao)",
+  "e_nosso_produto": "quase: mesmo kit e visual, versao percussao (7781 x 7771)",
+  "rosto": "nao (so maos femininas)",
+  "marca_dagua": "logo 'Tork' semitransparente no canto direito o video todo",
+  "audio": "narracao feminina PT-BR + trilha",
+  "transcricao": "Se você busca versatilidade, potência e mobilidade em suas tarefas de perfuração e parafusamento, a furadeira e parafusadeira DCD7781D2 da Dualt é a escolha perfeita. Com a função de parafusadeira, você pode controlar o torque de aperto para evitar danos aos materiais e garantir que seus parafusos estejam bem fixados. O mandril de aperto rápido permite a troca fácil de brocas e pontas de parafusamento, economizando tempo em suas tarefas. Equipada com motor potente, torque de 65.000 m e tecnologia Brushless, a DCD7781D2 proporciona a força necessária para perfurar em diversos materiais, com madeira, metal e concreta. Além disso, seu mecanismo de duas velocidades permite ajustar a potência de acordo com a tarefa em mãos. Invista na qualidade da Dualt e tenha em mãos uma ferramenta que vai facilitar seu trabalho e garantir resultados precisos.",
+  "uso": [
+    "banco de takes",
+    "traduzir/adaptar"
+  ],
+  "nota_cod_chile": 4,
+  "justificativa": "Mostra exatamente o tipo de kit que vendemos (caixa, maleta, 2 baterias, carregador), sem rosto, takes limpos e iluminados. Precisa remover logo Tork e legenda PT; roteiro de specs (65 Nm, brushless, torque) adapta para ES. Ritmo lento - recortar. Conferir se o colar/percussao do 7781 nao contradiz o 7771 na fala.",
+  "obs_transcricao": "whisper escreveu 'Dualt' e '65.000 m' = DeWalt e 65 Nm; fala cita 2 velocidades, madeira/metal/concreto"
+}

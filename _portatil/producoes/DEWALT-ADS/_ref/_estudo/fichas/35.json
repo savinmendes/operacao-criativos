@@ -1,0 +1,65 @@
+{
+ "idioma": "pt-BR (whisper 1.0)",
+ "origem": {
+  "perfil": "@teves485 (TikTok Shop)",
+  "tipo": "afiliado; apresentadora aparenta ser gerada por IA (pele/expressões muito lisas, texto da bateria deformado)"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 27.4,
+ "cortes": {
+  "n": 6,
+  "tempos_s": [
+   2.9,
+   5.2,
+   7.8,
+   15.3,
+   22.2,
+   27.3
+  ],
+  "ritmo": "médio (~4 s por plano), alterna close no produto e apresentadora"
+ },
+ "formato": "talking head apresentadora (provável avatar IA) em loja DeWalt + closes de produto",
+ "gancho": {
+  "visual": "mulher sorrindo com camisa DeWalt segurando furadeira, fundo de loja DeWalt",
+  "fala": "'Olha essa DeWalt. Potência, qualidade e desempenho profissional para qualquer [serviço].'",
+  "texto_tela": "nenhum"
+ },
+ "corpo": [
+  {
+   "t": "0-3",
+   "bloco": "apresentadora"
+  },
+  {
+   "t": "3-5",
+   "bloco": "close logo DeWalt"
+  },
+  {
+   "t": "5-8",
+   "bloco": "estende a furadeira para a câmera"
+  },
+  {
+   "t": "8-27",
+   "bloco": "fala com closes alternados da ferramenta"
+  }
+ ],
+ "cta": "'Clica no link e adquire o seu.'",
+ "texto_tela": "nenhum",
+ "produto": {
+  "modelo": "furadeira DeWalt 20V compacta; modelo não legível (texto da bateria deformado, provável IA)",
+  "nosso_produto": "não confirmado"
+ },
+ "rosto": {
+  "sim": true,
+  "tempo": "~75%"
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "voz feminina (fluida, compatível com avatar IA)",
+ "uso": "só referência de formato",
+ "uso_motivo": "mostra que 'vendedora' IA roda; para nós seria avatar HeyGen + takes do banco. Não reaproveitar (produto deformado; uniforme/loja DeWalt sugere representante oficial)",
+ "nota": 2,
+ "nota_just": "formato replicável com avatar, mas risco de parecer canal oficial DeWalt.",
+ "ad": "35",
+ "fala_resumo": "roteiro: fura madeira, metal e alvenaria; força de verdade na mão; acabamento reforçado; feita para durar; controle de velocidade",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\35.json",
+ "n_segmentos_fala": 7
+}

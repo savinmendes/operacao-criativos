@@ -1,0 +1,737 @@
+[
+ {
+  "id": "L084",
+  "cena": "padre_medio",
+  "q0": 23108,
+  "q1": 23357,
+  "N": 249,
+  "NP": 249,
+  "quadros_in": 249,
+  "crop": null
+ },
+ {
+  "id": "L085",
+  "cena": "padre_medio",
+  "q0": 23357,
+  "q1": 23665,
+  "N": 308,
+  "NP": 308,
+  "quadros_in": 308,
+  "crop": null
+ },
+ {
+  "id": "L086",
+  "cena": "padre_medio",
+  "q0": 23665,
+  "q1": 23867,
+  "N": 202,
+  "NP": 202,
+  "quadros_in": 202,
+  "crop": null
+ },
+ {
+  "id": "L087",
+  "cena": "padre_medio",
+  "q0": 23867,
+  "q1": 24142,
+  "N": 275,
+  "NP": 275,
+  "quadros_in": 275,
+  "crop": null
+ },
+ {
+  "id": "L088",
+  "cena": "padre_medio",
+  "q0": 24142,
+  "q1": 24487,
+  "N": 345,
+  "NP": 345,
+  "quadros_in": 345,
+  "crop": null
+ },
+ {
+  "id": "L089",
+  "cena": "padre_medio",
+  "q0": 24487,
+  "q1": 24779,
+  "N": 292,
+  "NP": 292,
+  "quadros_in": 292,
+  "crop": null
+ },
+ {
+  "id": "L090",
+  "cena": "padre_medio",
+  "q0": 24779,
+  "q1": 25132,
+  "N": 353,
+  "NP": 353,
+  "quadros_in": 353,
+  "crop": null
+ },
+ {
+  "id": "L091",
+  "cena": "padre_pulpito",
+  "q0": 25132,
+  "q1": 25309,
+  "N": 177,
+  "NP": 177,
+  "quadros_in": 177,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L092",
+  "cena": "padre_medio",
+  "q0": 25309,
+  "q1": 25597,
+  "N": 288,
+  "NP": 288,
+  "quadros_in": 288,
+  "crop": null
+ },
+ {
+  "id": "L093",
+  "cena": "padre_medio",
+  "q0": 25597,
+  "q1": 25941,
+  "N": 344,
+  "NP": 344,
+  "quadros_in": 344,
+  "crop": null
+ },
+ {
+  "id": "L094",
+  "cena": "padre_medio",
+  "q0": 25941,
+  "q1": 26204,
+  "N": 263,
+  "NP": 263,
+  "quadros_in": 263,
+  "crop": null
+ },
+ {
+  "id": "L095",
+  "cena": "padre_medio",
+  "q0": 26204,
+  "q1": 26420,
+  "N": 216,
+  "NP": 216,
+  "quadros_in": 216,
+  "crop": null
+ },
+ {
+  "id": "L096",
+  "cena": "padre_medio",
+  "q0": 26420,
+  "q1": 26724,
+  "N": 304,
+  "NP": 304,
+  "quadros_in": 304,
+  "crop": null
+ },
+ {
+  "id": "L097",
+  "cena": "padre_medio",
+  "q0": 26724,
+  "q1": 26863,
+  "N": 139,
+  "NP": 139,
+  "quadros_in": 139,
+  "crop": null
+ },
+ {
+  "id": "L098",
+  "cena": "padre_medio",
+  "q0": 26863,
+  "q1": 27061,
+  "N": 198,
+  "NP": 198,
+  "quadros_in": 198,
+  "crop": null
+ },
+ {
+  "id": "L099",
+  "cena": "padre_medio",
+  "q0": 27061,
+  "q1": 27399,
+  "N": 338,
+  "NP": 338,
+  "quadros_in": 338,
+  "crop": null
+ },
+ {
+  "id": "L100",
+  "cena": "padre_medio",
+  "q0": 27399,
+  "q1": 27727,
+  "N": 328,
+  "NP": 328,
+  "quadros_in": 328,
+  "crop": null
+ },
+ {
+  "id": "L101",
+  "cena": "padre_medio",
+  "q0": 27727,
+  "q1": 28001,
+  "N": 274,
+  "NP": 274,
+  "quadros_in": 274,
+  "crop": null
+ },
+ {
+  "id": "L102",
+  "cena": "padre_medio",
+  "q0": 28001,
+  "q1": 28156,
+  "N": 155,
+  "NP": 155,
+  "quadros_in": 155,
+  "crop": null
+ },
+ {
+  "id": "L103",
+  "cena": "padre_pulpito",
+  "q0": 28156,
+  "q1": 28333,
+  "N": 177,
+  "NP": 177,
+  "quadros_in": 177,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L104",
+  "cena": "padre_medio",
+  "q0": 28333,
+  "q1": 28635,
+  "N": 302,
+  "NP": 302,
+  "quadros_in": 302,
+  "crop": null
+ },
+ {
+  "id": "L105",
+  "cena": "padre_medio",
+  "q0": 28635,
+  "q1": 28926,
+  "N": 291,
+  "NP": 291,
+  "quadros_in": 291,
+  "crop": null
+ },
+ {
+  "id": "L106",
+  "cena": "padre_medio",
+  "q0": 28926,
+  "q1": 29240,
+  "N": 314,
+  "NP": 314,
+  "quadros_in": 314,
+  "crop": null
+ },
+ {
+  "id": "L107",
+  "cena": "padre_medio",
+  "q0": 29240,
+  "q1": 29354,
+  "N": 114,
+  "NP": 114,
+  "quadros_in": 114,
+  "crop": null
+ },
+ {
+  "id": "L108",
+  "cena": "padre_medio",
+  "q0": 29354,
+  "q1": 29634,
+  "N": 280,
+  "NP": 280,
+  "quadros_in": 280,
+  "crop": null
+ },
+ {
+  "id": "L109",
+  "cena": "padre_medio",
+  "q0": 29634,
+  "q1": 29990,
+  "N": 356,
+  "NP": 356,
+  "quadros_in": 356,
+  "crop": null
+ },
+ {
+  "id": "L110",
+  "cena": "padre_pulpito",
+  "q0": 29990,
+  "q1": 30167,
+  "N": 177,
+  "NP": 177,
+  "quadros_in": 177,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L111",
+  "cena": "padre_medio",
+  "q0": 30167,
+  "q1": 30329,
+  "N": 162,
+  "NP": 162,
+  "quadros_in": 162,
+  "crop": null
+ },
+ {
+  "id": "L112",
+  "cena": "padre_medio",
+  "q0": 30329,
+  "q1": 30626,
+  "N": 297,
+  "NP": 297,
+  "quadros_in": 297,
+  "crop": null
+ },
+ {
+  "id": "L113",
+  "cena": "padre_medio",
+  "q0": 30626,
+  "q1": 30919,
+  "N": 293,
+  "NP": 293,
+  "quadros_in": 293,
+  "crop": null
+ },
+ {
+  "id": "L114",
+  "cena": "padre_medio",
+  "q0": 30919,
+  "q1": 31190,
+  "N": 271,
+  "NP": 271,
+  "quadros_in": 271,
+  "crop": null
+ },
+ {
+  "id": "L115",
+  "cena": "padre_medio",
+  "q0": 31190,
+  "q1": 31447,
+  "N": 257,
+  "NP": 257,
+  "quadros_in": 257,
+  "crop": null
+ },
+ {
+  "id": "L116",
+  "cena": "padre_medio",
+  "q0": 31447,
+  "q1": 31774,
+  "N": 327,
+  "NP": 327,
+  "quadros_in": 327,
+  "crop": null
+ },
+ {
+  "id": "L117",
+  "cena": "padre_medio",
+  "q0": 31774,
+  "q1": 31994,
+  "N": 220,
+  "NP": 220,
+  "quadros_in": 220,
+  "crop": null
+ },
+ {
+  "id": "L118",
+  "cena": "padre_medio",
+  "q0": 31994,
+  "q1": 32273,
+  "N": 279,
+  "NP": 279,
+  "quadros_in": 279,
+  "crop": null
+ },
+ {
+  "id": "L119",
+  "cena": "padre_pulpito",
+  "q0": 32273,
+  "q1": 32447,
+  "N": 174,
+  "NP": 174,
+  "quadros_in": 174,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L120",
+  "cena": "padre_medio",
+  "q0": 32447,
+  "q1": 32538,
+  "N": 91,
+  "NP": 91,
+  "quadros_in": 91,
+  "crop": null
+ },
+ {
+  "id": "L121",
+  "cena": "padre_medio",
+  "q0": 32538,
+  "q1": 32824,
+  "N": 286,
+  "NP": 286,
+  "quadros_in": 286,
+  "crop": null
+ },
+ {
+  "id": "L122",
+  "cena": "padre_medio",
+  "q0": 32824,
+  "q1": 32920,
+  "N": 96,
+  "NP": 96,
+  "quadros_in": 96,
+  "crop": null
+ },
+ {
+  "id": "L123",
+  "cena": "padre_medio",
+  "q0": 32920,
+  "q1": 33252,
+  "N": 332,
+  "NP": 332,
+  "quadros_in": 332,
+  "crop": null
+ },
+ {
+  "id": "L124",
+  "cena": "padre_medio",
+  "q0": 33252,
+  "q1": 33567,
+  "N": 315,
+  "NP": 315,
+  "quadros_in": 315,
+  "crop": null
+ },
+ {
+  "id": "L125",
+  "cena": "padre_medio",
+  "q0": 33567,
+  "q1": 33635,
+  "N": 68,
+  "NP": 90,
+  "quadros_in": 90,
+  "crop": null
+ },
+ {
+  "id": "L126",
+  "cena": "padre_pulpito",
+  "q0": 33635,
+  "q1": 33809,
+  "N": 174,
+  "NP": 174,
+  "quadros_in": 174,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L127",
+  "cena": "padre_medio",
+  "q0": 33809,
+  "q1": 33943,
+  "N": 134,
+  "NP": 134,
+  "quadros_in": 134,
+  "crop": null
+ },
+ {
+  "id": "L128",
+  "cena": "padre_medio",
+  "q0": 33943,
+  "q1": 34132,
+  "N": 189,
+  "NP": 189,
+  "quadros_in": 189,
+  "crop": null
+ },
+ {
+  "id": "L129",
+  "cena": "padre_medio",
+  "q0": 34132,
+  "q1": 34350,
+  "N": 218,
+  "NP": 218,
+  "quadros_in": 218,
+  "crop": null
+ },
+ {
+  "id": "L130",
+  "cena": "padre_medio",
+  "q0": 34350,
+  "q1": 34567,
+  "N": 217,
+  "NP": 217,
+  "quadros_in": 217,
+  "crop": null
+ },
+ {
+  "id": "L131",
+  "cena": "padre_medio",
+  "q0": 34567,
+  "q1": 34875,
+  "N": 308,
+  "NP": 308,
+  "quadros_in": 308,
+  "crop": null
+ },
+ {
+  "id": "L132",
+  "cena": "padre_medio",
+  "q0": 34875,
+  "q1": 35142,
+  "N": 267,
+  "NP": 267,
+  "quadros_in": 267,
+  "crop": null
+ },
+ {
+  "id": "L133",
+  "cena": "padre_medio",
+  "q0": 35142,
+  "q1": 35379,
+  "N": 237,
+  "NP": 237,
+  "quadros_in": 237,
+  "crop": null
+ },
+ {
+  "id": "L134",
+  "cena": "padre_medio",
+  "q0": 35379,
+  "q1": 35601,
+  "N": 222,
+  "NP": 222,
+  "quadros_in": 222,
+  "crop": null
+ },
+ {
+  "id": "L135",
+  "cena": "padre_medio",
+  "q0": 35601,
+  "q1": 35917,
+  "N": 316,
+  "NP": 316,
+  "quadros_in": 316,
+  "crop": null
+ },
+ {
+  "id": "L136",
+  "cena": "padre_pulpito",
+  "q0": 35917,
+  "q1": 36091,
+  "N": 174,
+  "NP": 174,
+  "quadros_in": 174,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L137",
+  "cena": "padre_medio",
+  "q0": 36091,
+  "q1": 36420,
+  "N": 329,
+  "NP": 329,
+  "quadros_in": 329,
+  "crop": null
+ },
+ {
+  "id": "L138",
+  "cena": "padre_medio",
+  "q0": 36420,
+  "q1": 36558,
+  "N": 138,
+  "NP": 138,
+  "quadros_in": 138,
+  "crop": null
+ },
+ {
+  "id": "L139",
+  "cena": "padre_medio",
+  "q0": 36558,
+  "q1": 36867,
+  "N": 309,
+  "NP": 309,
+  "quadros_in": 309,
+  "crop": null
+ },
+ {
+  "id": "L140",
+  "cena": "padre_medio",
+  "q0": 36867,
+  "q1": 37183,
+  "N": 316,
+  "NP": 316,
+  "quadros_in": 316,
+  "crop": null
+ },
+ {
+  "id": "L141",
+  "cena": "padre_medio",
+  "q0": 37183,
+  "q1": 37540,
+  "N": 357,
+  "NP": 357,
+  "quadros_in": 357,
+  "crop": null
+ },
+ {
+  "id": "L142",
+  "cena": "padre_medio",
+  "q0": 37540,
+  "q1": 37846,
+  "N": 306,
+  "NP": 306,
+  "quadros_in": 306,
+  "crop": null
+ },
+ {
+  "id": "L143",
+  "cena": "padre_medio",
+  "q0": 37846,
+  "q1": 38140,
+  "N": 294,
+  "NP": 294,
+  "quadros_in": 294,
+  "crop": null
+ },
+ {
+  "id": "L144",
+  "cena": "padre_medio",
+  "q0": 38140,
+  "q1": 38237,
+  "N": 97,
+  "NP": 97,
+  "quadros_in": 97,
+  "crop": null
+ },
+ {
+  "id": "L145",
+  "cena": "padre_medio",
+  "q0": 38237,
+  "q1": 38527,
+  "N": 290,
+  "NP": 290,
+  "quadros_in": 290,
+  "crop": null
+ },
+ {
+  "id": "L146",
+  "cena": "padre_medio",
+  "q0": 38527,
+  "q1": 38722,
+  "N": 195,
+  "NP": 195,
+  "quadros_in": 195,
+  "crop": null
+ },
+ {
+  "id": "L147",
+  "cena": "padre_medio",
+  "q0": 38722,
+  "q1": 39017,
+  "N": 295,
+  "NP": 295,
+  "quadros_in": 295,
+  "crop": null
+ },
+ {
+  "id": "L148",
+  "cena": "padre_medio",
+  "q0": 39017,
+  "q1": 39352,
+  "N": 335,
+  "NP": 335,
+  "quadros_in": 335,
+  "crop": null
+ },
+ {
+  "id": "L149",
+  "cena": "padre_medio",
+  "q0": 39352,
+  "q1": 39642,
+  "N": 290,
+  "NP": 290,
+  "quadros_in": 290,
+  "crop": null
+ },
+ {
+  "id": "L150",
+  "cena": "padre_pulpito",
+  "q0": 39642,
+  "q1": 39816,
+  "N": 174,
+  "NP": 174,
+  "quadros_in": 174,
+  "crop": [
+   245,
+   10,
+   270,
+   360
+  ]
+ },
+ {
+  "id": "L151",
+  "cena": "padre_medio",
+  "q0": 39816,
+  "q1": 40125,
+  "N": 309,
+  "NP": 309,
+  "quadros_in": 309,
+  "crop": null
+ },
+ {
+  "id": "L152",
+  "cena": "padre_medio",
+  "q0": 40125,
+  "q1": 40327,
+  "N": 202,
+  "NP": 202,
+  "quadros_in": 202,
+  "crop": null
+ },
+ {
+  "id": "L153",
+  "cena": "padre_medio",
+  "q0": 40327,
+  "q1": 40677,
+  "N": 350,
+  "NP": 350,
+  "quadros_in": 350,
+  "crop": null
+ }
+]

@@ -1,0 +1,8 @@
+PENSION COMPLETA (14/10/2026) -> SB-REEL-MEDALLA-ES\SB-ES_PENSION_COMPLETA.mp4 (63,1 s)
+Flora (prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95), is2i-gpt-image-2-5-flare 9:16 high 2k:
+  retrato_triste.png run_m17aj1b50dnftn7jzwqzdpjsq18g858g US$0.122 · gancho_amplo.png run_m17bz7fxpnrkzcrwpp16fn9p358g94h5 US$0.13 · frustrado.png run_m17dzdn55x87hx75q2ag6gcwx98g8s7c US$0.13
+  gancho_amplo.mp4 n771 run_m17bmeqvg1mzj0t402wmpty7098g94vz US$0.294 · frustrado.mp4 n772 run_m1753h9njchcvqk7acr45yjspx8g894x US$0.294
+Voz Luisa efcRUax7uSa9kpBwtDPe: hook 90 + selfie 224 = 314 caracteres. Reza = trechos da reza.mp3 antiga.
+HeyGen: video 6babdc20271fb178b948e4089a77cbdd (audio selfie.mp3 a partir de 3,00 s), ficou ~13 min em pending.
+Gancho de 6,7 s (fala mais lenta): t_reza 6,85 / t_self 14,95; trilha_tensao.wav local de 16 s (gerar_trilha2.py).
+QA: takes a cada 0,2 s (_qa/), zoom no rosto, revisar_ad.py --idioma es OK (revisao/).

@@ -1,0 +1,58 @@
+{
+"arquivo": "vo_V07.wav",
+"whisper": "Pero no sé por cuánto tiempo va a estar disponible.",
+"palavras": [
+{
+"w": "Pero",
+"ini": 0.0,
+"fim": 0.36
+},
+{
+"w": "no",
+"ini": 0.36,
+"fim": 0.62
+},
+{
+"w": "sé",
+"ini": 0.62,
+"fim": 0.76
+},
+{
+"w": "por",
+"ini": 0.76,
+"fim": 1.04
+},
+{
+"w": "cuánto",
+"ini": 1.04,
+"fim": 1.4
+},
+{
+"w": "tiempo",
+"ini": 1.4,
+"fim": 1.62
+},
+{
+"w": "va",
+"ini": 1.62,
+"fim": 1.82
+},
+{
+"w": "a",
+"ini": 1.82,
+"fim": 1.96
+},
+{
+"w": "estar",
+"ini": 1.96,
+"fim": 2.12
+},
+{
+"w": "disponible.",
+"ini": 2.12,
+"fim": 2.74
+}
+],
+"ratio": 1.0,
+"dif": []
+}

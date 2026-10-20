@@ -1,0 +1,38 @@
+REVISÃO: SB-ES_HUMILLACION_P2-ROSA_FICTICIO.mp4
+duração 76.23s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.4 MB
+decodificação: OK
+pts do áudio: 3572 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 13 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\_trabalho\P2-rosa\qa\SB-ES_HUMILLACION_P2-ROSA_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  1.48 imágenes impactantes.
+   1.48-  4.80 Una costurera fue humillada por una clienta, por su fe.
+   4.80-  7.08 Y tu Dios no nos enseñó a coser.
+   7.08-  8.52 Llámalo a ver si te ayuda.
+   8.52- 10.80 Señora, yo lo hice con todo mi cariño.
+  10.80- 12.40 No me hable así, por favor.
+  21.76- 24.40 Al día siguiente, el taller de doña Rosa
+  24.40- 27.08 tenía encargos hasta el fin de mes.
+  27.08- 33.60 Esa noche lloré sobre la máquina de cocer, 30 años cosiendo y me sentí una inútil.
+  33.60- 37.44 Nico madre me mandó la transmisión del padre Juan Mendes.
+  37.44- 41.00 La hice esa misma noche, como él enseña.
+  41.00- 45.04 Al otro día, entraron tres clientas que yo ni conocía.
+  45.04- 50.80 Si tú también rezas y sientes que nadie te escucha y que las cosas solo empeoran,
+  50.80- 53.00 no es que Dios no te escuche.
+  53.00- 57.68 es que igual que yo lo estabas pidiendo de la forma equivocada.
+  57.68- 63.38 El padre Juan Mendes me enseñó la forma correcta de pedirle a San Benito y está haciendo
+  63.38- 65.78 la oración en vivo ahora mismo.
+  65.78- 69.52 ¿Usted puede pasar la transmisión para los que nos están viendo?
+  69.52- 75.36 Claro, toque en el botón que está abajo del vídeo y entren ahora a la oración
+  75.36- 75.92 en vivo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

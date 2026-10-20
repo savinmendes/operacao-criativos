@@ -1,0 +1,44 @@
+{
+  "ad": "23",
+  "idioma": "pt",
+  "origem": "TikTok @casalpivotoshop (vendedor TikTok Shop BR, criador)",
+  "url": "https://www.tiktok.com/@casalpivotoshop/video/7593455110924061960",
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 32.0,
+  "cortes": 2,
+  "ritmo": "lento, 3 tomadas longas",
+  "formato": "UGC talking head + demo de forca (furar muro)",
+  "gancho": {
+    "visual": "homem abracando maleta cinza-azulada DEWALT, setas animadas e texto 'Sem Escova'",
+    "texto_tela": "'Sem Escova' (laranja) + setas para baixo (carrinho)",
+    "fala_0_3s": "Chegou para mim a ferramenta mais potente do TikTok Shopping, Thewalt."
+  },
+  "corpo_blocos": [
+    {
+      "tempo": "0-6s",
+      "conteudo": "fala segurando a maleta"
+    },
+    {
+      "tempo": "6-15s",
+      "conteudo": "abre maleta: furadeira + baterias"
+    },
+    {
+      "tempo": "15-32s",
+      "conteudo": "fura muro de concreto e comenta"
+    }
+  ],
+  "cta": "falado: 'Já clica no link, está em oferta relâmpago, corre porque vai esgotar' + setas para o carrinho",
+  "texto_na_tela": "'Sem Escova' + setas",
+  "produto": "furadeira amarela DeWalt em maleta cinza-azulada; modelo nao legivel; maleta lembra kits nao originais de marketplace BR - precisa de revisao manual",
+  "e_nosso_produto": "nao confirmado (possivel replica)",
+  "rosto": "sim, ~100%",
+  "marca_dagua": "nao",
+  "audio": "voz masculina PT-BR",
+  "transcricao": "Chegou para mim a ferramenta mais potente do TikTok Shopping, Thewalt. Ela é sem escova, ela vem com duas baterias, um carregador Pivote. Agora eu vou testar a potência dessa máquina na função Matelete. Já clica no link, está em oferta relâmpago, corre porque vai esgotar.",
+  "uso": [
+    "so referencia de formato"
+  ],
+  "nota_cod_chile": 2,
+  "justificativa": "Rosto o tempo todo e procedencia duvidosa; so o formato 'homem comum testa no muro de casa' serve para regravar com o nosso kit.",
+  "obs_transcricao": "fala cita 'sem escova, duas baterias, carregador bivolt' e teste na função martelete"
+}

@@ -1,0 +1,108 @@
+{
+"arquivo": "P04.wav",
+"whisper": "Pero atención, tiene que hacerse de la forma correcta, según las instrucciones del Grimorio, porque no es una oración común.",
+"palavras": [
+{
+"w": "Pero",
+"ini": 0.0,
+"fim": 0.28
+},
+{
+"w": "atención,",
+"ini": 0.28,
+"fim": 0.92
+},
+{
+"w": "tiene",
+"ini": 1.26,
+"fim": 1.56
+},
+{
+"w": "que",
+"ini": 1.56,
+"fim": 1.82
+},
+{
+"w": "hacerse",
+"ini": 1.82,
+"fim": 2.22
+},
+{
+"w": "de",
+"ini": 2.22,
+"fim": 2.34
+},
+{
+"w": "la",
+"ini": 2.34,
+"fim": 2.48
+},
+{
+"w": "forma",
+"ini": 2.48,
+"fim": 2.74
+},
+{
+"w": "correcta,",
+"ini": 2.74,
+"fim": 3.58
+},
+{
+"w": "según",
+"ini": 3.7,
+"fim": 3.82
+},
+{
+"w": "las",
+"ini": 3.82,
+"fim": 4.18
+},
+{
+"w": "instrucciones",
+"ini": 4.18,
+"fim": 4.52
+},
+{
+"w": "del",
+"ini": 4.52,
+"fim": 4.72
+},
+{
+"w": "Grimorio,",
+"ini": 4.72,
+"fim": 5.14
+},
+{
+"w": "porque",
+"ini": 5.4,
+"fim": 5.48
+},
+{
+"w": "no",
+"ini": 5.48,
+"fim": 5.76
+},
+{
+"w": "es",
+"ini": 5.76,
+"fim": 5.98
+},
+{
+"w": "una",
+"ini": 5.98,
+"fim": 6.12
+},
+{
+"w": "oración",
+"ini": 6.12,
+"fim": 6.48
+},
+{
+"w": "común.",
+"ini": 6.48,
+"fim": 6.76
+}
+],
+"ratio": 1.0,
+"dif": []
+}

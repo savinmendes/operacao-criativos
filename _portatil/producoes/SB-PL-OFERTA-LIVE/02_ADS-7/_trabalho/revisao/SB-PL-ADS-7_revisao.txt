@@ -1,0 +1,23 @@
+REVISÃO: SB-PL-ADS-7.mp4
+duração 23.90s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 29.7 MB
+decodificação: OK
+pts do áudio: 1122 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1353-1489, x 412-789 | no último quadro: sim | faixa escura do rodapé: 1790-1919
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-PL-OFERTA-LIVE\02_ADS-7\_trabalho\revisao\SB-PL-ADS-7_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  4.00 Twój anioł stróż Cię wybrał i przyniósł Ci dar tylko dla Ciebie.
+   4.00-  9.00 W tej transmisji na żywo usłyszysz siedmiominutową modlitwę opartą na Biblii,
+   9.00- 13.00 która może przynieść wielkie błogosławieństwo finansowe do Twojego życia.
+  13.00- 16.00 Dotknij przycisku poniżej, aby jej wysłuchać.
+  16.00- 20.00 Nie ignoruj błogosławieństwa finansowego, które jest przeznaczone dla Ciebie.
+  20.00- 24.00 Dotknij, dowiedz się więcej poniżej i dołącz do modlitwy na żywo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

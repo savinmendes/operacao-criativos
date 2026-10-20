@@ -1,0 +1,13 @@
+{
+ "persona": "P4 DON JULIO (albañil)", "saida": "v5-personas/SB-ES_HUMILLACION_P4-JULIO_FICTICIO.mp4", "duracao_s": 72.33,
+ "fallback": "Flora sem saldo depois da 1a imagem: cenas e takes gerados no ElevenLabs Creative (flow t33c9dlNiD1YryZgVRAN) com os mesmos modelos (GPT Image 2.5 Sunburst, Seedance 2.0 Fast, Kling 2.5 Turbo)",
+ "custos_usd": {"flora_julio_mestre_gpt_image_2_1k": 0.253, "flora_planos_nano_banana_2.1": 0.052,
+   "elevenlabs_imagens_sunburst (briga, manos, parada x2, equipe, noite)": 0.445, "elevenlabs_seedance_2_fast_11s_3x4_audio": 2.678,
+   "elevenlabs_kling_2.5_turbo_manos_5s": 0.35, "elevenlabs_tts+sts+sfx (aprox.)": 0.18, "total_aprox": 3.96},
+ "heygen": "8 jobs Avatar IV foto 720p (R00 PiP, R01, R02, J1, J3, P1, P2, P3) = 50,9 s de áudio, ~150 créditos estimados (saldo geral 6799 -> 6410 com outros agentes em paralelo)",
+ "vozes": {"reportera": "Gabriela hHjbwzYZW17oh0p05AKv", "julio": "Alberto Rodriguez l1zE9xgNpUTaQCZzpNJa (depoimento TTS + fala da briga convertida por STS)", "dueno": "nativa Seedance"},
+ "correcoes": ["Seedance falou 'páganeme': trocado por 'págueme' em TTS Alberto colado na fala STS (whisper medium confirma)",
+   "dono começa a falar em 3,48 s e a reportera precisa de 4,76 s: 0-3,35 s do take em câmera lenta 0,70x",
+   "plano PARADA refeito (rosto destoava, apontado pelo revisor)"],
+ "scripts": ["voz/voz.py", "voz/pausas.py", "mkcfg.py", "montar.py", "graficos/titulo.py", "takes/wh.py"]
+}

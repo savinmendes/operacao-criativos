@@ -1,0 +1,352 @@
+[
+ {
+  "w": "Je",
+  "ini": 0.012,
+  "fim": 0.151,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "travaillais",
+  "ini": 0.197,
+  "fim": 0.697,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "du",
+  "ini": 0.72,
+  "fim": 0.813,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "matin",
+  "ini": 0.859,
+  "fim": 1.173,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "au",
+  "ini": 1.219,
+  "fim": 1.3,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "soir",
+  "ini": 1.347,
+  "fim": 1.707,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 1.823,
+  "fim": 1.95,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "les",
+  "ini": 1.997,
+  "fim": 2.101,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "fins",
+  "ini": 2.148,
+  "fim": 2.322,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 2.345,
+  "fim": 2.426,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "mois",
+  "ini": 2.473,
+  "fim": 2.612,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 2.635,
+  "fim": 2.717,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "passaient",
+  "ini": 2.763,
+  "fim": 3.158,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "quand",
+  "ini": 3.216,
+  "fim": 3.355,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "même",
+  "ini": 3.379,
+  "fim": 3.611,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "pas.",
+  "ini": 3.669,
+  "fim": 4.075,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "Mon",
+  "ini": 4.772,
+  "fim": 4.946,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "fils",
+  "ini": 5.004,
+  "fim": 5.178,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 5.248,
+  "fim": 5.329,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "demandé",
+  "ini": 5.387,
+  "fim": 5.805,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "pourquoi",
+  "ini": 5.863,
+  "fim": 6.211,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "j'étais",
+  "ini": 6.235,
+  "fim": 6.478,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "toujours",
+  "ini": 6.502,
+  "fim": 6.838,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "triste.",
+  "ini": 6.873,
+  "fim": 7.57,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "J'avais",
+  "ini": 8.011,
+  "fim": 8.313,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "l'impression",
+  "ini": 8.336,
+  "fim": 8.893,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 8.94,
+  "fim": 9.009,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "les",
+  "ini": 9.044,
+  "fim": 9.137,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "décevoir.",
+  "ini": 9.16,
+  "fim": 9.927,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "Jusqu'au",
+  "ini": 10.437,
+  "fim": 10.844,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "jour",
+  "ini": 10.902,
+  "fim": 11.169,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "où",
+  "ini": 11.238,
+  "fim": 11.355,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 11.436,
+  "fim": 11.482,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "prêtre",
+  "ini": 11.552,
+  "fim": 11.982,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 12.098,
+  "fim": 12.214,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "expliqué",
+  "ini": 12.283,
+  "fim": 12.736,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "quelque",
+  "ini": 12.794,
+  "fim": 13.096,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "chose",
+  "ini": 13.131,
+  "fim": 13.468,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 13.537,
+  "fim": 13.63,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne",
+  "ini": 13.677,
+  "fim": 14.153,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 14.211,
+  "fim": 14.28,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'avait",
+  "ini": 14.327,
+  "fim": 14.571,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "jamais",
+  "ini": 14.605,
+  "fim": 14.919,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "dit",
+  "ini": 14.942,
+  "fim": 15.174,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "sur",
+  "ini": 15.244,
+  "fim": 15.441,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 15.465,
+  "fim": 15.511,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "médaille",
+  "ini": 15.569,
+  "fim": 15.883,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 15.906,
+  "fim": 15.987,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "saint",
+  "ini": 16.033,
+  "fim": 16.208,
+  "personagem": "madre",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benoît.",
+  "ini": 16.231,
+  "fim": 16.649,
+  "personagem": "madre",
+  "parte": "selfie"
+ }
+]

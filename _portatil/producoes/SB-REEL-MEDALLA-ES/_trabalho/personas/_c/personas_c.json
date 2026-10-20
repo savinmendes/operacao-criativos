@@ -1,0 +1,14 @@
+{
+ "feria": {"saida": "SB-ES_FERIA_FICTICIO", "voz": "HRi5Prm2B3PevwpDmVLP", "voz_nome": "María Blanco",
+  "f2": ["Quita lo que cerró mi camino.", "Si me escuchas… ayúdame."],
+  "f3": "Mi puesto estaba lleno de fruta y nadie se acercaba. Yo sentía que alguien me había echado la envidia encima.",
+  "f5": "Ese día recuperé la paz. Y poco a poco, la gente volvió a mi puesto."},
+ "pareja": {"saida": "SB-ES_PAREJA_FICTICIO", "voz": "D3ws14YxTqcjPaXEOehR", "voz_nome": "Azu",
+  "f2": ["Devuelve la paz a mi casa.", "Si me escuchas… ayúdanos."],
+  "f3": "Mi esposo y yo vivíamos bajo el mismo techo como dos extraños. Cada uno en un cuarto, sin hablarnos.",
+  "f5": "Ese día recuperé la paz. Y poco a poco, volvimos a reír juntos."},
+ "pension": {"saida": "SB-ES_PENSION_FICTICIO", "voz": "efcRUax7uSa9kpBwtDPe", "voz_nome": "Luisa - Narradora de Cuentos",
+  "f2": ["Sácame de esta escasez.", "Si me escuchas… ayúdame."],
+  "f3": "Pasé casi seis meses con todas las llaves colgadas. Ni un solo huésped. Llegué a pensar en cerrar mi pensión.",
+  "f5": "Ese día recuperé la paz. Y poco a poco, las puertas empezaron a abrirse."}
+}

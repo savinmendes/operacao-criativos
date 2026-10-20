@@ -1,0 +1,23 @@
+{
+ "antes": {
+  "usados": 296155,
+  "limite": 1921212
+ },
+ "itens": [
+  {
+   "nome": "triste_1",
+   "dur": 7.0,
+   "prompt": "Sad tender solo acoustic guitar and soft piano, slow melancholic Latin American ballad feel, minor key, gentle strings, no drums, no vocals"
+  },
+  {
+   "nome": "esperanca_1",
+   "dur": 10.0,
+   "prompt": "Warm hopeful acoustic guitar and piano with rising strings, uplifting emotional cinematic, major key, slow build to joy, no drums, no vocals"
+  }
+ ],
+ "depois": {
+  "usados": 296155,
+  "limite": 1921212
+ },
+ "creditos_gastos": 0
+}

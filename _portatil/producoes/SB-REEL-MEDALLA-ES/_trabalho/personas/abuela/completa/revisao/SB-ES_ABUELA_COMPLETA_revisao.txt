@@ -1,0 +1,32 @@
+REVISÃO: SB-ES_ABUELA_COMPLETA.mp4
+duração 67.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 56.6 MB
+decodificação: OK
+pts do áudio: 3169 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\abuela\completa\revisao\SB-ES_ABUELA_COMPLETA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.72 Recé frente a una mesa puesta para doce, y comí sola.
+   5.72-  8.32 Y esto fue lo que pasó.
+   8.32- 16.08 ¡Oh glorioso San Benito, devuélveme a mi familia!
+  16.08- 19.80 Pasé años poniendo la mesa para todos.
+  19.80- 24.76 Mis nietos crecían y yo los veía solo en fotos.
+  24.76- 28.04 Sentía que ya no le importaba a nadie,
+  28.04- 34.76 hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  34.76- 40.52 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras.
+  40.52- 44.72 No es falta de fe, es que nadie les enseñó la forma correcta de rezarla.
+  44.72- 50.16 Cuando se reza de la forma correcta, la casa se calma, el miedo se va y uno vuelve
+  50.16- 54.68 a ver salidas donde antes solo veía puertas cerradas.
+  54.68- 59.80 Por eso dejé la explicación completa letra por letra en una transmisión en vivo que
+  59.80- 61.92 está abierta las 24 horas.
+  61.92- 67.12 Toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

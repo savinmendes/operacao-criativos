@@ -1,0 +1,12 @@
+{
+ "dur": 6.0,
+ "voz": "audio/g3_senhora_a.mp3",
+ "voz_t0": 1.3,
+ "voz_lufs": -14,
+ "reverb": "rua",
+ "amb": "C:/Users/PICHAU/Downloads/GRIMORIO_analise/_trabalho_es/audio/v4/amb_b.mp3",
+ "amb_lufs": -29,
+ "nativo": "_tmp/sep/htdemucs/g3_nat/no_vocals.wav",
+ "nativo_lufs": -24,
+ "out": "audio/g3_mix.wav"
+}

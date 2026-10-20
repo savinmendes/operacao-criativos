@@ -1,0 +1,26 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 04 - WYZE-SOLAR-CAM-PAN-SIN-CARGAR-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad04/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad04/alinhamento.json",
+  "chaves": [
+   "cargar",
+   "solar",
+   "trescientos",
+   "sesenta",
+   "sol",
+   "batería",
+   "microsd",
+   "suscripciones",
+   "toca"
+  ],
+  "y": 1060
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1250
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

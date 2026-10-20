@@ -1,0 +1,36 @@
+{
+ "briga": {
+  "arquivo": "seedance_violenta.mp4",
+  "ini": 0.0,
+  "fim": 9.2,
+  "cy": 0.0,
+  "cx": 0.5,
+  "lufs": -16,
+  "duck_db": -5,
+  "duck_ate": 2.6
+ },
+ "react": {
+  "quadros": 83
+ },
+ "pip": {
+  "x": 0,
+  "y": 300,
+  "w": 304,
+  "h": 540,
+  "xc": 284
+ },
+ "virada": {
+  "b04_vazio": {
+   "arquivo": "k_b04.mp4",
+   "ini": 0.0,
+   "dur": 3.0,
+   "cy": 0.0
+  },
+  "b05_cinco": {
+   "arquivo": "k_b05.mp4",
+   "ini": 0.0,
+   "dur": 3.0,
+   "cy": 0.0
+  }
+ }
+}

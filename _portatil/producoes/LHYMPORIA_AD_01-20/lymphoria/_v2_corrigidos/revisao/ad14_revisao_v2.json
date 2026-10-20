@@ -1,0 +1,84 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 14 - LYMPHORIA-VIAJE-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 14 - LYMPHORIA-VIAJE-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 449.4,
+  "quadros": 13479,
+  "dur_audio": 449.4,
+  "mb": 53.2
+ },
+ "info_v2": {
+  "duracao": 449.4,
+  "quadros": 13479,
+  "dur_audio": 449.4,
+  "mb": 54.3
+ },
+ "md5_audio_entregue": "03bbcdecbd1cd5ac8c66df9ac901fa80",
+ "md5_audio_v2": "03bbcdecbd1cd5ac8c66df9ac901fa80",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/t1_final.mp4",
+   5988,
+   6091,
+   199.6,
+   203.033
+  ],
+  [
+   "flora/t2_final.mp4",
+   7730,
+   7849,
+   257.667,
+   261.633
+  ],
+  [
+   "flora/t3_final.mp4",
+   8916,
+   8996,
+   297.2,
+   299.867
+  ],
+  [
+   "flora/t4_final.mp4",
+   12245,
+   12302,
+   408.167,
+   410.067
+  ],
+  [
+   "flora/t5_final.mp4",
+   12714,
+   12762,
+   423.8,
+   425.4
+  ]
+ ],
+ "quadros_comparados": 13479,
+ "fora_dos_takes": {
+  "quadros": 13072,
+  "psnr_min": 30.06,
+  "psnr_medio": 37.92,
+  "px40_max": 6641,
+  "px40_medio": 189.0,
+  "quadro_px40_max": 13074,
+  "t_px40_max": 435.8
+ },
+ "dentro_dos_takes": {
+  "quadros": 407,
+  "psnr_medio": 34.79,
+  "px40_medio": 1102.1,
+  "px40_max": 2805
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 12355,
+  "px40_max": 41,
+  "t_px40_max": 244.27,
+  "quadros_com_px40>50": 0
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 396,
+  "px40_medio": 823.7
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD14_takes_zoom3x.jpg"
+}

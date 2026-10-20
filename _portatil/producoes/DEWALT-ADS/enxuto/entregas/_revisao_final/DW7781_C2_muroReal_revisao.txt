@@ -1,0 +1,43 @@
+REVISÃO: DW7781_C2_muroReal.mp4
+duração 38.97s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.6 MB
+decodificação: OK
+pts do áudio: 1828 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: 28.27/28.30, 34.57/34.63
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao_final\DW7781_C2_muroReal_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.36 Tu taladro no entra al muro, mira esto, y tu taladro no es percutor, en el muro se queda girando y no avanza
+   5.36- 14.16 Este taladro sí es percutor, tiras el anillo al martillo y con broca de concreto entra en el muro sin pelear
+  14.16- 24.32 En modo taladro, pasa limpio formadero en metal, motor sin carbones, 20V max y trae dos baterías de dos amperes horas
+  24.32- 28.56 Con una trabajas y la otra se va cargando
+  28.56- 32.60 mas el cargador y su maleta todo en un solo kit
+  32.60- 37.28 aprovecha el pre black friday, tídelo hoy y pagas recién cuando te llegue, envío a
+  37.28- 37.80 todo chile
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  2.00    Se o taladro não entra no muro, veja isso.
+   2.00-  6.00    Se o taladro não é percutor, no muro se fica girando e não avança.
+   6.00-  8.00    Esse taladro, sim, é percutor.
+   8.00- 11.00    Pira-se o anilho para o martillo.
+  11.00- 15.00    E com broca de concreto, entra no muro sem pelear.
+  15.00- 18.00    No modo taladro, passa limpo, formador ou metal.
+  18.00- 21.00    Motor sem carbões, 20 volts, max.
+  21.00- 25.00    E traz 2 baterias de 2 amperes horas.
+  25.00- 29.00    Com uma trabalha e a outra se vai cargando.
+  29.00- 32.00    mais o cargador e sua maleta todo em um solo kit
+  32.00- 34.00    aproveita o pre black friday
+  34.00- 37.00    pide-lo hoje e pagas recém quando te llegue
+  37.00- 39.00 !! envio a todo Chile
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 28.27s e 28.30s (33 ms)
+PROBLEMA: quadro solto? cortes em 34.57s e 34.63s (67 ms)
+PROBLEMA: possível fala em pt em 37.0s: envio a todo Chile
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+3 problema(s)

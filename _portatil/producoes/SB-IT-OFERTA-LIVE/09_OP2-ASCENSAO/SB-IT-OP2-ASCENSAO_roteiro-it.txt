@@ -1,0 +1,44 @@
+SB-IT-OP2-ASCENSAO — San Benedetto · Italiano (Itália, EUR)
+Base: SB-EN-OP2-ASCENSAO_B-caminho1.mp4 (EN, 23,9 s) — mesmo método B (caminho 1). Origem ES: SB-OP2-ASCENSAO.mp4 (30,3 s).
+Destino: la preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN, eleven_multilingual_v2, speed 1.0.
+Lipsync: HeyGen mode speed, 4 trechos (gancho 3,2 s, corpo 4,3 s, clipA 2,7 s, clipB 4,36 s), vídeo de entrada com o áudio ORIGINAL (ES).
+
+======================================================================
+ROTEIRO EN (base)                     | ROTEIRO IT (narrado)
+======================================================================
+[GANCHO] Close this video, and the miracle goes to someone else.
+         Chiudi questo video, e il miracolo passa a un'altra persona.
+This is the last time God will try to speak to you this way.
+         Questa è l'ultima volta che Dio cercherà di parlarti in questo modo.
+Jesus chose you.
+         Gesù ti ha scelto.
+He prepared a powerful gift, just for you.
+         Ha preparato un dono potente, solo per te.
+Today, you will hear the lost prayer of Saint Benedict,
+         Oggi ascolterai la preghiera perduta di San Benedetto,
+that unlocks a shower of miracles...
+         che sblocca una pioggia di miracoli...
+but only if you don't reject it again.
+         ma solo se non la rifiuti di nuovo.
+[CTA] Tap Learn More below, and join the live prayer now.
+         Tocca «Scopri di più» qui sotto, e unisciti alla preghiera in diretta.
+Receive your miracle before the door closes forever.
+         Ricevi il tuo miracolo prima che la porta si chiuda per sempre.
+
+Decisões de tradução
+- "Saint Benedict" / "San Benito" -> "San Benedetto" (nome do santo em italiano).
+- "Today, you will hear" -> "Oggi ascolterai": o destino é a preghiera in diretta, não um vídeo.
+- "shower of miracles" / "lluvia de milagros" -> "pioggia di miracoli" (expressão natural no italiano religioso).
+- CTA = padrão do lote IT: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta" (nome do botão do Meta em italiano).
+- Tratamento "tu" direto, mesmo teor do ES/EN (promessa e urgência mantidas, sem suavizar).
+- Duração: 26,9 s (EN 23,9 s; ES 30,3 s). O italiano é mais longo; a CTA padrão IT tem ~3,5 s. Pausas extras curtas
+  (0,15–0,25 s) só depois de "modo", "scelto", "nuovo" e "diretta".
+- Legenda: palavras funcionais no fim do bloco vão para o bloco seguinte ("SAN BENEDETTO", "PER SEMPRE", "IN QUESTO MODO").
+
+Cenas (s): gancho 0–3,2 (Jesus, lipsync) | corpo 3,2–7,21 (Jesus, lipsync) | Gesù ti ha scelto 7,21–8,59 (mano en el pecho)
+| dono 8,59–11,41 (regalo) | oggi ascolterai 11,41–14,19 (catacumbas) | pioggia 14,19–16,44 (lluvia) | ma solo se 16,44–18,67
+(Jesus, lipsync clipA) | CTA 18,67–22,68 (scroll detenido + setas) | ricevi 22,68–26,87 (Jesus, lipsync clipB).
+Correção em relação ao EN: no EN o clipA aparecia como quadro congelado (~15,0–17,3 s, "but only if you don't reject it
+again") porque o deslocamento do clipA estava errado no compor_en.py. No IT o clipA cobre a frase "ma solo se non la rifiuti
+di nuovo" com lipsync, como no ES original.

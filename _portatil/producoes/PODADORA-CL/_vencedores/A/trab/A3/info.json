@@ -1,0 +1,25 @@
+{
+ "cod": "A3",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\A3 - DEVOLVER-UNA-PASADA-ES-CL.mp4",
+ "gancho_s": 4.666666666666667,
+ "fala_s": 4.412,
+ "tomadas": [
+  [
+   27.6,
+   2.0
+  ],
+  [
+   6.3333,
+   2.6666666666666665
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 51.8,
+ "ganho_fala_db": 2.0,
+ "mb": 26.0,
+ "kbps": 4287,
+ "cenas": "close do mato alto sumindo sob a máquina (27,6–29,6 s, só pernas) → câmera da porta cortando o mato (termina em 9,0 s)",
+ "texto": [
+  "UNA SOLA PASADA"
+ ]
+}

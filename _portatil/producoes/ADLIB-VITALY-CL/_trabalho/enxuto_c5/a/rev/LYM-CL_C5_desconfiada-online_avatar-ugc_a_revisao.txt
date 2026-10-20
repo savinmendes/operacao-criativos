@@ -1,0 +1,28 @@
+REVISÃO: LYM-CL_C5_desconfiada-online_avatar-ugc_a.mp4
+duração 43.40s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.3 MB
+decodificação: OK
+pts do áudio: 2035 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 42.58-43.40
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1113-1178, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\enxuto_c5\a\rev\LYM-CL_C5_desconfiada-online_avatar-ugc_a_revisao.jpg
+idioma detectado: es (0.95)
+
+=== transcrição (es) ===
+   0.00-  3.60 Yo no compraba nada por internet, nada.
+   3.60-  7.40 Me daba terror pagar y que nunca me llegara,
+   7.40- 11.60 hasta que una amiga me explicó cómo funciona la inforia.
+  11.60- 15.20 Haces tu pedido y no pagas nada por adelantado.
+  15.20- 18.10 Te llega a tu casa con envío gratis
+  18.10- 22.00 y pagas al recibir cuando ya tienes la caja en la mano.
+  22.00- 24.90 Sin tarjeta, sin adelantar ni un peso.
+  24.90- 29.50 Son unas gotitas con cuatro hierbas 100% naturales
+  29.50- 36.50 Y saben a miel, y si no te convence, tienes 90 días de garantía o te devuelven tu plata.
+  36.50- 39.50 Ahora está en compre uno y reciba dos.
+  39.50- 42.50 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,86 @@
+[
+ {
+  "texto": "LIGHTWEIGHT.",
+  "conf": 0.94,
+  "caixa": [
+   32,
+   85,
+   516,
+   250
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "EASY TOMOVE.",
+  "conf": 0.96,
+  "caixa": [
+   35,
+   248,
+   538,
+   415
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Clean upstairs, downstairs",
+  "conf": 1.0,
+  "caixa": [
+   42,
+   440,
+   440,
+   478
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "and everywhere between.",
+  "conf": 0.98,
+  "caixa": [
+   43,
+   481,
+   425,
+   511
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H20XS",
+  "conf": 0.95,
+  "caixa": [
+   827,
+   887,
+   889,
+   947
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "★★★★★",
+  "conf": 0.97,
+  "caixa": [
+   36,
+   1181,
+   210,
+   1215
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "4,000+ 5-STAR REVIEWS",
+  "conf": 0.97,
+  "caixa": [
+   229,
+   1181,
+   519,
+   1214
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

@@ -1,0 +1,31 @@
+REVISÃO: 60 AD - ES.mp4
+duração 28.70s | 720x900 | 30/1 fps | áudio: sim | 17.5 MB
+decodificação: OK
+pts do áudio: 1344 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 451-840, x 156-566 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\60\60 AD - ES_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  4.00 ¿Sabías que las bacterias de tu cocina te están enfermando?
+   4.00-  9.00 Esta es tu señal para desinfectar tu cocina con el H2O X5.
+   9.00- 17.00 Sus 1300 watts de vapor supercaliente eliminan el 99% de bacterias y gérmenes donde preparas la comida.
+  17.00- 20.00 Certificado en laboratorio, solo vapor y un paño.
+  20.00- 24.00 Mira que limpio, sin gérmenes. Me impresionó mucho.
+  24.00- 27.00 Haz clic en más información.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  4.00    ¿Sabías que las bacterias de tu cocina te están enfermando?
+   4.00-  9.00    Esta es tu señal para desinfectar tu cocina con el H2O X5.
+   9.00- 17.00    Sus 1300 watts de vapor supercaliente eliminan el 99% de bacterias y gérmenes donde preparas la comida.
+  17.00- 20.00    Certificado en laboratorio, solo vapor y un paño.
+  20.00- 24.00    Mira que limpio, sin gérmenes. Me impresionó mucho.
+  24.00- 27.00    Haz click en más información.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

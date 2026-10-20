@@ -1,0 +1,49 @@
+{
+ "audio": "padre.mp3",
+ "duracao_total": 35.209,
+ "pausa_entre_falas": 0.35,
+ "falas": [
+  {
+   "fala": 1,
+   "texto": "Millones de personas llevan esta medalla… y nunca les explicaron lo que dicen sus letras. No es falta de fe. Es que nadie les enseñó la forma correcta de rezarla.",
+   "ini": 0.04,
+   "fim": 10.233
+  },
+  {
+   "fala": 2,
+   "texto": "Cuando se reza de la forma correcta, la casa se calma, el miedo se va… y uno vuelve a ver salidas donde antes solo veía puertas cerradas.",
+   "ini": 10.666,
+   "fim": 21.115
+  },
+  {
+   "fala": 3,
+   "texto": "Por eso dejé la explicación completa, letra por letra, en una transmisión en vivo que está abierta las 24 horas. Toca en «Más información», aquí abajo, y entra a rezar con nosotros.",
+   "ini": 21.565,
+   "fim": 35.149
+  }
+ ],
+ "partes_avatar": [
+  {
+   "arquivo": "padre_parte1.mp4",
+   "audio_ini": 0.0,
+   "audio_fim": 21.34,
+   "falas": [
+    1,
+    2
+   ],
+   "duracao_video": 21.36,
+   "heygen_video_id": "aef5a03dd19c5ce22da638752dc8f6c3"
+  },
+  {
+   "arquivo": "padre_parte2.mp4",
+   "audio_ini": 21.34,
+   "audio_fim": 35.209,
+   "falas": [
+    3
+   ],
+   "duracao_video": 13.88,
+   "heygen_video_id": "ef888c7c054277822a7e737b7070c240"
+  }
+ ],
+ "obs": "Cada parte já traz embutido o trecho exato de padre.mp3 (audio_ini..audio_fim). Vídeo 1080x1920, 25 fps."
+}

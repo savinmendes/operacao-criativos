@@ -1,0 +1,153 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Selected model is a bag of 1 models. You will see that many progress bars per track.
+Separated tracks will be stored in C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\aud\htdemucs
+Separating track C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad24\aud\orig.wav
+  0%|                                                                                 | 0.0/778.05 [00:00<?, ?seconds/s]  1%|▌                                                                       | 5.85/778.05 [00:10<23:16,  1.81s/seconds]  2%|█                                                                       | 11.7/778.05 [00:19<20:41,  1.62s/seconds]  2%|█▎                                                        | 17.549999999999997/778.05 [00:27<19:17,  1.52s/seconds]  3%|██▏                                                                     | 23.4/778.05 [00:35<18:33,  1.48s/seconds]  4%|██▋                                                                    | 29.25/778.05 [00:47<20:27,  1.64s/seconds]  5%|██▌                                                       | 35.099999999999994/778.05 [00:55<19:22,  1.57s/seconds]  5%|███                                                       | 40.949999999999996/778.05 [01:03<18:46,  1.53s/seconds]  6%|████▎                                                                   | 46.8/778.05 [01:12<18:10,  1.49s/seconds]  7%|████▊                                                                  | 52.65/778.05 [01:20<17:49,  1.47s/seconds]  8%|█████▍                                                                  | 58.5/778.05 [01:28<17:20,  1.45s/seconds]  8%|█████▊                                                                 | 64.35/778.05 [01:38<18:07,  1.52s/seconds]  9%|█████▎                                                     | 70.19999999999999/778.05 [01:47<17:57,  1.52s/seconds] 10%|██████▉                                                                | 76.05/778.05 [01:55<17:37,  1.51s/seconds] 11%|██████▏                                                    | 81.89999999999999/778.05 [02:05<18:00,  1.55s/seconds] 11%|████████                                                               | 87.75/778.05 [02:14<17:38,  1.53s/seconds] 12%|████████▋                                                               | 93.6/778.05 [02:24<17:57,  1.57s/seconds] 13%|███████▌                                                   | 99.44999999999999/778.05 [02:32<17:22,  1.54s/seconds] 14%|█████████▌                                                             | 105.3/778.05 [02:39<15:50,  1.41s/seconds] 14%|████████▎                                                 | 111.14999999999999/778.05 [02:45<14:38,  1.32s/seconds] 15%|██████████▋                                                            | 117.0/778.05 [02:50<13:05,  1.19s/seconds] 16%|███████████                                                           | 122.85/778.05 [02:58<13:20,  1.22s/seconds] 17%|███████████▋                                                           | 128.7/778.05 [03:05<12:54,  1.19s/seconds] 17%|██████████                                                | 134.54999999999998/778.05 [03:14<14:24,  1.34s/seconds] 18%|██████████▍                                               | 140.39999999999998/778.05 [03:22<14:01,  1.32s/seconds] 19%|█████████████▏                                                        | 146.25/778.05 [03:26<12:07,  1.15s/seconds] 20%|█████████████▉                                                         | 152.1/778.05 [03:31<10:46,  1.03s/seconds] 20%|██████████████▏                                                       | 157.95/778.05 [03:36<10:03,  1.03seconds/s] 21%|████████████▏                                             | 163.79999999999998/778.05 [03:41<09:39,  1.06seconds/s] 22%|████████████▋                                             | 169.64999999999998/778.05 [03:45<09:08,  1.11seconds/s] 23%|████████████████                                                       | 175.5/778.05 [03:50<08:52,  1.13seconds/s] 23%|████████████████▎                                                     | 181.35/778.05 [03:57<09:19,  1.07seconds/s] 24%|█████████████████                                                      | 187.2/778.05 [04:04<09:59,  1.01s/seconds] 25%|██████████████▍                                           | 193.04999999999998/778.05 [04:10<10:04,  1.03s/seconds] 26%|██████████████▊                                           | 198.89999999999998/778.05 [04:17<10:28,  1.09s/seconds] 26%|██████████████████▍                                                   | 204.75/778.05 [04:24<10:43,  1.12s/seconds] 27%|███████████████████▏                                                   | 210.6/778.05 [04:27<09:00,  1.05seconds/s] 28%|███████████████████▍                                                  | 216.45/778.05 [04:30<07:27,  1.26seconds/s] 29%|████████████████▌                                         | 222.29999999999998/778.05 [04:32<06:20,  1.46seconds/s] 29%|█████████████████                                         | 228.14999999999998/778.05 [04:35<05:36,  1.63seconds/s] 30%|█████████████████████▎                                                 | 234.0/778.05 [04:38<05:12,  1.74seconds/s] 31%|█████████████████████▌                                                | 239.85/778.05 [04:42<05:34,  1.61seconds/s] 32%|██████████████████████▍                                                | 245.7/778.05 [04:45<05:12,  1.70seconds/s] 32%|██████████████████▊                                       | 251.54999999999998/778.05 [04:48<05:00,  1.75seconds/s] 33%|███████████████████████▍                                               | 257.4/778.05 [04:50<04:34,  1.90seconds/s] 34%|███████████████████████▋                                              | 263.25/778.05 [04:53<04:19,  1.98seconds/s] 35%|████████████████████                                      | 269.09999999999997/778.05 [04:56<04:06,  2.06seconds/s] 35%|████████████████████████▋                                             | 274.95/778.05 [04:58<04:02,  2.07seconds/s] 36%|████████████████████▉                                     | 280.79999999999995/778.05 [05:01<03:51,  2.15seconds/s] 37%|█████████████████████████▊                                            | 286.65/778.05 [05:03<03:37,  2.26seconds/s] 38%|██████████████████████████▋                                            | 292.5/778.05 [05:05<03:15,  2.48seconds/s] 38%|██████████████████████▏                                   | 298.34999999999997/778.05 [05:08<03:28,  2.30seconds/s] 39%|███████████████████████████▊                                           | 304.2/778.05 [05:10<03:07,  2.53seconds/s] 40%|███████████████████████                                   | 310.04999999999995/778.05 [05:12<02:53,  2.70seconds/s] 41%|████████████████████████████▊                                          | 315.9/778.05 [05:14<02:54,  2.65seconds/s] 41%|████████████████████████████▉                                         | 321.75/778.05 [05:16<02:44,  2.77seconds/s] 42%|████████████████████████▍                                 | 327.59999999999997/778.05 [05:18<02:35,  2.89seconds/s] 43%|██████████████████████████████                                        | 333.45/778.05 [05:19<02:28,  2.99seconds/s] 44%|█████████████████████████▎                                | 339.29999999999995/778.05 [05:21<02:23,  3.06seconds/s] 44%|███████████████████████████████                                       | 345.15/778.05 [05:23<02:19,  3.10seconds/s] 45%|████████████████████████████████                                       | 351.0/778.05 [05:25<02:16,  3.14seconds/s] 46%|██████████████████████████▌                               | 356.84999999999997/778.05 [05:28<02:36,  2.70seconds/s] 47%|█████████████████████████████████                                      | 362.7/778.05 [05:30<02:45,  2.52seconds/s] 47%|███████████████████████████▍                              | 368.54999999999995/778.05 [05:33<02:44,  2.48seconds/s] 48%|██████████████████████████████████▏                                    | 374.4/778.05 [05:35<02:33,  2.62seconds/s] 49%|██████████████████████████████████▏                                   | 380.25/778.05 [05:37<02:23,  2.77seconds/s] 50%|████████████████████████████▊                             | 386.09999999999997/778.05 [05:39<02:16,  2.87seconds/s] 50%|███████████████████████████████████▎                                  | 391.95/778.05 [05:41<02:21,  2.73seconds/s] 51%|█████████████████████████████▋                            | 397.79999999999995/778.05 [05:44<02:34,  2.46seconds/s] 52%|████████████████████████████████████▎                                 | 403.65/778.05 [05:47<02:41,  2.31seconds/s] 53%|█████████████████████████████████████▎                                 | 409.5/778.05 [05:49<02:26,  2.52seconds/s] 53%|██████████████████████████████▉                           | 415.34999999999997/778.05 [05:50<02:14,  2.69seconds/s] 54%|██████████████████████████████████████▍                                | 421.2/778.05 [05:52<02:07,  2.80seconds/s] 55%|███████████████████████████████▊                          | 427.04999999999995/778.05 [05:54<02:00,  2.91seconds/s] 56%|███████████████████████████████████████▌                               | 432.9/778.05 [05:56<02:02,  2.83seconds/s] 56%|███████████████████████████████████████▍                              | 438.75/778.05 [05:59<02:07,  2.66seconds/s] 57%|█████████████████████████████████▏                        | 444.59999999999997/778.05 [06:01<02:03,  2.70seconds/s] 58%|████████████████████████████████████████▌                             | 450.45/778.05 [06:03<01:58,  2.78seconds/s] 59%|██████████████████████████████████                        | 456.29999999999995/778.05 [06:05<01:53,  2.84seconds/s] 59%|█████████████████████████████████████████▌                            | 462.15/778.05 [06:07<01:54,  2.77seconds/s] 60%|██████████████████████████████████████████▋                            | 468.0/778.05 [06:09<01:50,  2.80seconds/s] 61%|███████████████████████████████████▎                      | 473.84999999999997/778.05 [06:11<01:46,  2.84seconds/s] 62%|███████████████████████████████████████████▊                           | 479.7/778.05 [06:13<01:43,  2.87seconds/s] 62%|████████████████████████████████████▏                     | 485.54999999999995/778.05 [06:17<02:03,  2.37seconds/s] 63%|████████████████████████████████████████████▊                          | 491.4/778.05 [06:19<02:00,  2.37seconds/s] 64%|█████████████████████████████████████                     | 497.24999999999994/778.05 [06:21<01:49,  2.57seconds/s] 65%|█████████████████████████████████████▌                    | 503.09999999999997/778.05 [06:23<01:41,  2.70seconds/s] 65%|█████████████████████████████████████████████▊                        | 508.95/778.05 [06:25<01:34,  2.85seconds/s] 66%|██████████████████████████████████████████████▉                        | 514.8/778.05 [06:26<01:28,  2.96seconds/s] 67%|██████████████████████████████████████████████▊                       | 520.65/778.05 [06:28<01:25,  3.03seconds/s] 68%|████████████████████████████████████████████████                       | 526.5/778.05 [06:30<01:21,  3.08seconds/s] 68%|███████████████████████████████████████████████▉                      | 532.35/778.05 [06:32<01:18,  3.11seconds/s] 69%|████████████████████████████████████████▊                  | 538.1999999999999/778.05 [06:34<01:19,  3.02seconds/s] 70%|████████████████████████████████████████████████▉                     | 544.05/778.05 [06:36<01:20,  2.90seconds/s] 71%|██████████████████████████████████████████████████▏                    | 549.9/778.05 [06:38<01:15,  3.03seconds/s] 71%|██████████████████████████████████████████████████                    | 555.75/778.05 [06:40<01:12,  3.07seconds/s] 72%|██████████████████████████████████████████▌                | 561.5999999999999/778.05 [06:43<01:26,  2.50seconds/s] 73%|███████████████████████████████████████████                | 567.4499999999999/778.05 [06:46<01:31,  2.31seconds/s] 74%|████████████████████████████████████████████████████▎                  | 573.3/778.05 [06:52<02:05,  1.63seconds/s] 74%|████████████████████████████████████████████████████                  | 579.15/778.05 [06:55<01:55,  1.72seconds/s] 75%|█████████████████████████████████████████████████████▍                 | 585.0/778.05 [06:58<01:43,  1.87seconds/s] 76%|████████████████████████████████████████████▊              | 590.8499999999999/778.05 [07:00<01:30,  2.06seconds/s] 77%|█████████████████████████████████████████████▏             | 596.6999999999999/778.05 [07:01<01:18,  2.32seconds/s] 77%|██████████████████████████████████████████████████████▏               | 602.55/778.05 [07:04<01:11,  2.45seconds/s] 78%|███████████████████████████████████████████████████████▌               | 608.4/778.05 [07:05<01:05,  2.59seconds/s] 79%|███████████████████████████████████████████████████████▎              | 614.25/778.05 [07:08<01:01,  2.66seconds/s] 80%|███████████████████████████████████████████████            | 620.0999999999999/778.05 [07:09<00:57,  2.77seconds/s] 80%|███████████████████████████████████████████████▍           | 625.9499999999999/778.05 [07:12<00:59,  2.56seconds/s] 81%|█████████████████████████████████████████████████████████▋             | 631.8/778.05 [07:14<00:53,  2.73seconds/s] 82%|█████████████████████████████████████████████████████████▎            | 637.65/778.05 [07:16<00:49,  2.86seconds/s] 83%|██████████████████████████████████████████████████████████▋            | 643.5/778.05 [07:18<00:45,  2.96seconds/s] 83%|█████████████████████████████████████████████████▏         | 649.3499999999999/778.05 [07:19<00:42,  3.00seconds/s] 84%|█████████████████████████████████████████████████▋         | 655.1999999999999/778.05 [07:22<00:42,  2.91seconds/s] 85%|███████████████████████████████████████████████████████████▍          | 661.05/778.05 [07:25<00:49,  2.35seconds/s] 86%|████████████████████████████████████████████████████████████▊          | 666.9/778.05 [07:27<00:44,  2.47seconds/s] 86%|████████████████████████████████████████████████████████████▌         | 672.75/778.05 [07:29<00:40,  2.58seconds/s] 87%|███████████████████████████████████████████████████▍       | 678.5999999999999/778.05 [07:31<00:36,  2.74seconds/s] 88%|███████████████████████████████████████████████████▉       | 684.4499999999999/778.05 [07:33<00:33,  2.79seconds/s] 89%|██████████████████████████████████████████████████████████████▉        | 690.3/778.05 [07:35<00:30,  2.88seconds/s] 89%|██████████████████████████████████████████████████████████████▋       | 696.15/778.05 [07:37<00:27,  2.94seconds/s] 90%|████████████████████████████████████████████████████████████████       | 702.0/778.05 [07:39<00:26,  2.85seconds/s] 91%|█████████████████████████████████████████████████████▋     | 707.8499999999999/778.05 [07:41<00:23,  2.95seconds/s] 92%|██████████████████████████████████████████████████████     | 713.6999999999999/778.05 [07:43<00:21,  3.00seconds/s] 92%|████████████████████████████████████████████████████████████████▋     | 719.55/778.05 [07:45<00:19,  3.00seconds/s] 93%|██████████████████████████████████████████████████████████████████▏    | 725.4/778.05 [07:47<00:17,  3.06seconds/s] 94%|█████████████████████████████████████████████████████████████████▊    | 731.25/778.05 [07:48<00:15,  3.09seconds/s] 95%|███████████████████████████████████████████████████████▉   | 737.0999999999999/778.05 [07:51<00:14,  2.88seconds/s] 95%|████████████████████████████████████████████████████████▎  | 742.9499999999999/778.05 [07:53<00:13,  2.65seconds/s] 96%|████████████████████████████████████████████████████████████████████▎  | 748.8/778.05 [07:59<00:16,  1.80seconds/s] 97%|███████████████████████████████████████████████████████████████████▉  | 754.65/778.05 [08:01<00:11,  1.96seconds/s] 98%|█████████████████████████████████████████████████████████████████████▍ | 760.5/778.05 [08:04<00:08,  2.03seconds/s] 98%|██████████████████████████████████████████████████████████ | 766.3499999999999/778.05 [08:07<00:05,  2.05seconds/s] 99%|██████████████████████████████████████████████████████████▌| 772.1999999999999/778.05 [08:10<00:02,  2.00seconds/s]100%|██████████████████████████████████████████████████████████████████████| 778.05/778.05 [08:13<00:00,  2.02seconds/s]100%|██████████████████████████████████████████████████████████████████████| 778.05/778.05 [08:13<00:00,  1.58seconds/s]
+demucs ok 512s
+[   3.8/776s] 0% Mi esposa me dejó por el tipo que la entré en el gym
+[  10.2/776s] 1% Ella tenía 41, él tenía 27
+[  16.3/776s] 2% Yo tengo 47 y pensé que ya se había acabado todo
+[  22.3/776s] 3% Hasta que mi hermano voló desde Brasil con algo que nadie me
+[  26.4/776s] 3% Déjame contarte lo que pasó
+[  35.0/776s] 5% Llegué a la casa temprano martes, los escuché arriba, subí l
+[  46.3/776s] 6% en mi cama, él tenía 27, ella tenía 41, yo tenía 47 novites,
+[  53.7/776s] 7% cerré la puerta, baje a la cocina, desenté a la mesa y me qu
+[  62.6/776s] 8% hasta que oscureció esa noche me pare frente al espejo del b
+[  72.7/776s] 9% años tengo 47, me pasé 20 años siendo el hombre en el que to
+[  81.1/776s] 10% cinco de la mañana el café hecho antes de que ella se desper
+[ 119.0/776s] 15% Y nada se movía, parado frente a ese espejo entendí, porque 
+[ 127.1/776s] 16% Estaba tan ocupado, sosteniendo a todos que me había convert
+[ 132.7/776s] 17% que pagaba las cuentas, hice todo lo que un buen hombre debe
+[ 138.8/776s] 18% Y aun así terminé invisible, lo intenté todo por cuatro años
+[ 144.6/776s] 19% entré en el limpio, bajé las porciones del plato, setenta y 
+[ 152.5/776s] 20% testosterona de una clínica por internet, nada se movía, fui
+[ 160.5/776s] 21% minutos, me dijo es la edad, tienes cuarenta y siete. Baja d
+[ 171.5/776s] 22% asentado en el carro, esa misma semana, llámame a mi hermano
+[ 177.7/776s] 23% ahora 20 años en brasil se entrenó en una clínica brasileña 
+[ 182.5/776s] 24% drena gel infático que trabaja con atletas profesionales
+[ 190.7/776s] 25% le conté lo que pasó me dijo vuelo el viernes no discutas se
+[ 197.1/776s] 25% no me abrazó no me pregunto cómo iba aguantando me puso las 
+[ 204.3/776s] 26% los hombros y me dijo hermano tenemos trabajo que hacer tú n
+[ 212.7/776s] 27% al tercer día de su visita usó una botellita oscura con gote
+[ 222.1/776s] 29% el líquido adentro parecía miel me dijo conoces a esos hombr
+[ 229.9/776s] 30% Todavía se vende treinta y cinco los marca antoni los tíos e
+[ 239.8/776s] 31% armados los veteranos del barrio con el corte fresco y sin p
+[ 249.0/776s] 32% son más disciplina los que tú se drenan cada semana es el se
+[ 251.6/776s] 32% miré como si estuviera loco
+[ 255.9/776s] 33% Miguel subí 30 libras en 4 años
+[ 257.9/776s] 33% no necesito de enaje
+[ 260.2/776s] 34% necesito bajar de peso
+[ 262.6/776s] 34% me miró fijo a los ojos
+[ 266.5/776s] 34% y me dijo tú no tienes un problema de peso
+[ 270.5/776s] 35% tú tienes desechos atrapados
+[ 273.2/776s] 35% nunca fue la comida, nunca fue el gym
+[ 276.8/776s] 36% un hombre carga todo el mundo por 20 años
+[ 279.6/776s] 36% El estrés, las noches sin dormir
+[ 284.2/776s] 37% Todo lo que te tragaste para mantener a esta familia de pier
+[ 288.6/776s] 37% Tu cuerpo se suponía que iba a denar todo eso
+[ 290.7/776s] 37% En cambio, se quedó ahí
+[ 294.8/776s] 38% Endurecido atrapado detrás del pecho en la panza
+[ 297.4/776s] 38% Debajo del mentón es zonas grasa
+[ 300.0/776s] 39% Es todo lo que has estado cargando
+[ 306.1/776s] 39% No lo puedes que a cuatro hierbas
+[ 309.7/776s] 40% Los hombres latinos han conocido tres de ellas
+[ 313.7/776s] 40% por más de 100 años, estilo y arompe los años
+[ 317.7/776s] 41% de ese dimento endurecido que eres tres dejo atrapado
+[ 323.1/776s] 42% fesmo espinos que inicia la circulación que los años apagaro
+[ 328.4/776s] 42% clávers barre los desechos sueltos del pecho y la panza
+[ 334.3/776s] 43% trebol rojo calma la inflamación para que no se te vuelva a 
+[ 338.6/776s] 44% todo otra vez le dije Miguel no puede ser
+[ 342.7/776s] 44% Unas gotas no van a arreglar cuatro años de estos
+[ 346.7/776s] 45% Me dijo seis semanas, dos gotas debajo de la lengua
+[ 349.7/776s] 45% Buen agua todos los días en la semana
+[ 352.4/776s] 45% Uno se te va a desinfrar la cara
+[ 356.9/776s] 46% En la semana tres vas a tener la mandíbula de vuelta
+[ 360.6/776s] 46% En la semana seis no te vas a reconocer
+[ 366.5/776s] 47% Ya vas a ver semana uno la cara menos hinchada en el espejo
+[ 369.0/776s] 48% La línea de la barba más marcada
+[ 371.7/776s] 48% El reloj bailando suelto en la muñeca
+[ 374.6/776s] 48% Todavía no le dije a nadie, semana dos
+[ 377.3/776s] 49% El pinturón, un hoyo más apretado
+[ 379.2/776s] 49% La panza que me colgó
+[ 381.8/776s] 49% Encima de la hibilla por años
+[ 383.6/776s] 49% Ya estaba bajando
+[ 386.4/776s] 50% Un compañero del trabajo
+[ 388.7/776s] 50% Me dijo, te ves diferente
+[ 392.3/776s] 51% Yo solo me encogí de hombros
+[ 395.7/776s] 51% Semana tres, la mandíbula de vuelta
+[ 399.3/776s] 51% El pecho más firme debajo de la camisa
+[ 401.6/776s] 52% La piel más cara que en diez años
+[ 403.7/776s] 52% Burmiendo toda la noche
+[ 405.7/776s] 52% Por primera vez en años
+[ 408.8/776s] 53% Semana, cuatro, catorce, libras menos
+[ 410.0/776s] 53% Comiendo normal
+[ 412.4/776s] 53% Sigo con mis horas de trabajo
+[ 414.3/776s] 53% Sigo dándole duro
+[ 415.4/776s] 54% Nada cambió
+[ 418.0/776s] 54% Extractó la botella en mi cocina
+[ 421.0/776s] 54% Semanas, cinco, 19 libras menos
+[ 424.4/776s] 55% La camiseta por lo que compré a los treinta y cinco
+[ 427.5/776s] 55% que no me entraban ocho años me quedo
+[ 433.1/776s] 56% los compañeros preguntándome qué era lo que estaba tomando
+[ 436.4/776s] 56% yo solo sonreía semana seis
+[ 440.3/776s] 57% dar energía de vuelta las ganas de vuelta
+[ 444.4/776s] 57% por primera vez en años volví a sentirme yo
+[ 448.3/776s] 58% la boda de mi hijo era nunca semana
+[ 451.3/776s] 58% un amigo me empujó a salir en cita
+[ 453.3/776s] 58% me instaló la aplicación
+[ 466.6/776s] 60% dice macho una mujer llamada ni adivorpe a dos hijos treinta
+[ 477.5/776s] 62% tomamos un café tras semanas antes de la boda se rió con mis
+[ 482.4/776s] 62% Me dijo que si cuando le pedí que fuera mi acompañante
+[ 485.4/776s] 63% El día de la boda de mi hijo
+[ 489.6/776s] 63% Me puse el traje que compré a los treinta y ocho
+[ 493.7/776s] 64% Me quedo mejor que eres entonces
+[ 495.5/776s] 64% Me mire al espejo
+[ 499.9/776s] 64% Y no reconocía al hombre que me devolvió la mirada
+[ 505.2/776s] 65% Miguel me vio desde el salón
+[ 507.1/776s] 65% Sonrió, ahí está
+[ 514.0/776s] 66% llegué al lugar temprano, ya venía retrasada me senté en la 
+[ 519.4/776s] 67% levante la brista y mi ex entró con el entrenador
+[ 528.2/776s] 68% él llevaba puestas las mancuerdillas que ya me regaló el mae
+[ 535.5/776s] 69% se sentaron a cuatro meses de mi el ganó nervio
+[ 581.6/776s] 75% mismo en el lavabo y ordeno
+[ 583.4/776s] 75% ¡Vuelve al salón!
+[ 585.7/776s] 75% Ella estaba parada
+[ 592.8/776s] 76% Con las amigas de ya
+[ 594.8/776s] 77% Te rendes, te ves
+[ 596.4/776s] 77% Se quedó callada
+[ 599.4/776s] 77% Te ves increíble
+[ 600.8/776s] 77% Que piziste
+[ 603.1/776s] 78% No sonreí, no habré
+[ 604.4/776s] 78% Paseas un lado
+[ 606.9/776s] 78% Salié a la pista de baile
+[ 609.2/776s] 79% Mía, ya, vía llegado
+[ 612.2/776s] 79% Me puso la mano en el pecho
+[ 614.0/776s] 79% Y me miro desde abajo
+[ 621.4/776s] 80% Un mes después, mi jovino a la casa
+[ 623.5/776s] 80% Dió la botella en la cocina
+[ 626.9/776s] 81% ¿Qué te ves así?
+[ 629.2/776s] 81% Porque el tío migrese así
+[ 635.5/776s] 82% Tengo 26 y me veo más cansado que tú
+[ 643.9/776s] 83% Las... aquí está la cosa
+[ 659.0/776s] 85% De su misma edad yo me dejé creerle
+[ 662.7/776s] 85% Me dejé creer que me había abandonado a mí mismo
+[ 664.2/776s] 86% No fue eso
+[ 667.1/776s] 86% 20 años gargando a todo el mundo
+[ 676.6/776s] 87% dejaron todos capadores de yo, no el yo de los 30, el yo que
+[ 683.7/776s] 88% cuatricientes, aguro, fuerte, despierto, vivo. Pero hombre q
+[ 692.4/776s] 89% perder, mira no sé por dónde andas tu ahorita, tal vez la pa
+[ 731.7/776s] 94% que una vida entera, cargando todos de rejuatrapado.
+[ 736.8/776s] 95% Los hombres latinos han sabido esto por más de 100 años.
+[ 742.3/776s] 96% Juato y héroes, estilo y alfres, no es pinoso,
+[ 744.2/776s] 96% clave, estrevo el rojo.
+[ 747.9/776s] 96% Miguel dice que se agotan constantemente,
+[ 750.9/776s] 97% son los desde pequeños.
+[ 754.9/776s] 97% Chequeé ayer y casi no quedaban.
+[ 757.6/776s] 98% Si todavía ves el botón de comprar
+[ 759.9/776s] 98% Ahora que abajo estás de suerte
+[ 764.0/776s] 98% Garantía de reembolso de 60 días
+[ 765.8/776s] 99% Pero honestamente
+[ 767.6/776s] 99% Después de seis semanas
+[ 770.5/776s] 99% No la vas a necesitar
+[ 775.7/776s] 100% Eso fue todo lo que yo necesité
+FIM 644s

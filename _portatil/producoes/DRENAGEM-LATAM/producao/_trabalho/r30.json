@@ -1,0 +1,48 @@
+{
+"ad": "ad30",
+"corte": 308.1,
+"saida": "AD 30 - LYMPHORIA-EXESPOSO-FILA-ES-LATAM.mp4",
+"takes": [
+{
+"orig": "flora/t1.mp4",
+"edit_url": "x",
+"inicio": 267.433,
+"quadros": 156
+},
+{
+"orig": "flora/t2.mp4",
+"edit_url": "x",
+"inicio": 276.7,
+"quadros": 68
+},
+{
+"orig": "flora/t5.mp4",
+"edit_url": "x",
+"inicio": 301.867,
+"quadros": 92
+},
+{
+"orig": "flora/t6.mp4",
+"edit_url": "x",
+"inicio": 304.933,
+"quadros": 78
+}
+],
+"extras": [
+{
+"clipe": "flora/cobre_fim.mp4",
+"inicio": 307.533,
+"quadros": 17
+},
+{
+"clipe": "flora/s3_fix.mp4",
+"inicio": 283.767,
+"quadros": 141
+},
+{
+"clipe": "flora/s4_fix.mp4",
+"inicio": 288.467,
+"quadros": 89
+}
+]
+}

@@ -1,0 +1,45 @@
+LaMa 03: afim leitura cv2 -> comum3, residuo 0.97 inliers 0.978 desvio medio BGR [1.22 1.42 0.99]
+p01: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.05 inliers 0.87 | quadros 73->73
+p02: saida-base antes [0.2 0.1 0.1] depois [0.1 0.1 0.1] | residuo 0.93 inliers 0.88 | quadros 90->34
+p03: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 0.96 inliers 0.89 | quadros 167->167
+p04: saida-base antes [0.2 0.1 0.1] depois [0.2 0.1 0.1] | residuo 1.05 inliers 0.85 | quadros 216->216
+p05: saida-base antes [0.2 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.12 inliers 0.85 | quadros 345->345
+p06: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.04 inliers 0.86 | quadros 354->354
+p07: saida-base antes [-1.2 -3.2 -5.2] depois [0. 0. 0.] | residuo 2.33 inliers 0.85 | quadros 239->239
+p08: saida-base antes [0.2 0.1 0.1] depois [0.2 0.1 0.1] | residuo 1.00 inliers 0.85 | quadros 96->96
+p09: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.05 inliers 0.85 | quadros 165->165
+p10: saida-base antes [0.2 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.13 inliers 0.85 | quadros 207->207
+p11: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.06 inliers 0.86 | quadros 244->244
+p12: saida-base antes [0.1 0.1 0.1] depois [0.  0.1 0.1] | residuo 1.06 inliers 0.83 | quadros 90->52
+p13: saida-base antes [0.1 0.1 0.1] depois [0.  0.1 0.1] | residuo 1.11 inliers 0.86 | quadros 199->199
+p14: saida-base antes [0.2 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.06 inliers 0.86 | quadros 276->276
+p15: saida-base antes [0.1 0.1 0.1] depois [0.1 0.1 0.1] | residuo 1.05 inliers 0.87 | quadros 121->121
+p01 ok
+  emenda p02 q73: corte
+p02 ok
+  emenda p03 q107: corte
+p03 ok
+  q282: boca do q283 colada (lote A)
+p04 ok
+  emenda p05 q499: crossfade 2q
+p05 ok
+  emenda p06 q844: crossfade 2q
+p06 ok
+  emenda p07 q1198: corte
+p07 ok
+  emenda p08 q1437: corte
+p08 ok
+p09 ok
+  emenda p10 q1791: crossfade 2q
+p10 ok
+  emenda p11 q1998: crossfade 2q
+p11 ok
+  emenda p12 q2242: corte
+p12 ok
+  emenda p13 q2294: corte
+p13 ok
+  emenda p14 q2493: corte
+p14 ok
+  emenda p15 q2769: crossfade 2q
+p15 ok
+ok quadros 2893

@@ -1,0 +1,1063 @@
+{
+ "parte": "v3 entrevista: Don Aurelio (A01-A03) + Reportera (R01-R02)",
+ "heygen": "create_video_from_image (Avatar IV), 720p, 4:5 -> 720x900, 25 fps, expressiveness low, audio wav enviado como asset",
+ "nota_tempo": "audio do take == audio enviado; 'palavras' = alinhamento ElevenLabs remapeado apos encurtar pausas (>0,25 s -> 0,25 s); 'palavras_whisper' = faster-whisper small no take",
+ "vozes": {
+  "aurelio": "Santiago VXZKNah1ssrzM8c81OiY est 0.45 estilo 0.3 vel 1.06",
+  "reportera": "Gabriela hHjbwzYZW17oh0p05AKv R01 est 0.5/0.2/1.08, R02 0.4/0.4/1.05"
+ },
+ "imagens": {
+  "aurelio": {
+   "arquivo": "imagens/aurelio_colar_v1.png",
+   "base": "v2/_trabalho/aurelio/imagens/aurelio_gpt.png",
+   "referencia": "v3/_trabalho/ref/colar_san_benito_ref.png",
+   "modelo": "Flora is2i-gpt-image-2 (GPT Image 2) 1k 4:5 high",
+   "run_id": "run_m17a611w924bf4ct9r157rq9598g8w5x",
+   "custo_usd": 0.273,
+   "nota": "colar no peito na abertura da gola, medalha redonda prata com cruz e anel de letras, corrente de elos; enquadramento ligeiramente mais fechado que a v2"
+  },
+  "reportera": {
+   "arquivo": "v2/_trabalho/imagens/reportera_gpt.png",
+   "custo_usd": 0
+  }
+ },
+ "custos": {
+  "flora_usd": 0.273,
+  "elevenlabs_usd": 0.076,
+  "heygen_creditos_estim": 106.6,
+  "heygen_nota": "estimativa 2,9 cr/s (720p); saldo 6927 -> 6875 logo apos os jobs (cobranca pode aparecer depois e outros agentes usam a mesma conta)"
+ },
+ "takes": [
+  {
+   "id": "A01",
+   "bloco": "A01",
+   "arquivo": "take_A01_aurelio.mp4",
+   "personagem": "Don Aurelio",
+   "texto": "Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.",
+   "dur": 12.6,
+   "dur_audio": 12.578,
+   "fps": 25.0,
+   "resolucao": "720x900",
+   "heygen_video_id": "9527992a8338dacc159280485cdf8a1f",
+   "imagem": "imagens/aurelio_colar_v1.png",
+   "audio_enviado": "audio/A01.wav",
+   "pausas_removidas_fonte": [
+    [
+     2.401,
+     2.452
+    ],
+    [
+     8.589,
+     8.641
+    ]
+   ],
+   "palavras": [
+    {
+     "w": "Sí,",
+     "ini": 0.035,
+     "fim": 0.464
+    },
+    {
+     "w": "eso",
+     "ini": 0.697,
+     "fim": 1.033
+    },
+    {
+     "w": "me",
+     "ini": 1.091,
+     "fim": 1.196
+    },
+    {
+     "w": "pasó",
+     "ini": 1.265,
+     "fim": 1.672
+    },
+    {
+     "w": "a",
+     "ini": 1.753,
+     "fim": 1.788
+    },
+    {
+     "w": "mí.",
+     "ini": 1.858,
+     "fim": 2.276
+    },
+    {
+     "w": "Pero",
+     "ini": 2.526,
+     "fim": 2.84
+    },
+    {
+     "w": "yo",
+     "ini": 2.91,
+     "fim": 3.06
+    },
+    {
+     "w": "había",
+     "ini": 3.119,
+     "fim": 3.595
+    },
+    {
+     "w": "aprendido",
+     "ini": 3.618,
+     "fim": 4.349
+    },
+    {
+     "w": "la",
+     "ini": 4.419,
+     "fim": 4.512
+    },
+    {
+     "w": "oración",
+     "ini": 4.558,
+     "fim": 5.185
+    },
+    {
+     "w": "del",
+     "ini": 5.255,
+     "fim": 5.394
+    },
+    {
+     "w": "Grimorio",
+     "ini": 5.464,
+     "fim": 6.056
+    },
+    {
+     "w": "Sagrado",
+     "ini": 6.114,
+     "fim": 6.706
+    },
+    {
+     "w": "y",
+     "ini": 6.752,
+     "fim": 6.776
+    },
+    {
+     "w": "Secreto",
+     "ini": 6.845,
+     "fim": 7.426
+    },
+    {
+     "w": "de",
+     "ini": 7.484,
+     "fim": 7.565
+    },
+    {
+     "w": "San",
+     "ini": 7.623,
+     "fim": 7.774
+    },
+    {
+     "w": "Benito",
+     "ini": 7.832,
+     "fim": 8.413
+    },
+    {
+     "w": "y",
+     "ini": 8.663,
+     "fim": 8.779
+    },
+    {
+     "w": "decidí",
+     "ini": 8.883,
+     "fim": 9.429
+    },
+    {
+     "w": "hacerla",
+     "ini": 9.533,
+     "fim": 10.125
+    },
+    {
+     "w": "después",
+     "ini": 10.195,
+     "fim": 10.718
+    },
+    {
+     "w": "de",
+     "ini": 10.764,
+     "fim": 10.834
+    },
+    {
+     "w": "aquella",
+     "ini": 10.868,
+     "fim": 11.379
+    },
+    {
+     "w": "situación.",
+     "ini": 11.437,
+     "fim": 12.378
+    }
+   ],
+   "whisper": "Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.",
+   "whisper_diferencas": [],
+   "palavras_whisper": [
+    {
+     "w": "Sí,",
+     "ini": 0.0,
+     "fim": 0.28
+    },
+    {
+     "w": "eso",
+     "ini": 0.76,
+     "fim": 1.02
+    },
+    {
+     "w": "me",
+     "ini": 1.02,
+     "fim": 1.18
+    },
+    {
+     "w": "pasó",
+     "ini": 1.18,
+     "fim": 1.54
+    },
+    {
+     "w": "a",
+     "ini": 1.54,
+     "fim": 1.86
+    },
+    {
+     "w": "mí.",
+     "ini": 1.86,
+     "fim": 2.06
+    },
+    {
+     "w": "Pero",
+     "ini": 2.54,
+     "fim": 2.78
+    },
+    {
+     "w": "yo",
+     "ini": 2.78,
+     "fim": 3.04
+    },
+    {
+     "w": "había",
+     "ini": 3.04,
+     "fim": 3.5
+    },
+    {
+     "w": "aprendido",
+     "ini": 3.5,
+     "fim": 4.32
+    },
+    {
+     "w": "la",
+     "ini": 4.32,
+     "fim": 4.5
+    },
+    {
+     "w": "oración",
+     "ini": 4.5,
+     "fim": 5.06
+    },
+    {
+     "w": "del",
+     "ini": 5.06,
+     "fim": 5.36
+    },
+    {
+     "w": "Grimorio",
+     "ini": 5.36,
+     "fim": 6.0
+    },
+    {
+     "w": "Sagrado",
+     "ini": 6.0,
+     "fim": 6.66
+    },
+    {
+     "w": "y",
+     "ini": 6.66,
+     "fim": 6.8
+    },
+    {
+     "w": "Secreto",
+     "ini": 6.8,
+     "fim": 7.4
+    },
+    {
+     "w": "de",
+     "ini": 7.4,
+     "fim": 7.54
+    },
+    {
+     "w": "San",
+     "ini": 7.54,
+     "fim": 7.74
+    },
+    {
+     "w": "Benito",
+     "ini": 7.74,
+     "fim": 8.34
+    },
+    {
+     "w": "y",
+     "ini": 8.34,
+     "fim": 8.82
+    },
+    {
+     "w": "decidí",
+     "ini": 8.82,
+     "fim": 9.48
+    },
+    {
+     "w": "hacerla",
+     "ini": 9.48,
+     "fim": 10.1
+    },
+    {
+     "w": "después",
+     "ini": 10.1,
+     "fim": 10.52
+    },
+    {
+     "w": "de",
+     "ini": 10.52,
+     "fim": 10.84
+    },
+    {
+     "w": "aquella",
+     "ini": 10.84,
+     "fim": 11.34
+    },
+    {
+     "w": "situación.",
+     "ini": 11.34,
+     "fim": 11.68
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.12,
+     "motivo": "dentes/boca entreaberta antes da 1a palavra (leve)"
+    },
+    {
+     "ini": 8.38,
+     "fim": 8.7,
+     "motivo": "boca aberta com dentes na pausa apos 'Benito' (cobrir)"
+    }
+   ],
+   "custo": {
+    "heygen_creditos_estim": 36.5,
+    "elevenlabs_usd": 0.0244
+   }
+  },
+  {
+   "id": "A02",
+   "bloco": "A02",
+   "arquivo": "take_A02_aurelio.mp4",
+   "personagem": "Don Aurelio",
+   "texto": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+   "dur": 6.44,
+   "dur_audio": 6.407,
+   "fps": 25.0,
+   "resolucao": "720x900",
+   "heygen_video_id": "f4707338fd05af49942b6b86ee5b076b",
+   "imagem": "imagens/aurelio_colar_v1.png",
+   "audio_enviado": "audio/A02.wav",
+   "pausas_removidas_fonte": [
+    [
+     4.456,
+     4.623
+    ]
+   ],
+   "palavras": [
+    {
+     "w": "Al",
+     "ini": 0.046,
+     "fim": 0.186
+    },
+    {
+     "w": "día",
+     "ini": 0.244,
+     "fim": 0.453
+    },
+    {
+     "w": "siguiente,",
+     "ini": 0.499,
+     "fim": 1.277
+    },
+    {
+     "w": "a",
+     "ini": 1.382,
+     "fim": 1.44
+    },
+    {
+     "w": "mi",
+     "ini": 1.509,
+     "fim": 1.614
+    },
+    {
+     "w": "carrito",
+     "ini": 1.672,
+     "fim": 2.194
+    },
+    {
+     "w": "empezaron",
+     "ini": 2.241,
+     "fim": 2.891
+    },
+    {
+     "w": "a",
+     "ini": 2.972,
+     "fim": 2.995
+    },
+    {
+     "w": "llover",
+     "ini": 3.03,
+     "fim": 3.425
+    },
+    {
+     "w": "clientes.",
+     "ini": 3.506,
+     "fim": 4.331
+    },
+    {
+     "w": "No",
+     "ini": 4.581,
+     "fim": 4.79
+    },
+    {
+     "w": "lo",
+     "ini": 4.86,
+     "fim": 4.965
+    },
+    {
+     "w": "podía",
+     "ini": 5.034,
+     "fim": 5.522
+    },
+    {
+     "w": "creer.",
+     "ini": 5.592,
+     "fim": 6.207
+    }
+   ],
+   "whisper": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+   "whisper_diferencas": [],
+   "palavras_whisper": [
+    {
+     "w": "Al",
+     "ini": 0.0,
+     "fim": 0.18
+    },
+    {
+     "w": "día",
+     "ini": 0.18,
+     "fim": 0.4
+    },
+    {
+     "w": "siguiente,",
+     "ini": 0.4,
+     "fim": 0.98
+    },
+    {
+     "w": "a",
+     "ini": 1.38,
+     "fim": 1.48
+    },
+    {
+     "w": "mi",
+     "ini": 1.48,
+     "fim": 1.62
+    },
+    {
+     "w": "carrito",
+     "ini": 1.62,
+     "fim": 2.16
+    },
+    {
+     "w": "empezaron",
+     "ini": 2.16,
+     "fim": 2.9
+    },
+    {
+     "w": "a",
+     "ini": 2.9,
+     "fim": 3.02
+    },
+    {
+     "w": "llover",
+     "ini": 3.02,
+     "fim": 3.4
+    },
+    {
+     "w": "clientes.",
+     "ini": 3.4,
+     "fim": 4.22
+    },
+    {
+     "w": "No",
+     "ini": 4.44,
+     "fim": 4.76
+    },
+    {
+     "w": "lo",
+     "ini": 4.76,
+     "fim": 4.94
+    },
+    {
+     "w": "podía",
+     "ini": 4.94,
+     "fim": 5.42
+    },
+    {
+     "w": "creer.",
+     "ini": 5.42,
+     "fim": 6.12
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.1,
+     "motivo": "boca aberta antes de falar (leve)"
+    },
+    {
+     "ini": 4.28,
+     "fim": 4.42,
+     "motivo": "dentes na pausa apos 'clientes.' (leve)"
+    }
+   ],
+   "custo": {
+    "heygen_creditos_estim": 18.6,
+    "elevenlabs_usd": 0.0129
+   }
+  },
+  {
+   "id": "A03",
+   "bloco": "A03",
+   "arquivo": "take_A03_aurelio.mp4",
+   "personagem": "Don Aurelio",
+   "texto": "¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?",
+   "dur": 8.16,
+   "dur_audio": 8.188,
+   "fps": 25.0,
+   "resolucao": "720x900",
+   "heygen_video_id": "2a239e92393737ca10aaceb432d06703",
+   "imagem": "imagens/aurelio_colar_v1.png",
+   "audio_enviado": "audio/A03.wav",
+   "pausas_removidas_fonte": [],
+   "palavras": [
+    {
+     "w": "¿Podemos",
+     "ini": 0.058,
+     "fim": 0.708
+    },
+    {
+     "w": "poner",
+     "ini": 0.778,
+     "fim": 1.161
+    },
+    {
+     "w": "aquí",
+     "ini": 1.219,
+     "fim": 1.567
+    },
+    {
+     "w": "la",
+     "ini": 1.66,
+     "fim": 1.753
+    },
+    {
+     "w": "transmisión",
+     "ini": 1.811,
+     "fim": 2.694
+    },
+    {
+     "w": "en",
+     "ini": 2.763,
+     "fim": 2.844
+    },
+    {
+     "w": "vivo",
+     "ini": 2.937,
+     "fim": 3.32
+    },
+    {
+     "w": "que",
+     "ini": 3.379,
+     "fim": 3.495
+    },
+    {
+     "w": "se",
+     "ini": 3.553,
+     "fim": 3.669
+    },
+    {
+     "w": "cayó,",
+     "ini": 3.727,
+     "fim": 4.331
+    },
+    {
+     "w": "la",
+     "ini": 4.447,
+     "fim": 4.598
+    },
+    {
+     "w": "que",
+     "ini": 4.679,
+     "fim": 4.818
+    },
+    {
+     "w": "enseña",
+     "ini": 4.865,
+     "fim": 5.608
+    },
+    {
+     "w": "esta",
+     "ini": 5.712,
+     "fim": 6.06
+    },
+    {
+     "w": "oración",
+     "ini": 6.107,
+     "fim": 6.734
+    },
+    {
+     "w": "tan",
+     "ini": 6.838,
+     "fim": 7.094
+    },
+    {
+     "w": "poderosa?",
+     "ini": 7.175,
+     "fim": 7.988
+    }
+   ],
+   "whisper": "¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?",
+   "whisper_diferencas": [],
+   "palavras_whisper": [
+    {
+     "w": "¿Podemos",
+     "ini": 0.0,
+     "fim": 0.6
+    },
+    {
+     "w": "poner",
+     "ini": 0.6,
+     "fim": 1.04
+    },
+    {
+     "w": "aquí",
+     "ini": 1.04,
+     "fim": 1.48
+    },
+    {
+     "w": "la",
+     "ini": 1.48,
+     "fim": 1.74
+    },
+    {
+     "w": "transmisión",
+     "ini": 1.74,
+     "fim": 2.62
+    },
+    {
+     "w": "en",
+     "ini": 2.62,
+     "fim": 2.88
+    },
+    {
+     "w": "vivo",
+     "ini": 2.88,
+     "fim": 3.2
+    },
+    {
+     "w": "que",
+     "ini": 3.2,
+     "fim": 3.46
+    },
+    {
+     "w": "se",
+     "ini": 3.46,
+     "fim": 3.64
+    },
+    {
+     "w": "cayó,",
+     "ini": 3.64,
+     "fim": 4.22
+    },
+    {
+     "w": "la",
+     "ini": 4.46,
+     "fim": 4.58
+    },
+    {
+     "w": "que",
+     "ini": 4.58,
+     "fim": 4.8
+    },
+    {
+     "w": "enseña",
+     "ini": 4.8,
+     "fim": 5.58
+    },
+    {
+     "w": "esta",
+     "ini": 5.58,
+     "fim": 5.98
+    },
+    {
+     "w": "oración",
+     "ini": 5.98,
+     "fim": 6.6
+    },
+    {
+     "w": "tan",
+     "ini": 6.6,
+     "fim": 7.02
+    },
+    {
+     "w": "poderosa?",
+     "ini": 7.02,
+     "fim": 7.78
+    }
+   ],
+   "intervalos_ruins": [],
+   "custo": {
+    "heygen_creditos_estim": 23.7,
+    "elevenlabs_usd": 0.0158
+   }
+  },
+  {
+   "id": "R01",
+   "bloco": "R01",
+   "arquivo": "take_R01_reportera.mp4",
+   "personagem": "Reportera",
+   "texto": "Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.",
+   "dur": 8.84,
+   "dur_audio": 8.801,
+   "fps": 25.0,
+   "resolucao": "720x900",
+   "heygen_video_id": "117982fe57a17b9d828bc339ba360272",
+   "imagem": "../../../v2/_trabalho/imagens/reportera_gpt.png",
+   "audio_enviado": "audio/R01.wav",
+   "pausas_removidas_fonte": [
+    [
+     3.48,
+     3.59
+    ],
+    [
+     5.315,
+     5.32
+    ]
+   ],
+   "palavras": [
+    {
+     "w": "Después",
+     "ini": 0.07,
+     "fim": 0.488
+    },
+    {
+     "w": "de",
+     "ini": 0.511,
+     "fim": 0.569
+    },
+    {
+     "w": "ser",
+     "ini": 0.627,
+     "fim": 0.766
+    },
+    {
+     "w": "atacado",
+     "ini": 0.824,
+     "fim": 1.231
+    },
+    {
+     "w": "por",
+     "ini": 1.289,
+     "fim": 1.44
+    },
+    {
+     "w": "un",
+     "ini": 1.509,
+     "fim": 1.579
+    },
+    {
+     "w": "cliente",
+     "ini": 1.625,
+     "fim": 2.159
+    },
+    {
+     "w": "y",
+     "ini": 2.229,
+     "fim": 2.299
+    },
+    {
+     "w": "volverse",
+     "ini": 2.368,
+     "fim": 2.879
+    },
+    {
+     "w": "viral,",
+     "ini": 2.926,
+     "fim": 3.355
+    },
+    {
+     "w": "el",
+     "ini": 3.605,
+     "fim": 3.733
+    },
+    {
+     "w": "carrito",
+     "ini": 3.803,
+     "fim": 4.209
+    },
+    {
+     "w": "de",
+     "ini": 4.267,
+     "fim": 4.325
+    },
+    {
+     "w": "don",
+     "ini": 4.371,
+     "fim": 4.499
+    },
+    {
+     "w": "Aurelio",
+     "ini": 4.569,
+     "fim": 5.08
+    },
+    {
+     "w": "se",
+     "ini": 5.33,
+     "fim": 5.481
+    },
+    {
+     "w": "convirtió",
+     "ini": 5.551,
+     "fim": 6.178
+    },
+    {
+     "w": "en",
+     "ini": 6.259,
+     "fim": 6.41
+    },
+    {
+     "w": "uno",
+     "ini": 6.572,
+     "fim": 6.723
+    },
+    {
+     "w": "de",
+     "ini": 6.781,
+     "fim": 6.839
+    },
+    {
+     "w": "los",
+     "ini": 6.897,
+     "fim": 7.048
+    },
+    {
+     "w": "más",
+     "ini": 7.153,
+     "fim": 7.397
+    },
+    {
+     "w": "pedidos",
+     "ini": 7.443,
+     "fim": 7.849
+    },
+    {
+     "w": "del",
+     "ini": 7.884,
+     "fim": 8.0
+    },
+    {
+     "w": "país.",
+     "ini": 8.07,
+     "fim": 8.604
+    }
+   ],
+   "whisper": "Después de ser atacado por un cliente y volverse viral, el carrito de Don Aurelio se convirtió en uno de los más pedidos del país.",
+   "whisper_diferencas": [],
+   "palavras_whisper": [
+    {
+     "w": "Después",
+     "ini": 0.0,
+     "fim": 0.38
+    },
+    {
+     "w": "de",
+     "ini": 0.38,
+     "fim": 0.56
+    },
+    {
+     "w": "ser",
+     "ini": 0.56,
+     "fim": 0.72
+    },
+    {
+     "w": "atacado",
+     "ini": 0.72,
+     "fim": 1.24
+    },
+    {
+     "w": "por",
+     "ini": 1.24,
+     "fim": 1.44
+    },
+    {
+     "w": "un",
+     "ini": 1.44,
+     "fim": 1.6
+    },
+    {
+     "w": "cliente",
+     "ini": 1.6,
+     "fim": 2.22
+    },
+    {
+     "w": "y",
+     "ini": 2.22,
+     "fim": 2.34
+    },
+    {
+     "w": "volverse",
+     "ini": 2.34,
+     "fim": 2.82
+    },
+    {
+     "w": "viral,",
+     "ini": 2.82,
+     "fim": 3.16
+    },
+    {
+     "w": "el",
+     "ini": 3.64,
+     "fim": 3.74
+    },
+    {
+     "w": "carrito",
+     "ini": 3.74,
+     "fim": 4.18
+    },
+    {
+     "w": "de",
+     "ini": 4.18,
+     "fim": 4.32
+    },
+    {
+     "w": "Don",
+     "ini": 4.32,
+     "fim": 4.46
+    },
+    {
+     "w": "Aurelio",
+     "ini": 4.46,
+     "fim": 5.02
+    },
+    {
+     "w": "se",
+     "ini": 5.02,
+     "fim": 5.46
+    },
+    {
+     "w": "convirtió",
+     "ini": 5.46,
+     "fim": 6.12
+    },
+    {
+     "w": "en",
+     "ini": 6.12,
+     "fim": 6.44
+    },
+    {
+     "w": "uno",
+     "ini": 6.44,
+     "fim": 6.66
+    },
+    {
+     "w": "de",
+     "ini": 6.66,
+     "fim": 6.84
+    },
+    {
+     "w": "los",
+     "ini": 6.84,
+     "fim": 7.0
+    },
+    {
+     "w": "más",
+     "ini": 7.0,
+     "fim": 7.3
+    },
+    {
+     "w": "pedidos",
+     "ini": 7.3,
+     "fim": 7.8
+    },
+    {
+     "w": "del",
+     "ini": 7.8,
+     "fim": 7.98
+    },
+    {
+     "w": "país.",
+     "ini": 7.98,
+     "fim": 8.26
+    }
+   ],
+   "intervalos_ruins": [
+    {
+     "ini": 0.0,
+     "fim": 0.12,
+     "motivo": "sorriso com dentes antes de falar (leve)"
+    },
+    {
+     "ini": 3.34,
+     "fim": 3.62,
+     "motivo": "boca muito aberta com dentes na pausa apos 'cliente,' (cobrir)"
+    },
+    {
+     "ini": 5.18,
+     "fim": 5.34,
+     "motivo": "sorriso com dentes na pausa apos 'viral,' (leve)"
+    }
+   ],
+   "custo": {
+    "heygen_creditos_estim": 25.5,
+    "elevenlabs_usd": 0.0215
+   }
+  },
+  {
+   "id": "R02",
+   "bloco": "R02",
+   "arquivo": "take_R02_reportera_claro.mp4",
+   "personagem": "Reportera",
+   "texto": "¡Claro!",
+   "dur": 0.8,
+   "dur_audio": 0.789,
+   "fps": 25.0,
+   "resolucao": "720x900",
+   "heygen_video_id": "1b24b2b946ab3444851a9da038e333f2",
+   "imagem": "../../../v2/_trabalho/imagens/reportera_gpt.png",
+   "audio_enviado": "audio/R02.wav",
+   "pausas_removidas_fonte": [],
+   "palavras": [
+    {
+     "w": "¡Claro!",
+     "ini": 0.035,
+     "fim": 0.604
+    }
+   ],
+   "whisper": "¡Claro!",
+   "whisper_diferencas": [],
+   "palavras_whisper": [
+    {
+     "w": "¡Claro!",
+     "ini": 0.0,
+     "fim": 0.5
+    }
+   ],
+   "intervalos_ruins": [],
+   "custo": {
+    "heygen_creditos_estim": 2.3,
+    "elevenlabs_usd": 0.0012
+   }
+  }
+ ]
+}

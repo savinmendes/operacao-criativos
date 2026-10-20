@@ -1,0 +1,46 @@
+REVISÃO: A3 - DEVOLVER-UNA-PASADA-ES-CL.mp4
+duração 51.80s | 720x1280 | 30/1 fps | áudio: sim | 24.8 MB
+decodificação: OK
+pts do áudio: 2427 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 51.01-51.80
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 929-1075, x 156-563 | no último quadro: sim | faixa escura do rodapé: 1136-1194
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\A\revisao\A3 - DEVOLVER-UNA-PASADA-ES-CL_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.64 Una pasada y el pasto que me llegaba a la rodilla desapareció.
+   4.64-  7.64 Quien inventó esto merece un aumento.
+   7.64- 11.16 Si todavía andas arrastrando un cortapasto pesado
+  11.16- 15.36 o peleando con esas desbrosadoras que se traban, mira esto.
+  15.36- 19.16 Es cortapasto, orilladora y bordeadora en uno.
+  19.16- 22.88 Y ojo, pesa unos 4,5 kilos y tiene ruedas.
+  22.88- 25.52 Así que la puedes usar con una sola mano.
+  25.52- 29.44 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  29.44- 32.44 Esta usa una cuchilla de metal reforzada.
+  32.44- 33.60 Es inalámbrica.
+  33.60- 38.36 Trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  38.36- 42.16 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  42.16- 46.44 Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  46.44- 51.04 Toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  4.64    A pass and the paste that came to my knee disappeared.
+   4.64-  7.68    Who invented this deserves an increase.
+   7.68- 13.32    If you are still dragging a heavy paste cut or fighting with those defibrillators that
+  13.32- 15.56    get stuck, look at this.
+  15.56- 19.24    It is paste cut, edge and edge in one.
+  19.24- 24.48    And be careful, it weighs about 4.5 kilos and has wheels, so you can use it with
+  24.48- 25.60    a single hand.
+  25.60- 29.80    Forget about those plastic threads that are cut every time.
+  29.80- 32.46    This uses a reinforced metal knife.
+  32.46- 38.42    It's inalambric, it has two 21 volt batteries, and you just press a button and it's ready.
+  38.42- 42.24    Fast, easy and much more practical than you'd imagine.
+  42.24- 46.52    It's free, you pay when you receive it and you have 90 days of warranty.
+  46.52- 51.00    Tocca el botón de abajo y pide tu podadora in alámbrica de césped con ruedas.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

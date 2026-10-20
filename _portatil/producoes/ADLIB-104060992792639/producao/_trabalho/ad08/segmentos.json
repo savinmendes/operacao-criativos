@@ -1,0 +1,124 @@
+{
+ "fps": 30,
+ "cobrir": {
+  "s01": {
+   "quadros": [
+    0,
+    285
+   ],
+   "recorte": [
+    110,
+    560,
+    380,
+    676
+   ]
+  }
+ },
+ "segmentos": [
+  {
+   "nome": "s02",
+   "quadro_ini": 293,
+   "quadro_fim": 583,
+   "n": 291,
+   "pad": 0
+  },
+  {
+   "nome": "s03",
+   "quadro_ini": 584,
+   "quadro_fim": 877,
+   "n": 294,
+   "pad": 0
+  },
+  {
+   "nome": "s04",
+   "quadro_ini": 878,
+   "quadro_fim": 1167,
+   "n": 290,
+   "pad": 0
+  },
+  {
+   "nome": "s05",
+   "quadro_ini": 1168,
+   "quadro_fim": 1228,
+   "n": 61,
+   "pad": 29
+  },
+  {
+   "nome": "s06",
+   "quadro_ini": 1229,
+   "quadro_fim": 1325,
+   "n": 97,
+   "pad": 0
+  },
+  {
+   "nome": "s07",
+   "quadro_ini": 1326,
+   "quadro_fim": 1548,
+   "n": 223,
+   "pad": 0
+  },
+  {
+   "nome": "s08",
+   "quadro_ini": 1549,
+   "quadro_fim": 1653,
+   "n": 105,
+   "pad": 0
+  },
+  {
+   "nome": "s09",
+   "quadro_ini": 1654,
+   "quadro_fim": 1873,
+   "n": 220,
+   "pad": 0
+  },
+  {
+   "nome": "s10",
+   "quadro_ini": 1874,
+   "quadro_fim": 2173,
+   "n": 300,
+   "pad": 0
+  },
+  {
+   "nome": "s11",
+   "quadro_ini": 2174,
+   "quadro_fim": 2319,
+   "n": 146,
+   "pad": 0
+  },
+  {
+   "nome": "s12",
+   "quadro_ini": 2320,
+   "quadro_fim": 2412,
+   "n": 93,
+   "pad": 0
+  },
+  {
+   "nome": "s13",
+   "quadro_ini": 2413,
+   "quadro_fim": 2514,
+   "n": 102,
+   "pad": 0
+  },
+  {
+   "nome": "s14",
+   "quadro_ini": 2515,
+   "quadro_fim": 2621,
+   "n": 107,
+   "pad": 0
+  },
+  {
+   "nome": "s15",
+   "quadro_ini": 2622,
+   "quadro_fim": 2768,
+   "n": 147,
+   "pad": 0
+  },
+  {
+   "nome": "s16",
+   "quadro_ini": 2769,
+   "quadro_fim": 2920,
+   "n": 152,
+   "pad": 0
+  }
+ ]
+}

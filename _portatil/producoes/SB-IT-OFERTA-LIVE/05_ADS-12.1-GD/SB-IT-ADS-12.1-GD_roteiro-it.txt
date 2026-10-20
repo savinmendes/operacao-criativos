@@ -1,0 +1,44 @@
+SB-IT-ADS-12.1-GD — San Benedetto · Italiano (Italia, EUR)
+Origem: SB-EN-ADS-12.1-GD (base EN) ← SB-ES_10_ADS-12.1-GD.mp4 (ES, 31,6 s). Destino: la preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più").
+Sem produto e sem preço no vídeo. Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN, eleven_multilingual_v2.
+
+======================================================================
+ROTEIRO EN × IT (mesmas cenas e mesmos cortes)
+======================================================================
+[GANCHO 0,0 s]
+EN: If you ignore me, I will have no choice but to give the miracle you need so much to someone else.
+IT: Se mi ignori... non avrò altra scelta: darò a qualcun altro il miracolo di cui hai tanto bisogno.
+
+[5,75 s Jesus falando]
+EN: This is your last chance to receive what I have prepared for you.
+IT: Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.
+
+[10,1 s abraço]
+EN: Jesus has chosen you. He has brought you a powerful gift.
+IT: Gesù ti ha scelto. Ti ha portato un dono potente.
+
+[14,35 s Jesus ajoelhado / livro nas nuvens]
+EN: Today, you will hear an ancient, lost prayer from the Bible, that will unlock a shower of blessings and miracles over your life.
+IT: Oggi ascolterai un'antica preghiera perduta della Bibbia, che sbloccherà una pioggia di benedizioni e miracoli sulla tua vita.
+
+[23,0 s Jesus com a cruz]
+EN: Do not reject me... again.
+IT: Non rifiutarmi... di nuovo.
+
+[25,75 s CTA ("Tocca" ainda no fim da cena da cruz; Jesus falando + setas a partir de 26,1 s; pausa de ~0,45 s antes de "Ricevi" em 28,6 s)]
+EN: Tap Learn More below, and join the live prayer right now. Receive your miracle, before it is too late.
+IT: Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta. Ricevi il tuo miracolo, prima che sia troppo tardi.
+
+TEXTO NA TELA
+- Carimbo vermelho na conta do gancho (0–5 s): "OVERDUE" (EN) → "SCADUTO" (IT), mesma moldura, cor, inclinação e desfoque.
+- Legenda palavra a palavra em caixa alta no estilo do EN (vermelho: IGNORI, MIRACOLO, ULTIMA OCCASIONE, DONO, VITA, RIFIUTARMI, TARDI; amarelo: PREPARATO, SCELTO, ASCOLTERAI, PREGHIERA, SCOPRI DI PIÙ, DIRETTA; verde: BENEDIZIONI). Setas vermelhas do original mantidas no CTA.
+
+Decisões de tradução
+- "Saint Benedict"/"San Benito" = "San Benedetto" (só no texto do anúncio; o vídeo não cita o santo).
+- "lost prayer from the Bible" = "preghiera perduta della Bibbia" (como no ES/EN).
+- "Today, you will hear" = "Oggi ascolterai" (destino é a live, não um vídeo).
+- CTA padrão do lote: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta" + "Ricevi il tuo miracolo, prima che sia troppo tardi" (mesma urgência do ES/EN, sem suavizar).
+- Gancho: "Se mi ignori..." com pausa curta depois de "ignori" — na leitura corrida a voz engolia o "mi" (o whisper ouvia "migliori"); com a pausa sai claro. Gancho e CTA a velocidade 1,12–1,15 para caber nos mesmos cortes (o italiano é ~20% mais longo que o inglês).
+- CTA: a 1ª versão do lipsync (fala corrida, sem pausa) foi reprovada no checar_lipsync (corr. 0,14). Refeito com o "Tocca" começando 0,35 s antes do corte para a cena do Jesus e uma pausa de ~0,45 s entre as duas frases.
+
+HeyGen (lipsync mode speed, entrada com o áudio ES original): hook 4c308e70 (aprov., pausa 0,59), jb 797aa6b2 (aprov., 0,21), cta v1 211fdfd2 (reprovado, descartado), cta v2 c8e0711d (usado; AVISO 0,86 em só 6 quadros de pausa: na pausa ele fica sorrindo de lábios quase fechados, como o original), cta v2 reenvio 6881b183 (cópia, reenviado cedo por engano do agente; não usado). Total: 5 jobs.

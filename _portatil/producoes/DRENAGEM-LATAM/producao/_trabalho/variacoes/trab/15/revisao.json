@@ -1,0 +1,34 @@
+{
+ "arquivo": "VAR 15 - G5-CARRITO x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 285.7,
+ "mb": 35.2,
+ "whisper_gancho": "Tres semanas lo dejé en el carrito. Siempre decía, mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.",
+ "whisper_emenda": "perdidas. Esta es mi historia. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  0.966667,
+  3.033333,
+  4.266667,
+  5.433333,
+  7.033333,
+  7.866667,
+  8.766667
+ ],
+ "cortes_plan": [
+  0.967,
+  3.033,
+  4.267,
+  5.433,
+  7.033,
+  7.867
+ ],
+ "silencios": [
+  [
+   58.2,
+   59.03
+  ]
+ ],
+ "ok": true
+}

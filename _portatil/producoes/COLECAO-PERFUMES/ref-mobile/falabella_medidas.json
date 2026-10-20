@@ -1,0 +1,98 @@
+{
+ "url": "https://www.falabella.com/falabella-cl/collection/perfumes-arabes",
+ "status": "ok (headless)",
+ "primeiro_card": {
+  "y_px": 729,
+  "pct_viewport": 86,
+  "obs": "inclui banner de app fixo de 186px no topo; sem ele ~543px (64%)"
+ },
+ "primeira_imagem": {
+  "y_px": 730,
+  "w": 193,
+  "h": 193,
+  "aspecto": 1.0
+ },
+ "titulo": {
+  "h1": "Perfumes Árabes",
+  "fonte": "Lato",
+  "size": "18px",
+  "weight": 300,
+  "descricao": "nenhuma",
+  "banner": "sem banner; carrossel de logos de marca (~100px) acima do título"
+ },
+ "header": {
+  "altura_px": 138,
+  "position": "static",
+  "obs": "busca em linha própria + 'Ingresa tu ubicación'"
+ },
+ "chips": {
+  "linha_horizontal": true,
+  "itens": "(0) Género / Formato / Tipo / Frecuencia de uso... + 'Envío gratis'",
+  "altura": 30,
+  "font": "12px/700",
+  "radius": "8px",
+  "borda": "1px #343E49",
+  "extra": "linha 'Filtrar por Marca' com botões de marca 32px, 11px"
+ },
+ "filtro_ordenar": {
+  "sticky": true,
+  "detalhe": "após rolar, chips + '+2.849 resultados' viram fixed no topo (126px)"
+ },
+ "contagem": {
+  "texto": "+2.849 resultados",
+  "y": 582,
+  "size": "14px",
+  "posicao": "abaixo dos chips"
+ },
+ "card": {
+  "layout": "cards colados (gap 0) separados por borda 1px; card 195px",
+  "badges": "'Envío gratis' 12px verde acima da marca; desconto '-52%' 12px/700 branco em vermelho #EB0029, 18px de altura, ao lado do preço",
+  "marca": {
+   "size": "13px",
+   "weight": 700,
+   "cor": "#767676",
+   "uppercase": true
+  },
+  "nome": {
+   "size": "14px",
+   "weight": 700,
+   "cor": "#4A4A4A",
+   "line_clamp": 3,
+   "alinhamento": "esquerda"
+  },
+  "vendedor": "'Por Falabella' 13px",
+  "preco": {
+   "size": "18px",
+   "weight": 400,
+   "cor": "#717171"
+  },
+  "preco_de": {
+   "size": "14px",
+   "riscado": true,
+   "posicao": "linha abaixo do preço"
+  },
+  "extras": "'3 cuotas sin interés' 12px com selo CMR",
+  "rating": "estrelas + (480) 9px",
+  "cta": {
+   "texto": "Agregar",
+   "altura": 40,
+   "largura": 173,
+   "font": "19px/700",
+   "bg": "#343E49",
+   "radius": "30px",
+   "obs": "existe no DOM com opacity 1, mas não aparece no screenshot (área em branco no fim do card): precisa de revisão manual"
+  }
+ },
+ "grid": {
+  "colunas": 2,
+  "gap_coluna": 0,
+  "gap_linha": 1,
+  "padding_lateral": 0
+ },
+ "fontes": {
+  "body": "Lato",
+  "titulos": "Lato"
+ },
+ "seo": "não visível (só lista oculta de marcas no DOM)",
+ "fixos": "banner de app fixo 186px no topo; após rolar, barra de filtros fixa no topo"
+}

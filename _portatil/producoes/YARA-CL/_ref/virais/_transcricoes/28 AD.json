@@ -1,0 +1,41 @@
+{
+ "idioma": "en",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 5.5,
+   "texto": "You put this on at 7 in the morning for a Sunday out, and by 9 at night, people are still asking what you're wearing."
+  },
+  {
+   "ini": 5.5,
+   "fim": 11.1,
+   "texto": "This is New Orbis. It opens with pineapple, mango, passion fruit, and fresh citrus right away."
+  },
+  {
+   "ini": 11.1,
+   "fim": 13.8,
+   "texto": "Clean, tropical, and instantly addictive."
+  },
+  {
+   "ini": 13.8,
+   "fim": 18.6,
+   "texto": "But wait for it. As it settles on skin, the warm woods come through and everything changes."
+  },
+  {
+   "ini": 18.6,
+   "fim": 23.4,
+   "texto": "This is the moment you stop smelling like just another fragrance, and start smelling like confidence."
+  },
+  {
+   "ini": 23.4,
+   "fim": 26.1,
+   "texto": "And this isn't one of those fragrances that disappears after an hour."
+  },
+  {
+   "ini": 26.1,
+   "fim": 28.5,
+   "texto": "It's made to stay with you through the day and into the night."
+  }
+ ]
+}

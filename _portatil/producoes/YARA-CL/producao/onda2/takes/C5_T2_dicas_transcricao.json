@@ -1,0 +1,124 @@
+{
+ "texto": "Al frotarlo rompes el aroma. Aplícalo en el pulso, muy jegas, cuello y detrás de las orejas y deja que se seque solo.",
+ "esperado": "Al frotarlo rompes el aroma. Aplícalo en el pulso: muñecas, cuello y detrás de las orejas, y deja que se seque solo.",
+ "faltam": [
+  "munecas"
+ ],
+ "palavras": [
+  {
+   "p": "Al",
+   "ini": 0.0,
+   "fim": 0.22
+  },
+  {
+   "p": "frotarlo",
+   "ini": 0.22,
+   "fim": 1.0
+  },
+  {
+   "p": "rompes",
+   "ini": 1.0,
+   "fim": 1.62
+  },
+  {
+   "p": "el",
+   "ini": 1.62,
+   "fim": 1.82
+  },
+  {
+   "p": "aroma.",
+   "ini": 1.82,
+   "fim": 2.24
+  },
+  {
+   "p": "Aplícalo",
+   "ini": 2.74,
+   "fim": 3.18
+  },
+  {
+   "p": "en",
+   "ini": 3.18,
+   "fim": 3.36
+  },
+  {
+   "p": "el",
+   "ini": 3.36,
+   "fim": 3.54
+  },
+  {
+   "p": "pulso,",
+   "ini": 3.54,
+   "fim": 4.5
+  },
+  {
+   "p": "muy",
+   "ini": 4.64,
+   "fim": 4.86
+  },
+  {
+   "p": "jegas,",
+   "ini": 4.86,
+   "fim": 5.68
+  },
+  {
+   "p": "cuello",
+   "ini": 5.88,
+   "fim": 6.36
+  },
+  {
+   "p": "y",
+   "ini": 6.36,
+   "fim": 6.8
+  },
+  {
+   "p": "detrás",
+   "ini": 6.8,
+   "fim": 7.14
+  },
+  {
+   "p": "de",
+   "ini": 7.14,
+   "fim": 7.28
+  },
+  {
+   "p": "las",
+   "ini": 7.28,
+   "fim": 7.52
+  },
+  {
+   "p": "orejas",
+   "ini": 7.52,
+   "fim": 8.12
+  },
+  {
+   "p": "y",
+   "ini": 8.12,
+   "fim": 8.56
+  },
+  {
+   "p": "deja",
+   "ini": 8.56,
+   "fim": 8.9
+  },
+  {
+   "p": "que",
+   "ini": 8.9,
+   "fim": 9.2
+  },
+  {
+   "p": "se",
+   "ini": 9.2,
+   "fim": 9.36
+  },
+  {
+   "p": "seque",
+   "ini": 9.36,
+   "fim": 9.58
+  },
+  {
+   "p": "solo.",
+   "ini": 9.58,
+   "fim": 9.9
+  }
+ ]
+}

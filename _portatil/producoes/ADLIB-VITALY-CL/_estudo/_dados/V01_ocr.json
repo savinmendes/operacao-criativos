@@ -1,0 +1,268 @@
+[
+ {
+  "t": 0,
+  "txt": [
+   [
+    "el drenaje linfatico",
+    0.98,
+    [
+     199,
+     245
+    ]
+   ],
+   [
+    "literaltetranshorma",
+    0.97,
+    [
+     254,
+     299
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 1,
+  "txt": [
+   [
+    "el drenaje linfatico",
+    0.98,
+    [
+     199,
+     245
+    ]
+   ],
+   [
+    "literal te transhorma",
+    0.96,
+    [
+     253,
+     299
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 2,
+  "txt": [
+   [
+    "el drenajelinfatico",
+    0.98,
+    [
+     199,
+     245
+    ]
+   ],
+   [
+    "literal te transhorma",
+    0.94,
+    [
+     252,
+     300
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 3,
+  "txt": [
+   [
+    "el drenaje linfatico",
+    0.97,
+    [
+     199,
+     245
+    ]
+   ],
+   [
+    "literal te transhorma",
+    0.96,
+    [
+     254,
+     298
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 4,
+  "txt": [
+   [
+    "televantassinhinchazon.",
+    0.99,
+    [
+     171,
+     208
+    ]
+   ],
+   [
+    "Adios a la retencion deliquidos.",
+    0.94,
+    [
+     212,
+     250
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 5,
+  "txt": [
+   [
+    "televantas sin hinchazon.",
+    0.96,
+    [
+     173,
+     205
+    ]
+   ],
+   [
+    "Adios a la retencion de liquidos.",
+    0.96,
+    [
+     212,
+     250
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 6,
+  "txt": [
+   [
+    "te levantas sin hinchazon.",
+    0.97,
+    [
+     172,
+     209
+    ]
+   ],
+   [
+    "Adiosa la retencion de liquidos.",
+    0.96,
+    [
+     212,
+     250
+    ]
+   ],
+   [
+    "ABOLISH",
+    0.99,
+    [
+     621,
+     676
+    ]
+   ],
+   [
+    "CE",
+    0.96,
+    [
+     663,
+     772
+    ]
+   ],
+   [
+    "KEE",
+    0.69,
+    [
+     842,
+     866
+    ]
+   ],
+   [
+    "S",
+    0.8,
+    [
+     859,
+     878
+    ]
+   ],
+   [
+    "TOGETH",
+    0.94,
+    [
+     878,
+     904
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 7,
+  "txt": [
+   [
+    "2 gotas en agua por",
+    0.97,
+    [
+     687,
+     739
+    ]
+   ],
+   [
+    "las mananas",
+    1.0,
+    [
+     740,
+     782
+    ]
+   ],
+   [
+    "ABOLISH",
+    0.99,
+    [
+     781,
+     818
+    ]
+   ],
+   [
+    "ICE",
+    0.85,
+    [
+     822,
+     955
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 8,
+  "txt": [
+   [
+    "2 gotas en agua por",
+    0.95,
+    [
+     687,
+     738
+    ]
+   ],
+   [
+    "las mananas",
+    0.96,
+    [
+     739,
+     782
+    ]
+   ]
+  ]
+ },
+ {
+  "t": 9,
+  "txt": [
+   [
+    "2 gotas en agua por",
+    0.99,
+    [
+     686,
+     735
+    ]
+   ],
+   [
+    "las mananas",
+    0.96,
+    [
+     740,
+     782
+    ]
+   ]
+  ]
+ }
+]

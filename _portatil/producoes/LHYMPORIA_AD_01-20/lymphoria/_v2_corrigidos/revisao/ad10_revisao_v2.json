@@ -1,0 +1,63 @@
+{
+ "entregue": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\AD 10 - LYMPHORIA-MATRIMONIO-ES-LATAM.mp4",
+ "v2": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\AD 10 - LYMPHORIA-MATRIMONIO-ES-LATAM v2.mp4",
+ "info_entregue": {
+  "duracao": 439.0,
+  "quadros": 13165,
+  "dur_audio": 439.0,
+  "mb": 52.3
+ },
+ "info_v2": {
+  "duracao": 439.0,
+  "quadros": 13165,
+  "dur_audio": 439.0,
+  "mb": 53.3
+ },
+ "md5_audio_entregue": "ccabb00906bce5c73cf338efeea1df9e",
+ "md5_audio_v2": "ccabb00906bce5c73cf338efeea1df9e",
+ "audio_identico": true,
+ "duracao_igual": true,
+ "janelas": [
+  [
+   "flora/t3_final.mp4",
+   11260,
+   11335,
+   375.333,
+   377.833
+  ],
+  [
+   "flora/t1_final.mp4",
+   11506,
+   11547,
+   383.533,
+   384.9
+  ]
+ ],
+ "quadros_comparados": 13165,
+ "fora_dos_takes": {
+  "quadros": 13049,
+  "psnr_min": 27.86,
+  "psnr_medio": 38.71,
+  "px40_max": 13713,
+  "px40_medio": 168.27,
+  "quadro_px40_max": 9476,
+  "t_px40_max": 315.87
+ },
+ "dentro_dos_takes": {
+  "quadros": 116,
+  "psnr_medio": 34.75,
+  "px40_medio": 783.8,
+  "px40_max": 1413
+ },
+ "parte1_fora_dos_takes": {
+  "quadros": 12363,
+  "px40_max": 57,
+  "t_px40_max": 284.77,
+  "quadros_com_px40>50": 5
+ },
+ "parte1_dentro_dos_takes": {
+  "quadros": 116,
+  "px40_medio": 539.2
+ },
+ "folha_zoom": "C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_corrigidos\\revisao\\AD10_takes_zoom3x.jpg"
+}

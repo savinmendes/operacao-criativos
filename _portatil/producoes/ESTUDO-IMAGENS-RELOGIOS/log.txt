@@ -1,0 +1,7 @@
+AlphaGear 1203 anúncios | Counter({'VIDEO': 608, 'DCO': 290, 'IMAGE': 199, 'DPA': 63, None: 22, 'CAROUSEL': 13, 'MULTI_IMAGES': 8}) | páginas: [('AlphaGear USA', 639), ('Alphagear EU', 80), ('Dertylma', 65), ('Chriskol', 62)]
+lerie', 9)]
+n', 12)]
+Laphont 1208 anúncios | Counter({'VIDEO': 705, 'DCO': 319, 'IMAGE': 152, 'DPA': 28, 'MULTI_IMAGES': 2, 'CAROUSEL': 1, None: 1}) | páginas: [('Laphont', 1200), ('t.kab.ua', 2), ('沙發選物', 2), ('The Feeting Room', 2)]
+om', 253)]
+Lucky Fours 330 anúncios | Counter({'VIDEO': 152, 'IMAGE': 83, 'DCO': 75, 'DPA': 18, 'CAROUSEL': 1, None: 1}) | páginas: [('Lucky Fours', 304), ('Marco Levion ', 6), ('markkmiranda', 2), ('Drew Elia Productions', 2)]
+FIM

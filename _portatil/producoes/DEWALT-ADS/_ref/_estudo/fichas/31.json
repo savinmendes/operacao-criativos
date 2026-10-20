@@ -1,0 +1,61 @@
+{
+ "idioma": "es (Perú, whisper 0.99)",
+ "origem": {
+  "perfil": "@becsaperu (TikTok)",
+  "tipo": "loja/distribuidor DeWalt Perú (BECSA)"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 152.6,
+ "cortes": {
+  "n": 14,
+  "tempos_s": [
+   4.1,
+   17.4,
+   24.5,
+   39.9,
+   51.4,
+   66.6,
+   71.4,
+   76.0,
+   110.7,
+   112.2,
+   117.8,
+   125.6,
+   130.1,
+   143.9
+  ],
+  "ritmo": "lento (~10 s por plano)"
+ },
+ "formato": "talking head vendedor explicando produto em pé, na frente da loja (tenda DeWalt)",
+ "gancho": {
+  "visual": "homem de óculos escuros e camisa DeWalt ao lado do taladro magnético na base amarela",
+  "fala": "'El día de hoy vamos a presentar el nuevo taladro magnético inalámbrico de la marca DeWalt.'",
+  "texto_tela": "selo WhatsApp 967 426 680 + BECSA PERU fixos"
+ },
+ "corpo": [
+  {
+   "t": "0-150",
+   "bloco": "explicação técnica contínua das funções do taladro magnético (base magnética, alavanca, motor) com mãos no produto"
+  }
+ ],
+ "cta": "sem CTA falado; WhatsApp 967 426 680 fixo na tela",
+ "texto_tela": "número WhatsApp + BECSA PERU fixos o vídeo todo; marca d'água BECSA no centro",
+ "produto": {
+  "modelo": "DCD1623 (taladro magnético FlexVolt, pelo texto do post)",
+  "nosso_produto": false
+ },
+ "rosto": {
+  "sim": true,
+  "tempo": "~100% do vídeo"
+ },
+ "marca_dagua": "BECSA (centro) + WhatsApp/BECSA PERU no canto",
+ "audio": "voz do vendedor (espanhol neutro andino), sem música aparente",
+ "uso": "descartar",
+ "uso_motivo": "produto industrial diferente (furadeira magnética), público outro, rosto o tempo todo, marca d'água",
+ "nota": 0,
+ "nota_just": "nada reaproveitável para kit DCD7771 COD Chile.",
+ "ad": "31",
+ "fala_resumo": "fala: magneto mecânico sem energia, 1000 kg de agarre, baterias 20V, brocas Weldon, perfuração de 7 mm em <10 s, recomendação para metal-mecânica",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\31.json",
+ "n_segmentos_fala": 31
+}

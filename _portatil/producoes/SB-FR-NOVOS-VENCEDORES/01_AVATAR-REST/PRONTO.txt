@@ -1,0 +1,15 @@
+PRONTO 17/10/2026 — SB-FR-AVATAR-REST.mp4 (1080x1920, 30 fps, 61,3 s, -17 LUFS)
+Vozes ElevenLabs existentes: comerciante = Martin (b0Ev8lcOOXx2o9ZcF46H); padre = Jérôme (TES2Z4FdTbwd5F5uHmLW). Nenhuma voz criada.
+HeyGen lipsync speed: 10 jobs (batch 9ca7ecb6cfb94496bb7463d3fe16a332 + a9c77ba73b0e4dbba487c0ad440e8023).
+revisar_ad.py (whisper fr + proibidos): OK. Revisor independente: sem bloqueante.
+Ressalvas: selfie 13,8-16,2 s com boca de choro pouco aberta (checar_lipsync correlação baixa; a olho articula e fecha na pausa);
+jump cuts na selfie em 12,9 s e 15,0 s; boca um pouco mais lisa que o rosto no zoom (HeyGen); altar congela ~0,4 s no fim (após a fala).
+
+v2 17/10/2026 (padre refeito; v1 guardado em _trabalho\SB-FR-AVATAR-REST_v1.mp4)
+- Padre gerado do zero: HeyGen Avatar IV (create_video_from_image), 720p 9:16, 1 job (ab3fd8dfb19f191cbd06036f90931514), imagem base = quadro 1202 do original
+  (boca fechada, frontal, mãos postas) com a legenda ES apagada por LaMa; áudio = os 5 trechos do padre_fr.mp3 (voz Jérôme) que ficam na tela, 15,2 s.
+  720 -> 1080x1920 com lanczos (o Real-ESRGAN animevideov3 deixou a pele artificial), cor casada em Lab, quadro mais próximo 25->30 fps, sem retoque na boca.
+  Planos do padre entram 1 quadro antes da 1a palavra; o silêncio da entrada fica coberto pelo b-roll anterior alongado (<=1,25x).
+- Áudio pela RECEITA_LIMPAR_CHIADO.md (+ afftdn na trilha): 7-14 kHz nas pausas -73,6 -> -101,5 dBFS; tapete na fala -93,4 -> -104,6; -16 LUFS, TP -1,7.
+- Sincronia: o v1 tinha o áudio ~110 ms adiantado depois do 1o jump cut (aselect corta por bloco). Corrigido.
+- QA: revisar_ad (whisper fr) OK; checar_lipsync padre1 APROVADO (0,26), padre2-5 AVISO por não terem pausa (lábios fecham nas bilabiais); revisor independente: 1 bloqueante (remendo de boca no monge, q.1666) corrigido.

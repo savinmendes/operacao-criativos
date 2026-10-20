@@ -1,0 +1,21 @@
+{
+ "cod": "G4",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\G4 - LLUVIA-DE-PASTO-A-ES-CL.mp4",
+ "gancho_s": 4.0,
+ "fala_s": 3.251,
+ "tomadas": [
+  [
+   "G4.mp4",
+   0.2,
+   4.0
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 51.1,
+ "ganho_fala_db": -1.4,
+ "mb": 26.0,
+ "kbps": 4344,
+ "texto": [
+  "MIRA CÓMO CORTA"
+ ]
+}

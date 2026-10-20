@@ -1,0 +1,68 @@
+s00 ls_s00_loteB.mp4 quadros HeyGen 224 | trecho 224 | extra 0
+s02 ls_s02.mp4 quadros HeyGen 182 | trecho 182 | extra 0
+s03 ls_s03.mp4 quadros HeyGen 216 | trecho 216 | extra 0
+s04 ls_s04.mp4 quadros HeyGen 235 | trecho 235 | extra 0
+s05 ls_s05.mp4 quadros HeyGen 231 | trecho 231 | extra 0
+s06 ls_s06.mp4 quadros HeyGen 219 | trecho 219 | extra 0
+s07 ls_s07.mp4 quadros HeyGen 239 | trecho 239 | extra 0
+s08 ls_s08.mp4 quadros HeyGen 74 | trecho 53 | extra 0
+s09 ls_s09.mp4 quadros HeyGen 74 | trecho 55 | extra 0
+s10 ls_s10.mp4 quadros HeyGen 154 | trecho 154 | extra 0
+s11 ls_s11.mp4 quadros HeyGen 74 | trecho 68 | extra 0
+s12 ls_s12.mp4 quadros HeyGen 200 | trecho 200 | extra 0
+alinhamento base x original: deslocamento -2 dif 8.7
+alinhamento base x original: deslocamento -1 dif 7.01
+alinhamento base x original: deslocamento 0 dif 5.07
+alinhamento base x original: deslocamento 1 dif 11.03
+alinhamento base x original: deslocamento 2 dif 9.75
+cor global base->original (BGR, linhas B G R 1):
+ [[ 0.9169  0.1506 -0.1575]
+ [ 0.1114  0.5596 -0.1178]
+ [-0.0359  0.29    1.2787]
+ [ 6.4796  5.1106  5.5454]] 
+ residuo mediano 2.72 inliers 0.935
+  luma 0-60: base-orig antes [245.3 198.4 239.5] depois [0.4 0.4 0.3]
+  luma 60-120: base-orig antes [243.4 182.3 238.9] depois [ 0.5  0.5 -1.1]
+  luma 120-180: base-orig antes [235.2 228.7 239.5] depois [ 0.7 -1.8 -1.5]
+  luma 180-256: base-orig antes [226.2 211.8 222. ] depois [ -0.3 -25.8 -24.5]
+s00: HeyGen - alvo (BGR) antes [ -7.9  -8.  -10.1] | residuo 2.16 inliers 0.91
+s02: HeyGen - alvo (BGR) antes [-6.2 -3.6 -6.3] | residuo 2.65 inliers 0.92
+s03: HeyGen - alvo (BGR) antes [-6.2 -3.9 -6.6] | residuo 2.69 inliers 0.93
+s04: HeyGen - alvo (BGR) antes [-6.2 -3.7 -6.5] | residuo 2.73 inliers 0.93
+s05: HeyGen - alvo (BGR) antes [-6.1 -3.7 -6.4] | residuo 2.72 inliers 0.93
+s06: HeyGen - alvo (BGR) antes [-6.3 -3.6 -6.3] | residuo 2.68 inliers 0.93
+s07: HeyGen - alvo (BGR) antes [-6.2 -3.5 -6.3] | residuo 2.73 inliers 0.93
+s08: HeyGen - alvo (BGR) antes [-6.3 -3.7 -6.5] | residuo 2.62 inliers 0.92
+s09: HeyGen - alvo (BGR) antes [-6.2 -3.7 -6.4] | residuo 2.59 inliers 0.93
+s10: HeyGen - alvo (BGR) antes [-6.2 -4.  -6.7] | residuo 2.68 inliers 0.92
+s11: HeyGen - alvo (BGR) antes [-6.3 -3.6 -6.7] | residuo 2.61 inliers 0.92
+s12: HeyGen - alvo (BGR) antes [-6.4 -3.4 -6.7] | residuo 2.75 inliers 0.90
+s00 224 -> 224 quadros 
+s02 182 -> 182 quadros 
+s03 216 -> 216 quadros 
+s04 235 -> 235 quadros 
+s05 231 -> 231 quadros 
+s06 219 -> 219 quadros 
+s07 239 -> 239 quadros 
+s08 74 -> 53 quadros 
+s09 74 -> 55 quadros 
+s10 154 -> 154 quadros 
+WARNING: Logging before InitGoogle() is written to STDERR
+W0000 00:00:1791433087.191573   52956 face_landmarker_graph.cc:180] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1791433087.195241   75180 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1791433087.201247   40372 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  fechar: pausa q0-7 ref q0 ab=0.001 (antes media 0.002)
+  fechar: pausa q50-60 ref q5 ab=0.002 (antes media 0.055)
+s11 74 -> 68 quadros (fechar em memoria)
+s12 200 -> 200 quadros 
+ok quadros 2100 -> C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\ad17\base_lipsync.mp4
+87.041667
+
+arquivo : C:/Users/PICHAU/Downloads/ADLIB-104060992792639/producao/AD 17 - ORACION-NUDO-ES-LATAM.mp4
+duração : 87.10s | 720x1280 | áudio: sim | 27.5 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\AD 17 - ORACION-NUDO-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 67.92s
+montagem rápida: 10s para 87s de vídeo (0.12x)

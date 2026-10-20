@@ -1,0 +1,28 @@
+{
+ "selo": {
+  "png": "C:\\Users\\PICHAU\\Downloads\\GRIMORIO_analise\\_trabalho_es\\visual\\overlays\\selo_ficticio_mini_es.png",
+  "x": 0,
+  "y": 0
+ },
+ "itens": [
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\GRIMORIO_analise\\_trabalho_es\\visual\\overlays\\titulo_gancho_es.png",
+   "ini": 0,
+   "fim": 7.966666666666667
+  },
+  {
+   "png": "C:/Users/PICHAU/Downloads/GRIMORIO_analise/_trabalho_es/audio/v2/produto_es_v2.png",
+   "ini": 125.96666666666667,
+   "fim": 134.7,
+   "zoom": 0.04
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\GRIMORIO_analise\\_trabalho_es\\visual\\overlays\\seta_baixo.png",
+   "ini": 125.96666666666667,
+   "fim": 134.7,
+   "x": 260,
+   "y": 1035,
+   "osc": 18
+  }
+ ]
+}

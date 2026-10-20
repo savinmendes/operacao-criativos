@@ -1,0 +1,98 @@
+{
+ "s01": {
+  "quadros_saida": 197,
+  "idxES": 0.04468190439830623,
+  "corrES": 0.640191556408586,
+  "corrPT": 0.054088365980481126,
+  "orig_idxES": 1.7795443962974862,
+  "qpausa": 27
+ },
+ "s02": {
+  "quadros_saida": 140,
+  "idxES": 0.050918249822771905,
+  "corrES": 0.6926702106384033,
+  "corrPT": 0.06296064639767014,
+  "orig_idxES": 1.227283902884429,
+  "qpausa": 12
+ },
+ "s03": {
+  "quadros_saida": 166,
+  "idxES": NaN,
+  "corrES": 0.5602558155475724,
+  "corrPT": -0.02972551478563618,
+  "orig_idxES": NaN,
+  "qpausa": 0
+ },
+ "s04": {
+  "quadros_saida": 138,
+  "idxES": NaN,
+  "corrES": 0.4806871773291996,
+  "corrPT": -0.08839175430470787,
+  "orig_idxES": NaN,
+  "qpausa": 0
+ },
+ "s05": {
+  "quadros_saida": 261,
+  "idxES": 0.1461868927067705,
+  "corrES": 0.4915979855434452,
+  "corrPT": 0.28048172171338925,
+  "orig_idxES": 0.8947536129910006,
+  "qpausa": 26
+ },
+ "s06": {
+  "quadros_saida": 177,
+  "idxES": 0.029932143214481503,
+  "corrES": 0.5433238394734342,
+  "corrPT": -0.14986059921494058,
+  "orig_idxES": 1.6764052972915484,
+  "qpausa": 8
+ },
+ "s07": {
+  "quadros_saida": 134,
+  "idxES": NaN,
+  "corrES": 0.48498042336295577,
+  "corrPT": 0.17120454387831108,
+  "orig_idxES": NaN,
+  "qpausa": 0
+ },
+ "s08": {
+  "quadros_saida": 190,
+  "idxES": 0.4495634071317443,
+  "corrES": 0.37125656460770057,
+  "corrPT": 0.2360569427863165,
+  "orig_idxES": 1.3257878482560297,
+  "qpausa": 4
+ },
+ "s09": {
+  "quadros_saida": 279,
+  "idxES": 0.0642600490865168,
+  "corrES": 0.35402824447462383,
+  "corrPT": 0.12198009230365567,
+  "orig_idxES": 0.7712458291358858,
+  "qpausa": 7
+ },
+ "s10": {
+  "quadros_saida": 241,
+  "idxES": NaN,
+  "corrES": 0.3201421096764711,
+  "corrPT": 0.09957192524921571,
+  "orig_idxES": NaN,
+  "qpausa": 0
+ },
+ "s11": {
+  "quadros_saida": 192,
+  "idxES": 0.16563519048735115,
+  "corrES": 0.40298208241971856,
+  "corrPT": 0.03134382245814966,
+  "orig_idxES": 1.5179030940823046,
+  "qpausa": 11
+ },
+ "s12": {
+  "quadros_saida": 75,
+  "idxES": 2.279706801551435,
+  "corrES": 0.6110814028381905,
+  "corrPT": 0.3424360585494045,
+  "orig_idxES": 27.210482082627138,
+  "qpausa": 16
+ }
+}

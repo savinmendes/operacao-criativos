@@ -1,0 +1,13 @@
+{
+ "briga": {"arquivo": "takes/briga_v1.mp4", "ini": 1.0, "fim": 8.04, "cx": 0.53, "lufs": -15,
+           "ganhos": [[4.0, 7.95, 6.0]],
+           "palabras_nota": "tempos do whisper (small) no take; texto pelo roteiro",
+           "palavras": [
+             [{"w":"¿No","ini":1.22,"fim":1.70},{"w":"crees","ini":1.70,"fim":1.98},{"w":"en","ini":1.98,"fim":2.10},{"w":"Dios?","ini":2.10,"fim":2.32},
+              {"w":"¡Entonces","ini":2.50,"fim":2.62},{"w":"llámalo","ini":2.62,"fim":3.08},{"w":"ahora!","ini":3.08,"fim":3.34}],
+             [{"w":"¡Señor,","ini":4.14,"fim":4.62},{"w":"yo","ini":4.94,"fim":5.02},{"w":"no","ini":5.02,"fim":5.20},{"w":"hice","ini":5.20,"fim":5.36},{"w":"nada!","ini":5.36,"fim":5.90},
+              {"w":"¡Pare,","ini":6.38,"fim":6.74},{"w":"por","ini":6.88,"fim":6.98},{"w":"el","ini":6.98,"fim":7.08},{"w":"amor","ini":7.08,"fim":7.28},{"w":"de","ini":7.28,"fim":7.44},{"w":"Dios!","ini":7.44,"fim":7.74}]
+           ]},
+ "rep": {"arquivo": "takes/reportera_v1.mp4", "ini": 0.0, "fim": 8.25, "voz_offset": 0.0,
+         "insertos": [[2.55, 3.12, 16.0], [6.0, 8.25, 13.42]]}
+}

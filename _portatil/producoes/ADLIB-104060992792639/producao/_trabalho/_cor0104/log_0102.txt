@@ -1,0 +1,46 @@
+LaMa 01: afim leitura cv2 -> comum3, residuo 0.97 inliers 0.975 desvio medio BGR [1.13 1.45 1.  ]
+LaMa 02: afim leitura cv2 -> comum3, residuo 0.97 inliers 0.977 desvio medio BGR [1.08 1.45 0.99]
+s01 (novo): saida-base antes [-3.9 -4.4 -6.5] depois [ 0.1  0.  -0. ] | residuo 2.96 inliers 0.88
+s02 (novo): saida-base antes [-4.  -4.5 -6.7] depois [ 0.  0. -0.] | residuo 2.86 inliers 0.89
+s03 (antigo): saida-base antes [0.6 0.2 0.4] depois [0.1 0.2 0. ] | residuo 2.45 inliers 0.88
+s04 (antigo): saida-base antes [0.4 0.1 0.3] depois [0.1 0.1 0.1] | residuo 2.70 inliers 0.89
+s05 (novo): saida-base antes [-4.  -4.5 -6.6] depois [ 0.  0. -0.] | residuo 2.75 inliers 0.89
+s06 (novo): saida-base antes [-3.7 -4.4 -6.3] depois [ 0.1  0.  -0. ] | residuo 2.91 inliers 0.88
+s07 (novo): saida-base antes [-3.9 -4.5 -6.5] depois [ 0.1  0.  -0. ] | residuo 2.96 inliers 0.89
+s08 (novo): saida-base antes [-3.9 -4.4 -6.5] depois [ 0.1  0.  -0. ] | residuo 2.93 inliers 0.89
+s09 (novo): saida-base antes [-3.8 -4.4 -6.5] depois [ 0.1  0.  -0. ] | residuo 2.90 inliers 0.88
+s10 (antigo): saida-base antes [0.7 0.  0.6] depois [0.1 0.  0. ] | residuo 2.50 inliers 0.89
+s11 (novo): saida-base antes [-3.7 -4.3 -6.3] depois [ 0.1  0.  -0. ] | residuo 2.95 inliers 0.87
+s12 (novo): saida-base antes [-3.8 -4.4 -6.5] depois [ 0.1  0.  -0. ] | residuo 2.96 inliers 0.88
+s13 (antigo): saida-base antes [0.7 0.1 0.6] depois [0.1 0.1 0. ] | residuo 2.56 inliers 0.88
+h1 (02): saida-base antes [-2.1 -1.4 -1.7] depois [ 0.1 -0.  -0. ] | residuo 2.29 inliers 0.89
+gancho 02 ok 286 quadros
+s01 novo 252 quadros
+  emenda s02 q252: crossfade 2q
+s02 novo 225 quadros
+  s03 +fechar: pausa 16.97-17.30s ref q543 ab=0.002
+  emenda s03 q477: corte
+s03 antigo 107 quadros
+  emenda s04 q584: corte
+s04 antigo 45 quadros
+  emenda s05 q629: corte
+s05 novo 350 quadros
+  emenda s06 q979: corte
+s06 novo 281 quadros
+  emenda s07 q1260: crossfade 2q
+s07 novo 210 quadros
+  emenda s08 q1470: corte
+s08 novo 338 quadros
+  emenda s09 q1808: crossfade 2q
+s09 novo 366 quadros
+  s10 +fechar: pausa 72.47-72.80s ref q2191 ab=0.002; pausa 74.23-74.77s ref q2240 ab=0.001; pausa 76.73-77.10s ref q2350 ab=0.003; pausa 78.70-79.87s ref q2388 ab=0.001; pausa 80.77-81.07s ref q2388 ab=0.001; pausa 83.03-83.30s ref q2482 ab=0.001
+  emenda s10 q2174: crossfade 2q
+s10 antigo 325 quadros
+  emenda s11 q2499: crossfade 2q
+s11 novo 313 quadros
+  emenda s12 q2812: crossfade 2q
+s12 novo 331 quadros
+  s13 +fechar: pausa 104.77-105.00s ref q3160 ab=0.002; pausa 106.53-106.93s ref q3160 ab=0.002; pausa 109.33-109.70s ref q3272 ab=0.002; pausa 110.87-111.17s ref q3299 ab=0.002; pausa 113.10-113.50s ref q3446 ab=0.001; pausa 114.70-115.77s ref q3446 ab=0.001
+  emenda s13 q3143: crossfade 2q
+s13 antigo 330 quadros
+ok AD 01: 3937 quadros; AD 02: 3981 quadros

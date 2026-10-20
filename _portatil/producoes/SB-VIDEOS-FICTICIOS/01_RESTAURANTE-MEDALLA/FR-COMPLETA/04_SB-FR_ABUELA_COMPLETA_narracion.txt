@@ -1,0 +1,38 @@
+NARRATION — 04_SB-FR_ABUELA_COMPLETA.mp4 (série COMPLÈTE, 01:06)
+Temps = début de chaque phrase dans la vidéo finale.
+Personnages fictifs : GRAND-MÈRE et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique propre : tension grave (accroche et prière) -> thème d'espoir à partir de la scène de l'« après ».
+Voix : grand-mère Grandma Clo (EMuO6fFLrXKOryHzij6K) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan large : elle à genoux près d'une longue table dressée pour douze, toutes les chaises vides)
+[00:00] GRAND-MÈRE (voix ferme, en off) : J'ai prié devant une table dressée pour douze…
+[00:03] GRAND-MÈRE (voix ferme, en off) : et j'ai mangé seule.
+[00:04] GRAND-MÈRE (voix ferme, en off) : Et voilà ce qui s'est passé.
+[00:07] GRAND-MÈRE (prière chuchotée) : Ô glorieux saint Benoît…
+[00:09] GRAND-MÈRE (prière chuchotée) : rends-moi ma famille.
+[00:11] (l'après, sans voix)
+
+BLOC 2 — CONNEXION
+[00:13] GRAND-MÈRE (en off ; elle assise seule à table, remuant la nourriture sans manger, regardant les chaises vides) : J'ai passé des années à mettre la table pour tout le monde.
+[00:16] GRAND-MÈRE (selfie) : Mes petits-enfants grandissaient et je ne les voyais qu'en photo.
+[00:21] GRAND-MÈRE (selfie) : J'avais l'impression de ne plus compter pour personne.
+[00:24] GRAND-MÈRE (selfie) : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET FUTUR
+[00:31] PRÊTRE : Des millions de personnes portent cette médaille…
+[00:33] PRÊTRE : et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:37] PRÊTRE : Ce n'est pas un manque de foi.
+[00:39] PRÊTRE : C'est que personne ne leur a appris la bonne façon de la prier.
+[00:42] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va…
+[00:47] PRÊTRE : et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:52] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[01:01] PRÊTRE : Appuie sur « En savoir plus», juste en dessous, et viens prier avec nous.
+
+TEXTE DE L'ANNONCE
+Titre : Une table pour douze… et personne
+Texte principal : Elle mettait la table pour toute la famille… et mangeait seule. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre les explique, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous.
+Bouton : En savoir plus (LEARN_MORE)

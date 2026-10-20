@@ -1,0 +1,40 @@
+{
+ "arquivo": "VAR 04 - G4-NO-ES-PESO-ES-LODO x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 293.7,
+ "mb": 37.0,
+ "whisper_gancho": "Durante años pensé que era peso de la edad me equivoqué no era grasa era lodo líquido estancado Te cuento cómo lo descubrí",
+ "whisper_emenda": "Te cuento cómo lo descubrí Otra vez vas a llegar tarde ya sé ya voy Ya me voy",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.366667,
+  2.6,
+  3.533333,
+  5.6,
+  6.866667,
+  8.2,
+  9.0,
+  10.933333
+ ],
+ "cortes_plan": [
+  1.367,
+  2.6,
+  3.533,
+  5.6,
+  6.867,
+  8.2,
+  9.0
+ ],
+ "silencios": [
+  [
+   281.99,
+   283.02
+  ],
+  [
+   290.4,
+   291.25
+  ]
+ ],
+ "ok": true
+}

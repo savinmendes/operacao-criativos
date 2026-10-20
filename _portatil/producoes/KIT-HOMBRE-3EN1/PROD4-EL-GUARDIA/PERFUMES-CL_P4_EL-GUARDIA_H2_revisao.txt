@@ -1,0 +1,27 @@
+REVISÃO: PERFUMES-CL_P4_EL-GUARDIA_H2.mp4
+duração 34.94s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.1 MB
+decodificação: OK
+pts do áudio: 1639 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1018-1083, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD4-EL-GUARDIA\PERFUMES-CL_P4_EL-GUARDIA_H2_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.80 Creo que se me quedó algo que perfume usa.
+   4.80-  9.60 Soy guardia de mal, y ahora las clientas pasan dos veces por la entrada.
+   9.60- 12.00 Tres perfumes árabes al precio de uno.
+  12.00- 15.40 En el día, Armav Club, fresco, masculino y poderoso.
+  15.40- 18.80 Ya no vigilo yo, me vigilan a mí.
+  18.80- 22.20 En la noche, látafa Asad, intenso y seductor.
+  22.20- 25.80 Mi señora me pide turno de noche, en la casa.
+  25.80- 30.60 Y el fin de semana, AFNAN 9PM, elegante y moderno.
+  30.60- 33.68 Los tres te llegan a la casa y pagas cuando los recibes.
+  33.68- 34.48 Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

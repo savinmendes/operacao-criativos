@@ -1,0 +1,16 @@
+Ranking 01 → SB ES «Restaurante notícia» (19/10/2026)
+Entrega: ..\ENTREGA\SB-ES_RANKING01_RESTAURANTE-NOTICIA.mp4 (100,5 s, 720x1280, 30 fps, 27,6 MB, -15,1 LUFS, cor bt601/tv fixa smpte170m)
+Remontar sem pagar: python voz.py -> python montar.py -> sh encode_final.sh -> revisar_ad.py
+Vozes (tts.py): repórter Sara ODO4sbmD3pTjhgRVVRP6, dono Arturo Casares N2HSRirbsHTZ8DE2WqjB (speed 1.1), Juan clone BskzYZ6zvapoZ3mBu93C (registradas em SB-ES_PADRE-CAPTURADO\_vozes.json)
+Lipsync HeyGen speed (lipsync\in, out, colar.py: só boca+queixo): repórter 0-2 s, dono 12,85-18,80 e 18,80-24,30 do original. Índice de pausa dono 0,20/0,18.
+Padre: avatar\jm_frade_b.png (gpt-image-2.5-sunburst, cenário do frade limpo + jm_serio) -> HeyGen Avatar IV A.mp4/B.mp4. Troca A→B escondida no b-roll da Bíblia.
+Takes originais: broll\<nome>\limpo (lama_seg.py, legenda PT apagada com LaMa). Faixa/rodapé/moldura/carimbos: gerar_ov.py -> ov\.
+Trilha: ambiente do original (demucs no_vocals) até o padre; tensão -> esperança (musica do VIDEO 04) na virada «¡Claro que sí!», -32 LUFS.
+Ordem do cheio: o restaurante enchendo entra como corte durante «Recé la oración… se llenó» (a fala ES do dono é ~5 s maior que o take).
+v2 (19/10): dono refeito como Avatar IV (dono2/dono_b.png, retrato nítido gpt-image-2.5-sunburst a partir do quadro 22,8 s do original; dono2/D.mp4, áudio D.mp3 = mesmas falas Arturo). Sem LaMa/colagem no rosto.
+  DB começa no «La» (18,50); a pausa antes fica no corte do salão cheio. Mulher chorando original (manchada pela LaMa) trocada por alivio_13 do banco SB.
+  Restos de letra antiga junto ao cabelo da repórter tirados na máscara. v1 guardada em SB-ES_RANKING01_RESTAURANTE-NOTICIA_v1.mp4.
+v3 + ganchos (19/10): python voz3.py -> python montar3.py [--gancho G1..G5] -> sh encode3.sh NOME arquivo.mp4. v2 guardada em *_v2.mp4 (montar_v2.py/tempos_v2.json/voz_v2.wav).
+  Abertura: 1 s tela dividida VAZIO|LOTADO; efeito de restaurante (musica_sfx_restaurante.mp3, ElevenLabs) a -28 LUFS na notícia e no corte do salão.
+  B-rolls novos: banco SB (moedas=problema_19, casal=problema_12, mesa=alivio_15, famcel=sagrado_34, dormir=alivio_02, abraco=alivio_05) + v3/notif.png (notificações, gerado local).
+  Fala nova JN + frase do G1 no avatar v3/C.mp4 (Avatar IV, mesmo retrato). G5: v3/moedas.mp4 (gpt-image-2.5-sunburst + kling-2.5-turbo).

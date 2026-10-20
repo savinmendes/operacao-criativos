@@ -1,0 +1,32 @@
+{
+ "arquivo": "36 AD.mp4",
+ "idioma": "pt",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 7.3,
+   "texto": "Olha isso aqui! Se você ainda sofre com furadeira fraca, a Deowalt 710W vai mudar seu jogo."
+  },
+  {
+   "ini": 7.3,
+   "fim": 14.4,
+   "texto": "Ela fura concreto. Madeira e metal com uma facilidade absurda, sem travar e sem trepidação chata."
+  },
+  {
+   "ini": 14.4,
+   "fim": 19.1,
+   "texto": "É leve, precisa e entrega potência de verdade no dia a dia."
+  },
+  {
+   "ini": 19.1,
+   "fim": 24.0,
+   "texto": "Ferramenta sim não é luxo, é produtividade. Se você quer trabalhar mais rápido,"
+  },
+  {
+   "ini": 24.0,
+   "fim": 29.9,
+   "texto": "com menos esforço e resultado profissional, essa é a escolha certa. Garanta já a sua!"
+  }
+ ]
+}

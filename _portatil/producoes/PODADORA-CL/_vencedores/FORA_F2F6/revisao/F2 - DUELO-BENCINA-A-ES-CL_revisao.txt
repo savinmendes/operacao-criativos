@@ -1,0 +1,51 @@
+REVISÃO: F2 - DUELO-BENCINA-A-ES-CL.mp4
+duração 53.10s | 720x1280 | 30/1 fps | áudio: sim | 24.1 MB
+decodificação: OK
+pts do áudio: 2488 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 52.31-53.10
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 929-1075, x 156-563 | no último quadro: sim | faixa escura do rodapé: 1136-1194
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\FORA_F2F6\revisao\F2 - DUELO-BENCINA-A-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.00 Mi vecino con la de vecina y yo con ésta.
+   5.00-  9.00 ¿Quién inventó esto? Merece un aumento.
+   9.00- 12.00 Si todavía andas arrastrando un cortapasto pesado,
+  12.00- 16.00 o peleando con esas desbrosadoras que se traban, mira esto.
+  16.00- 20.00 Es cortapasto, orilladora y bordeadora en uno.
+  20.00- 24.00 Y ojo, pesa unos cuatro kilos y medio y tiene ruedas.
+  24.00- 27.00 Así que la puedes usar con una sola mano.
+  27.00- 30.84 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  30.84- 33.84 Esta usa una cuchilla de metal reforzada.
+  33.84- 34.96 Es inalámbrica.
+  34.96- 39.04 Trae dos baterías de 21 voltios y solo aprietas un botón y
+  39.04- 39.76 listo.
+  39.76- 43.56 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  43.56- 47.08 Despacho gratis, pagas al recibir y tienes 90 días de
+  47.08- 47.84 garantía.
+  47.84- 51.20 Toca el botón de abajo y pide tu podadora inalámbrica de
+  51.20- 53.28 césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  5.00    Mi vecino con la de vecina y yo con ésta.
+   6.00-  9.00    Quien inventó ésto merece un aumento.
+   9.00- 12.00    Si todavía andas arrastrando un cortapasto pesado,
+  12.00- 15.00    o peleando con esas desbrosadoras que se traban,
+  15.00- 17.00    mira ésto.
+  17.00- 20.00    Es cortapasto, orilladora y bordeadora en uno.
+  20.00- 24.00    Y ojo, pesa unos 4 kilos y medio y tiene ruedas,
+  24.00- 27.00    así que la puedes usar con una sola mano.
+  27.00- 30.80    Forget about those plastic threads that are cut off every now and then.
+  30.80- 33.80    This uses a reinforced metal knife.
+  33.80- 35.00    It's inalambric.
+  35.00- 39.80    It has two 21 volt batteries and you just press a button and it's ready.
+  39.80- 43.60    It's fast, easy and much more practical than I imagined.
+  43.60- 47.80    It's free, you pay when you receive and you have 90 days of warranty.
+  47.80- 52.40    Touch the button on the bottom and ask for your inalambric screwdriver with wheels.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

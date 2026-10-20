@@ -1,0 +1,141 @@
+{
+ "rotulo": "TR38_fundo-original",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\cfg\\TR38_fundo.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 13.4,
+ "blocos_medidos": 15,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 39,
+ "erro_max_abs_ms": 92,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 103,
+ "n_energia": 1,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 15,
+  "aparecem_no_quadro_esperado": 15,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "TALADRO DEWALT",
+   "leg_t": 0.133,
+   "palavra": "Taladro",
+   "fala_t": 0.22,
+   "erro_ms": -87,
+   "erro_energia_ms": 103
+  },
+  {
+   "legenda": "DE VEINTE VOLTS",
+   "leg_t": 0.867,
+   "palavra": "de",
+   "fala_t": 0.881,
+   "erro_ms": -14,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MAX,",
+   "leg_t": 1.8,
+   "palavra": "MAX,",
+   "fala_t": 1.842,
+   "erro_ms": -42,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SIN CARBONES.",
+   "leg_t": 2.5,
+   "palavra": "sin",
+   "fala_t": 2.543,
+   "erro_ms": -43,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "GATILLO DE",
+   "leg_t": 3.833,
+   "palavra": "Gatillo",
+   "fala_t": 3.925,
+   "erro_ms": -92,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VELOCIDAD",
+   "leg_t": 4.333,
+   "palavra": "velocidad",
+   "fala_t": 4.325,
+   "erro_ms": 8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VARIABLE Y",
+   "leg_t": 4.667,
+   "palavra": "variable",
+   "fala_t": 4.686,
+   "erro_ms": -19,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LUZ LED.",
+   "leg_t": 5.167,
+   "palavra": "luz",
+   "fala_t": 5.187,
+   "erro_ms": -20,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "BATERÍA DE DOS",
+   "leg_t": 6.6,
+   "palavra": "Batería",
+   "fala_t": 6.668,
+   "erro_ms": -68,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "AMPERES HORA,",
+   "leg_t": 7.367,
+   "palavra": "amperes",
+   "fala_t": 7.349,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MOTOR BRUSHLESS,",
+   "leg_t": 8.2,
+   "palavra": "motor",
+   "fala_t": 8.27,
+   "erro_ms": -70,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "COMPACTO Y",
+   "leg_t": 9.767,
+   "palavra": "compacto",
+   "fala_t": 9.792,
+   "erro_ms": -25,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LIVIANO,",
+   "leg_t": 10.467,
+   "palavra": "liviano,",
+   "fala_t": 10.473,
+   "erro_ms": -6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON",
+   "leg_t": 11.9,
+   "palavra": "con",
+   "fala_t": 11.955,
+   "erro_ms": -55,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "INDICADOR DE CARGA.",
+   "leg_t": 12.1,
+   "palavra": "indicador",
+   "fala_t": 12.115,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+[
+ {
+  "w": "Ô",
+  "ini": 0.023,
+  "fim": 0.139,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "glorieux",
+  "ini": 0.255,
+  "fim": 0.743,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "saint",
+  "ini": 0.824,
+  "fim": 1.115,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "Benoît...",
+  "ini": 1.289,
+  "fim": 1.916,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "rends-moi",
+  "ini": 2.357,
+  "fim": 2.728,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "ma",
+  "ini": 2.786,
+  "fim": 2.891,
+  "personagem": "abuela",
+  "parte": "reza"
+ },
+ {
+  "w": "famille.",
+  "ini": 2.961,
+  "fim": 3.587,
+  "personagem": "abuela",
+  "parte": "reza"
+ }
+]

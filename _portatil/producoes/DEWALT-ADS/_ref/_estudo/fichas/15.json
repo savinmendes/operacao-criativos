@@ -1,0 +1,66 @@
+{
+  "ad": "15",
+  "arquivo": "15 AD.mp4",
+  "folha": "_estudo/folhas/15.jpg",
+  "idioma": "pt (Brasil)",
+  "origem": {
+    "perfil": "@aristeuferragens (TikTok)",
+    "tipo": "loja/ferragem (WhatsApp com DDD 41)"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 78.6,
+  "cortes": {
+    "n": 1,
+    "ritmo": "o detector achou só 1 corte (77,9 s) porque as transições são suaves, mas a folha mostra ~12 planos de 5-7 s, com uma caixa de texto por recurso"
+  },
+  "formato": "tutorial/apresentação de recursos com caixas de texto (catálogo de loja)",
+  "gancho": {
+    "visual": "0-3 s: furadeira de base magnética na bancada azul, caixa 'FURADEIRA DE BASE MAGNÉTICA DEWALT DWE1622K-B2'",
+    "fala_ou_texto": "Fala: 'Essa é a furadeira de base magnética DeWalt DWE1622KB2, feita para quem busca potência e precisão...'"
+  },
+  "estrutura": [
+    {
+      "t": "0-18",
+      "bloco": "apresentação e construção robusta"
+    },
+    {
+      "t": "18-32",
+      "bloco": "mandril adaptado, troca rápida, alavanca com trava"
+    },
+    {
+      "t": "32-46",
+      "bloco": "base magnética e lubrificação"
+    },
+    {
+      "t": "46-53",
+      "bloco": "duas velocidades"
+    },
+    {
+      "t": "53-73",
+      "bloco": "maleta rígida + reforço da marca"
+    },
+    {
+      "t": "73-78.6",
+      "bloco": "CTA WhatsApp"
+    }
+  ],
+  "cta": "'Quer saber mais ou fazer seu pedido? Chama no WhatsApp ou no Instagram da loja' + caixa com o telefone da loja",
+  "texto_tela": "caixas mostarda com um recurso por plano (ex.: 'CONSTRUÇÃO ROBUSTA SEGURANÇA E ESTABILIDADE', 'MALETA RÍGIDA INCLUÍDA TRANSPORTE FÁCIL E SEGURO')",
+  "produto": {
+    "mostrado": "Furadeira de base magnética DeWalt DWE1622K-B2 (escrito na tela)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "telefone da loja nas caixas finais",
+  "audio": "voz masculina pt-BR + música Bensound",
+  "uso": [
+    "só referência de formato (caixa de texto por benefício + 'maleta incluida' no fim)"
+  ],
+  "nota": {
+    "valor": 1,
+    "justificativa": "Ferramenta industrial (base magnética), fora do público e do preço, e ritmo lento (78 s). Só o padrão 'uma caixa de texto por recurso' é reaproveitável."
+  }
+}

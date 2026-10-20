@@ -1,0 +1,29 @@
+{
+ "arquivo": "VAR 28 - G8-POR-QUE-NOS-HINCHAMOS x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 310.9,
+ "mb": 39.0,
+ "whisper_gancho": "¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida, muchas veces el cuerpo dejó de drenar, yo lo entendí tarde",
+ "whisper_emenda": "dejó de drenar, yo lo entendí tarde Llegué a casa, me miré en el espejo y por fin entendí Porque durante nuestro complicado",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.566667,
+  3.3,
+  4.833333,
+  6.8,
+  7.933333,
+  8.733333,
+  11.1
+ ],
+ "cortes_plan": [
+  1.567,
+  3.3,
+  4.833,
+  6.8,
+  7.933,
+  8.733
+ ],
+ "silencios": [],
+ "ok": true
+}

@@ -1,0 +1,22 @@
+  trecho flora/t1_final.mp4 -> REFEITO
+  trecho flora/t2_final.mp4 -> REFEITO
+  trecho flora/cobre_tela.mp4 -> igual ao entregue
+>> substituir_trechos.py base.mp4 v2b_b1.mp4 trechos_v2b.json
+t1_final_b.mp4: 31 quadros a partir de 222.6s
+t2_final_b.mp4: 66 quadros a partir de 224.37s
+cobre_tela_b.mp4: 34 quadros a partir de 218.87s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad12\v2b_b1.mp4 | 8847 quadros, 131 trocados
+  parte 1: 8847 quadros -> cortando para 8846 (igual à entregue)
+  parte 1 entregue sem os quadros [8845] (PTS com buraco): reproduzindo
+>> -v error -y -i v2b_b1.mp4
+>> -v error -y -i parte1_v2b_video.mp4
+>> montar_ad.py receita_final_v2b.json
+aviso: 5.3 min não cabe em 30 MB com qualidade; usando 900 kbps (~40 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 12 - LYMPHORIA-BANO-RESERVA-ES-LATAM v2.mp4
+duração : 316.40s | 720x1280 | áudio: sim | 38.8 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 12 - LYMPHORIA-BANO-RESERVA-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 313.23s
+montagem rápida: 74s para 316s de vídeo (0.23x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 12 - LYMPHORIA-BANO-RESERVA-ES-LATAM v2.mp4

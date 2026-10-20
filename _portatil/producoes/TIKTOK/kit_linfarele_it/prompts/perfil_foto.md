@@ -1,0 +1,1 @@
+Logo minimalista da marca LinfaRelè, com elementos de natureza, em fundo claro, estilo clean e moderno.

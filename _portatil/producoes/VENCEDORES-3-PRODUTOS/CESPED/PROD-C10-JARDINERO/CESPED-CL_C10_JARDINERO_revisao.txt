@@ -1,0 +1,23 @@
+REVISÃO: CESPED-CL_C10_JARDINERO.mp4
+duração 38.93s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.8 MB
+decodificação: OK
+pts do áudio: 1827 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 13 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1150-1215, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C10-JARDINERO\CESPED-CL_C10_JARDINERO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00- 10.40 otra vez le pagaba todos los meses al jardinero y el pasto cada vez más alto hasta que probé esta
+  14.12- 20.24 es corta pasto orilladora y bordeadora en uno tiene ruedas así que la usas con una sola
+  20.24- 25.96 mano cuchilla de metal reforzada olvídate de los hilos que se cortan y es inalámbrica con dos
+  25.96- 33.44 baterías. No se preocupe don Lalo, ya no lo necesito.
+  33.44- 38.04 Despacho gratis a todo Chile, pagas al recibir y tienes 90 días de garantía. Toca el botón
+  38.04- 38.64 y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

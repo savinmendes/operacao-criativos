@@ -1,0 +1,25 @@
+{
+ "ad": "05",
+ "idioma": "pt-BR",
+ "origem": {"perfil": "@casalpivotoshop (TikTok)", "tipo": "afiliado/criador TikTok Shop (casal)", "url": "https://www.tiktok.com/@casalpivotoshop/video/7593456586022997255"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 27.3,
+ "cortes": {"n": 1, "ritmo": "quase plano-sequência: 1 corte (5,7 s) da mulher para o homem; câmera na mão em quintal"},
+ "formato": "UGC talking head de afiliado com produto na mão (prova social + itens do kit + oferta)",
+ "gancho": {"0_3s_visual": "mulher em quintal de terra com muro segurando a maleta preta DeWalt fechada", "0_3s_fala": "mais de 52 mil furadeiras dessa aqui vendidas aqui dentro do TikTok Shop", "0_3s_texto_tela": "nenhum"},
+ "corpo": [
+  {"t": "0-5.7", "bloco": "mulher com a maleta: prova social de vendas"},
+  {"t": "5.7-12", "bloco": "homem com a furadeira: 'sem escova, mais durabilidade no motor, menos desgaste na bateria'"},
+  {"t": "12-19", "bloco": "aperta o mandril, mostra a função; fala dos itens (parafusadeira, furadeira, maleta; trecho com transcrição falha)"},
+  {"t": "19-27.3", "bloco": "abre a maleta: 2 baterias de 20 V, carregador bivolt; aponta para baixo"}
+ ],
+ "cta": "'já clica no link que está em oferta relâmpago' + setas vermelha/amarela animadas apontando para o rodapé",
+ "texto_na_tela": "só as setas de CTA no final; sem legenda",
+ "produto": {"modelo": "furadeira/parafusadeira DeWalt 20V MAX compacta brushless em maleta com 2 baterias + carregador; modelo não legível (visual compatível com DCD7771/DCD7781; não dá para confirmar se tem martelo) - precisa de revisão manual", "e_nosso_produto": "provável mesma família/kit, não confirmado"},
+ "rosto": {"tem": true, "tempo_aprox_s": "~27 s (todo o vídeo)"},
+ "marca_dagua": "sem @ visível",
+ "audio": "voz em português + som ambiente, sem música aparente",
+ "uso_para_nos": ["traduzir/adaptar (estrutura de 25 s: prova social -> brushless -> itens do kit -> oferta, ideal para COD)", "rostos de terceiros: refazer com avatar HeyGen ou ator, não reaproveitar takes"],
+ "nota_cod_chile": 4,
+ "justificativa": "Roteiro enxuto que vende o KIT (2 baterias + carregador + maleta), igual ao nosso, com linguagem de gente comum. Trocar o gancho '52 mil vendidos no TikTok Shop' (não é dado nosso, não usar) por algo verdadeiro e o CTA por 'pagas al recibir' no Chile. Takes não aproveitáveis porque é tudo rosto."
+}

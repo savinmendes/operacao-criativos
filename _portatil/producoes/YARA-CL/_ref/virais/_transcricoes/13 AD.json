@@ -1,0 +1,676 @@
+{
+ "idioma": "en",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 2.96,
+   "texto": "These are the top five best designer perfumes on the market right now."
+  },
+  {
+   "ini": 2.96,
+   "fim": 5.32,
+   "texto": "Coming from someone who reviews perfume, has a full-time job."
+  },
+  {
+   "ini": 5.32,
+   "fim": 6.96,
+   "texto": "And we're also gonna get a man to rate them."
+  },
+  {
+   "ini": 6.96,
+   "fim": 8.6,
+   "texto": "So we have a well-rounded review."
+  },
+  {
+   "ini": 8.6,
+   "fim": 12.2,
+   "texto": "In the number five spot, we have the brand new Carolina Herrera Good Girl."
+  },
+  {
+   "ini": 12.2,
+   "fim": 14.0,
+   "texto": "This is Good Girl Jasmine Absolute."
+  },
+  {
+   "ini": 14.0,
+   "fim": 16.32,
+   "texto": "When I got this in PR, Cal smelled it."
+  },
+  {
+   "ini": 16.32,
+   "fim": 18.16,
+   "texto": "And do you want to say what you said verbatim?"
+  },
+  {
+   "ini": 18.16,
+   "fim": 19.12,
+   "texto": "There's something along the lines of,"
+  },
+  {
+   "ini": 19.12,
+   "fim": 22.36,
+   "texto": "God, you need to wear this all the time."
+  },
+  {
+   "ini": 22.36,
+   "fim": 23.08,
+   "texto": "It's so good."
+  },
+  {
+   "ini": 23.08,
+   "fim": 24.92,
+   "texto": "His initial reaction to this was crazy."
+  },
+  {
+   "ini": 24.92,
+   "fim": 27.92,
+   "texto": "For me, this is a nine and a half, almost 10."
+  },
+  {
+   "ini": 27.92,
+   "fim": 29.4,
+   "texto": "I love this. It smells so nice."
+  },
+  {
+   "ini": 29.4,
+   "fim": 30.32,
+   "texto": "This is a 10 for me."
+  },
+  {
+   "ini": 30.32,
+   "fim": 34.32,
+   "texto": "This is like a soft, powdery almond with a touch of florals."
+  },
+  {
+   "ini": 34.32,
+   "fim": 36.68,
+   "texto": "Yo, your descriptions are elite, dog."
+  },
+  {
+   "ini": 36.68,
+   "fim": 37.68,
+   "texto": "Thank you."
+  },
+  {
+   "ini": 37.68,
+   "fim": 40.84,
+   "texto": "I was smelling as you were going with that."
+  },
+  {
+   "ini": 40.84,
+   "fim": 42.2,
+   "texto": "That's the perfect way to describe that."
+  },
+  {
+   "ini": 42.2,
+   "fim": 42.76,
+   "texto": "Thank you."
+  },
+  {
+   "ini": 42.76,
+   "fim": 45.48,
+   "texto": "Number four spot, the iconic Burberry Goddess."
+  },
+  {
+   "ini": 45.48,
+   "fim": 47.0,
+   "texto": "Look at the dent in this bottle."
+  },
+  {
+   "ini": 47.0,
+   "fim": 49.56,
+   "texto": "This is one of my go-to summertime vanilla perfume."
+  },
+  {
+   "ini": 49.56,
+   "fim": 52.68,
+   "texto": "I wear this at night, dressed up, going out, date night type of vibe."
+  },
+  {
+   "ini": 52.68,
+   "fim": 54.8,
+   "texto": "It has a touch of that sunscreen kind of feel."
+  },
+  {
+   "ini": 54.8,
+   "fim": 55.28,
+   "texto": "Yeah, it does."
+  },
+  {
+   "ini": 55.28,
+   "fim": 58.76,
+   "texto": "But in the way like you've been kind of laying in the sun all day and your skin is warm."
+  },
+  {
+   "ini": 58.76,
+   "fim": 64.6,
+   "texto": "Definitely in that sunscreeny, like a City of Stars or Tom Ford's Soleil Blanc,"
+  },
+  {
+   "ini": 64.6,
+   "fim": 67.52,
+   "texto": "that vibe, but not super sunscreeny."
+  },
+  {
+   "ini": 67.52,
+   "fim": 68.36,
+   "texto": "It's like a kiss of it."
+  },
+  {
+   "ini": 68.36,
+   "fim": 72.44,
+   "texto": "A little sunscreen and then mix that with a very angelic take on vanilla."
+  },
+  {
+   "ini": 72.44,
+   "fim": 74.04,
+   "texto": "I think Goddess suits the name to me."
+  },
+  {
+   "ini": 74.04,
+   "fim": 77.24,
+   "texto": "This is very much like a goddess type of perfume."
+  },
+  {
+   "ini": 77.24,
+   "fim": 77.88,
+   "texto": "Yeah, it's really nice."
+  },
+  {
+   "ini": 77.88,
+   "fim": 80.12,
+   "texto": "I would go eight and a half out of 10."
+  },
+  {
+   "ini": 80.12,
+   "fim": 80.68,
+   "texto": "Eight and a half out of 10."
+  },
+  {
+   "ini": 80.68,
+   "fim": 81.24,
+   "texto": "Yeah, I like that."
+  },
+  {
+   "ini": 81.24,
+   "fim": 84.88,
+   "texto": "In the number three spot, Valentino Donna Borne and Roma Extra Dose."
+  },
+  {
+   "ini": 84.88,
+   "fim": 88.36,
+   "texto": "In my opinion, the best out of the entire Donna Borne and Roma line."
+  },
+  {
+   "ini": 88.36,
+   "fim": 92.44,
+   "texto": "Putting these in order was really hard, but this smells niche quality."
+  },
+  {
+   "ini": 92.44,
+   "fim": 94.76,
+   "texto": "Yeah, it's a fragrance that I wear myself personally."
+  },
+  {
+   "ini": 94.76,
+   "fim": 97.56,
+   "texto": "I'm gonna let you describe this because the way you describe stuff is way better than I do."
+  },
+  {
+   "ini": 97.56,
+   "fim": 98.36,
+   "texto": "It's incredible, though."
+  },
+  {
+   "ini": 98.36,
+   "fim": 101.24,
+   "texto": "I think the two main things you smell, black currant and vanilla,"
+  },
+  {
+   "ini": 101.24,
+   "fim": 105.24,
+   "texto": "but it smells like a tropical boozy rum cocktail."
+  },
+  {
+   "ini": 105.24,
+   "fim": 105.72,
+   "texto": "Oh, yeah."
+  },
+  {
+   "ini": 105.72,
+   "fim": 107.72,
+   "texto": "I should just have you like script all my videos for me."
+  },
+  {
+   "ini": 107.72,
+   "fim": 108.68,
+   "texto": "That's crazy."
+  },
+  {
+   "ini": 108.68,
+   "fim": 110.04,
+   "texto": "That's exactly what it smells like."
+  },
+  {
+   "ini": 110.04,
+   "fim": 111.32,
+   "texto": "Have you been to the Bahamas before?"
+  },
+  {
+   "ini": 111.32,
+   "fim": 111.88,
+   "texto": "Yeah."
+  },
+  {
+   "ini": 111.88,
+   "fim": 113.16,
+   "texto": "You had rum punch?"
+  },
+  {
+   "ini": 113.16,
+   "fim": 113.64,
+   "texto": "Yeah."
+  },
+  {
+   "ini": 113.64,
+   "fim": 115.96,
+   "texto": "Looks like rum punch and pina colada had a baby."
+  },
+  {
+   "ini": 115.96,
+   "fim": 116.44,
+   "texto": "Yeah."
+  },
+  {
+   "ini": 116.44,
+   "fim": 117.16,
+   "texto": "What are you reading it?"
+  },
+  {
+   "ini": 117.16,
+   "fim": 117.8,
+   "texto": "10 out of 10."
+  },
+  {
+   "ini": 117.8,
+   "fim": 120.12,
+   "texto": "I adore this, legit adore this perfume."
+  },
+  {
+   "ini": 120.12,
+   "fim": 123.0,
+   "texto": "In the number two spot, we are both obsessed with this."
+  },
+  {
+   "ini": 123.0,
+   "fim": 125.24,
+   "texto": "Givenchy Irresistible Nectar."
+  },
+  {
+   "ini": 125.24,
+   "fim": 126.2,
+   "texto": "What are the dents, bro?"
+  },
+  {
+   "ini": 126.2,
+   "fim": 127.88,
+   "texto": "This one has my heart right now."
+  },
+  {
+   "ini": 130.52,
+   "fim": 131.16,
+   "texto": "Serious."
+  },
+  {
+   "ini": 131.16,
+   "fim": 135.8,
+   "texto": "If I had to use one adjective to describe this perfume, it is dainty, soft, feminine."
+  },
+  {
+   "ini": 135.8,
+   "fim": 138.12,
+   "texto": "It's like powdered sugar on flower petals."
+  },
+  {
+   "ini": 138.12,
+   "fim": 138.92,
+   "texto": "So, so pretty."
+  },
+  {
+   "ini": 138.92,
+   "fim": 140.12,
+   "texto": "Yeah, it is."
+  },
+  {
+   "ini": 141.16,
+   "fim": 143.88,
+   "texto": "To me, it's dangerous because you wore this when we first started dating."
+  },
+  {
+   "ini": 143.88,
+   "fim": 147.08,
+   "texto": "And I wore it a lot because the first time I wore it, you were obsessed with it."
+  },
+  {
+   "ini": 147.48,
+   "fim": 148.2,
+   "texto": "Dangerous girl."
+  },
+  {
+   "ini": 148.76,
+   "fim": 151.72,
+   "texto": "Ladies, it's an appropriate fragrance to wear on some first dates."
+  },
+  {
+   "ini": 151.72,
+   "fim": 152.28,
+   "texto": "Dangerous."
+  },
+  {
+   "ini": 152.28,
+   "fim": 153.0,
+   "texto": "What would you rate it?"
+  },
+  {
+   "ini": 153.0,
+   "fim": 153.64,
+   "texto": "10 out of 10."
+  },
+  {
+   "ini": 153.64,
+   "fim": 154.28,
+   "texto": "10 out of 10."
+  },
+  {
+   "ini": 154.28,
+   "fim": 158.52,
+   "texto": "In the number one spot, the best designer perfume on the market in my opinion."
+  },
+  {
+   "ini": 158.52,
+   "fim": 159.4,
+   "texto": "Was on the market."
+  },
+  {
+   "ini": 159.4,
+   "fim": 160.44,
+   "texto": "I think they're bringing it back."
+  },
+  {
+   "ini": 160.44,
+   "fim": 161.32,
+   "texto": "I've heard rumors."
+  },
+  {
+   "ini": 161.32,
+   "fim": 162.28,
+   "texto": "I'm not gonna lie."
+  },
+  {
+   "ini": 162.28,
+   "fim": 163.08,
+   "texto": "They better not."
+  },
+  {
+   "ini": 163.08,
+   "fim": 163.58,
+   "texto": "Why?"
+  },
+  {
+   "ini": 164.2,
+   "fim": 166.2,
+   "texto": "I did a campaign for this with them."
+  },
+  {
+   "ini": 166.2,
+   "fim": 166.68,
+   "texto": "Yeah, I did too."
+  },
+  {
+   "ini": 166.68,
+   "fim": 170.44,
+   "texto": "And I was like, hey, like in part of the thing, if you're saying this is limited edition,"
+  },
+  {
+   "ini": 170.44,
+   "fim": 171.64,
+   "texto": "are you sure it's not gonna come back?"
+  },
+  {
+   "ini": 171.64,
+   "fim": 172.44,
+   "texto": "Because I'll say that."
+  },
+  {
+   "ini": 172.44,
+   "fim": 173.48,
+   "texto": "They're like, yeah, it's not gonna come back."
+  },
+  {
+   "ini": 173.48,
+   "fim": 175.0,
+   "texto": "I'd be so upset if they did that."
+  },
+  {
+   "ini": 175.0,
+   "fim": 176.2,
+   "texto": "I mean, that's a good thing though."
+  },
+  {
+   "ini": 176.2,
+   "fim": 176.28,
+   "texto": "Yeah."
+  },
+  {
+   "ini": 176.28,
+   "fim": 177.16,
+   "texto": "It's a good thing."
+  },
+  {
+   "ini": 177.16,
+   "fim": 179.72,
+   "texto": "If it is coming back, I would just be like salty for personal reasons."
+  },
+  {
+   "ini": 179.72,
+   "fim": 180.04,
+   "texto": "Same."
+  },
+  {
+   "ini": 180.04,
+   "fim": 181.64,
+   "texto": "I feel like that makes me look really silly."
+  },
+  {
+   "ini": 181.64,
+   "fim": 183.96,
+   "texto": "It is YSL Le Boni Couture."
+  },
+  {
+   "ini": 183.96,
+   "fim": 184.52,
+   "texto": "Fire."
+  },
+  {
+   "ini": 184.52,
+   "fim": 186.36,
+   "texto": "Just a masterpiece of a perfume."
+  },
+  {
+   "ini": 186.36,
+   "fim": 189.72,
+   "texto": "It is lavender, orange blossom, rum, vanilla."
+  },
+  {
+   "ini": 189.72,
+   "fim": 193.72,
+   "texto": "Very elegant, sophisticated, sensual, just beautiful vanilla perfume."
+  },
+  {
+   "ini": 193.72,
+   "fim": 196.6,
+   "texto": "When I ask Cal what perfume I should wear when we're going on a date,"
+  },
+  {
+   "ini": 196.6,
+   "fim": 197.8,
+   "texto": "very often he says this."
+  },
+  {
+   "ini": 197.8,
+   "fim": 201.4,
+   "texto": "It's like a gourmand vanilla, but done in that like date night style"
+  },
+  {
+   "ini": 201.4,
+   "fim": 205.72,
+   "texto": "to where it's still sexy, seductive, but still like a comforting vanilla at the same time."
+  },
+  {
+   "ini": 205.72,
+   "fim": 206.28,
+   "texto": "And elegant."
+  },
+  {
+   "ini": 206.28,
+   "fim": 209.08,
+   "texto": "Like it maintains this like elegant, sophisticated feel to it."
+  },
+  {
+   "ini": 209.08,
+   "fim": 210.28,
+   "texto": "It's really, really nice."
+  },
+  {
+   "ini": 210.28,
+   "fim": 211.64,
+   "texto": "Listen, please don't get it twisted."
+  },
+  {
+   "ini": 211.64,
+   "fim": 215.08,
+   "texto": "I am very happy if that comes back for the population."
+  },
+  {
+   "ini": 215.08,
+   "fim": 216.84,
+   "texto": "I was just like take it off guard because I was like, oh my gosh."
+  },
+  {
+   "ini": 216.84,
+   "fim": 218.12,
+   "texto": "Did you say that in your campaign as well?"
+  },
+  {
+   "ini": 218.12,
+   "fim": 218.84,
+   "texto": "Yeah, I did."
+  },
+  {
+   "ini": 218.84,
+   "fim": 220.12,
+   "texto": "Yeah, they said it was limited edition."
+  },
+  {
+   "ini": 220.12,
+   "fim": 221.4,
+   "texto": "As far as we know, it's limited edition,"
+  },
+  {
+   "ini": 221.4,
+   "fim": 222.84,
+   "texto": "but I've heard rumors it's coming back."
+  },
+  {
+   "ini": 222.84,
+   "fim": 223.24,
+   "texto": "From who?"
+  },
+  {
+   "ini": 223.24,
+   "fim": 224.44,
+   "texto": "TikTok comments."
+  },
+  {
+   "ini": 224.44,
+   "fim": 225.08,
+   "texto": "Oh, really?"
+  },
+  {
+   "ini": 225.08,
+   "fim": 227.4,
+   "texto": "TikTok comments usually don't miss with stuff like that."
+  },
+  {
+   "ini": 227.4,
+   "fim": 227.56,
+   "texto": "Okay."
+  },
+  {
+   "ini": 227.56,
+   "fim": 228.6,
+   "texto": "Yeah, that's the number one spot."
+  },
+  {
+   "ini": 228.6,
+   "fim": 229.8,
+   "texto": "What's your favorite one here?"
+  },
+  {
+   "ini": 229.8,
+   "fim": 230.28,
+   "texto": "Number one."
+  },
+  {
+   "ini": 230.28,
+   "fim": 231.24,
+   "texto": "Oh, brother."
+  },
+  {
+   "ini": 231.24,
+   "fim": 233.64,
+   "texto": "If you could only wear one for life, I think I'd go with the Valentino."
+  },
+  {
+   "ini": 233.64,
+   "fim": 234.6,
+   "texto": "Dona Bora Norma XS."
+  },
+  {
+   "ini": 235.72,
+   "fim": 237.72,
+   "texto": "Also something that I personally enjoy wearing."
+  },
+  {
+   "ini": 237.72,
+   "fim": 243.32,
+   "texto": "So if you and me could only wear one fragrance together, it would be this one."
+  },
+  {
+   "ini": 243.32,
+   "fim": 245.72,
+   "texto": "I think my favorite on you is going to be Vanille Couture."
+  },
+  {
+   "ini": 245.72,
+   "fim": 246.44,
+   "texto": "Solid."
+  },
+  {
+   "ini": 246.44,
+   "fim": 246.84,
+   "texto": "Yeah."
+  },
+  {
+   "ini": 246.84,
+   "fim": 247.24,
+   "texto": "Thank you."
+  },
+  {
+   "ini": 247.24,
+   "fim": 247.64,
+   "texto": "You're very welcome."
+  }
+ ]
+}

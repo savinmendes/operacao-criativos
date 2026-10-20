@@ -1,0 +1,23 @@
+REVISÃO: CESPED-CL_C4_SUEGROS.mp4
+duração 37.94s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.1 MB
+decodificação: OK
+pts do áudio: 1780 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1105-1170, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C4-SUEGROS\CESPED-CL_C4_SUEGROS_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  8.60 Mañana, a mi casa? Mi suegro es de los que se fijan en todo, y mi patio parecía potreno,
+   8.60- 17.12 hasta que probé ésta. Es cortapasto, orilladora y bordeadora en uno. Tiene
+  17.12- 21.08 ruedas, así que la usas con una sola mano. Cuchilla de metal reforzada,
+  21.08- 25.64 olvídate de los hilos que se cortan y es inalámbrica con dos baterías.
+  25.64- 33.02 Bonito el jardín yeño. Despacho gratis a todo Chile. Pagas
+  33.02- 37.42 al recibir y tienes 90 días de garantía. Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

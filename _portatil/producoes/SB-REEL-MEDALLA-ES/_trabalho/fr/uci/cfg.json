@@ -1,0 +1,55 @@
+{
+ "slug": "uci",
+ "hook_fim": 5.356,
+ "reza_src": "reza.mp3",
+ "reza_cortes": [
+  [
+   0,
+   2.932
+  ]
+ ],
+ "selfie_heygen_ini": 4.13,
+ "r_self": [
+  [
+   4.13,
+   4.221
+  ],
+  [
+   7.27,
+   7.38
+  ]
+ ],
+ "self_trocas": [
+  9.7,
+  12.31
+ ],
+ "self_dur": 15.527,
+ "selfie_mp3_dur": 15.557,
+ "cena_gancho": {
+  "src": "completa/gancho_amplo.mp4",
+  "ss": 0.0,
+  "zoom": 1.0,
+  "interp": true
+ },
+ "cena_reza": {
+  "src": "antes.mp4",
+  "ss": 0.0,
+  "zoom": 1.2,
+  "centro": [
+   460,
+   820
+  ]
+ },
+ "cena_virada": {
+  "src": "depois.mp4",
+  "ss": 1.0
+ },
+ "cena_frustrado": {
+  "src": "completa/frustrado.mp4",
+  "ss": 0.2
+ },
+ "rosto_selfie": [
+  580,
+  800
+ ]
+}

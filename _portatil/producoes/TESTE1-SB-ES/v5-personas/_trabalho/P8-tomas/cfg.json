@@ -1,0 +1,287 @@
+{
+ "texto": {
+  "R00": "Imágenes impactantes: un vendedor fue echado de un bus… por su fe.",
+  "CHOFER": "¡Bájate! ¡Que tu Dios te lleve caminando!",
+  "TOMAS_B": "Señor, solo estoy trabajando. Por favor, déjeme bajar tranquilo.",
+  "R01": "Al día siguiente, don Tomás vendió toda su caja antes del mediodía.",
+  "T1a": "Esa noche conté las monedas… no alcanzaba ni para el pasaje de vuelta.",
+  "T1b": "Me sentí un viejo que ya no le sirve a nadie.",
+  "T2": "Mi hijo me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña.",
+  "T3": "Al otro día, la gente me paraba en la calle para comprarme.",
+  "P1": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.",
+  "P2": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…",
+  "P3": "y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?",
+  "CTA": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+ },
+ "segmentos": [
+  {
+   "id": "ABR",
+   "tipo": "abertura",
+   "src": "takes/briga_ret.mov",
+   "audio_src": "takes/briga_ret_sts.wav",
+   "dur": 10.45,
+   "cy": 0.2,
+   "cx": 0.5,
+   "punch": {
+    "z": 1.3,
+    "c": [
+     346,
+     370
+    ],
+    "ate": 2.0
+   },
+   "pip": "hg/R00.mp4",
+   "pip_voz": "voz/R00.wav",
+   "pip_ate": 4.39,
+   "pip_fala_fim": 4.19,
+   "whisper": "takes/whisper_ret_small.json",
+   "janelas": {
+    "CHOFER": [
+     4.0,
+     7.0
+    ],
+    "TOMAS_B": [
+     7.0,
+     11.0
+    ]
+   },
+   "lufs": -16,
+   "duck_db": -5,
+   "falas": [
+    [
+     "R00",
+     "REPORTERA (en PiP)"
+    ],
+    [
+     "CHOFER",
+     "CHOFER"
+    ],
+    [
+     "TOMAS_B",
+     "DON TOMÁS"
+    ]
+   ]
+  },
+  {
+   "id": "V1",
+   "tipo": "video",
+   "src": "takes/k_maos.mp4",
+   "ss": 0.3,
+   "dur": 3.0,
+   "cy": 0.5,
+   "nota": "sin voz: don Tomás recoge el crucifijo entre los dulces en el suelo; música triste"
+  },
+  {
+   "id": "V2",
+   "tipo": "video",
+   "src": "takes/k_compra.mp4",
+   "ss": 0.5,
+   "dur": 2.6,
+   "cy": 0.55,
+   "nota": "sin voz: dos personas le compran dulces; la música cambia a esperanza"
+  },
+  {
+   "id": "V3",
+   "tipo": "img",
+   "src": "img/v3_vazia.png",
+   "dur": 2.2,
+   "cy": 0.45,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "nota": "sin voz: la caja vacía, todo vendido"
+  },
+  {
+   "id": "R01",
+   "bloco": "R01",
+   "tipo": "video",
+   "src": "hg/R01p.mp4",
+   "voz": "voz/R01.wav",
+   "cy": 0.3,
+   "zoom": [
+    1.0,
+    1.0
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "R01",
+     "REPORTERA"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "T1a",
+   "bloco": "T1a",
+   "tipo": "img",
+   "src": "img/b_moedas.png",
+   "voz": "voz/T1a.wav",
+   "cy": 0.5,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "falas": [
+    [
+     "T1a",
+     "DON TOMÁS (voz en off)"
+    ]
+   ]
+  },
+  {
+   "id": "T1b",
+   "bloco": "T1b",
+   "tipo": "video",
+   "src": "hg/T1b.mp4",
+   "voz": "voz/T1b.wav",
+   "cy": 0.1,
+   "zoom": [
+    1.0,
+    1.0
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "T1b",
+     "DON TOMÁS"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "T2",
+   "bloco": "T2",
+   "tipo": "img",
+   "src": "img/b_celular.png",
+   "voz": "voz/T2.wav",
+   "cy": 0.4,
+   "zoom": [
+    1.08,
+    1.0
+   ],
+   "falas": [
+    [
+     "T2",
+     "DON TOMÁS (voz en off)"
+    ]
+   ]
+  },
+  {
+   "id": "T3",
+   "bloco": "T3",
+   "tipo": "video",
+   "src": "hg/T3.mp4",
+   "voz": "voz/T3.wav",
+   "cy": 0.1,
+   "zoom": [
+    1.12,
+    1.12
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "T3",
+     "DON TOMÁS"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "P1",
+   "bloco": "P1",
+   "tipo": "video",
+   "src": "hg/P1.mp4",
+   "voz": "voz/P1.wav",
+   "cy": 0.1,
+   "zoom": [
+    1.0,
+    1.0
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "P1",
+     "DON TOMÁS"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "P2",
+   "bloco": "P2",
+   "tipo": "video",
+   "src": "hg/P2.mp4",
+   "voz": "voz/P2.wav",
+   "cy": 0.1,
+   "zoom": [
+    1.12,
+    1.12
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "P2",
+     "DON TOMÁS"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "P3",
+   "bloco": "P3",
+   "tipo": "video",
+   "src": "hg/P3.mp4",
+   "voz": "voz/P3.wav",
+   "cy": 0.1,
+   "zoom": [
+    1.0,
+    1.0
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "P3",
+     "DON TOMÁS"
+    ]
+   ],
+   "ss": 0.08
+  },
+  {
+   "id": "CTA",
+   "bloco": "CTA",
+   "tipo": "video",
+   "src": "hg/CTAp.mp4",
+   "voz": "voz/CTA.wav",
+   "cy": 0.3,
+   "zoom": [
+    1.0,
+    1.0
+   ],
+   "rua": true,
+   "falas": [
+    [
+     "CTA",
+     "REPORTERA"
+    ]
+   ],
+   "ss": 0.08
+  }
+ ],
+ "trilha": {
+  "triste_em": "V1",
+  "esperanca_em": "V2",
+  "abaixa_em": "R01"
+ },
+ "rua_lufs": -33,
+ "titulo_ate": 3.0,
+ "pip": {
+  "x": 416,
+  "y": 300,
+  "w": 304,
+  "h": 540,
+  "xc": 436,
+  "lado": "dir"
+ }
+}

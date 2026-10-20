@@ -1,0 +1,32 @@
+REVISÃO: 17 AD - ES.mp4
+duração 13.85s | 720x1280 | 30/1 fps | áudio: sim | 5.5 MB
+decodificação: OK
+pts do áudio: 651 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 819-1154, x 150-558 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\17\17 AD - ES_revisao.jpg
+idioma detectado: en (0.89)
+
+=== transcrição (es) ===
+   0.00-  1.00 Check this out right here.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  1.60    Check this out right here.
+   1.60-  2.80    Do wanna hate on us.
+   2.80-  3.30    Do.
+   3.30-  4.30    Do need to ease on love.
+   4.30-  4.80    Do.
+   4.80-  7.10    Do wanna act on top, but do get shut like Flavin' Shuck.
+   7.10-  7.90    Shut down.
+   7.90- 10.90    Check say she ain't damn, but chick back stay when we in town.
+  10.90- 12.50    She like men on drugs.
+  12.50- 14.90    She run a hit and run.
+
+=== RESULTADO ===
+aviso: idioma detectado en (0.89), esperado es
+aviso: última fala termina em 1.0s; vídeo vai até 13.8s
+OK: nenhum problema encontrado

@@ -1,0 +1,176 @@
+{
+ "s00": {
+  "k": 0,
+  "quem": "mujer",
+  "q0": 0,
+  "n": 82,
+  "crop": [
+   0,
+   470,
+   360,
+   640
+  ],
+  "desc": "react mujer + câmera"
+ },
+ "s02": {
+  "k": 2,
+  "quem": "reportera",
+  "q0": 293,
+  "n": 175,
+  "crop": [
+   226,
+   150,
+   360,
+   640
+  ],
+  "desc": "reportera"
+ },
+ "s04": {
+  "k": 4,
+  "quem": "aurelio",
+  "q0": 544,
+  "n": 178,
+  "crop": [
+   240,
+   250,
+   405,
+   720
+  ],
+  "desc": "Aurelio A"
+ },
+ "s08": {
+  "k": 8,
+  "quem": "aurelio",
+  "q0": 921,
+  "n": 196,
+  "crop": [
+   240,
+   250,
+   405,
+   720
+  ],
+  "desc": "Aurelio B"
+ },
+ "s10": {
+  "k": 10,
+  "quem": "aurelio",
+  "q0": 1218,
+  "n": 65,
+  "crop": [
+   270,
+   160,
+   450,
+   800
+  ],
+  "desc": "Aurelio C (repórter na borda: recorte)"
+ },
+ "s11": {
+  "k": 11,
+  "quem": "aurelio",
+  "q0": 1283,
+  "n": 229,
+  "crop": [
+   200,
+   230,
+   450,
+   800
+  ],
+  "desc": "Aurelio D zoom (pede a transmissão)"
+ },
+ "s12": {
+  "k": 12,
+  "quem": "sacerdote",
+  "q0": 1512,
+  "n": 172,
+  "crop": null,
+  "desc": "padre P1"
+ },
+ "s13": {
+  "k": 13,
+  "quem": "sacerdote",
+  "q0": 1684,
+  "n": 103,
+  "crop": null,
+  "desc": "padre P2"
+ },
+ "s15": {
+  "k": 15,
+  "quem": "sacerdote",
+  "q0": 1818,
+  "n": 169,
+  "crop": null,
+  "desc": "padre P3+P4+P5"
+ },
+ "s16": {
+  "k": 16,
+  "quem": "sacerdote",
+  "q0": 1987,
+  "n": 63,
+  "crop": null,
+  "desc": "padre reza (início da oração)"
+ },
+ "s21": {
+  "k": 21,
+  "quem": "sacerdote",
+  "q0": 2727,
+  "n": 124,
+  "crop": null,
+  "desc": "padre P6+P7"
+ },
+ "s23": {
+  "k": 23,
+  "quem": "sacerdote",
+  "q0": 2908,
+  "n": 39,
+  "crop": null,
+  "desc": "padre P8"
+ },
+ "s25": {
+  "k": 25,
+  "quem": "sacerdote",
+  "q0": 3019,
+  "n": 278,
+  "crop": null,
+  "desc": "padre P9+P8+P7"
+ },
+ "s27": {
+  "k": 27,
+  "quem": "sacerdote",
+  "q0": 3337,
+  "n": 132,
+  "crop": null,
+  "desc": "padre P10+P5"
+ },
+ "s30": {
+  "k": 30,
+  "quem": "sacerdote",
+  "q0": 3637,
+  "n": 74,
+  "crop": null,
+  "desc": "padre P11"
+ },
+ "s32": {
+  "k": 32,
+  "quem": "sacerdote",
+  "q0": 3948,
+  "n": 200,
+  "crop": null,
+  "desc": "padre CTA 1"
+ },
+ "s33": {
+  "k": 33,
+  "quem": "sacerdote",
+  "q0": 4148,
+  "n": 262,
+  "crop": null,
+  "desc": "padre CTA 2 (Ver más)"
+ },
+ "s34": {
+  "k": 34,
+  "quem": "sacerdote",
+  "q0": 4410,
+  "n": 242,
+  "crop": null,
+  "desc": "padre CTA 3 (envía)"
+ }
+}

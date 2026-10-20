@@ -1,0 +1,26 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F2 - DUELO-BENCINA-A-ES-CL.mp4",
+ "gancho_s": 6.0,
+ "partes_fala": [
+  0.3,
+  3.3
+ ],
+ "baixo": [
+  [
+   27.6,
+   69
+  ],
+  [
+   24.6,
+   69
+  ],
+  [
+   21.0,
+   42
+  ]
+ ],
+ "ganho_fala_db": 0.8,
+ "total_s": 53.1,
+ "mb": 25.3,
+ "kbps": 4176
+}

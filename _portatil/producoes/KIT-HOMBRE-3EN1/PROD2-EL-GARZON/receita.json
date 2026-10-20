@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/PERFUMES-CL_P2_EL-GARZON.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD2-EL-GARZON/corpo.alinhamento.json", "chaves": ["garzón!", "perfume", "propina", "perfumes", "árabes", "uno", "Armaf", "olerme", "Asad", "loza", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "NO ME DEJAN TRABAJAR 😅", "y": 1200, "ate": 3.65},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

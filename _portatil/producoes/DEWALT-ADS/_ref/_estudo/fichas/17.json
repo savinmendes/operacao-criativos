@@ -1,0 +1,63 @@
+{
+  "ad": "17",
+  "arquivo": "17 AD.mp4",
+  "folha": "_estudo/folhas/17.jpg",
+  "idioma": "pt (Brasil)",
+  "origem": {
+    "perfil": "@coremmaoficial (TikTok)",
+    "tipo": "loja (Coremma, Brasil) com apresentador próprio"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 79.8,
+  "cortes": {
+    "n": 37,
+    "ritmo": "rápido: ~2 s por plano, legenda palavra a palavra, humor"
+  },
+  "formato": "talking head + unboxing + demo (review de loja com humor)",
+  "gancho": {
+    "visual": "0-3 s: pilha de caixas DeWalt na loja, câmera passa rápido; legenda com a palavra 'brutalidade'",
+    "fala_ou_texto": "Fala: 'Brutalidade de tecnologia você vai encontrar aqui nesse vídeo, meu amigo, porque hoje eu estou trazendo pra você a furadeira e parafusadeira de impacto mais forte do mundo na atualidade.'"
+  },
+  "estrutura": [
+    {
+      "t": "0-10",
+      "bloco": "gancho 'mais forte do mundo' + apresentador"
+    },
+    {
+      "t": "10-26",
+      "bloco": "unboxing: modelo DCD1007B, bateria 5Ah/8Ah DCB2108, 169 Nm"
+    },
+    {
+      "t": "26-52",
+      "bloco": "recursos: alça, chip de monitoramento, clipe, embreagem eletrônica, mandril; demo do tranco ('é brinquedo pra gente grande')"
+    },
+    {
+      "t": "52-70",
+      "bloco": "piada do penteado + antitorção + furo em madeira"
+    },
+    {
+      "t": "70-79.8",
+      "bloco": "CTA de engajamento + fachada da loja + logo Coremma"
+    }
+  ],
+  "cta": "'Você gostaria de assistir um vídeo dessa bela ferramenta com os brutos na prática? Deixe aí nos comentários' (engajamento, não venda)",
+  "texto_tela": "legenda branca palavra a palavra no centro; logo COREMMA no fim",
+  "produto": {
+    "mostrado": "DeWalt DCD1007B (furadeira/parafusadeira de impacto XR, topo de linha) com bateria DCB2108 (dito na fala e escrito na tela)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": true,
+    "tempo_s": "~15-20 s (apresentador da loja em vários planos)"
+  },
+  "marca_dagua": "logo Coremma na camisa e na tela final",
+  "audio": "voz masculina pt-BR + efeitos sonoros",
+  "uso": [
+    "só referência de formato (ritmo, humor 'brinquedo pra gente grande', ganchos de força)",
+    "banco de takes: poucos planos de detalhe sem rosto (mandril, LED, bateria), mas são do DCD1007"
+  ],
+  "nota": {
+    "valor": 2,
+    "justificativa": "Ótimo ritmo e humor, mas o produto é o topo de linha DCD1007 e o apresentador é da loja (rosto + marca Coremma). Serve de modelo de roteiro rápido com legenda palavra a palavra; recriar com avatar/narração em ES-CL."
+  }
+}

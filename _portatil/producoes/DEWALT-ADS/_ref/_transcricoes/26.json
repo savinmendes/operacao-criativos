@@ -1,0 +1,27 @@
+{
+ "arquivo": "26 AD.mp4",
+ "idioma": "pt",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.14,
+   "fim": 7.14,
+   "texto": "Quem compra hoje vai pagar só a metade do preço, olha só essa parafusadeira da Deowalt."
+  },
+  {
+   "ini": 7.14,
+   "fim": 14.14,
+   "texto": "Ela acompanha essa maleta, o carregador, bivolte e duas baterias."
+  },
+  {
+   "ini": 14.14,
+   "fim": 26.85,
+   "texto": "Olha a potência dessa parafusadeira, a grossura desse parafuso."
+  },
+  {
+   "ini": 26.85,
+   "fim": 38.14,
+   "texto": "É muito forte, pessoal, mega oportunidade, está aqui no link, corre e aproveita."
+  }
+ ]
+}

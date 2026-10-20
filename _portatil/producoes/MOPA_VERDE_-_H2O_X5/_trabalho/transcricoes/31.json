@@ -1,0 +1,552 @@
+{
+ "id": "31",
+ "texto": "fast, effective cleaning that actually makes life easier. The H2O X5 is a powerful 5-in-1 steam cleaner designed to handle your entire home with just one device. From floors and carpets to windows, tiles, and more, it uses the power of steam to remove dirt and grime, no harsh chemicals needed. Lightweight and easy to maneuver, the H2O X5 saves time while delivering a deeper clean so you can spend less time cleaning and more time living.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 3.12,
+   "texto": "fast, effective cleaning that actually makes life easier.",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "fast,",
+     "ini": 0.0,
+     "fim": 0.56,
+     "p": 0.44
+    },
+    {
+     "w": "effective",
+     "ini": 0.82,
+     "fim": 1.14,
+     "p": 1.0
+    },
+    {
+     "w": "cleaning",
+     "ini": 1.14,
+     "fim": 1.46,
+     "p": 0.98
+    },
+    {
+     "w": "that",
+     "ini": 1.46,
+     "fim": 1.72,
+     "p": 0.98
+    },
+    {
+     "w": "actually",
+     "ini": 1.72,
+     "fim": 2.1,
+     "p": 0.99
+    },
+    {
+     "w": "makes",
+     "ini": 2.1,
+     "fim": 2.38,
+     "p": 1.0
+    },
+    {
+     "w": "life",
+     "ini": 2.38,
+     "fim": 2.62,
+     "p": 1.0
+    },
+    {
+     "w": "easier.",
+     "ini": 2.62,
+     "fim": 3.12,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 3.58,
+   "fim": 6.52,
+   "texto": "The H2O X5 is a powerful 5-in-1 steam cleaner",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "The",
+     "ini": 3.58,
+     "fim": 3.78,
+     "p": 0.99
+    },
+    {
+     "w": "H2O",
+     "ini": 3.78,
+     "fim": 4.22,
+     "p": 0.89
+    },
+    {
+     "w": "X5",
+     "ini": 4.22,
+     "fim": 4.56,
+     "p": 0.85
+    },
+    {
+     "w": "is",
+     "ini": 4.56,
+     "fim": 4.72,
+     "p": 0.99
+    },
+    {
+     "w": "a",
+     "ini": 4.72,
+     "fim": 4.84,
+     "p": 0.99
+    },
+    {
+     "w": "powerful",
+     "ini": 4.84,
+     "fim": 5.34,
+     "p": 1.0
+    },
+    {
+     "w": "5",
+     "ini": 5.34,
+     "fim": 5.64,
+     "p": 0.76
+    },
+    {
+     "w": "-in",
+     "ini": 5.64,
+     "fim": 5.8,
+     "p": 0.94
+    },
+    {
+     "w": "-1",
+     "ini": 5.8,
+     "fim": 6.0,
+     "p": 0.99
+    },
+    {
+     "w": "steam",
+     "ini": 6.0,
+     "fim": 6.24,
+     "p": 0.96
+    },
+    {
+     "w": "cleaner",
+     "ini": 6.24,
+     "fim": 6.52,
+     "p": 0.99
+    }
+   ]
+  },
+  {
+   "ini": 6.52,
+   "fim": 9.14,
+   "texto": "designed to handle your entire home with just one device.",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "designed",
+     "ini": 6.52,
+     "fim": 6.84,
+     "p": 0.98
+    },
+    {
+     "w": "to",
+     "ini": 6.84,
+     "fim": 7.1,
+     "p": 1.0
+    },
+    {
+     "w": "handle",
+     "ini": 7.1,
+     "fim": 7.26,
+     "p": 1.0
+    },
+    {
+     "w": "your",
+     "ini": 7.26,
+     "fim": 7.5,
+     "p": 1.0
+    },
+    {
+     "w": "entire",
+     "ini": 7.5,
+     "fim": 7.8,
+     "p": 1.0
+    },
+    {
+     "w": "home",
+     "ini": 7.8,
+     "fim": 8.04,
+     "p": 1.0
+    },
+    {
+     "w": "with",
+     "ini": 8.04,
+     "fim": 8.22,
+     "p": 1.0
+    },
+    {
+     "w": "just",
+     "ini": 8.22,
+     "fim": 8.5,
+     "p": 1.0
+    },
+    {
+     "w": "one",
+     "ini": 8.5,
+     "fim": 8.74,
+     "p": 0.96
+    },
+    {
+     "w": "device.",
+     "ini": 8.74,
+     "fim": 9.14,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 9.54,
+   "fim": 12.18,
+   "texto": "From floors and carpets to windows, tiles, and more,",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "From",
+     "ini": 9.54,
+     "fim": 9.78,
+     "p": 0.99
+    },
+    {
+     "w": "floors",
+     "ini": 9.78,
+     "fim": 10.1,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 10.1,
+     "fim": 10.32,
+     "p": 0.99
+    },
+    {
+     "w": "carpets",
+     "ini": 10.32,
+     "fim": 10.66,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 10.66,
+     "fim": 10.82,
+     "p": 0.82
+    },
+    {
+     "w": "windows,",
+     "ini": 10.82,
+     "fim": 11.2,
+     "p": 1.0
+    },
+    {
+     "w": "tiles,",
+     "ini": 11.44,
+     "fim": 11.64,
+     "p": 0.99
+    },
+    {
+     "w": "and",
+     "ini": 11.8,
+     "fim": 11.92,
+     "p": 1.0
+    },
+    {
+     "w": "more,",
+     "ini": 11.92,
+     "fim": 12.18,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 12.52,
+   "fim": 15.02,
+   "texto": "it uses the power of steam to remove dirt and grime,",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "it",
+     "ini": 12.52,
+     "fim": 12.62,
+     "p": 0.99
+    },
+    {
+     "w": "uses",
+     "ini": 12.62,
+     "fim": 12.9,
+     "p": 1.0
+    },
+    {
+     "w": "the",
+     "ini": 12.9,
+     "fim": 13.1,
+     "p": 1.0
+    },
+    {
+     "w": "power",
+     "ini": 13.1,
+     "fim": 13.26,
+     "p": 1.0
+    },
+    {
+     "w": "of",
+     "ini": 13.26,
+     "fim": 13.52,
+     "p": 1.0
+    },
+    {
+     "w": "steam",
+     "ini": 13.52,
+     "fim": 13.66,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 13.66,
+     "fim": 13.94,
+     "p": 1.0
+    },
+    {
+     "w": "remove",
+     "ini": 13.94,
+     "fim": 14.18,
+     "p": 1.0
+    },
+    {
+     "w": "dirt",
+     "ini": 14.18,
+     "fim": 14.44,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 14.44,
+     "fim": 14.72,
+     "p": 1.0
+    },
+    {
+     "w": "grime,",
+     "ini": 14.72,
+     "fim": 15.02,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 15.32,
+   "fim": 16.44,
+   "texto": "no harsh chemicals needed.",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "no",
+     "ini": 15.32,
+     "fim": 15.46,
+     "p": 0.99
+    },
+    {
+     "w": "harsh",
+     "ini": 15.46,
+     "fim": 15.7,
+     "p": 1.0
+    },
+    {
+     "w": "chemicals",
+     "ini": 15.7,
+     "fim": 16.08,
+     "p": 1.0
+    },
+    {
+     "w": "needed.",
+     "ini": 16.08,
+     "fim": 16.44,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 17.1,
+   "fim": 18.14,
+   "texto": "Lightweight and easy to maneuver,",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "Lightweight",
+     "ini": 17.1,
+     "fim": 17.36,
+     "p": 0.99
+    },
+    {
+     "w": "and",
+     "ini": 17.36,
+     "fim": 17.52,
+     "p": 0.99
+    },
+    {
+     "w": "easy",
+     "ini": 17.52,
+     "fim": 17.74,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 17.74,
+     "fim": 17.88,
+     "p": 0.97
+    },
+    {
+     "w": "maneuver,",
+     "ini": 17.88,
+     "fim": 18.14,
+     "p": 0.98
+    }
+   ]
+  },
+  {
+   "ini": 18.44,
+   "fim": 21.18,
+   "texto": "the H2O X5 saves time while delivering a deeper clean",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "the",
+     "ini": 18.44,
+     "fim": 18.62,
+     "p": 0.99
+    },
+    {
+     "w": "H2O",
+     "ini": 18.62,
+     "fim": 19.04,
+     "p": 1.0
+    },
+    {
+     "w": "X5",
+     "ini": 19.04,
+     "fim": 19.38,
+     "p": 1.0
+    },
+    {
+     "w": "saves",
+     "ini": 19.38,
+     "fim": 19.64,
+     "p": 1.0
+    },
+    {
+     "w": "time",
+     "ini": 19.64,
+     "fim": 19.98,
+     "p": 1.0
+    },
+    {
+     "w": "while",
+     "ini": 19.98,
+     "fim": 20.2,
+     "p": 0.99
+    },
+    {
+     "w": "delivering",
+     "ini": 20.2,
+     "fim": 20.5,
+     "p": 1.0
+    },
+    {
+     "w": "a",
+     "ini": 20.5,
+     "fim": 20.7,
+     "p": 1.0
+    },
+    {
+     "w": "deeper",
+     "ini": 20.7,
+     "fim": 20.9,
+     "p": 1.0
+    },
+    {
+     "w": "clean",
+     "ini": 20.9,
+     "fim": 21.18,
+     "p": 0.99
+    }
+   ]
+  },
+  {
+   "ini": 21.18,
+   "fim": 23.6,
+   "texto": "so you can spend less time cleaning and more time living.",
+   "no_speech": 0.01,
+   "palavras": [
+    {
+     "w": "so",
+     "ini": 21.18,
+     "fim": 21.6,
+     "p": 0.44
+    },
+    {
+     "w": "you",
+     "ini": 21.6,
+     "fim": 21.72,
+     "p": 0.99
+    },
+    {
+     "w": "can",
+     "ini": 21.72,
+     "fim": 21.92,
+     "p": 1.0
+    },
+    {
+     "w": "spend",
+     "ini": 21.92,
+     "fim": 22.08,
+     "p": 1.0
+    },
+    {
+     "w": "less",
+     "ini": 22.08,
+     "fim": 22.3,
+     "p": 1.0
+    },
+    {
+     "w": "time",
+     "ini": 22.3,
+     "fim": 22.54,
+     "p": 0.99
+    },
+    {
+     "w": "cleaning",
+     "ini": 22.54,
+     "fim": 22.76,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 22.76,
+     "fim": 23.04,
+     "p": 0.94
+    },
+    {
+     "w": "more",
+     "ini": 23.04,
+     "fim": 23.2,
+     "p": 1.0
+    },
+    {
+     "w": "time",
+     "ini": 23.2,
+     "fim": 23.4,
+     "p": 1.0
+    },
+    {
+     "w": "living.",
+     "ini": 23.4,
+     "fim": 23.6,
+     "p": 1.0
+    }
+   ]
+  }
+ ]
+}

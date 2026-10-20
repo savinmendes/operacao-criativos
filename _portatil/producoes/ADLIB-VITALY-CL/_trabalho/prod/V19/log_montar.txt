@@ -1,0 +1,7 @@
+arquivo : C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/LYMPHORIA-ES-CL/V19 - LYMPHORIA-ANTES-DESPUES.mp4
+duração : 32.10s | 720x1280 | áudio: sim | 18.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\LYMPHORIA-ES-CL\V19 - LYMPHORIA-ANTES-DESPUES_frames.jpg
+RESULTADO: OK
+CTA em 29.34s
+montagem rápida: 26s para 32s de vídeo (0.81x)

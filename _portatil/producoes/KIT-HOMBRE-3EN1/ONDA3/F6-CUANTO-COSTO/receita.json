@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F6-CUANTO-COSTO/PERFUMES-CL_F6_CUANTO-COSTO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F6-CUANTO-COSTO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F6-CUANTO-COSTO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F6-CUANTO-COSTO/corpo.alinhamento.json", "y": 1440, "chaves": ["echaste", "carísimo", "tres", "pagué", "árabes", "uno", "Armaf", "Asad", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "CREEN QUE GASTÉ UNA FORTUNA 🤑", "y": 215, "ate": 4.0},
+  "cta": {"palavra": "pídelo", "y": 1650},
+  "resolucao": "720",
+  "limite_mb": 30
+}

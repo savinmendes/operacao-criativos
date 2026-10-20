@@ -1,0 +1,58 @@
+{
+ "var": "23",
+ "gancho": "G3",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "Mi exesposo estaba detrás de mí en la fila, con su novia del brazo. Diez minutos ahí, y nunca me reconoció. Esto fue lo que pasó.",
+ "Hd": 8.966666666666667,
+ "fala_s": 8.54,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 19.975,
+   "dur": 1.6666666666666667
+  },
+  {
+   "src": "30",
+   "ini": 15.142,
+   "dur": 1.9333333333333333
+  },
+  {
+   "src": "30",
+   "ini": 0.342,
+   "dur": 1.9
+  },
+  {
+   "src": "30",
+   "ini": 17.925,
+   "dur": 1.7
+  },
+  {
+   "src": "30",
+   "ini": 13.058,
+   "dur": 0.9666666666666667
+  },
+  {
+   "src": "30",
+   "ini": 8.875,
+   "dur": 0.8
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "Mi exesposo estaba detrás de mí en la fila, con su novia del brazo.",
+   0.035
+  ],
+  [
+   "Diez minutos ahí, y nunca me reconoció.",
+   3.924
+  ],
+  [
+   "Esto fue lo que pasó.",
+   6.873
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 23 - G3-EXESPOSO-FILA x AD30.mp4",
+ "seed": 164
+}

@@ -1,0 +1,43 @@
+{
+ "reza": [
+  [
+   0,
+   3.303
+  ]
+ ],
+ "centro_antes": [
+  560,
+  640
+ ],
+ "rosto_selfie": [
+  560,
+  840
+ ],
+ "zoom_gancho": 1.12,
+ "centro_gancho": [
+  540,
+  760
+ ],
+ "ss_depois": 0.4,
+ "ss_frustrado": 0.0,
+ "selfie_heygen_ini": 3.29,
+ "r_self": [
+  [
+   3.217,
+   3.477
+  ],
+  [
+   8.051,
+   8.272
+  ],
+  [
+   10.454,
+   10.745
+  ]
+ ],
+ "self_trocas": [
+  5.921,
+  14.175
+ ],
+ "self_dur": 17.356
+}

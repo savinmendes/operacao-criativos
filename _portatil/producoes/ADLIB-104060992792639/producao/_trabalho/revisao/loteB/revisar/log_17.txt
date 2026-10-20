@@ -1,0 +1,53 @@
+﻿REVISÃO: AD 17 - ORACION-NUDO-ES-LATAM.mp4
+duração 87.10s | 720x1280 | 30/1 fps | áudio: sim | 27.6 MB
+decodificação: OK
+pts do áudio: 4081 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 9 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1122-1188, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\revisao\loteB\revisar\AD 17 - ORACION-NUDO-ES-LATAM_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  5.00 Vine a traer alivio a tu corazón y a desatar el nudo que detiene tu vida,
+   5.00-  9.00 porque no fue por casualidad que este video llegó hasta ti.
+   9.00- 13.00 Fuiste tú a quien elegí entre tanta gente.
+  13.00- 18.00 Hay una gran bendición separada con tu nombre y ya viene en camino hacia ti,
+  18.00- 25.00 pero hay un nudo apretado en medio del camino que la detiene afuera y ese nudo no lo ataste tú.
+  25.00- 32.00 no es que tu fe sea débil. Resaste, encendiste velas, hiciste promesas y aun así no encontrabas
+  32.00- 39.04 descanso. La culpa nunca fue tuya. Siempre fue ese nudo. Y solo se desata con una oración
+  39.04- 45.44 de nueve palabras, rezada en el orden correcto como te voy a enseñar. No se trata de rezar
+  45.44- 52.96 más, sino de rezar de la manera correcta. Y cuando ese nudo se desate, la paz vuelve
+  52.96- 58.52 a tu corazón y la alegría a tu hogar. Esa preocupación que te quita el sueño empieza
+  58.52- 64.68 a aliviarse. Pero presta mucha atención hasta el final, porque esta oración sagrada fue
+  64.68- 70.12 preparada con amor para ti. Entonces toca el botón de abajo ahora, porque te dejé
+  70.12- 76.36 un video corto y gratuito con el orden correcto de las oraciones, una para cada nudo. Pero
+  76.36- 81.04 no lo dejes para después. El enemigo no quiere que este mensaje llegue hasta
+  81.04- 86.04 toca el botón de abajo y recibe lo que Dios ya preparó para ti.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  5.00    Vine atraer alivio a tu coração e a desatar o nudo que detiene tu vida,
+   5.00-  9.00    porque não foi por casualidade que este vídeo chegou até ti.
+   9.00- 13.00    Fui-te tu a quem elegi, entre tanta gente.
+  13.00- 18.00    Há uma grande bendição separada com o teu nome, e já vem no caminho até ti,
+  18.00- 22.00    mas há um nudo apertado no meio do caminho, que o detende fora,
+  22.00- 25.00    e esse nudo não o ataste tu.
+  25.00- 32.00    Não é que tu fecesse a débil, rezaste, encendiste velas, hiciste promessas, e aun assim não encontravas
+  32.00- 33.40    descanso.
+  33.40- 40.46    A culpa nunca foi tuya, sempre foi esse nudo, e só se desata com uma oração de 9 palavras
+  40.46- 44.20    rezada no ordem correto, como vou te ensinar.
+  44.20- 48.40    Não se trata de rezar mais, mas de rezar de maneira correta.
+  48.40- 55.40    E quando esse novo se desate, a paz volta ao seu coração e a alegria ao seu hogar.
+  55.40- 59.40    Essa preocupação que te quita o sonho começa a aliviar-se.
+  59.40- 66.40    Mas presta muita atenção até o final, porque essa oração sagrada foi preparada com amor para ti.
+  66.40- 75.40    Então toca o botão de baixo agora, porque te deixei um vídeo corto e gratuito com o ordem correto das orações, uma para cada novo.
+  75.40- 78.40    Mas não o deixes para depois.
+  78.40- 81.40    O inimigo não quer que este mensagem chegue até você.
+  81.40- 86.40    Toca o botão de baixo e recebe o que Deus já preparou para você.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado
+relatório: C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\revisao\loteB\revisar\AD 17 - ORACION-NUDO-ES-LATAM_revisao.txt

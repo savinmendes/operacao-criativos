@@ -1,0 +1,24 @@
+>> substituir_trechos.py base.mp4 v2_b1.mp4 trechos_v2.json
+t1_final.mp4: 70 quadros a partir de 295.533s
+t2_final.mp4: 31 quadros a partir de 297.867s
+t3_final.mp4: 21 quadros a partir de 310.333s
+t4_final.mp4: 30 quadros a partir de 407.433s
+t5_final.mp4: 163 quadros a partir de 412.267s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad11\v2_b1.mp4 | 16227 quadros, 315 trocados
+>> desfocar_regioes.py v2_b1.mp4 v2_b2.mp4 --de 411.07
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad11\v2_b2.mp4 | 37 quadros desfocados
+>> trocar_texto_tela.py v2_b2.mp4 v2_b3.mp4 --de 295.4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad11\v2_b3.mp4 | 77 quadros com texto trocado
+>> -v error -y -i v2_b3.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 9.4 min não cabe em 30 MB com qualidade; usando 900 kbps (~71 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 11 - LYMPHORIA-GIMNASIO-ES-LATAM v2.mp4
+duração : 562.60s | 720x1280 | áudio: sim | 68.5 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 11 - LYMPHORIA-GIMNASIO-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 559.30s
+montagem rápida: 115s para 563s de vídeo (0.20x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 11 - LYMPHORIA-GIMNASIO-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 16562, "psnr_min": 26.51, "psnr_medio": 38.02, "px40_max": 21185, "px40_medio": 260.76, "quadro_px40_max": 3801, "t_px40_max": 126.7}, "parte1_fora_dos_takes": {"quadros": 15912, "px40_max": 29, "t_px40_max": 295.4, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 315, "px40_medio": 957.4}}
+{"quadros": 315, "psnr_medio": 34.94, "px40_medio": 1224.9, "px40_max": 4828}

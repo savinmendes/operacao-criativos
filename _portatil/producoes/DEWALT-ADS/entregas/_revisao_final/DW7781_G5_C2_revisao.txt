@@ -1,0 +1,33 @@
+REVISÃO: DW7781_G5_C2.mp4
+duração 42.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.5 MB
+decodificação: OK
+pts do áudio: 1970 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G5_C2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.30 2 baterías, cargador y maleta, todo incluido
+   2.80-  4.80 1 es el anillo en modo percutor
+   5.80-  7.80 y la broca entra en el muro sin pelear
+   8.80- 10.80 en madera, pasa limpiecita
+  12.00- 14.60 y para la torna y ya, 15 posiciones de torque
+  14.60- 16.30 aprietas justo sin pasarte
+  16.30- 17.50 el secreto
+  17.50- 19.30 motor sin carbónes
+  20.20- 24.00 The Wall dice que es 17% más eficiente que un motor con carbónes
+  25.00- 25.80 2 velocidades
+  25.80- 27.60 fuerza en la primera, rapidez en la segunda
+  27.60- 29.90 y trae 2 baterías con indicador de carga
+  29.90- 35.78 Mientras una trabaja la otra se carga, compacto y liviano para trabajar todo el día.
+  35.78- 40.26 Aprovecha el Pre-Black Friday, pídelo hoy y pagas recién cuando te llegue, en viva
+  40.26- 40.82 a todos Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

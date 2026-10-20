@@ -1,0 +1,23 @@
+# AD 02 — Tutorial de instalação (Grupo A)
+
+- **Arquivo:** `producao/AD 02 - WYZE-SOLAR-CAM-PAN-INSTALACION-ES-LATAM.mp4`, 23,2 s, 720x1280, 13,7 MB. Revisão do kit: OK.
+- **Voz:** Sara - Warm, Clear and Engaging (`ODO4sbmD3pTjhgRVVRP6`), feminina, espanhol latino neutro, de catálogo, sem clonagem.
+  - Gênero estimado pelo F0 da voz original (mediana ~150 Hz, com picos de 200–225 Hz). **A estimativa é ambígua**: escolhi voz feminina e isso precisa de conferência manual.
+- **TTS:** 324 caracteres (~US$0,05). Velocidade 1,0x, sem aceleração.
+- **HeyGen:** não usado (Grupo A).
+- **Roteiro:** `roteiro_es.txt`. As frases foram encaixadas no tempo de cada cena (`base.json` → `offsets`).
+- **O que foi cortado ou trocado:**
+  - O título "Wyze Solar Cam Pan Installation Guide" e o "in 20 secs" (0–2,03 s) foram cobertos por uma caixa branca opaca com "Wyze Solar Cam Pan / Guía de instalación". O "en 20 segundos" foi tirado porque não está nas specs.
+  - A legenda em inglês foi coberta pela faixa preta (alpha 252, y 925–1062), com a legenda nova em espanhol por cima.
+  - A fala "Upgrade your home security today with the Wyze…" virou "Protege tu casa: toca el botón de abajo y pide la tuya." As setas entram no "toca" (20,3 s).
+  - Gravação do app (17,35–18,65 s): **pessoa desfocada** (terceiro) e **data/hora desfocada**.
+  - A música vem do demucs (`no_vocals`) em 50% do volume. O último quadro foi congelado por 0,8 s para caber o CTA.
+  - O selo NÃO entrou. Ele está pronto em `receita_com_selo.json` ("PAGO CONTRA ENTREGA"), mas a posição precisa ser conferida.
+- **Revisão:**
+  - Whisper es: o texto bate com o roteiro e não tem preço, país, TikTok, link, Natal ou alegação proibida.
+  - Whisper en: só saiu tradução da fala em espanhol. Não sobrou fala em inglês.
+  - Folha 1 qps (`folha/`): nenhuma legenda em inglês, nenhum quadro solto nos cortes (o quadro solto do título em 2,03 s foi corrigido) e setas abaixo da faixa.
+  - Fim: 0,45 s de silêncio depois do "pide la tuya". A música original acaba em 22,3 s.
+- **Pendências:**
+  - Confirmar o gênero da voz.
+  - A interface do app está em inglês ("Track Person", "Siren"), por ~1,3 s. É texto pequeno de interface, não é legenda; deixei.

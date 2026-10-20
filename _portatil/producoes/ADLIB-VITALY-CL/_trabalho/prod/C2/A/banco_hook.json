@@ -1,0 +1,41 @@
+{
+ "video": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\AD 03 - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4",
+ "tomadas": [
+  {
+   "ini": 11.95,
+   "fim": 14.35,
+   "dur": 2.4,
+   "grupo": 0
+  },
+  {
+   "ini": 129.6,
+   "fim": 132.4,
+   "dur": 2.8,
+   "grupo": 1
+  },
+  {
+   "ini": 159.85,
+   "fim": 162.7,
+   "dur": 2.85,
+   "grupo": 2
+  },
+  {
+   "ini": 171.9,
+   "fim": 175.0,
+   "dur": 3.1,
+   "grupo": 3
+  },
+  {
+   "ini": 37.0,
+   "fim": 40.5,
+   "dur": 3.5,
+   "grupo": 4
+  },
+  {
+   "ini": 196.9,
+   "fim": 201.75,
+   "dur": 4.85,
+   "grupo": 5
+  }
+ ]
+}

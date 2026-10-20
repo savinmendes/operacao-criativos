@@ -1,0 +1,79 @@
+SB-FR-ADS-20 — saint Benoît · français (France, Canada FR, Belgique, Suisse, Caraïbes FR)
+Base: SB-EN-ADS-20 / IT / PL (mesma imagem: base_limpa.mp4 do EN, gancho HeyGen a partir do heygen_in com o áudio original ES, mesma trilha demucs).
+Original: SAN-BENITO-ES-VENCEDORES/SB-ES_04_ADS-20.mp4 (141 s). Destino: la prière en direct (live/VSL). Botão do Meta: LEARN_MORE (« En savoir plus »). Sem produto e sem preço no vídeo.
+Duração final: 144,1 s (ES 141 s, EN 140,8 s, IT 138,7 s, PL 131,4 s) · 720x1280 · 30 fps.
+Vozes (ElevenLabs, eleven_multilingual_v2, language_code "fr"): gancho = "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE); corpo = "Brian" (nPczCjzI2devNBz1zQrb), speed 1.08. Nenhuma voz criada/clonada/apagada.
+Pronúncia conferida no faster-whisper (detecção automática: fr 1,00).
+Lipsync gancho: HeyGen speed, 1 job (f5dd60c577ac49b69acdfff3468695ea), checar_lipsync índice de pausa 0,24 (APROVADO).
+
+======================================================================
+ROTEIRO ES (original)  ×  ROTEIRO FR (narrado)
+======================================================================
+[GANCHO — Jesus, lipsync HeyGen]
+ES: ¿Pediste una señal?
+FR: Tu as demandé un signe ?
+
+ES: Y ahora estás aquí.
+FR: Et maintenant... tu es là.
+
+
+[CORPO — narrador Brian]
+ES: Dios te detuvo justo para hablarte a ti, no por casualidad, sino porque este es tu último aviso. No vendrá otro mensaje como este.
+FR: Dieu a voulu que tu t'arrêtes ici pour te parler, à toi. Ce n'est pas un hasard : c'est ton dernier avertissement. Tu ne recevras pas d'autre message comme celui-ci.
+
+ES: Lo que está por soltarse desde el cielo va a moverte el alma, va a tocar tu vida de una forma que no vas a poder negar.
+FR: Ce qui va descendre du ciel va bouleverser ton âme. Cela touchera ta vie d'une manière que tu ne pourras pas nier.
+
+ES: Si fuera tú, no cerraría este video ni por un segundo, porque lo que estás por escuchar tiene poder para cambiar tu destino.
+FR: À ta place, je ne fermerais pas cette vidéo, pas même une seconde, car ce que tu vas entendre peut changer ton destin.
+
+ES: Dios me muestra que va a romper esa dependencia que te tenía atada a alguien. Ya no vas a necesitar de nadie. Lo que viene es independencia total.
+FR: Dieu me montre qu'il va briser cette dépendance qui te liait à quelqu'un. Tu n'auras plus besoin de personne. Ce qui arrive, c'est l'indépendance totale.
+
+ES: Él está firmando un papel a tu favor, moviendo el sistema completo para darte lo que te corresponde. Todo lo que te negaron por envidia, él lo está decretando a tu nombre.
+FR: Il signe un document en ta faveur et remue ciel et terre pour te donner ce qui te revient. Tout ce qu'on t'a refusé par jalousie, il le met à ton nom.
+
+ES: Veo un cambio de escenario tan grande que la gente no te va a reconocer. Dios tiene prisa contigo y lo que esperabas para dentro de un mes se va a manifestar en días.
+FR: Je vois un changement si grand que les gens ne te reconnaîtront plus. Dieu accélère les choses pour toi : ce que tu attendais dans un mois arrivera en quelques jours.
+
+ES: Hoy marca el inicio de tu nueva historia. La humillación se termina, la vergüenza se acaba. Ya no tendrás que rogar por lo que te pertenece, porque Dios lo selló con su firma divina.
+FR: Aujourd'hui commence ta nouvelle histoire. Fini l'humiliation. Fini la honte. Tu n'auras plus à supplier pour ce qui t'appartient, car Dieu l'a scellé de sa signature divine.
+
+ES: Y presta atención a esto: hay protecciones espirituales que se activan solo cuando se hace la oración correcta.
+FR: Et fais bien attention à ceci : certaines protections spirituelles ne s'activent qu'avec la bonne prière.
+
+ES: Durante siglos, san Benito fue conocido por romper ataques, bloqueos y caminos cerrados a través de una oración poderosa que protegía no solo a la persona, sino todo lo que la rodeaba.
+FR: Depuis des siècles, saint Benoît est connu pour repousser les attaques, lever les blocages et rouvrir les chemins fermés, grâce à une prière puissante qui protégeait la personne et tout ce qui l'entourait.
+
+ES: Esa oración no se repite como cualquier otra. Se aprende, se hace con intención y se activa en el momento correcto. Y ese momento es ahora.
+FR: Cette prière ne se dit pas comme les autres. Elle s'apprend, elle se récite avec intention et elle s'active au bon moment. Et ce moment, c'est maintenant.
+
+ES: Porque en este instante está ocurriendo una misa especial donde se explica y se guía esta oración de san Benito exactamente para personas que han pasado por humillación, envidia, ataques espirituales y estancamiento.
+FR: Car en ce moment même a lieu une prière spéciale en direct, où l'on t'explique et te guide pas à pas dans la prière de saint Benoît, pour ceux qui ont connu l'humiliation, la jalousie, les attaques spirituelles et la stagnation.
+
+ES: Muchos no entienden por qué todo se les bloquea, por qué la energía se vuelve pesada, por qué nada fluye. Pero cuando la protección correcta entra, todo empieza a ordenarse.
+FR: Beaucoup ne comprennent pas pourquoi tout se bloque, pourquoi l'énergie est si lourde, pourquoi rien n'avance. Mais quand la bonne protection entre en jeu, tout rentre dans l'ordre.
+
+ES: No todos llegan hasta aquí y no todos reciben esta guía a tiempo. Si sientes que este mensaje te tocó más profundo de lo normal, no lo ignores.
+FR: Tout le monde n'arrive pas jusqu'ici, et tous ne reçoivent pas cet appel à temps. Si ce message résonne en toi plus fort que d'habitude, ne l'ignore pas.
+
+ES: Haz clic ahora y entra a la misa que está ocurriendo en este momento, donde se revela cómo hacer la oración de san Benito de la forma correcta.
+FR: Appuie sur le bouton « En savoir plus » ci-dessous et rejoins la prière en direct. C'est là que tu apprendras à réciter la prière de saint Benoît comme il se doit.
+
+ES: No lo dejes para después. Esta ventana no se mantiene abierta siempre y lo que Dios quiere activar en tu vida comienza con este paso.
+FR: Ne remets pas ça à plus tard. Cette porte ne restera pas ouverte pour toujours, et tout ce que Dieu veut accomplir dans ta vie commence par ce premier pas.
+
+Texto fixo na tela (caixa branca do topo, mesma geometria do EN/IT/PL, linha de emojis original mantida):
+‼️ Dernier avertissement ‼️ / Regarde jusqu’à la fin / et écoute bien attentivement / 🙏🔮✨❤️‍🩹
+
+Decisões de tradução
+- "San Benito" → "saint Benoît" (minúscula, como na ortografia francesa). "misa" (ES) → "prière en direct", como nos FR vencedores e no briefing.
+- CTA do briefing com "le bouton": "Appuie sur le bouton « En savoir plus » ci-dessous et rejoins la prière en direct." (v1 sem "le bouton": o whisper ouvia "sûrement savoir plus" porque o "sur En" se fundia; o parágrafo foi regravado com previous/next_text e encaixado nas pausas) + "C'est là que tu apprendras à réciter la prière de saint Benoît comme il se doit." Na legenda o botão sai EN SAVOIR PLUS sem aspas (a Anton não tem « » e o revisor reprovou as aspas inglesas).
+- Tutoiement em todo o texto, como nos FR vencedores. Gênero neutro onde o francês marcaria concordância: "Dieu a voulu que tu t'arrêtes ici" (no lugar de "t'a arrêté(e)"), "Si ce message résonne en toi" (no lugar de "t'a touché(e)"), "fais bien attention" (no lugar de "sois attentif/ve").
+- Calques evitados (o revisor do IT apontou construções pouco idiomáticas): "moviendo el sistema completo" → "remue ciel et terre"; "lo está decretando a tu nombre" → "il le met à ton nom"; "Dios tiene prisa contigo" → "Dieu accélère les choses pour toi"; "la humillación se termina, la vergüenza se acaba" → "Fini l'humiliation. Fini la honte."; "romper ataques, bloqueos y caminos cerrados" → "repousser les attaques, lever les blocages et rouvrir les chemins fermés"; "se hace con intención" → "se récite avec intention"; "esta guía" → "cet appel"; "comienza con este paso" → "commence par ce premier pas"; "nada fluye" → "rien n'avance"; "todo empieza a ordenarse" → "tout rentre dans l'ordre".
+- "Esta ventana" → "Cette porte" (eco do vencedor OP2 FR: "avant que la porte ne se ferme pour toujours").
+- Texto levemente condensado (como IT/PL), mesmas ideias e mesmo teor, sem suavizar: "dernier avertissement", "arrivera en quelques jours", "Cette porte ne restera pas ouverte pour toujours".
+- Pontuação francesa com espaço antes de « : ? » — na legenda esses sinais foram colados à palavra vizinha; locuções não quebradas entre blocos (SAINT BENOÎT, PAS À PAS, EN TA FAVEUR, À PLUS TARD, CE PREMIER PAS).
+- "One last warning" → "Dernier avertissement" (cabe na caixa original com os ‼️ recortados do original).
+- Montagem: o último quadro (127) da saída do HeyGen já era céu sem título → gancho = quadros 0–126 + 1 clone. A base do EN tem 141,17 s; o FR precisa de 144,1 s → céu estendido com os últimos 99 quadros em reverso (emenda em ~141,2 s), sem quadro congelado.
+- Mantido de propósito: "prière" 3× entre 94 e 100 s (o destino do briefing é "la prière en direct").

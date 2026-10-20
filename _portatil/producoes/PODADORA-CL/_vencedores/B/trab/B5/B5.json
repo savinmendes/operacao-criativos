@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\B5 - ORILLA-ORILLA-PERFECTA-ES-CL.mp4",
+ "resolucao": "720",
+ "limite_mb": 30,
+ "trab": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B5\\gv",
+ "bancos": {
+  "g": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B5\\banco_g.json"
+ },
+ "gancho": {
+  "trecho": [
+   "g",
+   0,
+   3.6
+  ],
+  "fala": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\voz\\B5.mp3",
+  "lead": 0.3,
+  "cauda": 0.0,
+  "caixa_fixa": {
+   "linhas": [
+    "LA ORILLA PERFECTA"
+   ],
+   "px": 64,
+   "cy": 240,
+   "de": 0,
+   "ate": 4.6
+  },
+  "fundo": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\bed.wav",
+  "fundo_vol": 1.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "ganho_db": 2.0
+ }
+}

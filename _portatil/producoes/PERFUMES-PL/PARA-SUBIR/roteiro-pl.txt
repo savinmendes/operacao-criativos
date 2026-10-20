@@ -1,0 +1,42 @@
+PERFUMY PL — ROTEIRO ES × PL (COD Polska)
+Kit: Armaf Club de Nuit + Lattafa Asad + Afnan 9PM. Sem preço na tela nem na fala.
+Selo (topo, o tempo todo onde o original tinha): PŁATNOŚĆ PRZY ODBIORZE · WYSYŁKA W 24 GODZINY
+
+=== GANCHOS ===
+
+[PL_PF-MASC-17 / PL_PF-MASC-18] avatar na loja ESSENZALUX (lipsync HeyGen)
+ES: Te recuerdan por el aroma que dejas. Con tres perfumes al precio de uno, cada habitación conservará tu huella. 100 unidades, ahora o nunca.
+PL (18, ruiva): Zapamiętają cię po zapachu. Trzy perfumy w cenie jednych. Zostawisz ślad wszędzie, gdzie wejdziesz. Sto sztuk. Teraz albo nigdy.
+PL (17, morena): Zapamiętają cię po zapachu. Trzy perfumy w cenie jednych, a każde wnętrze zachowa twój ślad. Sto sztuk. Teraz albo nigdy.
+    (no 17 ficou a frase mais literal: as 3 tentativas de lipsync com a frase nova reprovaram no checar_lipsync, índice de pausa 0,81–0,82; a literal passou com 0,48)
+    (legenda: "3 PERFUMY | W CENIE 1 | ZOSTAWISZ ŚLAD ... | 100 SZTUK | TERAZ ALBO NIGDY")
+
+[PL_PF-MASC-TESTE-1 / PL_PF-MASC-TESTE-3] moça dançando, voz off
+ES: Estos son los tres perfumes que hacen que las mujeres se vuelvan locas por ti.
+PL: Oto trzy perfumy, od których kobiety tracą głowę.   (legenda: "OTO 3 PERFUMY | OD KTÓRYCH KOBIETY | TRACĄ GŁOWĘ")
+
+[PL_PF-7] avatar terno marrom na loja ESSENZALUX
+ES: (sem fala — o original tem 7,8 s de avatar mexendo a boca SEM áudio e sem legenda)
+PL: mantido igual (sem fala, sem legenda, sem selo no gancho), fiel ao original.
+
+=== CORPO (igual nos 5) ===
+ES: ¿Quieres conocer los perfumes que vuelven locas a las mujeres por ti?
+PL: Chcesz poznać perfumy, przez które kobiety oszaleją na twoim punkcie?
+ES: Entonces atención, porque esta promoción es realmente imperdible.
+PL: Uwaga, bo tej promocji nie możesz przegapić.
+ES: Hoy puedes llevarte tres perfumes árabes premium en una sola oferta.
+PL: Teraz zgarniesz trzy arabskie perfumy premium w jednej ofercie.
+ES: Tres aromas diferentes para destacar y dejar una impresión inolvidable.
+PL: Trzy różne zapachy, które zostawiają niezapomniane wrażenie.
+ES: Armaf Club, fresco, masculino y poderoso. Con un aroma que transmite energía, seguridad y mucha presencia. Una fragancia ideal para destacar desde el primer momento.
+PL: Armaf Club (TTS escrito "Armaf Klab" para a pronúncia; legenda mostra CLUB). Świeży, męski i mocny. Daje energię, pewność siebie i charyzmę. Robi wrażenie od pierwszej chwili.
+ES: Lattafa Asad, intenso, sofisticado y seductor. Con ese toque elegante que llama la atención donde quiera que vayas. Un aroma con personalidad para ocasiones especiales.
+PL: Lattafa Asad. Intensywny, wyrafinowany i uwodzicielski. Elegancka nuta, która przyciąga uwagę, gdziekolwiek się pojawisz. Zapach z charakterem na wyjątkowe okazje.
+ES: Afnan, elegante, moderno y refinado. Perfecto para quienes buscan proyectar estilo y sofisticación. Una fragancia versátil que complementa cualquier ocasión.
+PL: Afnan. Elegancki, nowoczesny i szlachetny. Dla tych, którzy chcą emanować stylem i klasą. Uniwersalny zapach na każdą okazję.
+ES: Y lo mejor es que puedes llevarte los tres perfumes premium aprovechando esta promoción.
+PL: A najlepsze? W tej promocji bierzesz wszystkie trzy perfumy premium.
+ES: Haz tu pedido ahora y paga solamente cuando lo recibas.
+PL: Zamów teraz i zapłać dopiero przy odbiorze.
+
+Enxugado em relação ao ES (o polonês ficava ~18% mais longo): "dejar huella desde el primer momento" e "mucha presencia" viraram frases curtas; argumento e ordem mantidos.

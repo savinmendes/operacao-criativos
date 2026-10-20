@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Corretor de Vídeo</title>
+<style>
+  :root{
+    --bg:#F3F4F7; --surface:#FFFFFF; --surface-2:#EDEFF3;
+    --border:#E0E3E9; --border-strong:#C9CED8;
+    --ink:#14161A; --muted:#666D7A;
+    --accent:#B07419; --accent-soft:#F6EBD6;
+    --ok:#12795A; --ok-soft:rgba(18,121,90,.14);
+    --ruim:#B0382C; --ruim-soft:rgba(176,56,44,.14);
+    --radius:12px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#0D0F12; --surface:#15181D; --surface-2:#1B1F26;
+      --border:#262B34; --border-strong:#39404C;
+      --ink:#E9EBEF; --muted:#949BA8;
+      --accent:#DFA544; --accent-soft:#2A2113;
+      --ok:#4CBE92; --ok-soft:rgba(76,190,146,.16);
+      --ruim:#E4796A; --ruim-soft:rgba(228,121,106,.16);
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font:14px/1.5 "Segoe UI",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .num{font-family:"Cascadia Mono",Consolas,ui-monospace,monospace;font-variant-numeric:tabular-nums}
+  .app{max-width:1280px;margin:0 auto;padding:20px 16px 48px}
+  h1{font-size:1.4rem;margin:0 0 4px;font-weight:600;letter-spacing:-.01em}
+  .sub{color:var(--muted);font-size:.84rem;margin:0 0 20px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:14px}
+  .card h2{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700;margin:0 0 12px}
+
+  .linha{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end}
+  .campo{display:flex;flex-direction:column;gap:5px;flex:1;min-width:240px}
+  .campo label{font-size:.72rem;color:var(--muted);font-weight:600}
+  input[type=text],select{
+    font:inherit;padding:8px 10px;border:1px solid var(--border-strong);
+    border-radius:8px;background:var(--surface-2);color:var(--ink);width:100%;
+  }
+  input[type=text]{font-family:"Cascadia Mono",Consolas,monospace;font-size:.82rem}
+  input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+  button{
+    font:inherit;font-weight:600;padding:8px 16px;border-radius:8px;
+    border:1px solid var(--border-strong);background:var(--surface-2);
+    color:var(--ink);cursor:pointer;white-space:nowrap;
+  }
+  button:hover:not(:disabled){background:var(--border)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  button.primario{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+  button.primario:hover:not(:disabled){opacity:.86;background:var(--ink)}
+  button.perigo{background:var(--ruim-soft);border-color:var(--ruim);color:var(--ruim)}
+  .check{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;color:var(--muted);white-space:nowrap;padding-bottom:9px}
+
+  .tiles{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+  .tile{flex:1;min-width:120px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:12px 14px}
+  .tile .k{font-size:.64rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:700}
+  .tile .v{font-size:1.5rem;font-weight:600;margin-top:2px}
+  .tile.ok .v{color:var(--ok)} .tile.ruim .v{color:var(--ruim)} .tile.aviso .v{color:var(--accent)}
+
+  table{width:100%;border-collapse:collapse;font-size:.82rem}
+  th{text-align:left;font-size:.64rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:700;padding:0 8px 8px;border-bottom:1px solid var(--border)}
+  td{padding:7px 8px;border-bottom:1px solid var(--border);vertical-align:middle}
+  tr.reprovado td:nth-child(2){font-weight:600}
+  td.nome{max-width:380px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .tabela-wrap{max-height:460px;overflow:auto;margin:0 -4px}
+  .selo{display:inline-block;font-size:.63rem;font-weight:700;padding:2px 8px;border-radius:99px;white-space:nowrap}
+  .selo.ok{background:var(--ok-soft);color:var(--ok)}
+  .selo.reprovado{background:var(--ruim-soft);color:var(--ruim)}
+  .selo.ilegivel{background:var(--surface-2);color:var(--muted)}
+  .selo.atencao{background:var(--accent-soft);color:var(--accent)}
+  .selo.erro{background:var(--ruim-soft);color:var(--ruim)}
+  .selo.pulado{background:var(--surface-2);color:var(--muted)}
+
+  .barra{height:8px;border-radius:99px;background:var(--surface-2);overflow:hidden;border:1px solid var(--border);margin:10px 0 8px}
+  .barra i{display:block;height:100%;background:var(--ok);transition:width .3s}
+  .log{max-height:260px;overflow:auto;font-family:"Cascadia Mono",Consolas,monospace;font-size:.74rem}
+  .log div{padding:3px 0;border-bottom:1px solid var(--border);display:flex;gap:8px;align-items:baseline}
+  .log .hora{color:var(--muted);flex:none}
+  .log .arq{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .log .det{color:var(--muted);flex:none;max-width:46%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  .aviso-caixa{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;padding:12px 14px;font-size:.8rem;margin-bottom:14px}
+  .aviso-caixa b{color:var(--accent)}
+  .erro-caixa{background:var(--ruim-soft);border:1px solid var(--ruim);border-radius:10px;padding:10px 14px;font-size:.82rem;margin-bottom:12px}
+  .vazio{color:var(--muted);text-align:center;padding:28px;font-size:.84rem}
+  .rodape{color:var(--muted);font-size:.72rem;margin-top:8px}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <h1>Corretor de Vídeo</h1>
+  <p class="sub">Encontra os vídeos que a plataforma recusa por resolução ou bitrate e corrige em lote. Os originais não são tocados.</p>
+
+  <div id="erro" class="erro-caixa" hidden></div>
+
+  <div class="card">
+    <h2>Pasta</h2>
+    <div class="linha">
+      <div class="campo">
+        <label for="pasta">Caminho da pasta com os vídeos</label>
+        <input type="text" id="pasta" value="C:\Users\PICHAU\Downloads\1-VIDEOS" spellcheck="false">
+      </div>
+      <div class="campo" style="flex:0 0 190px;min-width:190px">
+        <label for="perfil">Destino</label>
+        <select id="perfil">
+          <option value="tiktok">TikTok Ads — 540×960 · 350 kbps</option>
+          <option value="meta">Meta Ads — 500×500</option>
+        </select>
+      </div>
+      <label class="check"><input type="checkbox" id="recursivo" checked> incluir subpastas</label>
+      <button class="primario" id="btn-escanear">Escanear</button>
+    </div>
+    <p class="rodape" id="rodape-pasta">O resultado vai para uma subpasta <code>corrigidos</code> dentro dessa pasta.</p>
+  </div>
+
+  <div id="resultado" hidden>
+    <div class="tiles">
+      <div class="tile"><div class="k">Vídeos</div><div class="v num" id="t-total">—</div></div>
+      <div class="tile ok"><div class="k">Passam</div><div class="v num" id="t-ok">—</div></div>
+      <div class="tile ruim"><div class="k">Reprovam</div><div class="v num" id="t-ruim">—</div></div>
+      <div class="tile aviso"><div class="k">Ilegíveis</div><div class="v num" id="t-ile">—</div></div>
+    </div>
+
+    <div class="card">
+      <h2>Vídeos encontrados</h2>
+      <div class="linha" style="margin-bottom:12px">
+        <button id="btn-sel-reprovados">Marcar só os reprovados</button>
+        <button id="btn-sel-nenhum">Desmarcar tudo</button>
+        <div style="flex:1"></div>
+        <button class="primario" id="btn-corrigir" disabled>Corrigir selecionados</button>
+      </div>
+      <div class="tabela-wrap">
+        <table>
+          <thead><tr>
+            <th style="width:30px"><input type="checkbox" id="chk-todos"></th>
+            <th>Arquivo</th><th style="width:100px">Resolução</th>
+            <th style="width:90px">Bitrate</th><th style="width:100px">Situação</th>
+            <th style="width:160px">Vai virar</th>
+          </tr></thead>
+          <tbody id="corpo"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="painel-progresso" hidden>
+    <h2>Convertendo</h2>
+    <div id="prog-texto" class="num">—</div>
+    <div class="barra"><i id="prog-barra" style="width:0%"></i></div>
+    <div class="linha" style="margin-bottom:12px">
+      <button class="perigo" id="btn-parar">Parar</button>
+      <button id="btn-abrir" hidden>Abrir pasta dos corrigidos</button>
+    </div>
+    <div class="log" id="log"></div>
+  </div>
+
+  <div class="aviso-caixa">
+    <b>O que a correção faz e o que não faz.</b> Ela faz o arquivo cumprir o mínimo declarado:
+    um 360×640 vira 540×960 e o bitrate passa a ser garantido, não sugerido. Mas esticar não cria
+    detalhe e aumentar bitrate não devolve qualidade já perdida — o vídeo deixa de ser recusado,
+    não fica mais nítido. Se o material original existir em resolução maior, exportar de novo de lá
+    sempre dá resultado melhor do que corrigir aqui.
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var $ = function(id){ return document.getElementById(id); };
+  var videos = [], pastaAtual = "", saidaAtual = "", pulso = null;
+
+  function erro(msg){
+    var e = $('erro');
+    if (!msg){ e.hidden = true; return; }
+    e.hidden = false; e.textContent = msg;
+  }
+  function api(rota, dados){
+    return fetch(rota, {
+      method: dados ? 'POST' : 'GET',
+      headers: {'Content-Type':'application/json'},
+      body: dados ? JSON.stringify(dados) : undefined
+    }).then(function(r){ return r.json().then(function(j){
+      if (!r.ok) throw new Error(j.erro || ('erro ' + r.status));
+      return j;
+    }); });
+  }
+  function fmtBytes(b){
+    if (!b) return '—';
+    var u = ['B','KB','MB','GB'], i = 0;
+    while (b >= 1024 && i < 3){ b /= 1024; i++; }
+    return b.toFixed(b < 10 && i > 0 ? 1 : 0) + ' ' + u[i];
+  }
+
+  function desenhar(){
+    var tb = $('corpo');
+    tb.innerHTML = '';
+    if (!videos.length){
+      tb.innerHTML = '<tr><td colspan="6" class="vazio">Nenhum vídeo nessa pasta.</td></tr>';
+      return;
+    }
+    videos.forEach(function(v, i){
+      var tr = document.createElement('tr');
+      if (v.situacao === 'reprovado') tr.className = 'reprovado';
+      var podeCorrigir = v.situacao === 'reprovado';
+      tr.innerHTML =
+        '<td>' + (podeCorrigir
+          ? '<input type="checkbox" data-i="' + i + '"' + (v.marcado ? ' checked' : '') + '>'
+          : '') + '</td>' +
+        '<td class="nome" title="' + v.nome.replace(/"/g,'&quot;') + '">' + v.nome + '</td>' +
+        '<td class="num">' + (v.largura ? v.largura + '×' + v.altura : '—') + '</td>' +
+        '<td class="num">' + (v.kbps ? Math.round(v.kbps) : '—') + '</td>' +
+        '<td><span class="selo ' + v.situacao + '">' +
+            (v.situacao === 'reprovado' ? v.problemas.join(' + ') : v.situacao) + '</span></td>' +
+        '<td class="num" style="color:var(--muted)">' + (v.plano || '') + '</td>';
+      tb.appendChild(tr);
+    });
+    tb.addEventListener('change', function(e){
+      var i = e.target.getAttribute('data-i');
+      if (i !== null){ videos[+i].marcado = e.target.checked; atualizarBotao(); }
+    });
+    atualizarBotao();
+  }
+
+  function atualizarBotao(){
+    var n = videos.filter(function(v){ return v.marcado; }).length;
+    $('btn-corrigir').disabled = n === 0;
+    $('btn-corrigir').textContent = n ? ('Corrigir ' + n + ' vídeo' + (n > 1 ? 's' : '')) : 'Corrigir selecionados';
+  }
+
+  $('btn-escanear').addEventListener('click', function(){
+    erro(null);
+    var b = this; b.disabled = true; b.textContent = 'Escaneando…';
+    api('/api/escanear', {
+      pasta: $('pasta').value, perfil: $('perfil').value,
+      recursivo: $('recursivo').checked
+    }).then(function(r){
+      videos = r.videos; pastaAtual = r.pasta; saidaAtual = r.saida;
+      videos.forEach(function(v){ v.marcado = v.situacao === 'reprovado'; });
+      $('t-total').textContent = videos.length;
+      $('t-ok').textContent = videos.filter(function(v){ return v.situacao === 'ok'; }).length;
+      $('t-ruim').textContent = videos.filter(function(v){ return v.situacao === 'reprovado'; }).length;
+      $('t-ile').textContent = videos.filter(function(v){ return v.situacao === 'ilegivel'; }).length;
+      $('rodape-pasta').textContent = 'Os corrigidos vão para: ' + r.saida;
+      $('resultado').hidden = false;
+      desenhar();
+    }).catch(function(e){ erro(e.message); })
+      .then(function(){ b.disabled = false; b.textContent = 'Escanear'; });
+  });
+
+  $('chk-todos').addEventListener('change', function(){
+    var m = this.checked;
+    videos.forEach(function(v){ if (v.situacao === 'reprovado') v.marcado = m; });
+    desenhar();
+  });
+  $('btn-sel-reprovados').addEventListener('click', function(){
+    videos.forEach(function(v){ v.marcado = v.situacao === 'reprovado'; });
+    desenhar();
+  });
+  $('btn-sel-nenhum').addEventListener('click', function(){
+    videos.forEach(function(v){ v.marcado = false; });
+    desenhar();
+  });
+
+  $('btn-corrigir').addEventListener('click', function(){
+    erro(null);
+    var alvos = videos.filter(function(v){ return v.marcado; })
+                      .map(function(v){ return v.caminho; });
+    api('/api/corrigir', {pasta: pastaAtual, perfil: $('perfil').value, arquivos: alvos})
+      .then(function(r){
+        saidaAtual = r.saida;
+        $('painel-progresso').hidden = false;
+        $('btn-abrir').hidden = true;
+        $('painel-progresso').scrollIntoView({behavior:'smooth', block:'nearest'});
+        acompanhar();
+      }).catch(function(e){ erro(e.message); });
+  });
+
+  $('btn-parar').addEventListener('click', function(){ api('/api/parar', {}); });
+  $('btn-abrir').addEventListener('click', function(){
+    api('/api/abrir-pasta', {pasta: saidaAtual}).catch(function(e){ erro(e.message); });
+  });
+
+  function acompanhar(){
+    if (pulso) clearInterval(pulso);
+    pulso = setInterval(function(){
+      api('/api/progresso').then(function(e){
+        var pct = e.total ? (e.indice / e.total * 100) : 0;
+        $('prog-barra').style.width = pct.toFixed(1) + '%';
+        $('prog-texto').textContent = e.rodando
+          ? (e.indice + 1) + ' de ' + e.total + (e.atual ? ' · ' + e.atual : '')
+          : e.indice + ' de ' + e.total + ' — terminado';
+        var log = $('log');
+        log.innerHTML = e.log.slice().reverse().map(function(l){
+          return '<div><span class="hora">' + l.quando + '</span>' +
+                 '<span class="selo ' + l.situacao + '">' + l.situacao + '</span>' +
+                 '<span class="arq">' + l.nome + '</span>' +
+                 '<span class="det">' + (l.detalhe || '') + '</span></div>';
+        }).join('');
+        $('btn-parar').disabled = !e.rodando;
+        if (!e.rodando && e.total){
+          clearInterval(pulso); pulso = null;
+          $('btn-abrir').hidden = false;
+        }
+      }).catch(function(){ clearInterval(pulso); pulso = null; });
+    }, 900);
+  }
+})();
+</script>
+</body>
+</html>

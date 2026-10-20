@@ -1,0 +1,222 @@
+{
+ "arquivo": "26 - Mi Camino al Bienestar - 2079848172749425.mp4",
+ "dur": 31.956042,
+ "segs": [
+  {
+   "ini": 0.0,
+   "fim": 2.58,
+   "txt": "Bajé 7 kilos sin cambiar nada más."
+  },
+  {
+   "ini": 3.04,
+   "fim": 3.88,
+   "txt": "No hice dieta nueva."
+  },
+  {
+   "ini": 4.2,
+   "fim": 5.44,
+   "txt": "No me inscribí al gym."
+  },
+  {
+   "ini": 5.64,
+   "fim": 7.44,
+   "txt": "Solo tomé estas gotas cada mañana."
+  },
+  {
+   "ini": 8.04,
+   "fim": 8.6,
+   "txt": "Vitali."
+  },
+  {
+   "ini": 8.76,
+   "fim": 10.12,
+   "txt": "Gotas de drenaje linfático."
+  },
+  {
+   "ini": 10.6,
+   "fim": 11.88,
+   "txt": "Pensé que era puro marketing,"
+  },
+  {
+   "ini": 12.16,
+   "fim": 14.28,
+   "txt": "pero el primer día ya me sentí más ligera."
+  },
+  {
+   "ini": 14.58,
+   "fim": 16.86,
+   "txt": "En una semana, los pantalones más sueltos."
+  },
+  {
+   "ini": 17.08,
+   "fim": 19.96,
+   "txt": "En un mes, menos 7 kilos de pura hinchazón."
+  },
+  {
+   "ini": 20.36,
+   "fim": 21.06,
+   "txt": "No era grasa."
+  },
+  {
+   "ini": 21.36,
+   "fim": 22.54,
+   "txt": "Era líquido atrapado."
+  },
+  {
+   "ini": 22.88,
+   "fim": 25.12,
+   "txt": "Y estas gotas ayudaron a mi cuerpo a soltarlo."
+  },
+  {
+   "ini": 25.46,
+   "fim": 26.84,
+   "txt": "100% natural."
+  },
+  {
+   "ini": 27.26,
+   "fim": 27.88,
+   "txt": "Sabora miel."
+  },
+  {
+   "ini": 27.88,
+   "fim": 30.68,
+   "txt": "Ahora me pongo ropa ajustada sin vergüenza."
+  },
+  {
+   "ini": 31.1,
+   "fim": 31.68,
+   "txt": "Link en bio."
+  }
+ ],
+ "ocr": [
+  {
+   "t": 0,
+   "ocr": "-7 KILOS | Sin cambiar NADA mas"
+  },
+  {
+   "t": 1,
+   "ocr": "-7 KILOS | Sin cambiar NADA mas"
+  },
+  {
+   "t": 2,
+   "ocr": "-7 KILOS | Sin cambiar NADA mas"
+  },
+  {
+   "t": 3,
+   "ocr": "NO | DIETAS | BWITALY | snphatle | ralnage"
+  },
+  {
+   "t": 4,
+   "ocr": "NO | DIETAS | NO | GIMNASIO"
+  },
+  {
+   "t": 5,
+   "ocr": "NO | DIETAS | NO | GIMNASIO | Lwmphatie | Drainage"
+  },
+  {
+   "t": 6,
+   "ocr": "ESTAS GOTAS | VITALY | VITALY | Lumphatic | Drainage"
+  },
+  {
+   "t": 7,
+   "ocr": "ESTAS GOTAS | VITALY | VITALY | Lymphatic | Drainage | HERSALEXTRACTS | oenr | RERBALEXPERTS"
+  },
+  {
+   "t": 8,
+   "ocr": "ESTAS GOTAS | VITALY | OVITALY | Jmphatle | Drainago"
+  },
+  {
+   "t": 9,
+   "ocr": "ESTAS GOTAS | VITALY"
+  },
+  {
+   "t": 10,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 11,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINcHAzON"
+  },
+  {
+   "t": 12,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 13,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINcHAzON | ALMOND | OAT | NO3IGARS"
+  },
+  {
+   "t": 14,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 15,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 16,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINcHAzON"
+  },
+  {
+   "t": 17,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 18,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINCHAzON"
+  },
+  {
+   "t": 19,
+   "ocr": "Dia 1: Mas ligera | Semana 1: Pantalones sueltos | Mes 1: -7 kg de HINcHAzON"
+  },
+  {
+   "t": 20,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural % | Sabor miel  | VITALY | Lymphatle | Drainage"
+  },
+  {
+   "t": 21,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel  | VITALY | Lymphatie | Drainage"
+  },
+  {
+   "t": 22,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel  | DVITALY | Lumpharic | Drainage"
+  },
+  {
+   "t": 23,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel "
+  },
+  {
+   "t": 24,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel "
+  },
+  {
+   "t": 25,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel "
+  },
+  {
+   "t": 26,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel "
+  },
+  {
+   "t": 27,
+   "ocr": "No era GRASA X | Era LiQUIDO atrapado | 100% natural  | Sabor miel "
+  },
+  {
+   "t": 28,
+   "ocr": "Ropa ajustada SIN VERGUENZA | LINK EN BIO"
+  },
+  {
+   "t": 29,
+   "ocr": "Ropa ajustada SIN VERGUENZA | LINK EN BIO"
+  },
+  {
+   "t": 30,
+   "ocr": "Ropa ajustada SIN VERGUENZA | LINK EN BIO"
+  },
+  {
+   "t": 31,
+   "ocr": "Ropa ajustada SIN VERGUENZA | LINK EN BIO"
+  }
+ ],
+ "video": "720,1280,30/1"
+}

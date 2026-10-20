@@ -1,0 +1,22 @@
+REVISÃO: PERFUMES-CL_P8_EL-OFICINISTA.mp4
+duração 33.69s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.8 MB
+decodificação: OK
+pts do áudio: 1581 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1013-1078, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD8-EL-OFICINISTA\PERFUMES-CL_P8_EL-OFICINISTA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  7.32 oye qué perfume es ese huele increíble trabajo en contabilidad y nunca había
+   7.32- 13.60 sido tan popular tres perfumes árabes al precio de uno en el día armafclub fresco
+  13.60- 19.52 masculino y poderoso ahora todas quieren sentarse a mi lado en la noche látafa
+  19.52- 25.36 asad intenso y seductor primera cita y me pidió la segunda y el fin de semana
+  25.36- 33.00 AFNAN 9PM, elegante y moderno. Los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

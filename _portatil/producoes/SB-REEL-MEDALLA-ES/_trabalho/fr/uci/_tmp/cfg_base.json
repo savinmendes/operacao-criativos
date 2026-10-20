@@ -1,0 +1,23 @@
+{
+ "slug": "uci",
+ "hook_fim": 5.356,
+ "reza_src": "reza.mp3",
+ "reza_cortes": [
+  [
+   0,
+   2.932
+  ]
+ ],
+ "selfie_heygen_ini": 4.13,
+ "r_self": [
+  [
+   4.13,
+   4.221
+  ]
+ ],
+ "self_trocas": [
+  9.7
+ ],
+ "self_dur": 15.527,
+ "selfie_mp3_dur": 15.557
+}

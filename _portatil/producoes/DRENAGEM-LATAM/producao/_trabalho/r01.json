@@ -1,0 +1,80 @@
+{
+"ad": "ad01",
+"corte": 416.7,
+"saida": "AD 01 - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4",
+"takes": [
+{
+"orig": "flora/t1.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/bb5323da-d09d-4b42-affd-9f9c3274f921.mp4",
+"inicio": 318.933,
+"quadros": 82
+},
+{
+"orig": "flora/t2.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/5db8312b-b698-40f0-b8ba-47e9c6f9a7fd.mp4",
+"inicio": 321.667,
+"quadros": 70
+},
+{
+"orig": "flora/t3.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/70ff0d5b-6135-4634-a3b4-2657ab1b2901.mp4",
+"inicio": 326.7,
+"quadros": 68
+},
+{
+"orig": "flora/t4.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/a398c4d9-03c1-42f3-9678-6209c65f3c31.mp4",
+"inicio": 333.3,
+"quadros": 42
+},
+{
+"orig": "flora/t5.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/886b3658-1097-4209-89a6-5a11c1bf54d6.mp4",
+"inicio": 336.033,
+"quadros": 50
+},
+{
+"orig": "flora/t6.mp4",
+"edit_url": "https://media.flora.ai/node-inputs/2026/10/5/anonymous/135b618d-dd81-4307-b44d-63dd6eb879f3.mp4",
+"inicio": 353.433,
+"quadros": 90
+}
+],
+"extras": [
+{
+"clipe": "hook_cobre.mp4",
+"inicio": 0.0,
+"quadros": 46
+},
+{
+"clipe": "bandG.mp4",
+"inicio": 342.6,
+"quadros": 55
+}
+],
+"blur": [
+{
+"de": 329.0,
+"ate": 331.5,
+"caixas": "295,1130,455,1205"
+}
+],
+"textos": [
+{
+"de": 10.6,
+"ate": 13.0,
+"caixa": "170,925,545,990",
+"texto": "no fingí quererlo",
+"ref": 11.9,
+"px": 40,
+"fonte": "Poppins-Medium.ttf"
+}
+],
+"audios": [
+{
+"mp3": "p1.mp3",
+"de": 10.72,
+"ate": 14.3
+}
+]
+}

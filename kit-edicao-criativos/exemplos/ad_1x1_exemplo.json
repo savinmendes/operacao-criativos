@@ -1,0 +1,13 @@
+{
+  "_doc": "Receita 1:1 (quadrado). Com resolucao 720 sai 720x720; 1080 -> 1080x1080. Posições em px do quadro BASE 1080x1080 ou *_rel. Aqui o selo e as setas usam y_rel (fração da altura) e a legenda um y absoluto; sem posição o padrão é legenda y=596, selo y=216 (escala 0,75), setas y=876 (escala 0,75).",
+  "saida": "ads/AD 10 - DESMALEZADORA-FERNANDO-ES-CL-1x1.mp4",
+  "formato": "1:1",
+  "resolucao": "720",
+  "estilo": "drop",
+  "corpo": "corpo/fernando_es.mp4",
+  "hook": {"tipo": "antes", "video": "hooks/hook_avatar.mp4"},
+  "legenda": {"fonte": "transcrever", "idioma": "es", "chaves": ["árboles", "pasto"], "y": 600},
+  "selo": {"linhas": ["SIN BENCINA · 100% ELÉCTRICA", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "y_rel": 0.2, "desde": 5},
+  "cta": {"palavra": "pide", "y_rel": 0.8},
+  "limite_mb": 30
+}

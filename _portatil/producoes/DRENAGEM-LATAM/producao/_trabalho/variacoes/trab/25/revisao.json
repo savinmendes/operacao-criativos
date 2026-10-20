@@ -1,0 +1,27 @@
+{
+ "arquivo": "VAR 25 - G5-CARRITO x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 311.13,
+ "mb": 39.0,
+ "whisper_gancho": "Tres semanas lo dejé en el carrito. Siempre decía, mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.",
+ "whisper_emenda": "Esta es mi historia. Llegué a casa, me miré en el espejo y por fin entendí porque durante nuestro complicado",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.733333,
+  3.966667,
+  5.666667,
+  7.533333,
+  8.966667,
+  11.333333
+ ],
+ "cortes_plan": [
+  1.733,
+  3.967,
+  5.667,
+  7.533,
+  8.967
+ ],
+ "silencios": [],
+ "ok": true
+}

@@ -1,0 +1,10 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/ADLIB-104060992792639/producao/AD 13 - ORACION-PAZ-ES-LATAM.mp4",
+  "estilo": "drop",
+  "corpo": "corpo_ad13.mp4",
+  "legenda": {"fonte": "alinhamento:narracao_es.alinhamento.json", "y": 1493},
+  "faixa_sb": false,
+  "cta": {"palavra": "toca", "inicio": 99.42},
+  "resolucao": "720",
+  "limite_mb": 30
+}

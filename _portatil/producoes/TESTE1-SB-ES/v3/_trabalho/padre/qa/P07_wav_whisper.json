@@ -1,0 +1,33 @@
+{
+"arquivo": "P07.wav",
+"whisper": "Accede mientras todavía es posible.",
+"palavras": [
+{
+"w": "Accede",
+"ini": 0.0,
+"fim": 0.4
+},
+{
+"w": "mientras",
+"ini": 0.4,
+"fim": 0.78
+},
+{
+"w": "todavía",
+"ini": 0.78,
+"fim": 1.24
+},
+{
+"w": "es",
+"ini": 1.24,
+"fim": 1.48
+},
+{
+"w": "posible.",
+"ini": 1.48,
+"fim": 1.8
+}
+],
+"ratio": 1.0,
+"dif": []
+}

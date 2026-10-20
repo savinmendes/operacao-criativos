@@ -1,0 +1,68 @@
+SB-PL-JESU-V07 — Święty Benedykt · Polski (Polska)
+Origem: SB-JESU-V07.mp4 (ES) via EN (SB-EN-JESU-V07, 27,0 s) e IT (SB-IT-JESU-V07, 31,2 s). Destino: modlitwa na żywo.
+Botão do Meta: LEARN_MORE ("Dowiedz się więcej"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen ESPANHOL" (AkQxVSf1kENGmX9WjeDE), a mesma do EN/IT (nenhuma voz criada/clonada/apagada).
+Modelo eleven_multilingual_v2 com language_code "pl", velocidade 1,08 (whisper: idioma "pl" 1,00; texto bate com o roteiro).
+
+======================================================================
+ROTEIRO EN (base)                     | ROTEIRO PL (narrado)
+======================================================================
+[Gancho — Jesus no Getsêmani, soldados com tochas]
+If you close this video now, the miracle that carried your name will be given to someone else.
+Jeśli teraz zamkniesz ten film, cud z twoim imieniem otrzyma ktoś inny.
+
+[Jesus coroa de espinhos]
+This is the last time God will try to speak to you this way.
+To ostatni raz, gdy Bóg spróbuje przemówić do ciebie w ten sposób.
+
+[Mulher de olhos fechados]
+Jesus chose you.
+Jezus wybrał ciebie.
+
+[Mão entregando chave dourada]
+He prepared a powerful gift, just for you.
+Przygotował potężny dar, tylko dla ciebie.
+
+[Jesus coroa]
+Today, you will hear the lost prayer of Saint Benedict that
+Dziś usłyszysz zaginioną modlitwę Świętego Benedykta, która
+
+[Portão abrindo]
+unlocks a shower of miracles.
+uwalnia deszcz cudów.
+
+[Mulher triste entre sombras]
+But only if you don't reject it again.
+Ale tylko jeśli znowu jej nie odrzucisz.
+
+[Jesus coroa + seta]
+Tap Learn More below, and join the live prayer now.
+Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo.
+
+[Porta com feixe de luz + seta]
+Receive your miracle before the door closes forever.
+Przyjmij swój cud, zanim drzwi zamkną się na zawsze.
+
+Decisões
+- "Saint Benedict" virou "Święty Benedykt", declinado no genitivo ("modlitwę Świętego Benedykta"). A narração diz o nome por
+  extenso (sem "św.").
+- CTA padrão do lote PL: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo". O texto do TTS vai sem as aspas
+  para não abrir pausa antes de "Dowiedz" (no IT a pausa "Tocca…«Scopri" deixou a boca entreaberta e exigiu jump cut).
+  Na legenda, «DOWIEDZ SIĘ WIĘCEJ» aparece entre aspas angulares.
+- "the miracle that carried your name will be given to someone else" ficou "cud z twoim imieniem otrzyma ktoś inny" (mais curto e
+  natural; o gancho precisa caber nos 6 s da fonte dos soldados).
+- "shower of miracles" = "deszcz cudów" (a imagem do original ES "lluvia de milagros"); "unlocks" = "uwalnia".
+- Correção do IT reaproveitada: "Dziś usłyszysz" sem vírgula. Mesmo assim o TTS deixou silêncios de 0,36 s depois de "Dziś" e
+  de "Benedykta" (dentro da cena do Jesus, crown2). Os dois silêncios foram encurtados no áudio (−0,22 s e −0,24 s), então a
+  cena crown2 tem só fala contínua. Na escrita a vírgula antes de "która" é obrigatória em polonês: ela está no roteiro e no
+  texto, mas não na voz nem na legenda (a legenda não mostra pontuação).
+- O corte crown3 → porta foi feito logo depois de "żywo." (a pausa final fica na porta, não no rosto), sem jump cut.
+- Promessas e urgência mantidas sem suavizar (decisão da pessoa).
+- Imagem: mesmas cenas e b-rolls do EN/IT; crown2 usa outro trecho da fonte (a partir de 6,0 s) para não repetir quadros da
+  crown1. 4 trechos de lipsync HeyGen speed (gancho + 3 do Jesus coroado), entrada com o áudio ORIGINAL ES e o áudio PL separado;
+  só boca e queixo colados sobre o original (colar_boca.py).
+- Legenda karaokê no estilo do EN/IT (Poppins ExtraBold caixa alta, palavra falada em amarelo; a fonte tem todos os diacríticos
+  ĄĆĘŁŃÓŚŹŻ, conferido), seta amarela a partir de "Dotknij" até o fim; trilha do original (demucs) a −32 LUFS sob a voz (−16 LUFS).
+- Ressalvas menores (revisor independente): no gancho a boca fica levemente entreaberta e parada nas pausas 1,75–2,07 s e
+  4,08–4,65 s (sem dentes; índice de pausa 0,40, aprovado). Em ~16,9 s o whisper ouviu "Benedikta" (prob. 0,70): "dy" um
+  pouco suave, mas compreensível.

@@ -1,0 +1,11 @@
+# termos proibidos (fala) - variações vencedor A. Acentos/maiúsculas ignorados.
+# preço / moeda
+$
+(\d[\d.]* ?(pesos|lucas|mil|clp|dolares))
+(precio|cuesta|cuestan|vale solo|descuento|oferta)
+# "gratis" só vale no selo / na frase de despacho grátis (oferta confirmada)
+((?<!despacho )gratis|gratuit)
+# garantia: só os 90 días confirmados
+(garantia (total|de por vida|de satisfaccion)|garantizad|de por vida|reembolso|devolvemos (tu|su) dinero|(?<!noventa )(?<!90 )dias de garantia)
+tiktok
+(link|enlace)

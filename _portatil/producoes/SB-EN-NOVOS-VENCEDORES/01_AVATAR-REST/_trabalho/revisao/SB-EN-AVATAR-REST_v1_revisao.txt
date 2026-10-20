@@ -1,0 +1,56 @@
+REVISÃO: SB-EN-AVATAR-REST_v1.mp4
+duração 56.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 46.0 MB
+decodificação: OK
+pts do áudio: 2659 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-EN-NOVOS-VENCEDORES\01_AVATAR-REST\_trabalho\revisao\SB-EN-AVATAR-REST_v1_revisao.jpg
+idioma detectado: en (0.99)
+
+=== transcrição (en) ===
+   0.00-  3.10 Oh, glorious Saint Benedict!
+   3.10-  6.20 Today I speak the words engraved on your metal.
+   6.20-  8.40 Deliver me from this hardship.
+   8.40- 10.70 If you can hear me, help me.
+  10.70- 13.10 I went almost six months without customers.
+  13.10- 15.30 I even thought about closing my business
+  15.30- 17.10 until, during a live stream,
+  17.10- 20.40 a priest explained the exact way to ask Saint Benedict.
+  20.40- 22.50 That day, I found peace again.
+  22.50- 25.90 And little by little, the doors began to open.
+  25.90- 29.50 This is the last time God will try to speak to you this way.
+  29.50- 35.02 Jesus chose you. He prepared a powerful gift just for you.
+  35.02- 41.10 Today, you will hear the lost prayer of St. Benedict that unlocks a shower of miracles,
+  41.10- 43.98 but only if you don't reject it again.
+  43.98- 47.66 Receive your miracle before the door closes forever.
+  47.66- 52.30 Right now, a prayer to St. Benedict is being broadcast live.
+  52.30- 56.30 Tap Learn More Below and join the live prayer now.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.02    ¡Oh, glorioso St. Benedict!
+   3.02-  6.12    Hoy estoy hablando de las palabras engravedas en tu metal.
+   6.12-  8.34    ¡Diligirme de esta difícil!
+   8.34- 10.68    Si puedes escucharme, ayudame.
+  10.68- 13.02    Hací casi seis meses con nuestros clientes.
+  13.02- 15.22    Yo incluso pensé en cerrar mi negocio,
+  15.22- 17.10    hasta, durante un live-stream,
+  17.10- 20.36    un prieste explicó la exacta manera de preguntar a St. Benedict.
+  20.36- 22.46    Ese día, encontré paz de nuevo,
+  22.46- 25.86    y poco a poco, las puertas empezaron a abrir.
+  25.86- 29.44    Esto es la última vez que Dios va a intentar hablar de ti de esta manera.
+  29.44- 31.44    Jesús elegió a ti.
+  31.44- 35.10    Él preparó un regalo poderoso, solo para ti.
+  35.10- 38.54    Hoy, te escucharás la suerte perdida de St. Benedict,
+  38.54- 41.22    que despliega un descanso de milagros.
+  41.22- 44.06    Pero solo si no lo reconoces,
+  44.06- 47.70    recibirás tu milagro antes de que la puerta se cerra siempre.
+  47.70- 52.38    Ahora mismo, una suerte para St. Benedict está siendo broadcasto en vivo.
+  52.38- 56.66    Tapas aprender más abajo, y suba la prensa en vivo ahora.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

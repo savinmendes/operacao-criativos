@@ -1,0 +1,44 @@
+{
+ "id": "17",
+ "texto": "Check this out right here.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 1.48,
+   "texto": "Check this out right here.",
+   "no_speech": 0.48,
+   "palavras": [
+    {
+     "w": "Check",
+     "ini": 0.0,
+     "fim": 0.2,
+     "p": 0.12
+    },
+    {
+     "w": "this",
+     "ini": 0.2,
+     "fim": 0.38,
+     "p": 0.88
+    },
+    {
+     "w": "out",
+     "ini": 0.38,
+     "fim": 0.54,
+     "p": 0.99
+    },
+    {
+     "w": "right",
+     "ini": 0.54,
+     "fim": 0.68,
+     "p": 0.91
+    },
+    {
+     "w": "here.",
+     "ini": 0.68,
+     "fim": 1.48,
+     "p": 0.99
+    }
+   ]
+  }
+ ]
+}

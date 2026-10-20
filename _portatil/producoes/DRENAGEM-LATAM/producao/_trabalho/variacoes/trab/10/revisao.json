@@ -1,0 +1,34 @@
+{
+ "arquivo": "VAR 10 - G10-PANZA-NO-ES-GRASA x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 290.37,
+ "mb": 36.6,
+ "whisper_gancho": "Esa panza no es grasa, es líquido atrapado y se drena. Yo tardé años en entenderlo.",
+ "whisper_emenda": "drena. Yo tardé años en entenderlo. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.7,
+  3.1,
+  4.466667,
+  5.633333,
+  7.6
+ ],
+ "cortes_plan": [
+  1.7,
+  3.1,
+  4.467,
+  5.667
+ ],
+ "silencios": [
+  [
+   278.66,
+   279.69
+  ],
+  [
+   287.06,
+   287.92
+  ]
+ ],
+ "ok": true
+}

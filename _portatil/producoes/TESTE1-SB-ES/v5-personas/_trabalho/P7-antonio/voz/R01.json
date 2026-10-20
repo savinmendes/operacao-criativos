@@ -1,0 +1,80 @@
+{
+"texto": "Días después, la historia de don Antonio conmovió a todo el país.",
+"voz": "hHjbwzYZW17oh0p05AKv",
+"est": 0.5,
+"estilo": 0.2,
+"vel": 1.08,
+"dur": 5.484,
+"palavras": [
+{
+"w": "Días",
+"ini": 0.058,
+"fim": 0.383
+},
+{
+"w": "después,",
+"ini": 0.441,
+"fim": 1.033
+},
+{
+"w": "la",
+"ini": 1.283,
+"fim": 1.376
+},
+{
+"w": "historia",
+"ini": 1.411,
+"fim": 1.852
+},
+{
+"w": "de",
+"ini": 1.887,
+"fim": 1.957
+},
+{
+"w": "don",
+"ini": 2.003,
+"fim": 2.142
+},
+{
+"w": "Antonio",
+"ini": 2.212,
+"fim": 2.758
+},
+{
+"w": "conmovió",
+"ini": 3.008,
+"fim": 3.716
+},
+{
+"w": "a",
+"ini": 3.832,
+"fim": 3.937
+},
+{
+"w": "todo",
+"ini": 4.099,
+"fim": 4.483
+},
+{
+"w": "el",
+"ini": 4.587,
+"fim": 4.657
+},
+{
+"w": "país.",
+"ini": 4.738,
+"fim": 5.284
+}
+],
+"cortes": [
+[
+1.158,
+1.21
+],
+[
+2.935,
+2.94
+]
+]
+}

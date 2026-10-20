@@ -1,0 +1,51 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/MOPA VERDE - H2O X5/VIDEOS/46 AD.mp4",
+ "resolucao": "720",
+ "fundo": "C:/Users/PICHAU/Downloads/MOPA VERDE - H2O X5/_trabalho/audio/46_no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "narr.mp3",
+ "narr_inicio": 0.1,
+ "atempo": 1.0,
+ "faixas": [
+  {
+   "y": [
+    980,
+    1075
+   ],
+   "grad": 18
+  }
+ ],
+ "caixas": [
+  {
+   "rect": [
+    114,
+    614,
+    606,
+    786
+   ],
+   "cor": [
+    33,
+    168,
+    12
+   ],
+   "raio": 18,
+   "de": 0,
+   "ate": 3.36
+  }
+ ],
+ "fim": {
+  "folga": 0.5,
+  "max_total": null
+ },
+ "saida": "corpo_sem_texto.mp4",
+ "trocas": [
+  [
+   "H2O X5",
+   "H2O X5"
+  ],
+  [
+   "5 en 1",
+   "5 en 1"
+  ]
+ ]
+}

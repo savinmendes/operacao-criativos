@@ -1,0 +1,24 @@
+06_SB-EN-ADS-6_TIKTOK-v2 — San Benito ADS 6 EN, versão TikTok v2 (18/10/2026)
+Motivo: TikTok reprovou por "sexually suggestive emoji alongside repeated 'one last warning' framing".
+Ponto de partida: 06_SB-EN-ADS-6_TIKTOK-sem-emoji.mp4 (mesma base de céu, legenda, seta de CTA). Base, PARA-SUBIR e IT/PL intocados.
+Trabalho: 06_ADS-6\_trabalho\tiktok_v2\ (cópias dos scripts; nada do _trabalho original foi alterado).
+
+O QUE MUDOU
+1) Cartão fixo do topo (sem emoji, mesmo estilo: Poppins Bold 64, 1ª linha vermelho escuro)
+   ANTES: One last warning / Stay until the end and / pay close attention
+   DEPOIS: A message for you / Stay until the end and / pay close attention
+
+2) Narração (única ocorrência de "warning"/"last warning"/"final warning" no roteiro inteiro)
+   ANTES  [2,42–4,99 s]: "Not by chance, but because this is your last warning."
+   DEPOIS [2,38–5,07 s]: "Not by chance, but because this message is meant for you."
+   Regravada só essa frase: ElevenLabs Brian (nPczCjzI2devNBz1zQrb), eleven_multilingual_v2, speed 1.08,
+   stability 0.5 / similarity 0.8 / style 0.25 / speaker boost (igual ao tts.py), com previous_text
+   "God stopped you right here to speak to you." e next_text "No other message like this will come. ...".
+   Emendada nas pausas (antes de "Not" e antes de "No", mantendo a pausa original de 0,62 s).
+   Todo o resto desloca +0,06 s; legenda palavra a palavra refeita (MESSAGE IS MEANT / FOR YOU); seta do CTA em 121,86 s.
+
+3) Áudio: receita RECEITA_LIMPAR_CHIADO (limpar_voz: gate espectral >5 kHz + silêncio fora da fala + EQ; ganho
+   estático, -16,0 LUFS, true peak -1,97 dBTP). O AD só tem voz (sem trilha).
+
+Frase 01 completa agora: "God stopped you right here to speak to you. Not by chance, but because this message is meant for you."
+Duração: 138,07 s (antes 138,00 s). 1080x1920, 30 fps.

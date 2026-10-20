@@ -1,0 +1,48 @@
+{
+ "var": "10",
+ "gancho": "G10",
+ "corpo": "20",
+ "genero": "M",
+ "texto": "Esa panza no es grasa. Es líquido atrapado, y se drena. Yo tardé años en entenderlo.",
+ "Hd": 5.666666666666667,
+ "fala_s": 5.25,
+ "tomadas": [
+  {
+   "src": "20",
+   "ini": 5.975,
+   "dur": 1.7
+  },
+  {
+   "src": "20",
+   "ini": 76.075,
+   "dur": 1.4
+  },
+  {
+   "src": "20",
+   "ini": 96.625,
+   "dur": 1.3666666666666667
+  },
+  {
+   "src": "20",
+   "ini": 62.308,
+   "dur": 1.2
+  }
+ ],
+ "corte": 10.933,
+ "frases": [
+  [
+   "Esa panza no es grasa.",
+   0.035
+  ],
+  [
+   "Es líquido atrapado, y se drena.",
+   1.312
+  ],
+  [
+   "Yo tardé años en entenderlo.",
+   3.587
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 10 - G10-PANZA-NO-ES-GRASA x AD20.mp4",
+ "seed": 73
+}

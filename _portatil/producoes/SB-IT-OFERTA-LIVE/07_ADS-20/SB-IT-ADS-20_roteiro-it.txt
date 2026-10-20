@@ -1,0 +1,80 @@
+SB-IT-ADS-20 — San Benedetto · Italiano (Itália, EUR)
+Base: SB-EN-ADS-20 (mesma imagem: base_limpa.mp4 do EN, mesmo gancho HeyGen a partir do heygen_in com áudio original, mesma trilha demucs).
+Destino: la preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço no vídeo.
+Duração final: 138,7 s (EN 140,8 s) · 720x1280 · 30 fps.
+Vozes (ElevenLabs, eleven_multilingual_v2, language_code "it"): gancho = "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE);
+corpo = "Brian" (nPczCjzI2devNBz1zQrb), speed 1.08. Nenhuma voz criada/clonada.
+Lipsync gancho: HeyGen speed, 1 job (5ae73c6b8eaf4abfa0ec7a02941910cd), checar_lipsync índice de pausa 0,27 (APROVADO).
+
+======================================================================
+ROTEIRO EN (base)  ×  ROTEIRO IT (narrado)
+======================================================================
+[GANCHO — Jesus, lipsync HeyGen]
+EN: Did you ask for a sign?
+IT: Hai chiesto un segno?
+
+EN: And now... you're here.
+IT: E ora... sei qui.
+
+
+[CORPO — narrador Brian]
+EN: God stopped you right here, to speak to you. Not by chance, but because this is your last warning. No other message like this will come.
+IT: Dio ti ha fermato qui per parlare a te. Non per caso, ma perché questo è il tuo ultimo avviso. Non arriverà un altro messaggio così.
+
+EN: What is about to be released from heaven will move your soul. It will touch your life in a way you won't be able to deny.
+IT: Ciò che sta per scendere dal cielo ti scuoterà l'anima. Toccherà la tua vita in un modo che non potrai negare.
+
+EN: If I were you, I wouldn't close this video, not even for a second, because what you're about to hear has the power to change your destiny.
+IT: Se fossi in te, non chiuderei questo video nemmeno per un secondo, perché ciò che stai per ascoltare può cambiare il tuo destino.
+
+EN: God is showing me that He will break that dependence that kept you tied to someone. You won't need anyone anymore. What's coming is total independence.
+IT: Dio mi mostra che spezzerà quella dipendenza che ti legava a qualcuno. Non avrai più bisogno di nessuno. Arriva l'indipendenza totale.
+
+EN: He is signing a paper in your favor, moving the entire system to give you what is yours. Everything they denied you out of envy, He is decreeing in your name.
+IT: Sta firmando un documento a tuo favore, muovendo tutto per darti ciò che ti spetta. Ciò che ti hanno negato per invidia, Lui lo decreta a tuo nome.
+
+EN: I see a change so big that people won't even recognize you. God is in a hurry with you, and what you expected a month from now will manifest in days.
+IT: Vedo un cambiamento così grande che nessuno ti riconoscerà. Dio ha fretta con te: ciò che aspettavi tra un mese arriverà in pochi giorni.
+
+EN: Today marks the beginning of your new story. The humiliation ends. The shame is over. You will no longer have to beg for what belongs to you, because God sealed it with His divine signature.
+IT: Oggi inizia la tua nuova storia. L'umiliazione finisce. La vergogna è finita. Non dovrai più implorare ciò che è tuo, perché Dio l'ha sigillato con la sua firma divina.
+
+EN: And pay attention to this: there are spiritual protections that only activate when the right prayer is made.
+IT: E fai attenzione: ci sono protezioni spirituali che si attivano solo con la preghiera giusta.
+
+EN: For centuries, Saint Benedict was known for breaking attacks, blockages, and closed paths, through a powerful prayer that protected not only the person, but everything around them.
+IT: Per secoli, San Benedetto ha spezzato attacchi, blocchi e strade chiuse, con una preghiera potente che proteggeva la persona e tutto ciò che la circondava.
+
+EN: This prayer isn't repeated like any other. It is learned, it is made with intention, and it is activated at the right moment. And that moment is now.
+IT: Questa preghiera non si ripete come le altre. Si impara, si fa con intenzione e si attiva nel momento giusto. E quel momento è adesso.
+
+EN: Because right now, a special live prayer is taking place, where this prayer of Saint Benedict is explained and guided, especially for people who have been through humiliation, envy, spiritual attacks, and stagnation.
+IT: Perché proprio ora c'è una preghiera speciale in diretta, dove la preghiera di San Benedetto viene spiegata e guidata, per chi ha vissuto umiliazione, invidia, attacchi spirituali e stagnazione.
+
+EN: Many don't understand why everything gets blocked, why the energy feels so heavy, why nothing flows. But when the right protection comes in, everything starts to fall into place.
+IT: Molti non capiscono perché tutto si blocca, perché l'energia è così pesante, perché niente scorre. Ma quando entra la protezione giusta, tutto torna in ordine.
+
+EN: Not everyone makes it this far, and not everyone receives this guidance in time. If you feel this message touched you deeper than usual, don't ignore it.
+IT: Non tutti arrivano fin qui, né ricevono questa guida in tempo. Se questo messaggio ti ha toccato nel profondo, non ignorarlo.
+
+EN: Tap Learn More below, and join the live prayer happening right now, where you'll learn how to pray the prayer of Saint Benedict the right way.
+IT: Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta, proprio adesso, dove imparerai a recitare la preghiera di San Benedetto nel modo giusto.
+
+EN: Don't leave it for later. This window won't stay open forever, and what God wants to activate in your life begins with this step.
+IT: Non rimandare. Questa finestra non resterà aperta per sempre, e ciò che Dio vuole attivare nella tua vita comincia con questo passo.
+
+Texto fixo na tela (caixa branca do topo, mesmo estilo/geometria do EN, linha de emojis original mantida):
+‼️ Ultimo avviso ‼️ / Resta fino alla fine e / presta molta attenzione / 🙏🔮✨❤️‍🩹
+
+Decisões de tradução
+- "Saint Benedict" → "San Benedetto". "live prayer" → "preghiera in diretta".
+- CTA no padrão do lote: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta, proprio adesso…";
+  na legenda o nome do botão aparece entre aspas (“SCOPRI DI PIÙ”) porque a fonte Anton não tem « ».
+- Texto condensado em ~10% (italiano saiu 169 s na 1ª leitura): mesmas ideias e mesmo teor, frases mais enxutas
+  ("muovendo tutto", "arriva l'indipendenza totale", "per chi ha vissuto…"), sem cortar promessa nem urgência.
+- "ti teneva legata" (ES feminino) → "ti legava a qualcuno" (neutro em gênero).
+- "One last warning" → "Ultimo avviso" (cabe na caixa original; "Un ultimo avvertimento" estourava a largura).
+- Mesmo teor do EN/ES, sem suavizar: "ultimo avviso", "arriverà in pochi giorni", "Questa finestra non resterà aperta per sempre".
+- Ajuste v2 (16/10, pedido do coordenador): "una speciale preghiera in diretta" → "una preghiera speciale in diretta" e
+  "fare la preghiera" → "recitare la preghiera". Só esses 2 parágrafos foram regravados (Brian, com previous/next_text
+  para manter a entonação) e encaixados no corpo no meio das pausas entre parágrafos; o resto da narração é o mesmo da v1.

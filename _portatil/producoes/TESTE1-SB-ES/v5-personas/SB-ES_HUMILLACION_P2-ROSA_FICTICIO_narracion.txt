@@ -1,0 +1,20 @@
+NARRACIÓN COMPLETA — SB-ES_HUMILLACION_P2-ROSA_FICTICIO.mp4 (1:16)
+Tiempos = momento en que empieza cada frase en el video final. Texto = ROTEIRO_PERSONAS_v2.md (P2 · DOÑA ROSA).
+Personajes ficticios: REPORTERA (en PiP desde 0:00, luego en pantalla), CLIENTA, DOÑA ROSA (costurera, 60 años).
+Sello "VIDEO FICTICIO" arriba a la derecha todo el video. "(voz en off)" = narración sobre b-roll de la propia Rosa, sin rostro.
+Voces: reportera Gabriela (ElevenLabs) · doña Rosa Luisa (ElevenLabs; en la pelea, voz nativa del take convertida a Luisa con speech-to-speech) · clienta voz nativa del take.
+Sin voz [00:12–00:21]: Rosa recoge el crucifijo del suelo (música triste) -> taller vacío -> 2 clientas entrando -> percheros llenos (música de esperanza).
+Título 0–3 s: "LA HUMILLARON POR SU FE… / AL DÍA SIGUIENTE PASÓ ESTO". Flechas TOCA «VER MÁS» desde el CTA hasta el final; nada se dice después del CTA.
+
+[00:00] REPORTERA (en PiP): Imágenes impactantes: una costurera fue humillada por una clienta… por su fe.
+[00:04] CLIENTA: ¿Y tu Dios no te enseñó a coser? ¡Llámalo a ver si te ayuda!
+[00:08] DOÑA ROSA: Señora, yo lo hice con todo mi cariño. No me hable así, por favor.
+[00:21] REPORTERA: Al día siguiente, el taller de doña Rosa tenía encargos hasta el fin de mes.
+[00:27] DOÑA ROSA (voz en off): Esa noche lloré sobre la máquina de coser.
+[00:30] DOÑA ROSA: Treinta años cosiendo… y me sentí una inútil.
+[00:33] DOÑA ROSA (voz en off): Mi comadre me mandó la transmisión del padre Juan Méndez.
+[00:37] DOÑA ROSA: La hice esa misma noche, como él enseña. Al otro día, entraron tres clientas que yo ni conocía.
+[00:45] DOÑA ROSA [PEDIDO]: Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.
+[00:53] DOÑA ROSA [PEDIDO]: Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…
+[01:02] DOÑA ROSA [PEDIDO]: y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?
+[01:09] REPORTERA [CTA]: ¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.

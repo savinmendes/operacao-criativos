@@ -1,0 +1,36 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/PERFUMES-CL_P5_EL-FERIANTE_H2.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/corpo_h2.mp4",
+ "cortar_pausas": false,
+ "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/audio/trilha.mp3",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD5-EL-FERIANTE/corpo_h2.alinhamento.json",
+  "chaves": [
+   "vuelto",
+   "perfume",
+   "paltas",
+   "perfumes",
+   "árabes",
+   "uno",
+   "Armaf",
+   "regatean",
+   "Asad",
+   "casero",
+   "9PM",
+   "recibes",
+   "Pídelo"
+  ]
+ },
+ "manchete": {
+  "texto": "ME DEJAN EL VUELTO 🤑",
+  "y": 1400,
+  "ate": 4.2
+ },
+ "cta": {
+  "palavra": "pídelo",
+  "y": 1480
+ },
+ "resolucao": "720",
+ "limite_mb": 30
+}

@@ -1,0 +1,9 @@
+PRONTO — agente CORPO (19/10/2026)
+corpo_a_partir_selfie.mp4 : 75,07 s, 2252 quadros, 720x1280, 30 fps, AAC 48 kHz, -16,5 LUFS, 26,2 MB.
+  1º quadro = selfie do padre chorando («Es indignante…» em ~0,02 s). Trilha de tensão já entra tocando:
+  corte seco no vídeo e crossfade de ~0,15 s só no áudio na colagem.
+  Termina 0,5 s depois de «conmigo». Setas + «TOCA EN «VER MÁS»» a partir de 70,02 s; «EN VIVO» a partir de 66,97 s.
+  Juan Méndez = avatar HeyGen novo com o rosto da página (padre de roxo removido), moldura da live com padre.juanmendez.
+V0_COMPLETA.mp4 : 83,1 s (selfie em 8,033 s), título «EL PADRE JUAN MÉNDEZ LO VA A / REVELAR TODO EN VIVO», 28,6 MB.
+Revisão: revisar_ad.py --idioma es OK nos dois (sem termo proibido, sem quadro solto, sem silêncio, sem salto de pts).
+Detalhes: corpo_info.json. Moldura para os ganchos (se precisarem): _trab\ov\moldura_jm.png.

@@ -1,0 +1,22 @@
+REVISÃO: C2_yara-kit3_uno-para-cada-momento_es-cl.mp4
+duração 27.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 8.2 MB
+decodificação: OK
+pts do áudio: 1269 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 641-693, x 540-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\ONDA2\_revisao\C2_yara-kit3_uno-para-cada-momento_es-cl_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  6.00 ¿No sabes cuál perfume harábo elegir? Te recomiendo uno para cada momento del día.
+   6.00- 10.00 Tía Yara, dulce, cremoso y muy femenino.
+  14.00- 18.00 Y para la noche, Yara Elixir, el más intenso de los tres.
+  18.00- 25.00 ¿Para qué elegir? Por Black Friday pagas dos y te llevas los tres.
+  25.00- 27.00 Y pagas cuando te llegas.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,22 @@
+REVISÃO: C6_yara-kit3_regalo-navidad_es-cl.mp4
+duração 11.43s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 4.2 MB
+decodificação: OK
+pts do áudio: 534 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 642-691, x 512-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\ONDA2\_revisao\C6_yara-kit3_regalo-navidad_es-cl_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¿Todavía no sabes qué regalar esta Navidad?
+   2.00-  4.30 Tres perfumes árabes en un solo kit.
+   4.30-  6.50 Uno para regalar y dos para ti.
+   6.50-  9.00 Por Black Friday pagas dos y te llevas tres.
+   9.00- 11.30 Envió gratis y pagas cuando te llega.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

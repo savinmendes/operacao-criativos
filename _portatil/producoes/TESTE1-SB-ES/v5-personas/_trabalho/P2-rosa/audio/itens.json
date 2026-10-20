@@ -1,0 +1,1059 @@
+{
+ "R00": {
+  "arquivo": "R00.wav",
+  "texto": "Imágenes impactantes: una costurera fue humillada por una clienta… por su fe.",
+  "tts": null,
+  "dur": 4.471,
+  "palavras": [
+   {
+    "w": "Imágenes",
+    "ini": 0.046,
+    "fim": 0.441
+   },
+   {
+    "w": "impactantes:",
+    "ini": 0.488,
+    "fim": 1.242
+   },
+   {
+    "w": "una",
+    "ini": 1.474,
+    "fim": 1.625
+   },
+   {
+    "w": "costurera",
+    "ini": 1.672,
+    "fim": 2.09
+   },
+   {
+    "w": "fue",
+    "ini": 2.136,
+    "fim": 2.229
+   },
+   {
+    "w": "humillada",
+    "ini": 2.252,
+    "fim": 2.612
+   },
+   {
+    "w": "por",
+    "ini": 2.647,
+    "fim": 2.752
+   },
+   {
+    "w": "una",
+    "ini": 2.798,
+    "fim": 2.914
+   },
+   {
+    "w": "clienta...",
+    "ini": 2.949,
+    "fim": 3.448
+   },
+   {
+    "w": "por",
+    "ini": 3.698,
+    "fim": 3.838
+   },
+   {
+    "w": "su",
+    "ini": 3.873,
+    "fim": 3.965
+   },
+   {
+    "w": "fe.",
+    "ini": 4.023,
+    "fim": 4.291
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    1.242,
+    1.474
+   ],
+   [
+    3.448,
+    3.698
+   ],
+   [
+    4.291,
+    4.471
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "R01": {
+  "arquivo": "R01.wav",
+  "texto": "Al día siguiente, el taller de doña Rosa tenía encargos hasta el fin de mes.",
+  "tts": null,
+  "dur": 5.294,
+  "palavras": [
+   {
+    "w": "Al",
+    "ini": 0.07,
+    "fim": 0.186
+   },
+   {
+    "w": "día",
+    "ini": 0.232,
+    "fim": 0.383
+   },
+   {
+    "w": "siguiente,",
+    "ini": 0.441,
+    "fim": 1.045
+   },
+   {
+    "w": "el",
+    "ini": 1.115,
+    "fim": 1.207
+   },
+   {
+    "w": "taller",
+    "ini": 1.265,
+    "fim": 1.544
+   },
+   {
+    "w": "de",
+    "ini": 1.591,
+    "fim": 1.66
+   },
+   {
+    "w": "doña",
+    "ini": 1.707,
+    "fim": 1.939
+   },
+   {
+    "w": "Rosa",
+    "ini": 2.009,
+    "fim": 2.438
+   },
+   {
+    "w": "tenía",
+    "ini": 2.688,
+    "fim": 3.094
+   },
+   {
+    "w": "encargos",
+    "ini": 3.129,
+    "fim": 3.686
+   },
+   {
+    "w": "hasta",
+    "ini": 3.756,
+    "fim": 4.034
+   },
+   {
+    "w": "el",
+    "ini": 4.081,
+    "fim": 4.15
+   },
+   {
+    "w": "fin",
+    "ini": 4.232,
+    "fim": 4.441
+   },
+   {
+    "w": "de",
+    "ini": 4.499,
+    "fim": 4.58
+   },
+   {
+    "w": "mes.",
+    "ini": 4.65,
+    "fim": 5.114
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    2.438,
+    2.688
+   ],
+   [
+    5.114,
+    5.294
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "RA1": {
+  "arquivo": "vo_RA1.wav",
+  "texto": "Esa noche lloré sobre la máquina de coser.",
+  "tts": null,
+  "dur": 2.769,
+  "palavras": [
+   {
+    "w": "Esa",
+    "ini": 0.046,
+    "fim": 0.29
+   },
+   {
+    "w": "noche",
+    "ini": 0.348,
+    "fim": 0.685
+   },
+   {
+    "w": "lloré",
+    "ini": 0.708,
+    "fim": 0.987
+   },
+   {
+    "w": "sobre",
+    "ini": 1.033,
+    "fim": 1.277
+   },
+   {
+    "w": "la",
+    "ini": 1.324,
+    "fim": 1.405
+   },
+   {
+    "w": "máquina",
+    "ini": 1.463,
+    "fim": 1.892
+   },
+   {
+    "w": "de",
+    "ini": 1.95,
+    "fim": 2.02
+   },
+   {
+    "w": "coser.",
+    "ini": 2.067,
+    "fim": 2.589
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    2.589,
+    2.769
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "RA2": {
+  "arquivo": "RA2.wav",
+  "texto": "Treinta años cosiendo… y me sentí una inútil.",
+  "tts": null,
+  "dur": 3.704,
+  "palavras": [
+   {
+    "w": "Treinta",
+    "ini": 0.07,
+    "fim": 0.546
+   },
+   {
+    "w": "años",
+    "ini": 0.58,
+    "fim": 0.859
+   },
+   {
+    "w": "cosiendo...",
+    "ini": 0.929,
+    "fim": 1.695
+   },
+   {
+    "w": "y",
+    "ini": 1.945,
+    "fim": 2.014
+   },
+   {
+    "w": "me",
+    "ini": 2.096,
+    "fim": 2.188
+   },
+   {
+    "w": "sentí",
+    "ini": 2.235,
+    "fim": 2.676
+   },
+   {
+    "w": "una",
+    "ini": 2.746,
+    "fim": 2.897
+   },
+   {
+    "w": "inútil.",
+    "ini": 2.931,
+    "fim": 3.524
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    1.695,
+    1.945
+   ],
+   [
+    3.524,
+    3.704
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "RA3": {
+  "arquivo": "vo_RA3.wav",
+  "texto": "Mi comadre me mandó la transmisión del padre Juan Méndez.",
+  "tts": null,
+  "dur": 3.698,
+  "palavras": [
+   {
+    "w": "Mi",
+    "ini": 0.035,
+    "fim": 0.186
+   },
+   {
+    "w": "comadre",
+    "ini": 0.232,
+    "fim": 0.731
+   },
+   {
+    "w": "me",
+    "ini": 0.789,
+    "fim": 0.859
+   },
+   {
+    "w": "mandó",
+    "ini": 0.917,
+    "fim": 1.184
+   },
+   {
+    "w": "la",
+    "ini": 1.231,
+    "fim": 1.3
+   },
+   {
+    "w": "transmisión",
+    "ini": 1.347,
+    "fim": 2.101
+   },
+   {
+    "w": "del",
+    "ini": 2.148,
+    "fim": 2.264
+   },
+   {
+    "w": "padre",
+    "ini": 2.322,
+    "fim": 2.589
+   },
+   {
+    "w": "Juan",
+    "ini": 2.647,
+    "fim": 2.879
+   },
+   {
+    "w": "Méndez.",
+    "ini": 2.961,
+    "fim": 3.518
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    3.518,
+    3.698
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "RA4": {
+  "arquivo": "RA4.wav",
+  "texto": "La hice esa misma noche, como él enseña. Al otro día, entraron tres clientas que yo ni conocía.",
+  "tts": null,
+  "dur": 7.616,
+  "palavras": [
+   {
+    "w": "La",
+    "ini": 0.07,
+    "fim": 0.255
+   },
+   {
+    "w": "hice",
+    "ini": 0.279,
+    "fim": 0.557
+   },
+   {
+    "w": "esa",
+    "ini": 0.592,
+    "fim": 0.766
+   },
+   {
+    "w": "misma",
+    "ini": 0.824,
+    "fim": 1.149
+   },
+   {
+    "w": "noche,",
+    "ini": 1.207,
+    "fim": 1.776
+   },
+   {
+    "w": "como",
+    "ini": 2.009,
+    "fim": 2.299
+   },
+   {
+    "w": "él",
+    "ini": 2.368,
+    "fim": 2.485
+   },
+   {
+    "w": "enseña.",
+    "ini": 2.554,
+    "fim": 3.297
+   },
+   {
+    "w": "Al",
+    "ini": 3.547,
+    "fim": 3.686
+   },
+   {
+    "w": "otro",
+    "ini": 3.756,
+    "fim": 3.976
+   },
+   {
+    "w": "día,",
+    "ini": 4.023,
+    "fim": 4.534
+   },
+   {
+    "w": "entraron",
+    "ini": 4.766,
+    "fim": 5.277
+   },
+   {
+    "w": "tres",
+    "ini": 5.335,
+    "fim": 5.555
+   },
+   {
+    "w": "clientas",
+    "ini": 5.625,
+    "fim": 6.24
+   },
+   {
+    "w": "que",
+    "ini": 6.287,
+    "fim": 6.368
+   },
+   {
+    "w": "yo",
+    "ini": 6.438,
+    "fim": 6.519
+   },
+   {
+    "w": "ni",
+    "ini": 6.565,
+    "fim": 6.647
+   },
+   {
+    "w": "conocía.",
+    "ini": 6.693,
+    "fim": 7.436
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    1.776,
+    2.009
+   ],
+   [
+    3.297,
+    3.547
+   ],
+   [
+    4.534,
+    4.766
+   ],
+   [
+    7.436,
+    7.616
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "RP1": {
+  "arquivo": "RP1.wav",
+  "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.",
+  "tts": null,
+  "dur": 7.953,
+  "palavras": [
+   {
+    "w": "Si",
+    "ini": 0.046,
+    "fim": 0.197
+   },
+   {
+    "w": "tú",
+    "ini": 0.244,
+    "fim": 0.348
+   },
+   {
+    "w": "también",
+    "ini": 0.406,
+    "fim": 0.801
+   },
+   {
+    "w": "rezas",
+    "ini": 0.894,
+    "fim": 1.382
+   },
+   {
+    "w": "y",
+    "ini": 1.474,
+    "fim": 1.544
+   },
+   {
+    "w": "sientes",
+    "ini": 1.625,
+    "fim": 1.997
+   },
+   {
+    "w": "que",
+    "ini": 2.043,
+    "fim": 2.136
+   },
+   {
+    "w": "nadie",
+    "ini": 2.252,
+    "fim": 2.589
+   },
+   {
+    "w": "te",
+    "ini": 2.647,
+    "fim": 2.74
+   },
+   {
+    "w": "escucha...",
+    "ini": 2.763,
+    "fim": 3.448
+   },
+   {
+    "w": "y",
+    "ini": 3.68,
+    "fim": 3.75
+   },
+   {
+    "w": "que",
+    "ini": 3.843,
+    "fim": 3.913
+   },
+   {
+    "w": "las",
+    "ini": 3.971,
+    "fim": 4.098
+   },
+   {
+    "w": "cosas",
+    "ini": 4.168,
+    "fim": 4.47
+   },
+   {
+    "w": "solo",
+    "ini": 4.493,
+    "fim": 4.737
+   },
+   {
+    "w": "empeoran...",
+    "ini": 4.76,
+    "fim": 5.608
+   },
+   {
+    "w": "no",
+    "ini": 5.858,
+    "fim": 6.067
+   },
+   {
+    "w": "es",
+    "ini": 6.148,
+    "fim": 6.276
+   },
+   {
+    "w": "que",
+    "ini": 6.345,
+    "fim": 6.45
+   },
+   {
+    "w": "Dios",
+    "ini": 6.508,
+    "fim": 6.775
+   },
+   {
+    "w": "no",
+    "ini": 6.844,
+    "fim": 6.949
+   },
+   {
+    "w": "te",
+    "ini": 7.007,
+    "fim": 7.088
+   },
+   {
+    "w": "escuche.",
+    "ini": 7.111,
+    "fim": 7.773
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    3.448,
+    3.68
+   ],
+   [
+    5.608,
+    5.858
+   ],
+   [
+    7.773,
+    7.953
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "RP2": {
+  "arquivo": "RP2.wav",
+  "texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…",
+  "tts": null,
+  "dur": 9.487,
+  "palavras": [
+   {
+    "w": "Es",
+    "ini": 0.035,
+    "fim": 0.197
+   },
+   {
+    "w": "que,",
+    "ini": 0.267,
+    "fim": 0.488
+   },
+   {
+    "w": "igual",
+    "ini": 0.546,
+    "fim": 0.848
+   },
+   {
+    "w": "que",
+    "ini": 0.917,
+    "fim": 1.01
+   },
+   {
+    "w": "yo,",
+    "ini": 1.103,
+    "fim": 1.428
+   },
+   {
+    "w": "lo",
+    "ini": 1.678,
+    "fim": 1.794
+   },
+   {
+    "w": "estabas",
+    "ini": 1.852,
+    "fim": 2.282
+   },
+   {
+    "w": "pidiendo",
+    "ini": 2.351,
+    "fim": 2.909
+   },
+   {
+    "w": "de",
+    "ini": 2.967,
+    "fim": 3.025
+   },
+   {
+    "w": "la",
+    "ini": 3.071,
+    "fim": 3.153
+   },
+   {
+    "w": "forma",
+    "ini": 3.234,
+    "fim": 3.547
+   },
+   {
+    "w": "equivocada.",
+    "ini": 3.57,
+    "fim": 4.372
+   },
+   {
+    "w": "El",
+    "ini": 4.622,
+    "fim": 4.796
+   },
+   {
+    "w": "padre",
+    "ini": 4.866,
+    "fim": 5.133
+   },
+   {
+    "w": "Juan",
+    "ini": 5.179,
+    "fim": 5.365
+   },
+   {
+    "w": "Méndez",
+    "ini": 5.435,
+    "fim": 5.922
+   },
+   {
+    "w": "me",
+    "ini": 6.062,
+    "fim": 6.201
+   },
+   {
+    "w": "enseñó",
+    "ini": 6.236,
+    "fim": 6.619
+   },
+   {
+    "w": "la",
+    "ini": 6.665,
+    "fim": 6.735
+   },
+   {
+    "w": "forma",
+    "ini": 6.805,
+    "fim": 7.118
+   },
+   {
+    "w": "correcta",
+    "ini": 7.176,
+    "fim": 7.745
+   },
+   {
+    "w": "de",
+    "ini": 7.792,
+    "fim": 7.873
+   },
+   {
+    "w": "pedirle",
+    "ini": 7.919,
+    "fim": 8.407
+   },
+   {
+    "w": "a",
+    "ini": 8.442,
+    "fim": 8.465
+   },
+   {
+    "w": "San",
+    "ini": 8.523,
+    "fim": 8.674
+   },
+   {
+    "w": "Benito...",
+    "ini": 8.732,
+    "fim": 9.359
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    1.428,
+    1.678
+   ],
+   [
+    4.372,
+    4.622
+   ],
+   [
+    9.359,
+    9.487
+   ]
+  ],
+  "avatar": true,
+  "cortes": 2
+ },
+ "RP3": {
+  "arquivo": "RP3.wav",
+  "texto": "y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?",
+  "tts": null,
+  "dur": 6.949,
+  "palavras": [
+   {
+    "w": "y",
+    "ini": 0.081,
+    "fim": 0.104
+   },
+   {
+    "w": "está",
+    "ini": 0.174,
+    "fim": 0.383
+   },
+   {
+    "w": "haciendo",
+    "ini": 0.406,
+    "fim": 0.871
+   },
+   {
+    "w": "la",
+    "ini": 0.929,
+    "fim": 0.987
+   },
+   {
+    "w": "oración",
+    "ini": 1.01,
+    "fim": 1.393
+   },
+   {
+    "w": "en",
+    "ini": 1.451,
+    "fim": 1.521
+   },
+   {
+    "w": "vivo",
+    "ini": 1.591,
+    "fim": 1.939
+   },
+   {
+    "w": "ahora",
+    "ini": 2.136,
+    "fim": 2.438
+   },
+   {
+    "w": "mismo.",
+    "ini": 2.496,
+    "fim": 2.972
+   },
+   {
+    "w": "¿Usted",
+    "ini": 3.135,
+    "fim": 3.587
+   },
+   {
+    "w": "puede",
+    "ini": 3.657,
+    "fim": 3.889
+   },
+   {
+    "w": "pasar",
+    "ini": 3.947,
+    "fim": 4.249
+   },
+   {
+    "w": "la",
+    "ini": 4.307,
+    "fim": 4.365
+   },
+   {
+    "w": "transmisión",
+    "ini": 4.412,
+    "fim": 5.166
+   },
+   {
+    "w": "para",
+    "ini": 5.224,
+    "fim": 5.387
+   },
+   {
+    "w": "los",
+    "ini": 5.433,
+    "fim": 5.561
+   },
+   {
+    "w": "que",
+    "ini": 5.608,
+    "fim": 5.677
+   },
+   {
+    "w": "nos",
+    "ini": 5.724,
+    "fim": 5.84
+   },
+   {
+    "w": "están",
+    "ini": 5.909,
+    "fim": 6.177
+   },
+   {
+    "w": "viendo?",
+    "ini": 6.235,
+    "fim": 6.769
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.081
+   ],
+   [
+    1.939,
+    2.136
+   ],
+   [
+    2.972,
+    3.135
+   ],
+   [
+    6.769,
+    6.949
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ },
+ "CTA": {
+  "arquivo": "CTA.wav",
+  "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.",
+  "tts": null,
+  "dur": 6.758,
+  "palavras": [
+   {
+    "w": "¡Claro!",
+    "ini": 0.035,
+    "fim": 0.569
+   },
+   {
+    "w": "Toquen",
+    "ini": 0.819,
+    "fim": 1.144
+   },
+   {
+    "w": "el",
+    "ini": 1.213,
+    "fim": 1.271
+   },
+   {
+    "w": "botón",
+    "ini": 1.306,
+    "fim": 1.689
+   },
+   {
+    "w": "que",
+    "ini": 1.91,
+    "fim": 2.026
+   },
+   {
+    "w": "está",
+    "ini": 2.072,
+    "fim": 2.328
+   },
+   {
+    "w": "abajo",
+    "ini": 2.374,
+    "fim": 2.676
+   },
+   {
+    "w": "del",
+    "ini": 2.723,
+    "fim": 2.839
+   },
+   {
+    "w": "video",
+    "ini": 2.897,
+    "fim": 3.28
+   },
+   {
+    "w": "y",
+    "ini": 3.53,
+    "fim": 3.67
+   },
+   {
+    "w": "entren",
+    "ini": 3.751,
+    "fim": 4.134
+   },
+   {
+    "w": "ahora",
+    "ini": 4.238,
+    "fim": 4.656
+   },
+   {
+    "w": "a",
+    "ini": 4.906,
+    "fim": 4.988
+   },
+   {
+    "w": "la",
+    "ini": 5.069,
+    "fim": 5.138
+   },
+   {
+    "w": "oración",
+    "ini": 5.185,
+    "fim": 5.754
+   },
+   {
+    "w": "en",
+    "ini": 5.916,
+    "fim": 6.09
+   },
+   {
+    "w": "vivo.",
+    "ini": 6.16,
+    "fim": 6.578
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    0.569,
+    0.819
+   ],
+   [
+    1.689,
+    1.91
+   ],
+   [
+    3.28,
+    3.53
+   ],
+   [
+    4.656,
+    4.906
+   ],
+   [
+    5.754,
+    5.916
+   ],
+   [
+    6.578,
+    6.758
+   ]
+  ],
+  "avatar": true,
+  "cortes": 3
+ }
+}

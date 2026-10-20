@@ -1,0 +1,173 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_montado\\TR38_fundo.mp4",
+ "overlays": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov",
+ "sfx": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\sfx",
+ "titulo": null,
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 2.4
+ },
+ "banner": true,
+ "sticker": false,
+ "selo": {
+  "em": "sempre",
+  "png": "selo_bf.png",
+  "x": "W-w-10",
+  "y": 10
+ },
+ "whoosh": false,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": {},
+  "y": 1060,
+  "chaves": [
+   "dewalt",
+   "percutor",
+   "atornillador",
+   "maleta",
+   "cargador",
+   "carbones",
+   "brushless",
+   "led",
+   "recién",
+   "chile",
+   "bueno",
+   "bonito",
+   "barato",
+   "débil",
+   "incluido",
+   "maestro",
+   "madera",
+   "metal",
+   "muro",
+   "modo",
+   "taladro",
+   "versatilidad",
+   "potencia",
+   "fuerza",
+   "liviano",
+   "kit"
+  ],
+  "juntar": [
+   [
+    "Pre",
+    "Black",
+    "Friday"
+   ],
+   [
+    "dos",
+    "baterías"
+   ],
+   [
+    "sin",
+    "carbones"
+   ],
+   [
+    "luz",
+    "LED"
+   ],
+   [
+    "quince",
+    "posiciones"
+   ],
+   [
+    "ajuste",
+    "rápido"
+   ],
+   [
+    "dos",
+    "velocidades"
+   ],
+   [
+    "indicador",
+    "de",
+    "carga"
+   ],
+   [
+    "todo",
+    "Chile"
+   ],
+   [
+    "pagas",
+    "recién"
+   ],
+   [
+    "pega",
+    "pesada"
+   ],
+   [
+    "taladro",
+    "débil"
+   ],
+   [
+    "todo",
+    "incluido"
+   ],
+   [
+    "un",
+    "solo",
+    "kit"
+   ],
+   [
+    "sin",
+    "cables"
+   ],
+   [
+    "en",
+    "segundos"
+   ],
+   [
+    "harto",
+    "tiempo"
+   ],
+   [
+    "bien",
+    "apretado"
+   ],
+   [
+    "la",
+    "obra"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\38.mp4",
+   "tipo": "outro",
+   "zoom": 1.0,
+   "snap": false,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\_audio\\trad_38_fundo.wav",
+   "dur": 15.8
+  }
+ ],
+ "extras": [
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_dewalt-20v-max.png",
+   "de": 0.15,
+   "ate": 3.85
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_luz-led.png",
+   "de": 3.85,
+   "ate": 6.61
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_bateria-2ah.png",
+   "de": 6.61,
+   "ate": 8.2
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_brushless.png",
+   "de": 8.2,
+   "ate": 11.9
+  },
+  {
+   "png": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\ov\\tt_pagas-al-recibir.png",
+   "de": 11.9,
+   "ate": 15.8
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "var": "12",
+ "gancho": "G2",
+ "corpo": "05",
+ "genero": "F",
+ "texto": "Vi a la mujer por la que mi esposo me dejó. Tenía veintiocho años. Casi me pongo a llorar ahí mismo, frente a ella. Así empezó todo.",
+ "Hd": 8.933333333333334,
+ "fala_s": 8.5,
+ "tomadas": [
+  {
+   "src": "05",
+   "ini": 12.158,
+   "dur": 0.9666666666666667
+  },
+  {
+   "src": "05",
+   "ini": 6.491,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "05",
+   "ini": 14.658,
+   "dur": 2.2333333333333334
+  },
+  {
+   "src": "05",
+   "ini": 8.275,
+   "dur": 1.1666666666666667
+  },
+  {
+   "src": "05",
+   "ini": 81.475,
+   "dur": 1.9333333333333333
+  },
+  {
+   "src": "05",
+   "ini": 52.275,
+   "dur": 1.4
+  }
+ ],
+ "corte": 20.35,
+ "frases": [
+  [
+   "Vi a la mujer por la que mi esposo me dejó.",
+   0.046
+  ],
+  [
+   "Tenía veintiocho años.",
+   2.624
+  ],
+  [
+   "Casi me pongo a llorar ahí mismo, frente a ella.",
+   4.284
+  ],
+  [
+   "Así empezó todo.",
+   6.954
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 12 - G2-MUJER-28 x AD05.mp4",
+ "seed": 87
+}

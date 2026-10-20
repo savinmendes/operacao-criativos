@@ -1,0 +1,196 @@
+{
+ "corpo_c2": {
+  "id": "corpo_c2",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\voz\\corpo_c2.mp3",
+  "duracao": 36.26,
+  "fala_fim": 35.86,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Si tu taladro no es percutor, en el muro se queda girando y no avanza.",
+    "inicio": 0.0,
+    "fim": 3.44,
+    "dur": 3.44,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 1,
+    "texto": "Este taladro sí es percutor: giras el anillo hasta el martillo,",
+    "inicio": 3.66,
+    "fim": 8.91,
+    "dur": 5.25,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 2,
+    "texto": "y con broca de concreto, entra en el muro sin pelear.",
+    "inicio": 9.13,
+    "fim": 12.84,
+    "dur": 3.71,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 3,
+    "texto": "En modo taladro, pasa limpio por madera y metal.",
+    "inicio": 13.06,
+    "fim": 15.94,
+    "dur": 2.88,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 4,
+    "texto": "Motor sin carbones, veinte volts MAX.",
+    "inicio": 16.16,
+    "fim": 19.27,
+    "dur": 3.11,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 5,
+    "texto": "Y trae dos baterías de dos amperes hora: con una trabajas, y la otra se va cargando.",
+    "inicio": 19.49,
+    "fim": 27.15,
+    "dur": 7.66,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 6,
+    "texto": "Más el cargador y su maleta, todo en un solo kit.",
+    "inicio": 27.37,
+    "fim": 29.97,
+    "dur": 2.6,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 7,
+    "texto": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+    "inicio": 30.19,
+    "fim": 35.86,
+    "dur": 5.67,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "corpo_c7": {
+  "id": "corpo_c7",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\voz\\corpo_c7.mp3",
+  "duracao": 36.17,
+  "fala_fim": 35.77,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Con el anillo eliges entre quince posiciones de torque.",
+    "inicio": 0.0,
+    "fim": 3.16,
+    "dur": 3.16,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 1,
+    "texto": "Así el tornillo queda justo, sin pasarlo y sin dañar la madera.",
+    "inicio": 3.38,
+    "fim": 7.14,
+    "dur": 3.76,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 2,
+    "texto": "Tiene dos velocidades: una para atornillar y otra para perforar, hasta mil setecientas cincuenta revoluciones.",
+    "inicio": 7.36,
+    "fim": 15.44,
+    "dur": 8.08,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 3,
+    "texto": "Con el gatillo de velocidad variable, controlas cada vuelta.",
+    "inicio": 15.66,
+    "fim": 18.26,
+    "dur": 2.6,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 4,
+    "texto": "Motor sin carbones: más eficiencia y menos mantención.",
+    "inicio": 18.48,
+    "fim": 23.45,
+    "dur": 4.97,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 5,
+    "texto": "Y luz LED, para ver en los rincones oscuros.",
+    "inicio": 23.67,
+    "fim": 26.55,
+    "dur": 2.88,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 6,
+    "texto": "Trae dos baterías con indicador de carga, cargador y maleta.",
+    "inicio": 26.77,
+    "fim": 29.7,
+    "dur": 2.93,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 7,
+    "texto": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+    "inicio": 29.92,
+    "fim": 35.77,
+    "dur": 5.85,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_muro": {
+  "id": "gancho_muro",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\voz\\gancho_muro.mp3",
+  "duracao": 2.24,
+  "fala_fim": 2.09,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "¿Tu taladro no entra al muro? Mira esto.",
+    "inicio": 0.0,
+    "fim": 2.09,
+    "dur": 2.09,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_anel": {
+  "id": "gancho_anel",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\voz\\gancho_anel.mp3",
+  "duracao": 3.54,
+  "fala_fim": 3.39,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Quince posiciones de torque: nunca más pasas un tornillo.",
+    "inicio": 0.0,
+    "fim": 3.39,
+    "dur": 3.39,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ }
+}

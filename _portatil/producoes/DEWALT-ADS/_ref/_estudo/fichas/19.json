@@ -1,0 +1,59 @@
+{
+  "ad": "19",
+  "arquivo": "19 AD.mp4",
+  "folha": "_estudo/folhas/19.jpg",
+  "idioma": "es (Peru)",
+  "origem": {
+    "perfil": "@maqcenter.peru (TikTok)",
+    "tipo": "loja (Los Olivos, Lima)"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 42.0,
+  "cortes": {
+    "n": 14,
+    "ritmo": "médio-rápido: ~3 s por plano, closes do produto em mesa clara"
+  },
+  "formato": "apresentação de produto com especificações (closes em estúdio) + legenda queimada",
+  "gancho": {
+    "visual": "0-3 s: caixa do DeWalt DCD796B na mesa, selo amarelo 'BATERÍA Y CARGADOR NO INCLUIDO' no canto",
+    "fala_ou_texto": "Fala: 'Si quieres un taladro con las 3B, bueno, bonito y barato, este es tu taladro ideal' / legenda igual"
+  },
+  "estrutura": [
+    {
+      "t": "0-4.7",
+      "bloco": "gancho 3B + caixa"
+    },
+    {
+      "t": "4.7-24",
+      "bloco": "especificações: 1/2 pol, 20V, compacto, 2000 RPM, 34000 GPM, 2 velocidades, 70 Nm, 1,8 kg"
+    },
+    {
+      "t": "24-34",
+      "bloco": "XR, motor sem escovas, botão de giro, LED com modos"
+    },
+    {
+      "t": "34-42",
+      "bloco": "CTA mensagem privada/comentário + envios para o Peru + caixa"
+    }
+  ],
+  "cta": "'Consigue este taladro escribiéndonos al privado o deja tu comentario... Hacemos envíos a todo el Perú'",
+  "texto_tela": "legenda branca pequena centralizada (fala) + selo fixo 'BATERÍA Y CARGADOR NO INCLUIDO'",
+  "produto": {
+    "mostrado": "DeWalt DCD796B (taladro percutor/atornillador compacto 20V XR brushless, só a ferramenta; modelo lido na caixa)",
+    "e_o_nosso": "não (o DCD796 XR é outro modelo), mas é visualmente muito parecido com o DCD7771 (compacto 1/2 pol, 20V, amarelo/preto)"
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "selo 'BATERÍA Y CARGADOR NO INCLUIDO' em todos os quadros (canto superior direito)",
+  "audio": "voz masculina es-PE limpa + música leve",
+  "uso": [
+    "traduzir/adaptar (gancho '3B: bueno, bonito y barato' + roteiro curto de especificações em 40 s; trocar pelas specs do DCD7771 e transformar o selo em vantagem: 'batería y cargador INCLUIDOS')",
+    "banco de takes com ressalva (closes sem rosto, mas mostram logo XR/DCD796 e o selo fixo precisa ser coberto)"
+  ],
+  "nota": {
+    "valor": 4,
+    "justificativa": "Gancho em espanhol pronto e muito COD ('las 3B'), sem rosto, 42 s, estrutura limpa de especificações. O contraste com o nosso kit, que INCLUI 2 baterias + carregador, vira argumento. Contras: o produto não é o nosso, a resolução é 576p e o selo é fixo; melhor regravar/gerar takes do DCD7771 e reaproveitar só o roteiro."
+  }
+}

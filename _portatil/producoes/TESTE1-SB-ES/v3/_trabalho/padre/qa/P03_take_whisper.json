@@ -1,0 +1,93 @@
+{
+"arquivo": "take_P03.mp4",
+"whisper": "Esta es la poderosísima oración de las doce palabras del Grimorio sagrado y secreto de San Benito.",
+"palavras": [
+{
+"w": "Esta",
+"ini": 0.0,
+"fim": 0.42
+},
+{
+"w": "es",
+"ini": 0.42,
+"fim": 0.66
+},
+{
+"w": "la",
+"ini": 0.66,
+"fim": 0.86
+},
+{
+"w": "poderosísima",
+"ini": 0.86,
+"fim": 1.6
+},
+{
+"w": "oración",
+"ini": 1.6,
+"fim": 1.98
+},
+{
+"w": "de",
+"ini": 1.98,
+"fim": 2.12
+},
+{
+"w": "las",
+"ini": 2.12,
+"fim": 2.3
+},
+{
+"w": "doce",
+"ini": 2.3,
+"fim": 2.54
+},
+{
+"w": "palabras",
+"ini": 2.54,
+"fim": 3.02
+},
+{
+"w": "del",
+"ini": 3.02,
+"fim": 3.56
+},
+{
+"w": "Grimorio",
+"ini": 3.56,
+"fim": 4.02
+},
+{
+"w": "sagrado",
+"ini": 4.02,
+"fim": 4.42
+},
+{
+"w": "y",
+"ini": 4.42,
+"fim": 4.58
+},
+{
+"w": "secreto",
+"ini": 4.58,
+"fim": 4.96
+},
+{
+"w": "de",
+"ini": 4.96,
+"fim": 5.1
+},
+{
+"w": "San",
+"ini": 5.1,
+"fim": 5.26
+},
+{
+"w": "Benito.",
+"ini": 5.26,
+"fim": 5.64
+}
+],
+"ratio": 1.0,
+"dif": []
+}

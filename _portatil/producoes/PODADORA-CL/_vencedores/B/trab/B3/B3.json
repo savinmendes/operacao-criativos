@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\B3 - ORILLA-SOLA-ES-CL.mp4",
+ "resolucao": "720",
+ "limite_mb": 30,
+ "trab": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B3\\gv",
+ "bancos": {
+  "g": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B3\\banco_g.json"
+ },
+ "gancho": {
+  "trecho": [
+   "g",
+   0,
+   2.9
+  ],
+  "fala": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\voz\\B3.mp3",
+  "lead": 0.3,
+  "cauda": 0.0,
+  "caixa_fixa": {
+   "linhas": [
+    "SOLA. EN UNA TARDE."
+   ],
+   "px": 64,
+   "cy": 240,
+   "de": 0,
+   "ate": 3.9
+  },
+  "fundo": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\bed.wav",
+  "fundo_vol": 1.0
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "ganho_db": 2.0
+ }
+}

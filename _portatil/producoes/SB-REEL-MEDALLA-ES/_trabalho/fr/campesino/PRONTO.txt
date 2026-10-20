@@ -1,0 +1,7 @@
+CAMPESINO FR COMPLETA (14/10/2026) -> C:/Users/PICHAU/Downloads/SB-MEDALLA-COMPLETA-FR/06_SB-FR_CAMPESINO_COMPLETA.mp4 (65,1 s) + _narracion.txt
+Voz: HenryD (59dhv4BKONM60oDSKECM), eleven_multilingual_v2 via app/tts_ctx.py. Caracteres: 72+42+279=393 (teto 450). Whisper fr conferido (saint Benoît ok).
+HeyGen: create_video_from_image (mesmo retrato_triste ES, low, 1080p, 9:16) video ae868d27fecf118310ed589d5d1b5188, áudio da selfie a partir de 3,63 s.
+  Saldo da conta 6967 -> 6875 no período (inclui outros agentes); estimativa por duração ~20 créditos.
+Montagem: montar_completa_fr.py (cópia do ES; padre/gráficos FR de _comum; cortes do padre ancorados nas mesmas frases). Flora: US$ 0.
+QA: revisar_ad --idioma fr --idioma-residual es OK (sem termos ES), folha + zoom rosto selfie (sem deformação, expressão triste),
+  CTA único a partir de "Appuie", selo VIDÉO FICTIVE no 1º e no último quadro.

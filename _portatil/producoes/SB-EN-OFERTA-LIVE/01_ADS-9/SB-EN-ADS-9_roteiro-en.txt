@@ -1,0 +1,41 @@
+SB-EN-ADS-9 — San Benito (Saint Benedict) · Inglês (EUA / Reino Unido / Canadá / Austrália, depois worldwide)
+Origem: ADS 9 FR ("ad 9 frances pronto.mp4", 102,9 s, 720x1280) — Jesus falando para a câmera + trecho final da live com selo.
+Destino: a oração ao vivo (live prayer). Botão do Meta: LEARN_MORE ("Learn More"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), voz já existente na conta (masculina, adulta), eleven_multilingual_v2.
+
+======================================================================
+ROTEIRO FR (original, transcrição)
+======================================================================
+Mon enfant, tu m'ignores depuis bien longtemps et cela a brisé mon cœur. Je t'ai envoyé des signes dans tes rêves, dans tes intuitions et dans tes sentiments. Je t'ai aussi envoyé des messages, des opportunités et même des rencontres qui semblaient de simples coïncidences. Mais bien souvent, tu choisis de ne pas les voir. Et pourtant, je n'ai pas renoncé à toi. Aujourd'hui, je t'envoie un signe de plus à travers cette vidéo et au fond de toi, tu le sais, car avant même d'ouvrir cette vidéo, quelque chose en toi t'avertissait déjà. Mais écoute avec attention, car ceci pourrait bien être le dernier signe que tu reçois de cette manière. C'est pourquoi, avant la fin de cette vidéo, je dois te montrer quelque chose qui peut protéger ta vie spirituelle et ouvrir des chemins qui étaient bloqués. Quelque chose qui est resté caché pendant très longtemps et qui s'est transmis à travers une prière que très peu ont appris à utiliser correctement. Quelque chose que tous ne sont pas prêts à recevoir. Mais toi, tu es ici. Et cela a un dessein. Si tu es arrivé jusqu'à cet instant, c'est qu'il y a quelque chose que tu as besoin de comprendre. Et ce que tu es sur le point de voir peut changer la façon dont tout va se mettre en mouvement dans ta vie. Alors, ne te laisse pas distraire. Reste avec moi encore un instant et sois très attentif à ce que je vais te révéler maintenant. Clique sur le bouton qui se trouve juste en dessous et entre dans cette diffusion spéciale où quelque chose est révélé pour quelques-uns seulement. Ne remets pas cela à plus tard, car cette occasion ne se représentera pas de la même manière. Clique et découvre ce qui a été préparé pour toi.
+
+======================================================================
+ROTEIRO EN (narrado; tempo de início no vídeo)
+======================================================================
+  0.26s  [GANCHO] My child, you've been ignoring me for so long, and it has broken my heart.
+  4.82s  I've sent you signs, in your dreams, in your intuitions, and in your feelings.
+  9.92s  I've also sent you messages, opportunities, and even encounters that seemed like simple coincidences.
+ 16.48s  But so often, you choose not to see them.
+ 19.78s  And yet, I have not given up on you.
+ 22.88s  Today, I'm sending you one more sign, through this video. And deep down, you know it.
+ 29.32s  Because even before you opened this video, something inside you was already warning you.
+ 34.06s  But listen carefully, because this may be the last sign you receive this way.
+ 39.60s  That's why, before this video ends, I must show you something that can protect your spiritual life, and open paths that were blocked.
+ 48.30s  Something that stayed hidden for a very long time, passed down through a prayer that very few have learned to use correctly.
+ 56.12s  Something not everyone is ready to receive.
+ 59.10s  But you... you are here. And that has a purpose.
+ 63.12s  If you've made it to this moment, it's because there is something you need to understand.
+ 68.66s  And what you're about to see can change the way everything begins to move in your life.
+ 74.40s  So don't let yourself be distracted. Stay with me a moment longer, and pay close attention to what I'm about to reveal to you now.
+ 82.10s  [CTA] Tap Learn More below, and join this special live prayer, where something is revealed to only a few.
+ 89.86s  [CTA] Don't put this off, because this moment will not come again in the same way.
+ 94.76s  [CTA] Tap now, and discover what has been prepared for you.
+
+Decisões de tradução
+- Tradução natural (inglês americano neutro, contrações no tom de fala), mesmo teor do FR, sem suavizar a urgência:
+  "this may be the last sign you receive this way", "this moment will not come again in the same way".
+- "Clique sur le bouton qui se trouve juste en dessous et entre dans cette diffusion spéciale" virou
+  "Tap Learn More below, and join this special live prayer": nome do botão do Meta + o convite para a live.
+- "Clique et découvre ce qui a été préparé pour toi" virou "Tap now, and discover what has been prepared for you."
+- "à travers cette vidéo" / "avant la fin de cette vidéo" ficaram como "through this video" / "before this video ends":
+  aqui o vídeo é o próprio anúncio (o sinal), não o destino, e o CTA leva para a live.
+- O selo final "EN DIRECT" da filmagem da igreja virou "LIVE NOW" no mesmo formato.

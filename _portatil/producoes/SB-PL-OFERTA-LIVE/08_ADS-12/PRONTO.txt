@@ -1,0 +1,7 @@
+SB-PL-ADS-12 pronto (16/10/2026).
+Vídeo: SB-PL-ADS-12.mp4, 28,9 s, 720x1280, 30 fps, 12,5 MB.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2 + language_code pl, atempo 1,06. 1 geração (~US$0,08).
+HeyGen: 2 lipsync speed (A 10,0 s: 0370459faa154c7f84c7a4d7847eb339; F 5,7 s: bc74e4bc4f0c4748845472fdd8f0eae8). Pausa 0,31 / 0,25.
+revisar_ad.py (pl): OK. Revisor independente: sem defeito grave.
+Ressalvas: rastro leve da legenda ES na cruz (20,2–23,2 s, igual ao IT/EN); cena F a 0,95x; boca levemente
+entreaberta em respirações (~4,3 s, ~25,4 s, ~26,8 s), cosmético.

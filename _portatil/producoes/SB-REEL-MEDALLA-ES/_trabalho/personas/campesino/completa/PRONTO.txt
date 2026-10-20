@@ -1,0 +1,7 @@
+CAMPESINO - série COMPLETA (14/10/2026)
+Saída: ..\..\..\..\SB-ES_CAMPESINO_COMPLETA.mp4 (61,6 s, 1080x1920, 30 fps) + SB-ES_CAMPESINO_COMPLETA_narracion.txt
+Montagem: montar_completa.py (cópia adaptada de _trabalho/montar_completa2.py) + legenda_comp.py + cfg_comp.json. Padre/b-rolls/CTA idênticos ao Medalla COMPLETA.
+Voz: Salvatore (wfTWLJ20rcMqvU8gIiAB), eleven_multilingual_v2 via app/tts_ctx.py. hook 59 + selfie 223 = 282 caracteres. Reza: cortes de ../reza.mp3 (sem custo).
+Flora (projeto prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95): ver custos.txt. Total US$ 1,386 (inclui refação do gancho: o 1º enquadramento deixava o personagem embaixo do título; v1 em _v1/).
+HeyGen: vídeo 4917b44db277dd3f5cb645b72593c461 (create_video_from_image, low, 1080p), 17,76 s. Saldo da conta caiu 23 no intervalo, mas há outros agentes usando a conta ao mesmo tempo.
+QA: takes a cada 0,2 s com zoom (mãos/rosto estáveis); zoom no rosto da selfie (sem deformação; dentes aparecem só ao falar, expressão de choro); revisar_ad --idioma es OK; CTA único 55,9 s→fim; -14,5 LUFS, TP -2,1 dBFS.

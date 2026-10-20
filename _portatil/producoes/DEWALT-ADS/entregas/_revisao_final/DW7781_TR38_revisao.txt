@@ -1,0 +1,21 @@
+REVISÃO: DW7781_TR38.mp4
+duração 15.80s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 6.2 MB
+decodificação: OK
+pts do áudio: 742 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 2 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_TR38_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  7.04 Taladro de Waltz de 20V, Max sin carbones, gatillo de velocidad variable y luz led, batería
+   7.04- 14.20 de 2A hora, motor brushless, compacto y liviano, con indicador de carga, pagas cuando lo
+  14.20- 15.52 recibes.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

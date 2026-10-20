@@ -1,0 +1,33 @@
+REVISÃO: DW7781_G5_C1_sem-musica.mp4
+duração 48.57s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.0 MB
+decodificação: OK
+pts do áudio: 2276 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.67-5.43, 16.22-17.47, 20.60-21.50, 25.92-26.77, 32.11-32.85, 38.46-39.29, 47.37-48.53
+cortes de cena: 19 | pares a <0,3 s: 8.63/8.67
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G5_C1_sem-musica_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.48 dos baterías, cargador y maleta, todo incluido
+   2.48-  4.98 mira todo lo que trae este kit de world
+   4.98-  8.38 viene en su maleta dura para llevarlo a cualquier pega
+   8.38- 11.98 adentro el taladro percutor y atornillador
+  11.98- 13.98 dos baterías de 20 volts
+  13.98- 16.48 de 2 amperes hora y su cargador
+  16.48- 20.86 mandril de 13 milímetros de ajuste rápido
+  20.86- 26.16 con el anillo eliges el modo taladro para madera y metal
+  26.16- 28.66 percutor para muro y concreto
+  28.66- 35.92 y atornillador con 15 posiciones de torque, dos velocidades hasta 1750 revoluciones
+  35.92- 41.22 por minuto y luz led para ver bien donde trabajas
+  41.22- 46.10 todo esto en un solo kit pre black friday pídelo hoy y pagas recién cuando te
+  46.10- 49.38 llegue envío a todo chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 1.20s no fim (a partir de 47.37s)
+PROBLEMA: quadro solto? cortes em 8.63s e 8.67s (33 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

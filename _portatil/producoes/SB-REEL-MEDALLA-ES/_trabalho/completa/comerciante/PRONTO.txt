@@ -1,0 +1,20 @@
+SELFIE COMERCIANTE - versao completa SB Medalla (14/10/2026)
+
+Arquivos:
+- comerciante.mp3: voz, 16,27 s
+- palavras.json: 40 palavras com ini/fim em s (formato da v2: w, ini, fim, personagem, parte="selfie")
+- selfie_final.mp4: 1080x1920, 25 fps, 16,28 s, audio = comerciante.mp3 (HeyGen video 0c73f100951563a0574a1ca35c6167ff, versao v1)
+- selfie_v1.mp4 / selfie_v2.mp4: as duas geracoes (v2 = f11c3fa156220cfaee7e92f4949a085a, para comparar)
+- raw.mp3 / raw.alinhamento.json: TTS bruto; _qa/: folhas de contato e zoom na boca
+
+Voz: Santiago VXZKNah1ssrzM8c81OiY, eleven_multilingual_v2, gerada inteira de novo com previous_text (tom triste/contido) via tts_ctx.py.
+  A v2 antiga dizia "Yo pase..." e nao batia com o texto exato, entao nao foi reaproveitada. A maior pausa era de 0,36 s e ficou com ~0,3 s (diferenca minima).
+
+Avatar: HeyGen create_video_from_image, 9:16, 1080p, expressiveness=low + motionPrompt "serio/triste, sem sorrir".
+Creditos HeyGen: 7195 -> 7171 = 24 lidos ao terminar. A cobranca da v2 pode aparecer ate ~1 h depois; o esperado e ~36 no total (~18 por video). Teto: 40.
+
+Observacoes:
+- Na maior parte do video a expressao e de choro contido (sobrancelhas tristes, olhos marejados), e a boca acompanha a fala sem deformacao.
+- Em 0-2,5 s ("Pase casi seis meses sin clientes") a boca abre larga e mostra dentes, o que pode ser lido como sorriso. Isso vem da imagem de origem (leve sorriso).
+  A refacao com prompt mais forte (v2) saiu igual e sorriu mais no fim, entao a v1 foi mantida.
+  Para resolver de vez: gerar um retrato novo com a boca fechada e os cantos para baixo, ou cobrir 0-2,5 s com b-roll/legenda grande na montagem.

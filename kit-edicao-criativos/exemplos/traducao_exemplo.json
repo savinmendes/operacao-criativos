@@ -1,0 +1,24 @@
+{
+ "_doc": "preparar_corpo_traducao.py: corpo de um criativo traduzido (vídeo em outro idioma + narração nova). Tempos em s, coordenadas em px da saída (720x1280). Caminhos relativos a esta pasta.",
+ "video": "originais/02.mp4",
+ "resolucao": "720",
+ "cortes": [[0.0, 30.0], [32.8, 52.0]],
+ "fundo": "sep/htdemucs/orig_02/no_vocals.wav",
+ "fundo_vol": 0.5,
+ "narr": "ad02/narr.mp3",
+ "offsets": [0.1, 2.3, 6.2, 8.9, 11.7, 14.1, 17.0, 18.65],
+ "_narr_alternativas": {"inteira": {"narr_inicio": 0.3, "atempo": 1.0}, "blocos": [[0, 0.2], [135, 9.1], [190, 13.8]]},
+ "trocas": [["Uais", "Wyze"]],
+ "faixas": [{"y": [925, 1062], "grad": 18}],
+ "caixas": [{"rect": [530, 446, 716, 482], "cor": [0, 0, 0], "raio": 10, "de": 17.35, "ate": 18.65}],
+ "titulos": [{"linhas": ["Wyze Solar Cam Pan", "Guía de instalación"], "px": 42, "cy": 262, "cobrir_w": 690, "cobrir_h": 228, "de": 0, "ate": 2.02}],
+ "aviso": {"linhas": ["Solo con fines demostrativos."], "topo": 1200, "px": 19},
+ "desfocar": [
+  {"de": 17.35, "ate": 18.65, "tipo": "blur", "forca": 41, "forma": "caixa",
+   "chaves": [[17.35, 140, 110, 410, 440], [18.65, 150, 120, 420, 450]]},
+  {"de": 17.8, "ate": 21.97, "tipo": "blur", "forca": 61, "forma": "elipse",
+   "chaves": [[17.8, 250, 50, 440, 240], [18.3, 290, 100, 480, 290], [21.97, 273, 182, 463, 372]]}
+ ],
+ "fim": {"folga": 0.4, "max_total": null},
+ "saida": "ad02/corpo.mp4"
+}

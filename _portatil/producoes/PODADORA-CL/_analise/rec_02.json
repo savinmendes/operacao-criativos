@@ -1,0 +1,26 @@
+{
+ "id": "02",
+ "video": "original_02.mp4",
+ "fundo": "orig_02",
+ "narr": "narr_A2.mp3",
+ "narr_inicio": 12.2,
+ "atempo": 1.0,
+ "aviso": [
+  "Solo con fines demostrativos. Algunas escenas están aceleradas.",
+  "El rendimiento real puede variar según el tipo y grosor del pasto,",
+  "el nivel de batería y las condiciones de uso."
+ ],
+ "faixa_topo": 1178,
+ "gancho": {
+  "linhas": [
+   "Un hueso…",
+   "y mi perro se cambió de equipo 💀"
+  ],
+  "px": 33,
+  "cy": 778,
+  "cobrir_w": 524,
+  "cobrir_h": 118,
+  "de": 0,
+  "ate": 2.75
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "arquivo": "VAR 23 - G3-EXESPOSO-FILA x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 311.13,
+ "mb": 39.0,
+ "whisper_gancho": "Mi exesposo estaba detrás de mí en la fila, con su novia del brazo. 10 minutos ahí y nunca me reconoció. Esto fue lo que pasó.",
+ "whisper_emenda": "reconoció. Esto fue lo que pasó. Llegué a casa, me miré en el espejo y por fin entendí por qué durante nuestro complicado",
+ "cobertura_gancho": 0.96,
+ "cortes": [
+  1.666667,
+  3.6,
+  5.5,
+  7.2,
+  8.166667,
+  8.966667,
+  11.333333
+ ],
+ "cortes_plan": [
+  1.667,
+  3.6,
+  5.5,
+  7.2,
+  8.167,
+  8.967
+ ],
+ "silencios": [],
+ "ok": true
+}

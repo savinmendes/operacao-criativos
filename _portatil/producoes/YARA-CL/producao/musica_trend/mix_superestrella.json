@@ -1,0 +1,9 @@
+{
+ "nome": "superestrella",
+ "inst": "sep/htdemucs/superestrella/no_vocals.wav",
+ "inicio_s": 54.599,
+ "ganho_musica_db": -2.6,
+ "musica_sob_voz_lufs": -24.0,
+ "final_lufs": -14.5,
+ "pico_dbfs": -1.3
+}

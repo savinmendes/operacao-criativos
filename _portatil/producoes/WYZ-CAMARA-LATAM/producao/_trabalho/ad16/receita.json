@@ -1,0 +1,31 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 16 - WYZE-SOLAR-CAM-PAN-BENEFICIOS-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad16\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad16\\narr.alinhamento.json",
+  "chaves": [
+   "wyze",
+   "solar",
+   "360",
+   "setenta",
+   "cargarla",
+   "sol",
+   "patio",
+   "personas",
+   "celular",
+   "color",
+   "reflector",
+   "bidireccional",
+   "sirena",
+   "2K",
+   "suscripción",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

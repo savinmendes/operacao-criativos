@@ -1,0 +1,85 @@
+{
+ "url": "https://www.ulta.com/shop/fragrance/womens-fragrance/perfume",
+ "status": "ok (headless); substitui a Douglas (bloqueada). Popup de Rewards não fechou (cobre parte do topo)",
+ "primeiro_card": {
+  "y_px": 890,
+  "pct_viewport": 105,
+  "obs": "abaixo da dobra: carrossel de produtos antes dos filtros"
+ },
+ "primeira_imagem": {
+  "y_px": 922,
+  "w": 153,
+  "h": 153,
+  "aspecto": 1.0,
+  "obs": "imagem sobre caixa bege com padding 8"
+ },
+ "titulo": {
+  "h1": "Perfume",
+  "fonte": "Circular",
+  "size": "20px",
+  "weight": 500,
+  "y": 177,
+  "descricao": "nenhuma visível",
+  "banner": "nenhum"
+ },
+ "header": {
+  "altura_px": 89,
+  "inclui": "faixa de aviso + logo/busca/conta/sacola"
+ },
+ "chips": {
+  "linha_horizontal": true,
+  "botoes": "'Show filters (0)' e 'In Store', pílulas 32px",
+  "chips": "Eau De Parfum / Sweet / Floral... 32px, 14px/300, radius 100px"
+ },
+ "filtro_ordenar": {
+  "sticky": false,
+  "detalhe": "só a navegação do topo (64px) fica fixa"
+ },
+ "contagem": {
+  "texto": "1200+ results",
+  "posicao": "abaixo dos chips, como título de seção (visto no screenshot; tamanho não medido)"
+ },
+ "card": {
+  "badges": "'New' 12px/700 no canto da caixa da imagem; '5 sizes' 12px cinza dentro da caixa",
+  "marca": {
+   "size": "12px",
+   "weight": 700,
+   "cor": "#000",
+   "uppercase": false
+  },
+  "nome": {
+   "size": "14px",
+   "weight": 300,
+   "linhas": "até 3 (48px)"
+  },
+  "rating": "estrelas + '4.7 (1242)' 12px",
+  "preco": {
+   "size": "16px",
+   "weight": 300,
+   "cor": "#000",
+   "obs": "faixa '$40.00 - $234.00'"
+  },
+  "promo": "'Free Gift with purchase' 12px/700 #CC0058",
+  "cta": {
+   "texto": "Add to bag",
+   "altura": 32,
+   "largura": 107,
+   "font": "14px/500",
+   "bg": "#000",
+   "radius": "100px",
+   "largura_total": false,
+   "obs": "medido no carrossel; no grid o componente é visualmente o mesmo"
+  }
+ },
+ "grid": {
+  "colunas": 2,
+  "gap_coluna": 18,
+  "padding_lateral": 17,
+  "gap_linha": "não confiável (cards de alturas diferentes)"
+ },
+ "fontes": {
+  "body": "Circular Std",
+  "titulos": "Circular"
+ },
+ "seo": "não medido/visível"
+}

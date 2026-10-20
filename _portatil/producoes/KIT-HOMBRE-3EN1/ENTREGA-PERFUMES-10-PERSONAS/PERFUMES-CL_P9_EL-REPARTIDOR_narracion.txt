@@ -1,0 +1,26 @@
+PERFUMES ÁRABES · KIT HOMBRE 3 EN 1 · COD CHILE · Producción 9 «El Repartidor Soltero» (35 s, 720x1280)
+
+ROTEIRO
+GANCHO     (hall del edificio) La clienta recibe el pedido, lo agarra de la chaqueta y lo huele. Ella: «Espera… ¿qué te echaste?»   [pantalla: 5 ESTRELLAS SIN PROBAR LA COMIDA 🌟]
+REPARTIDOR (selfie en la calle, con la mochila) «Soy repartidor, soltero… bueno, era soltero.»
+OFERTA     (close en los 3 frascos) «Tres perfumes árabes al precio de uno.»
+DÍA        (en la calle ella lo para y guarda su WhatsApp + Armaf) «En el día, Armaf Club. Fresco, masculino y poderoso. Ya ni reparto pedidos… reparto mi WhatsApp.»
+NOCHE      (Asad + en el bar la misma chica lo huele + se van de la mano) «En la noche, Lattafa Asad. Intenso y seductor. Y así fue como conseguí polola.»
+FINDE      (foto con la polola nueva en el Cerro San Cristóbal + 9PM) «Y el fin de semana, Afnan 9PM. Elegante y moderno.»
+CTA        (el pack saliendo de la mochila térmica) «Los tres te llegan a la casa, y pagas cuando los recibes. ¡Pídelo ahora!» + flechas
+
+Voz del Repartidor: «Aiden» (6xnxeygeMfFgAqKpWy1A) — selfie por speech-to-speech, resto TTS (speed 1.15).
+Voz femenina: nativa del Seedance 2. Música: ElevenLabs Music (cumbia-pop instrumental propia).
+
+TEXTO DEL ANUNCIO (ES-CL, sin precio)
+Título: Era soltero… hasta que usé esto 😏
+Texto principal:
+Repartía pedidos… ahora reparto mi WhatsApp 📲😎
+3 perfumes árabes en un solo pack:
+🖤 Armaf Club de Nuit: fresco, masculino y poderoso (para el día)
+🔥 Lattafa Asad: intenso y seductor (para la noche)
+✨ Afnan 9PM: elegante y moderno (para el finde)
+📦 Envío en 24 horas
+💳 Pagas cuando lo recibes
+👉 Pídelo ahora
+Botón: Comprar

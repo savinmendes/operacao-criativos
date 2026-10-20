@@ -1,0 +1,51 @@
+{
+ "ad": "45",
+ "idioma": "pt",
+ "origem": {
+  "perfil": "@rialacentro (TikTok)",
+  "de_quem": "loja (Riala Máquinas e Ferramentas, Campos dos Goytacazes-RJ)",
+  "url": "https://www.tiktok.com/@rialacentro/video/7629083384270163220"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 15.8,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano-sequência único, câmera de mão girando em volta da caixa"
+ },
+ "formato": "slideshow/plano único da caixa na loja com texto fixo (oferta de loja)",
+ "gancho": {
+  "visual_0_3s": "caixa DeWalt DCD7781D2 com efeito de raios/fogo vermelho nos primeiros quadros",
+  "texto_0_3s": "FURADEIRA PARAFUSADEIRA DEWALT 20V / 340W COM 2 BATERIAS. + selo de localização 'Riala Máquinas e Ferram...'",
+  "fala_0_3s": "Furadeira para Fuzadeira deu out 20V com duas baterias, 340A, você vai encontrar na Riala"
+ },
+ "corpo": [
+  {
+   "t": "0-15.8",
+   "o_que": "câmera passeia pela caixa fechada (lados, foto da ferramenta, 'Solidez garantizada', 20V), texto fixo no topo"
+  }
+ ],
+ "cta": "nenhum na tela (contato só no texto do post)",
+ "texto_na_tela": "título fixo branco com contorno no topo + selo de localização do TikTok + @rialacentro",
+ "produto": {
+  "modelo": "DCD7781D2 (lido na caixa)",
+  "eh_nosso": "não (versão impacto DCD7781); só a caixa aparece"
+ },
+ "rosto": {
+  "tem": false,
+  "tempo_s": 0
+ },
+ "marca_dagua": "selo de localização TikTok 'Riala Máquinas e Ferram...' e @RIALACENTRO",
+ "audio": "narração pt-BR com endereço da loja ('você vai encontrar na Riala...')",
+ "uso": [
+  "descartar"
+ ],
+ "uso_detalhe": "só mostra a caixa fechada de outro modelo, com texto e @ queimados por todo o vídeo; nenhuma demonstração.",
+ "nota": 0,
+ "nota_justificativa": "sem gancho, sem demonstração, produto diferente e marca d'água da loja em todos os quadros.",
+ "transcricao": [
+  "0.2-7.6: Furadeira para Fuzadeira deu out 20V com duas baterias, 340A, você vai encontrar na Riala",
+  "7.6-13.6: Centro de Campos Avenida Rui Barbosa 1035, venha a conhecer nossa loja, já segue, compartilha",
+  "13.6-15.5: nossa página de GTOC e boas compras."
+ ]
+}

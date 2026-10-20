@@ -1,0 +1,15 @@
+REVISÃO: DW7781_G4_C1.mp4
+duração 48.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.1 MB
+decodificação: OK
+pts do áudio: 2261 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 23 | pares a <0,3 s: 0.80/0.83, 1.23/1.40, 1.40/1.57
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\sw\DW7781_G4_C1_revisao.jpg
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 0.80s e 0.83s (33 ms)
+PROBLEMA: quadro solto? cortes em 1.23s e 1.40s (167 ms)
+PROBLEMA: quadro solto? cortes em 1.40s e 1.57s (167 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+3 problema(s)

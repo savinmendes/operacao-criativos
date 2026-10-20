@@ -1,0 +1,1686 @@
+{
+ "total": 160.8667,
+ "cta_t": 155.9,
+ "itens": [
+  {
+   "id": "abertura0",
+   "bloco": "B01",
+   "blocos": [
+    "B01",
+    "B02",
+    "B03"
+   ],
+   "ag": "abertura",
+   "tipo": "take",
+   "T0": 0.0,
+   "V0": 0.0,
+   "V1": 9.08,
+   "uso": [
+    0.0,
+    9.08
+   ],
+   "texto": "B01 MUJER: Gente, después dicen que Dios no existe. | B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora! | B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\abertura\\react_reporter_B.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\abertura\\react_reporter_B.mp4"
+  },
+  {
+   "id": "abertura2",
+   "bloco": "B04",
+   "blocos": [
+    "B04"
+   ],
+   "ag": "abertura",
+   "tipo": "mudo",
+   "T0": 9.08,
+   "V0": 9.08,
+   "V1": 12.08,
+   "uso": [
+    0.0,
+    3.0
+   ],
+   "texto": "(sem fala) carrinho vazio, Aurelio sozinho de cabeça baixa",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\b04_vazio.mp4",
+   "audio": null
+  },
+  {
+   "id": "abertura3",
+   "bloco": "B05",
+   "blocos": [
+    "B05"
+   ],
+   "ag": "abertura",
+   "tipo": "mudo",
+   "T0": 12.08,
+   "V0": 12.08,
+   "V1": 15.08,
+   "uso": [
+    0.0,
+    3.0
+   ],
+   "texto": "(sem fala) clientes no carrinho, Aurelio servindo",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\b05_cinco.mp4",
+   "audio": null
+  },
+  {
+   "id": "abertura4",
+   "bloco": "B06",
+   "blocos": [
+    "B06"
+   ],
+   "ag": "abertura",
+   "tipo": "mudo",
+   "T0": 15.08,
+   "V0": 15.08,
+   "V1": 18.08,
+   "uso": [
+    0.0,
+    3.0
+   ],
+   "texto": "(sem fala) fila muito cheia no carrinho",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura\\b06_fila.mp4",
+   "audio": null
+  },
+  {
+   "id": "R01",
+   "bloco": "R01",
+   "blocos": [
+    "R01"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 18.08,
+   "V0": 18.08,
+   "V1": 26.764,
+   "uso": [
+    0.0,
+    8.643999999999998
+   ],
+   "texto": "Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R01_reportera.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R01_reportera.mp4"
+  },
+  {
+   "id": "A01a",
+   "bloco": "A01",
+   "blocos": [
+    "A01"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 26.764,
+   "V0": 26.764,
+   "V1": 27.244,
+   "uso": [
+    0.0,
+    0.48
+   ],
+   "texto": "Sí, eso me pasó a mí.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4"
+  },
+  {
+   "id": "A01b",
+   "bloco": "A01",
+   "blocos": [
+    "A01"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 27.244,
+   "V0": 27.244,
+   "V1": 28.965,
+   "uso": [
+    0.68,
+    2.401
+   ],
+   "texto": "Sí, eso me pasó a mí.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4"
+  },
+  {
+   "id": "AV01",
+   "bloco": "AV01",
+   "blocos": [
+    "AV01"
+   ],
+   "ag": "entrevista",
+   "tipo": "voz",
+   "T0": 29.265,
+   "V0": 28.965,
+   "V1": 37.715,
+   "uso": [
+    0.0,
+    8.3
+   ],
+   "texto": "Y no era la primera vez… yo pensaba que era mala suerte; todas las puertas se me cerraban.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\vo_AV01.wav"
+  },
+  {
+   "id": "A01B_tts",
+   "bloco": "A01B",
+   "blocos": [
+    "A01B"
+   ],
+   "ag": "entrevista",
+   "tipo": "voz",
+   "T0": 37.865,
+   "V0": 37.715,
+   "V1": 46.808,
+   "uso": [
+    0.0,
+    8.643
+   ],
+   "texto": "Pero yo había aprendido la Oración de San Benito completa y decidí hacerla después de aquella situación.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\voz\\A01B.wav"
+  },
+  {
+   "id": "A02a",
+   "bloco": "A02",
+   "blocos": [
+    "A02"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 46.808,
+   "V0": 46.808,
+   "V1": 51.098,
+   "uso": [
+    0.0,
+    4.29
+   ],
+   "texto": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4"
+  },
+  {
+   "id": "A02b",
+   "bloco": "A02",
+   "blocos": [
+    "A02"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 51.098,
+   "V0": 51.098,
+   "V1": 53.128,
+   "uso": [
+    4.41,
+    6.44
+   ],
+   "texto": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4"
+  },
+  {
+   "id": "A03",
+   "bloco": "A03",
+   "blocos": [
+    "A03"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 53.128,
+   "V0": 53.128,
+   "V1": 61.196,
+   "uso": [
+    0.0,
+    8.028
+   ],
+   "texto": "¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A03_aurelio.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A03_aurelio.mp4"
+  },
+  {
+   "id": "R02",
+   "bloco": "R02",
+   "blocos": [
+    "R02"
+   ],
+   "ag": "entrevista",
+   "tipo": "take",
+   "T0": 61.196,
+   "V0": 61.196,
+   "V1": 61.876,
+   "uso": [
+    0.0,
+    0.8
+   ],
+   "texto": "¡Claro!",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R02_reportera_claro.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R02_reportera_claro.mp4"
+  },
+  {
+   "id": "PB01",
+   "bloco": "PB01",
+   "blocos": [
+    "PB01"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 61.876,
+   "V0": 61.876,
+   "V1": 66.827,
+   "uso": [
+    0.0,
+    4.9110000000000005
+   ],
+   "texto": "No es mala suerte. Cuando los caminos se cierran así, hay algo espiritual detrás.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_PB01.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_PB01.mp4"
+  },
+  {
+   "id": "P01",
+   "bloco": "P01",
+   "blocos": [
+    "P01"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 66.867,
+   "V0": 66.827,
+   "V1": 70.662,
+   "uso": [
+    0.058,
+    3.813
+   ],
+   "texto": "Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P01.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P01.mp4"
+  },
+  {
+   "id": "V01",
+   "bloco": "V01",
+   "blocos": [
+    "V01"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 70.842,
+   "V0": 70.662,
+   "V1": 75.154,
+   "uso": [
+    0.0,
+    4.132000000000001
+   ],
+   "texto": "No quieren que tengas acceso a esto, porque es una oración muy poderosa.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V01.wav"
+  },
+  {
+   "id": "P02",
+   "bloco": "P02",
+   "blocos": [
+    "P02"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 75.194,
+   "V0": 75.154,
+   "V1": 76.202,
+   "uso": [
+    0.07,
+    1.038
+   ],
+   "texto": "Repitan conmigo.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P02.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P02.mp4"
+  },
+  {
+   "id": "REZA",
+   "bloco": "O01",
+   "blocos": [
+    "O01"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 76.512,
+   "V0": 76.202,
+   "V1": 101.712,
+   "uso": [
+    0.0,
+    24.680000000000007
+   ],
+   "texto": "",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\mont\\REZA.wav"
+  },
+  {
+   "id": "P03B",
+   "bloco": "P03B",
+   "blocos": [
+    "P03B"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 101.592,
+   "V0": 101.712,
+   "V1": 105.271,
+   "uso": [
+    0.0,
+    3.6390000000000002
+   ],
+   "texto": "Esta es la poderosísima oración de las doce palabras de San Benito.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P03B.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P03B.mp4"
+  },
+  {
+   "id": "V02",
+   "bloco": "V02",
+   "blocos": [
+    "V02"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 105.451,
+   "V0": 105.271,
+   "V1": 108.544,
+   "uso": [
+    0.0,
+    2.983
+   ],
+   "texto": "Están surgiendo relatos de bendiciones todos los días.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V02.wav"
+  },
+  {
+   "id": "V03",
+   "bloco": "V03",
+   "blocos": [
+    "V03"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 108.654,
+   "V0": 108.544,
+   "V1": 115.578,
+   "uso": [
+    0.0,
+    6.814
+   ],
+   "texto": "Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V03.wav"
+  },
+  {
+   "id": "V04",
+   "bloco": "V04",
+   "blocos": [
+    "V04"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 115.688,
+   "V0": 115.578,
+   "V1": 124.365,
+   "uso": [
+    0.0,
+    8.567
+   ],
+   "texto": "Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V04.wav"
+  },
+  {
+   "id": "V05",
+   "bloco": "V05",
+   "blocos": [
+    "V05"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 124.475,
+   "V0": 124.365,
+   "V1": 133.036,
+   "uso": [
+    0.0,
+    8.381
+   ],
+   "texto": "La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V05.wav"
+  },
+  {
+   "id": "P04B",
+   "bloco": "P04B",
+   "blocos": [
+    "P04B"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 133.076,
+   "V0": 133.036,
+   "V1": 137.887,
+   "uso": [
+    0.058,
+    4.829
+   ],
+   "texto": "Pero atención: tiene que hacerse de la forma correcta, porque no es una oración común.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P04B.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P04B.mp4"
+  },
+  {
+   "id": "V06",
+   "bloco": "V06",
+   "blocos": [
+    "V06"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 138.067,
+   "V0": 137.887,
+   "V1": 142.402,
+   "uso": [
+    0.0,
+    4.2250000000000005
+   ],
+   "texto": "Tiene instrucciones y una manera correcta de hacerla y de escucharla.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V06.wav"
+  },
+  {
+   "id": "V08",
+   "bloco": "V08",
+   "blocos": [
+    "V08"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 142.512,
+   "V0": 142.402,
+   "V1": 146.023,
+   "uso": [
+    0.0,
+    3.331
+   ],
+   "texto": "A partir de hoy le darás la bienvenida a una vida próspera.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V08.wav"
+  },
+  {
+   "id": "P05B",
+   "bloco": "P05B",
+   "blocos": [
+    "P05B"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 146.063,
+   "V0": 146.023,
+   "V1": 152.418,
+   "uso": [
+    0.07,
+    6.385
+   ],
+   "texto": "Por eso grabé un video donde enseño la Oración de San Benito completa, paso a paso, de la forma correcta,",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P05B.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P05B.mp4"
+  },
+  {
+   "id": "V07",
+   "bloco": "V07",
+   "blocos": [
+    "V07"
+   ],
+   "ag": "padre",
+   "tipo": "voz",
+   "T0": 152.598,
+   "V0": 152.418,
+   "V1": 155.886,
+   "uso": [
+    0.0,
+    2.948
+   ],
+   "texto": "pero no sé por cuánto tiempo va a estar disponible.",
+   "video": null,
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\vo_V07.wav"
+  },
+  {
+   "id": "P07B",
+   "bloco": "P07B",
+   "blocos": [
+    "P07B"
+   ],
+   "ag": "padre",
+   "tipo": "take",
+   "T0": 155.766,
+   "V0": 155.886,
+   "V1": 160.8667,
+   "uso": [
+    0.0,
+    5.05
+   ],
+   "texto": "Toca el botón Ver más, aquí abajo, y mírala ahora, mientras todavía está disponible.",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P07B.mp4",
+   "audio": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P07B.mp4"
+  }
+ ],
+ "planos": [
+  {
+   "t0": 0.0,
+   "t1": 9.08,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\abertura\\react_reporter_B.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "B01",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 0,
+   "n": 272
+  },
+  {
+   "t0": 9.08,
+   "t1": 12.08,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\b04_vazio.mp4",
+   "vt": 0.0,
+   "item": "B04",
+   "post": true,
+   "crop_post": false,
+   "broll": null,
+   "q0": 272,
+   "n": 90
+  },
+  {
+   "t0": 12.08,
+   "t1": 15.08,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\b05_cinco.mp4",
+   "vt": 0.0,
+   "item": "B05",
+   "post": true,
+   "crop_post": false,
+   "broll": null,
+   "q0": 362,
+   "n": 90
+  },
+  {
+   "t0": 15.08,
+   "t1": 18.08,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura\\b06_fila.mp4",
+   "vt": 0.0,
+   "item": "B06",
+   "post": true,
+   "crop_post": false,
+   "broll": null,
+   "q0": 452,
+   "n": 90
+  },
+  {
+   "t0": 18.08,
+   "t1": 20.982,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R01_reportera.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "R01",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 542,
+   "n": 87
+  },
+  {
+   "t0": 20.982,
+   "t1": 21.848,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\takes\\seedance_violenta.mp4",
+   "vt": 9.2,
+   "vel": 0.9699769053117786,
+   "broll": "briga_cauda_R01",
+   "item": "R01-cobre",
+   "post": true,
+   "q0": 629,
+   "n": 26
+  },
+  {
+   "t0": 21.848,
+   "t1": 26.764,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R01_reportera.mp4",
+   "vt": 3.7680000000000007,
+   "zoom": 1.0,
+   "item": "R01",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 655,
+   "n": 148
+  },
+  {
+   "t0": 26.764,
+   "t1": 27.244,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "A01",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 803,
+   "n": 14
+  },
+  {
+   "t0": 27.244,
+   "t1": 28.965,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A01_aurelio.mp4",
+   "vt": 0.68,
+   "zoom": 1.12,
+   "item": "A01",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 817,
+   "n": 52
+  },
+  {
+   "t0": 28.965,
+   "t1": 31.728,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s15_calendario_7_dias.mp4",
+   "vt": 0.0,
+   "vel": 0.9048136083966697,
+   "broll": "s15_calendario_7_dias",
+   "item": "AV01",
+   "post": true,
+   "q0": 869,
+   "n": 83
+  },
+  {
+   "t0": 31.728,
+   "t1": 33.752,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\broll\\n01_aurelio_cierra_carrito.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "n01_aurelio_cierra_carrito",
+   "item": "AV01",
+   "post": true,
+   "q0": 952,
+   "n": 61
+  },
+  {
+   "t0": 33.752,
+   "t1": 37.715,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\broll_B\\n06_persianas_cerradas.mp4",
+   "vt": 0.0,
+   "vel": 0.9084027252081754,
+   "broll": "n06_persianas_cerradas",
+   "item": "AV01",
+   "post": true,
+   "q0": 1013,
+   "n": 118
+  },
+  {
+   "t0": 37.715,
+   "t1": 42.679,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\broll_B\\n03_biblia_manos_840.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "n03_biblia_manos_840",
+   "item": "A01B",
+   "post": true,
+   "q0": 1131,
+   "n": 149
+  },
+  {
+   "t0": 42.679,
+   "t1": 44.204,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k13_vela_encendiendo.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k13_vela_encendiendo",
+   "item": "A01B",
+   "post": true,
+   "q0": 1280,
+   "n": 46
+  },
+  {
+   "t0": 44.204,
+   "t1": 46.808,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s24_hombre_rezando_vela.mp4",
+   "vt": 0.0,
+   "vel": 0.960061443932412,
+   "broll": "s24_hombre_rezando_vela",
+   "item": "A01B",
+   "post": true,
+   "q0": 1326,
+   "n": 78
+  },
+  {
+   "t0": 46.808,
+   "t1": 48.137,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s18_hombre_cerro_amanecer.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "s18_hombre_cerro_amanecer",
+   "item": "A02-cobre",
+   "post": true,
+   "q0": 1404,
+   "n": 40
+  },
+  {
+   "t0": 48.137,
+   "t1": 51.098,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4",
+   "vt": 1.3290000000000006,
+   "zoom": 1.0,
+   "item": "A02",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 1444,
+   "n": 89
+  },
+  {
+   "t0": 51.098,
+   "t1": 53.128,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A02_aurelio.mp4",
+   "vt": 4.41,
+   "zoom": 1.12,
+   "item": "A02",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 1533,
+   "n": 61
+  },
+  {
+   "t0": 53.128,
+   "t1": 61.196,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_A03_aurelio.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "A03",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "q0": 1594,
+   "n": 242
+  },
+  {
+   "t0": 61.196,
+   "t1": 61.995999999999995,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\entrevista\\take_R02_reportera_claro.mp4",
+   "vt": 0.0,
+   "zoom": 1.0,
+   "item": "R02",
+   "post": true,
+   "live": false,
+   "full": false,
+   "broll": null,
+   "congela": true,
+   "q0": 1836,
+   "n": 24
+  },
+  {
+   "t0": 61.995999999999995,
+   "t1": 62.916,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_PB01.mp4",
+   "vt": 0.11999999999999744,
+   "zoom": 1.0,
+   "item": "PB01",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 1860,
+   "n": 27
+  },
+  {
+   "t0": 62.916,
+   "t1": 65.29599999999999,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\broll\\n05_pareja_rezando_mesa.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "n05_pareja_rezando_mesa",
+   "item": "PB01-cobre",
+   "post": false,
+   "q0": 1887,
+   "n": 72
+  },
+  {
+   "t0": 65.29599999999999,
+   "t1": 67.009,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_PB01.mp4",
+   "vt": 3.4199999999999946,
+   "zoom": 1.12,
+   "item": "PB01",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "congela": true,
+   "q0": 1959,
+   "n": 51
+  },
+  {
+   "t0": 67.009,
+   "t1": 70.662,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P01.mp4",
+   "vt": 0.1999999999999959,
+   "zoom": 1.0,
+   "item": "P01",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 2010,
+   "n": 110
+  },
+  {
+   "t0": 70.662,
+   "t1": 71.852,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e01_teclado.mp4",
+   "vt": 0.0,
+   "vel": 0.8680672268907579,
+   "broll": "e01_teclado",
+   "item": "V01",
+   "post": false,
+   "congela": false,
+   "q0": 2120,
+   "n": 36
+  },
+  {
+   "t0": 71.852,
+   "t1": 72.887,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k01_cofre.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k01_cofre",
+   "item": "V01",
+   "post": false,
+   "congela": false,
+   "q0": 2156,
+   "n": 31
+  },
+  {
+   "t0": 72.887,
+   "t1": 75.154,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s17_vitral_luz.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "s17_vitral_luz",
+   "item": "V01",
+   "post": false,
+   "congela": false,
+   "q0": 2187,
+   "n": 70
+  },
+  {
+   "t0": 75.244,
+   "t1": 76.202,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\padre\\take_P02.mp4",
+   "vt": 0.11999999999999716,
+   "zoom": 1.12,
+   "item": "P02",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 2257,
+   "n": 29
+  },
+  {
+   "t0": 76.202,
+   "t1": 78.646,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k02_sb_rostro.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k02_sb_rostro",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2286,
+   "n": 73
+  },
+  {
+   "t0": 78.646,
+   "t1": 79.58,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e02_sb_de_pie.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e02_sb_de_pie",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2359,
+   "n": 28
+  },
+  {
+   "t0": 79.58,
+   "t1": 81.235,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k04_altar_incienso.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k04_altar_incienso",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2387,
+   "n": 50
+  },
+  {
+   "t0": 81.235,
+   "t1": 83.102,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k03_serpiente.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k03_serpiente",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2437,
+   "n": 56
+  },
+  {
+   "t0": 83.102,
+   "t1": 84.404,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e08_cruz_agua.mp4",
+   "vt": 0.0,
+   "vel": 0.8448540706605272,
+   "broll": "e08_cruz_agua",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2493,
+   "n": 39
+  },
+  {
+   "t0": 84.404,
+   "t1": 87.236,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k14_amanecer_valle.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k14_amanecer_valle(no lugar do e04)",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2532,
+   "n": 85
+  },
+  {
+   "t0": 87.236,
+   "t1": 88.642,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e10_hombre_rezando.mp4",
+   "vt": 0.0,
+   "vel": 0.9957325746799489,
+   "broll": "e10_hombre_rezando",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2617,
+   "n": 42
+  },
+  {
+   "t0": 88.642,
+   "t1": 91.322,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s22_mujer_arrodillada_iglesia.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "s22_mujer_arrodillada_iglesia",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2659,
+   "n": 81
+  },
+  {
+   "t0": 91.322,
+   "t1": 92.714,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e05_mujer_rezando.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e05_mujer_rezando",
+   "item": "O01",
+   "post": false,
+   "congela": false,
+   "q0": 2740,
+   "n": 41
+  },
+  {
+   "t0": 92.714,
+   "t1": 101.712,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\final_B\\e19fix\\e19_cuadro_12_palabras_fix.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e19_cuadro_12_palabras",
+   "item": "O01",
+   "post": false,
+   "congela": true,
+   "q0": 2781,
+   "n": 270
+  },
+  {
+   "t0": 101.712,
+   "t1": 105.271,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P03B.mp4",
+   "vt": 0.12000000000000455,
+   "zoom": 1.0,
+   "item": "P03B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 3051,
+   "n": 107
+  },
+  {
+   "t0": 105.271,
+   "t1": 107.379,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e16_print_geralda.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e16_print_geralda",
+   "item": "V02",
+   "post": false,
+   "congela": false,
+   "q0": 3158,
+   "n": 63
+  },
+  {
+   "t0": 107.379,
+   "t1": 108.544,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e11_nino_playa.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e11_nino_playa",
+   "item": "V02",
+   "post": false,
+   "congela": false,
+   "q0": 3221,
+   "n": 35
+  },
+  {
+   "t0": 108.544,
+   "t1": 110.761,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e03_sb_escribiendo.mp4",
+   "vt": 0.03333333333333333,
+   "vel": 0.8870846489249742,
+   "broll": "e03_sb_escribiendo",
+   "item": "V03",
+   "post": false,
+   "congela": false,
+   "q0": 3256,
+   "n": 67
+  },
+  {
+   "t0": 110.761,
+   "t1": 112.862,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e07_pergamino.mp4",
+   "vt": 0.3,
+   "vel": 1.0,
+   "broll": "e07_pergamino",
+   "item": "V03",
+   "post": false,
+   "congela": false,
+   "q0": 3323,
+   "n": 63
+  },
+  {
+   "t0": 112.862,
+   "t1": 115.578,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k05_biblioteca_secreta.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k05_biblioteca_secreta",
+   "item": "V03",
+   "post": false,
+   "congela": false,
+   "q0": 3386,
+   "n": 81
+  },
+  {
+   "t0": 115.578,
+   "t1": 119.451,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k06_monjes_claustro.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k06_monjes_claustro",
+   "item": "V04",
+   "post": false,
+   "congela": false,
+   "q0": 3467,
+   "n": 117
+  },
+  {
+   "t0": 119.451,
+   "t1": 120.797,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e09_montanas_niebla.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e09_montanas_niebla",
+   "item": "V04",
+   "post": false,
+   "congela": false,
+   "q0": 3584,
+   "n": 40
+  },
+  {
+   "t0": 120.797,
+   "t1": 122.149,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k07_abadia_italia.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k07_abadia_italia",
+   "item": "V04",
+   "post": false,
+   "congela": false,
+   "q0": 3624,
+   "n": 40
+  },
+  {
+   "t0": 122.149,
+   "t1": 124.365,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e13_mujer_negra_rezando.mp4",
+   "vt": 0.0,
+   "vel": 0.9760830324909775,
+   "broll": "e13_mujer_negra_rezando",
+   "item": "V04",
+   "post": false,
+   "congela": false,
+   "q0": 3664,
+   "n": 67
+  },
+  {
+   "t0": 124.365,
+   "t1": 126.367,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e12_congreso.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e12_congreso",
+   "item": "V05",
+   "post": false,
+   "congela": false,
+   "q0": 3731,
+   "n": 60
+  },
+  {
+   "t0": 126.367,
+   "t1": 127.495,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k08_congreso_adoracion.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k08_congreso_adoracion",
+   "item": "V05",
+   "post": false,
+   "congela": false,
+   "q0": 3791,
+   "n": 34
+  },
+  {
+   "t0": 127.495,
+   "t1": 130.054,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e17_print_rosa_maria.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e17_print_rosa_maria",
+   "item": "V05",
+   "post": false,
+   "congela": false,
+   "q0": 3825,
+   "n": 77
+  },
+  {
+   "t0": 130.054,
+   "t1": 133.036,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e18_print_carmen.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e18_print_carmen",
+   "item": "V05",
+   "post": false,
+   "congela": false,
+   "q0": 3902,
+   "n": 89
+  },
+  {
+   "t0": 133.036,
+   "t1": 134.481,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\broll\\n02_iglesia_vacia_amanecer.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "n02_iglesia_vacia_amanecer",
+   "item": "P04B-cobre",
+   "post": false,
+   "q0": 3991,
+   "n": 43
+  },
+  {
+   "t0": 134.481,
+   "t1": 136.067,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P04B.mp4",
+   "vt": 1.4630000000000012,
+   "zoom": 1.12,
+   "item": "P04B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4034,
+   "n": 48
+  },
+  {
+   "t0": 136.067,
+   "t1": 137.887,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P04B.mp4",
+   "vt": 3.0490000000000137,
+   "zoom": 1.0,
+   "item": "P04B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4082,
+   "n": 55
+  },
+  {
+   "t0": 137.887,
+   "t1": 142.402,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k09_grimorio_paginas.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k09_grimorio_paginas",
+   "item": "V06",
+   "post": false,
+   "congela": false,
+   "q0": 4137,
+   "n": 135
+  },
+  {
+   "t0": 142.402,
+   "t1": 143.668,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e14_deudas.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e14_deudas",
+   "item": "V08",
+   "post": false,
+   "congela": false,
+   "q0": 4272,
+   "n": 38
+  },
+  {
+   "t0": 143.668,
+   "t1": 146.023,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\e15_alivio_paid.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "e15_alivio_paid",
+   "item": "V08",
+   "post": false,
+   "congela": false,
+   "q0": 4310,
+   "n": 71
+  },
+  {
+   "t0": 146.023,
+   "t1": 150.301,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P05B.mp4",
+   "vt": 0.030000000000007965,
+   "zoom": 1.12,
+   "item": "P05B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4381,
+   "n": 128
+  },
+  {
+   "t0": 150.301,
+   "t1": 151.171,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\broll\\n04_agua_bendita.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "n04_agua_bendita",
+   "item": "P05B-cobre",
+   "post": false,
+   "q0": 4509,
+   "n": 26
+  },
+  {
+   "t0": 151.171,
+   "t1": 152.418,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P05B.mp4",
+   "vt": 5.178000000000004,
+   "zoom": 1.0,
+   "item": "P05B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4535,
+   "n": 38
+  },
+  {
+   "t0": 152.418,
+   "t1": 153.852,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k10_ampolleta.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k10_ampolleta",
+   "item": "V07",
+   "post": false,
+   "congela": false,
+   "q0": 4573,
+   "n": 43
+  },
+  {
+   "t0": 153.852,
+   "t1": 155.886,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\s14_reloj_bolsillo.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "s14_reloj_bolsillo",
+   "item": "V07",
+   "post": false,
+   "congela": false,
+   "q0": 4616,
+   "n": 61
+  },
+  {
+   "t0": 155.886,
+   "t1": 157.05599999999998,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P07B.mp4",
+   "vt": 0.12000000000000455,
+   "zoom": 1.12,
+   "item": "P07B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4677,
+   "n": 35
+  },
+  {
+   "t0": 157.05599999999998,
+   "t1": 158.337,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P07B.mp4",
+   "vt": 1.289999999999992,
+   "zoom": 1.0,
+   "item": "P07B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4712,
+   "n": 38
+  },
+  {
+   "t0": 158.337,
+   "t1": 159.441,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\broll\\k12_abuela_alegria.mp4",
+   "vt": 0.0,
+   "vel": 1.0,
+   "broll": "k12_abuela_alegria",
+   "item": "P07B-cobre",
+   "post": false,
+   "q0": 4750,
+   "n": 33
+  },
+  {
+   "t0": 159.441,
+   "t1": 160.8667,
+   "src": "video",
+   "file": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\v4_assets\\take_P07B.mp4",
+   "vt": 3.6750000000000114,
+   "zoom": 1.12,
+   "item": "P07B",
+   "post": false,
+   "live": true,
+   "full": false,
+   "broll": null,
+   "q0": 4783,
+   "n": 43
+  }
+ ],
+ "broll_usados": [
+  {
+   "id": "briga_cauda_R01",
+   "onde": "R01-cobre"
+  },
+  {
+   "id": "s15_calendario_7_dias",
+   "onde": "AV01"
+  },
+  {
+   "id": "n01_aurelio_cierra_carrito",
+   "onde": "AV01"
+  },
+  {
+   "id": "n06_persianas_cerradas",
+   "onde": "AV01"
+  },
+  {
+   "id": "n03_biblia_manos_840",
+   "onde": "A01B"
+  },
+  {
+   "id": "k13_vela_encendiendo",
+   "onde": "A01B"
+  },
+  {
+   "id": "s24_hombre_rezando_vela",
+   "onde": "A01B"
+  },
+  {
+   "id": "s18_hombre_cerro_amanecer",
+   "onde": "A02-cobre"
+  },
+  {
+   "id": "n05_pareja_rezando_mesa",
+   "onde": "PB01-cobre"
+  },
+  {
+   "id": "e01_teclado",
+   "onde": "V01"
+  },
+  {
+   "id": "k01_cofre",
+   "onde": "V01"
+  },
+  {
+   "id": "s17_vitral_luz",
+   "onde": "V01"
+  },
+  {
+   "id": "k02_sb_rostro",
+   "onde": "O01"
+  },
+  {
+   "id": "e02_sb_de_pie",
+   "onde": "O01"
+  },
+  {
+   "id": "k04_altar_incienso",
+   "onde": "O01"
+  },
+  {
+   "id": "k03_serpiente",
+   "onde": "O01"
+  },
+  {
+   "id": "e08_cruz_agua",
+   "onde": "O01"
+  },
+  {
+   "id": "k14_amanecer_valle(no lugar do e04)",
+   "onde": "O01"
+  },
+  {
+   "id": "e10_hombre_rezando",
+   "onde": "O01"
+  },
+  {
+   "id": "s22_mujer_arrodillada_iglesia",
+   "onde": "O01"
+  },
+  {
+   "id": "e05_mujer_rezando",
+   "onde": "O01"
+  },
+  {
+   "id": "e19_cuadro_12_palabras",
+   "onde": "O01"
+  },
+  {
+   "id": "e16_print_geralda",
+   "onde": "V02"
+  },
+  {
+   "id": "e11_nino_playa",
+   "onde": "V02"
+  },
+  {
+   "id": "e03_sb_escribiendo",
+   "onde": "V03"
+  },
+  {
+   "id": "e07_pergamino",
+   "onde": "V03"
+  },
+  {
+   "id": "k05_biblioteca_secreta",
+   "onde": "V03"
+  },
+  {
+   "id": "k06_monjes_claustro",
+   "onde": "V04"
+  },
+  {
+   "id": "e09_montanas_niebla",
+   "onde": "V04"
+  },
+  {
+   "id": "k07_abadia_italia",
+   "onde": "V04"
+  },
+  {
+   "id": "e13_mujer_negra_rezando",
+   "onde": "V04"
+  },
+  {
+   "id": "e12_congreso",
+   "onde": "V05"
+  },
+  {
+   "id": "k08_congreso_adoracion",
+   "onde": "V05"
+  },
+  {
+   "id": "e17_print_rosa_maria",
+   "onde": "V05"
+  },
+  {
+   "id": "e18_print_carmen",
+   "onde": "V05"
+  },
+  {
+   "id": "n02_iglesia_vacia_amanecer",
+   "onde": "P04B-cobre"
+  },
+  {
+   "id": "k09_grimorio_paginas",
+   "onde": "V06"
+  },
+  {
+   "id": "e14_deudas",
+   "onde": "V08"
+  },
+  {
+   "id": "e15_alivio_paid",
+   "onde": "V08"
+  },
+  {
+   "id": "n04_agua_bendita",
+   "onde": "P05B-cobre"
+  },
+  {
+   "id": "k10_ampolleta",
+   "onde": "V07"
+  },
+  {
+   "id": "s14_reloj_bolsillo",
+   "onde": "V07"
+  },
+  {
+   "id": "k12_abuela_alegria",
+   "onde": "P07B-cobre"
+  }
+ ],
+ "broll_nao_usados": [
+  "k11_familia_feliz",
+  "s21_biblia_banca"
+ ],
+ "repeticoes": []
+}

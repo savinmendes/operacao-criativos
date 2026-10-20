@@ -1,0 +1,13 @@
+# termos que nao podem aparecer no EN
+informaci
+toca
+más información
+en vivo
+oraci
+milagro
+precio
+price
+dollar
+\$
+R\$
+in this video

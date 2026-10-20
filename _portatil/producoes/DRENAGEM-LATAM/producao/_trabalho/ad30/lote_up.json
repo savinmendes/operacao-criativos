@@ -1,0 +1,62 @@
+[
+ {
+  "arquivo": "ad30/flora/t1.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/cdc101ec-a532-407a-90fd-96c039e315d7.mp4",
+   "x-goog-date": "20261005T013116Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5L2NkYzEwMWVjLWE1MzItNDA3YS05MGZkLTk2YzAzOWUzMTVkNy5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMTE2WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0NjoxNloifQ==",
+   "x-goog-signature": "5a1d81bcdf42a50b36978b3e0d695727206fbb21a6b9468fa8dfa73c1da9d0020d65ecd1efbf512918ce972db9083fa4fc11488c0035956c9c663b474bdb140c687ca161b2122182bda01b18b9c8361eef7b55eb0674ca410801bd83011b9374fe1a5b1b41f0821e32bac83668a80f5cd1d30447b505b7a9b8102f97164e4ea926dd49d928fcf8bb48b4cff1261b9f8bcaa753f009bb336448164219215565bda0b79146fb6ebfd1bb985f7c8981ebcd8ded2a1440ffa52d804276ce94619dee81e8a737ad086a9bb0e528e40c92dff82f8515e1f05d0e5f54d82788dd8fe34411d5e17df1c40d9f7f7d7862e4f3d2a827e195bd52e96c14100a40283723f510"
+  }
+ },
+ {
+  "arquivo": "ad30/flora/t2.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/a1c0e41d-7c44-45a8-85ef-e14c079bcd2b.mp4",
+   "x-goog-date": "20261005T013116Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5L2ExYzBlNDFkLTdjNDQtNDVhOC04NWVmLWUxNGMwNzliY2QyYi5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMTE2WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0NjoxNloifQ==",
+   "x-goog-signature": "00f5b6dbe0157c83fdd13955792b7fa178dacbdec846c76f8db276f45a7f32a5db5e7257b9db5f3a3ddd5a0054289109967e077cca6af1698c904fb90079df58d4a1a1a6384d8f60d66757adcc3e5b4db8ef32f393a72745dfe52b07568936430630ea24ab1d4c876280e5655286cb45ec808c457ec3a52ecfe6d044864f3759748afa33d63f2dd9efdda34b90885f9c0c09f941a06c398b947f9d802d002e376c57c801d9084e09465e232603945589072a3ae9013b771f5ad8d7d962047a8876412285a24757f218ed8bef28fe2b1afd6f2d817c7ef8da5f3e95870db2050c596814dc173e3c14ece24d26bf596c431dc0d08f854a8a667699b395b67e97db"
+  }
+ },
+ {
+  "arquivo": "ad30/flora/t3.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/4eca465f-f4a9-4888-a9be-bc106b9de7e5.mp4",
+   "x-goog-date": "20261005T013116Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5LzRlY2E0NjVmLWY0YTktNDg4OC1hOWJlLWJjMTA2YjlkZTdlNS5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMTE2WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0NjoxNloifQ==",
+   "x-goog-signature": "30d714f6c49b51664d3d2e805b9f4c6bd6f6e7fe72cb1045c4ccb9860c481674822d29a4bc3c035561fdeadbbf89f7eff5c5ab40d75df1fea3f4affcb7f55063e3fbf810b2009153accd7856e40ae546b68af4f6a24efa1e05f521a85ecf14e5e1dbaced9a306f7ebe1b3852fbd1c611b940ab39eb52cea4438eddd629892ef76d963cf02600e49da2838a71bc90fd0911e11d5b77ebddd77dd5818e391d1cc0112e16d7048ff9207476799e740665ea53494133fc753bfb3985af489ce2830927dbbbd053bd386141fcfc53629e2a61545800f2f51f3d38708c7ef9872664c7862879a7e83f2a80a2bd07f0e009b6bae2ebfd7abb947d18b5217ec6b3f04bdf"
+  }
+ },
+ {
+  "arquivo": "ad30/flora/t4.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/b5bc28f4-c9db-4087-88b8-a1d688aa5b25.mp4",
+   "x-goog-date": "20261005T013116Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5L2I1YmMyOGY0LWM5ZGItNDA4Ny04OGI4LWExZDY4OGFhNWIyNS5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMTE2WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0NjoxNloifQ==",
+   "x-goog-signature": "50178983663d7d429135ad25ae90a5519a24a81071105759090e3bef8292f93c1fd636fa3e9106c61a3002248c73f0af4b830c423eb2684352825a87867d89f9fc0a0eef8ba875d478721c323c90fd0976c50fb79e8bcf58023defc604126b9c625f19a11131a102822e480f11df748456f9c9fa9f52c345b632040b2e38346c50f2abcd996570d2098783b3fd58fe82e8c38ddbc886a14ff75e748e606e95418f3753188185082f4bf852a131c1a5123fe3ba3272c8358729a221e4ba1b299816040a5b708f6f2f23e6eaa60a3fa7a4ec86f3417ec43cc67168a1c0bacf52e5c4f7c33ba37ba8421f44727fb8040c0f2474eb4bd4c1252d377746bc6f939936"
+  }
+ },
+ {
+  "arquivo": "ad30/flora/t5.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/539116c5-e675-4825-ab01-8e2aafaa8638.mp4",
+   "x-goog-date": "20261005T013116Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5LzUzOTExNmM1LWU2NzUtNDgyNS1hYjAxLThlMmFhZmFhODYzOC5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMTE2WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0NjoxNloifQ==",
+   "x-goog-signature": "93ed84822351ea18a02eb6e44457229dbb523aac46ea0a2a463e05ca9ac62a1831b7aaf24fd1f1e1171d609c4ade18e84ad7f90fe2e290767f4113b5786d12345cbd3cf04168d5a1f0e996e4fa4cbefe0b074497e024bd3295d7c3a872523e47858556be04220e336642695ed1bcfe711c93a19fa75fd38e632f21a0dc5b90920272c28fea754499511b29befb54815f78ad4364d4dafe0009e8359c8b7468b46f5a8b383670e20180bff666deedb1ea43cdaeae73800b0fe183aa121428529f0cb9b080876491c3395e95677ac0d08e482f5f8c6fdb9a660eed8b4144ef38b5c09e75d031f6c6a45d8fd2331b1cb21259b6af9a1ebda70c96aec0dd20ae38d7"
+  }
+ }
+]

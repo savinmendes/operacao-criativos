@@ -1,0 +1,19 @@
+REVISÃO: TRECHO-A_yara_consultora.mp4
+duração 10.13s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 3.3 MB
+decodificação: OK
+pts do áudio: 473 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 644-1184, x 6-367 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\YARA-CL\producao\edicao\_revisao\TRECHO-A_yara_consultora_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.00 Este es Yara, dulce, cremoso y muy femenino.
+   5.00- 10.00 Orquía, mandarina y un fondo de vainilla, perfecto para el día a día.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

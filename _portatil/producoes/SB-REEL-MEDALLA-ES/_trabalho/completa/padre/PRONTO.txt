@@ -1,0 +1,17 @@
+PADRE - versão completa SB Medalla (14/10/2026)
+
+Voz: Pa Gabriel (Zkg9LlmGNlBWLgWjzTnu), eleven_multilingual_v2, com previous/next text (tts_ctx.py). 480 caracteres.
+padre.mp3 = 35,21 s (pausa de 0,35 s de silêncio entre falas; ~0,43 s entre a última palavra e a próxima)
+  Fala 1: 0,04 – 10,23 s
+  Fala 2: 10,67 – 21,12 s
+  Fala 3: 21,57 – 35,15 s
+palavras.json = 89 palavras, formato w/ini/fim/personagem ("padre"). Conferido com Whisper: texto bate.
+
+Avatar HeyGen (foto sacerdote_live.png, 9:16, 1080x1920, 25 fps, expressividade low):
+  padre_parte1.mp4 = 21,36 s -> áudio 0,00–21,34 (falas 1+2)
+  padre_parte2.mp4 = 13,88 s -> áudio 21,34–35,21 (fala 3)
+  Corte no meio da pausa entre fala 2 e 3. Cada mp4 já tem o trecho de áudio embutido.
+
+Créditos HeyGen: 7195 -> 7171 = 24 créditos (medido logo após; a cobrança pode atualizar até ~1 h depois).
+QA: zoom no rosto e boca quadro a quadro: boca acompanha a fala, fecha nas pausas, rosto estável sem deformação. Nenhuma parte refeita.
+Brilho verde nos óculos (reflexo) aparece em alguns quadros: já vem do estilo "live"; não é defeito de geração.

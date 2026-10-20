@@ -1,0 +1,16 @@
+{
+ "slug": "madre",
+ "saida": "SB-ES_MADRE_COMPLETA.mp4",
+ "reza": [["f1", 0.0, 1.62], ["f2", 0.0, 1.65]],
+ "cortes_hook": [[4.02, 4.41]],
+ "cortes_selfie": [[4.20, 4.72], [7.67, 7.98], [10.18, 10.83]],
+ "selfie_off": 4.40,
+ "rosto_selfie": [550, 720],
+ "gancho_zoom": 1.25,
+ "gancho_centro": [570, 1308],
+ "voz_id": "SmgKjOvC1aIujLWcMzqq",
+ "voz_nome": "Alisson",
+ "cena_gancho": "plano amplio, de noche: ella de rodillas en el piso de la cocina, con las cuentas sobre la mesa y la nevera casi vacía",
+ "cena_virada": "ella feliz con sus hijos en la cocina",
+ "cena_frustrado": "ella sentada a la mesa, con las manos en la cabeza, mirando la pila de cuentas"
+}

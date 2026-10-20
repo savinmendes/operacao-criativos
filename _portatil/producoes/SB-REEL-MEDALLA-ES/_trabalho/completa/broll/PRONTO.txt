@@ -1,0 +1,14 @@
+﻿SB Medalla COMPLETA - takes novos (2026-10-14)
+Projeto Flora: prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (refs: retrato node 6cff4f8f, salao_vazio node 792cde0a)
+
+gancho_amplo.png     is2i-gpt-image-2-5-flare 9:16 high 2k (1440x2560)  run_m179aex30c7qax4rgttpfxm3mn8g82ev  US$0.130
+gancho_amplo.mp4     i2v-kling-2.5 5s, 1080x1920, 24 fps, 5,04 s, sem audio  canvas n728  run_m17dkbgzh03xq547p56xw1gvcd8g9khy  US$0.294
+gancho_amplo_frames.jpg   folha a cada 0,2 s
+frustrado_salao.png  is2i-gpt-image-2-5-flare 9:16 high 2k (1440x2560)  run_m179x63nwwqfrtx7dvr773r4cn8g9pp2  US$0.130
+frustrado_salao.mp4  i2v-kling-2.5 5s, 1080x1920, 24 fps, 5,04 s, sem audio  canvas n730  run_m175pf73xjhgeear341446813s8g8y9e  US$0.294
+frustrado_salao_frames.jpg  folha a cada 0,2 s
+
+QA quadro a quadro (0,2 s, com zoom no personagem): maos, rosto, cadeiras e bordas estaveis nos dois takes; nenhuma refacao.
+Obs.: gancho_amplo -> push-in do Kling e bem sutil; se quiser mais aproximacao, aplicar zoom digital leve na montagem.
+Obs.: frustrado_salao -> ele suspira (~0,8-1,4 s) e baixa a cabeca ate apoiar no balcao (3,6-5 s); luz de fim de tarde.
+TOTAL: US$0.848 (teto US$1,20)

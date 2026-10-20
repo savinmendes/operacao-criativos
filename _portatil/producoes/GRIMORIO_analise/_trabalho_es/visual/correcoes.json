@@ -1,0 +1,12 @@
+{
+  "video": "GRIMORIO V2.mp4 (e as bases desta pasta: mesma contagem de quadros, 30 fps)",
+  "quadro_solto": {
+    "tempo": "1:27,40",
+    "quadro": 2622,
+    "diagnostico": "Transição em chicote b-roll (monges) -> padre de roxo, quadros 2620-2625. O 2621 é o b-roll deslizando, o 2622 é o padre parado e borrado (fora de ordem), o 2623-2624 é o padre espelhado deslizando e o 2625 já é o plano normal. O 2622 'pisca' o padre antes da transição.",
+    "correcao": "substituir o quadro 2622 por uma cópia do 2621 (duplicar 2621). Não muda a duração nem o sincronismo do áudio.",
+    "ffmpeg": "no vídeo de 30 fps, aplicar antes de qualquer corte: -vf \"select='not(eq(n\,2622))',setpts=N/30/TB\" tira o quadro; para manter a contagem use a alternativa sem perder quadro: freezeframes=first=2622:last=2622:replace=2621 (filtro freezeframes do ffmpeg, com o mesmo vídeo nas duas entradas)",
+    "comando_exemplo": "ffmpeg -i entrada.mp4 -i entrada.mp4 -filter_complex \"[0:v][1:v]freezeframes=first=2622:last=2622:replace=2621[v]\" -map \"[v]\" -map 0:a? -c:a copy saida.mp4",
+    "observacao": "Se a montagem ES alongar algum b-roll antes de 1:27, o quadro muda de número: localize-o pelo conteúdo (padre borrado entre o b-roll deslizando e o padre espelhado)."
+  }
+}

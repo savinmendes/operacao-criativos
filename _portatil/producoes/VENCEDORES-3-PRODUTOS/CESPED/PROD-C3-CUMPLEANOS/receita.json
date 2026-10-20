@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C3-CUMPLEANOS/CESPED-CL_C3_CUMPLEANOS.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C3-CUMPLEANOS/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C3-CUMPLEANOS/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C3-CUMPLEANOS/corpo.alinhamento.json", "y": 1480, "chaves": ["cumpleaños", "aquí", "cintura", "probé", "uno", "ruedas", "mano", "metal", "hilos", "inalámbrica", "baterías", "gratis", "recibir", "90", "pídela"]},
+  "manchete": {"texto": "FALTAN 2 DÍAS 😬", "y": 1130, "ate": 3.5},
+  "cta": {"palavra": "pídela", "y": 1700},
+  "resolucao": "720",
+  "limite_mb": 30
+}

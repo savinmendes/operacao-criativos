@@ -1,0 +1,23 @@
+REVISÃO: CESPED-CL_C8_MAMA.mp4
+duração 36.64s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.7 MB
+decodificação: OK
+pts do áudio: 1719 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 913-978, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C8-MAMA\CESPED-CL_C8_MAMA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.84 Hijo, no te quería molestar. Mi hijo me ha habido de sola y me llevo
+   5.84-  8.92 vergüenza no haberlo visto antes. Hasta que probé ésta.
+  12.36- 18.20 Es corta pasto, orilladora y bordeadora en uno. Tiene ruedas, así que la usas con una sola
+  18.20- 23.68 mano. Cuchilla de metal reforzada. Olvídate de los hilos que se cortan y es inalámbrica,
+  23.68- 34.00 con dos baterías, despacho gratis a todo chile pagas al recibir y tienes 90 días de garantía
+  34.00- 35.88 toca el botón y pídela
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

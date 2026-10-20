@@ -1,0 +1,5 @@
+SB COMPLETA FR DESEMPLEADO (14/10/2026) -> C:\Users\PICHAU\Downloads\SB-MEDALLA-COMPLETA-FR${n}_SB-FR_DESEMPLEADO_COMPLETA.mp4 + _narracion.txt (com texto do anúncio FR)
+Voz FR: Guillaume (3HZyQcLKlT0a3RDeXVsP), eleven_multilingual_v2 via app/tts_ctx.py (speed 1.0). Caracteres: hook 83 + reza 50 + selfie 270 = 403. Whisper fr conferido (saint Benoît ok).
+HeyGen: create_video_from_image, retrato_triste.png da versão ES, expressividade low, 1080p, vídeo 21fcdd833a2169d1a4ef42f03ef0e3c7 (14,2 s). Saldo compartilhado (6967 -> 6875 com outros agentes); estimativa ~15-20 créditos.
+Montagem: script ES da persona copiado e adaptado (vozes, selfie, padre FR com novos cortes/B-roll mapeados nas falas FR, gráficos FR de _comum, legenda FR). Takes/B-roll/trilha iguais ao ES. Flora US$0.
+QA: revisar_ad --idioma fr --idioma-residual es OK (aviso padrão de setas vermelhas: CTA é amarelo); boca da selfie quadro a quadro (5 q/s) e zoom no rosto; CTA único no fim; selo VIDÉO FICTIVE do 1º ao último quadro.

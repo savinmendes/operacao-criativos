@@ -1,0 +1,62 @@
+{
+ "slug": "feria",
+ "hook_fim": 6.285,
+ "reza_src": "reza.mp3",
+ "reza_cortes": [
+  [
+   0,
+   3.977
+  ]
+ ],
+ "selfie_heygen_ini": 4.61,
+ "r_self": [
+  [
+   3.751,
+   4.801
+  ],
+  [
+   6.995,
+   7.727
+  ],
+  [
+   10.199,
+   11.094
+  ],
+  [
+   14.077,
+   14.972
+  ]
+ ],
+ "self_trocas": [
+  17.967
+ ],
+ "self_dur": 20.897,
+ "selfie_mp3_dur": 20.991,
+ "cena_gancho": {
+  "src": "completa/gancho_amplo.mp4",
+  "ss": 0.0,
+  "zoom": 1.0,
+  "interp": true
+ },
+ "cena_reza": {
+  "src": "take_antes.mp4",
+  "ss": 0.0,
+  "zoom": 1.15,
+  "centro": [
+   540,
+   860
+  ]
+ },
+ "cena_virada": {
+  "src": "take_depois.mp4",
+  "ss": 0.8
+ },
+ "cena_frustrado": {
+  "src": "completa/frustrado.mp4",
+  "ss": 0.2
+ },
+ "rosto_selfie": [
+  560,
+  800
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 03 - WYZE-SOLAR-CAM-PAN-PARED-ES-LATAM-SELO.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad03/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad03/alinhamento.json",
+  "y": 1539,
+  "chaves": [
+   "suscripción",
+   "solar",
+   "nocturna",
+   "batería",
+   "instalar",
+   "360",
+   "sol",
+   "microsd",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1715
+ },
+ "limite_mb": 30,
+ "resolucao": "720",
+ "selo": {
+  "linhas": [
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1110,
+  "desde": 0,
+  "_nota": "posição a conferir: y=1110 (escala 1080) fica no meio da tela; ajustar para não cobrir a câmera"
+ }
+}

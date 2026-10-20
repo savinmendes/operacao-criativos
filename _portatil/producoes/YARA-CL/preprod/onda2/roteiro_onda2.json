@@ -1,0 +1,36 @@
+{
+  "_nota": "Onda 2 Yara BF (COD Chile). Kit de 3 (Yara, Yara Moi, Yara Elixir), Black Friday 'pagas 2 y te llevas 3', sem preço. Nomes difíceis (Moi, orquídea, frutilla, grosella) só na tela, nunca falados. 10/10/2026.",
+  "C1": {"tipo": "sem fala", "tela": ["POV: hueles a vainilla y mandarina", "…o a jazmín y caramelo", "…o a frutos rojos para la noche", "¿Por qué elegir uno?", "Black Friday: pagas 2, te llevas los 3 · Pagas al recibir"]},
+  "C2": {
+    "T1_gancho": {"img": "C2_lisandra_v1", "dur": 9, "fala": "¿No sabes cuál perfume árabe elegir? Te recomiendo uno para cada momento del día."},
+    "N_dia":   {"broll": "yara", "fala": "Para el día, Yara: dulce, cremoso y muy femenino."},
+    "N_cita":  {"broll": "moi", "fala": "Para una cita, este: floral, luminoso y elegante."},
+    "N_noche": {"broll": "elixir", "fala": "Y para la noche, Yara Elixir, el más intenso de los tres."},
+    "T2_cta":  {"img": "C2_lisandra_v1", "dur": 9, "fala": "¿Para qué elegir? Por Black Friday pagas dos y te llevas los tres. Y pagas cuando te llega."}
+  },
+  "C3": {
+    "img_kit": "mãos abrindo a caixa com os 3 frascos (nova)",
+    "N": "Uno… dos… ¡y el tercero te sale gratis! Los tres Yara en un solo kit. Envío gratis a todo Chile, y pagas al recibir."
+  },
+  "C4": {
+    "T1_natalie": {"img": "C4_natalie_v1", "dur": 5, "fala": "Oye… ¿qué perfume traes? Hueles demasiado rico."},
+    "T2_aline":   {"img": "C4_aline_v1", "dur": 9, "fala": "¡Son árabes! Tengo tres, uno para cada día. Los pedí por Black Friday: pagué dos y me llegaron tres."},
+    "N_cta":      {"broll": "kit", "fala": "Pagas al recibir y el envío es gratis. Pide el tuyo."}
+  },
+  "C5": {
+    "T1_gancho": {"img": "C5_lais_v1", "dur": 8, "fala": "Si te echas perfume y te frotas las muñecas, lo estás haciendo mal."},
+    "T2_dicas":  {"img": "C5_lais_v1", "dur": 10, "fala": "Al frotarlo rompes el aroma. Aplícalo en el pulso: muñecas, cuello y detrás de las orejas, y deja que se seque solo."},
+    "N_momento": {"broll": "3 frascos", "fala": "Y elige según el momento: uno suave para el día y uno intenso para la noche."},
+    "T3_cta":    {"img": "C5_lais_v1", "dur": 9, "fala": "Estos tres Yara vienen en kit por Black Friday: pagas dos y te llevas tres, y pagas al recibir."}
+  },
+  "C6": {
+    "N_gancho": {"broll": "kit", "fala": "¿Todavía no sabes qué regalar esta Navidad?"},
+    "T1_reacao": {"img": "C6_mae-filha_v1", "dur": 6, "fala": "(sem fala: a filha abre a caixa e se surpreende; a mãe sorri)"},
+    "N_corpo": {"broll": "3 frascos", "fala": "Tres perfumes árabes en un solo kit: uno para regalar… y dos para ti. Por Black Friday pagas dos y te llevas tres. Envío gratis, y pagas cuando te llega."}
+  },
+  "C7": {
+    "T1_gancho": {"img": "C7_gleice_v1", "dur": 9, "fala": "Me preguntaron cuánto pagué por este perfume… y cuando les dije, no me creyeron."},
+    "N_meio": {"broll": "3 frascos", "fala": "Son perfumes árabes, y todos me preguntan qué perfume es."},
+    "T2_cta":    {"img": "C7_gleice_v1", "dur": 8, "fala": "Vienen tres en un kit. Por Black Friday pagas dos y te llevas los tres, y pagas al recibir."}
+  }
+}

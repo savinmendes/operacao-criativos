@@ -1,0 +1,100 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.035,
+  "fim": 0.197,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "prié",
+  "ini": 0.244,
+  "fim": 0.58,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "à",
+  "ini": 0.697,
+  "fim": 0.731,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "genoux",
+  "ini": 0.848,
+  "fim": 1.219,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "dans",
+  "ini": 1.265,
+  "fim": 1.416,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "ma",
+  "ini": 1.44,
+  "fim": 1.556,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "terre",
+  "ini": 1.637,
+  "fim": 1.927,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "desséchée...",
+  "ini": 1.985,
+  "fim": 2.752,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "et",
+  "ini": 2.926,
+  "fim": 3.053,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "voilà",
+  "ini": 3.1,
+  "fim": 3.32,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "ce",
+  "ini": 3.367,
+  "fim": 3.483,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "qui",
+  "ini": 3.529,
+  "fim": 3.657,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "s'est",
+  "ini": 3.715,
+  "fim": 3.866,
+  "personagem": "campesino",
+  "parte": "hook"
+ },
+ {
+  "w": "passé.",
+  "ini": 3.889,
+  "fim": 4.342,
+  "personagem": "campesino",
+  "parte": "hook"
+ }
+]

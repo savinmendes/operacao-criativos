@@ -1,0 +1,9 @@
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\parte2.mp4 25.17s
+aviso: 5.0 min não cabe em 30 MB com qualidade; usando 900 kbps (~37 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM.mp4
+duração : 298.20s | 720x1280 | áudio: sim | 35.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 05 - LYMPHORIA-ESPOSO-NO-ME-MIRABA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 294.45s
+montagem rápida: 35s para 298s de vídeo (0.12x)

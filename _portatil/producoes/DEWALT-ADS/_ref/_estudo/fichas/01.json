@@ -1,0 +1,27 @@
+{
+ "ad": "01",
+ "idioma": "pt-BR (narração)",
+ "origem": {"perfil": "@dewaltbrasil (TikTok)", "tipo": "marca oficial DeWalt Brasil", "url": "https://www.tiktok.com/@dewaltbrasil/video/7525502788508323077"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 87.4,
+ "cortes": {"n": 37, "ritmo": "médio, corte a cada ~2-3 s; blocos de apresentador em plano aberto alternados com close de produto em uso"},
+ "formato": "talking head de apresentador oficial em oficina + review técnico de lançamento (especificações), estilo institucional",
+ "gancho": {"0_3s_visual": "apresentador de camisa cinza em oficina DeWalt segurando a furadeira, plano americano", "0_3s_fala": "E aí, parceiros, não saia, fique para conhecer esta nova parafusadeira e furadeira de impacto...", "0_3s_texto_tela": "legenda 'E aí, parceiros?'"},
+ "corpo": [
+  {"t": "0-22", "bloco": "apresentação: 'a 20V MAX mais potente da indústria e a mais curta', até 275 perfurações por carga"},
+  {"t": "22-35", "bloco": "close de produto + uso em madeira: modelo DCD1007, sistema antirrotação Perform & Protect"},
+  {"t": "35-44", "bloco": "3 velocidades 0-500/0-1300/0-2250 RPM (close em seletor)"},
+  {"t": "44-68", "bloco": "torque 126 Nm (5 Ah) / 169 Nm (8 Ah), mandril metal nitrocarbonetado, serra-copo em madeira"},
+  {"t": "68-84", "bloco": "LED de 3 posições, peso 1,87 kg, 192 mm, 'a mais potente para o seu tamanho'"},
+  {"t": "84-87", "bloco": "pergunta de engajamento"}
+ ],
+ "cta": "engajamento: 'Queremos saber o que você acha? Deixe nos comentários.' (sem oferta/preço)",
+ "texto_na_tela": "legendas em caixa preta com texto branco acompanhando a fala; asterisco '*Usando a bateria XR 8Ah de 20V MAX'",
+ "produto": {"modelo": "DCD1007 (falado e no texto do post: DCD1007B), parafusadeira/furadeira de impacto 1/2\" XR 20V MAX", "e_nosso_produto": false, "obs": "linha XR premium, maior e diferente visualmente do DCD7771 compacto"},
+ "rosto": {"tem": true, "tempo_aprox_s": "~35 s (apresentador nos blocos de abertura, meio e fim)"},
+ "marca_dagua": "sem @ visível na folha; vídeo oficial com identidade DeWalt",
+ "audio": "voz em português (narrador/apresentador) + trilha de fundo",
+ "uso_para_nos": ["banco de takes (closes de produto e uso em madeira sem rosto, mas é o DCD1007 e não o nosso modelo)", "só referência de formato (review técnico de especificações)"],
+ "nota_cod_chile": 2,
+ "justificativa": "Bom material visual e institucional, porém o produto é o DCD1007 (XR, outro visual e especificações: 169 Nm não vale para o DCD7771), tom institucional sem oferta, e 87 s é longo para COD. Takes de close podem confundir o cliente com o modelo errado. Serve como referência de roteiro de 'especificações' falando de torque/velocidades/LED."
+}

@@ -1,0 +1,141 @@
+{
+ "rotulo": "TR38",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\cfg\\TR38_voz.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 13.4,
+ "blocos_medidos": 15,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 18,
+ "erro_max_abs_ms": 55,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 17,
+ "n_energia": 8,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 15,
+  "aparecem_no_quadro_esperado": 15,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "TALADRO DEWALT",
+   "leg_t": 0.267,
+   "palavra": "Taladro",
+   "fala_t": 0.22,
+   "erro_ms": 47,
+   "erro_energia_ms": 17
+  },
+  {
+   "legenda": "DE VEINTE VOLTS",
+   "leg_t": 0.867,
+   "palavra": "de",
+   "fala_t": 0.881,
+   "erro_ms": -14,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MAX,",
+   "leg_t": 1.8,
+   "palavra": "MAX,",
+   "fala_t": 1.842,
+   "erro_ms": -42,
+   "erro_energia_ms": 10
+  },
+  {
+   "legenda": "SIN CARBONES.",
+   "leg_t": 2.533,
+   "palavra": "sin",
+   "fala_t": 2.543,
+   "erro_ms": -10,
+   "erro_energia_ms": 13
+  },
+  {
+   "legenda": "GATILLO DE",
+   "leg_t": 3.933,
+   "palavra": "Gatillo",
+   "fala_t": 3.925,
+   "erro_ms": 8,
+   "erro_energia_ms": 3
+  },
+  {
+   "legenda": "VELOCIDAD",
+   "leg_t": 4.333,
+   "palavra": "velocidad",
+   "fala_t": 4.325,
+   "erro_ms": 8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VARIABLE Y",
+   "leg_t": 4.667,
+   "palavra": "variable",
+   "fala_t": 4.686,
+   "erro_ms": -19,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LUZ LED.",
+   "leg_t": 5.167,
+   "palavra": "luz",
+   "fala_t": 5.167,
+   "erro_ms": 0,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "BATERÍA DE DOS",
+   "leg_t": 6.667,
+   "palavra": "Batería",
+   "fala_t": 6.668,
+   "erro_ms": -1,
+   "erro_energia_ms": 7
+  },
+  {
+   "legenda": "AMPERES HORA,",
+   "leg_t": 7.367,
+   "palavra": "amperes",
+   "fala_t": 7.349,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MOTOR BRUSHLESS,",
+   "leg_t": 8.267,
+   "palavra": "motor",
+   "fala_t": 8.27,
+   "erro_ms": -3,
+   "erro_energia_ms": 17
+  },
+  {
+   "legenda": "COMPACTO Y",
+   "leg_t": 9.833,
+   "palavra": "compacto",
+   "fala_t": 9.812,
+   "erro_ms": 21,
+   "erro_energia_ms": 13
+  },
+  {
+   "legenda": "LIVIANO,",
+   "leg_t": 10.467,
+   "palavra": "liviano,",
+   "fala_t": 10.473,
+   "erro_ms": -6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON",
+   "leg_t": 11.9,
+   "palavra": "con",
+   "fala_t": 11.955,
+   "erro_ms": -55,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "INDICADOR DE CARGA.",
+   "leg_t": 12.1,
+   "palavra": "indicador",
+   "fala_t": 12.115,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+REVISÃO: SB-ES_NOTICIA-AURELIO_v3_FICTICIO.mp4
+duração 168.73s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 51.6 MB
+decodificação: OK
+pts do áudio: 7908 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 60 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/3s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v3\_trabalho\final\qa_r2\SB-ES_NOTICIA-AURELIO_v3_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.80 Gente, después dicen que Dios no existe.
+   3.80-  6.20 ¡No crees en Dios! ¡Entonces, llámalo ahora!
+   6.20-  9.00 Señor, yo no hice nada, paré, por el amor de Dios.
+  18.00- 21.60 Después de ser atacado por un cliente y volverse viral,
+  21.60- 26.60 el carrito de Don Aurelio se convirtió en uno de los más pedidos del país.
+  26.60- 29.00 Sí, eso me pasó a mí.
+  29.00- 35.00 Pero yo había aprendido la oración del grimorio sagrado y secreto de San Benito
+  35.00- 39.00 y decidí hacerla después de aquella situación.
+  39.00- 45.00 Al día siguiente, a mi carrito empezaron a llover clientes, no lo podía creer.
+  45.00- 53.00 Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa.
+  53.00- 54.00 ¡Claro!
+  54.00- 58.00 Presten mucha atención porque posiblemente este video saldrá del aire muy rápido.
+  58.00- 62.76 No quieren que tengas acceso a esto, porque es una oración muy poderosa.
+  62.76- 63.76 Repitan conmigo.
+  63.76- 70.60 O poderoso San Benito, guardían de los misterios sagrados, que venciste a la serpiente con
+  70.60- 77.00 la señal de la cruz y callaste el rugido del abismo con tu fe inquebrantable, invoco ahora
+  77.00- 80.40 las doce palabras selladas por tu mano.
+  80.40- 87.20 Crux, Lux, Fiddes, Ignes, Veritas, Silencio, Gladius, Fortitude, Custodia, Sanctitas, Espíritus
+  87.20- 89.40 y Triunfus.
+  89.40- 94.04 Esta es la poderosísima oración de las 12 palabras del Grimorio sagrado y secreto de
+  94.04- 99.72 San Benito. Están surgiendo relatos de bendiciones todos los días. Fue escrita por el propio
+  99.72-105.64 San Benito en su regla y se mantuvo en secreto durante 918 años.
+ 105.64-110.84 un grupo de monjes tenía acceso a esta oración completa, la traje de una excursión que hice
+ 110.84-116.02 a Italia y decidí compartirla con ustedes. La última vez que enseñé esta oración
+ 116.02-122.94 en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.
+ 122.94-127.32 Pero atención, tiene que hacerse de la forma correcta, según las instrucciones del
+ 127.32-132.00 grimorio porque no es una oración común, tiene instrucciones y una manera correcta
+ 132.00-137.98 de hacerla y de escucharla. Voy a pedirle a la producción que deje el grimorio sagrado
+ 137.98-142.86 y secreto de San Benito disponible en este sitio para que puedan hacerla de la forma
+ 142.86-148.62 correcta, pero no sé por cuánto tiempo va a estar disponible. Y quien obtenga el grimorio
+ 148.62-154.26 hoy recibirá de regalo un collar de plata de San Benito el mismo que se usaba en sus
+ 154.26-159.10 oraciones. Acede mientras todavía es posible. A partir de hoy le darás la bienvenida
+ 159.10-163.62 a una vida próspera. Vuelve aquí después de siete días para contar las bendiciones
+ 163.62-167.46 que llegaron a tu vida. Envía este video a quien amas y haz la oración
+ 167.46-168.46 de la forma correcta.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

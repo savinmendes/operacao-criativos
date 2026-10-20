@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B1\\B1.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 3.033333333333333,
+  "fala_s": 2.37,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 3.033333333333333
+   }
+  ],
+  "ganho_db": 2.9
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\B1 - ORILLA-YA-NI-SE-VEIA-ES-CL.mp4"
+}

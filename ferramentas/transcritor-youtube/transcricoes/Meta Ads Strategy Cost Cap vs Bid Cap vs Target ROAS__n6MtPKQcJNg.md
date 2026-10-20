@@ -1,0 +1,75 @@
+# Meta Ads Strategy: Cost Cap vs Bid Cap vs Target ROAS?
+
+| | |
+|---|---|
+| Canal | David Parrottino |
+| Duração | 15:50 |
+| Publicado | 31/10/2025 |
+| URL | https://www.youtube.com/watch?v=n6MtPKQcJNg |
+| Origem da transcrição | auto-legenda (en-orig) |
+| Transcrito em | 13/10/2026 19:52 |
+| Blocos | 31 (janela de 30s) |
+
+---
+
+**[00:00]** Hey guys, David Perettino here, and in this video, I'm going to be going over a common question that I get as I audit different brands and speak with different founders. What's the difference between a cost cap, a bid cap, and target ROAS? Now, most advertisers lose thousands of dollars every single month on Meta because they don't actually understand how the bidding system works. They simply set a campaign to highest volume, throw in a budget, and just hope Meta figures it out. But, here's the truth. Meta's is
+
+**[00:31]** insanely powerful. They've invested hundreds of billions of dollars into improving their algorithm and their platform, and it is the best ad delivery system in the world. But, if you don't give it proper guardrails, it'll just spend your money wherever it can, not necessarily where it should, and not necessarily with a focus on a return on that ad spend. So, in this video, I'm breaking down exactly how Meta decides who sees your ads, the difference between highest
+
+**[01:02]** volume and highest value, and then how to use cost cap, bid cap, and target ROAS to actually control your spend, stabilize your CPA, and scale up your ads profitably. Let's start with the biggest mistake that I see when auditing ad accounts. Advertisers just crank their budget from $100 a day up to $1,000 a day, thinking that more budget will simply lead to more sales, and then all metrics will stay constant. But, Meta is not
+
+**[01:33]** emotional. It just takes your money and goes fishing. And when you increase budgets rapidly like that, especially on highest volume and lowest cost, Meta will just spend your money a lot less profitably than that first $100. And without cost controls, it'll just pay whatever it takes to get conversions. Even if your CPA is somewhere around $60, and it's happily spending, you know, $95 or $100 to acquire customers. That's why so many brands scale too fast and then panic as soon as ROAS drops
+
+**[02:05]** overnight. Now, one solution is cost controls, and I believe it is the best solution out there. Cost controls with inflated budgets. They'll let you scale up aggressively without sacrificing efficiency. So, they give you more upside potential on days where there's increased inventory for purchases while having downside protection on days that are slower. Now, it's like a cruise control for your ad spend, focusing on the cost per
+
+**[02:35]** result rather than the amount that you're spending every single day. Now, let's talk about how Meta thinks in terms of its two lowest costs, uh manual, um manual bid or not manual bids, lowest cost bid. So, you can run your ads two different ways where Meta ensures full delivery of your ad budget. The first is highest volume, the second is highest value. Now, before you touch any cost control, you need to understand the two ways that Meta runs your campaigns by
+
+**[03:05]** default. Again, highest volume and highest value. Highest volume is also known as lowest cost. So, Meta's goal there is get you the most conversions possible, and it does that primarily on focusing on getting the cheapest customers possible. Now, this means that Meta will go after customers that it thinks it it can acquire at the lowest possible cost without any regard for return on that. So, if you're a brand that has different AOVs, um you have products that are $30, you have products that are $50, and products that are $100, Meta is more
+
+**[03:37]** more than likely going to go after uh customers that uh want to buy a $30 product, for example, right? There's no cost limit on highest volume. There's no restrictions. You just guarantee that you spend the volume and that you get impressions, and Meta just tries to get some conversions, all right? Even if they're lower quality, it'll still go after those people. Highest value, on the other hand, will also spend your entire budget and ensure delivery, but it's about prioritizing people who are more likely to spend
+
+**[04:08]** more. So, you'll see with this that CPMs are typically higher, CPCs are are typically higher, um but in a lot of accounts that I manage that have higher AOVs, um this tends to to to to do well. So, um we're not necessarily focusing on getting the lowest cost here. We're we're focusing on getting the most amount of revenue, the most amount of value per each customer. So, both of these are fully automated. Meta decides, uh you know, how to allocate your your budget, and it'll spend your budget, you know, without any
+
+**[04:39]** guardrails in place. All right, that's where the problem is. There's no guardrails, and that's where manual bids, i.e. cost caps, bid caps, and target ROAS can really help you. Now, talking about each of these, you have cost cap, we have bid cap, we have target cost or target ROAS. Let's break down each of these. Okay. Cost cap is typically where I start with brands. And the reason why is you can get more volume than bid cap
+
+**[05:10]** and typically more volume than target ROAS as well. Here's what cost cap means. Get as many conversions as you possibly can, but keep the average cost here Sorry. The average cost here under what you set it as. So, it'll bid for conversions above your target CPA. It'll bid convert for
+
+**[05:41]** conversions below. In it in aggregate over your attribution window, which is primarily 7-day click, 1-day view on Meta, it'll aim to average for your target cost. So, if you have a break-even of around $60, and that's what you want to set your cost cap at, Meta will typically in the first few days get conversions that are, you know, $70, $50, $75. But, knowing that it's a 7-day attribution window, which resets every single day, by the way, you need at
+
+**[06:13]** least 7 days of of data to be able to tell what your actual target CPA is on this target cost per cost cap campaign. So, Meta will typically go above and beyond to learn and optimize, but over time it'll average and it'll stabilize right around that number. You can get a lot of volume with cost caps and inflated budgets. It's incredibly powerful. Um instead of just capping spend at a daily spend, right? You set a high budget and you give Meta more room to go hunt for
+
+**[06:43]** conversions on days where there's that inventory available. So, you have the best of both worlds here, in my opinion. You have the you know, you have the stability of having a cost control, um but you also have, you know, compared to bid cap, a lot more spend. A lot more volume can get through on a cost cap. So, my tip is I typically start slightly above my break-even CPA when launching cost caps. I want to make sure that we're getting volume through, and then
+
+**[07:14]** I'll slowly reduce the cost cap to get my actual efficiency target. So, um you know, a lot of this is because in the learning phase, we want to give Meta the ability to go get data that it it can then use with your constraint. Um so, that's why I set the target cost above my actual target initially, and then I know that I'm going to bring that down in the coming days to be more efficient in the ad account.
+
+**[07:47]** Next up, bid cap. So, this is the best in terms of controlling your cost per result, right? Now, a bid cap will it'll only bid up to what you set your bid cap at. So, if you set your bid cap at $50, it will not bid for conversions that it thinks it can get for $51, right? Whereas cost cap will average it out. So, with bid cap, you're essentially saying, I only want to bid this much in every single auction, take it or leave it. Now, remember,
+
+**[08:17]** each auction is different. And based on your attribution settings, again, most advertisers do 7-day click, 1-day view, your auction will change every single day. So, it's very important to be mindful of your manual bids, especially around holidays or sales. The most obvious obvious example is Black Friday, Cyber Monday, right? But, if you're a brand and you're running a sale and Meta doesn't know that you're running a sale, you have to be able to adjust your your bid cap and cost caps accordingly because the attribution window resets every single day. So,
+
+**[08:48]** um with bid cap, again, I like to start my bid much higher than I do with cost caps, knowing that I'm going to bring it down over time, but I want to make sure I'm getting those impressions, getting that data through, and then I'll become more efficient with my results over time. So, I'll use bid cap when I know that a brand uh is is really focusing on profitability um and is willing to sacrifice some scale, um but I'll typically start at a cost cap and then work my way to bid cap if I need to be more efficient. So, every brand's different, but um that's
+
+**[09:20]** the main difference between bid cap and cost cap. Again, bid caps are much more efficient, um cost caps get more volume. Both can be really effective at a high budget, um and especially, you know, brand to brand, um some brands do a lot better with one strategy versus the other. And then finally, there's target ROAS. So, target ROAS is the cost controlled version for highest value bidding. Um essentially, you set a target ROAS that you want. Say you want a 2.5 ROAS, and
+
+**[09:51]** you do the same thing. You set a super high budget, and you say, "Hey Meta, go acquire these customers." Typically, highest um highest cost I'm sorry, highest value and target cost will be on a 7-day click attribution window. Um since it's optimizing for value, you don't have the view data. It's just click. So, uh be mindful that if you're getting a 2.5x ROAS in platform on Meta, you're actually likely getting a much higher ROAS than that when you factor in view-through conversions. And if you're a high AOV brand,
+
+**[10:22]** you need to use attribution tools like Triplewhale or Northbeam or um or any of the other attribution tools to be able to extend that uh attribution window out past 28 days, so that you can actually see the impact of your ads, because every 7-day attribution window is going to be different. And again, the most obvious example of that would be during any sale moment. So, with highest value bidding and target ROAS bidding, this typically works best with ecom stores
+
+**[10:53]** that have multiple price points or high AOV products, say $200 or more. Now, the catch is if you set a super aggressive target ROAS like a 4x, right? Meta will significantly throttle your delivery, and um you won't get enough data over time. So, you really have to be mindful that Meta is a second-price sealed auction, meaning um meaning that your bid is going up against other advertisers' bids, and the average ROAS on Meta is around a two. So, if you're trying to bid for a four
+
+**[11:25]** ROAS, you're giving Meta uh essentially like a 99th percentile outcome that you want. And so, it's going to say we can't do that, and that's okay, right? That's okay. Um, but set your business model up so that it can succeed around a two ROAS, and you'll see, you know, really good uh benefits from from doing that. Now, I went over the three options, right? You have cost cap, bid cap, target ROAS. How do you decide
+
+**[11:56]** which one is best for you? Now, here's my rule of thumb, right? When I take on an account, when I take on a client, I want to give myself the longest runway possible. So, I start with highest volume or highest value to collect data and see what it looks like on those settings, right? If results are good, there's no reason to initially pivot to one of these, right? If results are good, keep scaling your budget up until it breaks, until it your cost per result rises, where your ROAS declines to a
+
+**[12:27]** point where you need to be more efficient, and then introduce cost cap. Okay? I like to introduce cost cap at an inflated budget so that I can still get an increase in volume without sacrificing, you know, that that volume. I'm still able to scale and add account, um but I give Meta some sort of accountability in terms of cost, right? And then from there, if I need to be even more efficient, I'll switch the entire account to a bid cap. And
+
+**[13:00]** this varies brand to brand, like I mentioned, but bid cap can be really tricky. And it's very important that, you know, you're you're monitoring these daily, um making adjustments, you know, throughout the day, especially on high spending days, um and it does take quite a bit of experience to be able to do it well. So, every strategy, essentially um it it
+
+**[13:30]** you know, they all have their pros and cons, right? In a perfect world, we'd all be running lowest cost, highest volume, and we'd just be increasing budget every single day, and returns would stay constant. But, that's not how what Meta works anymore. It's not 2020, 2021. Um you know, there's there's inventory that's available, and that changes every single day. And us as marketers, us as humans are unable to guess that correctly, right? So, using manual bids with inflated budgets
+
+**[14:02]** takes the human guesswork out of how much should I spend every day, and essentially holds Meta accountable to getting a certain return on your ad dollars. And it can be very powerful when done correctly. So, there you have it. This is the full breakdown of how Meta and its ads and its manual bids actually work. So, if you're currently running ads without them, you're essentially letting Meta write
+
+**[14:33]** its own blank check. Now, if results are good, and you're happy with what you're getting on highest volume or highest value bidding, then keep doing what you're doing. But, if you need to be more efficient in your ad account, if you're struggling to scale every time you increase budget on highest volume or highest value, and your CPMs rise, your cost per clicks rise, your cost per purchase rises, right? It might be time to start introducing this strategy. So, pair this with a strong creative strategy, you know, all the other best
+
+**[15:04]** practices that we that we talk about with Meta ads, um partnership ads, right? Um making sure you have an organic presence, making sure your your email marketing is tied in um to what you're doing on on paid as well, right? It it it's it it can really complement a holistic business when when done correctly. So, um hopefully you found this helpful. Again, I've spent over $100 million on the platform. Most accounts that I manage are fully cost controlled and I see great results. So, if you enjoyed this guys, hit the like
+
+**[15:36]** button, hit the subscribe button. I make content like this every week. I share strategies in real time that are helpful and actually move the needle forward. So, I will see you on the next video. Thanks.

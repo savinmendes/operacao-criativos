@@ -1,0 +1,28 @@
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b1.mp4
+t1_final.mp4: 82 quadros a partir de 318.933s
+t2_final.mp4: 70 quadros a partir de 321.667s
+t3_final.mp4: 68 quadros a partir de 326.7s
+t4_final.mp4: 42 quadros a partir de 333.3s
+t5_final.mp4: 50 quadros a partir de 336.033s
+t6_final.mp4: 90 quadros a partir de 353.433s
+hook_cobre.mp4: 46 quadros a partir de 0.0s
+bandG.mp4: 55 quadros a partir de 342.6s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b1.mp4 | 12501 quadros, 503 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\desfocar_regioes.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b2.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b2.mp4 | 76 quadros desfocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_texto_tela.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b2.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b3.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b3.mp4 | 73 quadros com texto trocado
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b3.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\p1.mp3
+aviso: fala nova 2.37s para 3.58s exigiria 0.66x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\b4.mp4 | trecho 10.72-14.30s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad01\parte2.mp4 22.38s
+aviso: 7.3 min não cabe em 30 MB com qualidade; usando 900 kbps (~55 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4
+duração : 439.03s | 720x1280 | áudio: sim | 53.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 - LYMPHORIA-MENOPAUSIA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 435.84s
+montagem rápida: 60s para 439s de vídeo (0.14x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 01 - LYMPHORIA-MENOPAUSIA-ES-LATAM.mp4

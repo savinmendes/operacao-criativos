@@ -1,0 +1,1391 @@
+[
+ {
+  "w": "Millones",
+  "ini": 0.058,
+  "fim": 0.546,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 0.58,
+  "fim": 0.639,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "personas",
+  "ini": 0.697,
+  "fim": 1.115,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "llevan",
+  "ini": 1.138,
+  "fim": 1.405,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "esta",
+  "ini": 1.463,
+  "fim": 1.637,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "medalla",
+  "ini": 1.683,
+  "fim": 2.078,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 2.229,
+  "fim": 2.31,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "no",
+  "ini": 2.438,
+  "fim": 2.577,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "saben",
+  "ini": 2.647,
+  "fim": 2.949,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lo",
+  "ini": 2.995,
+  "fim": 3.077,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 3.123,
+  "fim": 3.204,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dicen",
+  "ini": 3.239,
+  "fim": 3.471,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "esas",
+  "ini": 3.529,
+  "fim": 3.727,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "letras.",
+  "ini": 3.808,
+  "fim": 4.307,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Hoy",
+  "ini": 4.481,
+  "fim": 4.714,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "te",
+  "ini": 4.76,
+  "fim": 4.83,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "las",
+  "ini": 4.876,
+  "fim": 5.016,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "voy",
+  "ini": 5.074,
+  "fim": 5.294,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 5.329,
+  "fim": 5.352,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "enseñar.",
+  "ini": 5.422,
+  "fim": 6.072,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Repite",
+  "ini": 6.316,
+  "fim": 6.641,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "conmigo.",
+  "ini": 6.687,
+  "fim": 7.094,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Crux",
+  "ini": 7.525,
+  "fim": 7.815,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 1,
+  "papel": "latim"
+ },
+ {
+  "w": "sancta",
+  "ini": 7.908,
+  "fim": 8.338,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 1,
+  "papel": "latim"
+ },
+ {
+  "w": "sit",
+  "ini": 8.396,
+  "fim": 8.616,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 1,
+  "papel": "latim"
+ },
+ {
+  "w": "mihi",
+  "ini": 8.698,
+  "fim": 9.023,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 1,
+  "papel": "latim"
+ },
+ {
+  "w": "lux.",
+  "ini": 9.081,
+  "fim": 9.557,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 1,
+  "papel": "latim"
+ },
+ {
+  "w": "La",
+  "ini": 10.048,
+  "fim": 10.188,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "santa",
+  "ini": 10.234,
+  "fim": 10.501,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "cruz",
+  "ini": 10.548,
+  "fim": 10.791,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "sea",
+  "ini": 10.815,
+  "fim": 11.047,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "mi",
+  "ini": 11.093,
+  "fim": 11.174,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "luz.",
+  "ini": 11.221,
+  "fim": 11.639,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 1,
+  "papel": "traducao"
+ },
+ {
+  "w": "Non",
+  "ini": 12.184,
+  "fim": 12.37,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 2,
+  "papel": "latim"
+ },
+ {
+  "w": "draco",
+  "ini": 12.405,
+  "fim": 12.776,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 2,
+  "papel": "latim"
+ },
+ {
+  "w": "sit",
+  "ini": 12.834,
+  "fim": 13.043,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 2,
+  "papel": "latim"
+ },
+ {
+  "w": "mihi",
+  "ini": 13.124,
+  "fim": 13.426,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 2,
+  "papel": "latim"
+ },
+ {
+  "w": "dux.",
+  "ini": 13.484,
+  "fim": 13.972,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 2,
+  "papel": "latim"
+ },
+ {
+  "w": "Que",
+  "ini": 14.359,
+  "fim": 14.487,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "el",
+  "ini": 14.51,
+  "fim": 14.591,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "mal",
+  "ini": 14.684,
+  "fim": 14.893,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "no",
+  "ini": 14.951,
+  "fim": 15.056,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "sea",
+  "ini": 15.114,
+  "fim": 15.323,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "mi",
+  "ini": 15.381,
+  "fim": 15.473,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "guía.",
+  "ini": 15.532,
+  "fim": 16.031,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 2,
+  "papel": "traducao"
+ },
+ {
+  "w": "Vade",
+  "ini": 16.576,
+  "fim": 16.866,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 3,
+  "papel": "latim"
+ },
+ {
+  "w": "retro,",
+  "ini": 16.936,
+  "fim": 17.272,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 3,
+  "papel": "latim"
+ },
+ {
+  "w": "Satana.",
+  "ini": 17.296,
+  "fim": 17.934,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 3,
+  "papel": "latim"
+ },
+ {
+  "w": "¡Apártate,",
+  "ini": 18.228,
+  "fim": 19.146,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 3,
+  "papel": "traducao"
+ },
+ {
+  "w": "Satanás!",
+  "ini": 19.18,
+  "fim": 19.993,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 3,
+  "papel": "traducao"
+ },
+ {
+  "w": "Numquam",
+  "ini": 20.527,
+  "fim": 21.049,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 4,
+  "papel": "latim"
+ },
+ {
+  "w": "suade",
+  "ini": 21.119,
+  "fim": 21.502,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 4,
+  "papel": "latim"
+ },
+ {
+  "w": "mihi",
+  "ini": 21.56,
+  "fim": 21.815,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 4,
+  "papel": "latim"
+ },
+ {
+  "w": "vana.",
+  "ini": 21.873,
+  "fim": 22.326,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 4,
+  "papel": "latim"
+ },
+ {
+  "w": "Nunca",
+  "ini": 22.725,
+  "fim": 23.119,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 4,
+  "papel": "traducao"
+ },
+ {
+  "w": "me",
+  "ini": 23.166,
+  "fim": 23.224,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 4,
+  "papel": "traducao"
+ },
+ {
+  "w": "aconsejes",
+  "ini": 23.236,
+  "fim": 23.839,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 4,
+  "papel": "traducao"
+ },
+ {
+  "w": "cosas",
+  "ini": 23.909,
+  "fim": 24.269,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 4,
+  "papel": "traducao"
+ },
+ {
+  "w": "vanas.",
+  "ini": 24.35,
+  "fim": 24.919,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 4,
+  "papel": "traducao"
+ },
+ {
+  "w": "Sunt",
+  "ini": 25.348,
+  "fim": 25.638,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 5,
+  "papel": "latim"
+ },
+ {
+  "w": "mala",
+  "ini": 25.731,
+  "fim": 26.01,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 5,
+  "papel": "latim"
+ },
+ {
+  "w": "quae",
+  "ini": 26.068,
+  "fim": 26.219,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 5,
+  "papel": "latim"
+ },
+ {
+  "w": "libas.",
+  "ini": 26.242,
+  "fim": 26.776,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 5,
+  "papel": "latim"
+ },
+ {
+  "w": "Es",
+  "ini": 27.14,
+  "fim": 27.36,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "malo",
+  "ini": 27.442,
+  "fim": 27.697,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "lo",
+  "ini": 27.732,
+  "fim": 27.802,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "que",
+  "ini": 27.848,
+  "fim": 27.918,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "me",
+  "ini": 27.976,
+  "fim": 28.045,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "ofreces.",
+  "ini": 28.08,
+  "fim": 28.765,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 5,
+  "papel": "traducao"
+ },
+ {
+  "w": "Ipse",
+  "ini": 29.194,
+  "fim": 29.543,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 6,
+  "papel": "latim"
+ },
+ {
+  "w": "venena",
+  "ini": 29.589,
+  "fim": 29.902,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 6,
+  "papel": "latim"
+ },
+ {
+  "w": "bibas.",
+  "ini": 29.949,
+  "fim": 30.541,
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha": 6,
+  "papel": "latim"
+ },
+ {
+  "w": "Bebe",
+  "ini": 31.032,
+  "fim": 31.404,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 6,
+  "papel": "traducao"
+ },
+ {
+  "w": "tú",
+  "ini": 31.462,
+  "fim": 31.578,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 6,
+  "papel": "traducao"
+ },
+ {
+  "w": "mismo",
+  "ini": 31.659,
+  "fim": 32.066,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 6,
+  "papel": "traducao"
+ },
+ {
+  "w": "tu",
+  "ini": 32.124,
+  "fim": 32.228,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 6,
+  "papel": "traducao"
+ },
+ {
+  "w": "veneno.",
+  "ini": 32.275,
+  "fim": 32.902,
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha": 6,
+  "papel": "traducao"
+ },
+ {
+  "w": "Esta",
+  "ini": 33.446,
+  "fim": 33.783,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "es",
+  "ini": 33.806,
+  "fim": 33.853,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 33.922,
+  "fim": 33.992,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "oración",
+  "ini": 34.038,
+  "fim": 34.549,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 34.607,
+  "fim": 34.677,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 34.723,
+  "fim": 34.781,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "medalla",
+  "ini": 34.839,
+  "fim": 35.304,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 35.373,
+  "fim": 35.443,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 35.524,
+  "fim": 35.721,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito.",
+  "ini": 35.791,
+  "fim": 36.383,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Los",
+  "ini": 36.766,
+  "fim": 36.94,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "monjes",
+  "ini": 36.998,
+  "fim": 37.289,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "benedictinos",
+  "ini": 37.335,
+  "fim": 38.171,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 38.473,
+  "fim": 38.589,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezan",
+  "ini": 38.705,
+  "fim": 39.053,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "desde",
+  "ini": 39.111,
+  "fim": 39.332,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "hace",
+  "ini": 39.367,
+  "fim": 39.529,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "siglos",
+  "ini": 39.576,
+  "fim": 40.029,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 40.226,
+  "fim": 40.435,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "alejar",
+  "ini": 40.458,
+  "fim": 40.818,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "todo",
+  "ini": 40.923,
+  "fim": 41.19,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lo",
+  "ini": 41.236,
+  "fim": 41.306,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 41.352,
+  "fim": 41.422,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nos",
+  "ini": 41.468,
+  "fim": 41.608,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ata:",
+  "ini": 41.677,
+  "fim": 42.13,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 42.351,
+  "fim": 42.455,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "envidia,",
+  "ini": 42.502,
+  "fim": 43.245,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 43.384,
+  "fim": 43.535,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "mal...",
+  "ini": 43.604,
+  "fim": 44.081,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 44.243,
+  "fim": 44.313,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 44.406,
+  "fim": 44.464,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "escasez.",
+  "ini": 44.51,
+  "fim": 45.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Pero",
+  "ini": 45.95,
+  "fim": 46.135,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "presta",
+  "ini": 46.194,
+  "fim": 46.449,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "atención:",
+  "ini": 46.484,
+  "fim": 47.204,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "no",
+  "ini": 47.622,
+  "fim": 47.738,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "basta",
+  "ini": 47.761,
+  "fim": 48.051,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 48.098,
+  "fim": 48.19,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "repetirla",
+  "ini": 48.248,
+  "fim": 48.759,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 48.817,
+  "fim": 48.945,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vez.",
+  "ini": 49.003,
+  "fim": 49.386,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Los",
+  "ini": 49.7,
+  "fim": 49.862,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "monjes",
+  "ini": 49.92,
+  "fim": 50.222,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 50.245,
+  "fim": 50.292,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezaban",
+  "ini": 50.373,
+  "fim": 50.872,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "dentro",
+  "ini": 51.174,
+  "fim": 51.557,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 51.604,
+  "fim": 51.65,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "un",
+  "ini": 51.708,
+  "fim": 51.79,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "camino",
+  "ini": 51.848,
+  "fim": 52.173,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 52.219,
+  "fim": 52.254,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "oración,",
+  "ini": 52.277,
+  "fim": 52.881,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "día",
+  "ini": 53.101,
+  "fim": 53.38,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "tras",
+  "ini": 53.438,
+  "fim": 53.635,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "día,",
+  "ini": 53.693,
+  "fim": 54.111,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 54.274,
+  "fim": 54.471,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "fe",
+  "ini": 54.576,
+  "fim": 54.866,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "e",
+  "ini": 55.04,
+  "fim": 55.121,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "intención.",
+  "ini": 55.191,
+  "fim": 55.992,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Por",
+  "ini": 56.689,
+  "fim": 56.851,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "eso",
+  "ini": 56.886,
+  "fim": 57.002,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nació",
+  "ini": 57.037,
+  "fim": 57.269,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 57.293,
+  "fim": 57.339,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Camino",
+  "ini": 57.397,
+  "fim": 57.676,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 57.711,
+  "fim": 57.769,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Fe",
+  "ini": 57.838,
+  "fim": 58.001,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 58.036,
+  "fim": 58.187,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 58.233,
+  "fim": 58.372,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito,",
+  "ini": 58.419,
+  "fim": 59.092,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "para",
+  "ini": 59.371,
+  "fim": 59.58,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 59.638,
+  "fim": 59.731,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 59.777,
+  "fim": 59.847,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "reces",
+  "ini": 59.998,
+  "fim": 60.485,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "de",
+  "ini": 60.532,
+  "fim": 60.578,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "la",
+  "ini": 60.636,
+  "fim": 60.694,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "forma",
+  "ini": 60.776,
+  "fim": 61.112,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "correcta.",
+  "ini": 61.17,
+  "fim": 61.971,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Reza",
+  "ini": 62.575,
+  "fim": 62.819,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "conmigo",
+  "ini": 62.865,
+  "fim": 63.225,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "durante",
+  "ini": 63.248,
+  "fim": 63.632,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "siete",
+  "ini": 63.701,
+  "fim": 64.073,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "días",
+  "ini": 64.131,
+  "fim": 64.491,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 64.816,
+  "fim": 64.932,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vuelve",
+  "ini": 64.99,
+  "fim": 65.245,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "aquí",
+  "ini": 65.269,
+  "fim": 65.431,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 65.454,
+  "fim": 65.478,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "contarme",
+  "ini": 65.524,
+  "fim": 65.977,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "lo",
+  "ini": 66.012,
+  "fim": 66.081,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 66.116,
+  "fim": 66.186,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "cambió",
+  "ini": 66.232,
+  "fim": 66.581,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 66.627,
+  "fim": 66.685,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "tu",
+  "ini": 66.755,
+  "fim": 66.859,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vida.",
+  "ini": 66.906,
+  "fim": 67.347,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Comparte",
+  "ini": 68.159,
+  "fim": 68.821,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "este",
+  "ini": 68.868,
+  "fim": 69.077,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video",
+  "ini": 69.135,
+  "fim": 69.495,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 69.541,
+  "fim": 69.681,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "alguien",
+  "ini": 69.75,
+  "fim": 69.994,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "que",
+  "ini": 70.052,
+  "fim": 70.122,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "necesita",
+  "ini": 70.168,
+  "fim": 70.749,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "un",
+  "ini": 70.807,
+  "fim": 70.853,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "milagro.",
+  "ini": 70.923,
+  "fim": 71.62,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Ahora",
+  "ini": 72.432,
+  "fim": 72.676,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "mismo",
+  "ini": 72.734,
+  "fim": 72.966,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "está",
+  "ini": 72.99,
+  "fim": 73.164,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "ocurriendo",
+  "ini": 73.222,
+  "fim": 73.837,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "una",
+  "ini": 74.22,
+  "fim": 74.452,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "transmisión",
+  "ini": 74.499,
+  "fim": 75.161,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "en",
+  "ini": 75.23,
+  "fim": 75.3,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "vivo",
+  "ini": 75.358,
+  "fim": 75.683,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 75.753,
+  "fim": 75.915,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "San",
+  "ini": 75.973,
+  "fim": 76.113,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Benito.",
+  "ini": 76.159,
+  "fim": 76.763,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "Toca",
+  "ini": 77.204,
+  "fim": 77.448,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "el",
+  "ini": 77.471,
+  "fim": 77.517,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "botón",
+  "ini": 77.564,
+  "fim": 77.993,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "<<Ver",
+  "ini": 78.063,
+  "fim": 78.411,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "más»,",
+  "ini": 78.493,
+  "fim": 79.062,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "aquí",
+  "ini": 79.271,
+  "fim": 79.526,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "abajo",
+  "ini": 79.549,
+  "fim": 79.897,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "del",
+  "ini": 79.932,
+  "fim": 80.048,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "video,",
+  "ini": 80.106,
+  "fim": 80.594,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "y",
+  "ini": 80.803,
+  "fim": 80.896,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "entra",
+  "ini": 80.989,
+  "fim": 81.244,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "a",
+  "ini": 81.267,
+  "fim": 81.291,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "rezar",
+  "ini": 81.36,
+  "fim": 81.639,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "con",
+  "ini": 81.697,
+  "fim": 81.802,
+  "personagem": "sacerdote"
+ },
+ {
+  "w": "nosotros.",
+  "ini": 81.836,
+  "fim": 82.545,
+  "personagem": "sacerdote"
+ }
+]

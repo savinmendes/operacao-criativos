@@ -1,0 +1,30 @@
+REVISÃO: SB-ES_APP_COMPLETA.mp4
+duração 57.40s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 48.1 MB
+decodificação: OK
+pts do áudio: 2692 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\app\completa\revisao\SB-ES_APP_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.64 Resedentro de mi carro, a las tres de la mañana, sin un solo viaje, y esto fue lo que pasó.
+   6.64-  8.68 ¡Oh glorioso San Benito!
+   8.68- 10.68 ¡Sácame de esta escasez!
+  13.24- 15.52 Pasé casi seis meses casi sin viajes.
+  15.52- 18.56 Mis hijos me pedían cosas y yo les decía que mañana.
+  18.56- 24.64 Me sentía un fracasado, hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  24.64- 30.36 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras,
+  30.36- 35.08 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  35.08- 41.42 de la forma correcta la casa se calma, el miedo se va y uno vuelve a ver salidas donde
+  41.42- 47.20 antes solo veía puertas cerradas. Por eso dejé la explicación completa, letra por
+  47.20- 51.80 letra en una transmisión en vivo que está abierta las 24 horas.
+  51.80- 56.92 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

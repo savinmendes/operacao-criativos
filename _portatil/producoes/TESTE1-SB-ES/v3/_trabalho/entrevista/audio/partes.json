@@ -1,0 +1,541 @@
+{
+ "A01": {
+  "arquivo": "audio/A01.wav",
+  "texto": "Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.",
+  "dur": 12.578,
+  "corte_fonte": [
+   0.0,
+   12.681
+  ],
+  "pausas_removidas": [
+   [
+    2.401,
+    2.452
+   ],
+   [
+    8.589,
+    8.641
+   ]
+  ],
+  "palavras": [
+   {
+    "w": "Sí,",
+    "ini": 0.035,
+    "fim": 0.464
+   },
+   {
+    "w": "eso",
+    "ini": 0.697,
+    "fim": 1.033
+   },
+   {
+    "w": "me",
+    "ini": 1.091,
+    "fim": 1.196
+   },
+   {
+    "w": "pasó",
+    "ini": 1.265,
+    "fim": 1.672
+   },
+   {
+    "w": "a",
+    "ini": 1.753,
+    "fim": 1.788
+   },
+   {
+    "w": "mí.",
+    "ini": 1.858,
+    "fim": 2.276
+   },
+   {
+    "w": "Pero",
+    "ini": 2.526,
+    "fim": 2.84
+   },
+   {
+    "w": "yo",
+    "ini": 2.91,
+    "fim": 3.06
+   },
+   {
+    "w": "había",
+    "ini": 3.119,
+    "fim": 3.595
+   },
+   {
+    "w": "aprendido",
+    "ini": 3.618,
+    "fim": 4.349
+   },
+   {
+    "w": "la",
+    "ini": 4.419,
+    "fim": 4.512
+   },
+   {
+    "w": "oración",
+    "ini": 4.558,
+    "fim": 5.185
+   },
+   {
+    "w": "del",
+    "ini": 5.255,
+    "fim": 5.394
+   },
+   {
+    "w": "Grimorio",
+    "ini": 5.464,
+    "fim": 6.056
+   },
+   {
+    "w": "Sagrado",
+    "ini": 6.114,
+    "fim": 6.706
+   },
+   {
+    "w": "y",
+    "ini": 6.752,
+    "fim": 6.776
+   },
+   {
+    "w": "Secreto",
+    "ini": 6.845,
+    "fim": 7.426
+   },
+   {
+    "w": "de",
+    "ini": 7.484,
+    "fim": 7.565
+   },
+   {
+    "w": "San",
+    "ini": 7.623,
+    "fim": 7.774
+   },
+   {
+    "w": "Benito",
+    "ini": 7.832,
+    "fim": 8.413
+   },
+   {
+    "w": "y",
+    "ini": 8.663,
+    "fim": 8.779
+   },
+   {
+    "w": "decidí",
+    "ini": 8.883,
+    "fim": 9.429
+   },
+   {
+    "w": "hacerla",
+    "ini": 9.533,
+    "fim": 10.125
+   },
+   {
+    "w": "después",
+    "ini": 10.195,
+    "fim": 10.718
+   },
+   {
+    "w": "de",
+    "ini": 10.764,
+    "fim": 10.834
+   },
+   {
+    "w": "aquella",
+    "ini": 10.868,
+    "fim": 11.379
+   },
+   {
+    "w": "situación.",
+    "ini": 11.437,
+    "fim": 12.378
+   }
+  ],
+  "pausas_restantes": [
+   [
+    0.464,
+    0.697
+   ],
+   [
+    2.276,
+    2.526
+   ],
+   [
+    8.413,
+    8.663
+   ]
+  ]
+ },
+ "A02": {
+  "arquivo": "audio/A02.wav",
+  "texto": "Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.",
+  "dur": 6.407,
+  "corte_fonte": [
+   0.0,
+   6.574
+  ],
+  "pausas_removidas": [
+   [
+    4.456,
+    4.623
+   ]
+  ],
+  "palavras": [
+   {
+    "w": "Al",
+    "ini": 0.046,
+    "fim": 0.186
+   },
+   {
+    "w": "día",
+    "ini": 0.244,
+    "fim": 0.453
+   },
+   {
+    "w": "siguiente,",
+    "ini": 0.499,
+    "fim": 1.277
+   },
+   {
+    "w": "a",
+    "ini": 1.382,
+    "fim": 1.44
+   },
+   {
+    "w": "mi",
+    "ini": 1.509,
+    "fim": 1.614
+   },
+   {
+    "w": "carrito",
+    "ini": 1.672,
+    "fim": 2.194
+   },
+   {
+    "w": "empezaron",
+    "ini": 2.241,
+    "fim": 2.891
+   },
+   {
+    "w": "a",
+    "ini": 2.972,
+    "fim": 2.995
+   },
+   {
+    "w": "llover",
+    "ini": 3.03,
+    "fim": 3.425
+   },
+   {
+    "w": "clientes.",
+    "ini": 3.506,
+    "fim": 4.331
+   },
+   {
+    "w": "No",
+    "ini": 4.581,
+    "fim": 4.79
+   },
+   {
+    "w": "lo",
+    "ini": 4.86,
+    "fim": 4.965
+   },
+   {
+    "w": "podía",
+    "ini": 5.034,
+    "fim": 5.522
+   },
+   {
+    "w": "creer.",
+    "ini": 5.592,
+    "fim": 6.207
+   }
+  ],
+  "pausas_restantes": [
+   [
+    4.331,
+    4.581
+   ]
+  ]
+ },
+ "A03": {
+  "arquivo": "audio/A03.wav",
+  "texto": "¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?",
+  "dur": 8.188,
+  "corte_fonte": [
+   0.0,
+   8.188
+  ],
+  "pausas_removidas": [],
+  "palavras": [
+   {
+    "w": "¿Podemos",
+    "ini": 0.058,
+    "fim": 0.708
+   },
+   {
+    "w": "poner",
+    "ini": 0.778,
+    "fim": 1.161
+   },
+   {
+    "w": "aquí",
+    "ini": 1.219,
+    "fim": 1.567
+   },
+   {
+    "w": "la",
+    "ini": 1.66,
+    "fim": 1.753
+   },
+   {
+    "w": "transmisión",
+    "ini": 1.811,
+    "fim": 2.694
+   },
+   {
+    "w": "en",
+    "ini": 2.763,
+    "fim": 2.844
+   },
+   {
+    "w": "vivo",
+    "ini": 2.937,
+    "fim": 3.32
+   },
+   {
+    "w": "que",
+    "ini": 3.379,
+    "fim": 3.495
+   },
+   {
+    "w": "se",
+    "ini": 3.553,
+    "fim": 3.669
+   },
+   {
+    "w": "cayó,",
+    "ini": 3.727,
+    "fim": 4.331
+   },
+   {
+    "w": "la",
+    "ini": 4.447,
+    "fim": 4.598
+   },
+   {
+    "w": "que",
+    "ini": 4.679,
+    "fim": 4.818
+   },
+   {
+    "w": "enseña",
+    "ini": 4.865,
+    "fim": 5.608
+   },
+   {
+    "w": "esta",
+    "ini": 5.712,
+    "fim": 6.06
+   },
+   {
+    "w": "oración",
+    "ini": 6.107,
+    "fim": 6.734
+   },
+   {
+    "w": "tan",
+    "ini": 6.838,
+    "fim": 7.094
+   },
+   {
+    "w": "poderosa?",
+    "ini": 7.175,
+    "fim": 7.988
+   }
+  ],
+  "pausas_restantes": []
+ },
+ "R01": {
+  "arquivo": "audio/R01.wav",
+  "texto": "Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.",
+  "dur": 8.801,
+  "corte_fonte": [
+   0.0,
+   8.916
+  ],
+  "pausas_removidas": [
+   [
+    3.48,
+    3.59
+   ],
+   [
+    5.315,
+    5.32
+   ]
+  ],
+  "palavras": [
+   {
+    "w": "Después",
+    "ini": 0.07,
+    "fim": 0.488
+   },
+   {
+    "w": "de",
+    "ini": 0.511,
+    "fim": 0.569
+   },
+   {
+    "w": "ser",
+    "ini": 0.627,
+    "fim": 0.766
+   },
+   {
+    "w": "atacado",
+    "ini": 0.824,
+    "fim": 1.231
+   },
+   {
+    "w": "por",
+    "ini": 1.289,
+    "fim": 1.44
+   },
+   {
+    "w": "un",
+    "ini": 1.509,
+    "fim": 1.579
+   },
+   {
+    "w": "cliente",
+    "ini": 1.625,
+    "fim": 2.159
+   },
+   {
+    "w": "y",
+    "ini": 2.229,
+    "fim": 2.299
+   },
+   {
+    "w": "volverse",
+    "ini": 2.368,
+    "fim": 2.879
+   },
+   {
+    "w": "viral,",
+    "ini": 2.926,
+    "fim": 3.355
+   },
+   {
+    "w": "el",
+    "ini": 3.605,
+    "fim": 3.733
+   },
+   {
+    "w": "carrito",
+    "ini": 3.803,
+    "fim": 4.209
+   },
+   {
+    "w": "de",
+    "ini": 4.267,
+    "fim": 4.325
+   },
+   {
+    "w": "don",
+    "ini": 4.371,
+    "fim": 4.499
+   },
+   {
+    "w": "Aurelio",
+    "ini": 4.569,
+    "fim": 5.08
+   },
+   {
+    "w": "se",
+    "ini": 5.33,
+    "fim": 5.481
+   },
+   {
+    "w": "convirtió",
+    "ini": 5.551,
+    "fim": 6.178
+   },
+   {
+    "w": "en",
+    "ini": 6.259,
+    "fim": 6.41
+   },
+   {
+    "w": "uno",
+    "ini": 6.572,
+    "fim": 6.723
+   },
+   {
+    "w": "de",
+    "ini": 6.781,
+    "fim": 6.839
+   },
+   {
+    "w": "los",
+    "ini": 6.897,
+    "fim": 7.048
+   },
+   {
+    "w": "más",
+    "ini": 7.153,
+    "fim": 7.397
+   },
+   {
+    "w": "pedidos",
+    "ini": 7.443,
+    "fim": 7.849
+   },
+   {
+    "w": "del",
+    "ini": 7.884,
+    "fim": 8.0
+   },
+   {
+    "w": "país.",
+    "ini": 8.07,
+    "fim": 8.604
+   }
+  ],
+  "pausas_restantes": [
+   [
+    3.355,
+    3.605
+   ],
+   [
+    5.08,
+    5.33
+   ],
+   [
+    6.41,
+    6.572
+   ]
+  ]
+ },
+ "R02": {
+  "arquivo": "audio/R02.wav",
+  "texto": "¡Claro!",
+  "dur": 0.789,
+  "corte_fonte": [
+   0.0,
+   0.789
+  ],
+  "pausas_removidas": [],
+  "palavras": [
+   {
+    "w": "¡Claro!",
+    "ini": 0.035,
+    "fim": 0.604
+   }
+  ],
+  "pausas_restantes": []
+ }
+}

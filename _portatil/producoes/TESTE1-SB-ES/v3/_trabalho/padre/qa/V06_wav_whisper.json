@@ -1,0 +1,63 @@
+{
+"arquivo": "vo_V06.wav",
+"whisper": "tiene instrucciones y una manera correcta de hacerla y de escucharla.",
+"palavras": [
+{
+"w": "tiene",
+"ini": 0.0,
+"fim": 0.34
+},
+{
+"w": "instrucciones",
+"ini": 0.34,
+"fim": 1.0
+},
+{
+"w": "y",
+"ini": 1.0,
+"fim": 1.22
+},
+{
+"w": "una",
+"ini": 1.22,
+"fim": 1.42
+},
+{
+"w": "manera",
+"ini": 1.42,
+"fim": 1.7
+},
+{
+"w": "correcta",
+"ini": 1.7,
+"fim": 2.24
+},
+{
+"w": "de",
+"ini": 2.24,
+"fim": 2.4
+},
+{
+"w": "hacerla",
+"ini": 2.4,
+"fim": 3.04
+},
+{
+"w": "y",
+"ini": 3.04,
+"fim": 3.36
+},
+{
+"w": "de",
+"ini": 3.36,
+"fim": 3.56
+},
+{
+"w": "escucharla.",
+"ini": 3.56,
+"fim": 4.0
+}
+],
+"ratio": 1.0,
+"dif": []
+}

@@ -1,0 +1,29 @@
+PERFUMES ÁRABES · KIT HOMBRE 3 EN 1 · COD CHILE · Onda 3 · F1 «La Polola Celosa» (esquete de pareja, ~31 s, 720x1280)
+
+ROTEIRO
+0:00 GANCHO   (ella con el Asad en la mano, lo encara) Ella: «¿Y este perfume? ¿Para quién te estás perfumando tanto?»   [pantalla: ME PILLÓ 😳]
+0:04 ÉL       (nervioso, con los tres frascos) «Eh… son tres… uno pa' cada momento.»
+0:07 OFERTA   (close en los 3 frascos) «Tres perfumes árabes al precio de uno.»
+0:09 DÍA      (unboxing Armaf) «De día, Armaf Club. Fresco, masculino y poderoso.»
+0:13 NOCHE    (unboxing Asad + ella con el Asad) «De noche, Lattafa Asad. Intenso, sofisticado y seductor.»
+0:18 FINDE    (unboxing 9PM) «Y el finde, Afnan 9PM. Elegante, moderno y refinado.»
+0:23 VIRADA   (ella le huele el cuello, se le pasan los celos y lo abraza) Ella: «Ya… pero el Asad lo usas solo conmigo.»
+0:27 CTA      (la pareja con el pack) «Los tres te llegan a la casa y pagas cuando los recibes. ¡Pídelo ahora!» + flechas
+
+Voz de él: Damián (BPwS5yO6aXvwg8auqNwS), TTS.
+Voz de ella: takes Seedance v2, pasada por speech-to-speech a una sola voz femenina chilena (misma voz en el gancho y en la virada).
+Música: ElevenLabs Music, pop-rock latino de comedia (instrumental propia).
+
+TEXTO DEL ANUNCIO (ES-CL, sin precio)
+Título: Me pilló con el perfume 😳 3 por 1
+Texto principal:
+Mi polola encontró el perfume… y casi me mata 😅
+Hasta que lo olió.
+3 perfumes árabes en un solo pack, uno pa' cada momento:
+🖤 Armaf Club de Nuit: fresco, masculino y poderoso (de día)
+🔥 Lattafa Asad: intenso, sofisticado y seductor (de noche… solo con ella 😏)
+✨ Afnan 9PM: elegante, moderno y refinado (el finde)
+📦 Envío en 24 horas
+💳 Pagas cuando lo recibes
+👉 Pídelo ahora
+Botón: Comprar

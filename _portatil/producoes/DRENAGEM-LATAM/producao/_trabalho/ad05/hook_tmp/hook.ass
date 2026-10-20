@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Poppins,151,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,1,0,1,10,4,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.66,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}VI {\c&HFFFFFF&}A {\c&HFFFFFF&}MI
+Dialogue: 0,0:00:00.66,0:00:01.26,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}ESPOSO
+Dialogue: 0,0:00:01.26,0:00:02.29,C,,0,0,0,,{\an5\pos(540,1460)\fscx75\fscy75\t(0,90,\fscx100\fscy100)\t(90,160,\fscx94\fscy94)}{\c&HFFFFFF&}ALMORZANDO {\c&HFFFFFF&}CON
+Dialogue: 0,0:00:02.29,0:00:03.22,C,,0,0,0,,{\an5\pos(540,1460)\fscx69\fscy69\t(0,90,\fscx93\fscy93)\t(90,160,\fscx87\fscy87)}{\c&HFFFFFF&}UNA {\c&H00FFFF&}COMPAÑERA {\c&HFFFFFF&}DE
+Dialogue: 0,0:00:03.22,0:00:04.05,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}TRABAJO...
+Dialogue: 0,0:00:04.05,0:00:04.68,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}Y {\c&HFFFFFF&}POR {\c&HFFFFFF&}FIN
+Dialogue: 0,0:00:04.68,0:00:05.50,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}ENTENDÍ {\c&HFFFFFF&}POR {\c&HFFFFFF&}QUÉ
+Dialogue: 0,0:00:05.50,0:00:05.89,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}YA {\c&HFFFFFF&}NO {\c&HFFFFFF&}ME
+Dialogue: 0,0:00:05.89,0:00:06.62,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}MIRABA.
+Dialogue: 0,0:00:06.62,0:00:07.77,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}VEINTIDÓS {\c&HFFFFFF&}AÑOS
+Dialogue: 0,0:00:07.77,0:00:08.67,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}CASADOS.
+Dialogue: 0,0:00:08.67,0:00:09.78,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}LLEGABA {\c&HFFFFFF&}TARDE,
+Dialogue: 0,0:00:09.78,0:00:10.52,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}EL {\c&H00FFFF&}TELÉFONO
+Dialogue: 0,0:00:10.52,0:00:11.23,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}SIEMPRE {\c&HFFFFFF&}BOCA
+Dialogue: 0,0:00:11.23,0:00:11.94,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}ABAJO...
+Dialogue: 0,0:00:11.94,0:00:12.67,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}Y {\c&HFFFFFF&}APAGABA {\c&HFFFFFF&}LA
+Dialogue: 0,0:00:12.67,0:00:13.40,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&H00FFFF&}LUZ {\c&HFFFFFF&}ANTES {\c&HFFFFFF&}DE
+Dialogue: 0,0:00:13.40,0:00:14.08,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}QUE {\c&HFFFFFF&}YO {\c&HFFFFFF&}ENTRARA
+Dialogue: 0,0:00:14.08,0:00:15.39,C,,0,0,0,,{\an5\pos(540,1460)\fscx80\fscy80\t(0,90,\fscx106\fscy106)\t(90,160,\fscx100\fscy100)}{\c&HFFFFFF&}AL {\c&HFFFFFF&}CUARTO.

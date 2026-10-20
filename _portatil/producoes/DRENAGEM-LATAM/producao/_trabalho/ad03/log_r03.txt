@@ -1,0 +1,32 @@
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\b1.mp4
+t1_fix.mp4: 86 quadros a partir de 407.1s
+t2_fix.mp4: 51 quadros a partir de 419.0s
+t3_fix.mp4: 52 quadros a partir de 420.7s
+t4_fix.mp4: 122 quadros a partir de 482.93s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\b1.mp4 | 19800 quadros, 311 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\concat_cortes.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\editado_full.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\cortes_longo.json
+ok C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\parte1.mp4
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\concat_cortes.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\editado_full.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\cortes_curto.json
+ok C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\curto\parte1.mp4
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\curto C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\curto\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\curto\parte2.mp4 24.24s
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 CURTO - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4
+duração : 89.40s | 720x1280 | áudio: sim | 23.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 CURTO - LYMPHORIA-MEJOR-AMIGA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 85.63s
+montagem rápida: 19s para 89s de vídeo (0.21x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 CURTO - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad03\parte2.mp4 19.87s
+aviso: 7.4 min não cabe em 30 MB com qualidade; usando 900 kbps (~56 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4
+duração : 444.30s | 720x1280 | áudio: sim | 53.9 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 - LYMPHORIA-MEJOR-AMIGA-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 441.12s
+montagem rápida: 75s para 444s de vídeo (0.17x)
+PRONTO C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 03 - LYMPHORIA-MEJOR-AMIGA-ES-LATAM.mp4

@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C1-DON-RAUL/CESPED-CL_C1_DON-RAUL.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C1-DON-RAUL/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C1-DON-RAUL/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C1-DON-RAUL/corpo.alinhamento.json", "chaves": ["denunciar", "pasto", "bencina", "ojo", "probé", "uno", "ruedas", "mano", "metal", "hilos", "inalámbrica", "baterías", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "ME IBAN A DENUNCIAR A LA MUNI 😱", "y": 690, "ate": 5.8},
+  "cta": {"palavra": "toca", "y": 1660, "x": [600, 840]},
+  "resolucao": "720",
+  "limite_mb": 30
+}

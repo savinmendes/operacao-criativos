@@ -1,0 +1,45 @@
+REVISÃO: DW7781_C7_anelReal.mp4
+duração 40.17s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 14.0 MB
+decodificação: OK
+pts do áudio: 1884 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 14 | pares a <0,3 s: 10.83/10.87, 35.53/35.73
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao_final\DW7781_C7_anelReal_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.38 15 posiciones de torque, nunca más pasas un tornillo.
+   3.38-  6.70 Con el anillo eliges entre 15 posiciones de torque.
+   6.70- 10.88 Así el tornillo queda justo, sin pasarlo y sin dañar la madera.
+  10.88- 15.22 Tiene dos velocidades, una para atornillar y otra para perforar.
+  15.22- 19.26 Hasta 1.750 revoluciones.
+  19.26- 22.10 Con el gatillo de velocidad variable controlas cada vuelta.
+  22.10- 24.26 Motor sin carbones.
+  24.26- 27.30 Más eficiencia y menos mantensión.
+  27.30- 29.30 y luz led para ver en los rincones oscuros.
+  30.30- 33.30 Trae dos materías con indicador de carga, cargador y maleta.
+  33.30- 35.30 Aprovecha el Pre-Black Friday.
+  35.30- 39.30 Pídelo hoy y pagas recién cuando te llegue, envío a todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  3.34    15 posições de torre, nunca mais passa um torre.
+   3.34-  6.44    Com o anilha, escolha entre 15 posições de torre.
+   6.44- 10.48    Assim, o torre fica justo, sem passar e sem dançar a madeira.
+  10.48- 14.50    Tem dois velocidades, uma para tornear e outra para perforar.
+  14.50- 18.00    Até 1.750 revoluções.
+  19.00- 22.00    Com o gatilho de velocidade variável, controla cada volta.
+  22.00- 24.00    Motor sem carbons.
+  24.00- 27.00    Mais eficiência e menos mantenção.
+  27.00- 29.00    E luz LED para ver os rincones escuros.
+  30.00- 33.30    Trai dois materiais com indicador de carga, carabar e maleta.
+  33.30- 39.30    Aproveita o Pre-Black Friday, pide-o hoje e paga reciente quando você chega enviado a todo Chile.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 10.83s e 10.87s (33 ms)
+PROBLEMA: quadro solto? cortes em 35.53s e 35.73s (200 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

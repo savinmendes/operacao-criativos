@@ -1,0 +1,11 @@
+PAREJA COMPLETA (14/10/2026) -> SB-REEL-MEDALLA-ES\SB-ES_PAREJA_COMPLETA.mp4 (60,1 s)
+Flora (projeto prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95), is2i-gpt-image-2-5-flare 9:16 high 2k:
+  retrato_triste.png  run_m171pxfxrz1gwb6jxp8grx9kq18g8m2c (ref: retrato)
+  gancho_amplo.png    run_m17cbjjqsdd8qzxcnchjksvy598g82nt US$0.139 (refs: retrato, antes, depois = mesmo marido)
+  frustrado.png       run_m170y08w04q8wfbn6jff6gs6h98g95mj US$0.13 (refs: retrato, depois)
+  gancho_amplo.mp4    i2v-kling-2.5 5s n744 run_m178kn8bjnesdc3279asypws3s8g91pc US$0.294
+  frustrado.mp4       i2v-kling-2.5 5s n740 run_m17db4cg1bgyw5n0s6h7yd8ngx8g90s9 US$0.294
+Voz Azu D3ws14YxTqcjPaXEOehR (tts_ctx.py): hook 92 + selfie 217 = 309 caracteres. Reza = trechos da reza.mp3 antiga (0 caracteres).
+HeyGen: selfie_final.mp4 = video 16a593ebe132ec73c29f59c503047c0a (audio selfie.mp3 a partir de 3,20 s), expressividade low.
+Montagem: montar_completa2.py (copia do modelo, parametros em cfg.json) + legenda_comp2.py -> mont/master.mp4
+QA: takes a cada 0,2 s (_qa/), zoom no rosto da selfie, revisar_ad.py --idioma es OK (revisao/).

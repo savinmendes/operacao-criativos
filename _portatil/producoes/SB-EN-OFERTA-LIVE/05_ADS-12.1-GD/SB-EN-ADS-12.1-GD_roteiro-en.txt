@@ -1,0 +1,30 @@
+SB-EN-ADS-12.1-GD — San Benito (Saint Benedict) · Inglês (EUA / Reino Unido / Canadá / Austrália, depois worldwide)
+Origem: SB-ES_10_ADS-12.1-GD.mp4 (ES, 31,6 s). Destino: a oração ao vivo (live prayer). Botão do Meta: LEARN_MORE.
+Sem produto e sem preço no vídeo. Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do piloto.
+
+======================================================================
+ROTEIRO ES (original, por cena)
+======================================================================
+[0,0–5,1 GANCHO: idoso rezando + Jesus em PIP] Si me ignoras, no tendré otra opción que conceder el milagro que tanto necesitas a otra persona.
+[5,1–10,0 Jesus falando] Esta es tu última oportunidad para recibir lo que he preparado para ti.
+[10,0–14,6 abraço] Jesús te ha elegido. Él te ha traído un poderoso regalo.
+[14,6–23,0 Jesus ajoelhado / livro nas nuvens] En este vídeo, escucharás una antigua oración perdida de la Biblia que desbloqueará una lluvia de bendiciones y milagros sobre tu vida.
+[23,0–26,1 Jesus com a cruz] No me rechaces nuevamente.
+[26,1–31,5 CTA, Jesus falando + setas] Toca el botón de VER MÁS ahora mismo y recibe tu milagro antes de que sea demasiado tarde.
+
+======================================================================
+ROTEIRO EN (narrado, mesmas cenas e mesmos cortes)
+======================================================================
+[GANCHO, 0,1 s] If you ignore me, I will have no choice but to give the miracle you need so much to someone else.
+[5,9 s] This is your last chance to receive what I have prepared for you.
+[10,2 s] Jesus has chosen you. He has brought you a powerful gift.
+[14,4 s] Today, you will hear an ancient, lost prayer from the Bible, that will unlock a shower of blessings and miracles over your life.
+[22,8 s] Do not reject me... again.
+[26,1 s CTA] Tap Learn More below, and join the live prayer right now. Receive your miracle, before it is too late.
+
+Decisões de tradução
+- "En este vídeo, escucharás" virou "Today, you will hear" (o destino é a oração ao vivo, não um vídeo), como no piloto.
+- "Toca el botón de VER MÁS ahora mismo" virou "Tap Learn More below, and join the live prayer right now" (nome do botão do Meta em inglês + convite para a live).
+- "lluvia de bendiciones y milagros" virou "shower of blessings and miracles" (natural no inglês cristão).
+- "antes de que sea demasiado tarde" virou "before it is too late". Mesmo teor do ES (ameaça de o milagro ir para outra pessoa, "última oportunidad", urgência), sem suavizar.
+- "oración perdida de la Biblia" mantida como "lost prayer from the Bible" (é o que o ES diz; a pessoa pode trocar por "of Saint Benedict" se preferir, como no piloto).

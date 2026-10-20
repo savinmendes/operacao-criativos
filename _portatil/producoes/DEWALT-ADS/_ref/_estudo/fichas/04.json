@@ -1,0 +1,27 @@
+{
+ "ad": "04",
+ "idioma": "es (México: 'que no te vea en la cara', 'transar', pesos)",
+ "origem": {"perfil": "@lacajadeherramientas (TikTok)", "tipo": "criador/review independente (canal de ferramentas; fundo com caixas Milwaukee)", "url": "https://www.tiktok.com/@lacajadeherramientas/video/7524826085234658568"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 479.0,
+ "cortes": {"n": 73, "ritmo": "lento para anúncio: blocos longos de close comparativo na mesa (0-205 s) e testes de perfuração em concreto com câmera rápida (205-415 s); apresentador no início e no fim"},
+ "formato": "comparação original x pirata (review longo) + demo de teste de força em concreto",
+ "gancho": {"0_3s_visual": "apresentador sentado à mesa com os dois rotomartelos amarelos à frente", "0_3s_fala": "Que no te vea en la cara, aprende a diferenciar entre el original y el pirata.", "0_3s_texto_tela": "nenhum na abertura"},
+ "corpo": [
+  {"t": "0-24", "bloco": "apresenta o DCH273 e promete ensinar a identificar o pirata ('para que no se los vayan a transar')"},
+  {"t": "24-160", "bloco": "diferenças lado a lado: cor da etiqueta do nome, clip, nº de modos (3 x 2), XR x 'XP', antivibração, setas do botão de giro, ventilação, mandril, empunhadura auxiliar, etiquetas Perform & Protect/NOM, grade coletora de pó"},
+  {"t": "160-205", "bloco": "bateria POWERSTACK não funciona no pirata; LED branco x azulado"},
+  {"t": "205-220", "bloco": "peso na balança: 2,585 kg x 1,785 kg"},
+  {"t": "220-415", "bloco": "testes em concreto com brocas 14 mm, 5/8, 7/8 e 1 pol ('CÁMARA RÁPIDA - TIEMPO REAL x:xx'); pirata esgota a bateria de 5 Ah; bateria de 8 Ah melhora"},
+  {"t": "415-479", "bloco": "preços (pirata 1.816 MXN sem bateria; original com 2 baterias, carregador e maleta 11.808 MXN), opinião contra vender pirata como original, pede like/inscrição"}
+ ],
+ "cta": "engajamento: comentar, like, inscrever-se (sem oferta)",
+ "texto_na_tela": "'CÁMARA RÁPIDA - TIEMPO REAL: 0:37 / 1:22 / 0:21 / 1:12 / 0:51 / 2:12 / 1:54' nos testes",
+ "produto": {"modelo": "DCH273 (rotomartelo SDS Plus 20V; falado 'DH273', escrito no post) + cópia pirata", "e_nosso_produto": false},
+ "rosto": {"tem": true, "tempo_aprox_s": "~60 s (abertura, inserções curtas e encerramento)"},
+ "marca_dagua": "sem @ visível; fundo com caixas Milwaukee (concorrente)",
+ "audio": "voz do criador em espanhol mexicano + som ambiente dos testes",
+ "uso_para_nos": ["só referência de formato (ângulo 'original x pirata', muito relevante para justificar produto original no preço de página)"],
+ "nota_cod_chile": 1,
+ "justificativa": "Produto errado (rotomartelo), 8 min, criador independente em espanhol mexicano e tom que relativiza o pirata: não serve como material. O ÂNGULO é valioso: um AD curto nosso 'cómo saber si tu DeWalt es original' (etiqueta, brushless, bateria 20V MAX real, LED) responde aos kits falsos '48V/68V' que dominam o feed (ADs 06 e 07)."
+}

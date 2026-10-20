@@ -1,0 +1,8 @@
+SB-IT-JESU-V07 pronto em 16/10/2026.
+Vídeo: SB-IT-JESU-V07.mp4, 31,2 s, 1080x1920, 30 fps, -16,3 LUFS.
+Voz: ElevenLabs "Jesus The Chosen ESPANHOL" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, 1,08x. Whisper it 1,00 e texto 100% igual ao roteiro.
+HeyGen: 4 jobs de lipsync no modo speed, sem reenvio (gancho, coroa1, coroa2, coroa3). Índice de pausa no final: 0,29 / 0,11 / sem pausa / sem pausa.
+Na coroa3 a saída bruta deu índice 0,80, com a boca entreaberta na pausa "Tocca…«Scopri" e no fim. Corrigi com um jump cut de 0,26 s em 23,48 s e mudei o corte para a porta logo depois de "diretta".
+QA: revisar_ad.py (it) sem problemas e revisor independente sem problemas bloqueantes.
+Ressalva menor: a boca fica levemente entreaberta em ~23,34–23,48 s, numa pausa curta antes do jump cut.
+Trabalho e scripts: _trabalho\ (timeline_it.py → jump_it.py → cortar_ls_it.py → colar_boca.py → bed_it.py → mix_it.sh → legenda_it.py → compose_it.py → montar_it.sh)

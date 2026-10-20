@@ -1,0 +1,14 @@
+{
+ "id": "L202",
+ "quadros_heygen": 289,
+ "quadros": 289,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  -0.5,
+  0.0,
+  -1.0
+ ],
+ "indice_pausa": 0.1,
+ "checar": "APROVADO",
+ "saida_checar": "LIPSYNC: L202.mp4 (289 quadros, rosto em 100%, rosto 255,137,147,172 [único rosto])\n  boca x original: dif. boca 8.20 | dif. controle 0.33 | mudou em 100% dos quadros | corr. abertura saída x original 0.03\n  pausas da voz nova: índice de pausa 0.10 (12 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.37 (atraso 0 ms) | corr. original -\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.10)"
+}

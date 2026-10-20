@@ -1,0 +1,11 @@
+REVISÃO: PERFUMES-CL_F5_SENSORIAL.mp4
+duração 25.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.7 MB
+decodificação: OK
+pts do áudio: 1183 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1166-1221, x 192-546 | no último quadro: sim | faixa escura do rodapé: 1255-1279
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\ONDA3\F5-SENSORIAL\PERFUMES-CL_F5_SENSORIAL_revisao.jpg
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

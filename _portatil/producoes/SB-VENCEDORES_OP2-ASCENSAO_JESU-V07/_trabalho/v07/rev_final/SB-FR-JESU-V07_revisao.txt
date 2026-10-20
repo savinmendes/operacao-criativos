@@ -1,0 +1,64 @@
+REVISÃO: SB-FR-JESU-V07.mp4
+duração 31.85s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 22.2 MB
+decodificação: OK
+pts do áudio: 1494 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1794-1919
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-VENCEDORES_OP2-ASCENSAO_JESU-V07\_trabalho\v07\rev_final\SB-FR-JESU-V07_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  2.00 Si tu fermes cette vidéo maintenant,
+   2.00-  5.90 le miracle qui portait ton nom sera donné à quelqu'un d'autre.
+   5.90-  9.30 C'est la dernière fois que Dieu essaie de te parler de cette façon.
+   9.30- 11.40 Jésus t'a choisi.
+  11.40- 15.10 Il a préparé un cadeau puissant, rien que pour toi.
+  15.10- 16.70 Dans cette vidéo,
+  16.70- 19.80 tu vas entendre la prière perdue de saint Benoit
+  19.80- 22.20 qui débloque une pluie de miracle.
+  22.20- 25.30 Mais seulement si tu ne la refuses pas une nouvelle fois.
+  25.30- 27.80 Touche en savoir plus maintenant.
+  27.80- 31.80 reçoit ton miracle avant que la porte ne se ferme pour toujours.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.80    Si firmes este video ahora, el Miracle que porté tu nombre será dado a alguien otro.
+   5.80-  9.24    Es la última vez que Dios intenta hablar de esta manera.
+   9.24- 11.40    Jesús ha decidido.
+  11.40- 15.04    Él ha preparado un cadeo puño, nada que para ti.
+  15.04- 16.62    En este video,
+  16.62- 19.72    vas a escuchar la priera perdida de Saint Benoit
+  19.72- 22.16    que desbloque una pluja de Miracles.
+  22.16- 25.28    Pero solo si no la refusas una nueva vez.
+  25.28- 27.72    Cámonos en saber más ahora.
+  27.72- 31.72    reúne tu miráculo antes de que la puerta no se ferme para siempre.
+
+=== lipsync ===
+LIPSYNC: out_hook.mp4 (145 quadros, rosto em 100%, rosto 185,410,214,245 [único rosto])
+  boca x original: dif. boca 13.67 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original 0.20
+  pausas da voz nova: índice de pausa 0.26 (14 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.50 (atraso 0 ms) | corr. original 0.28
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.26)
+LIPSYNC: out_crown1.mp4 (105 quadros, rosto em 100%, rosto 199,358,329,386 [2 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 15.38 | dif. controle 1.38 | mudou em 100% dos quadros | corr. abertura saída x original -0.01
+  pausas da voz nova: índice de pausa 0.07 (25 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.75 (atraso 0 ms) | corr. original 0.43
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)
+LIPSYNC: out_crown2c.mp4 (137 quadros, rosto em 100%, rosto 198,359,330,392 [2 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 22.58 | dif. controle 1.29 | mudou em 100% dos quadros | corr. abertura saída x original 0.09
+  pausas da voz nova: índice de pausa 0.51 (22 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.41 (atraso 0 ms) | corr. original 0.23
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.51)
+LIPSYNC: out_crown3.mp4 (78 quadros, rosto em 100%, rosto 202,360,327,392 [único rosto])
+  boca x original: dif. boca 24.39 | dif. controle 5.85 | mudou em 78% dos quadros | corr. abertura saída x original 0.03
+  pausas da voz nova: índice de pausa 0.10 (20 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.52 (atraso 40 ms) | corr. original 0.18
+APROVADO: boca mudou em 78% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.10)
+índice de pausa do conjunto (4 trechos): 0.21 -> APROVADO
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,14 @@
+{
+ "id": "L178",
+ "quadros_heygen": 219,
+ "quadros": 219,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  -0.5
+ ],
+ "indice_pausa": null,
+ "checar": "REPROVADO",
+ "saida_checar": "LIPSYNC: L178.mp4 (219 quadros, rosto em 100%, rosto 224,150,176,209 [único rosto])\n  boca x original: dif. boca 9.06 | dif. controle 0.34 | mudou em 100% dos quadros | corr. abertura saída x original -0.15\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.06 (atraso -200 ms) | corr. original -\nREPROVADO: a boca não acompanha o áudio novo (correlação 0.06; mínimo 0.15; trecho sem pausa para o índice de pausa)"
+}

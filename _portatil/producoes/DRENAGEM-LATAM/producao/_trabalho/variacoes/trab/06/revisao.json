@@ -1,0 +1,36 @@
+{
+ "arquivo": "VAR 06 - G6-DISCULPA x AD20.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 291.07,
+ "mb": 36.6,
+ "whisper_gancho": "Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.",
+ "whisper_emenda": "de lo que me pasó. Ya no me lo guardo más. Otra vez vas a llegar tarde. Ya sé, ya voy. Ya me voy",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.7,
+  2.633333,
+  4.733333,
+  5.566667,
+  6.366667,
+  8.3
+ ],
+ "cortes_plan": [
+  1.7,
+  2.633,
+  4.733,
+  5.567,
+  6.367
+ ],
+ "silencios": [
+  [
+   279.36,
+   280.39
+  ],
+  [
+   287.76,
+   288.62
+  ]
+ ],
+ "ok": true
+}

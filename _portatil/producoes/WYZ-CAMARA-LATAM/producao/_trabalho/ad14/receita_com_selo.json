@@ -1,0 +1,42 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 14 - WYZE-SOLAR-CAM-PAN-GARAJE-ES-LATAM-SELO.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad14\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad14\\narr.alinhamento.json",
+  "chaves": [
+   "wyze",
+   "solar",
+   "360",
+   "2K",
+   "inteligencia",
+   "nocturna",
+   "lluvia",
+   "metros",
+   "sol",
+   "batería",
+   "simple",
+   "celular",
+   "microSD",
+   "suscripción",
+   "opcional",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1490
+ },
+ "limite_mb": 30,
+ "resolucao": "720",
+ "selo": {
+  "linhas": [
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1110
+ },
+ "_nota": "Versão com selo: só usar quando a oferta COD for confirmada para este produto/país."
+}

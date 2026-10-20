@@ -1,0 +1,296 @@
+[
+ {
+  "w": "Pasé",
+  "ini": 0.012,
+  "fim": 0.58,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "años",
+  "ini": 0.697,
+  "fim": 1.115,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "poniendo",
+  "ini": 1.196,
+  "fim": 1.8,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 1.881,
+  "fim": 1.985,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "mesa",
+  "ini": 2.078,
+  "fim": 2.519,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "para",
+  "ini": 2.589,
+  "fim": 2.856,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "todos.",
+  "ini": 2.937,
+  "fim": 3.622,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Mis",
+  "ini": 3.947,
+  "fim": 4.18,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "nietos",
+  "ini": 4.296,
+  "fim": 4.841,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "crecían",
+  "ini": 4.911,
+  "fim": 5.735,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "y",
+  "ini": 5.944,
+  "fim": 6.095,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "yo",
+  "ini": 6.246,
+  "fim": 6.444,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "los",
+  "ini": 6.513,
+  "fim": 6.722,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "veía",
+  "ini": 6.803,
+  "fim": 7.361,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "solo",
+  "ini": 7.454,
+  "fim": 7.906,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 7.964,
+  "fim": 8.022,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "fotos.",
+  "ini": 8.104,
+  "fim": 8.777,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Sentía",
+  "ini": 9.102,
+  "fim": 9.834,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 9.915,
+  "fim": 10.043,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "ya",
+  "ini": 10.136,
+  "fim": 10.252,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "no",
+  "ini": 10.31,
+  "fim": 10.426,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "le",
+  "ini": 10.484,
+  "fim": 10.542,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "importaba",
+  "ini": 10.565,
+  "fim": 11.355,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "a",
+  "ini": 11.389,
+  "fim": 11.413,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "nadie.",
+  "ini": 11.505,
+  "fim": 12.098,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Hasta",
+  "ini": 12.423,
+  "fim": 12.864,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 12.922,
+  "fim": 13.038,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 13.131,
+  "fim": 13.235,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "padre",
+  "ini": 13.305,
+  "fim": 13.711,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "explicó",
+  "ini": 13.735,
+  "fim": 14.338,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "algo",
+  "ini": 14.408,
+  "fim": 14.768,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 14.838,
+  "fim": 14.942,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "nadie",
+  "ini": 15.093,
+  "fim": 15.534,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "me",
+  "ini": 15.592,
+  "fim": 15.685,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "había",
+  "ini": 15.72,
+  "fim": 16.033,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "dicho",
+  "ini": 16.115,
+  "fim": 16.486,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "sobre",
+  "ini": 16.544,
+  "fim": 16.823,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 16.881,
+  "fim": 16.974,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "medalla",
+  "ini": 17.032,
+  "fim": 17.554,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 17.624,
+  "fim": 17.705,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "San",
+  "ini": 17.752,
+  "fim": 17.926,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benito.",
+  "ini": 17.984,
+  "fim": 18.669,
+  "personagem": "persona",
+  "parte": "selfie"
+ }
+]

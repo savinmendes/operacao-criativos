@@ -1,0 +1,35 @@
+{
+ "base": "base_sem_legenda_crop.mp4",
+ "orig": "../../../UNICOS_HD/16.mp4",
+ "narr": "narracao_es.wav",
+ "inicio": "_antes_loteB/base_lipsync.mp4",
+ "saida": "base_lipsync.mp4",
+ "dir": "lipsync_b",
+ "trechos": [
+  {
+   "nome": "i1s",
+   "q0": 2087,
+   "q1": 2278,
+   "semente": [
+    455,
+    410
+   ],
+   "roi": [
+    250,
+    150,
+    400,
+    500
+   ]
+  },
+  {
+   "nome": "j1b",
+   "q0": 2279,
+   "q1": 2363
+  },
+  {
+   "nome": "k1b",
+   "q0": 2364,
+   "q1": 2632
+  }
+ ]
+}

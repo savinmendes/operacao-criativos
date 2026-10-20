@@ -1,0 +1,58 @@
+{
+  "ad": "12",
+  "arquivo": "12 AD.mp4",
+  "folha": "_estudo/folhas/12.jpg",
+  "idioma": "es (Peru)",
+  "origem": {
+    "perfil": "@arfersa.peru (Corporación Arfersa, TikTok)",
+    "tipo": "loja/distribuidor DeWalt no Peru"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 59.2,
+  "cortes": {
+    "n": 13,
+    "ritmo": "médio: ~4,5 s por plano, cortes concentrados em 9-17 s e no fim"
+  },
+  "formato": "produto em vitrine/estúdio com narração de benefício (review de loja), rotomartillo",
+  "gancho": {
+    "visual": "0-3 s: barra 'DEWALT' fixa no topo, título 'ROTOMARTILLO', rotomartillo XR na frente da vitrine e da caixa",
+    "fala_ou_texto": "Fala: '¿Te imaginas trabajando todo el día con un rotomartillo sin que tus manos y brazos sientan esa vibración molesta?' / tela: 'ROTOMARTILLO', depois 'DCH27...'"
+  },
+  "estrutura": [
+    {
+      "t": "0-8",
+      "bloco": "gancho de dor (vibração) + promessa"
+    },
+    {
+      "t": "8-28",
+      "bloco": "apresenta o DCH273: energia de impacto, perfuração em concreto, troca de broca, bateria 20V XR"
+    },
+    {
+      "t": "28-50",
+      "bloco": "sistema antivibração e conforto em jornadas longas"
+    },
+    {
+      "t": "50-59",
+      "bloco": "CTA 'lo encuentran aquí en Corporación Arfersa' + flash"
+    }
+  ],
+  "cta": "'Y lo encuentran aquí en Corporación Arfersa' + telefones e site no texto do post",
+  "texto_tela": "barra 'DEWALT' fixa no topo, 'ROTOMARTILLO', 'DCH27(3)', marca d'água @ARFERSA",
+  "produto": {
+    "mostrado": "Rotomartillo DeWalt DCH273 20V MAX XR (dito na fala e escrito na tela)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "@ARFERSA no centro superior em todos os quadros + barra DEWALT",
+  "audio": "voz masculina em espanhol (narração), sem música evidente",
+  "uso": [
+    "só referência de formato (o gancho de dor 'te imaginas... sin vibración' adapta para taladro: 'te imaginas atornillar todo el día sin que te duela la muñeca')"
+  ],
+  "nota": {
+    "valor": 1,
+    "justificativa": "Produto errado (rotomartillo SDS), marca d'água @ARFERSA no vídeo inteiro e barra fixa. Só o padrão de gancho de dor serve."
+  }
+}

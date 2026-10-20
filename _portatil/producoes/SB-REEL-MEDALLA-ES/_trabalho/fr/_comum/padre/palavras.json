@@ -1,0 +1,638 @@
+[
+ {
+  "w": "Des",
+  "ini": 0.04,
+  "fim": 0.144,
+  "personagem": "padre"
+ },
+ {
+  "w": "millions",
+  "ini": 0.179,
+  "fim": 0.504,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 0.527,
+  "fim": 0.585,
+  "personagem": "padre"
+ },
+ {
+  "w": "personnes",
+  "ini": 0.643,
+  "fim": 1.177,
+  "personagem": "padre"
+ },
+ {
+  "w": "portent",
+  "ini": 1.305,
+  "fim": 1.63,
+  "personagem": "padre"
+ },
+ {
+  "w": "cette",
+  "ini": 1.653,
+  "fim": 1.828,
+  "personagem": "padre"
+ },
+ {
+  "w": "médaille...",
+  "ini": 1.851,
+  "fim": 2.362,
+  "personagem": "padre"
+ },
+ {
+  "w": "et",
+  "ini": 2.605,
+  "fim": 2.733,
+  "personagem": "padre"
+ },
+ {
+  "w": "personne",
+  "ini": 2.791,
+  "fim": 3.314,
+  "personagem": "padre"
+ },
+ {
+  "w": "ne",
+  "ini": 3.523,
+  "fim": 3.627,
+  "personagem": "padre"
+ },
+ {
+  "w": "leur",
+  "ini": 3.662,
+  "fim": 3.755,
+  "personagem": "padre"
+ },
+ {
+  "w": "a",
+  "ini": 3.801,
+  "fim": 3.825,
+  "personagem": "padre"
+ },
+ {
+  "w": "jamais",
+  "ini": 3.906,
+  "fim": 4.231,
+  "personagem": "padre"
+ },
+ {
+  "w": "expliqué",
+  "ini": 4.289,
+  "fim": 4.881,
+  "personagem": "padre"
+ },
+ {
+  "w": "ce",
+  "ini": 5.055,
+  "fim": 5.183,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 5.241,
+  "fim": 5.357,
+  "personagem": "padre"
+ },
+ {
+  "w": "disent",
+  "ini": 5.392,
+  "fim": 5.74,
+  "personagem": "padre"
+ },
+ {
+  "w": "ses",
+  "ini": 5.891,
+  "fim": 6.065,
+  "personagem": "padre"
+ },
+ {
+  "w": "lettres.",
+  "ini": 6.112,
+  "fim": 6.53,
+  "personagem": "padre"
+ },
+ {
+  "w": "Ce",
+  "ini": 6.739,
+  "fim": 6.82,
+  "personagem": "padre"
+ },
+ {
+  "w": "n'est",
+  "ini": 6.855,
+  "fim": 6.982,
+  "personagem": "padre"
+ },
+ {
+  "w": "pas",
+  "ini": 7.017,
+  "fim": 7.203,
+  "personagem": "padre"
+ },
+ {
+  "w": "un",
+  "ini": 7.238,
+  "fim": 7.284,
+  "personagem": "padre"
+ },
+ {
+  "w": "manque",
+  "ini": 7.319,
+  "fim": 7.493,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 7.516,
+  "fim": 7.586,
+  "personagem": "padre"
+ },
+ {
+  "w": "foi.",
+  "ini": 7.644,
+  "fim": 7.992,
+  "personagem": "padre"
+ },
+ {
+  "w": "C'est",
+  "ini": 8.434,
+  "fim": 8.608,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 8.631,
+  "fim": 8.736,
+  "personagem": "padre"
+ },
+ {
+  "w": "personne",
+  "ini": 8.794,
+  "fim": 9.351,
+  "personagem": "padre"
+ },
+ {
+  "w": "ne",
+  "ini": 9.525,
+  "fim": 9.629,
+  "personagem": "padre"
+ },
+ {
+  "w": "leur",
+  "ini": 9.664,
+  "fim": 9.769,
+  "personagem": "padre"
+ },
+ {
+  "w": "a",
+  "ini": 9.827,
+  "fim": 9.85,
+  "personagem": "padre"
+ },
+ {
+  "w": "appris",
+  "ini": 9.92,
+  "fim": 10.187,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 10.21,
+  "fim": 10.268,
+  "personagem": "padre"
+ },
+ {
+  "w": "bonne",
+  "ini": 10.349,
+  "fim": 10.582,
+  "personagem": "padre"
+ },
+ {
+  "w": "façon",
+  "ini": 10.605,
+  "fim": 10.86,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 10.895,
+  "fim": 10.941,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 10.988,
+  "fim": 11.046,
+  "personagem": "padre"
+ },
+ {
+  "w": "prier.",
+  "ini": 11.092,
+  "fim": 11.568,
+  "personagem": "padre"
+ },
+ {
+  "w": "Quand",
+  "ini": 12.018,
+  "fim": 12.193,
+  "personagem": "padre"
+ },
+ {
+  "w": "on",
+  "ini": 12.251,
+  "fim": 12.297,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 12.332,
+  "fim": 12.402,
+  "personagem": "padre"
+ },
+ {
+  "w": "prie",
+  "ini": 12.46,
+  "fim": 12.715,
+  "personagem": "padre"
+ },
+ {
+  "w": "de",
+  "ini": 12.738,
+  "fim": 12.808,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 12.854,
+  "fim": 12.924,
+  "personagem": "padre"
+ },
+ {
+  "w": "bonne",
+  "ini": 13.005,
+  "fim": 13.214,
+  "personagem": "padre"
+ },
+ {
+  "w": "façon,",
+  "ini": 13.237,
+  "fim": 13.806,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 14.05,
+  "fim": 14.131,
+  "personagem": "padre"
+ },
+ {
+  "w": "maison",
+  "ini": 14.213,
+  "fim": 14.48,
+  "personagem": "padre"
+ },
+ {
+  "w": "s'apaise,",
+  "ini": 14.526,
+  "fim": 15.2,
+  "personagem": "padre"
+ },
+ {
+  "w": "la",
+  "ini": 15.443,
+  "fim": 15.548,
+  "personagem": "padre"
+ },
+ {
+  "w": "peur",
+  "ini": 15.641,
+  "fim": 15.896,
+  "personagem": "padre"
+ },
+ {
+  "w": "s'en",
+  "ini": 15.954,
+  "fim": 16.094,
+  "personagem": "padre"
+ },
+ {
+  "w": "va...",
+  "ini": 16.152,
+  "fim": 16.477,
+  "personagem": "padre"
+ },
+ {
+  "w": "et",
+  "ini": 16.86,
+  "fim": 16.941,
+  "personagem": "padre"
+ },
+ {
+  "w": "on",
+  "ini": 16.976,
+  "fim": 17.034,
+  "personagem": "padre"
+ },
+ {
+  "w": "recommence",
+  "ini": 17.127,
+  "fim": 17.707,
+  "personagem": "padre"
+ },
+ {
+  "w": "à",
+  "ini": 17.742,
+  "fim": 17.765,
+  "personagem": "padre"
+ },
+ {
+  "w": "voir",
+  "ini": 17.823,
+  "fim": 17.963,
+  "personagem": "padre"
+ },
+ {
+  "w": "des",
+  "ini": 18.021,
+  "fim": 18.125,
+  "personagem": "padre"
+ },
+ {
+  "w": "issues",
+  "ini": 18.218,
+  "fim": 18.648,
+  "personagem": "padre"
+ },
+ {
+  "w": "là",
+  "ini": 19.089,
+  "fim": 19.379,
+  "personagem": "padre"
+ },
+ {
+  "w": "où",
+  "ini": 19.46,
+  "fim": 19.623,
+  "personagem": "padre"
+ },
+ {
+  "w": "l'on",
+  "ini": 19.681,
+  "fim": 19.797,
+  "personagem": "padre"
+ },
+ {
+  "w": "ne",
+  "ini": 19.844,
+  "fim": 19.925,
+  "personagem": "padre"
+ },
+ {
+  "w": "voyait",
+  "ini": 19.983,
+  "fim": 20.54,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 20.749,
+  "fim": 20.9,
+  "personagem": "padre"
+ },
+ {
+  "w": "des",
+  "ini": 20.935,
+  "fim": 21.039,
+  "personagem": "padre"
+ },
+ {
+  "w": "portes",
+  "ini": 21.074,
+  "fim": 21.411,
+  "personagem": "padre"
+ },
+ {
+  "w": "fermées.",
+  "ini": 21.434,
+  "fim": 21.899,
+  "personagem": "padre"
+ },
+ {
+  "w": "C'est",
+  "ini": 22.321,
+  "fim": 22.472,
+  "personagem": "padre"
+ },
+ {
+  "w": "pour",
+  "ini": 22.495,
+  "fim": 22.622,
+  "personagem": "padre"
+ },
+ {
+  "w": "ça",
+  "ini": 22.681,
+  "fim": 22.797,
+  "personagem": "padre"
+ },
+ {
+  "w": "que",
+  "ini": 22.855,
+  "fim": 22.948,
+  "personagem": "padre"
+ },
+ {
+  "w": "j'ai",
+  "ini": 22.982,
+  "fim": 23.087,
+  "personagem": "padre"
+ },
+ {
+  "w": "laissé",
+  "ini": 23.133,
+  "fim": 23.377,
+  "personagem": "padre"
+ },
+ {
+  "w": "l'explication",
+  "ini": 23.424,
+  "fim": 24.027,
+  "personagem": "padre"
+ },
+ {
+  "w": "complète,",
+  "ini": 24.097,
+  "fim": 24.782,
+  "personagem": "padre"
+ },
+ {
+  "w": "lettre",
+  "ini": 25.165,
+  "fim": 25.525,
+  "personagem": "padre"
+ },
+ {
+  "w": "par",
+  "ini": 25.571,
+  "fim": 25.734,
+  "personagem": "padre"
+ },
+ {
+  "w": "lettre,",
+  "ini": 25.769,
+  "fim": 26.326,
+  "personagem": "padre"
+ },
+ {
+  "w": "dans",
+  "ini": 26.651,
+  "fim": 26.825,
+  "personagem": "padre"
+ },
+ {
+  "w": "une",
+  "ini": 26.907,
+  "fim": 26.999,
+  "personagem": "padre"
+ },
+ {
+  "w": "transmission",
+  "ini": 27.023,
+  "fim": 27.696,
+  "personagem": "padre"
+ },
+ {
+  "w": "en",
+  "ini": 27.766,
+  "fim": 27.917,
+  "personagem": "padre"
+ },
+ {
+  "w": "direct",
+  "ini": 27.975,
+  "fim": 28.393,
+  "personagem": "padre"
+ },
+ {
+  "w": "ouverte",
+  "ini": 28.486,
+  "fim": 29.089,
+  "personagem": "padre"
+ },
+ {
+  "w": "24",
+  "ini": 29.298,
+  "fim": 29.751,
+  "personagem": "padre"
+ },
+ {
+  "w": "heures",
+  "ini": 29.774,
+  "fim": 29.948,
+  "personagem": "padre"
+ },
+ {
+  "w": "sur",
+  "ini": 29.972,
+  "fim": 30.134,
+  "personagem": "padre"
+ },
+ {
+  "w": "24.",
+  "ini": 30.181,
+  "fim": 30.819,
+  "personagem": "padre"
+ },
+ {
+  "w": "Appuie",
+  "ini": 31.202,
+  "fim": 31.62,
+  "personagem": "padre"
+ },
+ {
+  "w": "sur",
+  "ini": 31.643,
+  "fim": 31.957,
+  "personagem": "padre"
+ },
+ {
+  "w": "«",
+  "ini": 32.085,
+  "fim": 32.201,
+  "personagem": "padre"
+ },
+ {
+  "w": "En",
+  "ini": 32.294,
+  "fim": 32.445,
+  "personagem": "padre"
+ },
+ {
+  "w": "savoir",
+  "ini": 32.514,
+  "fim": 32.839,
+  "personagem": "padre"
+ },
+ {
+  "w": "plus",
+  "ini": 32.886,
+  "fim": 33.234,
+  "personagem": "padre"
+ },
+ {
+  "w": "»,",
+  "ini": 33.35,
+  "fim": 33.431,
+  "personagem": "padre"
+ },
+ {
+  "w": "juste",
+  "ini": 33.582,
+  "fim": 33.873,
+  "personagem": "padre"
+ },
+ {
+  "w": "en",
+  "ini": 33.896,
+  "fim": 33.942,
+  "personagem": "padre"
+ },
+ {
+  "w": "dessous,",
+  "ini": 33.977,
+  "fim": 34.43,
+  "personagem": "padre"
+ },
+ {
+  "w": "et",
+  "ini": 34.674,
+  "fim": 34.813,
+  "personagem": "padre"
+ },
+ {
+  "w": "viens",
+  "ini": 34.848,
+  "fim": 35.092,
+  "personagem": "padre"
+ },
+ {
+  "w": "prier",
+  "ini": 35.115,
+  "fim": 35.463,
+  "personagem": "padre"
+ },
+ {
+  "w": "avec",
+  "ini": 35.498,
+  "fim": 35.695,
+  "personagem": "padre"
+ },
+ {
+  "w": "nous.",
+  "ini": 35.777,
+  "fim": 35.997,
+  "personagem": "padre"
+ }
+]

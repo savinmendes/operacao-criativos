@@ -1,0 +1,20 @@
+{
+"id": "R02",
+"take": "take_R02_reportera_claro.mp4",
+"res": "720x900",
+"fps": 25.0,
+"quadros": 20,
+"dur_video": 0.8,
+"dur_audio": 0.789,
+"dur_audio_enviado": 0.789,
+"whisper": "¡Claro!",
+"diferencas": [],
+"palavras_whisper": [
+{
+"w": "¡Claro!",
+"ini": 0.0,
+"fim": 0.5,
+"p": 0.89
+}
+]
+}

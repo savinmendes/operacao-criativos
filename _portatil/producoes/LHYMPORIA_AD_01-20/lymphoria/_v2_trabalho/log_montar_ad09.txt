@@ -1,0 +1,19 @@
+>> substituir_trechos.py base.mp4 v2_b1.mp4 trechos_v2.json
+t1_final.mp4: 30 quadros a partir de 144.7s
+t2_final.mp4: 43 quadros a partir de 159.0s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad09\v2_b1.mp4 | 9540 quadros, 73 trocados
+>> trocar_texto_tela.py v2_b1.mp4 v2_b2.mp4 --de 120.3
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad09\v2_b2.mp4 | 64 quadros com texto trocado
+>> -v error -y -i v2_b2.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 5.7 min não cabe em 30 MB com qualidade; usando 900 kbps (~43 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 09 - LYMPHORIA-SESENTA-ES-LATAM v2.mp4
+duração : 341.30s | 720x1280 | áudio: sim | 41.5 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 09 - LYMPHORIA-SESENTA-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 337.74s
+montagem rápida: 68s para 341s de vídeo (0.20x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 09 - LYMPHORIA-SESENTA-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 10164, "psnr_min": 28.2, "psnr_medio": 38.05, "px40_max": 12695, "px40_medio": 260.0, "quadro_px40_max": 9832, "t_px40_max": 327.73}, "parte1_fora_dos_takes": {"quadros": 9467, "px40_max": 290, "t_px40_max": 121.87, "quadros_com_px40>50": 10}, "parte1_dentro_dos_takes": {"quadros": 73, "px40_medio": 1036.4}}
+{"quadros": 73, "psnr_medio": 33.5, "px40_medio": 1174.9, "px40_max": 3198}

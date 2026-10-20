@@ -1,0 +1,37 @@
+NARRATION — 05_SB-FR_MADRE_COMPLETA.mp4 (série COMPLÈTE, 01:02)
+Temps = début de chaque phrase dans la vidéo finale.
+Personnages fictifs : MÈRE et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique propre : tension grave (accroche et prière) -> thème d'espoir à partir de la scène de l'« après ».
+Voix : mère Nathalie (rS7c1woNY04WT3UAS83Y) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan large, de nuit : elle à genoux par terre dans la cuisine, les factures sur la table et le frigo presque vide)
+[00:00] MÈRE (voix ferme, en off) : J'ai prié par terre dans ma cuisine, avec les factures sur la table…
+[00:03] MÈRE (voix ferme, en off) : et voilà ce qui s'est passé.
+[00:05] MÈRE (prière chuchotée) : Ô glorieux saint Benoît…
+[00:07] MÈRE (prière chuchotée) : protège mes enfants.
+[00:08] (l'après, sans voix)
+
+BLOC 2 — CONNEXION
+[00:11] MÈRE (en off ; elle assise à table, les mains sur la tête, regardant la pile de factures) : Je travaillais du matin au soir et les fins de mois ne passaient quand même pas.
+[00:15] MÈRE (selfie) : Mon fils m'a demandé pourquoi j'étais toujours triste.
+[00:18] MÈRE (selfie) : J'avais l'impression de les décevoir.
+[00:20] MÈRE (selfie) : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET FUTUR
+[00:27] PRÊTRE : Des millions de personnes portent cette médaille…
+[00:30] PRÊTRE : et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:34] PRÊTRE : Ce n'est pas un manque de foi.
+[00:35] PRÊTRE : C'est que personne ne leur a appris la bonne façon de la prier.
+[00:39] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va…
+[00:44] PRÊTRE : et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:49] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[00:57] PRÊTRE : Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.
+
+TEXTE DE L'ANNONCE
+Titre : Quand les fins de mois ne passent pas
+Texte principal : Elle travaillait du matin au soir, et les fins de mois ne passaient pas. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre les explique, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous.
+Bouton : En savoir plus (LEARN_MORE)

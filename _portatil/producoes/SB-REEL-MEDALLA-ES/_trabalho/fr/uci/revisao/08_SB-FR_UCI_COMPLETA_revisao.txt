@@ -1,0 +1,60 @@
+REVISÃO: 08_SB-FR_UCI_COMPLETA.mp4
+duração 62.70s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 44.0 MB
+decodificação: OK
+pts do áudio: 2941 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\uci\revisao\08_SB-FR_UCI_COMPLETA_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  3.44 J'ai prié à genoux près du lit de mon mari, en soins intensifs.
+   3.44-  5.24 Et voilà ce qui s'est passé.
+   5.92-  8.64 Oh, glorieux Saint Benoît, ne me l'enlève pas.
+  12.80- 15.40 J'ai passé des jours et des nuits dans cette chambre,
+  15.40- 17.00 à regarder les machines.
+  17.00- 20.04 Je rentrais à la maison et son côté du lit était vide.
+  20.04- 22.32 Je sentais que je m'éteignais de l'intérieur.
+  22.32- 24.88 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  24.88- 28.16 que personne ne m'avait jamais dit sur la médaille de Saint Benoît.
+  28.16- 30.56 des millions de personnes portent cette médaille.
+  30.56- 34.56 Et personne ne leur a jamais expliqué ce que disent ces lettres.
+  34.56- 36.06 Ce n'est pas un manque de foi.
+  36.06- 39.36 C'est que personne ne leur a appris la bonne façon de la prier.
+  39.36- 43.96 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va,
+  43.96- 48.96 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  48.96- 53.26 C'est pour ça que j'ai laissé l'explication complète, lettre par lettre,
+  53.26- 57.56 dans une transmission en direct ouverte 24 heures sur 24.
+  57.56- 62.56 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.24    Llegó a Genoux, cerca de mi marido, en intensidad y aquí es lo que pasó.
+   5.96-  8.64    ¡Oh, glorioso Sain Benoît! No me lo saco.
+  12.84- 17.04    Llegó a días y a noches en esta sala, a mirar las máquinas.
+  17.04- 20.04    Revisé a la casa y su lado de Uli fue limpio.
+  20.04- 22.32    Sente que me tiré de la interior,
+  22.32- 28.16    hasta el día en el que un precioso explicó algo que nadie me había dicho en la medalla de Sain Benoît.
+  28.16- 30.64    de mil millones de personas portan esta medalla
+  30.64- 33.08    y nadie les ha explicado nunca
+  33.08- 34.68    lo que dicen esas letras
+  34.68- 36.16    no es una manca de veces
+  36.16- 39.44    es que nadie les ha aprendido la buena forma de pregarla
+  39.44- 41.48    cuando la prendemos de la buena forma
+  41.48- 42.84    la casa se apasiona
+  42.84- 44.04    la fe se va
+  44.04- 46.00    y empezamos a ver más issues
+  46.00- 47.72    ahí donde no se ven
+  47.72- 49.04    que las puertas cerran
+  49.04- 51.76    es por eso que me dejé la explicación completa
+  51.76- 53.32    letras por letras
+  53.32- 55.92    en una transmisión en directo abierto
+  55.92- 57.68    24 horas por 24
+  57.68- 62.32    Apuí sur en savoir plus, juste en dessous et viens prier avec nous.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

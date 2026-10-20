@@ -1,0 +1,72 @@
+{
+ "url": "https://www.sephora.com.mx/search?q=perfume",
+ "status": "sephora.es e sephora.com: Access Denied (headless e headful); sephora.cl não resolve; categoria MX deu 404 → usada a busca do México (headful)",
+ "primeiro_card": {
+  "y_px": 423,
+  "pct_viewport": 50
+ },
+ "primeira_imagem": {
+  "y_px": 469,
+  "w": 147,
+  "h": 147,
+  "aspecto": 1.0
+ },
+ "titulo": {
+  "h1": "vazio (texto 'Buscaste: \"perfume\"' 20px/700 Poppins)",
+  "descricao": "nenhuma",
+  "banner": "faixa promo preta ~105px no topo"
+ },
+ "header": {
+  "altura_px": 249,
+  "inclui": "promo + logo + campo de busca + menu de categorias rolável (34px, 14px uppercase)"
+ },
+ "chips": "só o menu de categorias do site (MAQUILLAJE/SKINCARE/FRAGANCIAS...), sem chips de filtro",
+ "filtro_ordenar": {
+  "sticky": true,
+  "detalhe": "barra fixa no rodapé 48px: 'Filtros' (fundo preto, 16px/500 branco) + 'Más relevante'. Medido position:fixed top=851 com viewport 844; no screenshot aparece sobre o grid. Confirmar manualmente"
+ },
+ "contagem": {
+  "texto": "Total de 137 productos",
+  "size": "14px/700",
+  "posicao": "pílula cinza centralizada acima do grid, y=361"
+ },
+ "card": {
+  "badges": "retângulos pretos 'NUEVO'/'SOLO EN SEPHORA' 9px/700 uppercase, 18px de altura, canto superior esquerdo; selo redondo sobre a foto",
+  "marca": {
+   "size": "14px",
+   "weight": 700,
+   "cor": "#333",
+   "uppercase": true,
+   "line_clamp": 2,
+   "fonte": "Overpass"
+  },
+  "nome": {
+   "size": "12px",
+   "weight": 400,
+   "transform": "lowercase",
+   "line_clamp": 3
+  },
+  "preco": {
+   "size": "24px",
+   "weight": 700,
+   "cor": "#333",
+   "fonte": "Poppins"
+  },
+  "rating": "em alguns cards (estrelas + '4.7 (330)')",
+  "variantes": "'(2 opciones)' + 'desde:'",
+  "cta": "nenhum visível (existe 'Ver más' 38px vermelho oculto)"
+ },
+ "grid": {
+  "colunas": 2,
+  "gap_coluna": 15,
+  "gap_linha_medido": 76,
+  "padding_lateral": 19
+ },
+ "fontes": {
+  "body": "Helvetica Neue",
+  "nomes": "Overpass",
+  "preco": "Poppins",
+  "badges": "Futura"
+ },
+ "seo": "não encontrado (página de busca)"
+}

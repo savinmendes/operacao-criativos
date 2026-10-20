@@ -1,0 +1,79 @@
+[
+ {
+  "w": "Devuélveme",
+  "ini": 0.023,
+  "fim": 0.906,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "a",
+  "ini": 0.94,
+  "fim": 0.964,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "mi",
+  "ini": 1.033,
+  "fim": 1.126,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "familia.",
+  "ini": 1.184,
+  "fim": 2.078,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "Si",
+  "ini": 2.461,
+  "fim": 2.647,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "me",
+  "ini": 2.717,
+  "fim": 2.798,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "escuchas...",
+  "ini": 2.821,
+  "fim": 3.762,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "no",
+  "ini": 4.087,
+  "fim": 4.249,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "me",
+  "ini": 4.319,
+  "fim": 4.423,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "dejes",
+  "ini": 4.493,
+  "fim": 4.83,
+  "personagem": "persona",
+  "parte": "reza"
+ },
+ {
+  "w": "sola.",
+  "ini": 4.876,
+  "fim": 5.503,
+  "personagem": "persona",
+  "parte": "reza"
+ }
+]

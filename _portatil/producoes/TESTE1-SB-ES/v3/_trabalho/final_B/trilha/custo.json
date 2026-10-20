@@ -1,0 +1,28 @@
+{
+ "antes": {
+  "usados": 281641,
+  "limite": 1921212
+ },
+ "itens": [
+  {
+   "nome": "triste_1",
+   "dur": 5.0,
+   "prompt": "Sad melancholic solo piano melody, slow, soft sustained strings underneath, emotional cinematic underscore, minor key, no drums, no vocals"
+  },
+  {
+   "nome": "triste_2",
+   "dur": 5.0,
+   "prompt": "Lonely emotional piano and cello, slow sad cinematic music cue, minor key, gentle, no percussion, no voices"
+  },
+  {
+   "nome": "esperanca_1",
+   "dur": 8.0,
+   "prompt": "Gentle hopeful cinematic piano with warm strings rising, uplifting, major key, slow build, no drums, no vocals"
+  }
+ ],
+ "depois": {
+  "usados": 282418,
+  "limite": 1921212
+ },
+ "creditos_gastos": 777
+}

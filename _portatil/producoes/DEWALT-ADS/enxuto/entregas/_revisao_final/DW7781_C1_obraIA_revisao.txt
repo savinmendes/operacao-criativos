@@ -1,0 +1,43 @@
+REVISÃO: DW7781_C1_obraIA.mp4
+duração 42.60s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.7 MB
+decodificação: OK
+pts do áudio: 1998 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: 38.23/38.37
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao_final\DW7781_C1_obraIA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.88 Maestro, con dos baterías la pega no separa, pones el anillo en modo percutor y la broca
+   6.88- 14.64 entra en el muro sin pelear, en madera pasa limpiecita y para atornillar, quince posiciones
+  14.64- 22.16 de torque aprietas justo sin pasarte, el secreto, motor sin carbones, de wall dice que es diecisiete
+  22.16- 27.12 por ciento más eficiente que un motor con carbones, dos velocidades, fuerzas en la primera
+  27.12- 31.32 rápides en la segunda, y trae dos baterías con indicador de carga, mientras una trabaja
+  31.32- 36.36 la otra se carga, compacto y liviano para trabajar todo el día.
+  36.36- 40.84 Aprovecha el pre-black friday, dímelo hoy y pagas recién cuando te llegue, envío a
+  40.84- 41.36 todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  3.42    Maestro, com dois baterias, a pega não se separa.
+   3.42-  5.42    Põe-se o anilho no modo percutor
+   5.42-  8.42    e a broca entra no muro sem pelear.
+   8.42- 11.42    Em madeira, passa limpezita.
+  11.42- 16.92    E para atornilhar, cinco posições de torque, aprietas sem passar.
+  16.92- 19.92    O secreto, motor sem carbões.
+  19.92- 26.42    De Walde disse que é 17% mais eficiente que um motor com carbões, dois velocidades.
+  26.42- 28.42    Fuerça na primeira, rapidez na segunda.
+  28.42- 30.42    E traio 2 baterias com indicador de carga,
+  30.42- 32.42    Mientras uma trabalha, a outra se carga.
+  33.42- 35.42    Compacto e liviano para trabalhar todo o dia.
+  36.42- 37.42    Aproveite o PreBlack Friday.
+  38.42- 40.42    Fique hoje e pague quando você chegar.
+  40.42- 41.42    Em viva a todo Chile.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 38.23s e 38.37s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

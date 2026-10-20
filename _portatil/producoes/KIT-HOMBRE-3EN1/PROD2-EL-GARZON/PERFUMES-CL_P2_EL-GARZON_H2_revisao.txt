@@ -1,0 +1,29 @@
+REVISÃO: PERFUMES-CL_P2_EL-GARZON_H2.mp4
+duração 35.02s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 24.8 MB
+decodificação: OK
+pts do áudio: 1643 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1013-1078, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD2-EL-GARZON\PERFUMES-CL_P2_EL-GARZON_H2_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¡Garzón! ¡Esto es para usted!
+   3.72-  8.34 Soy Garzona hace 20 años y nunca me habían dejado tanta propina.
+   8.34- 10.84 Tres perfumes árabes al precio de uno.
+  10.84- 12.84 En el día, Armav Club.
+  12.84- 15.34 Fresco, masculino y poderoso.
+  15.34- 17.84 Ahora me piden la carta solo para olerme.
+  17.84- 20.34 En la noche, la tafa hazaan.
+  20.34- 22.34 Intenso y seductor.
+  22.34- 24.84 Mi señora ya no me deja ni lavar la loza.
+  24.84- 27.84 Y al fin de semana, AFNAN 9PM.
+  27.84- 29.34 Elegante y moderno.
+  29.34- 34.50 Los tres te llegan a la casa y pagas cuando los recibes. Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

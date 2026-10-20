@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: L,Poppins ExtraBold,112,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,10,4,5,30,30,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:00.48,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}OH{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.48,0:00:01.25,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}GLORIOUS{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.25,0:00:02.80,L,,0,0,0,,{\an5\pos(540,1389)}SAINT {\c&H55E3FB&}BENEDICT{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.12,0:00:03.87,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}TODAY{\c&HFFFFFF&} I SPEAK
+Dialogue: 0,0:00:03.87,0:00:04.31,L,,0,0,0,,{\an5\pos(540,1389)}THE {\c&H55E3FB&}WORDS{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.31,0:00:04.90,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}ENGRAVED{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.90,0:00:06.21,L,,0,0,0,,{\an5\pos(540,1389)}ON YOUR {\c&H55E3FB&}MEDAL{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.21,0:00:06.68,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}DELIVER{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.68,0:00:07.03,L,,0,0,0,,{\an5\pos(540,1389)}ME FROM
+Dialogue: 0,0:00:07.03,0:00:08.44,L,,0,0,0,,{\an5\pos(540,1389)}THIS {\c&H55E3FB&}HARDSHIP{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.44,0:00:08.75,L,,0,0,0,,{\an5\pos(540,1389)}IF YOU
+Dialogue: 0,0:00:08.75,0:00:09.82,L,,0,0,0,,{\an5\pos(540,1389)}CAN {\c&H55E3FB&}HEAR{\c&HFFFFFF&} ME
+Dialogue: 0,0:00:09.82,0:00:10.80,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}HELP{\c&HFFFFFF&} ME
+Dialogue: 0,0:00:10.80,0:00:11.30,L,,0,0,0,,{\an5\pos(540,1389)}I WENT {\c&H55E3FB&}ALMOST{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.30,0:00:11.83,L,,0,0,0,,{\an5\pos(540,1389)}SIX {\c&H55E3FB&}MONTHS{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.83,0:00:12.10,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}WITHOUT{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.10,0:00:13.09,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}CUSTOMERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.09,0:00:13.52,L,,0,0,0,,{\an5\pos(540,1389)}I EVEN {\c&H55E3FB&}THOUGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.52,0:00:14.22,L,,0,0,0,,{\an5\pos(540,1389)}ABOUT {\c&H55E3FB&}CLOSING{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.22,0:00:15.31,L,,0,0,0,,{\an5\pos(540,1389)}MY {\c&H55E3FB&}BUSINESS{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.31,0:00:15.81,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}UNTIL{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.81,0:00:16.40,L,,0,0,0,,{\an5\pos(540,1389)}DURING A {\c&H55E3FB&}LIVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.40,0:00:17.18,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}STREAM{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.18,0:00:17.67,L,,0,0,0,,{\an5\pos(540,1389)}A {\c&H55E3FB&}PRIEST{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.67,0:00:18.07,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}EXPLAINED{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.07,0:00:18.61,L,,0,0,0,,{\an5\pos(540,1389)}THE {\c&H55E3FB&}EXACT{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.61,0:00:19.20,L,,0,0,0,,{\an5\pos(540,1389)}WAY TO {\c&H55E3FB&}ASK{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.20,0:00:20.41,L,,0,0,0,,{\an5\pos(540,1389)}SAINT {\c&H55E3FB&}BENEDICT{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.41,0:00:21.01,L,,0,0,0,,{\an5\pos(540,1389)}THAT {\c&H55E3FB&}DAY{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.01,0:00:21.66,L,,0,0,0,,{\an5\pos(540,1389)}I FOUND {\c&H55E3FB&}PEACE{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.66,0:00:22.35,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}AGAIN{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.51,0:00:22.98,L,,0,0,0,,{\an5\pos(540,1389)}AND {\c&H55E3FB&}LITTLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.98,0:00:23.86,L,,0,0,0,,{\an5\pos(540,1389)}BY {\c&H55E3FB&}LITTLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.86,0:00:24.37,L,,0,0,0,,{\an5\pos(540,1389)}THE {\c&H55E3FB&}DOORS{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.37,0:00:25.73,L,,0,0,0,,{\an5\pos(540,1389)}BEGAN TO {\c&H55E3FB&}OPEN{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.91,0:00:26.70,L,,0,0,0,,{\an5\pos(540,1389)}THIS IS THE {\c&H55E3FB&}LAST{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.70,0:00:27.26,L,,0,0,0,,{\an5\pos(540,1389)}TIME {\c&H55E3FB&}GOD{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.26,0:00:27.59,L,,0,0,0,,{\an5\pos(540,1389)}WILL {\c&H55E3FB&}TRY{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.59,0:00:28.09,L,,0,0,0,,{\an5\pos(540,1389)}TO {\c&H55E3FB&}SPEAK{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:28.09,0:00:29.15,L,,0,0,0,,{\an5\pos(540,1389)}YOU THIS WAY
+Dialogue: 0,0:00:29.54,0:00:29.98,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}JESUS{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.98,0:00:31.40,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}CHOSE{\c&HFFFFFF&} YOU
+Dialogue: 0,0:00:31.40,0:00:32.03,L,,0,0,0,,{\an5\pos(540,1389)}HE {\c&H55E3FB&}PREPARED{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.03,0:00:32.63,L,,0,0,0,,{\an5\pos(540,1389)}A {\c&H55E3FB&}POWERFUL{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.63,0:00:33.37,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}GIFT{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.37,0:00:34.79,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}JUST{\c&HFFFFFF&} FOR YOU
+Dialogue: 0,0:00:34.79,0:00:35.72,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}TODAY{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.72,0:00:36.22,L,,0,0,0,,{\an5\pos(540,1389)}YOU WILL {\c&H55E3FB&}HEAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.22,0:00:36.73,L,,0,0,0,,{\an5\pos(540,1389)}THE {\c&H55E3FB&}LOST{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.73,0:00:37.19,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}PRAYER{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:37.19,0:00:38.24,L,,0,0,0,,{\an5\pos(540,1389)}SAINT {\c&H55E3FB&}BENEDICT{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.24,0:00:38.88,L,,0,0,0,,{\an5\pos(540,1389)}THAT {\c&H55E3FB&}UNLOCKS{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.88,0:00:39.42,L,,0,0,0,,{\an5\pos(540,1389)}A {\c&H55E3FB&}SHOWER{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.42,0:00:40.92,L,,0,0,0,,{\an5\pos(540,1389)}OF {\c&H55E3FB&}MIRACLES{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.92,0:00:41.56,L,,0,0,0,,{\an5\pos(540,1389)}BUT {\c&H55E3FB&}ONLY{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.56,0:00:42.08,L,,0,0,0,,{\an5\pos(540,1389)}IF YOU {\c&H55E3FB&}DON'T{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.08,0:00:43.35,L,,0,0,0,,{\an5\pos(540,1389)}REJECT IT {\c&H55E3FB&}AGAIN{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.77,0:00:44.24,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}RECEIVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.24,0:00:44.91,L,,0,0,0,,{\an5\pos(540,1230)}YOUR {\c&H55E3FB&}MIRACLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.91,0:00:45.26,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}BEFORE{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.26,0:00:45.69,L,,0,0,0,,{\an5\pos(540,1230)}THE {\c&H55E3FB&}DOOR{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.69,0:00:46.18,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}CLOSES{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.18,0:00:47.44,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}FOREVER{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.44,0:00:48.43,L,,0,0,0,,{\an5\pos(540,1230)}RIGHT {\c&H55E3FB&}NOW{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.43,0:00:49.08,L,,0,0,0,,{\an5\pos(540,1230)}A {\c&H55E3FB&}PRAYER{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:49.08,0:00:49.88,L,,0,0,0,,{\an5\pos(540,1230)}SAINT {\c&H55E3FB&}BENEDICT{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.88,0:00:50.33,L,,0,0,0,,{\an5\pos(540,1230)}IS {\c&H55E3FB&}BEING{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.33,0:00:51.02,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}BROADCAST{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.02,0:00:52.07,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}LIVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.07,0:00:52.48,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}TAP{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.48,0:00:53.01,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}LEARN{\c&HFFFFFF&} {\c&H55E3FB&}MORE{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.01,0:00:53.68,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}BELOW{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.68,0:00:54.30,L,,0,0,0,,{\an5\pos(540,1230)}AND {\c&H55E3FB&}JOIN{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.30,0:00:55.17,L,,0,0,0,,{\an5\pos(540,1230)}THE LIVE {\c&H55E3FB&}PRAYER{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.17,0:00:56.17,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}NOW{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.92,0:00:57.40,L,,0,0,0,,{\an5\pos(540,1519)\fad(120,0)\fs96}TAP {\c&H55E3FB&}“LEARN MORE”

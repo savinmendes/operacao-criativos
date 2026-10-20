@@ -1,0 +1,1142 @@
+{
+ "_legenda": {
+  "apresentador": "apresentador da abertura (batina e solideu brancos, ~60 anos); on-camera nas cenas abertura_figura_branca, voz off nas abertura_broll",
+  "padre": "padre de oculos e casula verde (avatar), ~30-35 anos",
+  "depoente1": "depoimento 1: mulher ~55-60 anos, oculos, regata (Maria Fernandez), video 585.2-618.2 s",
+  "depoente2": "depoimento 2: homem ~65 anos, cabelo branco, terno azul, video 618.2-659.1 s",
+  "depoente3": "depoimento 3: mulher ~40 anos, oculos pretos, cabelo castanho, video 659.1-706.0 s"
+ },
+ "_metodo": "tempos do roteiro + cenas.json (corrigido nos depoimentos por diferenca de quadros) + F0 mediana por bloco no audio original (apresentador ~168 Hz, padre ~110-120, dep1 ~180, dep2 ~125, dep3 ~220)",
+ "B001": {
+  "falante": "apresentador",
+  "ini_es": 0.0,
+  "fim_es": 7.56
+ },
+ "B002": {
+  "falante": "apresentador",
+  "ini_es": 8.22,
+  "fim_es": 16.94
+ },
+ "B003": {
+  "falante": "apresentador",
+  "ini_es": 17.58,
+  "fim_es": 29.14
+ },
+ "B004": {
+  "falante": "apresentador",
+  "ini_es": 29.6,
+  "fim_es": 41.78
+ },
+ "B005": {
+  "falante": "apresentador",
+  "ini_es": 42.28,
+  "fim_es": 50.52
+ },
+ "B006": {
+  "falante": "apresentador",
+  "ini_es": 51.02,
+  "fim_es": 60.34
+ },
+ "B007": {
+  "falante": "apresentador",
+  "ini_es": 60.9,
+  "fim_es": 69.14
+ },
+ "B008": {
+  "falante": "apresentador",
+  "ini_es": 69.44,
+  "fim_es": 78.92
+ },
+ "B009": {
+  "falante": "apresentador",
+  "ini_es": 79.38,
+  "fim_es": 89.36
+ },
+ "B010": {
+  "falante": "apresentador",
+  "ini_es": 89.36,
+  "fim_es": 97.26
+ },
+ "B011": {
+  "falante": "apresentador",
+  "ini_es": 97.92,
+  "fim_es": 105.14
+ },
+ "B012": {
+  "falante": "apresentador",
+  "ini_es": 105.72,
+  "fim_es": 114.94
+ },
+ "B013": {
+  "falante": "apresentador",
+  "ini_es": 115.52,
+  "fim_es": 126.24
+ },
+ "B014": {
+  "falante": "apresentador",
+  "ini_es": 126.74,
+  "fim_es": 139.18
+ },
+ "B015": {
+  "falante": "apresentador",
+  "ini_es": 139.18,
+  "fim_es": 156.84
+ },
+ "B016": {
+  "falante": "apresentador",
+  "ini_es": 156.84,
+  "fim_es": 168.02
+ },
+ "B017": {
+  "falante": "apresentador",
+  "ini_es": 168.48,
+  "fim_es": 178.36
+ },
+ "B018": {
+  "falante": "apresentador",
+  "ini_es": 178.92,
+  "fim_es": 187.96
+ },
+ "B019": {
+  "falante": "apresentador",
+  "ini_es": 188.5,
+  "fim_es": 205.66
+ },
+ "B019A": {
+  "falante": "padre",
+  "ini_es": 223.5,
+  "fim_es": 244.6
+ },
+ "B020": {
+  "falante": "padre",
+  "ini_es": 244.72,
+  "fim_es": 260.22
+ },
+ "B021": {
+  "falante": "padre",
+  "ini_es": 260.6,
+  "fim_es": 268.06
+ },
+ "B022": {
+  "falante": "padre",
+  "ini_es": 268.76,
+  "fim_es": 276.32
+ },
+ "B034": {
+  "falante": "padre",
+  "ini_es": 403.93,
+  "fim_es": 421.01
+ },
+ "B035": {
+  "falante": "padre",
+  "ini_es": 421.51,
+  "fim_es": 428.99
+ },
+ "B036": {
+  "falante": "padre",
+  "ini_es": 444.43,
+  "fim_es": 450.49
+ },
+ "B037": {
+  "falante": "padre",
+  "ini_es": 466.66,
+  "fim_es": 482.34
+ },
+ "B038": {
+  "falante": "padre",
+  "ini_es": 482.34,
+  "fim_es": 492.52
+ },
+ "B039": {
+  "falante": "padre",
+  "ini_es": 493.14,
+  "fim_es": 505.0
+ },
+ "B040": {
+  "falante": "padre",
+  "ini_es": 505.74,
+  "fim_es": 512.7
+ },
+ "B041": {
+  "falante": "padre",
+  "ini_es": 513.1,
+  "fim_es": 525.6
+ },
+ "B042": {
+  "falante": "padre",
+  "ini_es": 526.3,
+  "fim_es": 543.74
+ },
+ "B043": {
+  "falante": "padre",
+  "ini_es": 543.74,
+  "fim_es": 560.06
+ },
+ "B044": {
+  "falante": "padre",
+  "ini_es": 560.86,
+  "fim_es": 567.86
+ },
+ "B045": {
+  "falante": "padre",
+  "ini_es": 568.3,
+  "fim_es": 580.1
+ },
+ "B046": {
+  "falante": "padre",
+  "ini_es": 580.98,
+  "fim_es": 583.66,
+  "obs": "padre em voz off (b-roll crucifixo/estatua 580.3-585.2)"
+ },
+ "B047": {
+  "falante": "depoente1",
+  "ini_es": 584.98,
+  "fim_es": 592.34
+ },
+ "B048": {
+  "falante": "depoente1",
+  "ini_es": 592.98,
+  "fim_es": 604.96
+ },
+ "B049": {
+  "falante": "depoente1",
+  "ini_es": 605.32,
+  "fim_es": 613.68
+ },
+ "B050": {
+  "falante": "depoente1",
+  "ini_es": 614.12,
+  "fim_es": 617.96
+ },
+ "B051": {
+  "falante": "depoente2",
+  "ini_es": 618.24,
+  "fim_es": 628.64
+ },
+ "B052": {
+  "falante": "depoente2",
+  "ini_es": 628.96,
+  "fim_es": 635.58
+ },
+ "B053": {
+  "falante": "depoente2",
+  "ini_es": 635.94,
+  "fim_es": 642.46
+ },
+ "B054": {
+  "falante": "depoente2",
+  "ini_es": 642.68,
+  "fim_es": 648.96
+ },
+ "B055": {
+  "falante": "depoente2",
+  "ini_es": 649.36,
+  "fim_es": 654.6
+ },
+ "B056": {
+  "falante": "depoente2",
+  "ini_es": 654.84,
+  "fim_es": 658.96
+ },
+ "B057": {
+  "falante": "depoente3",
+  "ini_es": 659.2,
+  "fim_es": 666.42
+ },
+ "B058": {
+  "falante": "depoente3",
+  "ini_es": 666.86,
+  "fim_es": 674.6
+ },
+ "B059": {
+  "falante": "depoente3",
+  "ini_es": 674.94,
+  "fim_es": 682.84
+ },
+ "B060": {
+  "falante": "depoente3",
+  "ini_es": 683.16,
+  "fim_es": 691.82
+ },
+ "B061": {
+  "falante": "depoente3",
+  "ini_es": 692.04,
+  "fim_es": 698.08
+ },
+ "B062": {
+  "falante": "depoente3",
+  "ini_es": 698.36,
+  "fim_es": 703.54
+ },
+ "B063": {
+  "falante": "depoente3",
+  "ini_es": 703.9,
+  "fim_es": 705.86
+ },
+ "B064": {
+  "falante": "padre",
+  "ini_es": 706.3,
+  "fim_es": 720.76
+ },
+ "B065": {
+  "falante": "padre",
+  "ini_es": 721.64,
+  "fim_es": 732.86
+ },
+ "B066": {
+  "falante": "padre",
+  "ini_es": 733.2,
+  "fim_es": 743.92
+ },
+ "B067": {
+  "falante": "padre",
+  "ini_es": 744.58,
+  "fim_es": 750.6
+ },
+ "B068": {
+  "falante": "padre",
+  "ini_es": 750.98,
+  "fim_es": 758.2
+ },
+ "B069": {
+  "falante": "padre",
+  "ini_es": 758.54,
+  "fim_es": 772.18
+ },
+ "B070": {
+  "falante": "padre",
+  "ini_es": 772.48,
+  "fim_es": 781.56
+ },
+ "B071": {
+  "falante": "padre",
+  "ini_es": 781.84,
+  "fim_es": 788.56
+ },
+ "B072": {
+  "falante": "padre",
+  "ini_es": 789.0,
+  "fim_es": 794.9
+ },
+ "B073": {
+  "falante": "padre",
+  "ini_es": 795.32,
+  "fim_es": 803.96
+ },
+ "B074": {
+  "falante": "padre",
+  "ini_es": 804.32,
+  "fim_es": 810.9
+ },
+ "B075": {
+  "falante": "padre",
+  "ini_es": 811.32,
+  "fim_es": 823.22
+ },
+ "B076": {
+  "falante": "padre",
+  "ini_es": 823.58,
+  "fim_es": 834.78
+ },
+ "B077": {
+  "falante": "padre",
+  "ini_es": 835.44,
+  "fim_es": 844.38
+ },
+ "B078": {
+  "falante": "padre",
+  "ini_es": 844.72,
+  "fim_es": 861.88
+ },
+ "B079": {
+  "falante": "padre",
+  "ini_es": 862.26,
+  "fim_es": 872.6
+ },
+ "B080": {
+  "falante": "padre",
+  "ini_es": 873.02,
+  "fim_es": 883.22
+ },
+ "B081": {
+  "falante": "padre",
+  "ini_es": 883.58,
+  "fim_es": 898.88
+ },
+ "B082": {
+  "falante": "padre",
+  "ini_es": 899.6,
+  "fim_es": 908.36
+ },
+ "B083": {
+  "falante": "padre",
+  "ini_es": 908.62,
+  "fim_es": 918.62
+ },
+ "B084": {
+  "falante": "padre",
+  "ini_es": 919.0,
+  "fim_es": 932.96
+ },
+ "B085": {
+  "falante": "padre",
+  "ini_es": 933.3,
+  "fim_es": 939.38
+ },
+ "B086": {
+  "falante": "padre",
+  "ini_es": 939.78,
+  "fim_es": 946.02
+ },
+ "B087": {
+  "falante": "padre",
+  "ini_es": 946.36,
+  "fim_es": 955.98
+ },
+ "B088": {
+  "falante": "padre",
+  "ini_es": 956.38,
+  "fim_es": 963.7
+ },
+ "B089": {
+  "falante": "padre",
+  "ini_es": 963.98,
+  "fim_es": 969.58
+ },
+ "B090": {
+  "falante": "padre",
+  "ini_es": 970.16,
+  "fim_es": 978.44
+ },
+ "B091": {
+  "falante": "padre",
+  "ini_es": 978.72,
+  "fim_es": 990.14
+ },
+ "B092": {
+  "falante": "padre",
+  "ini_es": 990.5,
+  "fim_es": 998.0
+ },
+ "B093": {
+  "falante": "padre",
+  "ini_es": 998.0,
+  "fim_es": 1012.52
+ },
+ "B094": {
+  "falante": "padre",
+  "ini_es": 1012.94,
+  "fim_es": 1021.36
+ },
+ "B095": {
+  "falante": "padre",
+  "ini_es": 1021.64,
+  "fim_es": 1032.38
+ },
+ "B096": {
+  "falante": "padre",
+  "ini_es": 1032.68,
+  "fim_es": 1042.2
+ },
+ "B097": {
+  "falante": "padre",
+  "ini_es": 1042.58,
+  "fim_es": 1056.08
+ },
+ "B098": {
+  "falante": "padre",
+  "ini_es": 1056.08,
+  "fim_es": 1063.22
+ },
+ "B099": {
+  "falante": "padre",
+  "ini_es": 1063.62,
+  "fim_es": 1072.52
+ },
+ "B100": {
+  "falante": "padre",
+  "ini_es": 1072.84,
+  "fim_es": 1081.86
+ },
+ "B101": {
+  "falante": "padre",
+  "ini_es": 1082.18,
+  "fim_es": 1090.02
+ },
+ "B102": {
+  "falante": "padre",
+  "ini_es": 1090.34,
+  "fim_es": 1102.76
+ },
+ "B103": {
+  "falante": "padre",
+  "ini_es": 1103.38,
+  "fim_es": 1117.64
+ },
+ "B104": {
+  "falante": "padre",
+  "ini_es": 1118.04,
+  "fim_es": 1130.5
+ },
+ "B105": {
+  "falante": "padre",
+  "ini_es": 1130.86,
+  "fim_es": 1141.26
+ },
+ "B106": {
+  "falante": "padre",
+  "ini_es": 1141.26,
+  "fim_es": 1158.32
+ },
+ "B107": {
+  "falante": "padre",
+  "ini_es": 1158.68,
+  "fim_es": 1167.9
+ },
+ "B108": {
+  "falante": "padre",
+  "ini_es": 1168.24,
+  "fim_es": 1177.02
+ },
+ "B109": {
+  "falante": "padre",
+  "ini_es": 1177.48,
+  "fim_es": 1189.5
+ },
+ "B110": {
+  "falante": "padre",
+  "ini_es": 1189.88,
+  "fim_es": 1199.34
+ },
+ "B111": {
+  "falante": "padre",
+  "ini_es": 1199.34,
+  "fim_es": 1208.94
+ },
+ "B112": {
+  "falante": "padre",
+  "ini_es": 1209.44,
+  "fim_es": 1217.16
+ },
+ "B113": {
+  "falante": "padre",
+  "ini_es": 1217.48,
+  "fim_es": 1224.12
+ },
+ "B114": {
+  "falante": "padre",
+  "ini_es": 1224.62,
+  "fim_es": 1235.92
+ },
+ "B115": {
+  "falante": "padre",
+  "ini_es": 1236.22,
+  "fim_es": 1246.12
+ },
+ "B116": {
+  "falante": "padre",
+  "ini_es": 1247.08,
+  "fim_es": 1258.58
+ },
+ "B117": {
+  "falante": "padre",
+  "ini_es": 1258.92,
+  "fim_es": 1265.68
+ },
+ "B118": {
+  "falante": "padre",
+  "ini_es": 1266.04,
+  "fim_es": 1278.02
+ },
+ "B119": {
+  "falante": "padre",
+  "ini_es": 1278.42,
+  "fim_es": 1285.88
+ },
+ "B120": {
+  "falante": "padre",
+  "ini_es": 1286.54,
+  "fim_es": 1295.98
+ },
+ "B121": {
+  "falante": "padre",
+  "ini_es": 1296.64,
+  "fim_es": 1304.54
+ },
+ "B122": {
+  "falante": "padre",
+  "ini_es": 1304.8,
+  "fim_es": 1319.2
+ },
+ "B123": {
+  "falante": "padre",
+  "ini_es": 1319.56,
+  "fim_es": 1336.9
+ },
+ "B124": {
+  "falante": "padre",
+  "ini_es": 1337.28,
+  "fim_es": 1345.0
+ },
+ "B125": {
+  "falante": "padre",
+  "ini_es": 1345.42,
+  "fim_es": 1355.3
+ },
+ "B126": {
+  "falante": "padre",
+  "ini_es": 1355.76,
+  "fim_es": 1373.78
+ },
+ "B127": {
+  "falante": "padre",
+  "ini_es": 1374.14,
+  "fim_es": 1381.94
+ },
+ "B128": {
+  "falante": "padre",
+  "ini_es": 1382.44,
+  "fim_es": 1393.98
+ },
+ "B129": {
+  "falante": "padre",
+  "ini_es": 1394.32,
+  "fim_es": 1411.28
+ },
+ "B130": {
+  "falante": "padre",
+  "ini_es": 1411.66,
+  "fim_es": 1428.24
+ },
+ "B131": {
+  "falante": "padre",
+  "ini_es": 1428.24,
+  "fim_es": 1443.52
+ },
+ "B132": {
+  "falante": "padre",
+  "ini_es": 1443.82,
+  "fim_es": 1454.32
+ },
+ "B133": {
+  "falante": "padre",
+  "ini_es": 1454.8,
+  "fim_es": 1469.0
+ },
+ "B134": {
+  "falante": "padre",
+  "ini_es": 1469.16,
+  "fim_es": 1476.4
+ },
+ "B135": {
+  "falante": "padre",
+  "ini_es": 1476.62,
+  "fim_es": 1485.06
+ },
+ "B136": {
+  "falante": "padre",
+  "ini_es": 1485.6,
+  "fim_es": 1502.44
+ },
+ "B137": {
+  "falante": "padre",
+  "ini_es": 1502.9,
+  "fim_es": 1519.18
+ },
+ "B138": {
+  "falante": "padre",
+  "ini_es": 1519.44,
+  "fim_es": 1536.96
+ },
+ "B139": {
+  "falante": "padre",
+  "ini_es": 1537.34,
+  "fim_es": 1550.62
+ },
+ "B140": {
+  "falante": "padre",
+  "ini_es": 1551.0,
+  "fim_es": 1562.36
+ },
+ "B141": {
+  "falante": "padre",
+  "ini_es": 1562.76,
+  "fim_es": 1577.1
+ },
+ "B142": {
+  "falante": "padre",
+  "ini_es": 1577.38,
+  "fim_es": 1588.98
+ },
+ "B143": {
+  "falante": "padre",
+  "ini_es": 1589.38,
+  "fim_es": 1600.1
+ },
+ "B144": {
+  "falante": "padre",
+  "ini_es": 1600.64,
+  "fim_es": 1617.12
+ },
+ "B145": {
+  "falante": "padre",
+  "ini_es": 1617.42,
+  "fim_es": 1630.8
+ },
+ "B146": {
+  "falante": "padre",
+  "ini_es": 1631.16,
+  "fim_es": 1641.82
+ },
+ "B147": {
+  "falante": "padre",
+  "ini_es": 1642.24,
+  "fim_es": 1649.48
+ },
+ "B148": {
+  "falante": "padre",
+  "ini_es": 1649.98,
+  "fim_es": 1660.52
+ },
+ "B149": {
+  "falante": "padre",
+  "ini_es": 1660.86,
+  "fim_es": 1678.56
+ },
+ "B150": {
+  "falante": "padre",
+  "ini_es": 1678.56,
+  "fim_es": 1687.86
+ },
+ "B151": {
+  "falante": "padre",
+  "ini_es": 1688.14,
+  "fim_es": 1695.42
+ },
+ "B152": {
+  "falante": "padre",
+  "ini_es": 1695.74,
+  "fim_es": 1704.1
+ },
+ "B153": {
+  "falante": "padre",
+  "ini_es": 1704.44,
+  "fim_es": 1720.68
+ },
+ "B154": {
+  "falante": "padre",
+  "ini_es": 1721.04,
+  "fim_es": 1728.9
+ },
+ "B155": {
+  "falante": "padre",
+  "ini_es": 1729.14,
+  "fim_es": 1737.84
+ },
+ "B156": {
+  "falante": "padre",
+  "ini_es": 1738.18,
+  "fim_es": 1750.18
+ },
+ "B157": {
+  "falante": "padre",
+  "ini_es": 1750.64,
+  "fim_es": 1757.92
+ },
+ "B158": {
+  "falante": "padre",
+  "ini_es": 1758.3,
+  "fim_es": 1765.92
+ },
+ "B159": {
+  "falante": "padre",
+  "ini_es": 1766.22,
+  "fim_es": 1776.64
+ },
+ "B160": {
+  "falante": "padre",
+  "ini_es": 1777.0,
+  "fim_es": 1790.92
+ },
+ "B161": {
+  "falante": "padre",
+  "ini_es": 1791.16,
+  "fim_es": 1801.9
+ },
+ "B162": {
+  "falante": "padre",
+  "ini_es": 1801.9,
+  "fim_es": 1809.54
+ },
+ "B163": {
+  "falante": "padre",
+  "ini_es": 1810.28,
+  "fim_es": 1820.8
+ },
+ "B164": {
+  "falante": "padre",
+  "ini_es": 1821.1,
+  "fim_es": 1832.78
+ },
+ "B165": {
+  "falante": "padre",
+  "ini_es": 1833.12,
+  "fim_es": 1845.28
+ },
+ "B166": {
+  "falante": "padre",
+  "ini_es": 1845.7,
+  "fim_es": 1854.92
+ },
+ "B167": {
+  "falante": "padre",
+  "ini_es": 1855.46,
+  "fim_es": 1862.84
+ },
+ "B168": {
+  "falante": "padre",
+  "ini_es": 1863.36,
+  "fim_es": 1878.98
+ },
+ "B169": {
+  "falante": "padre",
+  "ini_es": 1879.46,
+  "fim_es": 1891.42
+ },
+ "B170": {
+  "falante": "padre",
+  "ini_es": 1891.96,
+  "fim_es": 1900.88
+ },
+ "B171": {
+  "falante": "padre",
+  "ini_es": 1901.4,
+  "fim_es": 1910.64
+ },
+ "B172": {
+  "falante": "padre",
+  "ini_es": 1911.22,
+  "fim_es": 1920.22
+ },
+ "B173": {
+  "falante": "padre",
+  "ini_es": 1920.7,
+  "fim_es": 1927.54
+ },
+ "B174": {
+  "falante": "padre",
+  "ini_es": 1927.92,
+  "fim_es": 1937.42
+ },
+ "B175": {
+  "falante": "padre",
+  "ini_es": 1938.18,
+  "fim_es": 1950.88
+ },
+ "B176": {
+  "falante": "padre",
+  "ini_es": 1951.18,
+  "fim_es": 1962.38
+ },
+ "B177": {
+  "falante": "padre",
+  "ini_es": 1962.56,
+  "fim_es": 1971.5
+ },
+ "B178": {
+  "falante": "padre",
+  "ini_es": 1971.88,
+  "fim_es": 1984.28
+ },
+ "B179": {
+  "falante": "padre",
+  "ini_es": 1984.74,
+  "fim_es": 1997.86
+ },
+ "B180": {
+  "falante": "padre",
+  "ini_es": 1998.2,
+  "fim_es": 2005.4
+ },
+ "B181": {
+  "falante": "padre",
+  "ini_es": 2005.4,
+  "fim_es": 2014.02
+ },
+ "B182": {
+  "falante": "padre",
+  "ini_es": 2014.4,
+  "fim_es": 2031.76
+ },
+ "B183": {
+  "falante": "padre",
+  "ini_es": 2031.86,
+  "fim_es": 2044.44
+ },
+ "B184": {
+  "falante": "padre",
+  "ini_es": 2044.98,
+  "fim_es": 2060.98
+ },
+ "B185": {
+  "falante": "padre",
+  "ini_es": 2060.98,
+  "fim_es": 2078.26
+ },
+ "B186": {
+  "falante": "padre",
+  "ini_es": 2078.26,
+  "fim_es": 2096.06
+ },
+ "B187": {
+  "falante": "padre",
+  "ini_es": 2096.48,
+  "fim_es": 2112.62
+ },
+ "B188": {
+  "falante": "padre",
+  "ini_es": 2112.62,
+  "fim_es": 2129.08
+ },
+ "B189": {
+  "falante": "padre",
+  "ini_es": 2129.48,
+  "fim_es": 2145.42
+ },
+ "B190": {
+  "falante": "padre",
+  "ini_es": 2145.9,
+  "fim_es": 2146.24
+ },
+ "B191": {
+  "falante": "padre",
+  "ini_es": 2155.98,
+  "fim_es": 2165.34
+ },
+ "B192": {
+  "falante": "padre",
+  "ini_es": 2165.96,
+  "fim_es": 2172.98
+ },
+ "B193": {
+  "falante": "padre",
+  "ini_es": 2173.68,
+  "fim_es": 2181.18
+ },
+ "B194": {
+  "falante": "padre",
+  "ini_es": 2181.72,
+  "fim_es": 2189.42
+ },
+ "B195": {
+  "falante": "padre",
+  "ini_es": 2189.96,
+  "fim_es": 2197.32
+ },
+ "B196": {
+  "falante": "padre",
+  "ini_es": 2198.04,
+  "fim_es": 2208.56
+ },
+ "B197": {
+  "falante": "padre",
+  "ini_es": 2209.3,
+  "fim_es": 2221.66
+ },
+ "B198": {
+  "falante": "padre",
+  "ini_es": 2222.44,
+  "fim_es": 2232.8
+ },
+ "B199": {
+  "falante": "padre",
+  "ini_es": 2233.4,
+  "fim_es": 2243.16
+ },
+ "B200": {
+  "falante": "padre",
+  "ini_es": 2243.16,
+  "fim_es": 2256.14
+ },
+ "B201": {
+  "falante": "padre",
+  "ini_es": 2256.62,
+  "fim_es": 2263.98
+ },
+ "B202": {
+  "falante": "padre",
+  "ini_es": 2264.36,
+  "fim_es": 2271.62
+ },
+ "B203": {
+  "falante": "padre",
+  "ini_es": 2272.31,
+  "fim_es": 2282.2
+ },
+ "B204": {
+  "falante": "padre",
+  "ini_es": 2282.82,
+  "fim_es": 2292.36
+ },
+ "B205": {
+  "falante": "padre",
+  "ini_es": 2293.26,
+  "fim_es": 2304.02
+ },
+ "B206": {
+  "falante": "padre",
+  "ini_es": 2304.7,
+  "fim_es": 2312.14
+ },
+ "B207": {
+  "falante": "padre",
+  "ini_es": 2312.92,
+  "fim_es": 2324.72
+ },
+ "B208": {
+  "falante": "padre",
+  "ini_es": 2325.08,
+  "fim_es": 2334.34
+ },
+ "B209": {
+  "falante": "padre",
+  "ini_es": 2334.74,
+  "fim_es": 2340.08
+ },
+ "B210": {
+  "falante": "padre",
+  "ini_es": 2340.48,
+  "fim_es": 2347.36
+ },
+ "B211": {
+  "falante": "padre",
+  "ini_es": 2348.02,
+  "fim_es": 2354.74
+ },
+ "B212": {
+  "falante": "padre",
+  "ini_es": 2355.12,
+  "fim_es": 2365.32
+ },
+ "B213": {
+  "falante": "padre",
+  "ini_es": 2365.58,
+  "fim_es": 2371.78
+ },
+ "B214": {
+  "falante": "padre",
+  "ini_es": 2371.96,
+  "fim_es": 2378.18
+ },
+ "B215": {
+  "falante": "padre",
+  "ini_es": 2378.64,
+  "fim_es": 2385.88
+ },
+ "B216": {
+  "falante": "padre",
+  "ini_es": 2386.5,
+  "fim_es": 2392.46
+ },
+ "B217": {
+  "falante": "padre",
+  "ini_es": 2392.9,
+  "fim_es": 2397.16
+ },
+ "B218": {
+  "falante": "padre",
+  "ini_es": 2397.34,
+  "fim_es": 2404.78
+ },
+ "B219": {
+  "falante": "padre",
+  "ini_es": 2405.4,
+  "fim_es": 2410.4
+ },
+ "B220": {
+  "falante": "padre",
+  "ini_es": 2410.78,
+  "fim_es": 2419.38
+ },
+ "B221": {
+  "falante": "padre",
+  "ini_es": 2419.56,
+  "fim_es": 2427.14
+ },
+ "B222": {
+  "falante": "padre",
+  "ini_es": 2427.7,
+  "fim_es": 2435.4
+ },
+ "B223": {
+  "falante": "padre",
+  "ini_es": 2435.82,
+  "fim_es": 2450.78
+ },
+ "B224": {
+  "falante": "padre",
+  "ini_es": 2451.22,
+  "fim_es": 2458.26
+ },
+ "B225": {
+  "falante": "padre",
+  "ini_es": 2458.66,
+  "fim_es": 2471.38
+ },
+ "B226": {
+  "falante": "padre",
+  "ini_es": 2471.7,
+  "fim_es": 2482.4
+ },
+ "B227": {
+  "falante": "padre",
+  "ini_es": 2482.84,
+  "fim_es": 2491.6
+ },
+ "B228": {
+  "falante": "padre",
+  "ini_es": 2492.02,
+  "fim_es": 2502.64
+ },
+ "B229": {
+  "falante": "padre",
+  "ini_es": 2503.18,
+  "fim_es": 2508.36
+ },
+ "B230": {
+  "falante": "padre",
+  "ini_es": 2508.62,
+  "fim_es": 2518.72
+ },
+ "B231": {
+  "falante": "padre",
+  "ini_es": 2519.26,
+  "fim_es": 2525.24
+ },
+ "B232": {
+  "falante": "padre",
+  "ini_es": 2525.42,
+  "fim_es": 2533.04
+ },
+ "B233": {
+  "falante": "padre",
+  "ini_es": 2533.52,
+  "fim_es": 2543.08
+ },
+ "B234": {
+  "falante": "padre",
+  "ini_es": 2543.4,
+  "fim_es": 2551.64
+ },
+ "B235": {
+  "falante": "padre",
+  "ini_es": 2552.08,
+  "fim_es": 2558.86
+ },
+ "B236": {
+  "falante": "padre",
+  "ini_es": 2559.04,
+  "fim_es": 2563.18
+ },
+ "_correcoes_cenas": "cenas.json rotulava errado os depoimentos; tempos medidos por diferenca de quadros: padre visivel ate 580.3; b-roll crucifixo/estatua 580.3-585.2; dep1 585.2-618.2; dep2 618.2-659.1; dep3 659.1-706.0; padre volta em 706.0"
+}

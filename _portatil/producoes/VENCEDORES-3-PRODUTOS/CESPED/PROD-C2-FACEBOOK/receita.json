@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C2-FACEBOOK/CESPED-CL_C2_FACEBOOK.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C2-FACEBOOK/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C2-FACEBOOK/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C2-FACEBOOK/corpo.alinhamento.json", "chaves": ["famoso", "pasto", "cuñado", "hilo", "cinco", "esta", "uno", "ruedas", "mano", "metal", "inalámbrica", "baterías", "gratis", "recibir", "noventa", "garantía", "pídela"]},
+  "manchete": {"texto": "ME FUNARON EN EL GRUPO DEL BARRIO 😳", "y": 1560, "ate": 4.7},
+  "cta": {"inicio": 36.3, "y": 1300},
+  "resolucao": "720",
+  "limite_mb": 30
+}

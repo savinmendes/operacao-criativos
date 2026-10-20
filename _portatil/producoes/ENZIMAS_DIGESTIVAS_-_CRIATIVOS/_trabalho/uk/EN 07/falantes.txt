@@ -1,0 +1,49 @@
+[  0.00-  3.10] esq 0.0149 dir 0.0043 -> esq | I have a high quality digestive enzyme.
+[  3.44-  6.64] esq 0.0039 dir 0.0115 -> dir | And I think I have a high quality digestive enzyme.
+[  6.96-  8.88] esq 0.0157 dir 0.0049 -> esq | Mine was developed by doctors.
+[  9.22- 11.10] esq 0.0040 dir 0.0140 -> dir | Well, mine was developed by an influencer.
+[ 11.46- 14.50] esq 0.0219 dir 0.0007 -> esq | Mine has added prebiotics and probiotics
+[ 14.50- 16.24] esq 0.0145 dir 0.0061 -> esq | for your overall gut health.
+[ 16.58- 18.62] esq 0.0054 dir 0.0132 -> dir | Mine doesn't have any of that.
+[ 18.76- 19.74] esq 0.0050 dir 0.0112 -> dir | What are these supposed to do again?
+[ 20.12- 22.40] esq 0.0193 dir 0.0029 -> esq | So the food in America is super processed
+[ 22.40- 24.16] esq 0.0140 dir 0.0041 -> esq | and just like really hard to digest.
+[ 24.32- 26.58] esq 0.0218 dir 0.0046 -> esq | So these just help break down all of that food,
+[ 26.58- 28.48] esq 0.0162 dir 0.0051 -> esq | which is why you're looking like six months pregnant
+[ 28.48- 30.34] esq 0.0156 dir 0.0027 -> esq | after eating that totally used to be meat.
+[ 30.38- 32.42] esq 0.0230 dir 0.0046 -> esq | Do you remember I used to like blow so bad
+[ 32.42- 33.42] esq 0.0129 dir 0.0044 -> esq | after anything I ate?
+[ 33.76- 34.78] esq 0.0043 dir 0.0136 -> dir | Yes, yeah, you would get huge.
+[ 35.32- 38.04] esq 0.0188 dir 0.0037 -> esq | Yeah, so now I can eat literally whatever,
+[ 38.24- 39.62] esq 0.0186 dir 0.0032 -> esq | take a digestive enzyme with it
+[ 39.62- 41.02] esq 0.0194 dir 0.0029 -> esq | and I know it's gonna like break it down.
+[ 41.54- 43.04] esq 0.0037 dir 0.0158 -> dir | But wait, we don't just eat pudding.
+[ 43.56- 45.58] esq 0.0262 dir 0.0031 -> esq | Yeah, people have used my digestive enzyme
+[ 45.58- 47.60] esq 0.0237 dir 0.0029 -> esq | on pizza, pasta, burgers
+[ 47.60- 49.48] esq 0.0226 dir 0.0023 -> esq | and it's literally broken all the way down.
+[ 49.62- 51.42] esq 0.0067 dir 0.0120 -> dir | Oh wow, yeah, nobody's done that with mine.
+[ 51.84- 53.30] esq 0.0244 dir 0.0027 -> esq | Mine has completely broken down
+[ 53.30- 54.46] esq 0.0209 dir 0.0034 -> esq | this pudding already by the way.
+[ 54.66- 55.26] esq 0.0039 dir 0.0103 -> dir | Wait, what?
+[ 55.40- 56.16] esq 0.0057 dir 0.0157 -> dir | Yeah. Are you serious?
+[ 56.94- 58.24] esq 0.0189 dir 0.0139 -> esq | Oh my gosh.
+[ 58.24- 59.58] esq 0.0172 dir 0.0079 -> esq | Yours has done nothing.
+[ 59.86- 61.26] esq 0.0108 dir 0.0205 -> dir | Wait, but is that gonna give me diarrhea?
+[ 61.56- 62.86] esq nan dir 0.0047 -> dir | No, it doesn't give you diarrhea.
+[ 62.88- 64.62] esq 0.0223 dir nan -> dir | It just helps like digest your food.
+[ 64.62- 66.20] esq 0.0194 dir 0.0033 -> esq | So you're looking like snatched.
+[ 66.22- 66.76] esq 0.0246 dir 0.0051 -> esq | Do you know what I'm saying?
+[ 66.94- 68.86] esq 0.0117 dir 0.0133 -> dir | Okay, yeah, wait, what brand are you using?
+[ 68.94- 70.30] esq 0.0175 dir 0.0064 -> esq | This is the one my physician's choice.
+[ 70.38- 72.26] esq 0.0226 dir 0.0072 -> esq | This is the one literally all the girls are using
+[ 72.26- 75.24] esq 0.0301 dir 0.0069 -> esq | to eat whatever and stay like snatched flat
+[ 75.24- 76.08] esq 0.0279 dir 0.0040 -> esq | in their bikinis.
+[ 76.68- 77.64] esq 0.0197 dir 0.0005 -> esq | It clearly, it works.
+[ 77.64- 78.22] esq 0.0136 dir 0.0012 -> esq | Look at that.
+[ 78.34- 80.32] esq 0.0199 dir 0.0019 -> esq | That's what it's supposed to do.
+[ 81.02- 82.32] esq 0.0104 dir 0.0047 -> esq | Yours did literally nothing.
+[ 82.38- 83.04] esq 0.0120 dir 0.0037 -> esq | Yours doesn't work.
+[ 83.32- 85.06] esq 0.0238 dir 0.0043 -> esq | So if you guys are taking digestive enzymes,
+[ 85.06- 86.86] esq 0.0212 dir 0.0033 -> esq | make sure you get a good one,
+[ 86.96- 88.50] esq 0.0218 dir 0.0032 -> esq | high quality one that actually works.
+[ 88.62- 90.50] esq 0.0210 dir 0.0006 -> esq | I will link where I get these in this video.

@@ -1,0 +1,11 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 01 - WYZE-SOLAR-CAM-PAN-SIGUE-PERSONAS-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "corpo.mp4",
+ "legenda": {"fonte": "alinhamento:narr.alinhamento.json", "y": 954,
+             "chaves": ["cámara", "cables", "solar", "metros", "sol", "trescientos", "persona", "2K", "nocturna", "lluvia", "corriente", "sola", "toca"]},
+ "manchete": {"texto": "¿ESTA CÁMARA SIGUE A LAS PERSONAS? 👀", "y": 140, "ate": 3.0, "px": 66},
+ "cta": {"palavra": "toca"},
+ "limite_mb": 30,
+ "resolucao": "720"
+}

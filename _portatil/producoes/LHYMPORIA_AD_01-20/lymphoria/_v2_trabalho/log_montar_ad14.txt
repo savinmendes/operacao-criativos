@@ -1,0 +1,19 @@
+(reaproveitado) v2_b1.mp4
+(reaproveitado) v2_b2.mp4
+(reaproveitado) v2_b3.mp4
+(reaproveitado) v2_b4.mp4
+(reaproveitado) v2_b5.mp4
+>> -v error -y -i v2_b5.mp4
+>> -v error -y -i v2_parte1_so_video.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 7.5 min não cabe em 30 MB com qualidade; usando 900 kbps (~56 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 14 - LYMPHORIA-VIAJE-ES-LATAM v2.mp4
+duração : 449.40s | 720x1280 | áudio: sim | 54.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 14 - LYMPHORIA-VIAJE-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 445.41s
+montagem rápida: 97s para 449s de vídeo (0.22x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 14 - LYMPHORIA-VIAJE-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 13072, "psnr_min": 30.06, "psnr_medio": 37.92, "px40_max": 6641, "px40_medio": 189.0, "quadro_px40_max": 13074, "t_px40_max": 435.8}, "parte1_fora_dos_takes": {"quadros": 12355, "px40_max": 41, "t_px40_max": 244.27, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 396, "px40_medio": 823.7}}
+{"quadros": 407, "psnr_medio": 34.79, "px40_medio": 1102.1, "px40_max": 2805}

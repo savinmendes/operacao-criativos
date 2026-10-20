@@ -1,0 +1,25 @@
+{
+ "cod": "A6",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\A6 - DEVOLVER-LLEGO-AYER-ES-CL.mp4",
+ "gancho_s": 3.2,
+ "fala_s": 2.879,
+ "tomadas": [
+  [
+   1.0,
+   1.4
+  ],
+  [
+   11.9,
+   1.8
+  ]
+ ],
+ "corte_ad04": 9.0,
+ "total_s": 50.3,
+ "ganho_fala_db": 1.5,
+ "mb": 26.4,
+ "kbps": 4415,
+ "cenas": "câmera da porta: caixa chegando (1,0–2,4 s) → câmera da porta com o gramado já cortado (11,9 s em diante)",
+ "texto": [
+  "LLEGÓ AYER 📦"
+ ]
+}

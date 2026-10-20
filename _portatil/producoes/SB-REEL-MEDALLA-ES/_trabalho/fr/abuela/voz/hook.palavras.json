@@ -1,0 +1,128 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.058,
+  "fim": 0.197,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "prié",
+  "ini": 0.244,
+  "fim": 0.662,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "devant",
+  "ini": 0.743,
+  "fim": 1.196,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "une",
+  "ini": 1.242,
+  "fim": 1.521,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "table",
+  "ini": 1.544,
+  "fim": 1.927,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "dressée",
+  "ini": 1.997,
+  "fim": 2.554,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "pour",
+  "ini": 2.589,
+  "fim": 2.81,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "douze...",
+  "ini": 2.844,
+  "fim": 3.344,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "et",
+  "ini": 3.785,
+  "fim": 3.901,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "j'ai",
+  "ini": 3.982,
+  "fim": 4.098,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "mangé",
+  "ini": 4.156,
+  "fim": 4.493,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "seule.",
+  "ini": 4.586,
+  "fim": 5.004,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "Et",
+  "ini": 5.387,
+  "fim": 5.538,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "voilà",
+  "ini": 5.573,
+  "fim": 5.875,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "ce",
+  "ini": 5.933,
+  "fim": 6.026,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "qui",
+  "ini": 6.084,
+  "fim": 6.188,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "s'est",
+  "ini": 6.246,
+  "fim": 6.397,
+  "personagem": "abuela",
+  "parte": "hook"
+ },
+ {
+  "w": "passé.",
+  "ini": 6.42,
+  "fim": 6.966,
+  "personagem": "abuela",
+  "parte": "hook"
+ }
+]

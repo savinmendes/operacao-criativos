@@ -1,0 +1,11 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V26/V26_final.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V26/parte2.mp4",
+ "hook": {"tipo": "antes", "video": "C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V26/parte1.mp4"},
+ "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/ADLIB-VITALY-CL/_trabalho/prod/V26/audio/hfim.alinhamento.json", "chaves": ["lymphoria", "gratis", "recibir", "noventa"]},
+ "selo": {"linhas": ["ENVÍO GRATIS A DOMICILIO", "PAGO CONTRA", "ENTREGA", "¡PAGAS AL RECIBIR!"], "x": 160, "y": 1225, "desde": 31.0},
+ "cta": {"palavra": "toque"},
+ "limite_mb": 30,
+ "resolucao": "720"
+}

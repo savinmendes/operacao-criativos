@@ -1,0 +1,27 @@
+REVISÃO: DW7781_TR21_fundo-original.mp4
+duração 55.40s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 21.8 MB
+decodificação: OK
+pts do áudio: 2598 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_TR21_fundo-original_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.96 Si buscas versatilidad, potencia y libertad para perforar y atornillar sin cables, donde sea,
+   5.96- 11.72 el kit de taladro perpitor y atornillador de Walt de 20 volts es la elección perfecta.
+  11.72- 17.12 Como atornillador, regulas el torque con sus 15 posiciones para no dañar el material con el
+  17.12- 22.92 que trabajas y dejar cada uno de tus tornillos bien apretado y firme. Su mandril de ajuste
+  22.92- 28.40 rápido te deja cambiar brocas y puntas en un 2x3 y así ahorras harto tiempo en cada pega.
+  28.40- 35.52 Con su motor sin carbones, brushless y su batería de 20 volts max, este de Walt te da la fuerza que
+  35.52- 42.68 necesitas en la casa o en la obra para perforar distintos materiales, madera, metal y muro y con
+  42.68- 48.68 sus dos velocidades mecánicas ajustas la potencia según el trabajo que tengas en la mano. Aprovecha
+  48.68- 54.28 el free Black Friday, pídelo hoy con envío a todo Chile y pagas recién cuando te llegue a la casa.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

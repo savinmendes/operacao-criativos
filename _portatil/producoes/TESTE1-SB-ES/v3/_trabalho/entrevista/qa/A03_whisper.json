@@ -1,0 +1,116 @@
+{
+"id": "A03",
+"take": "take_A03_aurelio.mp4",
+"res": "720x900",
+"fps": 25.0,
+"quadros": 204,
+"dur_video": 8.16,
+"dur_audio": 8.188,
+"dur_audio_enviado": 8.188,
+"whisper": "¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?",
+"diferencas": [],
+"palavras_whisper": [
+{
+"w": "¿Podemos",
+"ini": 0.0,
+"fim": 0.6,
+"p": 0.83
+},
+{
+"w": "poner",
+"ini": 0.6,
+"fim": 1.04,
+"p": 0.99
+},
+{
+"w": "aquí",
+"ini": 1.04,
+"fim": 1.48,
+"p": 0.98
+},
+{
+"w": "la",
+"ini": 1.48,
+"fim": 1.74,
+"p": 0.96
+},
+{
+"w": "transmisión",
+"ini": 1.74,
+"fim": 2.62,
+"p": 0.99
+},
+{
+"w": "en",
+"ini": 2.62,
+"fim": 2.88,
+"p": 0.98
+},
+{
+"w": "vivo",
+"ini": 2.88,
+"fim": 3.2,
+"p": 1.0
+},
+{
+"w": "que",
+"ini": 3.2,
+"fim": 3.46,
+"p": 0.95
+},
+{
+"w": "se",
+"ini": 3.46,
+"fim": 3.64,
+"p": 1.0
+},
+{
+"w": "cayó,",
+"ini": 3.64,
+"fim": 4.22,
+"p": 0.98
+},
+{
+"w": "la",
+"ini": 4.46,
+"fim": 4.58,
+"p": 0.95
+},
+{
+"w": "que",
+"ini": 4.58,
+"fim": 4.8,
+"p": 1.0
+},
+{
+"w": "enseña",
+"ini": 4.8,
+"fim": 5.58,
+"p": 0.97
+},
+{
+"w": "esta",
+"ini": 5.58,
+"fim": 5.98,
+"p": 0.98
+},
+{
+"w": "oración",
+"ini": 5.98,
+"fim": 6.6,
+"p": 0.99
+},
+{
+"w": "tan",
+"ini": 6.6,
+"fim": 7.02,
+"p": 0.99
+},
+{
+"w": "poderosa?",
+"ini": 7.02,
+"fim": 7.78,
+"p": 1.0
+}
+]
+}

@@ -1,0 +1,47 @@
+SB-PL-ADS-12.18 — Święty Benedykt · Polski (Polska)
+Base: SB-EN-ADS-12.18 / SB-IT-ADS-12.18 (base limpa sem legenda, entradas HeyGen com o áudio ORIGINAL ES, música demucs do ES).
+Destino: modlitwa na żywo. Botão do Meta: LEARN_MORE ("Dowiedz się więcej"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN/IT, eleven_multilingual_v2 (whisper detectou "pl" 1,00 em todas as frases).
+Duração: 33,1 s (EN 31,5 / IT 32,6): cena 1 alongada para 5,6 s (0,905x) e cena 7 (CTA) com 6,5 s.
+
+======================================================================
+ROTEIRO EN × PL (por cena)
+======================================================================
+[0,0–5,6  Jesus na geladeira, falando — lipsync]
+EN: If you ignore me, I'll have no choice but to give the miracle you need so badly to someone else.
+PL: Jeśli mnie zignorujesz, nie będę miał wyboru: cud, którego tak bardzo potrzebujesz, oddam komuś innemu.
+
+[5,6–10,5  Jesus com auréola, falando — lipsync]
+EN: This is your last chance to receive what I have prepared for you.
+PL: To twoja ostatnia szansa, by otrzymać to, co dla ciebie przygotowałem.
+
+[10,5–15,1  abraço]
+EN: Jesus has chosen you. He has brought you a powerful gift.
+PL: Jezus cię wybrał. Przyniósł ci potężny dar.
+
+[15,1–23,5  Jesus rezando / lendo nas nuvens]
+EN: Today, you will hear an ancient, lost prayer from the Bible that will unlock a shower of blessings and miracles over your life.
+PL: Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii, która ześle na twoje życie deszcz błogosławieństw i cudów.
+
+[23,5–26,6  Jesus com a cruz]
+EN: Don't reject me again.
+PL: Nie odrzucaj mnie znowu.
+
+[26,6–33,1  CTA, Jesus com auréola falando — lipsync, seta vermelha]
+EN: Tap Learn More below, join the live prayer now, and receive your miracle before it's too late.
+PL: Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo. Otrzymaj swój cud, zanim będzie za późno.
+
+Decisões
+- CTA padrão do lote ("Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo") + urgência do original ("zanim będzie za późno").
+- "Today, you will hear" → "Dziś usłyszysz" (destino é a live, mesma decisão do EN/IT).
+- "a shower of blessings" → "deszcz błogosławieństw" (natural no polonês católico; é o "lluvia" do ES).
+- "receive your miracle" → "Otrzymaj swój cud" (frase separada para ter uma pausa real no CTA).
+- Mesmo teor do ES/EN, sem suavizar (ostatnia szansa, oddam komuś innemu, za późno).
+- O santo não é nomeado na fala (como no ES/EN/IT); "Święty Benedykt" aparece só no texto do anúncio.
+- Pausas: 0,32 s após "zignorujesz," e 0,25 s após "żywo." (boca fecha → índice de pausa do lipsync).
+- Sorriso do CTA: o vídeo original sorri com dentes em 1,05–1,5 / 2,4–2,8 / 3,6–4,4 s da cena 7 (no IT o HeyGen manteve
+  o sorriso em ~29,7 s). No PL a entrada do HeyGen da cena 7 usa só os trechos neutros (0–1,0 / 1,55–2,3 / 2,9–3,5 / 4,5–5,4 s),
+  com 3 jump cuts nas fronteiras de palavra (entre "więcej»" e "poniżej", na pausa depois de "żywo." e entre "cud," e "zanim")
+  e vai-e-volta curto (≤0,85 s) dentro de cada trecho para completar 6,5 s (script _trabalho/heygen_in_pl.py).
+- Legenda PL palavra a palavra no estilo do EN/IT (Poppins Bold: todos os diacríticos ĄĆĘŁŃÓŚŹŻ conferidos na fonte),
+  palavra-chave em vermelho/amarelo/verde; seta vermelha animada no CTA como no ES/EN/IT.

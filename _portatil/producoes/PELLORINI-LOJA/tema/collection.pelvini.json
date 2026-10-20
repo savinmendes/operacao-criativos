@@ -1,0 +1,130 @@
+{
+  "sections": {
+    "announce": {
+      "type": "pv-announce",
+      "settings": {
+        "bold": "Buy 1 Get 1 Free",
+        "text": "- While Stock Lasts",
+        "brand": "PELLORINI",
+        "minutes": 45
+      }
+    },
+    "banner": {
+      "type": "pv-banner",
+      "settings": {
+        "image_1": "shopify://shop_images/pv-banner-1.jpg",
+        "image_2": "shopify://shop_images/pv-banner-2.jpg",
+        "h_desk": 370,
+        "h_mob": 250,
+        "pos": 35
+      }
+    },
+    "usp": {
+      "type": "pv-usp",
+      "blocks": {
+        "u1": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pv-icon-gift.png",
+            "title": "Buy 1 Get 1 Free"
+          }
+        },
+        "u2": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pv-icon-shield.png",
+            "title": "24-Month Warranty"
+          }
+        },
+        "u3": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pv-icon-return.png",
+            "title": "90-Day Money Back"
+          }
+        },
+        "u4": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pv-icon-star.png",
+            "title": "Free Worldwide Shipping"
+          }
+        }
+      },
+      "block_order": [
+        "u1",
+        "u2",
+        "u3",
+        "u4"
+      ],
+      "settings": {}
+    },
+    "grid": {
+      "type": "pv-coll-grid",
+      "blocks": {
+        "promo": {
+          "type": "promo",
+          "settings": {
+            "image": "shopify://shop_images/pv-promo-tile.jpg",
+            "heading": "Buy 1 Get 1 Free",
+            "sub": "While Stock Lasts",
+            "position": 3
+          }
+        }
+      },
+      "block_order": [
+        "promo"
+      ],
+      "settings": {
+        "title": "Best Sellers",
+        "btn": "Choose options",
+        "rating_line": ""
+      }
+    },
+    "cart": {
+      "type": "pv-cart-drawer",
+      "settings": {
+        "upsells": [
+          "pelvini-parchment-gift-bag",
+          "premium-pelvini-box"
+        ],
+        "trust": "Secure checkout · 90-Day Money Back · 24-Month Warranty"
+      }
+    },
+    "wheel": {
+      "type": "pv-wheel",
+      "settings": {
+        "segments": "5% OFF,10% OFF,TRY AGAIN,15% OFF,20% OFF,NEXT TIME",
+        "win_index": 2,
+        "won_title": "You won an extra [prize]!",
+        "won_text": "Your code has been applied to your cart and will show at checkout."
+      }
+    },
+    "footer": {
+      "type": "pv-footer",
+      "settings": {
+        "brand": "Pellorini",
+        "text1": "Each Pellorini timepiece is accompanied by a 2-year international warranty."
+      }
+    },
+    "pell_fix": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>.pv-stars{display:none!important}.pv-qa__rate{display:none!important}</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announce",
+    "banner",
+    "usp",
+    "grid",
+    "footer",
+    "cart",
+    "wheel",
+    "pell_fix"
+  ]
+}

@@ -1,0 +1,7 @@
+hook 4c308e70a5054e7c8906ea378d715111
+jb 797aa6b286eb4565a4e351231da4d8c5
+cta 211fdfd22df640f8981fe5b8e7f472c1
+(enviados 16/10 ~16:02, mode speed, entrada = *_src.mp4 com audio ES original)
+cta_v2 c8e0711db8b540d4b0f9655364e28577 (CTA com pausa de ~0,45 s entre as frases; v1 211fdfd2 reprovado no checar_lipsync: fala corrida sem pausa, corr 0,14)
+cta_v2_reenvio 6881b183a6054481ac2ac1ef195aa2d5 (c8e0711d parado >45 min em running)
+(obs.: o reenvio foi precoce — o c8e0711d tinha só ~1-2 min; erro de espera do agente. Usar o que terminar primeiro.)

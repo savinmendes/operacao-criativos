@@ -1,0 +1,11 @@
+﻿>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\montar_fim_universal.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad07 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad07\parte1.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad07\parte2.mp4 19.36s
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 07 - LYMPHORIA-RINON-ES-LATAM.mp4
+duração : 143.90s | 720x1280 | áudio: sim | 25.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 07 - LYMPHORIA-RINON-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 141.02s
+montagem rápida: 50s para 144s de vídeo (0.35x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 07 - LYMPHORIA-RINON-ES-LATAM.mp4

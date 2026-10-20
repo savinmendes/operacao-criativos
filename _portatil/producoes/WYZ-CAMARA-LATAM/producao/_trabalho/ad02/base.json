@@ -1,0 +1,56 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/originais/02.mp4",
+ "fundo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad02/sep/htdemucs/orig_02/no_vocals.wav",
+ "fundo_vol": 0.5,
+ "narr": "narr.mp3",
+ "offsets": [
+  0.1,
+  2.3,
+  6.2,
+  8.9,
+  11.7,
+  14.1,
+  17.0,
+  18.65
+ ],
+ "cauda": 0.4,
+ "faixa": [
+  925,
+  1062
+ ],
+ "titulo": {
+  "linhas": [
+   "Wyze Solar Cam Pan",
+   "Guía de instalación"
+  ],
+  "px": 42,
+  "cy": 262,
+  "cobrir_w": 690,
+  "cobrir_h": 228,
+  "ate": 2.02
+ },
+ "desfocar": [
+  {
+   "de": 17.35,
+   "ate": 18.65,
+   "caixa": [
+    140,
+    110,
+    410,
+    440
+   ],
+   "_o": "pessoa na gravação do app"
+  },
+  {
+   "de": 17.35,
+   "ate": 18.65,
+   "caixa": [
+    530,
+    446,
+    716,
+    482
+   ],
+   "_o": "data/hora da gravação"
+  }
+ ]
+}

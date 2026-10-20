@@ -1,0 +1,14 @@
+{
+ "id": "L197",
+ "quadros_heygen": 153,
+ "quadros": 153,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "indice_pausa": 0.44,
+ "checar": "APROVADO",
+ "saida_checar": "LIPSYNC: L197.mp4 (153 quadros, rosto em 100%, rosto 344,114,84,97 [único rosto])\n  boca x original: dif. boca 5.84 | dif. controle 0.34 | mudou em 100% dos quadros | corr. abertura saída x original 0.27\n  pausas da voz nova: índice de pausa 0.44 (20 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.56 (atraso -33 ms) | corr. original -\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.44)"
+}

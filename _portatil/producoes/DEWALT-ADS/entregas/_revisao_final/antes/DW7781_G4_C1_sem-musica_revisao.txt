@@ -1,0 +1,29 @@
+REVISÃO: DW7781_G4_C1_sem-musica.mp4
+duração 48.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.7 MB
+decodificação: OK
+pts do áudio: 2261 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.30-5.07, 15.85-17.10, 20.23-21.13, 25.55-26.40, 31.74-32.49, 38.05-38.92, 47.00-48.20
+cortes de cena: 23 | pares a <0,3 s: 0.80/0.83, 1.23/1.40, 1.40/1.57
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G4_C1_sem-musica_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.78 Llegó el pre Black Friday maestro, mira todo lo que trae este kit de Walt, viene en su
+   5.78- 12.48 maleta dura para llevarlo a cualquier pega, adentro el taladro percutor y atornillador,
+  12.48- 19.20 dos baterías de 20 volts de 2 amperes hora y su cargador, mandril de 13 milímetros
+  19.20- 27.08 de ajuste rápido, con el anillo eliges el modo taladro para madera y metal, percutor
+  27.08- 34.00 para muro y concreto y atornillador con 15 posiciones de torque, dos velocidades hasta
+  34.00- 42.12 1750 revoluciones por minuto y luz led para ver bien donde trabajas, todo esto en un solo
+  42.12- 46.96 kit pre black friday pídelo hoy y pagas recién cuando te llegue envío a todos chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 1.20s no fim (a partir de 47.00s)
+PROBLEMA: quadro solto? cortes em 0.80s e 0.83s (33 ms)
+PROBLEMA: quadro solto? cortes em 1.23s e 1.40s (167 ms)
+PROBLEMA: quadro solto? cortes em 1.40s e 1.57s (167 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+4 problema(s)

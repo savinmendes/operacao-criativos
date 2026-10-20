@@ -1,0 +1,233 @@
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+Pendentes: 50 · motor: hibrido · janela: 30s
+
+[1/50] https://www.youtube.com/watch?v=nrHeOhCazqU
+   FAÇA SEUS CRIATIVOS ASSIM: Para Escalar R$ 100 Mil Por Dia · Bia Feldman · 16:02
+   legenda encontrada: auto-legenda em pt-orig · 470 segmentos
+   salvo: FAÇA SEUS CRIATIVOS ASSIM Para Escalar R$ 100 Mil Por Dia__nrHeOhCazqU.md
+
+[2/50] https://www.youtube.com/watch?v=UteIP-F0FFs
+   O Casal Que Faz 1MM/Dia Vendendo Na Gringa | Reinaldo e Br · VTurb · 3:11:47
+   legenda encontrada: auto-legenda em pt-orig · 6518 segmentos
+   salvo: O Casal Que Faz 1MMDia Vendendo Na Gringa Reinaldo e Bruna - Segredos da Escala #177__UteIP-F0FFs.md
+
+[3/50] https://www.youtube.com/watch?v=ljJVJDw_2s4
+   Ele Criou A VSL Que Fez 40 Milhões Em 8 Meses (Infoproduto · VTurb · 3:56:32
+   legenda encontrada: auto-legenda em pt-orig · 7667 segmentos
+   salvo: Ele Criou A VSL Que Fez 40 Milhões Em 8 Meses (Infoproduto) João Tafuri - Segredos da Escala #175__ljJVJDw_2s4.md
+
+[4/50] https://www.youtube.com/watch?v=Pet_ODNts04
+   O Funil Inevitável Que Fez 40MM Em 8 Meses Com 1 Expert |  · VTurb · 3:55:38
+   legenda encontrada: auto-legenda em pt-orig · 6556 segmentos
+   salvo: O Funil Inevitável Que Fez 40MM Em 8 Meses Com 1 Expert Gustavo Lopes - Segredos da Escala #174__Pet_ODNts04.md
+
+[5/50] https://www.youtube.com/watch?v=cJ5sCRAxnMM
+   Lucrando 1MM/Mês Com VSL E Conteúdo Orgânico | Braz Cardos · VTurb · 3:27:30
+   legenda encontrada: auto-legenda em pt-orig · 6690 segmentos
+   salvo: Lucrando 1MMMês Com VSL E Conteúdo Orgânico Braz Cardoso - Segredos da Escala #173__cJ5sCRAxnMM.md
+
+[6/50] https://www.youtube.com/watch?v=9EYH87yOzoo
+   Criando Super Experts Que Escalam 9 Dígitos | Ruy Guimarãe · VTurb · 3:19:02
+   legenda encontrada: auto-legenda em pt-orig · 6357 segmentos
+   salvo: Criando Super Experts Que Escalam 9 Dígitos Ruy Guimarães - Segredos da Escala #172__9EYH87yOzoo.md
+
+[7/50] https://www.youtube.com/watch?v=iHl26ShFJJ4
+   Criando Criativos Para Infoprodutos Que Vendem 7D/Mês | Ma · VTurb · 4:31:53
+   legenda encontrada: auto-legenda em pt-orig · 8645 segmentos
+   salvo: Criando Criativos Para Infoprodutos Que Vendem 7DMês Matheus Lourenço - Segredos da Escala #171__iHl26ShFJJ4.md
+
+[8/50] https://www.youtube.com/watch?v=3h6YsOiXvIk
+   O Afiliado Que Escalou 400K/Dia Sem Equipe | Anthony Carre · VTurb · 2:26:31
+   legenda encontrada: auto-legenda em pt-orig · 4304 segmentos
+   salvo: O Afiliado Que Escalou 400KDia Sem Equipe Anthony Carreiro - Segredos da Escala #170__3h6YsOiXvIk.md
+
+[9/50] https://www.youtube.com/watch?v=aU2eO6K81Nc
+   Perpétuo Para Público Frio: Criando VSLs Que Vendem Até 10 · VTurb · 4:14:18
+   legenda encontrada: auto-legenda em pt-orig · 7305 segmentos
+   salvo: Perpétuo Para Público Frio Criando VSLs Que Vendem Até 100KDia Johab Alves - SDE #169__aU2eO6K81Nc.md
+
+[10/50] https://www.youtube.com/watch?v=MzS_WAqioCo
+   Ele Escalou R$4,7 Milhões Em Um Dia No Meta Ads | Luan Che · VTurb · 3:25:49
+   legenda encontrada: auto-legenda em pt-orig · 6056 segmentos
+   salvo: Ele Escalou R$4,7 Milhões Em Um Dia No Meta Ads Luan Chendes - Segredos da Escala #168__MzS_WAqioCo.md
+
+[11/50] https://www.youtube.com/watch?v=tQJjvRaQGfM
+   Lucrando 7D/Mês Com VSL Para Infoprodutos | Alef Marqs - S · VTurb · 3:20:19
+   legenda encontrada: auto-legenda em pt-orig · 6955 segmentos
+   salvo: Lucrando 7DMês Com VSL Para Infoprodutos Alef Marqs - Segredos da Escala #167__tQJjvRaQGfM.md
+
+[12/50] https://www.youtube.com/watch?v=KbhppPLSF-Q
+   Os Segredos Dos Criativos White Que Mais Vendem | Guilherm · VTurb · 2:53:15
+   legenda encontrada: auto-legenda em pt-orig · 5337 segmentos
+   salvo: Os Segredos Dos Criativos White Que Mais Vendem Guilherme Serraglio - Segredos da Escala #166__KbhppPLSF-Q.md
+
+[13/50] https://www.youtube.com/watch?v=6I1kik8UuXc
+   O Novo Funil De VSL Que Está Escalando Experts Nos EUA | N · VTurb · 2:28:40
+   legenda encontrada: auto-legenda em pt-orig · 4540 segmentos
+   salvo: O Novo Funil De VSL Que Está Escalando Experts Nos EUA Nicholas Fonseca - Segredos da Escala #165__6I1kik8UuXc.md
+
+[14/50] https://www.youtube.com/watch?v=7yAKrbaDzSA
+   O Ecossistema De Funis Que Gera Múltiplos 7D/Mês | Vicente · VTurb · 2:50:57
+   legenda encontrada: auto-legenda em pt-orig · 4917 segmentos
+   salvo: O Ecossistema De Funis Que Gera Múltiplos 7DMês Vicente Lima - Segredos da Escala #164__7yAKrbaDzSA.md
+
+[15/50] https://www.youtube.com/watch?v=brNqzMszM0Q
+   De Copywriter Júnior A Head De Ads Em Apenas 6 Meses | Pao · VTurb · 3:14:08
+   legenda encontrada: auto-legenda em pt-orig · 5969 segmentos
+   salvo: De Copywriter Júnior A Head De Ads Em Apenas 6 Meses Paola Barbosa - Segredos da Escala #163__brNqzMszM0Q.md
+
+[16/50] https://www.youtube.com/watch?v=AcmEFj-fPm8
+   Ele Já Fez +100 Milhões Com Nutra Global | Antonio Carneir · VTurb · 3:04:43
+   legenda encontrada: auto-legenda em pt-orig · 5932 segmentos
+   salvo: Ele Já Fez +100 Milhões Com Nutra Global Antonio Carneiro - Segredos da Escala #162__AcmEFj-fPm8.md
+
+[17/50] https://www.youtube.com/watch?v=yhjZTeFNMHk
+   Perpétuo Para Público Frio: Conheça O “Funil De VSL” | Tia · VTurb · 2:55:03
+   legenda encontrada: auto-legenda em pt-orig · 5289 segmentos
+   salvo: Perpétuo Para Público Frio Conheça O “Funil De VSL” Tiago Filemon - Segredos da Escala #161__yhjZTeFNMHk.md
+
+[18/50] https://www.youtube.com/watch?v=32dBB_6fjpo
+   Ela Largou A Faculdade E Fez 9MM Vendendo Infoprodutos | E · VTurb · 2:46:09
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4314 segmentos
+   salvo: Ela Largou A Faculdade E Fez 9MM Vendendo Infoprodutos Eduarda Bach - Segredos da Escala #160__32dBB_6fjpo.md
+
+[19/50] https://www.youtube.com/watch?v=mCaFyZpXJdE
+   Low Ticket: Absolutamente Tudo Para Escalar 100K/Dia! | Da · VTurb · 5:09:30
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 8750 segmentos
+   salvo: Low Ticket Absolutamente Tudo Para Escalar 100KDia! Davi, Kauê e Slender - SDE #159__mCaFyZpXJdE.md
+
+[20/50] https://www.youtube.com/watch?v=0DlzYLUmKcU
+   Os Bastidores Das Operações Que Fazem Múltiplos 9D/Mês | O · VTurb · 3:32:39
+   sem legenda — transcrevendo o áudio...
+   whisper falhou: ERROR: unable to download video data: HTTP Error 403: Forbidden
+[21/50] https://www.youtube.com/watch?v=qohJceyapS0
+   Escalando Experts Para 7D/Mês Com VSLs White | Matheus Lou · VTurb · 4:02:59
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6607 segmentos
+   salvo: Escalando Experts Para 7DMês Com VSLs White Matheus Lourenço - Segredos da Escala #157__qohJceyapS0.md
+
+[22/50] https://www.youtube.com/watch?v=9jZvoPzaXR4
+   Ele Largou Tudo Para Viver De IA E Fez 21MM Em 7 Meses | R · VTurb · 2:59:43
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5182 segmentos
+   salvo: Ele Largou Tudo Para Viver De IA E Fez 21MM Em 7 Meses Rafael Milagre - Segredos da Escala #156__9jZvoPzaXR4.md
+
+[23/50] https://www.youtube.com/watch?v=wJincuVXxxc
+   Escalando 8D/Mês Com Nutra Nos EUA (Tráfego Interno) | Hug · VTurb · 3:39:37
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6152 segmentos
+   salvo: Escalando 8DMês Com Nutra Nos EUA (Tráfego Interno) Hugo e Derlan - Segredos da Escala #155__wJincuVXxxc.md
+
+[24/50] https://www.youtube.com/watch?v=FV-KR1eEbCw
+   De CTO Da Empiricus A Fundador Do Maior Swipe File Do Bras · VTurb · 2:34:12
+   sem legenda — transcrevendo o áudio...
+   whisper falhou: ERROR: unable to download video data: HTTP Error 403: Forbidden
+[25/50] https://www.youtube.com/watch?v=sVUrU9gvxyk
+   Ele Fez 350MM Em 12 Meses Com Nutra Nos EUA | Rubens Arauj · VTurb · 2:43:42
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4757 segmentos
+   salvo: Ele Fez 350MM Em 12 Meses Com Nutra Nos EUA Rubens Araujo - Segredos da Escala #153__sVUrU9gvxyk.md
+
+[26/50] https://www.youtube.com/watch?v=zoChfFHnlOQ
+ERROR: [youtube] o1oFtiENuTo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] ngHQnIq3Y2s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] ccdmYIGYob0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] 7sa0JIa4RaQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] L7u7r6rOl68: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] GSSh_3RoU98: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] _hXmiIEac6w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] t8_vzmE4dtQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] aFabW0i9K20: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] NlZ4rbm2Jvs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] b1R3cnLXdks: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] cL3FuW8bAMA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] 9Iahajs5RDU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+   Escalando Experts Desconhecidos Para 7D/Mês (Tráfego 100%  · VTurb · 4:18:41
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 7174 segmentos
+   salvo: Escalando Experts Desconhecidos Para 7DMês (Tráfego 100% Frio) Boaz e Kauê - SDE #152__zoChfFHnlOQ.md
+
+[27/50] https://www.youtube.com/watch?v=cPeX-mZS9dM
+   De 50K Em Dívidas A +250MM Como Copywriter (Em 6 Meses!) | · VTurb · 3:31:02
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5670 segmentos
+   salvo: De 50K Em Dívidas A +250MM Como Copywriter (Em 6 Meses!) Bruno Bismaq - Segredos da Escala #151__cPeX-mZS9dM.md
+
+[28/50] https://www.youtube.com/watch?v=TJWm18zeRy8
+   De Funcionário Do McDonald's A Líder De Copy De Uma Operaç · VTurb · 3:01:26
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5382 segmentos
+   salvo: De Funcionário Do McDonald's A Líder De Copy De Uma Operação De +100MMMês SDE - Covolam #150__TJWm18zeRy8.md
+
+[29/50] https://www.youtube.com/watch?v=Qr6qS8sPpEo
+   Como Eles Escalam Milhões Nos EUA Com Só 1 Gestor? | Welli · VTurb · 2:57:25
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5190 segmentos
+   salvo: Como Eles Escalam Milhões Nos EUA Com Só 1 Gestor Wellington e Lucas - Segredos da Escala #149__Qr6qS8sPpEo.md
+
+[30/50] https://www.youtube.com/watch?v=ey9AosWQcOI
+   Ele Já Faturou +200MM Com Suas Copys (Aos 20 Anos!) | Paul · VTurb · 3:27:55
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6011 segmentos
+   salvo: Ele Já Faturou +200MM Com Suas Copys (Aos 20 Anos!) Paulo Sanches - Segredos da Escala #148__ey9AosWQcOI.md
+
+[31/50] https://www.youtube.com/watch?v=YfI0CjI_XaE
+   Escalando Operações Americanas Para +$100MM/Ano | Gabriel  · VTurb · 3:03:27
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5191 segmentos
+   salvo: Escalando Operações Americanas Para +$100MMAno Gabriel Medeiros - Segredos da Escala #147__YfI0CjI_XaE.md
+
+[32/50] https://www.youtube.com/watch?v=v6luZ9KvmOI
+   Ela Saiu da Periferia E Lucra 7D/Mês Com O Funil De Lucro  · VTurb · 3:20:15
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5744 segmentos
+   salvo: Ela Saiu da Periferia E Lucra 7DMês Com O Funil De Lucro Infinito Elida Dias - SDE #146__v6luZ9KvmOI.md
+
+[33/50] https://www.youtube.com/watch?v=o1oFtiENuTo
+   erro ao ler o vídeo: ERROR: [youtube] o1oFtiENuTo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[34/50] https://www.youtube.com/watch?v=ngHQnIq3Y2s
+   erro ao ler o vídeo: ERROR: [youtube] ngHQnIq3Y2s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[35/50] https://www.youtube.com/watch?v=ccdmYIGYob0
+   erro ao ler o vídeo: ERROR: [youtube] ccdmYIGYob0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[36/50] https://www.youtube.com/watch?v=7sa0JIa4RaQ
+   erro ao ler o vídeo: ERROR: [youtube] 7sa0JIa4RaQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[37/50] https://www.youtube.com/watch?v=L7u7r6rOl68
+   erro ao ler o vídeo: ERROR: [youtube] L7u7r6rOl68: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[38/50] https://www.youtube.com/watch?v=GSSh_3RoU98
+   erro ao ler o vídeo: ERROR: [youtube] GSSh_3RoU98: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[39/50] https://www.youtube.com/watch?v=_hXmiIEac6w
+   erro ao ler o vídeo: ERROR: [youtube] _hXmiIEac6w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[40/50] https://www.youtube.com/watch?v=t8_vzmE4dtQ
+   erro ao ler o vídeo: ERROR: [youtube] t8_vzmE4dtQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[41/50] https://www.youtube.com/watch?v=aFabW0i9K20
+   erro ao ler o vídeo: ERROR: [youtube] aFabW0i9K20: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[42/50] https://www.youtube.com/watch?v=NlZ4rbm2Jvs
+   erro ao ler o vídeo: ERROR: [youtube] NlZ4rbm2Jvs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[43/50] https://www.youtube.com/watch?v=b1R3cnLXdks
+   erro ao ler o vídeo: ERROR: [youtube] b1R3cnLXdks: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[44/50] https://www.youtube.com/watch?v=cL3FuW8bAMA
+   erro ao ler o vídeo: ERROR: [youtube] cL3FuW8bAMA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[45/50] https://www.youtube.com/watch?v=9Iahajs5RDU
+   erro ao ler o vídeo: ERROR: [youtube] 9Iahajs5RDU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookiesERROR: [youtube] EG-YXLmJqAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] FF57kVKru3Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] Z9GyOMD1MiE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] rx1uxvGrakk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] M9GCw_ojfwk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+[46/50] https://www.youtube.com/watch?v=EG-YXLmJqAs
+   erro ao ler o vídeo: ERROR: [youtube] EG-YXLmJqAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[47/50] https://www.youtube.com/watch?v=FF57kVKru3Y
+   erro ao ler o vídeo: ERROR: [youtube] FF57kVKru3Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[48/50] https://www.youtube.com/watch?v=Z9GyOMD1MiE
+   erro ao ler o vídeo: ERROR: [youtube] Z9GyOMD1MiE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[49/50] https://www.youtube.com/watch?v=rx1uxvGrakk
+   erro ao ler o vídeo: ERROR: [youtube] rx1uxvGrakk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[50/50] https://www.youtube.com/watch?v=M9GCw_ojfwk
+   erro ao ler o vídeo: ERROR: [youtube] M9GCw_ojfwk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+============================================================
+Transcritos: 30 · sem legenda: 0 · erros: 20
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 22 · feito: 87 · sem-legenda: 14

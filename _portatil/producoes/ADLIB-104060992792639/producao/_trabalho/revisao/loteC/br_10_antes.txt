@@ -1,0 +1,15 @@
+AD 10: dY = final - original (luma 0-255); 'boca-face' = degrau da elipse colada contra o rosto
+h0        boca  +1.9  face +24.4  fundo -33.0  | boca-face -29.4  (n=94)
+A         boca -13.2  face -10.0  fundo  -4.6  | boca-face  -2.6  (n=76)
+B         boca -15.1  face -11.3  fundo  -4.4  | boca-face  -4.3  (n=90)
+C         boca -14.9  face -10.6  fundo  -4.8  | boca-face  -4.6  (n=97)
+D         boca -15.3  face -10.0  fundo  -4.4  | boca-face  -5.9  (n=96)
+E         boca -13.9  face -10.7  fundo  -4.6  | boca-face  -3.0  (n=91)
+F         boca -16.4  face -10.6  fundo  -4.1  | boca-face  -5.6  (n=100)
+G         boca -11.2  face -11.0  fundo  -4.4  | boca-face  -0.0  (n=22)
+H         boca -13.4  face -11.0  fundo  -5.1  | boca-face  -3.1  (n=23)
+I         boca -13.3  face -10.4  fundo  -4.5  | boca-face  -3.0  (n=64)
+J         boca -13.1  face -10.0  fundo  -4.7  | boca-face  -2.8  (n=28)
+K         boca -16.0  face -10.1  fundo  -4.2  | boca-face  -6.3  (n=90)
+L         boca -14.9  face -10.1  fundo  -3.7  | boca-face  -4.8  (n=39)
+TODOS     boca -14.4  face -10.3  fundo  -4.6  | boca-face  -5.1

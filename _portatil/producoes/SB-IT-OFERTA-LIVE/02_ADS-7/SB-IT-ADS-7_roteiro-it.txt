@@ -1,0 +1,44 @@
+SB-IT-ADS-7 — Angelo custode / benedizione finanziaria · Italiano (Italia, EUR)
+Base: SB-EN-ADS-7 (EN, 22,4 s), que veio do "ads 7.mp4" (ES, vencedor) via versão FR 720p (anjo em close, legenda FR
+removida com LaMa). Mesma base limpa do EN, lipsync HeyGen speed para o IT (3 trechos: 0–4,80 / 4,80–13,75 / 13,75–24,60 s,
+entrada com o áudio FR original, áudio IT separado).
+Destino: a preghiera in diretta. Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço.
+Voz: ElevenLabs "Brian" (nPczCjzI2devNBz1zQrb), a mesma do EN, eleven_multilingual_v2, velocidade 1,12.
+Whisper (small) detectou italiano com 0,987 de confiança. Nenhuma voz criada/clonada/apagada.
+
+======================================================================
+ROTEIRO EN (base)
+======================================================================
+Your guardian angel has chosen you... and he has brought a gift, just for you.
+In this live stream, you will hear a seven-minute prayer, based on the Bible,
+that can bring a great financial blessing into your life.
+[CTA 1] Tap the button below to hear it.
+Don't ignore the financial blessing that is meant for you.
+[CTA 2] Tap Learn More below, and join the live prayer now.
+
+======================================================================
+ROTEIRO IT (narrado, 24,0 s de fala, vídeo 24,6 s)
+======================================================================
+Il tuo angelo custode ti ha scelto... e ti ha portato un dono, proprio per te.
+In questa diretta, ascolterai una preghiera di sette minuti, basata sulla Bibbia,
+che può portare una grande benedizione finanziaria nella tua vita.
+[CTA 1] Tocca il pulsante qui sotto per ascoltarla.
+Non ignorare la benedizione finanziaria che è destinata a te.
+[CTA 2] Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta.
+
+Decisões de tradução
+- "In this live stream" virou "In questa diretta" (natural em italiano; "live stream" soaria anglicismo).
+- "a gift, just for you" virou "un dono, proprio per te" ("dono" é o termo espiritual; "regalo" soaria comercial).
+- "that can bring" virou "che può portare" (mesmo teor da promessa, sem suavizar nem intensificar).
+- CTA final = o padrão do lote IT: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta".
+- Na fala, velocidade 1,12 para ficar perto da duração do EN (a 1,0 a fala dava 26 s; o italiano é mais longo).
+
+Legenda (quebra de linha nunca deixa palavra de 1–2 letras sozinha na 2ª linha): mesmo estilo do EN/ES (Arial Black caixa alta, 2 linhas, palavra falada em verde com brilho, palavras-chave em
+vermelho: DONO, DIRETTA, PREGHIERA, BENEDIZIONE, FINANZIARIA, IGNORARE, SOTTO, SCOPRI). Setas amarelas nos dois CTAs
+(14,0–16,5 s e 20,0 s até o fim). Música: trilha do FR sem a voz (demucs), sob a fala.
+
+Compliance (decisão da pessoa, mantido como no ES/EN): "una grande benedizione finanziaria nella tua vita" e
+"la benedizione finanziaria che è destinata a te" são promessa financeira na fala, igual ao original aprovado.
+
+Lipsync HeyGen speed: 3 jobs (a 9af93cb7…, b 97037338…, c 0d1aa998…), checar_lipsync índice de pausa 0,28 / 0,44 / 0,17 (aprovado).
+Imperfeição menor: 4,80–5,05 s a boca começa a abrir ~0,25 s antes da fala (início do 2º trecho HeyGen); passa como respiração.

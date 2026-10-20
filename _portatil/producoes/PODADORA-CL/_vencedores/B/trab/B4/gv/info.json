@@ -1,0 +1,23 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\B\\trab\\B4\\B4.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 3.1,
+  "fala_s": 2.37,
+  "tomadas": [
+   {
+    "src": "g",
+    "ini": 0,
+    "dur": 3.1
+   }
+  ],
+  "ganho_db": 3.8
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_vencedores\\vencedor1.mp4",
+  "corte": 2.1,
+  "fim": 37.059
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\B4 - ORILLA-TU-PATIO-ES-CL.mp4"
+}

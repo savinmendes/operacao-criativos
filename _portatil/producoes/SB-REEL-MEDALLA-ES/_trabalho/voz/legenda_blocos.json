@@ -1,0 +1,2349 @@
+[
+ {
+  "i": 1,
+  "ini": 0.267,
+  "fim": 1.24,
+  "texto": "OH GLORIOSO",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "OH",
+    "ini": 0.267,
+    "fim": 0.48
+   },
+   {
+    "w": "GLORIOSO",
+    "ini": 0.544,
+    "fim": 1.2
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "ini": 1.24,
+  "fim": 2.5,
+  "texto": "SAN BENITO",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAN BENITO",
+    "ini": 1.24,
+    "fim": 2.4
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "ini": 2.5,
+  "fim": 3.32,
+  "texto": "HOY PRONUNCIO",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "HOY",
+    "ini": 2.5,
+    "fim": 2.8
+   },
+   {
+    "w": "PRONUNCIO",
+    "ini": 2.848,
+    "fim": 3.28
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "ini": 3.32,
+  "fim": 3.904,
+  "texto": "LAS PALABRAS",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LAS",
+    "ini": 3.32,
+    "fim": 3.44
+   },
+   {
+    "w": "PALABRAS",
+    "ini": 3.484,
+    "fim": 3.84
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "ini": 3.904,
+  "fim": 4.62,
+  "texto": "GRABADAS EN TU",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "GRABADAS",
+    "ini": 3.904,
+    "fim": 4.32
+   },
+   {
+    "w": "EN",
+    "ini": 4.373,
+    "fim": 4.48
+   },
+   {
+    "w": "TU",
+    "ini": 4.507,
+    "fim": 4.56
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "ini": 4.62,
+  "fim": 6.28,
+  "texto": "MEDALLA",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MEDALLA",
+    "ini": 4.62,
+    "fim": 5.68
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "ini": 6.909,
+  "fim": 7.722,
+  "texto": "SÁCAME DE ESTA",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SÁCAME",
+    "ini": 6.909,
+    "fim": 7.362
+   },
+   {
+    "w": "DE",
+    "ini": 7.415,
+    "fim": 7.522
+   },
+   {
+    "w": "ESTA",
+    "ini": 7.554,
+    "fim": 7.682
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "ini": 7.722,
+  "fim": 9.402,
+  "texto": "ESCASEZ",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ESCASEZ",
+    "ini": 7.722,
+    "fim": 8.802
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "ini": 9.406,
+  "fim": 10.642,
+  "texto": "SI ME ESCUCHAS",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SI",
+    "ini": 9.406,
+    "fim": 9.442
+   },
+   {
+    "w": "ME",
+    "ini": 9.469,
+    "fim": 9.522
+   },
+   {
+    "w": "ESCUCHAS",
+    "ini": 9.602,
+    "fim": 10.562
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "ini": 10.642,
+  "fim": 11.962,
+  "texto": "AYÚDAME",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "AYÚDAME",
+    "ini": 10.642,
+    "fim": 11.362
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "ini": 11.97,
+  "fim": 13.247,
+  "texto": "YO PASÉ CASI",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "YO",
+    "ini": 11.97,
+    "fim": 12.097
+   },
+   {
+    "w": "PASÉ",
+    "ini": 12.144,
+    "fim": 12.55
+   },
+   {
+    "w": "CASI",
+    "ini": 12.689,
+    "fim": 13.131
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "ini": 13.247,
+  "fim": 14.443,
+  "texto": "SEIS MESES SIN",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SEIS",
+    "ini": 13.247,
+    "fim": 13.607
+   },
+   {
+    "w": "MESES",
+    "ini": 13.723,
+    "fim": 14.199
+   },
+   {
+    "w": "SIN",
+    "ini": 14.222,
+    "fim": 14.385
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "ini": 14.443,
+  "fim": 15.557,
+  "texto": "CLIENTES",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CLIENTES",
+    "ini": 14.443,
+    "fim": 15.302
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "ini": 15.557,
+  "fim": 16.753,
+  "texto": "LLEGUÉ A PENSAR",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LLEGUÉ",
+    "ini": 15.557,
+    "fim": 16.01
+   },
+   {
+    "w": "A",
+    "ini": 16.056,
+    "fim": 16.08
+   },
+   {
+    "w": "PENSAR",
+    "ini": 16.138,
+    "fim": 16.683
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "ini": 16.753,
+  "fim": 17.647,
+  "texto": "EN CERRAR MI",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN",
+    "ini": 16.753,
+    "fim": 16.799
+   },
+   {
+    "w": "CERRAR",
+    "ini": 16.869,
+    "fim": 17.415
+   },
+   {
+    "w": "MI",
+    "ini": 17.496,
+    "fim": 17.589
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "ini": 17.647,
+  "fim": 18.761,
+  "texto": "NEGOCIO",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "NEGOCIO",
+    "ini": 17.647,
+    "fim": 18.46
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "ini": 18.761,
+  "fim": 19.783,
+  "texto": "HASTA QUE",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "HASTA",
+    "ini": 18.761,
+    "fim": 19.203
+   },
+   {
+    "w": "QUE",
+    "ini": 19.284,
+    "fim": 19.702
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "ini": 19.783,
+  "fim": 20.375,
+  "texto": "EN UNA",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN",
+    "ini": 19.783,
+    "fim": 19.969
+   },
+   {
+    "w": "UNA",
+    "ini": 20.108,
+    "fim": 20.317
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "ini": 20.375,
+  "fim": 21.292,
+  "texto": "TRANSMISIÓN",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "TRANSMISIÓN",
+    "ini": 20.375,
+    "fim": 21.234
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "ini": 21.292,
+  "fim": 22.419,
+  "texto": "EN VIVO UN",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN VIVO",
+    "ini": 21.292,
+    "fim": 21.943
+   },
+   {
+    "w": "UN",
+    "ini": 22.21,
+    "fim": 22.361
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "ini": 22.419,
+  "fim": 23.371,
+  "texto": "SACERDOTE",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SACERDOTE",
+    "ini": 22.419,
+    "fim": 23.313
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "ini": 23.371,
+  "fim": 24.404,
+  "texto": "EXPLICÓ LO QUE",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EXPLICÓ",
+    "ini": 23.371,
+    "fim": 24.021
+   },
+   {
+    "w": "LO",
+    "ini": 24.114,
+    "fim": 24.218
+   },
+   {
+    "w": "QUE",
+    "ini": 24.276,
+    "fim": 24.358
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "ini": 24.404,
+  "fim": 25.635,
+  "texto": "SIGNIFICAN LAS",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SIGNIFICAN",
+    "ini": 24.404,
+    "fim": 25.251
+   },
+   {
+    "w": "LAS",
+    "ini": 25.356,
+    "fim": 25.519
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "ini": 25.635,
+  "fim": 26.436,
+  "texto": "LETRAS DE LA",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LETRAS",
+    "ini": 25.635,
+    "fim": 26.099
+   },
+   {
+    "w": "DE",
+    "ini": 26.169,
+    "fim": 26.227
+   },
+   {
+    "w": "LA",
+    "ini": 26.296,
+    "fim": 26.378
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "ini": 26.436,
+  "fim": 27.109,
+  "texto": "MEDALLA DE",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MEDALLA",
+    "ini": 26.436,
+    "fim": 26.923
+   },
+   {
+    "w": "DE",
+    "ini": 26.993,
+    "fim": 27.051
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "ini": 27.109,
+  "fim": 28.398,
+  "texto": "SAN BENITO",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAN BENITO",
+    "ini": 27.109,
+    "fim": 28.038
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "ini": 28.398,
+  "fim": 30.081,
+  "texto": "ESE DÍA RECUPERÉ",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ESE",
+    "ini": 28.398,
+    "fim": 28.851
+   },
+   {
+    "w": "DÍA",
+    "ini": 28.943,
+    "fim": 29.292
+   },
+   {
+    "w": "RECUPERÉ",
+    "ini": 29.408,
+    "fim": 30.012
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "ini": 30.081,
+  "fim": 31.138,
+  "texto": "LA PAZ",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LA",
+    "ini": 30.081,
+    "fim": 30.197
+   },
+   {
+    "w": "PAZ",
+    "ini": 30.267,
+    "fim": 30.778
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "ini": 31.138,
+  "fim": 31.916,
+  "texto": "Y POCO A",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "Y",
+    "ini": 31.138,
+    "fim": 31.207
+   },
+   {
+    "w": "POCO",
+    "ini": 31.37,
+    "fim": 31.765
+   },
+   {
+    "w": "A",
+    "ini": 31.823,
+    "fim": 31.846
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "ini": 31.916,
+  "fim": 33.576,
+  "texto": "POCO LAS PUERTAS",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "POCO",
+    "ini": 31.916,
+    "fim": 32.461
+   },
+   {
+    "w": "LAS",
+    "ini": 32.624,
+    "fim": 32.833
+   },
+   {
+    "w": "PUERTAS",
+    "ini": 32.949,
+    "fim": 33.506
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "ini": 33.576,
+  "fim": 34.598,
+  "texto": "EMPEZARON A",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EMPEZARON",
+    "ini": 33.576,
+    "fim": 34.365
+   },
+   {
+    "w": "A",
+    "ini": 34.435,
+    "fim": 34.493
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "ini": 34.598,
+  "fim": 36.045,
+  "texto": "ABRIRSE",
+  "personagem": "comerciante",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ABRIRSE",
+    "ini": 34.598,
+    "fim": 35.445
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "ini": 36.092,
+  "fim": 36.731,
+  "texto": "MILLONES DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MILLONES",
+    "ini": 36.092,
+    "fim": 36.58
+   },
+   {
+    "w": "DE",
+    "ini": 36.614,
+    "fim": 36.673
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "ini": 36.731,
+  "fim": 37.497,
+  "texto": "PERSONAS LLEVAN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERSONAS",
+    "ini": 36.731,
+    "fim": 37.149
+   },
+   {
+    "w": "LLEVAN",
+    "ini": 37.172,
+    "fim": 37.439
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "ini": 37.497,
+  "fim": 38.472,
+  "texto": "ESTA MEDALLA Y",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ESTA",
+    "ini": 37.497,
+    "fim": 37.671
+   },
+   {
+    "w": "MEDALLA",
+    "ini": 37.717,
+    "fim": 38.112
+   },
+   {
+    "w": "Y",
+    "ini": 38.263,
+    "fim": 38.344
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "ini": 38.472,
+  "fim": 39.157,
+  "texto": "NO SABEN LO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "NO",
+    "ini": 38.472,
+    "fim": 38.611
+   },
+   {
+    "w": "SABEN",
+    "ini": 38.681,
+    "fim": 38.983
+   },
+   {
+    "w": "LO",
+    "ini": 39.029,
+    "fim": 39.111
+   }
+  ]
+ },
+ {
+  "i": 37,
+  "ini": 39.157,
+  "fim": 39.842,
+  "texto": "QUE DICEN ESAS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUE",
+    "ini": 39.157,
+    "fim": 39.238
+   },
+   {
+    "w": "DICEN",
+    "ini": 39.273,
+    "fim": 39.505
+   },
+   {
+    "w": "ESAS",
+    "ini": 39.563,
+    "fim": 39.761
+   }
+  ]
+ },
+ {
+  "i": 38,
+  "ini": 39.842,
+  "fim": 40.515,
+  "texto": "LETRAS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LETRAS",
+    "ini": 39.842,
+    "fim": 40.341
+   }
+  ]
+ },
+ {
+  "i": 39,
+  "ini": 40.515,
+  "fim": 41.108,
+  "texto": "HOY TE LAS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "HOY",
+    "ini": 40.515,
+    "fim": 40.748
+   },
+   {
+    "w": "TE",
+    "ini": 40.794,
+    "fim": 40.864
+   },
+   {
+    "w": "LAS",
+    "ini": 40.91,
+    "fim": 41.05
+   }
+  ]
+ },
+ {
+  "i": 40,
+  "ini": 41.108,
+  "fim": 42.35,
+  "texto": "VOY A ENSEÑAR",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VOY",
+    "ini": 41.108,
+    "fim": 41.328
+   },
+   {
+    "w": "A",
+    "ini": 41.363,
+    "fim": 41.386
+   },
+   {
+    "w": "ENSEÑAR",
+    "ini": 41.456,
+    "fim": 42.106
+   }
+  ]
+ },
+ {
+  "i": 41,
+  "ini": 42.35,
+  "fim": 43.559,
+  "texto": "REPITE CONMIGO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REPITE",
+    "ini": 42.35,
+    "fim": 42.675
+   },
+   {
+    "w": "CONMIGO",
+    "ini": 42.721,
+    "fim": 43.128
+   }
+  ]
+ },
+ {
+  "i": 42,
+  "ini": 43.559,
+  "fim": 44.732,
+  "texto": "CRUX SANCTA SIT",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 1,
+  "palavras": [
+   {
+    "w": "CRUX",
+    "ini": 43.559,
+    "fim": 43.849
+   },
+   {
+    "w": "SANCTA",
+    "ini": 43.942,
+    "fim": 44.372
+   },
+   {
+    "w": "SIT",
+    "ini": 44.43,
+    "fim": 44.65
+   }
+  ]
+ },
+ {
+  "i": 43,
+  "ini": 44.732,
+  "fim": 46.191,
+  "texto": "MIHI LUX",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 1,
+  "palavras": [
+   {
+    "w": "MIHI",
+    "ini": 44.732,
+    "fim": 45.057
+   },
+   {
+    "w": "LUX",
+    "ini": 45.115,
+    "fim": 45.591
+   }
+  ]
+ },
+ {
+  "i": 44,
+  "ini": 48.218,
+  "fim": 49.158,
+  "texto": "NON DRACO SIT",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 2,
+  "palavras": [
+   {
+    "w": "NON",
+    "ini": 48.218,
+    "fim": 48.404
+   },
+   {
+    "w": "DRACO",
+    "ini": 48.439,
+    "fim": 48.81
+   },
+   {
+    "w": "SIT",
+    "ini": 48.868,
+    "fim": 49.077
+   }
+  ]
+ },
+ {
+  "i": 45,
+  "ini": 49.158,
+  "fim": 50.606,
+  "texto": "MIHI DUX",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 2,
+  "palavras": [
+   {
+    "w": "MIHI",
+    "ini": 49.158,
+    "fim": 49.46
+   },
+   {
+    "w": "DUX",
+    "ini": 49.518,
+    "fim": 50.006
+   }
+  ]
+ },
+ {
+  "i": 46,
+  "ini": 52.61,
+  "fim": 53.33,
+  "texto": "VADE RETRO",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 3,
+  "palavras": [
+   {
+    "w": "VADE",
+    "ini": 52.61,
+    "fim": 52.9
+   },
+   {
+    "w": "RETRO",
+    "ini": 52.97,
+    "fim": 53.306
+   }
+  ]
+ },
+ {
+  "i": 47,
+  "ini": 53.33,
+  "fim": 54.568,
+  "texto": "SATANA",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 3,
+  "palavras": [
+   {
+    "w": "SATANA",
+    "ini": 53.33,
+    "fim": 53.968
+   }
+  ]
+ },
+ {
+  "i": 48,
+  "ini": 56.561,
+  "fim": 57.594,
+  "texto": "NUMQUAM SUADE",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 4,
+  "palavras": [
+   {
+    "w": "NUMQUAM",
+    "ini": 56.561,
+    "fim": 57.083
+   },
+   {
+    "w": "SUADE",
+    "ini": 57.153,
+    "fim": 57.536
+   }
+  ]
+ },
+ {
+  "i": 49,
+  "ini": 57.594,
+  "fim": 58.96,
+  "texto": "MIHI VANA",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 4,
+  "palavras": [
+   {
+    "w": "MIHI",
+    "ini": 57.594,
+    "fim": 57.849
+   },
+   {
+    "w": "VANA",
+    "ini": 57.907,
+    "fim": 58.36
+   }
+  ]
+ },
+ {
+  "i": 50,
+  "ini": 61.382,
+  "fim": 62.276,
+  "texto": "SUNT MALA QUAE",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 5,
+  "palavras": [
+   {
+    "w": "SUNT",
+    "ini": 61.382,
+    "fim": 61.672
+   },
+   {
+    "w": "MALA",
+    "ini": 61.765,
+    "fim": 62.044
+   },
+   {
+    "w": "QUAE",
+    "ini": 62.102,
+    "fim": 62.253
+   }
+  ]
+ },
+ {
+  "i": 51,
+  "ini": 62.276,
+  "fim": 63.41,
+  "texto": "LIBAS",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 5,
+  "palavras": [
+   {
+    "w": "LIBAS",
+    "ini": 62.276,
+    "fim": 62.81
+   }
+  ]
+ },
+ {
+  "i": 52,
+  "ini": 65.228,
+  "fim": 65.983,
+  "texto": "IPSE VENENA",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 6,
+  "palavras": [
+   {
+    "w": "IPSE",
+    "ini": 65.228,
+    "fim": 65.577
+   },
+   {
+    "w": "VENENA",
+    "ini": 65.623,
+    "fim": 65.936
+   }
+  ]
+ },
+ {
+  "i": 53,
+  "ini": 65.983,
+  "fim": 67.175,
+  "texto": "BIBAS",
+  "personagem": "sacerdote",
+  "latim": true,
+  "linha_latim": 6,
+  "palavras": [
+   {
+    "w": "BIBAS",
+    "ini": 65.983,
+    "fim": 66.575
+   }
+  ]
+ },
+ {
+  "i": 54,
+  "ini": 69.48,
+  "fim": 70.072,
+  "texto": "ESTA ES LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ESTA",
+    "ini": 69.48,
+    "fim": 69.817
+   },
+   {
+    "w": "ES",
+    "ini": 69.84,
+    "fim": 69.887
+   },
+   {
+    "w": "LA",
+    "ini": 69.956,
+    "fim": 70.026
+   }
+  ]
+ },
+ {
+  "i": 55,
+  "ini": 70.072,
+  "fim": 70.873,
+  "texto": "ORACIÓN DE LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ORACIÓN",
+    "ini": 70.072,
+    "fim": 70.583
+   },
+   {
+    "w": "DE",
+    "ini": 70.641,
+    "fim": 70.711
+   },
+   {
+    "w": "LA",
+    "ini": 70.757,
+    "fim": 70.815
+   }
+  ]
+ },
+ {
+  "i": 56,
+  "ini": 70.873,
+  "fim": 71.558,
+  "texto": "MEDALLA DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MEDALLA",
+    "ini": 70.873,
+    "fim": 71.338
+   },
+   {
+    "w": "DE",
+    "ini": 71.407,
+    "fim": 71.477
+   }
+  ]
+ },
+ {
+  "i": 57,
+  "ini": 71.558,
+  "fim": 72.8,
+  "texto": "SAN BENITO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAN BENITO",
+    "ini": 71.558,
+    "fim": 72.417
+   }
+  ]
+ },
+ {
+  "i": 58,
+  "ini": 72.8,
+  "fim": 73.369,
+  "texto": "LOS MONJES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LOS",
+    "ini": 72.8,
+    "fim": 72.974
+   },
+   {
+    "w": "MONJES",
+    "ini": 73.032,
+    "fim": 73.323
+   }
+  ]
+ },
+ {
+  "i": 59,
+  "ini": 73.369,
+  "fim": 74.739,
+  "texto": "BENEDICTINOS LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "BENEDICTINOS",
+    "ini": 73.369,
+    "fim": 74.205
+   },
+   {
+    "w": "LA",
+    "ini": 74.507,
+    "fim": 74.623
+   }
+  ]
+ },
+ {
+  "i": 60,
+  "ini": 74.739,
+  "fim": 75.61,
+  "texto": "REZAN DESDE HACE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REZAN",
+    "ini": 74.739,
+    "fim": 75.087
+   },
+   {
+    "w": "DESDE",
+    "ini": 75.145,
+    "fim": 75.366
+   },
+   {
+    "w": "HACE",
+    "ini": 75.401,
+    "fim": 75.563
+   }
+  ]
+ },
+ {
+  "i": 61,
+  "ini": 75.61,
+  "fim": 76.492,
+  "texto": "SIGLOS PARA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SIGLOS",
+    "ini": 75.61,
+    "fim": 76.063
+   },
+   {
+    "w": "PARA",
+    "ini": 76.26,
+    "fim": 76.469
+   }
+  ]
+ },
+ {
+  "i": 62,
+  "ini": 76.492,
+  "fim": 77.386,
+  "texto": "ALEJAR TODO LO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ALEJAR",
+    "ini": 76.492,
+    "fim": 76.852
+   },
+   {
+    "w": "TODO",
+    "ini": 76.957,
+    "fim": 77.224
+   },
+   {
+    "w": "LO",
+    "ini": 77.27,
+    "fim": 77.34
+   }
+  ]
+ },
+ {
+  "i": 63,
+  "ini": 77.386,
+  "fim": 78.385,
+  "texto": "QUE NOS ATA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUE",
+    "ini": 77.386,
+    "fim": 77.456
+   },
+   {
+    "w": "NOS",
+    "ini": 77.502,
+    "fim": 77.642
+   },
+   {
+    "w": "ATA",
+    "ini": 77.711,
+    "fim": 78.164
+   }
+  ]
+ },
+ {
+  "i": 64,
+  "ini": 78.385,
+  "fim": 79.418,
+  "texto": "LA ENVIDIA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LA",
+    "ini": 78.385,
+    "fim": 78.489
+   },
+   {
+    "w": "ENVIDIA",
+    "ini": 78.536,
+    "fim": 79.279
+   }
+  ]
+ },
+ {
+  "i": 65,
+  "ini": 79.418,
+  "fim": 80.277,
+  "texto": "EL MAL",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EL",
+    "ini": 79.418,
+    "fim": 79.569
+   },
+   {
+    "w": "MAL",
+    "ini": 79.638,
+    "fim": 80.115
+   }
+  ]
+ },
+ {
+  "i": 66,
+  "ini": 80.277,
+  "fim": 81.934,
+  "texto": "Y LA ESCASEZ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "Y",
+    "ini": 80.277,
+    "fim": 80.347
+   },
+   {
+    "w": "LA",
+    "ini": 80.44,
+    "fim": 80.498
+   },
+   {
+    "w": "ESCASEZ",
+    "ini": 80.544,
+    "fim": 81.334
+   }
+  ]
+ },
+ {
+  "i": 67,
+  "ini": 81.984,
+  "fim": 82.518,
+  "texto": "PERO PRESTA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "PERO",
+    "ini": 81.984,
+    "fim": 82.169
+   },
+   {
+    "w": "PRESTA",
+    "ini": 82.228,
+    "fim": 82.483
+   }
+  ]
+ },
+ {
+  "i": 68,
+  "ini": 82.518,
+  "fim": 83.656,
+  "texto": "ATENCIÓN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ATENCIÓN",
+    "ini": 82.518,
+    "fim": 83.238
+   }
+  ]
+ },
+ {
+  "i": 69,
+  "ini": 83.656,
+  "fim": 84.282,
+  "texto": "NO BASTA CON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "NO",
+    "ini": 83.656,
+    "fim": 83.772
+   },
+   {
+    "w": "BASTA",
+    "ini": 83.795,
+    "fim": 84.085
+   },
+   {
+    "w": "CON",
+    "ini": 84.132,
+    "fim": 84.224
+   }
+  ]
+ },
+ {
+  "i": 70,
+  "ini": 84.282,
+  "fim": 85.037,
+  "texto": "REPETIRLA UNA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REPETIRLA",
+    "ini": 84.282,
+    "fim": 84.793
+   },
+   {
+    "w": "UNA",
+    "ini": 84.851,
+    "fim": 84.979
+   }
+  ]
+ },
+ {
+  "i": 71,
+  "ini": 85.037,
+  "fim": 85.734,
+  "texto": "VEZ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VEZ",
+    "ini": 85.037,
+    "fim": 85.42
+   }
+  ]
+ },
+ {
+  "i": 72,
+  "ini": 85.734,
+  "fim": 86.407,
+  "texto": "LOS MONJES LA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LOS",
+    "ini": 85.734,
+    "fim": 85.896
+   },
+   {
+    "w": "MONJES",
+    "ini": 85.954,
+    "fim": 86.256
+   },
+   {
+    "w": "LA",
+    "ini": 86.279,
+    "fim": 86.326
+   }
+  ]
+ },
+ {
+  "i": 73,
+  "ini": 86.407,
+  "fim": 87.638,
+  "texto": "REZABAN DENTRO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REZABAN",
+    "ini": 86.407,
+    "fim": 86.906
+   },
+   {
+    "w": "DENTRO",
+    "ini": 87.208,
+    "fim": 87.591
+   }
+  ]
+ },
+ {
+  "i": 74,
+  "ini": 87.638,
+  "fim": 88.253,
+  "texto": "DE UN CAMINO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DE",
+    "ini": 87.638,
+    "fim": 87.684
+   },
+   {
+    "w": "UN",
+    "ini": 87.742,
+    "fim": 87.824
+   },
+   {
+    "w": "CAMINO",
+    "ini": 87.882,
+    "fim": 88.207
+   }
+  ]
+ },
+ {
+  "i": 75,
+  "ini": 88.253,
+  "fim": 89.135,
+  "texto": "DE ORACIÓN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DE",
+    "ini": 88.253,
+    "fim": 88.288
+   },
+   {
+    "w": "ORACIÓN",
+    "ini": 88.311,
+    "fim": 88.915
+   }
+  ]
+ },
+ {
+  "i": 76,
+  "ini": 89.135,
+  "fim": 90.308,
+  "texto": "DÍA TRAS DÍA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DÍA",
+    "ini": 89.135,
+    "fim": 89.414
+   },
+   {
+    "w": "TRAS",
+    "ini": 89.472,
+    "fim": 89.669
+   },
+   {
+    "w": "DÍA",
+    "ini": 89.727,
+    "fim": 90.145
+   }
+  ]
+ },
+ {
+  "i": 77,
+  "ini": 90.308,
+  "fim": 91.225,
+  "texto": "CON FE E",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CON",
+    "ini": 90.308,
+    "fim": 90.505
+   },
+   {
+    "w": "FE",
+    "ini": 90.61,
+    "fim": 90.9
+   },
+   {
+    "w": "E",
+    "ini": 91.074,
+    "fim": 91.155
+   }
+  ]
+ },
+ {
+  "i": 78,
+  "ini": 91.225,
+  "fim": 92.626,
+  "texto": "INTENCIÓN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "INTENCIÓN",
+    "ini": 91.225,
+    "fim": 92.026
+   }
+  ]
+ },
+ {
+  "i": 79,
+  "ini": 92.723,
+  "fim": 93.327,
+  "texto": "POR ESO NACIÓ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "POR",
+    "ini": 92.723,
+    "fim": 92.885
+   },
+   {
+    "w": "ESO",
+    "ini": 92.92,
+    "fim": 93.036
+   },
+   {
+    "w": "NACIÓ",
+    "ini": 93.071,
+    "fim": 93.303
+   }
+  ]
+ },
+ {
+  "i": 80,
+  "ini": 93.327,
+  "fim": 93.872,
+  "texto": "EL CAMINO DE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EL",
+    "ini": 93.327,
+    "fim": 93.373
+   },
+   {
+    "w": "CAMINO",
+    "ini": 93.431,
+    "fim": 93.71
+   },
+   {
+    "w": "DE",
+    "ini": 93.745,
+    "fim": 93.803
+   }
+  ]
+ },
+ {
+  "i": 81,
+  "ini": 93.872,
+  "fim": 94.267,
+  "texto": "FE CON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "FE",
+    "ini": 93.872,
+    "fim": 94.035
+   },
+   {
+    "w": "CON",
+    "ini": 94.07,
+    "fim": 94.221
+   }
+  ]
+ },
+ {
+  "i": 82,
+  "ini": 94.267,
+  "fim": 95.672,
+  "texto": "SAN BENITO PARA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAN BENITO",
+    "ini": 94.267,
+    "fim": 95.126
+   },
+   {
+    "w": "PARA",
+    "ini": 95.405,
+    "fim": 95.614
+   }
+  ]
+ },
+ {
+  "i": 83,
+  "ini": 95.672,
+  "fim": 96.566,
+  "texto": "QUE LA RECES",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "QUE",
+    "ini": 95.672,
+    "fim": 95.765
+   },
+   {
+    "w": "LA",
+    "ini": 95.811,
+    "fim": 95.881
+   },
+   {
+    "w": "RECES",
+    "ini": 96.032,
+    "fim": 96.519
+   }
+  ]
+ },
+ {
+  "i": 84,
+  "ini": 96.566,
+  "fim": 97.204,
+  "texto": "DE LA FORMA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DE",
+    "ini": 96.566,
+    "fim": 96.612
+   },
+   {
+    "w": "LA",
+    "ini": 96.67,
+    "fim": 96.728
+   },
+   {
+    "w": "FORMA",
+    "ini": 96.81,
+    "fim": 97.146
+   }
+  ]
+ },
+ {
+  "i": 85,
+  "ini": 97.204,
+  "fim": 98.605,
+  "texto": "CORRECTA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "CORRECTA",
+    "ini": 97.204,
+    "fim": 98.005
+   }
+  ]
+ },
+ {
+  "i": 86,
+  "ini": 98.609,
+  "fim": 99.282,
+  "texto": "REZA CONMIGO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REZA",
+    "ini": 98.609,
+    "fim": 98.853
+   },
+   {
+    "w": "CONMIGO",
+    "ini": 98.899,
+    "fim": 99.259
+   }
+  ]
+ },
+ {
+  "i": 87,
+  "ini": 99.282,
+  "fim": 100.165,
+  "texto": "DURANTE SIETE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DURANTE",
+    "ini": 99.282,
+    "fim": 99.666
+   },
+   {
+    "w": "SIETE",
+    "ini": 99.735,
+    "fim": 100.107
+   }
+  ]
+ },
+ {
+  "i": 88,
+  "ini": 100.165,
+  "fim": 101.303,
+  "texto": "DÍAS Y VUELVE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "DÍAS",
+    "ini": 100.165,
+    "fim": 100.525
+   },
+   {
+    "w": "Y",
+    "ini": 100.85,
+    "fim": 100.966
+   },
+   {
+    "w": "VUELVE",
+    "ini": 101.024,
+    "fim": 101.279
+   }
+  ]
+ },
+ {
+  "i": 89,
+  "ini": 101.303,
+  "fim": 102.046,
+  "texto": "AQUÍ A CONTARME",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "AQUÍ",
+    "ini": 101.303,
+    "fim": 101.465
+   },
+   {
+    "w": "A",
+    "ini": 101.488,
+    "fim": 101.512
+   },
+   {
+    "w": "CONTARME",
+    "ini": 101.558,
+    "fim": 102.011
+   }
+  ]
+ },
+ {
+  "i": 90,
+  "ini": 102.046,
+  "fim": 102.661,
+  "texto": "LO QUE CAMBIÓ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "LO",
+    "ini": 102.046,
+    "fim": 102.115
+   },
+   {
+    "w": "QUE",
+    "ini": 102.15,
+    "fim": 102.22
+   },
+   {
+    "w": "CAMBIÓ",
+    "ini": 102.266,
+    "fim": 102.615
+   }
+  ]
+ },
+ {
+  "i": 91,
+  "ini": 102.661,
+  "fim": 103.981,
+  "texto": "EN TU VIDA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN",
+    "ini": 102.661,
+    "fim": 102.719
+   },
+   {
+    "w": "TU",
+    "ini": 102.789,
+    "fim": 102.893
+   },
+   {
+    "w": "VIDA",
+    "ini": 102.94,
+    "fim": 103.381
+   }
+  ]
+ },
+ {
+  "i": 92,
+  "ini": 104.193,
+  "fim": 105.169,
+  "texto": "COMPARTE ESTE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "COMPARTE",
+    "ini": 104.193,
+    "fim": 104.855
+   },
+   {
+    "w": "ESTE",
+    "ini": 104.902,
+    "fim": 105.111
+   }
+  ]
+ },
+ {
+  "i": 93,
+  "ini": 105.169,
+  "fim": 105.784,
+  "texto": "VIDEO CON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VIDEO",
+    "ini": 105.169,
+    "fim": 105.529
+   },
+   {
+    "w": "CON",
+    "ini": 105.575,
+    "fim": 105.715
+   }
+  ]
+ },
+ {
+  "i": 94,
+  "ini": 105.784,
+  "fim": 106.202,
+  "texto": "ALGUIEN QUE",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ALGUIEN",
+    "ini": 105.784,
+    "fim": 106.028
+   },
+   {
+    "w": "QUE",
+    "ini": 106.086,
+    "fim": 106.156
+   }
+  ]
+ },
+ {
+  "i": 95,
+  "ini": 106.202,
+  "fim": 106.957,
+  "texto": "NECESITA UN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "NECESITA",
+    "ini": 106.202,
+    "fim": 106.783
+   },
+   {
+    "w": "UN",
+    "ini": 106.841,
+    "fim": 106.887
+   }
+  ]
+ },
+ {
+  "i": 96,
+  "ini": 106.957,
+  "fim": 108.254,
+  "texto": "MILAGRO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "MILAGRO",
+    "ini": 106.957,
+    "fim": 107.654
+   }
+  ]
+ },
+ {
+  "i": 97,
+  "ini": 108.466,
+  "fim": 109.256,
+  "texto": "AHORA MISMO ESTÁ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "AHORA",
+    "ini": 108.466,
+    "fim": 108.71
+   },
+   {
+    "w": "MISMO",
+    "ini": 108.768,
+    "fim": 109.0
+   },
+   {
+    "w": "ESTÁ",
+    "ini": 109.024,
+    "fim": 109.198
+   }
+  ]
+ },
+ {
+  "i": 98,
+  "ini": 109.256,
+  "fim": 110.533,
+  "texto": "OCURRIENDO UNA",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "OCURRIENDO",
+    "ini": 109.256,
+    "fim": 109.871
+   },
+   {
+    "w": "UNA",
+    "ini": 110.254,
+    "fim": 110.486
+   }
+  ]
+ },
+ {
+  "i": 99,
+  "ini": 110.533,
+  "fim": 111.264,
+  "texto": "TRANSMISIÓN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "TRANSMISIÓN",
+    "ini": 110.533,
+    "fim": 111.195
+   }
+  ]
+ },
+ {
+  "i": 100,
+  "ini": 111.264,
+  "fim": 112.007,
+  "texto": "EN VIVO CON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "EN VIVO",
+    "ini": 111.264,
+    "fim": 111.717
+   },
+   {
+    "w": "CON",
+    "ini": 111.787,
+    "fim": 111.949
+   }
+  ]
+ },
+ {
+  "i": 101,
+  "ini": 112.007,
+  "fim": 113.238,
+  "texto": "SAN BENITO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "SAN BENITO",
+    "ini": 112.007,
+    "fim": 112.797
+   }
+  ]
+ },
+ {
+  "i": 102,
+  "ini": 113.238,
+  "fim": 114.097,
+  "texto": "TOCA EL BOTÓN",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "TOCA",
+    "ini": 113.238,
+    "fim": 113.482
+   },
+   {
+    "w": "EL",
+    "ini": 113.505,
+    "fim": 113.551
+   },
+   {
+    "w": "BOTÓN",
+    "ini": 113.598,
+    "fim": 114.027
+   }
+  ]
+ },
+ {
+  "i": 103,
+  "ini": 114.097,
+  "fim": 115.583,
+  "texto": "VER MÁS AQUÍ",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "VER MÁS",
+    "ini": 114.097,
+    "fim": 115.096
+   },
+   {
+    "w": "AQUÍ",
+    "ini": 115.305,
+    "fim": 115.56
+   }
+  ]
+ },
+ {
+  "i": 104,
+  "ini": 115.583,
+  "fim": 116.837,
+  "texto": "ABAJO DEL VIDEO",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "ABAJO",
+    "ini": 115.583,
+    "fim": 115.931
+   },
+   {
+    "w": "DEL",
+    "ini": 115.966,
+    "fim": 116.082
+   },
+   {
+    "w": "VIDEO",
+    "ini": 116.14,
+    "fim": 116.628
+   }
+  ]
+ },
+ {
+  "i": 105,
+  "ini": 116.837,
+  "fim": 117.394,
+  "texto": "Y ENTRA A",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "Y",
+    "ini": 116.837,
+    "fim": 116.93
+   },
+   {
+    "w": "ENTRA",
+    "ini": 117.023,
+    "fim": 117.278
+   },
+   {
+    "w": "A",
+    "ini": 117.301,
+    "fim": 117.325
+   }
+  ]
+ },
+ {
+  "i": 106,
+  "ini": 117.394,
+  "fim": 117.87,
+  "texto": "REZAR CON",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "REZAR",
+    "ini": 117.394,
+    "fim": 117.673
+   },
+   {
+    "w": "CON",
+    "ini": 117.731,
+    "fim": 117.836
+   }
+  ]
+ },
+ {
+  "i": 107,
+  "ini": 117.87,
+  "fim": 118.72,
+  "texto": "NOSOTROS",
+  "personagem": "sacerdote",
+  "latim": false,
+  "linha_latim": null,
+  "palavras": [
+   {
+    "w": "NOSOTROS",
+    "ini": 117.87,
+    "fim": 118.579
+   }
+  ]
+ }
+]

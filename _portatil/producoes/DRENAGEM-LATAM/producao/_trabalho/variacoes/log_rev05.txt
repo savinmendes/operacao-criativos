@@ -1,0 +1,44 @@
+--- [1/9]
+[12] OK | 720x1280 287.0s 35.4MB | cobertura 0.96
+   gancho: Vi a la mujer por la que mi esposo me dejó. Tenía 28 años. Casi me pongo a llorar ahí mismo frente a ella. Así empezó todo.
+   emenda: frente a ella. Así empezó todo. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que desapareció.
+--- [2/9]
+Traceback (most recent call last):
+  File "C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\variacoes\revisar_var.py", line 128, in <module>
+    revisar(nn)
+  File "C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\variacoes\revisar_var.py", line 39, in revisar
+    info = json.load(open(T / "info.json", encoding="utf-8"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\variacoes\\trab\\13\\info.json'
+--- [1/8]
+[13] OK | 720x1280 288.2s 35.4MB | cobertura 0.96
+   gancho: Mi exesposo estaba detrás de mí en la fila, con su novia del brazo 10 minutos ahí y nunca me reconoció, esto fue lo que pasó
+   emenda: esto fue lo que pasó Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que
+--- [2/8]
+[14] OK | 720x1280 284.47s 35.1MB | cobertura 1.0
+   gancho: Durante años pensé que era peso de la menopausia. Me equivoqué. No era peso, era lodo. Te cuento cómo lo descubrí.
+   emenda: era peso, era lodo. Te cuento cómo lo descubrí. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [3/8]
+[15] OK | 720x1280 285.93s 35.2MB | cobertura 1.0
+   gancho: Tres semanas lo dejé en el carrito. Siempre decía, mañana lo pido. Fueron tres semanas perdidas. Esta es mi historia.
+   emenda: perdidas. Esta es mi historia. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [4/8]
+[16] OK | 720x1280 284.77s 35.1MB | cobertura 1.0
+   gancho: Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más.
+   emenda: de lo que me pasó. Ya no me lo guardo más. Así que culpe a mi cuerpo, a mi cara hinchada A la mandíbula que
+--- [5/8]
+[17] OK | 720x1280 286.6s 35.3MB | cobertura 1.0
+   gancho: Cuidado con las copias, hay frascos que se ven idénticos, pero por dentro son otra cosa, antes de comprar escucha mi historia.
+   emenda: antes de comprar escucha mi historia. Así que culpe a mi cuerpo, a mi cara hinchada, a la mandíbula que desapareció.
+--- [6/8]
+[18] OK | 720x1280 286.0s 35.2MB | cobertura 1.0
+   gancho: ¿Por qué el cuerpo se hincha aunque comas poco? Casi nunca es la comida. Muchas veces el cuerpo dejó de drenar. Yo lo entendí tarde.
+   emenda: dejó de drenar. Yo lo entendí tarde. Así que culpe a mi cuerpo, a mi cara hinchada. A la mandíbula que
+--- [7/8]
+[19] OK | 720x1280 285.77s 35.2MB | cobertura 0.95
+   gancho: ¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya aprobaste de todo. Escucha esta historia.
+   emenda: de todo. Escucha esta historia.
+--- [8/8]
+[20] OK | 720x1280 283.4s 34.9MB | cobertura 1.0
+   gancho: Esa pancita no es grasa, es líquido atrapado y se drena, yo tarde años en entenderlo.
+   emenda: y se drena, yo tarde años en entenderlo. Así que culpe a mi cuerpo, a mi cara hinchada, a la mandíbula que desapareció.

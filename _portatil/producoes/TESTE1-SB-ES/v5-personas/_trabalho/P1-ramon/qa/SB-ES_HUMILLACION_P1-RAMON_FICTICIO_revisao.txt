@@ -1,0 +1,31 @@
+REVISÃO: SB-ES_HUMILLACION_P1-RAMON_FICTICIO.mp4
+duração 70.70s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 24.1 MB
+decodificação: OK
+pts do áudio: 3316 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 705-894, x 648-719 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\_trabalho\P1-ramon\qa\SB-ES_HUMILLACION_P1-RAMON_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  4.68 Imágenes impactantes. Un taxista fue humillado por un pasajero. Por su fe.
+   4.68-  7.16 ¡Reas en el taxi! ¡Pídale a tu dios que te pague!
+   7.16- 10.76 Señor, yo solo hice mi trabajo. Por favor no me trate así.
+  19.04- 23.08 Al día siguiente, el taxi de Don Ramón no paró ni un minuto.
+  23.08- 27.20 Esa noche me quedé dentro del taxi, sin ganas de volver a casa.
+  27.20- 29.80 Llevaba semanas haciendo dos carreras por día.
+  29.80- 35.16 no alcanzaba ni para la gasolina. Mi hija me mandó la transmisión del padre Juan Mendes.
+  35.16- 40.68 La hice ahí mismo, en el taxi, como él enseña. Al otro día, el teléfono empezó a sonar
+  40.68- 46.32 a las 6 de la mañana. Si tú también rezas y sientes que nadie te escucha y que las cosas
+  46.32- 52.54 solo empeoran, no es que Dios no te escuche, es que, igual que yo, lo estabas pidiendo
+  52.54- 57.44 de la forma equivocada. El padre Juan Mendes me enseñó la forma correcta de pedirle
+  57.44- 62.84 a San Benito y está haciendo la oración en vivo ahora mismo. Usted puede pasar la transmisión
+  62.84- 67.04 para los que nos están viendo. Claro, toquen el botón que está abajo del
+  67.04- 70.20 vídeo y entren ahora a la oración en vivo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

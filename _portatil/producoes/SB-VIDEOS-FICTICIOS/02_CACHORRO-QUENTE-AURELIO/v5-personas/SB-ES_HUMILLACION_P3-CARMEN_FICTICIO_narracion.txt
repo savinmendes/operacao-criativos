@@ -1,0 +1,18 @@
+NARRACIÓN COMPLETA — SB-ES_HUMILLACION_P3-CARMEN_FICTICIO.mp4 (1:10)
+Tiempos = momento en que empieza cada frase en el video final.
+Personajes ficticios: REPORTERA (en PiP desde 0:00 y luego en la calle), PATRONA, CARMEN (empleada doméstica).
+Sello "VIDEO FICTICIO" arriba a la derecha durante todo el video. Moldura de post "Fe en Noticias / Trabajador es humillado y algo impactante sucede" todo el video.
+Voces: reportera Gabriela (ElevenLabs) · Carmen Alisson (ElevenLabs) en la entrevista · patrona y Carmen en la pelea = audio nativo del take (Seedance) convertido con speech-to-speech: patrona voz Karly, Carmen voz Alisson; "¿Rezas" y "créame" re-grabados en TTS con la misma voz.
+Título 0–3 s: "LA HUMILLARON POR SU FE… / A LOS POCOS DÍAS PASÓ ESTO". CTA único al final (flechas TOCA «VER MÁS» desde el CTA hasta el final); nada se dice después del CTA.
+
+[00:00] REPORTERA (en PiP): Imágenes impactantes: una empleada fue echada a la calle… por su fe.
+[00:04] PATRONA: ¡Ladrona! ¿Rezas tanto? ¡Que tu Dios te consiga otro trabajo!
+[00:09] CARMEN: Señora, yo nunca le robé nada. Por el amor de Dios, créame.
+[00:12] (sin voz: Carmen junta el rosario del suelo, música triste -> sentada sola en la acera -> una señora se acerca -> recibida con un abrazo en una casa nueva)
+[00:20] REPORTERA: A los pocos días, Carmen tenía tres familias queriendo contratarla.
+[00:25] CARMEN: Esa noche pensé en mis hijos y no sabía cómo decirles que me habían echado… y encima acusada de ladrona. Una amiga me mandó la transmisión del padre Juan Méndez.
+[00:34] CARMEN: La hice esa misma noche, como él enseña. Al día siguiente, me llamaron para un trabajo nuevo, con gente que me trata como familia.
+[00:41] CARMEN: Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.
+[00:48] CARMEN: Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…
+[00:57] CARMEN: y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?
+[01:03] REPORTERA: ¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.

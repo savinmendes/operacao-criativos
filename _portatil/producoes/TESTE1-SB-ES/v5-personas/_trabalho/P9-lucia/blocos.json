@@ -1,0 +1,10 @@
+[
+ {"id":"R00","p":"REPORTERA (en PiP)","voz":"hHjbwzYZW17oh0p05AKv","est":0.5,"estilo":0.2,"vel":1.16,"texto":"Imágenes impactantes: una peluquera fue humillada en su propio salón… por su fe."},
+ {"id":"R01","p":"REPORTERA","voz":"hHjbwzYZW17oh0p05AKv","est":0.5,"estilo":0.2,"vel":1.08,"texto":"Al día siguiente, doña Lucía tenía la agenda llena por dos semanas."},
+ {"id":"LV1","p":"DOÑA LUCÍA (voz en off)","voz":"D3ws14YxTqcjPaXEOehR","est":0.45,"estilo":0.3,"vel":1.04,"texto":"Esa noche miré la agenda vacía y pensé en cerrar el salón que me costó toda la vida."},
+ {"id":"L01","p":"DOÑA LUCÍA","voz":"D3ws14YxTqcjPaXEOehR","est":0.45,"estilo":0.3,"vel":1.04,"texto":"Mi hermana me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña. Al otro día, el teléfono no paró de sonar."},
+ {"id":"L02","p":"DOÑA LUCÍA","voz":"D3ws14YxTqcjPaXEOehR","est":0.45,"estilo":0.3,"vel":1.04,"texto":"Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche."},
+ {"id":"L03","p":"DOÑA LUCÍA","voz":"D3ws14YxTqcjPaXEOehR","est":0.45,"estilo":0.3,"vel":1.04,"texto":"Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…"},
+ {"id":"L04","p":"DOÑA LUCÍA","voz":"D3ws14YxTqcjPaXEOehR","est":0.45,"estilo":0.3,"vel":1.04,"texto":"y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?"},
+ {"id":"R02","p":"REPORTERA","voz":"hHjbwzYZW17oh0p05AKv","est":0.5,"estilo":0.2,"vel":1.08,"texto":"¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."}
+]

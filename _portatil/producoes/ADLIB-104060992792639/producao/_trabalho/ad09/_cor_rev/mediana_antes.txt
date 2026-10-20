@@ -1,0 +1,34 @@
+AD 09 (base_lipsync.mp4): mediana video-original (Y) | elipse colada | anel fora (Y U V) | degrau | fundo
+  m0    -17.0 |  -8.0  +0.0  -3.0 |  -9.0 |  -6.0
+  A     -19.0 | -10.0  +3.0  -4.0 |  -9.0 |  -6.0
+  B     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -7.0
+  C     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+  D     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -7.0
+  E1    -20.0 | -11.0  +3.0  -4.0 |  -9.0 |  -6.0
+  E2    -18.0 | -10.0  +2.0  -4.0 |  -8.0 |  -7.0
+  F     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+  G     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -7.0
+  H     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+  I     -20.0 | -11.0  +3.0  -4.0 |  -9.0 |  -7.0
+  J     -19.0 | -10.0  +2.0  -4.0 |  -9.0 |  -6.0
+  K     -18.0 | -11.0  +3.0  -4.0 |  -7.0 |  -6.0
+  L     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+  M     -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+  N     -20.0 | -11.0  +3.0  -4.0 |  -9.0 |  -6.0
+  O     -19.5 | -11.0  +3.0  -4.0 |  -8.5 |  -6.0
+  P     -18.0 | -10.0  +3.0  -4.0 |  -8.0 |  -6.0
+  TODOS -19.0 | -11.0  +3.0  -4.0 |  -8.0 |  -6.0
+[vost#0:0/rawvideo @ 000001bdd0ae0b00] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 000001bdd0a23440] Error muxing a packet
+[out#0/rawvideo @ 000001bdd0a23440] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 000001bdd0a23440] Terminating thread with return code -32 (Broken pipe)
+[vost#0:0/rawvideo @ 0000023020818d80] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 000002301e58f9c0] Error muxing a packet
+[out#0/rawvideo @ 000002301e58f9c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 000002301e58f9c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 000001bdd0a23440] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 000001bdd0a23440] Error closing file: Broken pipe
+[out#0/rawvideo @ 000002301e58f9c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 000002301e58f9c0] Error closing file: Broken pipe

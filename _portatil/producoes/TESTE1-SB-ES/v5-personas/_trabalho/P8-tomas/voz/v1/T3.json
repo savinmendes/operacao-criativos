@@ -1,0 +1,70 @@
+{
+"texto": "Al otro día, la gente me paraba en la calle para comprarme.",
+"voz": "sJYGLUA6m2su09XOMEb8",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.06,
+"dur": 3.451,
+"palavras": [
+{
+"w": "Al",
+"ini": 0.058,
+"fim": 0.151
+},
+{
+"w": "otro",
+"ini": 0.209,
+"fim": 0.476
+},
+{
+"w": "día,",
+"ini": 0.499,
+"fim": 0.824
+},
+{
+"w": "la",
+"ini": 0.964,
+"fim": 1.057
+},
+{
+"w": "gente",
+"ini": 1.103,
+"fim": 1.37
+},
+{
+"w": "me",
+"ini": 1.428,
+"fim": 1.521
+},
+{
+"w": "paraba",
+"ini": 1.567,
+"fim": 1.846
+},
+{
+"w": "en",
+"ini": 1.869,
+"fim": 1.916
+},
+{
+"w": "la",
+"ini": 1.962,
+"fim": 2.02
+},
+{
+"w": "calle",
+"ini": 2.078,
+"fim": 2.322
+},
+{
+"w": "para",
+"ini": 2.38,
+"fim": 2.543
+},
+{
+"w": "comprarme.",
+"ini": 2.601,
+"fim": 3.251
+}
+]
+}

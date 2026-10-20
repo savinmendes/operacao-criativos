@@ -1,0 +1,59 @@
+REVISÃO: SB-EN-OP2-ASCENSAO_B-caminho1.mp4
+duração 23.90s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 18.2 MB
+decodificação: OK
+pts do áudio: 1120 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 996-1527, x 335-579 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\piloto\_trabalho\revisao_B\SB-EN-OP2-ASCENSAO_B-caminho1_revisao.jpg
+idioma detectado: en (0.99)
+
+=== transcrição (en) ===
+   0.00-  3.12 Close this video, and the miracle goes to someone else.
+   3.12-  6.08 This is the last time God will try to speak to you this way.
+   6.08- 10.08 Jesus chose you. He prepared a powerful gift just for you.
+  10.08- 12.80 Today, you will hear the lost prayer of Saint Benedict
+  12.80- 17.36 that unlocks a shower of miracles, but only if you don't reject it again.
+  17.36- 20.16 Tap Learn More Below and join the live prayer now.
+  20.16- 23.68 Receive your miracle before the door closes forever.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.00    Clue este video y el Miracle va a alguien más.
+   3.00-  6.00    Esta es la última vez que Dios va a intentar hablar conmigo de ti de esta manera.
+   6.00-  7.00    Jesús te ha decidido.
+   7.00- 10.00    Se preparó un regalo poderoso, solo para ti.
+  10.00- 13.00    Hoy te escucharás la lluvia de Sra. Benedict,
+  13.00- 15.00    que despliega una lluvia de Miracles,
+  15.00- 17.00    pero solo si no te arregles de nuevo.
+  17.00- 19.00    Tapas, aprende más abajo,
+  19.00- 20.00    y conozcas la lluvia de la lluvia ahora.
+  20.00- 23.00    Recibe tu Miracle antes de que la lluvia se acerque.
+
+=== lipsync ===
+LIPSYNC: hook_en_heygen.mp4 (80 quadros, rosto em 100%, rosto 338,408,439,519 [único rosto])
+  boca x original: dif. boca 23.78 | dif. controle 1.49 | mudou em 100% dos quadros | corr. abertura saída x original -0.05
+  pausas da voz nova: índice de pausa 0.05 (6 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.61 (atraso 0 ms) | corr. original 0.55
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.05)
+LIPSYNC: corpo_en_heygen.mp4 (83 quadros, rosto em 100%, rosto 198,358,329,391 [único rosto])
+  boca x original: dif. boca 17.49 | dif. controle 1.39 | mudou em 100% dos quadros | corr. abertura saída x original -0.06
+  pausas da voz nova: índice de pausa 0.09 (10 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.61 (atraso 0 ms) | corr. original 0.42
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.09)
+LIPSYNC: clipA_en_heygen.mp4 (81 quadros, rosto em 100%, rosto 202,354,329,385 [2 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 20.54 | dif. controle 1.51 | mudou em 100% dos quadros | corr. abertura saída x original -0.21
+  pausas da voz nova: índice de pausa 0.16 (9 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.50 (atraso 0 ms) | corr. original 0.40
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.16)
+LIPSYNC: clipB_en_heygen.mp4 (95 quadros, rosto em 100%, rosto 204,360,330,388 [único rosto])
+  boca x original: dif. boca 24.50 | dif. controle 2.68 | mudou em 97% dos quadros | corr. abertura saída x original 0.14
+  pausas da voz nova: índice de pausa 0.07 (26 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.69 (atraso -40 ms) | corr. original 0.20
+APROVADO: boca mudou em 97% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)
+índice de pausa do conjunto (4 trechos): 0.08 -> APROVADO
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

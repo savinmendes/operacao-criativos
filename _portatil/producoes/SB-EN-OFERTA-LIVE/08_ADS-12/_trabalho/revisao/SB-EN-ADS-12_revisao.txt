@@ -1,0 +1,23 @@
+REVISÃO: SB-EN-ADS-12.mp4
+duração 26.71s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 11.5 MB
+decodificação: OK
+pts do áudio: 1254 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 5 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 744-879, x 320-399 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-EN-OFERTA-LIVE\08_ADS-12\_trabalho\revisao\SB-EN-ADS-12_revisao.jpg
+idioma detectado: en (0.98)
+
+=== transcrição (en) ===
+   0.00-  4.24 If you ignore me, I'll have no choice but to give the miracle you need so much to someone else.
+   4.24-  7.60 This is your last chance to receive what I have prepared for you.
+   7.60- 11.28 Jesus has chosen you. He has brought you a powerful gift.
+  11.28- 18.00 Today, you will hear an ancient lost prayer from the Bible that will unlock a shower of blessings and miracles over your life.
+  18.00- 23.68 Don't reject me again. Tap Learn More Below and join the live prayer right now.
+  23.68- 26.56 Receive your miracle before it's too late.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

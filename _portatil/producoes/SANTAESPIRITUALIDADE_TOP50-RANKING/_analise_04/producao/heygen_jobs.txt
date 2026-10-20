@@ -1,0 +1,7 @@
+saldo HeyGen antes: 4627 premium (20/10 ~09:12 UTC; conta compartilhada com o agente do R03 — anotar só os meus)
+imagens (flow ElevenLabs FOSqqtV7HOQV7j7SoDoz, gpt-image-2.5-sunburst): 1a rodada saiu 16:9 (padrão do nó) -> jm_l1/l2, ap_l1/l2, s_l1/l2 (US$0,51);
+  Juan refeito em 9:16 -> avatar/jm_v.png (US$0,11). Senhor: s_l1 vertical dentro de 16:9 -> recorte 405x720 + Real-ESRGAN x4 -> senhor/s_final.png. Apresentadora: ap_l1 (16:9, vira PIP).
+TTS: 1425 caracteres eleven_multilingual_v2 (~US$0,24). Total ElevenLabs ~US$0,86.
+Avatar IV 720p: A Juan (4 s silêncio + J02-J07, 46,2 s) 4a2d020081265d972ed581951edae1a2 | B Juan (J08-J15, 41,8 s) e75f5523b82715b55596eb4951a880f8
+  P apresentadora (A01, 4,7 s, high) 2f3109e83937f6e577b6dfad2bf29dd6 | S senhor (S12, 14,0 s) 9a30f453c39a7eccd7d4a59343d38253
+saldo ~40 min depois: 4560 (queda 67 na conta inteira, inclui o agente do R03). Meu estimado: 107 s de Avatar IV x ~0,31/s (taxa do R02) = ~33 créditos.

@@ -1,0 +1,13 @@
+Ranking 02 → SB ES «Jefe humilla» (19/10/2026)
+Entrega: ..\ENTREGA\SB-ES_RANKING02_JEFE-HUMILLA.mp4 (83,5 s, 720x1280, 30 fps, 27,3 MB, -14,8 LUFS, cor bt601/tv fixa smpte170m) + _texto-anuncio.txt
+Remontar sem pagar: python voz.py -> python montar.py -> sh encode_final.sh -> revisar_ad.py (rev\) + python rev_ocr.py <mp4>
+Vozes (tts.py, rodar com cwd = kit-edicao-criativos): patrão Eduardo JjHBC66wF58p4ogebCNA (eleven_v3 [furious][shouting], atempo 1,08),
+  mulher Carolina cIBxLwfshLYhRB9lCXEg, Juan clone BskzYZ6zvapoZ3mBu93C (registradas em SB-ES_PADRE-CAPTURADO\_vozes.json). Conta no limite de 160 vozes: só vozes já na conta.
+Imagens (gpt-image-2.5-sunburst 9:16, flow ElevenLabs W8qdyhKInweY4twvhLXA): avatar\jm_a.png (Juan no cenário do padre julio, limpo com LaMa em avatar\cena_padre_limpa.png),
+  mulher\m_a.png (selfie nova nítida a partir do quadro 34,27 s). HeyGen Avatar IV 720p medium: mulher\M.mp4, avatar\A.mp4 (J06-J09), avatar\B.mp4 (J10-J13). IDs em heygen_jobs.txt.
+Patrão: lipsync HeyGen speed e veed-lipsync devolveram a boca intacta (rosto de perfil não detectado) -> briga entra com o take original (boca PT) sob a voz ES. Revisão manual.
+Legenda PT da briga coberta por caixa opaca 92-628 x 692-794 (OCR 10 fps limpo); faixa vermelha ES 58-662 x 146-330 por cima da PT. Plano aberto sem legenda (jump cuts w1/w2/w3).
+Selfie: «Sí, esto me pasó a mí» fica sobre o plano aberto (o avatar sorria com dentes nesse trecho); selfie começa no «Pero»; jump cuts com zoom 1,0/1,08 nas pausas.
+B-rolls originais (broll\<nome>\limpo, lama_seg.py, faixa 680-800), sem os quadros de dissolve. Prints de WhatsApp ES em wa\ (nomes inventados, sem telefone).
+Trilha: ambiente original (demucs no_vocals) na briga, som original no plano aberto, tensão (VIDEO 04) da selfie até «Por eso la estoy rezando», esperança até o fim, -32 LUFS.
+Falso alarme do revisar_ad: «quadro solto 44,20/44,37» = glitch intencional do «¡Alto!».

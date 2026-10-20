@@ -1,0 +1,31 @@
+REVISÃO: YARA-BF_H2_bbywow.mp4
+duração 43.83s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.0 MB
+decodificação: OK
+pts do áudio: 2056 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 23 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 640-693, x 531-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\volume\_revisao\YARA-BF_H2_bbywow_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.12 Paras dos y te llevas los tres.
+   2.12-  5.80 Llévate los tres ya ya muy por debajo del precio del mercado.
+   5.80- 10.52 Este es Yara, dulce, cremoso y muy femenino.
+  10.52- 13.76 Porquidia, mandarina y un fondo de vainilla y almiscle.
+  13.76- 15.32 Perfecto para el día a día.
+  15.32- 19.96 Yara mullo, floral, luminoso y elegante.
+  19.96- 23.72 Casmín y durazno, con un fondo cálido de ámbar y caramelo.
+  23.72- 25.08 Ideal para una cita.
+  25.08- 29.00 Yara elixir, el más intenso de los tres.
+  29.00- 33.00 Frutilla, grosella negra, caramelo y vainilla.
+  33.00- 36.00 Para la noche, cuando quieres que se note que llegaste.
+  36.00- 38.20 Pagas dos y te llevas los tres.
+  38.20- 41.40 Pagas al recibir y el envío es gratis.
+  41.40- 43.80 Pied el puyo antes que se acabe.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

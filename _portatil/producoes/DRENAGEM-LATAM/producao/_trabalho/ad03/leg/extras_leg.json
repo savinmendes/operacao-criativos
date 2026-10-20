@@ -1,0 +1,82 @@
+[
+ {
+  "clipe": "leg/L01.mp4",
+  "inicio": 84.7,
+  "quadros": 15
+ },
+ {
+  "clipe": "leg/L02.mp4",
+  "inicio": 98.9,
+  "quadros": 5
+ },
+ {
+  "clipe": "leg/L03.mp4",
+  "inicio": 113.2667,
+  "quadros": 3
+ },
+ {
+  "clipe": "leg/L04.mp4",
+  "inicio": 159.2667,
+  "quadros": 12
+ },
+ {
+  "clipe": "leg/L05.mp4",
+  "inicio": 199.0667,
+  "quadros": 18
+ },
+ {
+  "clipe": "leg/L06.mp4",
+  "inicio": 252.3333,
+  "quadros": 9
+ },
+ {
+  "clipe": "leg/L07.mp4",
+  "inicio": 269.4,
+  "quadros": 37
+ },
+ {
+  "clipe": "leg/L08.mp4",
+  "inicio": 322.3,
+  "quadros": 19
+ },
+ {
+  "clipe": "leg/L09.mp4",
+  "inicio": 370.0667,
+  "quadros": 18
+ },
+ {
+  "clipe": "leg/L10.mp4",
+  "inicio": 392.5333,
+  "quadros": 28
+ },
+ {
+  "clipe": "leg/L11.mp4",
+  "inicio": 531.2333,
+  "quadros": 9
+ },
+ {
+  "clipe": "leg/L12.mp4",
+  "inicio": 611.6,
+  "quadros": 10
+ },
+ {
+  "clipe": "leg/L13.mp4",
+  "inicio": 640.5,
+  "quadros": 11
+ },
+ {
+  "clipe": "leg/L14.mp4",
+  "inicio": 439.5333,
+  "quadros": 30
+ },
+ {
+  "clipe": "leg/L15.mp4",
+  "inicio": 578.6,
+  "quadros": 25
+ },
+ {
+  "clipe": "leg/L16.mp4",
+  "inicio": 138.3333,
+  "quadros": 2
+ }
+]

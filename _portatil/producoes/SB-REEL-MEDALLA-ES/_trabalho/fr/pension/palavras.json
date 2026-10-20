@@ -1,0 +1,331 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.058,
+  "fim": 0.174,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "passé",
+  "ini": 0.209,
+  "fim": 0.453,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "presque",
+  "ini": 0.499,
+  "fim": 0.859,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "six",
+  "ini": 0.917,
+  "fim": 1.068,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "mois",
+  "ini": 1.091,
+  "fim": 1.335,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "sans",
+  "ini": 1.393,
+  "fim": 1.556,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 1.614,
+  "fim": 1.66,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "seul",
+  "ini": 1.718,
+  "fim": 1.869,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "client.",
+  "ini": 1.927,
+  "fim": 2.403,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "La",
+  "ini": 2.734,
+  "fim": 2.839,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "maison",
+  "ini": 2.897,
+  "fim": 3.129,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 3.176,
+  "fim": 3.257,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "j'ai",
+  "ini": 3.292,
+  "fim": 3.396,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "construite",
+  "ini": 3.443,
+  "fim": 3.861,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "avec",
+  "ini": 3.884,
+  "fim": 4.046,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "mon",
+  "ini": 4.104,
+  "fim": 4.197,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "mari",
+  "ini": 4.232,
+  "fim": 4.522,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "tombait",
+  "ini": 4.592,
+  "fim": 4.906,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "en",
+  "ini": 4.94,
+  "fim": 4.987,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "ruine.",
+  "ini": 5.033,
+  "fim": 5.544,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "J'avais",
+  "ini": 5.886,
+  "fim": 6.165,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "l'impression",
+  "ini": 6.188,
+  "fim": 6.664,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 6.711,
+  "fim": 6.78,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "lui",
+  "ini": 6.827,
+  "fim": 6.92,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "faire",
+  "ini": 6.966,
+  "fim": 7.152,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "défaut.",
+  "ini": 7.187,
+  "fim": 7.686,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Jusqu'au",
+  "ini": 8.005,
+  "fim": 8.376,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "jour",
+  "ini": 8.423,
+  "fim": 8.702,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "où",
+  "ini": 8.748,
+  "fim": 8.887,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 8.945,
+  "fim": 9.003,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "prêtre",
+  "ini": 9.061,
+  "fim": 9.375,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 9.433,
+  "fim": 9.514,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "expliqué",
+  "ini": 9.572,
+  "fim": 9.99,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "quelque",
+  "ini": 10.037,
+  "fim": 10.304,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "chose",
+  "ini": 10.35,
+  "fim": 10.71,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 10.768,
+  "fim": 10.896,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne",
+  "ini": 10.942,
+  "fim": 11.337,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 11.372,
+  "fim": 11.441,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'avait",
+  "ini": 11.5,
+  "fim": 11.732,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "jamais",
+  "ini": 11.778,
+  "fim": 12.08,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "dit",
+  "ini": 12.103,
+  "fim": 12.289,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "sur",
+  "ini": 12.359,
+  "fim": 12.544,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 12.579,
+  "fim": 12.649,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "médaille",
+  "ini": 12.695,
+  "fim": 13.02,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 13.044,
+  "fim": 13.125,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "saint",
+  "ini": 13.183,
+  "fim": 13.334,
+  "personagem": "persona",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benoît.",
+  "ini": 13.357,
+  "fim": 13.787,
+  "personagem": "persona",
+  "parte": "selfie"
+ }
+]

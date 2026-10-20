@@ -1,0 +1,446 @@
+[
+ {
+  "texto": "Protectyour family",
+  "ini": 0.0,
+  "fim": 6.0,
+  "caixa": [
+   129,
+   374,
+   587,
+   419
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "from 99%ofgerms",
+  "ini": 0.0,
+  "fim": 6.0,
+  "caixa": [
+   119,
+   424,
+   605,
+   475
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "with this one item",
+  "ini": 0.0,
+  "fim": 6.0,
+  "caixa": [
+   148,
+   479,
+   577,
+   525
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Protectyour",
+  "ini": 0.0,
+  "fim": 1.0,
+  "caixa": [
+   227,
+   974,
+   489,
+   1024
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "99% of germs",
+  "ini": 1.0,
+  "fim": 3.0,
+  "caixa": [
+   216,
+   968,
+   507,
+   1027
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "H20O X5 Steam Cleaner",
+  "ini": 3.0,
+  "fim": 4.0,
+  "caixa": [
+   130,
+   972,
+   595,
+   1019
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "H2O X5 Steam Cleaner",
+  "ini": 4.0,
+  "fim": 5.0,
+  "caixa": [
+   130,
+   973,
+   591,
+   1018
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "easy.",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   308,
+   978,
+   414,
+   1027
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20X5",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   657,
+   663,
+   691,
+   729
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "Use it on",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   265,
+   971,
+   453,
+   1023
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "IMPORTANT",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   417,
+   529,
+   548,
+   600
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "counters,",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   265,
+   977,
+   456,
+   1023
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "110",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   249,
+   1225,
+   307,
+   1271
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "carpets.",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   279,
+   977,
+   442,
+   1024
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "SXOZHE",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   291,
+   427,
+   389,
+   457
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "gets spotless",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   226,
+   973,
+   494,
+   1025
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "in minutes.",
+  "ini": 10.0,
+  "fim": 11.0,
+  "caixa": [
+   248,
+   975,
+   474,
+   1020
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "SNOEM",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   382,
+   747,
+   476,
+   790
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "No chemicals.",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   221,
+   975,
+   496,
+   1018
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "around kids",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   237,
+   971,
+   483,
+   1020
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H2O X5Steam Cleaner",
+  "ini": 13.0,
+  "fim": 19.0,
+  "caixa": [
+   76,
+   368,
+   646,
+   420
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "H20X5",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   309,
+   1175,
+   418,
+   1267
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "20X5",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   273,
+   0,
+   342,
+   135
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "5",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   431,
+   191,
+   451,
+   206
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Steam",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   429,
+   207,
+   481,
+   220
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "Cleaning",
+  "ini": 13.0,
+  "fim": 15.0,
+  "caixa": [
+   428,
+   219,
+   498,
+   232
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "BWYO",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   503,
+   296,
+   526,
+   306
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and super",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   257,
+   982,
+   465,
+   1021
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "5in1",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   414,
+   186,
+   456,
+   203
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "oystem",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   415,
+   227,
+   465,
+   237
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "quick to use",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   236,
+   974,
+   487,
+   1023
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "device",
+  "ini": 15.0,
+  "fim": 16.0,
+  "caixa": [
+   292,
+   971,
+   431,
+   1022
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "1/0",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   313,
+   547,
+   344,
+   566
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "yourhome",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   245,
+   975,
+   475,
+   1024
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "TMATAOqMI",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   274,
+   1039,
+   382,
+   1067
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "truly clean,",
+  "ini": 17.0,
+  "fim": 18.0,
+  "caixa": [
+   244,
+   968,
+   475,
+   1028
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "stressfree",
+  "ini": 18.0,
+  "fim": 19.0,
+  "caixa": [
+   256,
+   975,
+   465,
+   1018
+  ],
+  "marca_ou_alerta": false
+ }
+]

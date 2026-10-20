@@ -1,0 +1,30 @@
+REVISÃO: B0 - ORILLA-1080.mp4
+duração 36.97s | 1080x1920 | 30/1 fps | áudio: sim | 25.2 MB
+decodificação: OK
+pts do áudio: 1733 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 32.72-36.94
+cortes de cena: 9 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\B\revisao\B0 - ORILLA-1080_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  1.48 Ya ni se venía la orilla.
+   1.48-  2.48 Sigue viendo.
+   2.48-  5.46 Mira, dos baterías, ruedas y cuatro Hueces.
+   5.46-  9.12 Las ruedas hacen más ligero el trabajo, una pasada y mira la diferencia.
+   9.12- 14.44 El cabezo también se ajusta y deja la orida bien pareja si valió la pena.
+  14.44- 16.34 Pícale aquí abajo.
+  16.34- 18.74 Ya ni se venía la orilla, sigue viendo.
+  18.74- 21.94 Mira, dos baterías, ruedas y cuatro Cavesores.
+  21.94- 25.64 Las ruedas hacen más ligero el trabajo una pasada y mira la diferencia.
+  25.64- 32.24 El cabezo también se ajusta y deja la orida bien pareja.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 4.25s no fim (a partir de 32.72s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 32.2s; vídeo vai até 37.0s
+1 problema(s)

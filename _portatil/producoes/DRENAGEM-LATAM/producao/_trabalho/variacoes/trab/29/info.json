@@ -1,0 +1,48 @@
+{
+ "var": "29",
+ "gancho": "G9",
+ "corpo": "30",
+ "genero": "F",
+ "texto": "¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya probaste de todo. Escucha esta historia.",
+ "Hd": 7.0,
+ "fala_s": 6.59,
+ "tomadas": [
+  {
+   "src": "30",
+   "ini": 8.225,
+   "dur": 2.1
+  },
+  {
+   "src": "30",
+   "ini": 15.025,
+   "dur": 2.1666666666666665
+  },
+  {
+   "src": "30",
+   "ini": 19.975,
+   "dur": 1.6666666666666667
+  },
+  {
+   "src": "30",
+   "ini": 11.025,
+   "dur": 1.0666666666666667
+  }
+ ],
+ "corte": 24.633,
+ "frases": [
+  [
+   "¿Por qué te dejamos pagar recién cuando lo recibes en tu casa?",
+   0.035
+  ],
+  [
+   "Porque sabemos que ya probaste de todo.",
+   3.135
+  ],
+  [
+   "Escucha esta historia.",
+   5.166
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 29 - G9-PAGAS-AL-RECIBIR x AD30.mp4",
+ "seed": 206
+}

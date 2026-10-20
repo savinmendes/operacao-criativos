@@ -1,0 +1,9 @@
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad20\parte2.mp4 19.36s
+aviso: 4.9 min não cabe em 30 MB com qualidade; usando 900 kbps (~37 MB)
+arquivo : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 20 - LYMPHORIA-PANZA-HOMBRE-ES-LATAM.mp4
+duração : 296.47s | 720x1280 | áudio: sim | 35.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\AD 20 - LYMPHORIA-PANZA-HOMBRE-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 293.13s
+montagem rápida: 39s para 296s de vídeo (0.13x)

@@ -1,0 +1,13 @@
+﻿ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad14\flora2\t6_final.mp4 | 38 quadros | editado tinha 81 @ 24 fps | saltos>2: 0
+t6_final.mp4: 38 quadros a partir de 382.167s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad14\parte1_remendo.mp4 | 12757 quadros, 38 trocados
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad14\parte2.mp4 24.28s
+aviso: 7.5 min não cabe em 30 MB com qualidade; usando 900 kbps (~56 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 14 - LYMPHORIA-VIAJE-ES-LATAM.mp4
+duração : 449.40s | 720x1280 | áudio: sim | 53.2 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\AD 14 - LYMPHORIA-VIAJE-ES-LATAM_frames.jpg
+RESULTADO: OK
+CTA em 445.41s
+montagem rápida: 68s para 449s de vídeo (0.15x)
+PRONTO AD 14 - LYMPHORIA-VIAJE-ES-LATAM.mp4

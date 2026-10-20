@@ -1,0 +1,32 @@
+REVISÃO: AD 15 - ORACION-REGALO-ES-LATAM.mp4
+duração 18.00s | 720x1280 | 30/1 fps | áudio: sim | 11.9 MB
+decodificação: OK
+pts do áudio: 845 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 761-1183, x 233-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\ad15\_cor_rev\antes\AD 15 - ORACION-REGALO-ES-LATAM_revisao.jpg
+
+=== lipsync ===
+LIPSYNC: full_s1.mp4 (141 quadros, rosto em 100%, rosto 252,200,242,303 [único rosto])
+  boca x original: dif. boca 17.70 | dif. controle 12.10 | mudou em 8% dos quadros | corr. abertura saída x original -0.03
+  pausas da voz nova: índice de pausa 0.04 (6 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.42 (atraso 0 ms) | corr. original 0.28
+AVISO: aviso: pixels da boca quase iguais aos do original (8% dos quadros), mas a abertura não segue a do original (corr. -0.03); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.04)
+LIPSYNC: full_s2.mp4 (263 quadros, rosto em 100%, rosto 251,204,243,298 [único rosto])
+  boca x original: dif. boca 16.67 | dif. controle 12.14 | mudou em 0% dos quadros | corr. abertura saída x original 0.05
+  pausas da voz nova: índice de pausa 0.66 (10 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.14 (atraso -67 ms) | corr. original 0.10
+AVISO: aviso: pixels da boca quase iguais aos do original (0% dos quadros), mas a abertura não segue a do original (corr. 0.05); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.66); aviso: índice de pausa acima de 0.6 com só 10 quadros de pausa; confira a boca nas pausas da voz na folha de contato
+LIPSYNC: full_s3.mp4 (125 quadros, rosto em 100%, rosto 314,226,112,130 [forçado (--rosto)])
+  boca x original: dif. boca 18.79 | dif. controle 11.83 | mudou em 14% dos quadros | corr. abertura saída x original -0.23
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.35 (atraso -100 ms) | corr. original 0.34
+AVISO: aviso: pixels da boca quase iguais aos do original (14% dos quadros), mas a abertura não segue a do original (corr. -0.23); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.35 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+índice de pausa do conjunto (3 trechos): 0.40 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync full_s1.mp4: aviso: pixels da boca quase iguais aos do original (8% dos quadros), mas a abertura não segue a do original (corr. -0.03); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.04)
+aviso: lipsync full_s2.mp4: aviso: pixels da boca quase iguais aos do original (0% dos quadros), mas a abertura não segue a do original (corr. 0.05); barba/rosto pequeno? confira a boca na folha; fecha nas pausas da voz nova (índice de pausa 0.66); aviso: índice de pausa acima de 0.6 com só 10 quadros de pausa; confira a boca nas pausas da voz na folha de contato
+aviso: lipsync full_s3.mp4: aviso: pixels da boca quase iguais aos do original (14% dos quadros), mas a abertura não segue a do original (corr. -0.23); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.35 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

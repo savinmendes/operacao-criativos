@@ -1,0 +1,38 @@
+NARRATION — 06_SB-FR_CAMPESINO_COMPLETA.mp4 (série COMPLÈTE, 01:05)
+Temps = début de chaque phrase dans la vidéo finale.
+Personnages fictifs : AGRICULTEUR et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique propre : tension grave (accroche et prière) -> thème d'espoir à partir de la scène de l'« après ».
+Voix : agriculteur HenryD (59dhv4BKONM60oDSKECM) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan large : lui à genoux au milieu de la plantation sèche, terre craquelée, au coucher du soleil)
+[00:00] AGRICULTEUR (voix ferme, en off) : J'ai prié à genoux dans ma terre desséchée…
+[00:02] AGRICULTEUR (voix ferme, en off) : et voilà ce qui s'est passé.
+[00:05] AGRICULTEUR (prière chuchotée) : Ô glorieux saint Benoît…
+[00:07] AGRICULTEUR (prière chuchotée) : regarde ma terre.
+[00:08] (l'après, sans voix)
+
+BLOC 2 — CONNEXION
+[00:11] AGRICULTEUR (en off ; lui debout près de la clôture, regardant le champ sec, le chapeau à la main) : J'ai passé des mois à regarder ma terre se dessécher.
+[00:14] AGRICULTEUR (selfie) : La terre de mon père et de mon grand-père…
+[00:17] AGRICULTEUR (selfie) : et j'allais la perdre.
+[00:18] AGRICULTEUR (selfie) : Je me sentais la honte de ma famille.
+[00:21] AGRICULTEUR (selfie) : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET FUTUR
+[00:30] PRÊTRE : Des millions de personnes portent cette médaille…
+[00:32] PRÊTRE : et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:36] PRÊTRE : Ce n'est pas un manque de foi.
+[00:38] PRÊTRE : C'est que personne ne leur a appris la bonne façon de la prier.
+[00:41] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va…
+[00:46] PRÊTRE : et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:51] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[01:00] PRÊTRE : Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.
+
+TEXTE DE L'ANNONCE
+Titre : Sa terre se desséchait sous ses yeux
+Texte principal : Des mois à voir sa terre se dessécher. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre les explique, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous.
+Bouton : En savoir plus (LEARN_MORE)

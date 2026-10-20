@@ -1,0 +1,12 @@
+(reaproveitado) v2_b1.mp4
+>> -v error -y -i v2_b1.mp4
+>> montar_ad.py receita_final_v2.json --classico
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-LATAM v2.mp4
+duração : 127.98s | 1080x1920 | áudio: sim | 25.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 124.79s
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 04 - LYMPHORIA-ESQUELETO-CERVEZA-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 3448, "psnr_min": 25.54, "psnr_medio": 38.67, "px40_max": 56252, "px40_medio": 377.91, "quadro_px40_max": 46, "t_px40_max": 1.53}, "parte1_fora_dos_takes": {"quadros": 2840, "px40_max": 9, "t_px40_max": 32.33, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 388, "px40_medio": 492.2}}
+{"quadros": 388, "psnr_medio": 36.83, "px40_medio": 782.9, "px40_max": 13164}

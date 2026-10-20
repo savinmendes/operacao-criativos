@@ -1,0 +1,25 @@
+﻿>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\flora\t4.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\flora\t4_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\flora\t4_final.mp4 | 69 quadros | editado tinha 81 @ 24 fps | saltos>2: 2
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\base.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b1.mp4
+t1_final.mp4: 75 quadros a partir de 375.33s
+t2_final.mp4: 41 quadros a partir de 383.53s
+t3_final.mp4: 45 quadros a partir de 413.17s
+t4_final.mp4: 69 quadros a partir de 285.3s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b1.mp4 | 12486 quadros, 230 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b1.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\p1.mp3
+aviso: fala nova 1.39s para 1.05s exigiria 1.33x; limitei a 1.25x
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b2.mp4 | trecho 284.55-285.60s trocado (velocidade 1.25x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b2.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\p2.mp3
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\b3.mp4 | trecho 374.25-377.95s trocado (velocidade 0.89x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad04\render_parte2.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\narr_fim.mp3 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\parte2.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\parte2.mp4 21.50s
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\montar_ad.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad10\receita_final.json
+aviso: 7.3 min não cabe em 30 MB com qualidade; usando 900 kbps (~55 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 10 - LINFARELE-MATRIMONIO-IT.mp4
+duração : 437.70s | 720x1280 | áudio: sim | 51.8 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 10 - LINFARELE-MATRIMONIO-IT_frames.jpg
+RESULTADO: OK
+CTA em 433.13s
+montagem rápida: 368s para 438s de vídeo (0.84x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 10 - LINFARELE-MATRIMONIO-IT.mp4

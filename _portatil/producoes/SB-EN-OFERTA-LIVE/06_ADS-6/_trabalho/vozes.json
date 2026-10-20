@@ -1,0 +1,3158 @@
+[
+{
+"id": "CwhRBWXzGAHq8TQ4Fs17",
+"name": "Roger - Laid-Back, Casual, Resonant",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "Easy going and perfect for casual conversations."
+},
+{
+"id": "EXAVITQu4vr4xnSDxMaL",
+"name": "Sarah - Mature, Reassuring, Confident",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "professional",
+"language": "en",
+"use_case": "entertainment_tv",
+"accent": "american"
+},
+"desc": "Young adult woman with a confident and warm, mature quality and a reassuring, pr"
+},
+{
+"id": "FGY2WhTYpPnrIDTdsKH5",
+"name": "Laura - Enthusiast, Quirky Attitude",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "sassy",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+},
+"desc": "This young adult female voice delivers sunny enthusiasm with a quirky attitude."
+},
+{
+"id": "IKne3meq5aSn9XLyUdCD",
+"name": "Charlie - Deep, Confident, Energetic",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "hyped",
+"language": "en",
+"use_case": "conversational",
+"accent": "australian"
+},
+"desc": "A young Australian male with a confident and energetic voice."
+},
+{
+"id": "JBFqnCBsd6RMkjVDRZzb",
+"name": "George - Warm, Captivating Storyteller",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "mature",
+"language": "en",
+"use_case": "narrative_story",
+"accent": "british"
+},
+"desc": "Warm resonance that instantly captivates listeners."
+},
+{
+"id": "N2lVS1w4EtoT3dr4eOWO",
+"name": "Callum - Husky Trickster",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"language": "en",
+"use_case": "characters_animation",
+"accent": "american"
+},
+"desc": "Deceptively gravelly, yet unsettling edge."
+},
+{
+"id": "SAz9YHcvj6GT2YYXdXww",
+"name": "River - Relaxed, Neutral, Informative",
+"cat": "premade",
+"labels": {
+"gender": "neutral",
+"age": "middle_aged",
+"descriptive": "calm",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "A relaxed, neutral voice ready for narrations or conversational projects."
+},
+{
+"id": "SOYHLrjzK2X1ezoPC6cr",
+"name": "Harry - Fierce Warrior",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "rough",
+"language": "en",
+"use_case": "characters_animation",
+"accent": "american"
+},
+"desc": "An animated warrior ready to charge forward."
+},
+{
+"id": "TX3LPaxmHKxFdv7VOQHJ",
+"name": "Liam - Energetic, Social Media Creator",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "confident",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+},
+"desc": "A young adult with energy and warmth - suitable for reels and shorts."
+},
+{
+"id": "Xb7hH8MSUJpSbSDYk0k2",
+"name": "Alice - Clear, Engaging Educator",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "professional",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+},
+"desc": "Clear and engaging, friendly woman with a British accent suitable for e-learning"
+},
+{
+"id": "XrExE9yKIg1WjnnlVkGX",
+"name": "Matilda - Knowledgable, Professional",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "upbeat",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "american"
+},
+"desc": "A professional woman with a pleasing alto pitch. Suitable for many use cases."
+},
+{
+"id": "bIHbv24MWmeRgasZH58o",
+"name": "Will - Relaxed Optimist",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "chill",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "Conversational and laid back."
+},
+{
+"id": "cgSgspJ2msm6clMCkdW9",
+"name": "Jessica - Playful, Bright, Warm",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "cute",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "Young and popular, this playful American female voice is perfect for trendy cont"
+},
+{
+"id": "cjVigY5qzO86Huf0OWal",
+"name": "Eric - Smooth, Trustworthy",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "A smooth tenor pitch from a man in his 40s - perfect for agentic use cases."
+},
+{
+"id": "hpp4J3VqNfWAUOO0d1Us",
+"name": "Bella - Professional, Bright, Warm",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "professional",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "american"
+},
+"desc": "This voice is warm, bright, and professional, characterized by a Standard Americ"
+},
+{
+"id": "iP95p4xoKVk53GoZ742B",
+"name": "Chris - Charming, Down-to-Earth",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "casual",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+},
+"desc": "Natural and real, this down-to-earth voice is great across many use-cases."
+},
+{
+"id": "nPczCjzI2devNBz1zQrb",
+"name": "Brian - Deep, Resonant and Comforting",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+},
+"desc": "Middle-aged man with a resonant and comforting tone. Great for narrations and ad"
+},
+{
+"id": "onwK4e9ZLuTAKqWW03F9",
+"name": "Daniel - Steady Broadcaster",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "formal",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+},
+"desc": "A strong voice perfect for delivering a professional broadcast or news story."
+},
+{
+"id": "pFZP5JQG7iQjIQuC4Bku",
+"name": "Lily - Velvety Actress",
+"cat": "premade",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "confident",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+},
+"desc": "Velvety British female voice delivers news and narrations with warmth and clarit"
+},
+{
+"id": "pNInz6obpgDQGcFmaJgB",
+"name": "Adam - Dominant, Firm",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+},
+"desc": "A bright tenor pitch that immediately cuts through. The delivery is brash and op"
+},
+{
+"id": "pqHfZKP75CvOlQylNhV4",
+"name": "Bill - Wise, Mature, Balanced",
+"cat": "premade",
+"labels": {
+"gender": "male",
+"age": "old",
+"descriptive": "crisp",
+"language": "en",
+"use_case": "advertisement",
+"accent": "american"
+},
+"desc": "Friendly and comforting voice ready to narrate your stories."
+},
+{
+"id": "l1zE9xgNpUTaQCZzpNJa",
+"name": "Alberto Rodríguez - Serious, Narrative",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "latin american",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "Alberto Rodriguez - Adult male voice, serious tone, ideal for narrations."
+},
+{
+"id": "3vVC1vE6mtyyjMC3YkRN",
+"name": "AD07 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "L241G4ojJ3IUGejgD27W",
+"name": "85+ TUDO DOI",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "V3r7h5Mp5G4iG0M1hQMS",
+"name": "AD19 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "XiWwL7ZBc4Jmx3qAX9gQ",
+"name": "Alex - expressive narrator",
+"cat": "generated",
+"labels": {
+"age": "young",
+"descriptive": "intense",
+"gender": "male",
+"use_case": "narrative_story",
+"accent": "american"
+},
+"desc": "Young american man. Is a strong and expressive narrator."
+},
+{
+"id": "tnIDK75HyzryRabWonpL",
+"name": " DONA NEUSA 75 SP",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "oC03u0lZtYoBEuEwq7B0",
+"name": "AD02 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "WovuHMgaNy2r7dM7STN7",
+"name": "AD09 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "DdDws00ridJ4DntZhKlI",
+"name": "30 Reportagem",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "jKbwZXxLCZofPlbZNKNw",
+"name": "AD13 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "i4Kar2uamCWyas8TAu31",
+"name": "Adán - Calm, Mystery",
+"cat": "professional",
+"labels": {
+"age": "young",
+"use_case": "narrative_story",
+"language": "es",
+"descriptive": "calm",
+"accent": "latin american",
+"gender": "male"
+},
+"desc": "Young male voice with a warm, natural tone. It conveys depth and authenticity wi"
+},
+{
+"id": "6xnxeygeMfFgAqKpWy1A",
+"name": "Aiden - Deep, Breathy, Seductive",
+"cat": "professional",
+"labels": {
+"age": "young",
+"use_case": "narrative_story",
+"language": "es",
+"descriptive": "gentle",
+"accent": "latin american",
+"gender": "male"
+},
+"desc": "A calm, seductive K-drama husbando with a warm, intimate tone."
+},
+{
+"id": "RmDpU4kAq4V0Azz9b52u",
+"name": "AD14 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "sKgg4MPUDBy69X7iv3fA",
+"name": "Alejandro Duran - Warm, Deep and Hoarse",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "professional",
+"language": "es",
+"gender": "male",
+"accent": "latin american",
+"use_case": "narrative_story"
+},
+"desc": "A deep middle age Latin-American male voice with a slight hoarseness in his thro"
+},
+{
+"id": "HVD2dHblkFaLh5Hy0HUJ",
+"name": "Albeiro Sandoval",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"gender": "male",
+"age": "middle_aged",
+"accent": "colombian",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "A genuine, authentic voice through and through."
+},
+{
+"id": "vWXfbG8jJ2AiiYxxj3Ax",
+"name": "AD11 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "CAZxQxqYY9vEdQr6mE53",
+"name": "Audio rep Carticuri",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "6Baa2TPYKxCms9zp5IoX",
+"name": "Audio VSL INFO COSTAS",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "gP52hjM48hyNoVCbizxO",
+"name": "Alexandre - Calm, Warm & Authentic",
+"cat": "professional",
+"labels": {
+"language": "fr",
+"gender": "male",
+"age": "middle_aged",
+"accent": "parisian",
+"use_case": "conversational",
+"descriptive": "calm"
+},
+"desc": "A calm, warm, and natural voice designed for meaningful conversations. Its relax"
+},
+{
+"id": "4ll3PNf6Nng2ekCzxIL4",
+"name": "Amelia - smooth, sweet, captivating narrator",
+"cat": "generated",
+"labels": {
+"accent": "british",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "formal"
+},
+"desc": "Middle-Aged british woman. A smooth formal voice. Great for general narration."
+},
+{
+"id": "cDHqwfqpNJIPMQs0M4c3",
+"name": "BARA",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "N2HSRirbsHTZ8DE2WqjB",
+"name": "Arturo Casares - Smooth, Rich and Tender",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "latin american",
+"age": "old",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "mature"
+},
+"desc": "Arturo Casares - Voice of an old man, perfect for interesting narratives full of"
+},
+{
+"id": "PHNjiQZ95SnMQ7rDQsXz",
+"name": "Aurelio - Gentle and Tender",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "mexican",
+"age": "old",
+"gender": "male",
+"use_case": "informative_educational",
+"descriptive": "calm"
+},
+"desc": "A soft-spoken, mature Mexican male voice with a slightly higher pitch that lends"
+},
+{
+"id": "prblQcKOdF08ozhxP2mk",
+"name": "Andrea Rabbit",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "female",
+"age": "middle_aged",
+"accent": "chilean",
+"use_case": "narrative_story",
+"descriptive": "calm"
+},
+"desc": "Middle-aged Warm, lovely female voice with a calm tone. Works great for Narratio"
+},
+{
+"id": "dQafQNlqLLJDepKplzjl",
+"name": "BRAULIO - Calm, Smooth, Brooding",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "latin american",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "calm"
+},
+"desc": "Rich, deep, and velvety baritone voice. Smooth and dark tone ideal for premium c"
+},
+{
+"id": "6q6UVsvekS0UjrUXFz79",
+"name": "Benedict - Premium British (RP) Male",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "british",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "informative_educational",
+"descriptive": "confident"
+},
+"desc": "Professional, academic, and scientific."
+},
+{
+"id": "D3ws14YxTqcjPaXEOehR",
+"name": "Azu – Soft Mexican Spanish Female Narrator",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "mexican",
+"age": "old",
+"gender": "female",
+"use_case": "social_media",
+"descriptive": "mature"
+},
+"desc": "Soft, clear voice, with a slight natural roughness that adds character without s"
+},
+{
+"id": "uHo8F3FY11rc2LxCwDSB",
+"name": "Chilena",
+"cat": "cloned",
+"labels": {
+"accent": "es-colombian",
+"age": "young",
+"gender": "female",
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "kPzsL2i3teMYv0FxEYQ6",
+"name": "Brittney - Social Media Voice - Fun, Youthful & Informative",
+"cat": "professional",
+"labels": {
+"age": "young",
+"descriptive": "upbeat",
+"language": "en",
+"gender": "female",
+"accent": "american",
+"use_case": "social_media"
+},
+"desc": "A young, vibrant female voice that is perfect for celebrity news, hot topics, an"
+},
+{
+"id": "aLfZD7taF67TDqarAq79",
+"name": "Carmen ED FEM",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "SmgKjOvC1aIujLWcMzqq",
+"name": "Alisson — Voz cálida y natural con acento colombiano suave",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"gender": "female",
+"age": "middle_aged",
+"accent": "colombian",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "Colombian female voice with a natural, medium pitch, neutral Latin accent, and r"
+},
+{
+"id": "9jd0hkEFS2KFCw19Rddp",
+"name": "Clel - Warm and Neural",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "geordie",
+"age": "young",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "calm"
+},
+"desc": "North East UK young female voice "
+},
+{
+"id": "Om4SAFCLA5Ecbue3cvcc",
+"name": "Consultora Yara BF",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "NEjemlRxgWmL5ZGJetsB",
+"name": "Claire - Conversationnel",
+"cat": "professional",
+"labels": {
+"language": "fr",
+"accent": "standard",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "conversational",
+"descriptive": "casual"
+},
+"desc": "A natural, warm, and clear voice with a smooth, spontaneous tone, perfectly suit"
+},
+{
+"id": "rn2VXAqQiqTMocuRpBfC",
+"name": "Coroa 56 anos Latam Botox coreano",
+"cat": "generated",
+"labels": {
+"language": "es"
+},
+"desc": "dible breathing and gentle sighs \nbetween sentences. Neutral Mexican Spanish acc"
+},
+{
+"id": "X91kq0xypSEbSMQwWKmf",
+"name": "Aurel - Super Realistic & Client Support",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "conversational",
+"language": "fr",
+"descriptive": "professional",
+"accent": "standard",
+"gender": "male"
+},
+"desc": "A highly realistic French voice, perfect for conversational agents or customer s"
+},
+{
+"id": "Tog5ke1E7OaMcpw2WCk5",
+"name": "Creuza - Recôncavo Baiano",
+"cat": "generated",
+"labels": {
+"region": "bahia",
+"gender": "female",
+"age_range": "55-60"
+},
+"desc": "A mature female voice, age 55-60, with a warm but tired timbre. Her voice carrie"
+},
+{
+"id": "oJIuRMopN0sojGjwD6rQ",
+"name": "Camila - Español chileno",
+"cat": "professional",
+"labels": {
+"descriptive": "confident",
+"accent": "chilean",
+"age": "young",
+"gender": "female",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "Native Chilean Spanish for customer service and sales.\n"
+},
+{
+"id": "cIBxLwfshLYhRB9lCXEg",
+"name": "Carolina - Conversational, Balanced",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "latin american",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "professional"
+},
+"desc": "Natural and balanced female vocals with a warm, conversational, and energetic to"
+},
+{
+"id": "QuOMQsI7mfJXSCLhyVNd",
+"name": "Coroa Dorovil BR",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "vq479zipNPD44hpCdbIh",
+"name": "Atma - Warm, Expressive & Versatile",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "calm",
+"language": "fr",
+"gender": "female",
+"accent": "parisian",
+"use_case": "narrative_story"
+},
+"desc": "Native French female voice, warm and natural with a wide expressive range. It mo"
+},
+{
+"id": "FysPGPl8HTOjTqXShYSR",
+"name": "Creuza, 58 — Recôncavo Baiano",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "A mature female voice, age 70-80"
+},
+{
+"id": "8oRSDHKWkgA1zohzAAHn",
+"name": "Criativo 05",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "1CeqBeXMOqCleeQjfYfO",
+"name": "Cristina - Premium Spanish Female",
+"cat": "professional",
+"labels": {
+"descriptive": "professional",
+"accent": "peninsular",
+"age": "young",
+"gender": "female",
+"use_case": "advertisement",
+"language": "es"
+},
+"desc": "A premium Spanish female voice with a warm, clear, expressive, and versatile ton"
+},
+{
+"id": "FgZfF59PvtYIb1ZcysY1",
+"name": "DEWALT AD21 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "Hv5w94RZ3rshZu6xuFBE",
+"name": "Cristina - Customer Service",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "female",
+"age": "middle_aged",
+"accent": "latin american",
+"use_case": "conversational",
+"descriptive": "pleasant"
+},
+"desc": "A woman with a pleasant, warm voice, clear articulation, and a calm, friendly to"
+},
+{
+"id": "3fxbs2pB9bs8S6Z1N38A",
+"name": "Céline | Chaleureuse et immersive",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "confident",
+"language": "fr",
+"use_case": "narrative_story",
+"accent": "standard",
+"gender": "female"
+},
+"desc": "A warm and immersive French female voice, specializing in premium narration, aud"
+},
+{
+"id": "jr8CPks3Dkh7lJ7aRmnV",
+"name": "DANI UGC POADCAST SB",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "aGSKUtsBUESN8lwpt9Zd",
+"name": "DEWALT AD37 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "auTAgxuKRGwTsbs8ZkuN",
+"name": "Alexandre - Narration",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "confident",
+"language": "pt",
+"use_case": "narrative_story",
+"accent": "brazilian",
+"gender": "male"
+},
+"desc": "Deep and calm, perfect for stories."
+},
+{
+"id": "IlvZL1ylCUSyCP1EAiAM",
+"name": "DEWALT AD41 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "D1ohFwrSGA1WWSAB7HqF",
+"name": "DONA IRACEMA — 74 ANOS  MG",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "Y4VgKTL3wogVll4ptg9R",
+"name": "DONA LURDES 74 - BAIXADA FLUMINENSE",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "qKr1b0Suz42haFlTfgnQ",
+"name": "DONA IRACEMA — 74 MG T",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "tfFP4rfamffIqrVeBdL6",
+"name": "DRENAGEM AD01 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "K30xlzBx7r8q6rKkLEyi",
+"name": "DRENAGEM AD18 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "BCCHRwYb332ahRN0gT7H",
+"name": "DRENAGEM AD05 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "u2nMDMb5MLuxTjynCQJ7",
+"name": "DRENAGEM AD20 entrenador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "6Gr4AVmTax1pMJO0lHRK",
+"name": "Catalina - Español Chileno",
+"cat": "professional",
+"labels": {
+"descriptive": "professional",
+"gender": "female",
+"age": "young",
+"accent": "chilean",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "A real voice—not robotic. It connects, rather than just reciting. Ideal for cust"
+},
+{
+"id": "hjP5TDhJGEoXkmqWpdqs",
+"name": "DRENAGEM AD21 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "xYPon3lV4FsEOMk5vd1Y",
+"name": "DRENAGEM AD20 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "IUEkf483KpgC9tyWn70n",
+"name": "DRENAGEM AD25 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "BPwS5yO6aXvwg8auqNwS",
+"name": "Damián - Deep, Rich and Resonant",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "latin american",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "deep"
+},
+"desc": "Deep Spanish Narrator – A deep, resonant male voice with dark, velvety warmth an"
+},
+{
+"id": "NUAtCZSTcJFHAM1PIX5u",
+"name": "DULCEIA",
+"cat": "cloned",
+"labels": {},
+"desc": ""
+},
+{
+"id": "VhRqgQW6EDUC4kDgiuj1",
+"name": "DeWalt C2 casa (enxuto)",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "x7Q3zqDG9jz6G8aiQCio",
+"name": "DRENAGEM AD30 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "3ADZQUoqg3hWyEOlzpXW",
+"name": "David - British Professional",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "british",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "conversational",
+"language": "en"
+},
+"desc": "A calm southern British professional."
+},
+{
+"id": "5wTYWBvfkwjSTPtW7xFw",
+"name": "Dona RAIMUNDA, 66, PA",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "A06vlxk6nDfyiFCokszy",
+"name": "Dr Oftalmo Chile",
+"cat": "cloned",
+"labels": {
+"accent": "en-american",
+"age": "middle-aged",
+"gender": "male",
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "3xoDOiXdPdiRtuNouBvh",
+"name": "Doutora VSL",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "KelaCxL9RS4vBOZXXG8i",
+"name": "Dr Articuly",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "Iq9IDbsAh0XiIAKtSuSg",
+"name": "Diego - Engaging, Ads, Confident",
+"cat": "professional",
+"labels": {
+"age": "young",
+"use_case": "advertisement",
+"gender": "male",
+"descriptive": "confident",
+"accent": "latin american",
+"language": "es"
+},
+"desc": "A firm tone, impeccable articulation, and confident projection. Conveys authorit"
+},
+{
+"id": "5qBMWyZj9vdMRyfDtJd6",
+"name": "ENZIMAS UK EN 01 mulher",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "WBrVsgRJbIDJhv90lRC8",
+"name": "ENZIMAS UK EN 04 creator",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "rnyHtBhQLcSaNXnn1yy9",
+"name": "ENZIMAS UK EN 02 creator",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "lVyHshDR1NstCGJZhI0E",
+"name": "ENZIMAS UK EN 07 mulher",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "HL1TBvvvWenhFvdfljcw",
+"name": "Dr Sebastian Chile",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": "Dr Sebastian Chile"
+},
+{
+"id": "QuE2ojjpawaYQH7JLSPO",
+"name": "ENZIMAS UK EN 08 creator",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "eUAnqvLQWNX29twcYLUM",
+"name": "Dyego Noticias",
+"cat": "professional",
+"labels": {
+"descriptive": "anxious",
+"gender": "male",
+"age": "middle_aged",
+"accent": "brazilian",
+"use_case": "informative_educational",
+"language": "pt"
+},
+"desc": "\nMiddle-aged male with a constant voice, Great for news, documentaries and vario"
+},
+{
+"id": "q2XMPZ6icuVDBj7rgCxQ",
+"name": "Eleguar - Deep, Warm and Natural",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "social_media",
+"gender": "male",
+"language": "es",
+"accent": "american",
+"descriptive": "calm"
+},
+"desc": "Eleguar -  Deep Latin American Spanish - Middle aged Latin American Spanish Male"
+},
+{
+"id": "FrCDCQwye0euHmliGxP9",
+"name": "Edna - Warm, Motherly and Calm",
+"cat": "professional",
+"labels": {
+"descriptive": "pleasant",
+"accent": "brazilian",
+"age": "old",
+"gender": "female",
+"use_case": "narrative_story",
+"language": "pt"
+},
+"desc": "A senior lady speaking Brazilian Portuguese with a warm and friendly voice. "
+},
+{
+"id": "8tm9IYjg8ybDoxe8w6Rk",
+"name": "Daniela - Tender, Friendly and Youthful",
+"cat": "professional",
+"labels": {
+"descriptive": "cute",
+"gender": "female",
+"age": "young",
+"accent": "latin american",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "Daniela has a feminine, youthful, and charming voice, ideal for podcasts, advice"
+},
+{
+"id": "MHPwHxLx0nmGIb5Jnbly",
+"name": "Empress - Smoky, Breathy, and Neutral",
+"cat": "professional",
+"labels": {
+"descriptive": "deep",
+"accent": "american",
+"age": "old",
+"gender": "female",
+"use_case": "narrative_story",
+"language": "en"
+},
+"desc": "Empress J - Strong, Confident, 60-year-old Black Woman."
+},
+{
+"id": "BskzYZ6zvapoZ3mBu93C",
+"name": "GRIMORIO V2 padre",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "GJid0jgRsqjUy21Avuex",
+"name": "Emma Smartplacement",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "professional",
+"gender": "female",
+"use_case": "conversational",
+"accent": "chilean",
+"language": "es"
+},
+"desc": "Middle-aged female voice. Suitable for an AI Agent."
+},
+{
+"id": "n4GNpJP6Y2Nd09pDtetA",
+"name": "Gaby - Cute & Shy",
+"cat": "professional",
+"labels": {
+"age": "young",
+"use_case": "conversational",
+"language": "es",
+"descriptive": "cute",
+"accent": "latin american",
+"gender": "female"
+},
+"desc": "Sweet, youthful Latin American female voice with a soft, warm tone. Gentle deliv"
+},
+{
+"id": "JjHBC66wF58p4ogebCNA",
+"name": "Eduardo - Persuasive and Neutral",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "intense",
+"language": "es",
+"gender": "male",
+"accent": "latin american",
+"use_case": "advertisement"
+},
+"desc": "Eduardo - Advertising & Commercial voice in Spanish - Emotional male voice in ne"
+},
+{
+"id": "WPgqgCVa3mD38JuyODU6",
+"name": "Gabriel — Friendly Brazilian Ad Voice",
+"cat": "professional",
+"labels": {
+"language": "pt",
+"accent": "brazilian",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "advertisement",
+"descriptive": "confident"
+},
+"desc": "Warm, confident Brazilian male voice optimized for advertisement and brand conte"
+},
+{
+"id": "AXew9SdK5txhdj9zcREd",
+"name": "Ferrevolt vendedor DeWalt",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "Rl2JPHsuEWSfwCD4ZHIQ",
+"name": "El Faraon - Powerful and Mysterious",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "male",
+"age": "old",
+"accent": "latin american",
+"use_case": "narrative_story",
+"descriptive": "deep"
+},
+"desc": "El Faraon 6 - Deep, Powerful & mysterious - A deep, powerful, and mysterious mal"
+},
+{
+"id": "a0MaQpDjx7p7bZmqzFp1",
+"name": "Gaby - Young Student",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "latin american",
+"age": "young",
+"gender": "female",
+"use_case": "social_media",
+"descriptive": "neutral"
+},
+"desc": "Charming and youthful voice, perfect for engaging narrations and captivating You"
+},
+{
+"id": "hHjbwzYZW17oh0p05AKv",
+"name": "Gabriela - Spanish from Mexico Professional Voice",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "female",
+"age": "middle_aged",
+"accent": "mexican",
+"use_case": "narrative_story",
+"descriptive": "casual"
+},
+"desc": "Warm Spanish voice of a mature woman of Mexican origin, with clear intonation; w"
+},
+{
+"id": "aYQAm4rWuigkeuRA5i92",
+"name": "Grandma Aurora - Warm, Deep & Loving",
+"cat": "professional",
+"labels": {
+"descriptive": "pleasant",
+"accent": "latin american",
+"age": "old",
+"gender": "female",
+"use_case": "characters_animation",
+"language": "es"
+},
+"desc": "A warm, enchanting grandmotherly voice that beautifully blends traditional cozy "
+},
+{
+"id": "EMuO6fFLrXKOryHzij6K",
+"name": "Grandma Clo – Warm Storyteller",
+"cat": "professional",
+"labels": {
+"age": "old",
+"descriptive": "gentle",
+"language": "fr",
+"use_case": "narrative_story",
+"accent": "standard",
+"gender": "female"
+},
+"desc": "Warm, gentle grandmother voice with a soft, enveloping tone. A mature female voi"
+},
+{
+"id": "EsbcEfYoTFrRNrRCVEHp",
+"name": "Gaucha SouthOfBrazil - Engaging/Trusting",
+"cat": "professional",
+"labels": {
+"descriptive": "confident",
+"gender": "female",
+"age": "middle_aged",
+"accent": "brazilian",
+"use_case": "conversational",
+"language": "pt"
+},
+"desc": "Female voice with a 'Gaúcho' accent. Ideal for narrations, persuasive VSLs, podc"
+},
+{
+"id": "pEmpsQLW3HeOpC1qCbzH",
+"name": "Fabo  - Narrador de historias oscuras",
+"cat": "professional",
+"labels": {
+"age": "old",
+"descriptive": "deep",
+"language": "es",
+"use_case": "narrative_story",
+"accent": "latin american",
+"gender": "male"
+},
+"desc": "A storyteller of dark tales. A deep male voice—husky in the lower register and b"
+},
+{
+"id": "CIYv40BTvkVocCRdR3gQ",
+"name": "Homem Espanhol Magnesio Original",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "qUGCz1bYJNC8GvAxHEC8",
+"name": "Homem Espanhol Magnesio",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "3HZyQcLKlT0a3RDeXVsP",
+"name": "Guillaume - Documentary and Storytelling",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "social_media",
+"gender": "male",
+"descriptive": "chill",
+"accent": "parisian",
+"language": "fr"
+},
+"desc": "A warm, calm, and grounded voice for your narrative, documentary, true crime, an"
+},
+{
+"id": "Z9hTPAGOLzw3EDa4r5ka",
+"name": "IRACEMA 74 MG",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "YyqkX0AHv8W5D1vxG9lR",
+"name": "Hazel - Warm, Witty & Conversational Female Voice",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "american",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "conversational",
+"language": "en"
+},
+"desc": "Hazel is a warm, conversational female voice with natural humor, emotional depth"
+},
+{
+"id": "aI9919Z6KR2NIkiqeIWg",
+"name": "IVÁN_OLIVARES",
+"cat": "professional",
+"labels": {
+"descriptive": "excited",
+"gender": "male",
+"age": "old",
+"accent": "chilean",
+"use_case": "informative_educational",
+"language": "es"
+},
+"desc": "Warm, thoughtful voice with a calm, educational delivery, well-suited for pastor"
+},
+{
+"id": "U7PLDU8LfmZJJWlOX8gu",
+"name": "Homem info gluteo",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "OkpgeWemYGUwpVrCrrCu",
+"name": "JESU ESPANHOL",
+"cat": "cloned",
+"labels": {
+"age": "middle-aged",
+"gender": "male",
+"language": "pt",
+"accent": "pt-brazilian"
+},
+"desc": ""
+},
+{
+"id": "59dhv4BKONM60oDSKECM",
+"name": "HenryD",
+"cat": "professional",
+"labels": {
+"age": "old",
+"descriptive": "calm",
+"gender": "male",
+"language": "fr",
+"accent": "standard",
+"use_case": "narrative_story"
+},
+"desc": "An old French guy."
+},
+{
+"id": "aaFolVhGWg7DJxhDSAed",
+"name": "JOSÉ CARLOS, 64, SP",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": "JOSÉ CARLOS, 64, SP"
+},
+{
+"id": "ZVmOp6LNUylpHACtxOug",
+"name": "Ivan Jimenez Garcia",
+"cat": "professional",
+"labels": {
+"descriptive": "mature",
+"gender": "male",
+"age": "middle_aged",
+"accent": "peninsular",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "Warm, natural adult male voice with a narrative tone, clear diction, and great e"
+},
+{
+"id": "MDLAMJ0jxkpYkjXbmG4t",
+"name": "Jerry B - Jolly Santa Claus",
+"cat": "professional",
+"labels": {
+"age": "old",
+"use_case": "characters_animation",
+"gender": "male",
+"language": "en",
+"accent": "american",
+"descriptive": "pleasant"
+},
+"desc": "Jerry B. - Santa Claus, Father Christmas, St. Nicholas - Bring holiday magic to "
+},
+{
+"id": "a2NqrzzRklNWkb04aqW1",
+"name": "Hélène – A Warm French Documentary Voice",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "narrative_story",
+"language": "fr",
+"descriptive": "classy",
+"accent": "standard",
+"gender": "female"
+},
+"desc": "Warm, credible, and unmistakably French, Hélène brings a natural sense of presen"
+},
+{
+"id": "RILOU7YmBhvwJGDGjNmP",
+"name": "Jane - Professional Audiobook Reader",
+"cat": "professional",
+"labels": {
+"language": "en",
+"gender": "female",
+"age": "old",
+"accent": "british",
+"use_case": "narrative_story",
+"descriptive": "professional"
+},
+"desc": "Jane - Professional Audiobook Reader - Professional English audiobook narrator i"
+},
+{
+"id": "lQFpy8cEH4bDaHre2DpA",
+"name": "JOSE",
+"cat": "professional",
+"labels": {
+"language": "es",
+"accent": "mexican",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "confident"
+},
+"desc": "Male Spanish voice with a Mexican accent. Male, aged 60 to 70. Neutral yet expre"
+},
+{
+"id": "mtzl3O00V1uHxyFod1DQ",
+"name": "Joanne - pensive, introspective, soft and lovely",
+"cat": "generated",
+"labels": {
+"accent": "american",
+"age": "young",
+"gender": "female",
+"use_case": "characters_animation",
+"descriptive": "pleasant"
+},
+"desc": "Young american woman. A soft and pleasent voice for a great character."
+},
+{
+"id": "AkQxVSf1kENGmX9WjeDE",
+"name": "Jesus The Chosen ESPANHOL",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "FNIhgYgEcJsdWbHRFiz6",
+"name": "LYMPHORIA AD04 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "l1I1wznLWL4c2NiibumL",
+"name": "LYMPHORIA AD01 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "2ioMMK3jFz5ZnzjgcjOr",
+"name": "Joncodebr",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "brazilian",
+"age": "young",
+"gender": "male",
+"use_case": "narrative_story",
+"language": "pt"
+},
+"desc": "Tutorial narration voiceover."
+},
+{
+"id": "9u1x1R9twoyzbh4M3qGX",
+"name": "LYMPHORIA AD05 mascote",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "lLsDvdl6OjtZfLJPM2HA",
+"name": "Isa Pro - Warm & trusted, Contact Center",
+"cat": "professional",
+"labels": {
+"descriptive": "gentle",
+"gender": "female",
+"age": "middle_aged",
+"accent": "chilean",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "A professional, middle-aged, vibrant female voice that perfectly blends warmth w"
+},
+{
+"id": "Lkf4mlW1rIqYRJQQF66Q",
+"name": "LYMPHORIA AD03 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "sM4f2a6lmttmqTug8V7W",
+"name": "Karly - Natural & Versatile Spanish",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "female",
+"age": "young",
+"accent": "colombian",
+"use_case": "social_media",
+"descriptive": "professional"
+},
+"desc": "A natural, approachable Colombian voice—perfect for audiobooks, podcasts, and na"
+},
+{
+"id": "yj30vwTGJxSHezdAGsv9",
+"name": "Jessa - Easygoing and Effortless",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "american",
+"age": "young",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "casual"
+},
+"desc": "A natural, effortless, and relatable female voice with a casual, off-the-cuff st"
+},
+{
+"id": "oJ3IkiN67dqmGmx9XMBq",
+"name": "LYMPHORIA AD12 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "aIu5oHglU5AHNc2x0AZu",
+"name": "Jane Hackett",
+"cat": "professional",
+"labels": {
+"age": "old",
+"use_case": "conversational",
+"gender": "female",
+"descriptive": "confident",
+"accent": "american",
+"language": "en"
+},
+"desc": "Female conversational voice."
+},
+{
+"id": "CSYfnnLP5Bhcl2ZoJxfJ",
+"name": "LYMPHORIA AD06 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "tobZrRc4tNgrL674jxom",
+"name": "LYMPHORIA AD21 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "XgKboIFsmuyzrgubdI8J",
+"name": "LYMPHORIA AD16 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "RibiE3aWOosJepHEdVvG",
+"name": "LYMPHORIA AD21 narradora v2",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "8xs8KilCLDcPG2dJEkc1",
+"name": "LYMPHORIA AD10 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "Bu4ixDQxWYLHNEiH4hhn",
+"name": "LYMPHORIA AD21 narradora v3",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "Su8gBKRqNV3hbcg6U1g6",
+"name": "LYMPHORIA AD23 narrador supermercado",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "vPDGWwhUG61kSty95yA6",
+"name": "LYMPHORIA AD22 narrador",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "FM3ChNOHGKKULNhmx5m2",
+"name": "Lola Jaén | Warm & Expressive Spanish Voice | 18 Languages",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "conversational",
+"language": "es",
+"gender": "female",
+"accent": "peninsular",
+"descriptive": "gentle"
+},
+"desc": "Spanish female natural voice."
+},
+{
+"id": "WYQBc1mMAXi4M7WH0923",
+"name": "M Palmeira 55+",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "yfUfwZTRubVrsUZWqzwp",
+"name": "Lina - Colombian Warm & Confident",
+"cat": "professional",
+"labels": {
+"age": "young",
+"descriptive": "pleasant",
+"language": "es",
+"gender": "female",
+"accent": "colombian",
+"use_case": "social_media"
+},
+"desc": "A Colombian female voice with an authentic and natural Paisa accent from Medellí"
+},
+{
+"id": "cOHUo8FosWk7BqQhx8nk",
+"name": "Leo -  Narration, Commercial, & Social Media",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "american",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "confident"
+},
+"desc": "Authoritative American male voice with nearly four decades of professional broad"
+},
+{
+"id": "rbBhGs2j1ghMxVvVT1FV",
+"name": "LYMPHORIA AD24 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "D7veSz4mUoXEHTJ4BiI7",
+"name": "MOPA X5 narradora 07",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "7UEcc2wDVftk45UjyB46",
+"name": "Louis",
+"cat": "professional",
+"labels": {
+"descriptive": "confident",
+"gender": "male",
+"age": "middle_aged",
+"accent": "colombian",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "A real, natural Colombian voice with an authentic and conversational delivery."
+},
+{
+"id": "EMGk4qRFrRTnkdPoTzu3",
+"name": "Luciana - Relaxed and Approachable",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "conversational",
+"gender": "female",
+"descriptive": "casual",
+"accent": "brazilian",
+"language": "pt"
+},
+"desc": "A smooth, everyday voice of a Brazilian woman. It avoids the \"announcer\" polish "
+},
+{
+"id": "G8cAfhSwImuQFtP8slqP",
+"name": "MOPA X5 narradora 16",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "gm4qx4lkjb5aDUefAhv1",
+"name": "MOPA X5 narradora 31",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "GnAzF1UybYKv51msoOSw",
+"name": "MOPA X5 narradora 24",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "O7yBra2v5jyiQoDuDLW8",
+"name": "MOPA X5 narradora 25",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "SVgp5d1fyFQRW1eQbwkq",
+"name": "Lucas — Male, Informative Voice",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "narrative_story",
+"language": "pt",
+"descriptive": "calm",
+"accent": "brazilian",
+"gender": "male"
+},
+"desc": "The voice has a natural, calm, and steady tone, with a medium-low pitch and clea"
+},
+{
+"id": "nYtqTfEhQQHcqjdJFvBT",
+"name": "Marcus - authoritative and deep",
+"cat": "generated",
+"labels": {
+"age": "middle_aged",
+"descriptive": "confident",
+"gender": "male",
+"use_case": "narrative_story",
+"accent": "american"
+},
+"desc": "An authorative and deep voice. Great for audiobooks or news."
+},
+{
+"id": "ZuuXsIgssLuaZ8Slz3yX",
+"name": "Luis-voz natural- latina-Chile",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "casual",
+"gender": "male",
+"language": "es",
+"accent": "chilean",
+"use_case": "narrative_story"
+},
+"desc": "An engaging, relaxed, and confident voice, with a typical Chilean-Latin accent."
+},
+{
+"id": "86V9x9hrQds83qf7zaGn",
+"name": "Marcela - Youthful, Smooth and Natural",
+"cat": "professional",
+"labels": {
+"age": "young",
+"use_case": "conversational",
+"gender": "female",
+"descriptive": "relaxed",
+"accent": "colombian",
+"language": "es"
+},
+"desc": "Native Colombian female speaker with a natural, engaging tone, perfect for podca"
+},
+{
+"id": "7cXofkJEHlC1QSjDpbRp",
+"name": "Marisa - Interior de Minas Gerais",
+"cat": "generated",
+"labels": {
+"region": "minas_gerais",
+"gender": "female",
+"age_range": "60-65"
+},
+"desc": "A mature female voice, between 60-65 years old, speaking Brazilian Portuguese. T"
+},
+{
+"id": "RLuVFsprvn3JW4wwadpw",
+"name": "Marisa - MG Interior 55",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "Brazilian elderly female voice, approximately 55-58 years old, \nsimple housewife"
+},
+{
+"id": "efcRUax7uSa9kpBwtDPe",
+"name": "Luisa - Narradora de Cuentos",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "female",
+"age": "old",
+"accent": "latin american",
+"use_case": "narrative_story",
+"descriptive": "deep"
+},
+"desc": "Storyteller with a deep, measured voice, ideal for narrations, stories, tales, r"
+},
+{
+"id": "VnTxD2iQGtERWlKJ85BB",
+"name": "Medico Romeno",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": "Medico Romeno"
+},
+{
+"id": "HRi5Prm2B3PevwpDmVLP",
+"name": "María Blanco | Warm Expressive Versatile",
+"cat": "professional",
+"labels": {
+"descriptive": "pleasant",
+"gender": "female",
+"age": "old",
+"accent": "colombian",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "A warm, smooth, and expressive voice with a trustworthy, narrative tone. Versati"
+},
+{
+"id": "RYwYAMtz8rLFuJjJzBlO",
+"name": "Mulher BakingSoda",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "QPsyytGOW0cYgBZeUznj",
+"name": "Mulher Romenia Hook3 Glucomax",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": ""
+},
+{
+"id": "TES2Z4FdTbwd5F5uHmLW",
+"name": "Jérôme - Narrateur FR Podcast Réflexif",
+"cat": "professional",
+"labels": {
+"language": "fr",
+"gender": "male",
+"age": "middle_aged",
+"accent": "standard",
+"use_case": "narrative_story",
+"descriptive": "meditative"
+},
+"desc": "Calm French male voice for content that thinks. Reflective narration: podcasts, "
+},
+{
+"id": "3H55HGnNE1XjYxigHSAS",
+"name": "Marcus K - Calm Documentary Narrator",
+"cat": "professional",
+"labels": {
+"language": "en",
+"gender": "male",
+"age": "middle_aged",
+"accent": "american",
+"use_case": "narrative_story",
+"descriptive": "calm"
+},
+"desc": "A calm, thoughtful American male voice with a warm conversational delivery. Idea"
+},
+{
+"id": "zc26CwL0XKvypk91UDMj",
+"name": "NEUSA 75 SP TESTE2",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "YHcCpa6SBWnKDaCPZJQR",
+"name": "Mora - Gritty and Enigmatic",
+"cat": "professional",
+"labels": {
+"age": "old",
+"use_case": "characters_animation",
+"gender": "female",
+"language": "en",
+"accent": "american",
+"descriptive": "raspy"
+},
+"desc": "A weathered, textured voice of a female character with a distinctive raspy edge."
+},
+{
+"id": "taCaB2AztdNJ5HzAHXNL",
+"name": "NAJI",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "Lj8IZtgwUEYQogpRD9Is",
+"name": "Mulher Romenia Hook4 Glucomax",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": ""
+},
+{
+"id": "DGLPA5FOERyfW8Y8qRGx",
+"name": "Najw MULHER 50-60 UGC SAN BENITO",
+"cat": "cloned",
+"labels": {
+"accent": "es-peninsular",
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "WEXcMUyDslMuxfm2EwsK",
+"name": "NEUSA SP TESTE 3",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "OXOrMUhizM8W8hel51RL",
+"name": "NEUSA 75 SP TESTE 3",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "b0Ev8lcOOXx2o9ZcF46H",
+"name": "Martin - Deep and Conversational",
+"cat": "professional",
+"labels": {
+"descriptive": "deep",
+"accent": "standard",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "conversational",
+"language": "fr"
+},
+"desc": "A deep, calm and naturally conversational French male voice. Perfect for Custome"
+},
+{
+"id": "eptbh5KQei9tCWyAUN37",
+"name": "Nadia - Educational & Documentary",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "cute",
+"language": "en",
+"gender": "female",
+"accent": "british",
+"use_case": "informative_educational"
+},
+"desc": "A trustworthy voice built for educational explainers, documentaries and long-for"
+},
+{
+"id": "57ACTpYW4xKp2f1On3ve",
+"name": "Natasha - Valley girl",
+"cat": "generated",
+"labels": {
+"accent": "american",
+"age": "young",
+"gender": "female",
+"use_case": "social_media",
+"descriptive": "sassy"
+},
+"desc": "A valley girl female voice. Great for shorts."
+},
+{
+"id": "acdKA5HckGxoxxvy40dA",
+"name": "Nassif - Documentary, History & Thriller",
+"cat": "professional",
+"labels": {
+"descriptive": "deep",
+"accent": "brazilian",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"language": "pt"
+},
+"desc": "Deep, commanding male voice with the gravitas of a History Channel documentary n"
+},
+{
+"id": "kCx3Qoh3lfILbbTZftSq",
+"name": "Natasha - Sultry Velvety Magnetic Versatile ",
+"cat": "professional",
+"labels": {
+"descriptive": "crisp",
+"accent": "american",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "narrative_story",
+"language": "en"
+},
+"desc": "A captivating female American voice that's great for versatile use - lectures, a"
+},
+{
+"id": "Atp5cNFg1Wj5gyKD7HWV",
+"name": "Natasha - Gentle Meditation ",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "narrative_story",
+"gender": "female",
+"language": "en",
+"accent": "american",
+"descriptive": "whispery"
+},
+"desc": "Middle aged American Female with a Soothing, Gentle & whispering Voice. Suitable"
+},
+{
+"id": "xIzR6egd3S3LJZbVW0c1",
+"name": "Nana Margaret - Little Old Lady",
+"cat": "professional",
+"labels": {
+"language": "en",
+"gender": "female",
+"age": "old",
+"accent": "american",
+"use_case": "conversational",
+"descriptive": "calm"
+},
+"desc": "Authentic, warm, elderly female for seamless performance, realistic phrasing. Pe"
+},
+{
+"id": "30Bu3NdpCkBMOF2yyBwC",
+"name": "Natasha - Upset, Clear and Serious",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "american",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "confident"
+},
+"desc": "Middle aged woman with warm and relaxed tones. Perfect for narrations and audio "
+},
+{
+"id": "84WxgdFrdm1LAdwbQFZR",
+"name": "ORACAO-05 Clara (esposa)",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "5JUCUUmKATtNYJaNlP0n",
+"name": "ORACAO-03 padre",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "Fn4faHoDwi31tC6L06Fl",
+"name": "ORACAO-05 marido",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "rS7c1woNY04WT3UAS83Y",
+"name": "Nathalie - Calm French Storyteller",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "narrative_story",
+"language": "fr",
+"gender": "female",
+"accent": "standard",
+"descriptive": "calm"
+},
+"desc": "Warm, serene, and naturally engaging French female voice. Specifically tailored "
+},
+{
+"id": "ErqTI1A8XA0CK8tS4IH7",
+"name": "ORACAO-02 mulher shopping",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "ZsipxX9wNYg2lJhEScWc",
+"name": "ORACAO-13 mulher",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "am5XuPVtut7uKJQKMja2",
+"name": "Mike L - Soft, Clear and Charming",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "standard",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "informative_educational",
+"language": "ro"
+},
+"desc": "Mike L - Romanian Professional VO, audiobooks Narrator, Radio VO - Middle-aged m"
+},
+{
+"id": "VtWz85Bf8UfJlJLifFE3",
+"name": "ORACAO-11 menina",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "UNDKAyEJ2rTv99l7gCy5",
+"name": "ORACAO-11 mulher",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "y3QZXBVdGkWBnlHwEtgG",
+"name": "Nestor - Deep Calm Narrator",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "calm",
+"language": "es",
+"gender": "male",
+"accent": "peninsular",
+"use_case": "narrative_story"
+},
+"desc": "Deep Spanish male voice, around 50. Bass-baritone register with a warm, even tim"
+},
+{
+"id": "5p4THmLc2S6kXKO1pOM5",
+"name": "Nayara Técia - PVC",
+"cat": "professional",
+"labels": {
+"descriptive": "confident",
+"gender": "female",
+"age": "young",
+"accent": "brazilian",
+"use_case": "conversational",
+"language": "pt"
+},
+"desc": "Warm, confident female Brazilian Portuguese voice with a natural Rio accent. Aut"
+},
+{
+"id": "lRnvtIq1W0SQIeABr1I4",
+"name": "ORACAO-13 jesus",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "uabuzZ2qfzct54G73CqM",
+"name": "Oana Romena",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": "Oana"
+},
+{
+"id": "DOLloAI0T9htJntu9yeB",
+"name": "Opr VSL",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "sJYGLUA6m2su09XOMEb8",
+"name": "Oscar G - Calmada y Tranquila",
+"cat": "professional",
+"labels": {
+"descriptive": "deep",
+"accent": "colombian",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "Mature male voice with a deep, warm tone. Neutral accent (Latin American Spanish"
+},
+{
+"id": "jP6N6KfDjbkU2OFoSJkR",
+"name": "Padre VSL reales",
+"cat": "cloned",
+"labels": {
+"accent": "es-latin-american",
+"age": "middle-aged",
+"gender": "male",
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "yr2h9pRTkHdt8R5TEU19",
+"name": "Padre jovem",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "4RtjXIMKphSoiQAJoOh2",
+"name": "Padre terno",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "Zkg9LlmGNlBWLgWjzTnu",
+"name": "Pa Gabriel espiritualidad",
+"cat": "professional",
+"labels": {
+"age": "young",
+"descriptive": "calm",
+"gender": "male",
+"language": "es",
+"accent": "colombian",
+"use_case": "narrative_story"
+},
+"desc": "A warm, serene, and deep male voice, ideal for spiritual narrations, reflections"
+},
+{
+"id": "XbA48uS2hMZ9plGF5NZC",
+"name": "PADRE JUAN",
+"cat": "cloned",
+"labels": {
+"gender": "male",
+"age": "middle-aged",
+"accent": "es-latin-american",
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "57OUoWWIdEbPrxk0T02A",
+"name": "PODADORA venc-B narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "BgvvJ0I0R4tg6uf8DolY",
+"name": "Podadora narrador B",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "FMCfM4NZhcA3sXn9H8SA",
+"name": "Podadora narrador A",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "etjtr87ptP3yIbzoCGWN",
+"name": "Papa",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "OyB9t957VxUtN0puqGPg",
+"name": "Paweł – Polish Nonfiction Narrator",
+"cat": "professional",
+"labels": {
+"language": "pl",
+"gender": "male",
+"age": "old",
+"accent": "standard",
+"use_case": "narrative_story",
+"descriptive": "calm"
+},
+"desc": "A mature Polish male voice for audiobooks, psychology, education, and non-fictio"
+},
+{
+"id": "jrlquqhVmSDi02eu2OFr",
+"name": "Raniy",
+"cat": "generated",
+"labels": {
+"accent": "american",
+"age": "young",
+"gender": "female",
+"use_case": "advertisement",
+"descriptive": "neutral"
+},
+"desc": "Pleasant voice for advertisment"
+},
+{
+"id": "uRMRBo5iAU5ZXgoamM2P",
+"name": "Radar Cleide v3",
+"cat": "generated",
+"labels": {},
+"desc": "Cleide, 52, cética — criativos UGC do Radar de Ofertas"
+},
+{
+"id": "FzKkd6DTpa2Ai5STAdW1",
+"name": "Reporter 2 VSL",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "ABW47xCXNNaOhg24REDc",
+"name": "Owen – Documentary & Educational",
+"cat": "professional",
+"labels": {
+"language": "en",
+"gender": "male",
+"age": "middle_aged",
+"accent": "american",
+"use_case": "informative_educational",
+"descriptive": "pleasant"
+},
+"desc": "Owen delivers a calm, trustworthy voice designed for educational explainers, doc"
+},
+{
+"id": "tTQzD8U9VSnJgfwC6HbY",
+"name": "Nathalia",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "latin american",
+"age": "young",
+"gender": "female",
+"use_case": "social_media",
+"language": "es"
+},
+"desc": "Nathalia - Colombian woman with a neutral accent specialized in sales and social"
+},
+{
+"id": "Ixq4yFnVsJRszbDmjPTx",
+"name": "Reporter VSL",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "vaqy7xTyDShJDMsCQCNZ",
+"name": "Radar Rafa",
+"cat": "generated",
+"labels": {},
+"desc": "Rafa, 27, homem, caça preço — criativos UGC do Radar de Ofertas"
+},
+{
+"id": "FeLIlJxnnCAPT2tBSYRE",
+"name": "Radar Ana",
+"cat": "generated",
+"labels": {},
+"desc": "Ana, 34, administra o dinheiro da casa — criativos UGC do Radar de Ofertas"
+},
+{
+"id": "oUTKD5T3vmcWtIDkcnYK",
+"name": "Rodrigo Santoro",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "njW73tfmLMLBD5l6ok7U",
+"name": "Rosa, 62 anos, Interior de São Paulo",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "RGymW84CSmfVugnA5tvA",
+"name": "Roberta - For Conversational",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"accent": "brazilian",
+"age": "young",
+"gender": "female",
+"use_case": "conversational",
+"language": "pt"
+},
+"desc": "A young and friendly Brazilian Portuguese female voice, ideal for your conversat"
+},
+{
+"id": "Cpm6N9BNC1M75bYS7kO1",
+"name": "Richard - Dinámica y versátil",
+"cat": "professional",
+"labels": {
+"descriptive": "professional",
+"accent": "latin american",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "social_media",
+"language": "es"
+},
+"desc": "An adult Latin American male voice with a neutral accent and dynamic style. This"
+},
+{
+"id": "l8XLzyPMdDP1v93xtf9h",
+"name": "Rosa - SP Interior 62",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "Brazilian elderly female voice, approximately 60-62 years old, \npractical housew"
+},
+{
+"id": "ZFATFNuLuL8f12ywNZZs",
+"name": "SEU JOAQUIM — 67 ANOS  B",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "hiBf4cheHmE2J0anQGh8",
+"name": "SEU JOAQUIM — 67 ANOS ",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "wfTWLJ20rcMqvU8gIiAB",
+"name": "Salvatore - Conversations & Storyteller",
+"cat": "professional",
+"labels": {
+"age": "old",
+"descriptive": "neutral",
+"gender": "male",
+"language": "es",
+"accent": "latin american",
+"use_case": "conversational"
+},
+"desc": "A warm, approachable, and deep voice from an older man, full of calm and natural"
+},
+{
+"id": "KdpgHYgwgVb0UWdjhKmL",
+"name": "Trali",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "VXZKNah1ssrzM8c81OiY",
+"name": "Santiago - Gravelly and commanding",
+"cat": "professional",
+"labels": {
+"descriptive": "deep",
+"gender": "male",
+"age": "old",
+"accent": "latin american",
+"use_case": "characters_animation",
+"language": "es"
+},
+"desc": "A rich, seasoned voice of an older male with a natural Latin American Spanish ac"
+},
+{
+"id": "8nBBDfYxYXmDNaqTCxPH",
+"name": "Serban Popescu - Professional Narrator",
+"cat": "professional",
+"labels": {
+"descriptive": "confident",
+"gender": "male",
+"age": "middle_aged",
+"accent": "standard",
+"use_case": "narrative_story",
+"language": "ro"
+},
+"desc": "Serban Popescu - A warm, professional narrator’s voice, perfect for audiobooks, "
+},
+{
+"id": "Mm1Y50AcdcwOuaZoyWDG",
+"name": "Teste",
+"cat": "professional",
+"labels": {
+"accent": "pt-brazilian",
+"gender": "female",
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "pWNYyKtBQDVSp22RQO8O",
+"name": "Sandra JN",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "eLDgbtnf2Ub9I9whr89p",
+"name": "VITALY V10 mujer 50",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "QGfpyFuk3rtPv4pRSQwp",
+"name": "Sara - Warm and Calm",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"use_case": "conversational",
+"gender": "female",
+"language": "fr",
+"accent": "parisian",
+"descriptive": "classy"
+},
+"desc": "A warm, expressive and versatile female voice suited for romantic storytelling, "
+},
+{
+"id": "SH5rTsQzlm6uv1YipARv",
+"name": "VITALY V26 narradora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "mAGD2RZLgAuLx9O3YXg4",
+"name": "VOVÔ ANTÔNIO, 67, RJ",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "HqqY0SS9swdkN4CjlQG4",
+"name": "VITALY V12 narradora Mi Camino",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "ArTYCGluU0cZhq1bF7Hp",
+"name": "VOZ DIVINA",
+"cat": "cloned",
+"labels": {
+"accent": "es-latin-american",
+"age": "middle-aged",
+"gender": "male",
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "y2Y5MeVPm6ZQXK64WUui",
+"name": "The Pharaoh  - Wisdom Bearer",
+"cat": "professional",
+"labels": {
+"age": "old",
+"descriptive": "calm",
+"language": "en",
+"gender": "male",
+"accent": "american",
+"use_case": "narrative_story"
+},
+"desc": "The Pharaoh - Old Storyteller - A warm and close grandfather who captivates with"
+},
+{
+"id": "3crfBmnxgwLLke46Idqn",
+"name": "VOZ BENTO",
+"cat": "cloned",
+"labels": {},
+"desc": "Homem adulto brasileiro "
+},
+{
+"id": "CwXdg9Tt2BOyZ5iuqglu",
+"name": "VOZ HECTOR FABIO",
+"cat": "cloned",
+"labels": {},
+"desc": "Voz masculina de um idoso"
+},
+{
+"id": "6d9vbtuUBzziDzgw9Wss",
+"name": "VOZ HUMANIZADA",
+"cat": "cloned",
+"labels": {},
+"desc": ""
+},
+{
+"id": "7pPQukIImWPTYlkOqdKr",
+"name": "VSL info relacionamento",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "fz6aIR3AHRSSbVXIwarr",
+"name": "VSL tesla",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "wSs8c9kFDWX0X0ApjEga",
+"name": "Vitaly V09 creadora",
+"cat": "cloned",
+"labels": {},
+"desc": "Clone do narrador do criativo original (marca própria)"
+},
+{
+"id": "ODO4sbmD3pTjhgRVVRP6",
+"name": "Sara - Warm, Clear and Engaging",
+"cat": "professional",
+"labels": {
+"descriptive": "neutral",
+"accent": "latin american",
+"age": "young",
+"gender": "female",
+"use_case": "conversational",
+"language": "es"
+},
+"desc": "Ideal for podcasts, audiobooks, narrations, and stories."
+},
+{
+"id": "fGNkFPkHw6NbElS9HQsN",
+"name": "VSL PILATES BR",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "xjlfQQ3ynqiEyRpArrT8",
+"name": "Vera - young and sensual",
+"cat": "professional",
+"labels": {
+"descriptive": "excited",
+"accent": "standard",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "advertisement",
+"language": "hu"
+},
+"desc": "Vera - A young, female, energetic voice – lively and captivating, ideal for comm"
+},
+{
+"id": "hzivyA96xNM0ARBf0kpb",
+"name": "Vovo mineira teste",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "36ebqVN22ARm9Ockczzs",
+"name": "Vovó 70+ Mineira",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "XQe8h2jcH8oBMFF2v26b",
+"name": "Vovó 82 real",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "ZUrGa8aGlTHMIBYRmZBm",
+"name": "Vovo Roça 85+",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "OxUqKsB2VdMWMq8fna3B",
+"name": "Vovó Lourders Mineira 70+",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "t64UcMrEWjn4Mo6HmIbv",
+"name": "Vovó 82 anos",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "duJjlpX8aH9qSEDMYxeF",
+"name": "Voz 65+ Carticuri Dubladora",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "DNJ5GgriTanBIe9Cq33J",
+"name": "Vovó Mineira 65+",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": "Vovó Mineira 65+"
+},
+{
+"id": "UGxrNfvCuZWqCmKaxFQf",
+"name": "VovÓ Mineira teste",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "An elderly Brazilian woman, 70 years old, from rural Minas Gerais \ninterior. Voi"
+},
+{
+"id": "tjWJtEpk4Id8ZTF5ZxWr",
+"name": "Voz Fem Romenia 29/04",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": ""
+},
+{
+"id": "IYdeV1pWlCfxMXHAURNv",
+"name": "Voz Elon Musk",
+"cat": "cloned",
+"labels": {},
+"desc": "American Male Voice"
+},
+{
+"id": "CdtlnT7EzJnIPWXds3E7",
+"name": "Voz FeminINa Romenia M1",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": ""
+},
+{
+"id": "HubqJpBCCpz0uGF1wbXC",
+"name": "Voz Feminina Romenia PF",
+"cat": "generated",
+"labels": {
+"language": "ro"
+},
+"desc": "În 10 ani de parfumerie, [short pause] rar am văzut ceva așa. [pause] [breath] P"
+},
+{
+"id": "McdgLJiBH2eVabvCkS46",
+"name": "Voz HOMEM IDOSO CartiCuri",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "RBxX28iu8YczBZouJvcD",
+"name": "Voz Locutora 60+ Carticuri",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "80BSYnPfJdew4qey6gkW",
+"name": "Vestal - Calm & Grounded Male Narrator",
+"cat": "professional",
+"labels": {
+"age": "middle_aged",
+"descriptive": "confident",
+"language": "en",
+"use_case": "narrative_story",
+"accent": "american",
+"gender": "male"
+},
+"desc": "A warm, mature American male voice with a calm, grounded, fatherly presence. Nat"
+},
+{
+"id": "BdhfYdjD1b8TF4Yf4mbW",
+"name": "Voz Locutora 60+ Carticuri 2",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "K7Fk8K9jT6TYJpZlK8oL",
+"name": "Voz Veo3 Romenia",
+"cat": "cloned",
+"labels": {
+"language": "ro"
+},
+"desc": ""
+},
+{
+"id": "dJn2tztnHM4Ctx71ESIw",
+"name": "Voz Vovó 70+ CartiCuri",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "eIZA6343HrgfmZa1CO39",
+"name": "Voz Original video12",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "3N0G7TFE16l6ZZZVWJH3",
+"name": "Voz VSL Botox",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "rRnaqjOcmwaDmdf2AHjt",
+"name": "Voz espanhol para VSL",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "NzmImimfmv8AzldyHEEr",
+"name": "Voz espanhola feminina grossa",
+"cat": "cloned",
+"labels": {
+"language": "es"
+},
+"desc": ""
+},
+{
+"id": "fSWPBlX4raOl4u1fVIPB",
+"name": "WILLIAM BORNER",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "tomkxGQGz4b1kE0EM722",
+"name": "WYZE 01-12 Mario animado",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "male",
+"age": "young",
+"accent": "latin american",
+"use_case": "conversational",
+"descriptive": "excited"
+},
+"desc": "Spanish voice with an animated tone, perfect for any conversation or promotional"
+},
+{
+"id": "G4IAP30yc6c1gK0csDfu",
+"name": "WYZE 08-10-13 Juan Carlos upbeat",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "male",
+"age": "middle_aged",
+"accent": "latin american",
+"use_case": "advertisement",
+"descriptive": "excited"
+},
+"desc": "A dynamic and captivating voice, bursting with energy—perfect for commercials, v"
+},
+{
+"id": "qSeXEcewz7tA0Q0qk9fH",
+"name": "Victoria - Warm, Trustworthy, and Relatable",
+"cat": "professional",
+"labels": {
+"language": "en",
+"accent": "american",
+"age": "middle_aged",
+"gender": "female",
+"use_case": "narrative_story",
+"descriptive": "professional"
+},
+"desc": "Conversational and friendly VO for explainer videos, viral social media and mode"
+},
+{
+"id": "nm6ya51BbqymOzq2w9AG",
+"name": "reales",
+"cat": "cloned",
+"labels": {
+"age": "middle-aged",
+"language": "es",
+"gender": "female",
+"accent": "es-colombian"
+},
+"desc": ""
+},
+{
+"id": "h96v1HCJtcisNNeagp0R",
+"name": "Will - Grave Suspense",
+"cat": "professional",
+"labels": {
+"language": "pt",
+"accent": "brazilian",
+"age": "middle_aged",
+"gender": "male",
+"use_case": "narrative_story",
+"descriptive": "serious"
+},
+"desc": "A young Brazilian adult's voice with a deep and captivating tone that immediatel"
+},
+{
+"id": "6n2wvUqtuawHxpfNKA2Q",
+"name": "audio dr articuly 1",
+"cat": "cloned",
+"labels": {
+"language": "pt"
+},
+"desc": ""
+},
+{
+"id": "BHLqq06mcM3GS54SV6yo",
+"name": "Yenisel",
+"cat": "professional",
+"labels": {
+"descriptive": "casual",
+"gender": "female",
+"age": "middle_aged",
+"accent": "cuban",
+"use_case": "narrative_story",
+"language": "es"
+},
+"desc": "A mature woman’s voice that is warm, confident, calm, and approachable, with a s"
+},
+{
+"id": "d97lOQ8DtbL5XXRLjYKw",
+"name": "teste vovo",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "An elderly Brazilian man, 70-75 years old, from rural Northeast sertão. "
+},
+{
+"id": "NDcVpQJv7Naa7ZKrqtEk",
+"name": "WYZE Gerardo",
+"cat": "professional",
+"labels": {
+"language": "es",
+"gender": "male",
+"age": "middle_aged",
+"accent": "latin american",
+"use_case": "conversational",
+"descriptive": "casual"
+},
+"desc": "Casual and approachable, with a ‘guy-next-door’ tone—young, friendly, and conver"
+},
+{
+"id": "WoUyxldmJX19Gt0Kb3g9",
+"name": "voz vsl ingles",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+},
+{
+"id": "QGiPma5r94GQsA2OFYoU",
+"name": "anyelo 1",
+"cat": "professional",
+"labels": {
+"descriptive": "mature",
+"gender": "male",
+"age": "middle_aged",
+"accent": "colombian",
+"use_case": "social_media",
+"language": "es"
+},
+"desc": "Deep masculine Colombian Paisa voice, low and thick tone, warm and slightly rasp"
+},
+{
+"id": "DEYxJ6xaEHaQTfmTZliX",
+"name": "teste vovo 85",
+"cat": "generated",
+"labels": {
+"language": "pt"
+},
+"desc": "A mature Brazilian man, 65-70, from rural Northeast sertão. Deep, grave, \nfirm v"
+},
+{
+"id": "gWMqmxWXzsgLWLsVLbUa",
+"name": "Wagner Moura",
+"cat": "cloned",
+"labels": {
+"language": "en"
+},
+"desc": ""
+}
+]

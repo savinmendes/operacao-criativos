@@ -1,0 +1,119 @@
+REVISÃO: bruto_it.mp4
+duração 102.87s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 35.6 MB
+decodificação: OK
+pts do áudio: 4823 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 3 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1206-1276, x 2-718 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-IT-OFERTA-LIVE\01_ADS-9\_trabalho\revisao\bruto_it_revisao.jpg
+idioma detectado: it (1.00)
+
+=== transcrição (it) ===
+   0.00-  4.00 Figlio mio, migliori da tanto tempo e questo mi ha spezzato il cuore.
+   4.00-  9.00 Ti ho mandato segni nei tuoi sogni, nelle tue intuizioni e nei tuoi sentimenti.
+   9.00- 15.00 Ti ho mandato anche messaggi, opportunità e perfino incontri che sembravano semplici coincidenze.
+  16.00- 19.00 Ma molto spesso scegli di non vederli.
+  19.00- 22.00 Eppure non ho rinunciato a te.
+  22.00- 27.00 Oggi ti mando un altro segno attraverso questo video e nel profondo lo sai.
+  27.00- 34.80 Perché già prima di aprire questo video, qualcosa dentro di te ti stava avvertendo, ma ascolta
+  34.80- 40.08 bene perché questo potrebbe essere l'ultimo segno che ricevi in questo modo, per questo
+  40.08- 44.08 prima che il video finisca devo mostrarti qualcosa che può proteggere la tua vita
+  44.08- 50.64 spirituale e aprire strade che erano chiuse, qualcosa che è rimasto nascosto per moltissimo
+  50.64- 54.52 tempo tramandato attraverso una pregliera che pochissimi hanno imparato a usare
+  54.52- 61.74 nel modo giusto. Qualcosa che non tutti sono pronti a ricevere. Ma tu, tu sei qui e questo
+  61.74- 66.36 ha uno scopo. Se sei arrivato fino a questo momento è perché c'è qualcosa che devi
+  66.36- 72.14 capire. E quello che stai per vedere può cambiare il modo in cui tutto si muoverà
+  72.14- 78.32 nella tua vita. Quindi non lasciarti distrarre. Resta con me ancora un momento e fai molta
+  78.32- 84.52 attenzione a ciò che sto per rivelarti adesso, tocca scopri di più qui sotto e
+  84.52- 88.68 unisciti alla pregliera indiretta dove qualcosa viene rivelato solo a pochi,
+  88.68- 95.52 non rimandare perché questo momento non tornerà allo stesso modo, tocca ora e
+  95.52- 97.12 scopri cosa è stato preparato per te.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  4.00    My son, you know me for a long time, and this has broken my heart.
+   4.00-  9.00    I have sent you signs in your dreams, in your intuitions and in your feelings.
+   9.00- 15.00    I have also sent you messages, opportunities and even encounters that seemed simple coincidences.
+  16.00- 19.00    But very often, choose not to see them.
+  19.00- 22.00    And yet, I have not given up on you.
+  22.00- 27.00    Today I send you another sign through this video, and deep down you know it.
+  27.00- 34.00    Because already before opening this video, something inside of you was warning you.
+  34.00- 39.00    But listen carefully, because this could be the last sign you receive in this way.
+  39.00- 45.00    For this, before the video ends, I have to show you something that can protect your spiritual life
+  45.00- 51.00    and open roads that were closed, something that has remained hidden for a long time,
+  51.00- 56.00    through a prayer that very few have learned to use in the right way.
+  56.00- 59.00    Something that not everyone is ready to receive.
+  59.00- 61.00    But you, you are here.
+  61.00- 63.00    And this has a purpose.
+  63.00- 68.00    If you have come to this moment, it is because there is something you must understand.
+  68.00- 74.00    And what you are about to see can change the way in which everything will move in your life.
+  74.00- 76.00    So do not let yourself be distracted.
+  76.00- 81.00    Stay with me for a moment and pay a lot of attention to what I'm about to reveal to you now.
+  82.00- 89.00    Touch, discover more here below and join the prayer directly, where something is revealed only to few.
+  90.00- 94.00    Do not send it back, because this moment will not return in the same way.
+  95.00- 98.00    Touch now and discover what has been prepared for you.
+
+=== lipsync ===
+LIPSYNC: ls_00.mp4 (216 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 9.07 | dif. controle 1.18 | mudou em 97% dos quadros | corr. abertura saída x original -0.05
+  pausas da voz nova: índice de pausa 0.56 (42 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.31 (atraso -200 ms) | corr. original 0.31
+APROVADO: boca mudou em 97% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.56)
+LIPSYNC: ls_01.mp4 (294 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.17 | dif. controle 0.93 | mudou em 100% dos quadros | corr. abertura saída x original -0.15
+  pausas da voz nova: índice de pausa 0.12 (69 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.57 (atraso -167 ms) | corr. original 0.43
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.12)
+LIPSYNC: ls_02.mp4 (291 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.16 | dif. controle 0.93 | mudou em 100% dos quadros | corr. abertura saída x original -0.07
+  pausas da voz nova: índice de pausa 0.29 (109 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.55 (atraso 33 ms) | corr. original 0.22
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.29)
+LIPSYNC: ls_03.mp4 (306 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.67 | dif. controle 0.94 | mudou em 100% dos quadros | corr. abertura saída x original -0.14
+  pausas da voz nova: índice de pausa 0.22 (35 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.39 (atraso 0 ms) | corr. original 0.29
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.22)
+LIPSYNC: ls_04.mp4 (261 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.23 | dif. controle 0.94 | mudou em 100% dos quadros | corr. abertura saída x original 0.13
+  pausas da voz nova: índice de pausa 0.20 (40 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.48 (atraso -200 ms) | corr. original 0.28
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.20)
+LIPSYNC: ls_05.mp4 (324 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.56 | dif. controle 0.92 | mudou em 100% dos quadros | corr. abertura saída x original -0.00
+  pausas da voz nova: índice de pausa 0.32 (49 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.46 (atraso -33 ms) | corr. original 0.37
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.32)
+LIPSYNC: ls_06.mp4 (288 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.17 | dif. controle 0.95 | mudou em 100% dos quadros | corr. abertura saída x original 0.13
+  pausas da voz nova: índice de pausa 0.13 (91 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.60 (atraso 0 ms) | corr. original 0.29
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.13)
+LIPSYNC: ls_07.mp4 (171 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.76 | dif. controle 0.96 | mudou em 99% dos quadros | corr. abertura saída x original -0.14
+  pausas da voz nova: índice de pausa 0.09 (37 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.52 (atraso 0 ms) | corr. original 0.37
+APROVADO: boca mudou em 99% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.09)
+LIPSYNC: ls_08.mp4 (228 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.07 | dif. controle 0.96 | mudou em 100% dos quadros | corr. abertura saída x original -0.07
+  pausas da voz nova: índice de pausa 0.15 (36 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.54 (atraso 0 ms) | corr. original 0.15
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.15)
+LIPSYNC: ls_09.mp4 (237 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 10.55 | dif. controle 0.95 | mudou em 100% dos quadros | corr. abertura saída x original 0.30
+  pausas da voz nova: índice de pausa 0.29 (35 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.35 (atraso -133 ms) | corr. original 0.19
+APROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.29)
+LIPSYNC: ls_10.mp4 (244 quadros, rosto em 100%, rosto 220,330,280,400 [forçado (--rosto)])
+  boca x original: dif. boca 11.73 | dif. controle 0.93 | mudou em 99% dos quadros | corr. abertura saída x original -0.12
+  pausas da voz nova: índice de pausa 0.21 (45 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.42 (atraso -33 ms) | corr. original 0.20
+APROVADO: boca mudou em 99% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.21)
+índice de pausa do conjunto (11 trechos): 0.22 -> APROVADO
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 97.1s; vídeo vai até 102.9s
+OK: nenhum problema encontrado

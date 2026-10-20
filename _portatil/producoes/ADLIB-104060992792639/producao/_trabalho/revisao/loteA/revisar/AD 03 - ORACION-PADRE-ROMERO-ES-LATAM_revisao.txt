@@ -1,0 +1,50 @@
+REVISÃO: AD 03 - ORACION-PADRE-ROMERO-ES-LATAM.mp4
+duração 96.30s | 720x1280 | 30/1 fps | áudio: sim | 26.0 MB
+decodificação: OK
+pts do áudio: 4516 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 22.93-24.08, 37.41-38.85, 59.22-60.13, 66.39-67.53, 95.60-96.30
+cortes de cena: 11 | pares a <0,3 s: 9.13/9.27, 9.27/9.37
+setas (vermelho) no fim: y 893-1178, x 232-506 | no último quadro: sim | faixa escura do rodapé: 1017-1097
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\revisao\loteA\revisar\AD 03 - ORACION-PADRE-ROMERO-ES-LATAM_revisao.jpg
+idioma detectado: es (0.96)
+
+=== transcrição (es) ===
+   0.00-  5.22 En el nombre del Padre, del Hijo y del Espíritu Santo con esta ruda y esta espada de San Jorge,
+   5.22- 10.74 quito toda envidia y el mal de ojo y profetizo una lluvia de bendiciones en tu vida.
+  10.74- 16.66 Quédate hasta el final de este video porque este mensaje llegó hasta ti por una razón muy especial que Dios preparó.
+  16.66- 23.96 Yo vengo con el Romero Divino y con la Desatadora de Nudos para traer una revelación muy importante para tu vida.
+  23.96- 28.46 Una bendición de paz muy grande está preparada para llegar a tu hogar.
+  28.46- 38.66 Por eso este video llegó a tu pantalla ahora, porque la oración de nueve palabras ya tocó el corazón de muchas personas que la rezaron con fe.
+  38.66- 47.86 Una mujer que vivía el momento más difícil de su vida la rezó con fe y sintió una paz y una esperanza que no sentía hace mucho tiempo.
+  47.86- 55.10 Y ahora Dios pide que la desatadora de nudos corte con su amor el nudo que está atando tu vida y cerrando tus caminos.
+  55.10- 59.92 Pero para eso, tu necesitas aceptar su bendición con el corazón abierto.
+  59.92- 67.32 Por eso toca el botón de abajo ahora mismo, porque yo te dejé un acceso totalmente gratis, con mucho cariño,
+  67.32- 74.62 al audio que revela las nueve palabras de la oración de la desatadora de Nudos, preparada especialmente para ti.
+  74.62- 82.82 Una palabra para cada lazo que está trabando tu vida, en tu hogar, en tu familia, en tus sueños y en tu corazón para que vuelva la paz.
+  82.82- 92.24 Presta mucha atención porque esta oración fue preparada con amor y llegó hasta ti porque Dios quiere bendecir tu camino y llenar tu casa de paz.
+  92.24- 96.24 Toca el botón de abajo y recibe lo que Dios preparó para ti.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  5.24    Em o nome do Padre, do Lícho e do Espírito Santo com esta ruda e esta espada de São Jorge,
+   5.24- 10.68    quito toda a envidia e o mal de ojo e profetizo uma chuva de bendições em sua vida.
+  10.68- 16.64    Quédate até o final deste vídeo porque este mensagem chegou até você por uma razão muito especial que Deus preparou.
+  16.64- 23.94    Eu vengo com o Romero Divino e com a Desatadora de Nudos para traer uma revelação muito importante para a sua vida.
+  23.94- 28.44    Uma bendição de paz muito grande está preparada para chegar à sua casa.
+  28.44- 37.38    Por isso este vídeo chegou à sua pantalla agora, porque a oração de 9 palavras já tocou o coração de muitas pessoas que arreçaram com fé.
+  38.74- 47.86    Uma mulher que vivia o momento mais difícil de sua vida arreçou com fé e sentiu uma paz e uma esperança que não sentia há muito tempo.
+  47.86- 55.10    E agora Deus pide que a desatadora de nudos corte com o seu amor, o nudo que está atando a sua vida e cerrando os seus caminhos.
+  55.10- 59.98    Mas para isso você precisa aceitar sua bendição com o coração aberto.
+  59.98- 67.42    Por isso toca o botão de baixo agora mesmo, porque eu deixei um acesso totalmente gratis, com muito carinho,
+  67.42- 74.66    ao áudio que revela as 9 palavras da oração da desatadora de Nudos, preparada especialmente para você.
+  74.66- 82.90    Uma palavra para cada laço que está trabando sua vida, em seu hogar, em sua família, em seus sonhos e em seu coração, para que vuelva a paz.
+  82.90- 92.30    Presta muito atenção porque esta oração foi preparada com amor e chegou até você porque Deus quer vender seu caminho e llenar sua casa de paz.
+  92.30- 96.10    Toca o botão de baixo e recebe o que Deus preparou para você.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 9.13s e 9.27s (133 ms)
+PROBLEMA: quadro solto? cortes em 9.27s e 9.37s (100 ms)
+PROBLEMA: setas de CTA em cima da faixa escura do rodapé (suba as setas ou a faixa)
+3 problema(s)

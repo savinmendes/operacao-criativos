@@ -1,0 +1,46 @@
+REVISÃO: SB-ES_RANKING04_SUELDO.mp4
+duração 101.30s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.3 MB
+decodificação: OK
+pts do áudio: 4750 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 32 | pares a <0,3 s: 39.17/39.30
+setas (vermelho) no fim: y 641-1116, x 233-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_04\producao\rev\SB-ES_RANKING04_SUELDO_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00-  4.20 El mundo entero tiene que escuchar lo que este Padre acaba de revelar.
+   4.20- 10.20 Cuando te caiga el sueldo, no gastes ni un centavo antes de hacer esta oración
+  10.20- 12.80 y vas a ver tu dinero multiplicarse.
+  12.80- 17.40 Te la voy a enseñar ahora antes de que me callen.
+  17.40- 21.80 Presta mucha atención porque puede cambiar tu vida para siempre.
+  21.80- 26.60 Es una oración antigua de San Benito escondida durante siglos
+  26.60- 29.20 y tiene una forma correcta de hacerse.
+  29.20- 30.50 Repite conmigo,
+  30.50- 32.70 O poderoso, San Benito,
+  32.70- 35.20 Guardián de los arcanos sagrados,
+  35.20- 37.30 Que venciste a las serpientes
+  37.30- 39.00 Con la señal de la cruz.
+  39.00- 41.50 Alto el resto no lo puedo decir aquí.
+  41.50- 43.80 La última vez que la enseñé completa,
+  43.80- 46.10 Me borraron la transmisión.
+  46.10- 48.30 Miles de personas ya me escribieron.
+  48.30- 50.90 Salieron de las deudas después de hacerla.
+  50.90- 54.70 Pero sólo funciona si la haces de la forma correcta.
+  54.70- 57.00 No es una oración cualquiera.
+  57.00- 59.00 Y antes de que me pregunten,
+  59.00- 66.16 Dios quiere que prosperes, sí, con prosperidad tu familia deja de vivir angustiada y puedes ayudar al prójimo.
+  66.16- 69.32 Miren lo que me contó un hermano de la parroquia.
+  69.32- 76.76 No es exageración, no. Empecé a hacer esta oración todos los días y desde entonces todo cambió.
+  76.76- 83.00 Llegó la paz, llegó el dinero, pero lo más importante fue lo que cambió por dentro.
+  83.00- 87.16 Mucha gente no creyó, pero quien la hizo cambió de vida.
+  87.16- 93.06 Por eso la estoy rezando completa, en vivo, paso a paso, vuelven siete días y cuéntame
+  93.06- 99.22 qué bendiciones llegaron. Envía este vídeo aquí en Amas, toca en ver más aquí abajo
+  99.22-100.94 y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 39.17s e 39.30s (133 ms)
+1 problema(s)

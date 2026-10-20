@@ -1,0 +1,51 @@
+REVISÃO: 03_SB-FR_COSTURERA_COMPLETA.mp4
+duração 55.23s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 42.1 MB
+decodificação: OK
+pts do áudio: 2591 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\medalla\_tmp\rev_03_SB-FR_COSTURERA\03_SB-FR_COSTURERA_COMPLETA_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  2.80 J'ai pris à genoux, à côté de ma machine à coudre, arrêté.
+   2.80-  4.40 Et voilà ce qui s'est passé.
+   4.40-  7.40 Au glorieux Saint-Benoît, sort-moi de cette misère.
+   9.80- 12.00 J'ai passé presque 6 mois sans une seule commande.
+  12.00- 14.80 Mes mains qui avaient toujours travaillé ne servaient pas à rien.
+  14.80- 16.10 Je me sentais inutile.
+  16.10- 18.20 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  18.20- 21.40 que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  21.40- 23.80 Des millions de personnes portent cette médaille.
+  23.80- 27.70 Et personne ne leur a jamais expliqué ce que disent ces lettres.
+  27.70- 29.10 Ce n'est pas un manque de foi.
+  29.10- 32.26 c'est que personne ne leur a appris la bonne façon de la prier.
+  32.26- 36.84 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va
+  36.84- 41.68 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  41.68- 45.94 C'est pour ça que j'ai laissé l'explication complète, lettre par lettre,
+  45.94- 50.26 dans une transmission en direct ouverte 24h sur 24.
+  50.26- 55.14 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  4.34    Llegó a la mano de mi máquina a coger, y ahí fue lo que pasó.
+   4.34-  7.34    ¡Oh glorioso Sain Benoît! ¡Vámonos de esta misera!
+   9.84- 12.02    Hacé casi 6 meses sin una sola comanda.
+  12.02- 14.78    Mis manos, que siempre trabajaban, no servían nada más.
+  14.78- 16.12    Me sentí inútil.
+  16.12- 21.02    Hasta el día en el que un prédio explicó algo que nadie me había dicho sobre la medalla de Sain Benoît.
+  21.02- 23.78    Millón de personas portan esta medalla.
+  23.78- 27.74    Y nadie les ha explicado nada lo que dicen sus letras.
+  27.74- 32.08    no es una falta de veces. Es que nadie les ha aprendido la buena manera de pregarlo.
+  32.08- 36.72    Cuando la preguen de la buena manera, la casa se despeje, la fe se despeje.
+  36.72- 41.52    Y comencemos a ver más de las historias ahí donde no se vean solo las puertas cerradas.
+  41.52- 44.32    Es por eso que me dejé la explicación completa,
+  44.32- 50.16    letra por letra, en una transmisión en directo abierto, 24 horas por 24 horas.
+  50.16- 55.16    Apuye en saber más, justo debajo, y vien a pregar con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

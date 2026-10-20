@@ -1,0 +1,54 @@
+{
+  "ad": "16",
+  "arquivo": "16 AD.mp4",
+  "folha": "_estudo/folhas/16.jpg",
+  "idioma": "es (só uma frase: 'Taladro DCD999 FlexVolt')",
+  "origem": {
+    "perfil": "@jusarbolivia (TikTok)",
+    "tipo": "loja (Santa Cruz, Bolívia)"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 25.4,
+  "cortes": {
+    "n": 0,
+    "ritmo": "plano fixo único de 25 s (troca de broca + furo no bloco)"
+  },
+  "formato": "demo de teste/força (resposta a comentário: furar concreto)",
+  "gancho": {
+    "visual": "0-3 s: homem (só torso, luvas vermelhas) com a furadeira sobre um bloco de concreto; balão de comentário 'cualquier taladro ase hueco madera pero aselo concreto'",
+    "fala_ou_texto": "Fala: 'Taladro DCD999 FlexVolt' / tela: 'Responder al comentario de ww.ivan.123: cualquier taladro ase hueco madera pero aselo concreto' + 'Taladro DCD999 Flexvolt'"
+  },
+  "estrutura": [
+    {
+      "t": "0-5",
+      "bloco": "monta a broca de concreto"
+    },
+    {
+      "t": "5-23",
+      "bloco": "fura o bloco em modo percussão (pó, LED aceso)"
+    },
+    {
+      "t": "23-25.4",
+      "bloco": "mostra a furadeira"
+    }
+  ],
+  "cta": "nenhum",
+  "texto_tela": "balão de resposta a comentário + etiqueta amarela 'Taladro DCD999 Flexvolt'",
+  "produto": {
+    "mostrado": "DeWalt DCD999 FlexVolt Advantage (furadeira de impacto 20V/60V, escrito na tela)",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "nenhuma além do balão de comentário",
+  "audio": "som real da furadeira no concreto, sem música",
+  "uso": [
+    "só referência de formato (gancho de resposta a comentário/objeção + prova no concreto)"
+  ],
+  "nota": {
+    "valor": 3,
+    "justificativa": "O gancho de objeção ('qualquer furadeira fura madeira, quero ver no concreto') é forte para COD. O DCD999 é outro modelo, maior; dá para recriar a prova com o DCD7771 em bloco ou tijolo. Atenção: precisa de revisão manual se o DCD7771 tem percussão antes de prometer concreto (conferir no ESTUDO.md)."
+  }
+}

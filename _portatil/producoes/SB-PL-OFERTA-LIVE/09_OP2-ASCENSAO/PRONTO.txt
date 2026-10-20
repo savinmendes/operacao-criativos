@@ -1,0 +1,6 @@
+SB-PL-OP2-ASCENSAO pronto em 16/10/2026.
+Arquivo: SB-PL-OP2-ASCENSAO.mp4, 28,7 s, 1080x1920, 30 fps, 19,9 MB.
+Voz: ElevenLabs Jesus The Chosen (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, speed 1.0 (whisper pl transcreveu igual ao roteiro).
+HeyGen: 4 jobs de lipsync em modo speed (gancho, corpo, clipA, clipB), todos aprovados no checar_lipsync (índice de pausa 0,04 / 0,15 / 0,11 / 0,08).
+O clipA tem lipsync na frase "ale tylko jeśli znów jej nie odrzucisz" (correção do IT). O clipA e o clipB foram recortados de novo do SB-CORPO_CTA_COMPLETO_JESU.mp4 (em 16,16 s e 22,10 s) para caber o polonês.
+QA: revisar_ad pl OK (sem termo proibido, sem salto de pts, sem silêncio, sem quadro solto). O revisor independente deu OK; ele só sugeriu um ajuste no texto do anúncio, que foi aplicado.

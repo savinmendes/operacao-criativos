@@ -1,0 +1,31 @@
+REVISÃO: SB-ES_MADRE_COMPLETA.mp4
+duração 60.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 40.8 MB
+decodificação: OK
+pts do áudio: 2841 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\madre\completa\revisao\SB-ES_MADRE_COMPLETA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  5.88 Recé en el piso de mi cocina, con las cuentas sobre la mesa, y esto fue lo que pasó.
+   5.88-  7.94 ¡Oh glorioso San Benito!
+   7.94-  9.94 ¡Protege a mis hijos!
+  12.38- 16.66 Trabajaba de sol a sol, y aun así las cuentas no cerraban.
+  16.66- 19.60 Mi hijo me preguntó por qué siempre estaba triste.
+  19.60- 21.86 Sentía que les estaba fallando.
+  21.86- 27.80 Hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  27.80- 33.56 Millones de personas llevan esta medalla, y nunca les explicaron lo que dicen sus letras,
+  33.56- 38.28 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  38.28- 44.60 de la forma correcta, la casa se calma, el miedo se va, y uno vuelve a ver salidas donde
+  44.60- 50.36 antes solo veía puertas cerradas. Por eso dejé la explicación completa, letra por
+  50.36- 54.96 letra en una transmisión en vivo que está abierta las 24 horas.
+  54.96- 60.12 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,27 @@
+{
+ "arquivo": "VAR 27 - G7-COPIAS x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 310.63,
+ "mb": 39.0,
+ "whisper_gancho": "Cuidado con las copias. Hay frascos que se ven idénticos, pero por dentro son otra cosa. Antes de comprar, escucha mi historia.",
+ "whisper_emenda": "Antes de comprar, escucha mi historia.",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  2.2,
+  3.766667,
+  5.866667,
+  7.533333,
+  8.433333,
+  10.833333
+ ],
+ "cortes_plan": [
+  2.2,
+  3.767,
+  5.867,
+  7.533,
+  8.467
+ ],
+ "silencios": [],
+ "ok": true
+}

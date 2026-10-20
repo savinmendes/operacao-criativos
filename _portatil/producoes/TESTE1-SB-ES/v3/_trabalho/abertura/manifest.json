@@ -1,0 +1,269 @@
+{
+ "projeto": "SB-ES v3 — abertura (B01–B06)",
+ "formato": "720x840 (janela de vídeo da moldura do post, WIN=(0,297,720,840) do piloto.py), 30 fps, H.264, cor bt601/tv fixa (comum3: quadros+ENC_VF+ENC_TAG)",
+ "itens": [
+  {
+   "arquivo": "react_briga.mp4",
+   "blocos": [
+    "B01",
+    "B02",
+    "B03"
+   ],
+   "texto": "B01 MUJER: Gente, después dicen que Dios no existe. | B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora! | B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.",
+   "duracao_s": 10.4,
+   "quadros": 312,
+   "fps": 30,
+   "audio": "mixado: voz L01 (Karly, v1 voz/c/L01.wav) a partir de 0,000 + som nativo do take (Seedance) deslocado 2,800 s + ambiente da cauda silenciosa do take no pré-roll; loudnorm -14 LUFS (medido -14,0), TP -3",
+   "pip": {
+    "caixa": [
+     0,
+     300,
+     304,
+     540
+    ],
+    "recorte_x": 284,
+    "quadros": 83,
+    "fonte": "v2/_trabalho/react/w/hg_low.mp4 (HeyGen fundo verde, chroma+despill de compor.py v2)",
+    "nota": "PiP menor que na v2 (405x720) para não cobrir o rosto do Don Aurelio; some no quadro 83 (corte seco)"
+   },
+   "estrutura": [
+    {
+     "de_s": 0.0,
+     "ate_s": 2.8,
+     "fonte": "takes/k_pre.mp4 (Kling 2.5 Turbo first→last frame, 2,283–5,083 s): agressor empurra/aponta, sem fala; termina no quadro 0 do Seedance (4 quadros fundidos na junção, sem salto visível)"
+    },
+    {
+     "de_s": 2.8,
+     "ate_s": 10.4,
+     "fonte": "takes/seedance_briga.mp4 0,0–7,6 s (Seedance 2.0 i2v 11 s, 3:4, 720p, áudio nativo ES; scdet: sem corte de câmera)"
+    }
+   ],
+   "palavras_whisper_small_no_arquivo_final": [
+    {
+     "w": "Gente,",
+     "ini": 0.0,
+     "fim": 0.34,
+     "p": 0.41
+    },
+    {
+     "w": "después",
+     "ini": 0.72,
+     "fim": 1.02,
+     "p": 0.99
+    },
+    {
+     "w": "dicen",
+     "ini": 1.02,
+     "fim": 1.42,
+     "p": 0.99
+    },
+    {
+     "w": "que",
+     "ini": 1.42,
+     "fim": 1.58,
+     "p": 1.0
+    },
+    {
+     "w": "Dios",
+     "ini": 1.58,
+     "fim": 1.82,
+     "p": 0.97
+    },
+    {
+     "w": "no",
+     "ini": 1.82,
+     "fim": 1.96,
+     "p": 1.0
+    },
+    {
+     "w": "existe.",
+     "ini": 1.96,
+     "fim": 2.42,
+     "p": 1.0
+    },
+    {
+     "w": "¿No",
+     "ini": 3.04,
+     "fim": 3.28,
+     "p": 0.75
+    },
+    {
+     "w": "crees",
+     "ini": 3.28,
+     "fim": 3.66,
+     "p": 0.73
+    },
+    {
+     "w": "en",
+     "ini": 3.66,
+     "fim": 3.8,
+     "p": 1.0
+    },
+    {
+     "w": "Dios?",
+     "ini": 3.8,
+     "fim": 4.08,
+     "p": 0.99
+    },
+    {
+     "w": "¡Entonces",
+     "ini": 4.26,
+     "fim": 4.62,
+     "p": 0.9
+    },
+    {
+     "w": "llámalo",
+     "ini": 4.62,
+     "fim": 5.14,
+     "p": 0.6
+    },
+    {
+     "w": "ahora!",
+     "ini": 5.14,
+     "fim": 5.48,
+     "p": 0.99
+    },
+    {
+     "w": "Señor,",
+     "ini": 6.2,
+     "fim": 6.52,
+     "p": 0.62
+    },
+    {
+     "w": "yo",
+     "ini": 6.78,
+     "fim": 6.84,
+     "p": 0.95
+    },
+    {
+     "w": "no",
+     "ini": 6.84,
+     "fim": 6.98,
+     "p": 1.0
+    },
+    {
+     "w": "hice",
+     "ini": 6.98,
+     "fim": 7.24,
+     "p": 1.0
+    },
+    {
+     "w": "nada.",
+     "ini": 7.24,
+     "fim": 7.62,
+     "p": 1.0
+    },
+    {
+     "w": "Pare,",
+     "ini": 7.92,
+     "fim": 8.2,
+     "p": 0.76
+    },
+    {
+     "w": "por",
+     "ini": 8.2,
+     "fim": 8.4,
+     "p": 0.92
+    },
+    {
+     "w": "el",
+     "ini": 8.4,
+     "fim": 8.5,
+     "p": 1.0
+    },
+    {
+     "w": "amor",
+     "ini": 8.5,
+     "fim": 8.68,
+     "p": 0.98
+    },
+    {
+     "w": "de",
+     "ini": 8.68,
+     "fim": 8.86,
+     "p": 1.0
+    },
+    {
+     "w": "Dios.",
+     "ini": 8.86,
+     "fim": 9.14,
+     "p": 1.0
+    }
+   ],
+   "fim_ultima_palavra_s": 9.28,
+   "intervalos_ruins": [],
+   "observacoes": "1,1 s de silêncio tenso depois de 'Dios' (9,28→10,4): o montador pode aparar. Whisper small sem prompt ouve 'no crecen dios' no take bruto; no arquivo final e com o medium sai '¿No crees en Dios?'. 'Pare' p=0,43 no medium (soa 'Pare,' rápido)."
+  },
+  {
+   "arquivo": "briga_limpa.mp4",
+   "blocos": [
+    "B02",
+    "B03"
+   ],
+   "texto": "mesmo vídeo do react_briga sem o PiP e sem áudio (reserva)",
+   "duracao_s": 10.4,
+   "quadros": 312,
+   "fps": 30
+  },
+  {
+   "arquivo": "b04_vazio.mp4",
+   "blocos": [
+    "B04"
+   ],
+   "texto": "(sem fala) carrinho vazio, vendedor sozinho de cabeça baixa",
+   "duracao_s": 3.0,
+   "quadros": 90,
+   "fps": 30,
+   "audio": "nenhum (trilha triste fica com o montador)",
+   "fonte": "takes/k_b04.mp4 0–3 s (Kling 2.5 Turbo i2v 5 s) de imagens/b04_vazio.png",
+   "intervalos_ruins": [],
+   "nota": "um carro branco entra pela rua ao fundo perto de 2,5 s"
+  },
+  {
+   "arquivo": "b05_cinco.mp4",
+   "blocos": [
+    "B05"
+   ],
+   "texto": "(sem fala) 5 clientes no carrinho, vendedor servindo",
+   "duracao_s": 3.0,
+   "quadros": 90,
+   "fps": 30,
+   "audio": "nenhum",
+   "fonte": "takes/k_b05.mp4 0–3 s de imagens/b05_cinco.png",
+   "intervalos_ruins": [],
+   "nota": "as 5 pessoas já estão no carrinho desde o 1º quadro (não chegam andando); depois de 3 s o take tem gente saindo, não usar"
+  },
+  {
+   "arquivo": "b06_fila.mp4",
+   "blocos": [
+    "B06"
+   ],
+   "texto": "(sem fala) fila muito cheia no carrinho",
+   "duracao_s": 3.0,
+   "quadros": 90,
+   "fps": 30,
+   "audio": "nenhum",
+   "fonte": "takes/k_b06.mp4 0–3 s de imagens/b06_fila.png",
+   "intervalos_ruins": []
+  }
+ ],
+ "imagens": {
+  "briga_v3.png": "GPT Image 2 is2i 1k 3:4 de v2 briga_gpt + aurelio_gpt + colar ref (vendedor = Aurelio da entrevista, camisa cinza-clara, colar San Benito)",
+  "b04/b05/b06 + pre_f0.png": "GPT Image 2.5 Sunburst is2i 1k 3:4 a partir de briga_v3.png / quadro 0 do Seedance (mesma rua, carrinho, ângulo, vendedor)"
+ },
+ "custo_usd_flora": {
+  "briga_v3.png (GPT Image 2)": 0.283,
+  "seedance_briga 11 s": 2.328,
+  "b04/b05/b06 imagens (3×0,064)": 0.192,
+  "Kling 2.5 i2v b04/b05/b06 (3×0,294)": 0.882,
+  "pre_f0.png (GPT 2.5)": 0.064,
+  "Kling 2.5 f2v pré-roll": 0.294,
+  "total": 4.043
+ },
+ "heygen_creditos": 0,
+ "elevenlabs": "nada novo (L01 reaproveitado)",
+ "scripts": [
+  "compor_abertura.py [briga|virada|tudo] (config cfg.json)"
+ ],
+ "flora_projeto": "SB-ES Noticia Aurelio v2 (prj_ns77v55g05n8147xj1rv3f9ebx8g91ks)"
+}

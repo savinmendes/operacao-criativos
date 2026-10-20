@@ -1,0 +1,1867 @@
+{
+"linhas": [
+{
+"k": "R1",
+"quem": "rep",
+"ini": 1.1,
+"fim": 6.023,
+"a": 0.0
+},
+{
+"k": "D1",
+"quem": "due",
+"ini": 6.75,
+"fim": 12.276,
+"a": 0.0
+},
+{
+"k": "D2",
+"quem": "due",
+"ini": 12.7,
+"fim": 18.18,
+"a": 0.0
+},
+{
+"k": "D2",
+"quem": "due",
+"ini": 18.5,
+"fim": 23.606,
+"a": 5.9
+},
+{
+"k": "J04",
+"quem": "jm",
+"ini": 24.05,
+"fim": 34.862,
+"a": 0.138
+},
+{
+"k": "J05",
+"quem": "jm",
+"ini": 35.162,
+"fim": 40.747,
+"a": 0.08
+},
+{
+"k": "J06",
+"quem": "jm",
+"ini": 41.047,
+"fim": 49.536,
+"a": 0
+},
+{
+"k": "J07",
+"quem": "jm",
+"ini": 49.986,
+"fim": 55.295,
+"a": 0.092
+},
+{
+"k": "J08",
+"quem": "jm",
+"ini": 55.695,
+"fim": 65.878,
+"a": 0.034
+},
+{
+"k": "J09",
+"quem": "jm",
+"ini": 66.178,
+"fim": 73.838,
+"a": 0.051
+},
+{
+"k": "J10",
+"quem": "jm",
+"ini": 74.137,
+"fim": 82.755,
+"a": 0.04
+},
+{
+"k": "J11a",
+"quem": "jm",
+"ini": 83.055,
+"fim": 87.301,
+"a": 0.086
+},
+{
+"k": "JN",
+"quem": "jmC",
+"ini": 87.601,
+"fim": 91.631,
+"a": 0.011
+},
+{
+"k": "J11b",
+"quem": "jm",
+"ini": 91.931,
+"fim": 95.072,
+"a": 7.354
+},
+{
+"k": "J12",
+"quem": "jm",
+"ini": 95.372,
+"fim": 101.604,
+"a": 0.045
+}
+],
+"palavras": [
+{
+"w": "¿Vieron",
+"ini": 1.1,
+"fim": 1.518,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "lo",
+"ini": 1.564,
+"fim": 1.646,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "que",
+"ini": 1.692,
+"fim": 1.773,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "acaba",
+"ini": 1.797,
+"fim": 2.098,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "de",
+"ini": 2.122,
+"fim": 2.191,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "pasar",
+"ini": 2.249,
+"fim": 2.54,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "en",
+"ini": 2.574,
+"fim": 2.633,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "este",
+"ini": 2.691,
+"fim": 2.888,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "restaurante?",
+"ini": 2.946,
+"fim": 3.817,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "¡Nadie",
+"ini": 4.084,
+"fim": 4.676,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "lo",
+"ini": 4.711,
+"fim": 4.792,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "puede",
+"ini": 4.838,
+"fim": 5.059,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "explicar!",
+"ini": 5.082,
+"fim": 6.023,
+"linha": "R1",
+"quem": "rep"
+},
+{
+"w": "No",
+"ini": 6.75,
+"fim": 6.924,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "lo",
+"ini": 6.982,
+"fim": 7.063,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "van",
+"ini": 7.11,
+"fim": 7.226,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "a",
+"ini": 7.284,
+"fim": 7.307,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "creer.",
+"ini": 7.354,
+"fim": 7.748,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "Pasé",
+"ini": 8.039,
+"fim": 8.329,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "seis",
+"ini": 8.387,
+"fim": 8.666,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "meses",
+"ini": 8.735,
+"fim": 9.118,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "casi",
+"ini": 9.176,
+"fim": 9.49,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "sin",
+"ini": 9.548,
+"fim": 9.745,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "clientes…",
+"ini": 9.792,
+"fim": 10.488,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "ya",
+"ini": 10.837,
+"fim": 11.011,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "iba",
+"ini": 11.057,
+"fim": 11.255,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "a",
+"ini": 11.29,
+"fim": 11.324,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "cerrar.",
+"ini": 11.371,
+"fim": 12.276,
+"linha": "D1",
+"quem": "due"
+},
+{
+"w": "Recé",
+"ini": 12.7,
+"fim": 13.095,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "la",
+"ini": 13.176,
+"fim": 13.28,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "oración",
+"ini": 13.339,
+"fim": 13.838,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "de",
+"ini": 13.896,
+"fim": 14.0,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "San",
+"ini": 14.058,
+"fim": 14.244,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "Benito",
+"ini": 14.302,
+"fim": 14.825,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "y",
+"ini": 15.115,
+"fim": 15.196,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "minutos",
+"ini": 15.266,
+"fim": 15.777,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "después",
+"ini": 15.835,
+"fim": 16.334,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "mi",
+"ini": 16.392,
+"fim": 16.485,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "restaurante",
+"ini": 16.555,
+"fim": 17.274,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "se",
+"ini": 17.344,
+"fim": 17.472,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "llenó.",
+"ini": 17.518,
+"fim": 18.133,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "La",
+"ini": 18.579,
+"fim": 18.765,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "aprendí",
+"ini": 18.788,
+"fim": 19.206,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "con",
+"ini": 19.264,
+"fim": 19.38,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "el",
+"ini": 19.438,
+"fim": 19.508,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "padre",
+"ini": 19.566,
+"fim": 19.903,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "Juan",
+"ini": 19.961,
+"fim": 20.286,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "Méndez,",
+"ini": 20.39,
+"fim": 21.087,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "en",
+"ini": 21.226,
+"fim": 21.331,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "una",
+"ini": 21.4,
+"fim": 21.551,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "transmisión",
+"ini": 21.598,
+"fim": 22.48,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "en",
+"ini": 22.596,
+"fim": 22.794,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "vivo.",
+"ini": 22.898,
+"fim": 23.606,
+"linha": "D2",
+"quem": "due"
+},
+{
+"w": "Presten",
+"ini": 24.05,
+"fim": 24.469,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "mucha",
+"ini": 24.516,
+"fim": 24.864,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "atención,",
+"ini": 24.887,
+"fim": 25.549,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "porque",
+"ini": 25.584,
+"fim": 25.909,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "esta",
+"ini": 25.944,
+"fim": 26.164,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "oración",
+"ini": 26.188,
+"fim": 26.629,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "puede",
+"ini": 26.687,
+"fim": 26.907,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "cambiar",
+"ini": 26.977,
+"fim": 27.383,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "su",
+"ini": 27.476,
+"fim": 27.616,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "vida.",
+"ini": 27.674,
+"fim": 27.975,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "Cada",
+"ini": 27.999,
+"fim": 28.301,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "vez",
+"ini": 28.359,
+"fim": 28.556,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 28.626,
+"fim": 28.719,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 28.777,
+"fim": 28.846,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "enseño,",
+"ini": 28.869,
+"fim": 29.415,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "intentan",
+"ini": 29.438,
+"fim": 29.949,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "tumbar",
+"ini": 30.007,
+"fim": 30.437,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 30.495,
+"fim": 30.565,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "transmisión",
+"ini": 30.623,
+"fim": 31.354,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 31.4,
+"fim": 31.424,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "decir",
+"ini": 31.482,
+"fim": 31.83,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 31.9,
+"fim": 31.993,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "es",
+"ini": 32.039,
+"fim": 32.109,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "mentira.",
+"ini": 32.178,
+"fim": 32.712,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "No",
+"ini": 32.759,
+"fim": 32.91,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "quieren",
+"ini": 32.979,
+"fim": 33.293,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 33.351,
+"fim": 33.421,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "nuestra",
+"ini": 33.479,
+"fim": 33.78,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "gente",
+"ini": 33.827,
+"fim": 34.187,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "prospere.",
+"ini": 34.256,
+"fim": 34.862,
+"linha": "J04",
+"quem": "jm"
+},
+{
+"w": "Pero",
+"ini": 35.162,
+"fim": 35.349,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "los",
+"ini": 35.384,
+"fim": 35.512,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "testimonios",
+"ini": 35.57,
+"fim": 36.22,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 36.278,
+"fim": 36.371,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "llegan",
+"ini": 36.406,
+"fim": 36.823,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "todos",
+"ini": 36.905,
+"fim": 37.23,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "los",
+"ini": 37.253,
+"fim": 37.404,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "días",
+"ini": 37.462,
+"fim": 37.799,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "no",
+"ini": 37.892,
+"fim": 38.008,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "mienten.",
+"ini": 38.077,
+"fim": 38.6,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "Y",
+"ini": 38.658,
+"fim": 38.739,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "yo",
+"ini": 38.832,
+"fim": 38.937,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "no",
+"ini": 38.995,
+"fim": 39.076,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "voy",
+"ini": 39.122,
+"fim": 39.331,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 39.366,
+"fim": 39.389,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "dejar",
+"ini": 39.447,
+"fim": 39.807,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 39.877,
+"fim": 39.935,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "enseñarla.",
+"ini": 39.958,
+"fim": 40.747,
+"linha": "J05",
+"quem": "jm"
+},
+{
+"w": "Repitan",
+"ini": 41.047,
+"fim": 41.569,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "conmigo:",
+"ini": 41.627,
+"fim": 42.162,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "Oh",
+"ini": 42.196,
+"fim": 42.301,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "poderoso",
+"ini": 42.336,
+"fim": 42.928,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "San",
+"ini": 42.997,
+"fim": 43.183,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "Benito,",
+"ini": 43.23,
+"fim": 43.775,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "guardián",
+"ini": 43.833,
+"fim": 44.298,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 44.344,
+"fim": 44.402,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "los",
+"ini": 44.449,
+"fim": 44.6,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "arcanos",
+"ini": 44.669,
+"fim": 45.145,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "sagrados,",
+"ini": 45.169,
+"fim": 45.842,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 45.923,
+"fim": 46.016,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "venciste",
+"ini": 46.063,
+"fim": 46.852,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 46.945,
+"fim": 47.003,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "las",
+"ini": 47.073,
+"fim": 47.224,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "serpientes",
+"ini": 47.258,
+"fim": 48.117,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "con",
+"ini": 48.187,
+"fim": 48.315,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 48.35,
+"fim": 48.419,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "señal",
+"ini": 48.489,
+"fim": 48.861,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 48.907,
+"fim": 48.977,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 49.023,
+"fim": 49.116,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "cruz…",
+"ini": 49.197,
+"fim": 49.536,
+"linha": "J06",
+"quem": "jm"
+},
+{
+"w": "¡Alto!",
+"ini": 49.986,
+"fim": 50.533,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "El",
+"ini": 50.579,
+"fim": 50.718,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "resto",
+"ini": 50.788,
+"fim": 51.043,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "no",
+"ini": 51.101,
+"fim": 51.171,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "lo",
+"ini": 51.218,
+"fim": 51.287,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "puedo",
+"ini": 51.334,
+"fim": 51.612,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "decir",
+"ini": 51.659,
+"fim": 52.007,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "aquí.",
+"ini": 52.042,
+"fim": 52.355,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "Ya",
+"ini": 52.402,
+"fim": 52.529,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "me",
+"ini": 52.576,
+"fim": 52.657,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "borraron",
+"ini": 52.692,
+"fim": 53.214,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 53.273,
+"fim": 53.354,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "transmisión",
+"ini": 53.423,
+"fim": 54.225,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "por",
+"ini": 54.294,
+"fim": 54.422,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "enseñarla.",
+"ini": 54.48,
+"fim": 55.295,
+"linha": "J07",
+"quem": "jm"
+},
+{
+"w": "Esta",
+"ini": 55.695,
+"fim": 55.998,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "oración",
+"ini": 56.033,
+"fim": 56.509,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "estuvo",
+"ini": 56.567,
+"fim": 56.915,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "escondida",
+"ini": 56.95,
+"fim": 57.6,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "por",
+"ini": 57.658,
+"fim": 57.832,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "novecientos",
+"ini": 57.902,
+"fim": 58.784,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "años.",
+"ini": 58.842,
+"fim": 59.272,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "Solo",
+"ini": 59.353,
+"fim": 59.713,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "los",
+"ini": 59.759,
+"fim": 59.899,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "más",
+"ini": 59.968,
+"fim": 60.189,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "poderosos",
+"ini": 60.27,
+"fim": 61.013,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 61.129,
+"fim": 61.245,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "conocían.",
+"ini": 61.315,
+"fim": 62.046,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "Y",
+"ini": 62.07,
+"fim": 62.116,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "tiene",
+"ini": 62.232,
+"fim": 62.476,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "una",
+"ini": 62.522,
+"fim": 62.685,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "forma",
+"ini": 62.778,
+"fim": 63.126,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "correcta",
+"ini": 63.196,
+"fim": 63.962,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 64.032,
+"fim": 64.101,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "hacerla",
+"ini": 64.148,
+"fim": 64.728,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 64.798,
+"fim": 64.844,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 64.926,
+"fim": 65.007,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "escucharla.",
+"ini": 65.03,
+"fim": 65.878,
+"linha": "J08",
+"quem": "jm"
+},
+{
+"w": "Muchos",
+"ini": 66.178,
+"fim": 66.533,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "me",
+"ini": 66.591,
+"fim": 66.673,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "preguntan:",
+"ini": 66.719,
+"fim": 67.381,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "padre,",
+"ini": 67.427,
+"fim": 67.938,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "¿Dios",
+"ini": 67.985,
+"fim": 68.345,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "quiere",
+"ini": 68.426,
+"fim": 68.67,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 68.728,
+"fim": 68.821,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "prosperemos?",
+"ini": 68.89,
+"fim": 69.819,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "¡Claro",
+"ini": 69.842,
+"fim": 70.202,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 70.26,
+"fim": 70.376,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "sí!",
+"ini": 70.434,
+"fim": 70.713,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "La",
+"ini": 70.771,
+"fim": 70.875,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "falta",
+"ini": 70.957,
+"fim": 71.328,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "de",
+"ini": 71.351,
+"fim": 71.41,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "dinero",
+"ini": 71.468,
+"fim": 71.874,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "es",
+"ini": 71.909,
+"fim": 71.955,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "lo",
+"ini": 72.013,
+"fim": 72.095,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "que",
+"ini": 72.164,
+"fim": 72.257,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "más",
+"ini": 72.327,
+"fim": 72.571,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "divide",
+"ini": 72.629,
+"fim": 73.0,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 73.035,
+"fim": 73.058,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "las",
+"ini": 73.093,
+"fim": 73.256,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "familias.",
+"ini": 73.325,
+"fim": 73.838,
+"linha": "J09",
+"quem": "jm"
+},
+{
+"w": "Lo",
+"ini": 74.137,
+"fim": 74.283,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "dice",
+"ini": 74.341,
+"fim": 74.631,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "el",
+"ini": 74.666,
+"fim": 74.724,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "Salmo",
+"ini": 74.817,
+"fim": 75.235,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "ciento",
+"ini": 75.293,
+"fim": 75.769,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "doce:",
+"ini": 75.815,
+"fim": 76.256,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "«Riqueza",
+"ini": 76.28,
+"fim": 77.232,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 77.313,
+"fim": 77.383,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "abundancia",
+"ini": 77.441,
+"fim": 78.369,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "habrá",
+"ini": 78.428,
+"fim": 78.799,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "en",
+"ini": 78.869,
+"fim": 78.938,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "su",
+"ini": 79.008,
+"fim": 79.171,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "casa,",
+"ini": 79.24,
+"fim": 79.751,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 79.786,
+"fim": 79.867,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "su",
+"ini": 79.96,
+"fim": 80.088,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "justicia",
+"ini": 80.134,
+"fim": 80.9,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "permanece",
+"ini": 80.97,
+"fim": 81.748,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "para",
+"ini": 81.841,
+"fim": 82.108,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "siempre.»",
+"ini": 82.189,
+"fim": 82.755,
+"linha": "J10",
+"quem": "jm"
+},
+{
+"w": "Por",
+"ini": 83.055,
+"fim": 83.19,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "eso",
+"ini": 83.248,
+"fim": 83.399,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "la",
+"ini": 83.457,
+"fim": 83.503,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "estoy",
+"ini": 83.526,
+"fim": 83.944,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "rezando",
+"ini": 84.142,
+"fim": 84.699,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "completa,",
+"ini": 84.757,
+"fim": 85.488,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "en",
+"ini": 85.523,
+"fim": 85.663,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "vivo,",
+"ini": 85.732,
+"fim": 86.162,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "paso",
+"ini": 86.231,
+"fim": 86.638,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 86.696,
+"fim": 86.731,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "paso.",
+"ini": 86.789,
+"fim": 87.241,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "A",
+"ini": 87.276,
+"fim": 87.301,
+"linha": "J11a",
+"quem": "jm"
+},
+{
+"w": "Imagina",
+"ini": 87.601,
+"fim": 88.136,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "pagar",
+"ini": 88.194,
+"fim": 88.647,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "la",
+"ini": 88.763,
+"fim": 88.902,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "última",
+"ini": 88.972,
+"fim": 89.378,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "cuota",
+"ini": 89.436,
+"fim": 89.924,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "y",
+"ini": 89.982,
+"fim": 90.04,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "dormir",
+"ini": 90.121,
+"fim": 90.469,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "tranquilo",
+"ini": 90.527,
+"fim": 91.038,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "otra",
+"ini": 91.061,
+"fim": 91.294,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "vez.",
+"ini": 91.328,
+"fim": 91.63,
+"linha": "JN",
+"quem": "jmC"
+},
+{
+"w": "Vuelve",
+"ini": 91.961,
+"fim": 92.483,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "en",
+"ini": 92.553,
+"fim": 92.716,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "siete",
+"ini": 92.808,
+"fim": 93.226,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "días",
+"ini": 93.273,
+"fim": 93.575,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 93.691,
+"fim": 93.726,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "cuéntame",
+"ini": 93.819,
+"fim": 94.341,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "qué",
+"ini": 94.399,
+"fim": 94.527,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "pasó.",
+"ini": 94.596,
+"fim": 95.072,
+"linha": "J11b",
+"quem": "jm"
+},
+{
+"w": "Envía",
+"ini": 95.372,
+"fim": 95.757,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "este",
+"ini": 95.803,
+"fim": 96.058,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "video",
+"ini": 96.105,
+"fim": 96.488,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 96.558,
+"fim": 96.592,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "quien",
+"ini": 96.662,
+"fim": 96.836,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "amas.",
+"ini": 96.918,
+"fim": 97.312,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "Toca",
+"ini": 97.359,
+"fim": 97.753,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "en",
+"ini": 97.8,
+"fim": 97.87,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "«Ver",
+"ini": 97.893,
+"fim": 98.183,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "más»,",
+"ini": 98.299,
+"fim": 98.764,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "aquí",
+"ini": 98.787,
+"fim": 99.123,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "abajo,",
+"ini": 99.193,
+"fim": 99.762,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "y",
+"ini": 99.82,
+"fim": 99.936,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "entra",
+"ini": 100.052,
+"fim": 100.389,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "a",
+"ini": 100.412,
+"fim": 100.435,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "rezar",
+"ini": 100.517,
+"fim": 100.935,
+"linha": "J12",
+"quem": "jm"
+},
+{
+"w": "conmigo.",
+"ini": 101.027,
+"fim": 101.604,
+"linha": "J12",
+"quem": "jm"
+}
+],
+"fim_fala": 101.604,
+"delta": 1.608,
+"jn_ini": 87.601,
+"jn_fim": 91.631,
+"c_off": 87.351,
+"j11b_ini": 91.931
+}

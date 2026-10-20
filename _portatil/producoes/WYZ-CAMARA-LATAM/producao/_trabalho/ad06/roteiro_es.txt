@@ -1,0 +1,13 @@
+AD 06 — esquete vecinos (reconstruido con avatares HeyGen; sin rostros de los actores originales)
+
+F1 VECINA (avatar): ¡Oye! ¿Me estás grabando? Esa cámara me sigue a todas partes.
+M1 VECINO (avatar): Tranquila, vecina. No te graba a ti: sigue cualquier movimiento. Mira.
+M2 VECINO (voz en off sobre takes del producto/app): Detecta el movimiento y gira sola para seguirlo. Y mira qué calidad: graba en dos K.
+F2 VECINA (avatar): Mmm... ¿y cuánto pagas de mensualidad por eso?
+M3 VECINO (avatar): Nada. No necesita suscripción, graba en una tarjeta micro SD. Y no tiene cables: se carga con el sol.
+M4 VECINO (voz en off sobre takes del producto/app): Desde la app la veo desde cualquier lugar. De noche ve a color, y hasta puedo hablar desde el celular.
+M5 VECINO (voz en off sobre takes del producto/app): Y si un gato se mete al patio, le prendo el reflector y sale corriendo.
+F3 VECINA (avatar): ¿Y si llueve?
+M6 VECINO (voz en off sobre takes del producto/app): Es resistente a la lluvia y al polvo.
+F4 VECINA (avatar): Bueno... ¿y dónde la consigo?
+M7 VECINO (avatar): Toca el botón de abajo y pide la tuya.

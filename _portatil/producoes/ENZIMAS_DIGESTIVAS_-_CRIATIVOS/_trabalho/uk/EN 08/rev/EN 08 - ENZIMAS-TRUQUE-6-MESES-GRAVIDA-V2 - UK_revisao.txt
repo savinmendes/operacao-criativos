@@ -1,0 +1,49 @@
+REVISÃO: EN 08 - ENZIMAS-TRUQUE-6-MESES-GRAVIDA-V2 - UK.mp4
+duração 116.40s | 720x1280 | 30/1 fps | áudio: sim | 28.3 MB
+decodificação: OK
+pts do áudio: 5014 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 868-1012, x 174-383 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ENZIMAS DIGESTIVAS - CRIATIVOS\_trabalho\uk\EN 08\rev\EN 08 - ENZIMAS-TRUQUE-6-MESES-GRAVIDA-V2 - UK_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  5.92 I'm not exaggerating when I say that this shit took me from looking six months pregnant after every single meal to seeing a waste
+   5.92- 12.36 I've literally never seen in my whole entire life before and I'm about to prove to you in real time how powerful digestive enzymes really are
+  12.36- 17.04 So this pudding is gonna signify all the disgusting shit that is stuck in our gut
+  17.04- 22.60 This right here is gonna just signify everything that stuck. I'm gonna show you in real time what a digestive enzyme does
+  22.60- 27.44 I use the physician's choice one just because it's the most cleanest one no cuts no edits
+  27.44- 32.08 This is literally just one digestive enzyme some of it even got on the table. Look at this
+  32.08- 35.60 It is gonna start to break down the pudding and
+  36.48- 42.04 It's actually crazy how fast it works if you have a gluten tolerance a dairy intolerance any sort of intolerance
+  42.04- 46.68 Or you literally just blow after eating every single thing no matter how healthy it is
+  46.76- 50.16 You're gonna want to watch this. This is like one of the craziest science experiments
+  50.16- 54.00 I can prove to you and show you how powerful look
+  54.00- 60.30 It's turning it into water melting it right off the side. I haven't even mixed it up. Do you see that?
+  60.60- 62.60 Look at this. It's still
+  62.88- 66.64 Just a blob. This is melting right off the sides of the cup now
+  66.80- 73.60 I'm gonna put one digestive enzyme on this side. This is like crazy. It will actually break down pizza
+  74.24- 79.38 literally hamburgers whatever most of us eat, you know, our modern diet is
+  79.38- 85.10 disgusting and horrible. This just proves how powerful it is and I just wanted to
+  85.10- 88.90 show you because I used to be you completely bloated all the time and now
+  88.90- 93.30 I am the most snatched I've ever been because of a digestive enzyme and these
+  93.30- 97.94 by physicians choice are so powerful look it's like already starting to melt
+  97.94-102.30 off the side. It's kind of crazy look at this one it's completely melted now so
+ 102.30-105.66 just wanted to prove to you and show you that these digestive enzymes are
+ 105.66-110.46 my favorite thing ever if you're eating clean literally no matter what you do
+ 110.46-114.66 and you're just still bloated whatever I'm soon let that go this shit's so
+ 114.66-118.22 powerful that's all I wanted to tell you
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: final_A.mp4 (189 quadros, rosto em 100%, rosto 250,190,210,290 [forçado (--rosto)])
+  boca x original: dif. boca 11.68 | dif. controle 1.81 | mudou em 81% dos quadros | corr. abertura saída x original -0.21
+  pausas da voz nova: índice de pausa 0.19 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.31 (atraso -33 ms) | corr. original 0.18
+APROVADO: boca mudou em 81% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.19)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,36 @@
+NARRACIÓN COMPLETA — SB-ES_NOTICIA-AURELIO_v3_FICTICIO.mp4 (2:48)
+Tiempos = momento en que empieza cada frase en el video final. Texto = ROTEIRO_v3 (narración fiel al original).
+Personajes ficticios: MUJER (react), AGRESOR, DON AURELIO (vendedor), REPORTERA y SACERDOTE (P. Andrés Molina, siempre dentro de la transmisión EN VIVO).
+Sello "VIDEO FICTICIO" arriba a la derecha durante todo el video. "(voz en off)" = narración sobre b-roll, sin rostro.
+Voces (ElevenLabs): mujer Karly · agresor Richard · don Aurelio Santiago · reportera Gabriela · sacerdote Pa Gabriel.
+B04–B06 sin voz (carrito vacío con música triste -> clientes llegando -> fila llena).
+
+[00:00] B01 MUJER (react): Gente, después dicen que Dios no existe.
+[00:03] B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora!
+[00:06] B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.
+[00:18] R01 REPORTERA: Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.
+[00:26] A01 DON AURELIO: Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.
+[00:26] A01 DON AURELIO: Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.
+[00:39] A02 DON AURELIO: Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.
+[00:39] A02 DON AURELIO: Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.
+[00:45] A03 DON AURELIO: ¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?
+[00:53] R02 REPORTERA: ¡Claro!
+[00:54] P01 SACERDOTE (EN VIVO): Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido.
+[00:58] V01 SACERDOTE (voz en off): No quieren que tengas acceso a esto, porque es una oración muy poderosa.
+[01:02] P02 SACERDOTE (EN VIVO): Repitan conmigo.
+[01:04] O01 SACERDOTE (oración, voz en off): Oh poderoso San Benito, guardián de los misterios sagrados, que venciste a la serpiente con la señal de la cruz y callaste el rugido del abismo con tu fe inquebrantable. Invoco ahora las doce palabras selladas por tu mano: Crux, Lux, Fides, Ignes, Veritas, Silentium, Gladius, Fortitudo, Custodia, Sanctitas, Spiritus y Triumphus.
+[01:29] P03 SACERDOTE (EN VIVO): Esta es la poderosísima oración de las doce palabras del Grimorio Sagrado y Secreto de San Benito.
+[01:35] V02 SACERDOTE (voz en off): Están surgiendo relatos de bendiciones todos los días.
+[01:38] V03 SACERDOTE (voz en off): Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.
+[01:45] V04 SACERDOTE (voz en off): Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes.
+[01:54] V05 SACERDOTE (voz en off): La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.
+[02:02] P04 SACERDOTE (EN VIVO): Pero atención: tiene que hacerse de la forma correcta, según las instrucciones del Grimorio, porque no es una oración común.
+[02:09] V06 SACERDOTE (voz en off): Tiene instrucciones y una manera correcta de hacerla y de escucharla.
+[02:14] P05 SACERDOTE (EN VIVO): Voy a pedirle a la producción que deje el Grimorio Sagrado y Secreto de San Benito disponible en este sitio, para que puedan hacerla de la forma correcta,
+[02:14] P05 SACERDOTE (EN VIVO): Voy a pedirle a la producción que deje el Grimorio Sagrado y Secreto de San Benito disponible en este sitio, para que puedan hacerla de la forma correcta,
+[02:23] V07 SACERDOTE (voz en off): pero no sé por cuánto tiempo va a estar disponible.
+[02:27] P06 SACERDOTE (EN VIVO): Y quien obtenga el Grimorio hoy recibirá de regalo un collar de plata de San Benito, el mismo que se usaba en sus oraciones.
+[02:35] P07 SACERDOTE (EN VIVO): Accede mientras todavía es posible.
+[02:37] V08 SACERDOTE (voz en off): A partir de hoy le darás la bienvenida a una vida próspera.
+[02:40] V09 SACERDOTE (voz en off): Vuelve aquí después de siete días para contar las bendiciones que llegaron a tu vida.
+[02:45] P08 SACERDOTE (EN VIVO): Envía este video a quien amas y haz la oración de la forma correcta.

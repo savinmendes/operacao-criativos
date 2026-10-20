@@ -1,0 +1,44 @@
+{
+ "cod": "F3",
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\VENCEDORES\\FORA\\F3 - VECINA-SAPA-A-ES-CL.mp4",
+ "gancho_s": 8.866666666666667,
+ "partes": [
+  [
+   "p0.mp4",
+   118
+  ],
+  [
+   "p1.mp4",
+   82
+  ],
+  [
+   "p2.mp4",
+   36
+  ],
+  [
+   "p3.mp4",
+   30
+  ]
+ ],
+ "falas": [
+  [
+   "F3_vizinha.mp3",
+   0.15,
+   3.39
+  ],
+  [
+   "F3_dono.mp3",
+   4.083,
+   2.183
+  ]
+ ],
+ "ganhos_db": [
+  32.7,
+  8.9
+ ],
+ "corte": 9.0,
+ "total_s": 56.0,
+ "mb": 25.8,
+ "kbps": 3955,
+ "cenas": "avatar vizinha na cerca (HeyGen) → avatar dono com a máquina (HeyGen) → close da máquina cortando o mato alto (original_04 27,6–28,8 s, só pernas) → câmera da porta cortando o mato (original_04 8,0–9,0 s, emenda contínua no corpo)"
+}

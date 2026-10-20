@@ -1,0 +1,30 @@
+REVISÃO: B5 - ORILLA-ORILLA-PERFECTA-ES-CL.mp4
+duração 38.47s | 720x1280 | 30/1 fps | áudio: sim | 25.4 MB
+decodificação: OK
+pts do áudio: 1804 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 34.22-38.44
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\B\revisao\B5 - ORILLA-ORILLA-PERFECTA-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.48 La parte más difícil era la orilla, hasta ahora.
+   3.48-  6.72 Mira, dos baterías, ruedas y cuatro cabezores.
+   6.72- 10.48 Las ruedas hacen más ligero el trabajo, una pasada y mira la diferencia.
+  10.48- 14.28 El cabezo también se ajusta y deja la orida bien pareja.
+  14.28- 17.76 Si valió la pena, pícale aquí abajo.
+  17.76- 20.12 Ya ni se venía la orilla, sigue viendo.
+  20.12- 23.20 Mira, dos baterías, ruedas y cuatro cabezores.
+  23.20- 27.00 Las ruedas hacen más ligero el trabajo, una pasada y mira la diferencia.
+  27.00- 30.00 El cabezo también se ajusta y deja la orida bien pareja.
+  31.00- 33.00 Si valió la pena, pícale aquí abajo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 4.25s no fim (a partir de 34.22s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 33.0s; vídeo vai até 38.5s
+1 problema(s)

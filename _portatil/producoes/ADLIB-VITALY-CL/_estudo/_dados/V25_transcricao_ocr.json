@@ -1,0 +1,58 @@
+{
+ "arquivo": "25 - Vitaly - 714399068325247.mp4",
+ "dur": 11.517098,
+ "segs": [
+  {
+   "ini": 9.98,
+   "fim": 11.38,
+   "txt": "¡Gracias por ver el vídeo!"
+  }
+ ],
+ "ocr": [
+  {
+   "t": 0,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 1,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 2,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 3,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 4,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 5,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 6,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 7,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 8,
+   "ocr": "\"Algun dia se ira la | hinchazon y volvera mi | energia?\""
+  },
+  {
+   "t": 9,
+   "ocr": "Si, yte vas a sentir | muchisimo mejor"
+  },
+  {
+   "t": 10,
+   "ocr": "Si, y te vas a sentir | muchisimo mejor | ABOLISH | ICE | LAMILIES | ETP"
+  }
+ ],
+ "video": "720,1280,30/1"
+}

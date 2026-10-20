@@ -1,0 +1,47 @@
+REVISÃO: DW7781_C2_casaIA.mp4
+duração 41.67s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.8 MB
+decodificação: OK
+pts do áudio: 1955 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: 30.97/31.00, 37.27/37.33
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao_final\DW7781_C2_casaIA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.00 tu taladro no le entra al muro, el problema no eres tú
+   5.00-  8.00 y tu taladro no es percutor, en el muro se queda girando y no avanza
+   8.00- 13.00 este taladro sí es percutor, tiras el anillo hasta el martillo
+  13.00- 17.00 y con broca de concreto entra en el muro sin pelear
+  17.00- 21.00 el modo taladro pasa limpio formadero en metal
+  21.00- 24.00 motor sin carbones, 20 volts max
+  24.00- 27.00 y trae dos baterías de 2 amperes horas
+  27.00- 32.00 con una trabajas y la otra se va cargando
+  32.00- 35.00 más el cargador y su maleta todo en un solo kit
+  35.00- 37.00 aprovecha el pre black friday
+  37.00- 39.00 pídelo hoy y pagas recién cuando te llegue
+  39.00- 41.00 envío a todo chile
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  5.00    Se o taladro não entra no muro, o problema não é você.
+   5.00-  8.00    Se o taladro não é percutor, no muro fica girando e não avança.
+   8.00- 10.00    Esse taladro, sim, é percutor.
+  10.00- 13.00    Gira o anilho até o martilho.
+  13.00- 17.00    E, com broca de concreto, entra no muro sem pelear.
+  17.00- 21.00    O modo taladro passa limpo por madero e metal.
+  21.00- 24.00    Motor sem carbões, 20 volts, max.
+  24.00- 27.00    E traz duas baterias de 2 amperes horas.
+  27.00- 32.00    com uma trabalha e a outra se vai cargando
+  32.00- 35.00    mais o cargador e sua maleta todo em um solo kit
+  35.00- 37.00    aproveita o Pre Black Friday
+  37.00- 39.00    pide-lo hoje e pague reciente quando você chega
+  39.00- 41.00    envio a todo Chile
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 30.97s e 31.00s (33 ms)
+PROBLEMA: quadro solto? cortes em 37.27s e 37.33s (67 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

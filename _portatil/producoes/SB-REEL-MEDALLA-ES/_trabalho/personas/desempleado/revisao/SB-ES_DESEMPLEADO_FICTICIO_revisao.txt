@@ -1,0 +1,30 @@
+REVISÃO: SB-ES_DESEMPLEADO_FICTICIO.mp4
+duração 68.20s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 45.6 MB
+decodificação: OK
+pts do áudio: 3198 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 971-1010, x 529-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\desempleado\revisao\SB-ES_DESEMPLEADO_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.00 O glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla.
+   5.00- 11.00 Sácame de esta escasez. Si me escuchas, ayúdame.
+  13.00- 16.00 A mis 50 y tantos me quedé sin trabajo.
+  16.00- 19.00 Toqué mil puertas y en todas me dijeron que no.
+  19.00- 22.00 Hasta que, en una transmisión en vivo,
+  22.00- 26.00 un padre explicó la forma exacta de pedirle a San Benito.
+  26.00- 31.92 Ese día recupere la paz, y poco a poco las puertas empezaron a abrirse.
+  33.28- 38.68 Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió,
+  38.68- 44.24 preparó un regalo poderoso solo para ti. En este video vas a escuchar la oración
+  44.24- 50.80 perdida de San Benito, que desbloquea una lluvia de milagros, pero solo si no la rechazas otra
+  50.80- 57.18 vez. Toca más información. Ahora, recibe tu milagro antes de que la puerta se cierre
+  57.18- 63.02 para siempre. Ahora mismo está ocurriendo una transmisión en vivo con San Benito.
+  63.02- 67.74 Toca el botón ver más aquí abajo del vídeo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

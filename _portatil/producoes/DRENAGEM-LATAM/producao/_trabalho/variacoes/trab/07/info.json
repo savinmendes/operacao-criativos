@@ -1,0 +1,58 @@
+{
+ "var": "07",
+ "gancho": "G7",
+ "corpo": "20",
+ "genero": "M",
+ "texto": "Cuidado con las copias. Hay frascos que se ven idénticos, pero por dentro son otra cosa. Antes de comprar, escucha mi historia.",
+ "Hd": 8.0,
+ "fala_s": 7.57,
+ "tomadas": [
+  {
+   "src": "20",
+   "ini": 5.992,
+   "dur": 1.6666666666666667
+  },
+  {
+   "src": "20",
+   "ini": 50.042,
+   "dur": 1.4333333333333333
+  },
+  {
+   "src": "25",
+   "ini": 1.458,
+   "dur": 1.2333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 101.391,
+   "dur": 1.1333333333333333
+  },
+  {
+   "src": "20",
+   "ini": 63.975,
+   "dur": 1.5333333333333334
+  },
+  {
+   "src": "20",
+   "ini": 113.042,
+   "dur": 1.0
+  }
+ ],
+ "corte": 10.933,
+ "frases": [
+  [
+   "Cuidado con las copias.",
+   0.058
+  ],
+  [
+   "Hay frascos que se ven idénticos, pero por dentro son otra cosa.",
+   1.324
+  ],
+  [
+   "Antes de comprar, escucha mi historia.",
+   5.108
+  ]
+ ],
+ "saida": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\VARIACOES\\VAR 07 - G7-COPIAS x AD20.mp4",
+ "seed": 52
+}

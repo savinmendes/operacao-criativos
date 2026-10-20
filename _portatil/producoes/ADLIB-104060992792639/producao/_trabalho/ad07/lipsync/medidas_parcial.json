@@ -1,0 +1,18 @@
+{
+ "s10": {
+  "quadros_saida": 241,
+  "idxES": NaN,
+  "corrES": 0.3201421096764711,
+  "corrPT": 0.09957192524921571,
+  "orig_idxES": NaN,
+  "qpausa": 0
+ },
+ "s12": {
+  "quadros_saida": 75,
+  "idxES": 2.279706801551435,
+  "corrES": 0.6110814028381905,
+  "corrPT": 0.3424360585494045,
+  "orig_idxES": 27.210482082627138,
+  "qpausa": 16
+ }
+}

@@ -1,0 +1,24 @@
+REVISÃO: 21 AD - ES.mp4
+duração 9.53s | 720x900 | 30/1 fps | áudio: sim | 1.7 MB
+decodificação: OK
+pts do áudio: 448 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 7 | pares a <0,3 s: 7.67/7.73
+setas (vermelho) no fim: y 541-828, x 166-544 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\MOPA VERDE - H2O X5\_trabalho\videos\21\21 AD - ES_revisao.jpg
+idioma detectado: en (0.67)
+
+=== transcrição (es) ===
+   0.00- 10.00 Subtítulos en español de Amara.org
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  2.00    You
+
+=== RESULTADO ===
+PROBLEMA: resolução 720x900 (esperado 720x1280 ou 1080x1920)
+PROBLEMA: quadro solto? cortes em 7.67s e 7.73s (67 ms)
+aviso: idioma detectado en (0.67), esperado es
+2 problema(s)

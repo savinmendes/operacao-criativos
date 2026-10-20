@@ -1,0 +1,41 @@
+REVISÃO: PL_PF-7_hook-falado.mp4
+duração 60.80s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.6 MB
+decodificação: OK
+pts do áudio: 2851 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 760-827, x 150-682 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PERFUMES-PL\_trabalho\pf7hook\revisao\PL_PF-7_hook-falado_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  1.70 Zapamiętają Cię po zapachu.
+   1.70-  3.20 Trzy perfumy w cenie jednych.
+   3.20-  5.30 Zostawisz ślad wszędzie, gdzie wejdziesz.
+   5.30-  7.70 100 sztuk. Teraz albo nigdy.
+   7.70- 12.30 Chcesz poznać perfumy, przez które kobiety oszaleją na Twoim punkcie?
+  12.30- 15.30 Uwaga, bo tej promocji nie możesz przegapić.
+  15.30- 19.70 Teraz zgarniesz trzy arabskie perfumy premium w jednej ofercie.
+  19.70- 23.50 Trzy różne zapachy, które zostawiają niezapomniane wrażenie.
+  23.50- 24.70 Arma w klap.
+  24.70- 26.70 Świeży męski i mocny.
+  26.70- 29.60 Daje energię, pewność siebie i charyzmę.
+  29.60- 44.10 Robi wrażenie od pierwszej chwili, lat tafa asad, intensywny, wyrafinowany i uwodzicielski, elegancka nuta, która przyciąga uwagę gdziekolwiek się pojawisz, zapach z charakterem na wyjątkowe okazje.
+  44.10- 47.60 Afnan. Eleganski, nowoczesny i szlachetny.
+  47.60- 51.10 Dla tych, którzy chcą emanować stylem i klasą.
+  51.10- 53.60 Uniwersalny zapach na każdą okazję.
+  53.60- 57.60 A najlepsze? W tej promocji bierzesz wszystkie trzy perfumy premium.
+  57.60- 60.60 Zamów teraz i zapłać dopiero przy odbiorze.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+
+=== RESULTADO ===
+PROBLEMA: lipsync: arquivo não encontrado 0
+PROBLEMA: lipsync: arquivo não encontrado 384
+PROBLEMA: lipsync: arquivo não encontrado 152
+PROBLEMA: lipsync: arquivo não encontrado 186
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+4 problema(s)

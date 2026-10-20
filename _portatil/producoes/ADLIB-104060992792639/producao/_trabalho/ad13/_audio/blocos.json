@@ -1,0 +1,81 @@
+[
+ {
+  "id": "b0",
+  "quem": "JESUS",
+  "ini": 0.15,
+  "fim": 6.5,
+  "texto": "No te asustes si, después de hacer esta oración sagrada, sientes una paz que llena tu cuerpo y tu alma."
+ },
+ {
+  "id": "b1",
+  "quem": "MULHER",
+  "ini": 6.6,
+  "fim": 15.1,
+  "texto": "Yo acabo de bajar para quitar el peso que cargas en el corazón, y cortar toda la envidia que cerró tus caminos.",
+  "nota": "v2: \"Porque\" cortado (corte_ini 0,37 s), fala comeca em 6,98 s, depois do glitch"
+ },
+ {
+  "id": "b2",
+  "quem": "MULHER",
+  "ini": 15.1,
+  "fim": 26.7,
+  "texto": "Fuiste tú a quien elegí entre tanta gente. Hay una bendición doble llegando hasta ti en esta oración: paz para tu cuerpo y tu alma, y alivio para tu corazón."
+ },
+ {
+  "id": "b3",
+  "quem": "MULHER",
+  "ini": 26.7,
+  "fim": 33.4,
+  "texto": "La envidia ató un nudo ciego y pesado en tu camino, que bloquea tu paz y tu alegría."
+ },
+ {
+  "id": "b4",
+  "quem": "MULHER",
+  "ini": 33.4,
+  "fim": 45.6,
+  "texto": "Y la culpa de lo que estás pasando nunca fue tuya. No es que tu fe sea débil. Rezaste, encendiste velas, hiciste promesas, y aun así tu corazón no encontraba descanso."
+ },
+ {
+  "id": "b5",
+  "quem": "MULHER",
+  "ini": 45.6,
+  "fim": 58.3,
+  "texto": "La culpa nunca fue tuya. Siempre fue ese nudo de envidia. No se trata de rezar más. Lo que desata ese nudo y devuelve la calma a tu vida es hacer esta oración de la manera correcta, sin fallas."
+ },
+ {
+  "id": "b6",
+  "quem": "MULHER",
+  "ini": 58.3,
+  "fim": 76.2,
+  "texto": "Y cuando el nudo se desate, una nueva fuerza y alegría llenarán tu espíritu, y la bendición de Dios llegará a tu hogar. Las preocupaciones que te quitan la paz se alivian, y tu corazón encuentra descanso."
+ },
+ {
+  "id": "b7",
+  "quem": "MULHER",
+  "ini": 76.2,
+  "fim": 91.3,
+  "texto": "Una mujer que vivía el momento más difícil de su vida, con el corazón lleno de miedo, hizo la oración de nueve palabras. Y en ese mismo mes, sintió una paz y una esperanza que no sentía hace mucho tiempo."
+ },
+ {
+  "id": "b8v4",
+  "quem": "MULHER",
+  "ini": 91.3,
+  "fim": 98.3,
+  "texto": "Pero presta mucha atención hasta el final, porque este momento es para ti, y esta oración sagrada fue preparada con amor para ti.",
+  "nota": "v2: frase nova sem urgencia falsa, 1,06x"
+ },
+ {
+  "id": "b9",
+  "quem": "MULHER",
+  "ini": 98.3,
+  "fim": 106.3,
+  "texto": "Entonces toca el botón de abajo ahora, porque te dejé un video corto y gratuito con el orden correcto de las oraciones, una para cada nudo."
+ },
+ {
+  "id": "b10",
+  "quem": "MULHER",
+  "ini": 106.3,
+  "fim": 120.0,
+  "texto": "No lo dejes para después. El enemigo no quiere que recibas esta bendición. No dejes pasar este momento. Toca el botón de abajo, y recibe lo que Dios ya preparó para ti."
+ }
+]

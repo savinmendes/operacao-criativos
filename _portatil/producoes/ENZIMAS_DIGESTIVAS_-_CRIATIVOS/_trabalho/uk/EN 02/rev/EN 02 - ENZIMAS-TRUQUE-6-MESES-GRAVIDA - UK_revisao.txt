@@ -1,0 +1,56 @@
+REVISÃO: EN 02 - ENZIMAS-TRUQUE-6-MESES-GRAVIDA - UK.mp4
+duração 120.00s | 720x1280 | 30/1 fps | áudio: sim | 35.1 MB
+decodificação: OK
+pts do áudio: 5167 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 1 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 754-1188, x 258-490 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\ENZIMAS DIGESTIVAS - CRIATIVOS\_trabalho\uk\EN 02\rev\EN 02 - ENZIMAS-TRUQUE-6-MESES-GRAVIDA - UK_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  5.20 I'm not exaggerating when I say this little trick i'm about to show you took me from looking six months pregnant after every meal to
+   5.20- 10.32 Seeing a waste I haven't seen in years and now I can pretty much eat whatever I want and my waist stays like this
+  10.72- 15.20 So i'm going to show you in real time exactly how powerful digestive enzymes are
+  15.60- 18.88 So i'm just going to break this on this half of this piece of ham
+  19.20- 24.18 And i'm using the ones by physicians choice just because they are by far the cleanest
+  25.92- 26.88 Okay
+  26.88- 33.60 And this pudding right here is gonna represent all the food that's just sitting rotting stuck in your gut
+  34.32- 36.96 And i'm just gonna put one of these on one side
+  39.44- 40.72 Okay
+  40.72- 45.04 And it actually took me forever to realize that bloating after eating isn't normal
+  45.52- 49.36 Like i'm someone who would blow after eating like a cucumber or a glass of water
+  50.00- 53.52 And yeah, it turns out if you're bloating like that, it's not your fault
+  53.52- 60.78 it's actually just our modern food system freaking ruined our food and now everything is super processed and it's like really hard to digest and
+  61.04- 63.66 I'm showing you this by the way on pudding because
+  64.32- 66.40 Solid food obviously would take way longer
+  66.96- 73.88 But it also needs your stomach acids and this one is already breaking down and it's not just breaking down because I'm stirring it
+  73.88- 79.76 Because this one I could stir all day long and it's not gonna break down until I put the digestive enzymes on it
+  80.56- 85.26 Okay. Yep. Now let's put them on this one and see how fast it breaks down
+  89.12- 95.08 Okay, and this is why people are saying these help them feel lighter less heavy, let's check on the ham now
+  95.36-101.24 Remember solid food needs stomach acid and it hasn't been a super long time. So this is the half
+ 101.24-105.16 I didn't put the enzymes on and this is the part I did
+ 105.96-111.24 That is totally just like breaking apart. Okay, so if you're someone who struggles with bloating, this is the stuff
+ 111.24-116.40 They have thousands of reviews you can look at and I just saw they're on offer right now like cheaper than in the shops
+ 116.52-119.48 So I'll put the link below if they still have some in stock
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: final_A.mp4 (91 quadros, rosto em 100%, rosto 270,180,174,226 [único rosto])
+  boca x original: dif. boca 11.19 | dif. controle 0.69 | mudou em 99% dos quadros | corr. abertura saída x original 0.26
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.40 (atraso 33 ms) | corr. original 0.45
+AVISO: boca mudou em 99% dos quadros; correlação com o áudio novo 0.40 (original 0.45); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: final_B.mp4 (255 quadros, rosto em 75%, rosto 307,222,153,191 [2 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 11.76 | dif. controle 0.75 | mudou em 94% dos quadros | corr. abertura saída x original 0.18
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.34 (atraso 33 ms) | corr. original 0.12
+AVISO: boca mudou em 94% dos quadros; correlação com o áudio novo 0.34 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+índice de pausa do conjunto (2 trechos): - -> -
+
+=== RESULTADO ===
+aviso: lipsync final_A.mp4: boca mudou em 99% dos quadros; correlação com o áudio novo 0.40 (original 0.45); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync final_B.mp4: boca mudou em 94% dos quadros; correlação com o áudio novo 0.34 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

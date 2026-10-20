@@ -1,0 +1,406 @@
+{
+ "itens": [
+  {
+   "id": "A1",
+   "tipo": "take",
+   "arquivo": "A1.mp4",
+   "texto": "Sí, me pasó a mí. Y lo peor no fue el golpe... fue llegar a casa y sentir que Dios se había olvidado de mí.",
+   "palavras": [
+    {
+     "w": "Sí,",
+     "ini": 0.046,
+     "fim": 0.453
+    },
+    {
+     "w": "me",
+     "ini": 0.697,
+     "fim": 0.813
+    },
+    {
+     "w": "pasó",
+     "ini": 0.894,
+     "fim": 1.219
+    },
+    {
+     "w": "a",
+     "ini": 1.3,
+     "fim": 1.324
+    },
+    {
+     "w": "mí.",
+     "ini": 1.393,
+     "fim": 1.73
+    },
+    {
+     "w": "Y",
+     "ini": 1.974,
+     "fim": 2.055
+    },
+    {
+     "w": "lo",
+     "ini": 2.206,
+     "fim": 2.299
+    },
+    {
+     "w": "peor",
+     "ini": 2.357,
+     "fim": 2.786
+    },
+    {
+     "w": "no",
+     "ini": 2.891,
+     "fim": 3.077
+    },
+    {
+     "w": "fue",
+     "ini": 3.158,
+     "fim": 3.355
+    },
+    {
+     "w": "el",
+     "ini": 3.39,
+     "fim": 3.506
+    },
+    {
+     "w": "golpe...",
+     "ini": 3.587,
+     "fim": 4.214
+    },
+    {
+     "w": "fue",
+     "ini": 4.458,
+     "fim": 4.667
+    },
+    {
+     "w": "llegar",
+     "ini": 4.702,
+     "fim": 5.143
+    },
+    {
+     "w": "a",
+     "ini": 5.19,
+     "fim": 5.213
+    },
+    {
+     "w": "casa",
+     "ini": 5.283,
+     "fim": 5.759
+    },
+    {
+     "w": "y",
+     "ini": 5.84,
+     "fim": 5.875
+    },
+    {
+     "w": "sentir",
+     "ini": 5.956,
+     "fim": 6.385
+    },
+    {
+     "w": "que",
+     "ini": 6.444,
+     "fim": 6.56
+    },
+    {
+     "w": "Dios",
+     "ini": 6.629,
+     "fim": 6.978
+    },
+    {
+     "w": "se",
+     "ini": 7.001,
+     "fim": 7.129
+    },
+    {
+     "w": "había",
+     "ini": 7.163,
+     "fim": 7.523
+    },
+    {
+     "w": "olvidado",
+     "ini": 7.558,
+     "fim": 8.185
+    },
+    {
+     "w": "de",
+     "ini": 8.243,
+     "fim": 8.313
+    },
+    {
+     "w": "mí.",
+     "ini": 8.371,
+     "fim": 8.719
+    }
+   ]
+  },
+  {
+   "id": "A1v",
+   "tipo": "voz",
+   "arquivo": "A1v.wav",
+   "texto": "Rezaba todos los días y nada cambiaba.",
+   "palavras": [
+    {
+     "w": "Rezaba",
+     "ini": 0.25,
+     "fim": 0.784
+    },
+    {
+     "w": "todos",
+     "ini": 0.877,
+     "fim": 1.237
+    },
+    {
+     "w": "los",
+     "ini": 1.295,
+     "fim": 1.446
+    },
+    {
+     "w": "días",
+     "ini": 1.527,
+     "fim": 1.992
+    },
+    {
+     "w": "y",
+     "ini": 2.085,
+     "fim": 2.143
+    },
+    {
+     "w": "nada",
+     "ini": 2.294,
+     "fim": 2.642
+    },
+    {
+     "w": "cambiaba.",
+     "ini": 2.712,
+     "fim": 3.466
+    }
+   ]
+  },
+  {
+   "id": "A2",
+   "tipo": "take",
+   "arquivo": "A2.mp4",
+   "texto": "Hasta que aprendí la oración completa de San Benito y la hice después de aquella situación. Al día siguiente, mi carrito se llenó de clientes. No lo podía creer.",
+   "palavras": [
+    {
+     "w": "Hasta",
+     "ini": 0.25,
+     "fim": 0.633
+    },
+    {
+     "w": "que",
+     "ini": 0.691,
+     "fim": 0.796
+    },
+    {
+     "w": "aprendí",
+     "ini": 0.842,
+     "fim": 1.295
+    },
+    {
+     "w": "la",
+     "ini": 1.376,
+     "fim": 1.458
+    },
+    {
+     "w": "oración",
+     "ini": 1.492,
+     "fim": 2.038
+    },
+    {
+     "w": "completa",
+     "ini": 2.119,
+     "fim": 2.735
+    },
+    {
+     "w": "de",
+     "ini": 2.793,
+     "fim": 2.862
+    },
+    {
+     "w": "San",
+     "ini": 2.921,
+     "fim": 3.071
+    },
+    {
+     "w": "Benito",
+     "ini": 3.118,
+     "fim": 3.687
+    },
+    {
+     "w": "y",
+     "ini": 3.861,
+     "fim": 3.965
+    },
+    {
+     "w": "la",
+     "ini": 4.093,
+     "fim": 4.209
+    },
+    {
+     "w": "hice",
+     "ini": 4.256,
+     "fim": 4.581
+    },
+    {
+     "w": "después",
+     "ini": 4.639,
+     "fim": 5.092
+    },
+    {
+     "w": "de",
+     "ini": 5.138,
+     "fim": 5.184
+    },
+    {
+     "w": "aquella",
+     "ini": 5.231,
+     "fim": 5.602
+    },
+    {
+     "w": "situación.",
+     "ini": 5.66,
+     "fim": 6.45
+    },
+    {
+     "w": "Al",
+     "ini": 6.786,
+     "fim": 6.961
+    },
+    {
+     "w": "día",
+     "ini": 7.019,
+     "fim": 7.251
+    },
+    {
+     "w": "siguiente,",
+     "ini": 7.32,
+     "fim": 8.029
+    },
+    {
+     "w": "mi",
+     "ini": 8.098,
+     "fim": 8.203
+    },
+    {
+     "w": "carrito",
+     "ini": 8.273,
+     "fim": 8.807
+    },
+    {
+     "w": "se",
+     "ini": 8.865,
+     "fim": 8.969
+    },
+    {
+     "w": "llenó",
+     "ini": 8.992,
+     "fim": 9.329
+    },
+    {
+     "w": "de",
+     "ini": 9.387,
+     "fim": 9.468
+    },
+    {
+     "w": "clientes.",
+     "ini": 9.515,
+     "fim": 10.327
+    },
+    {
+     "w": "No",
+     "ini": 10.687,
+     "fim": 10.896
+    },
+    {
+     "w": "lo",
+     "ini": 10.966,
+     "fim": 11.047
+    },
+    {
+     "w": "podía",
+     "ini": 11.094,
+     "fim": 11.558
+    },
+    {
+     "w": "creer.",
+     "ini": 11.605,
+     "fim": 12.139
+    }
+   ]
+  },
+  {
+   "id": "A3",
+   "tipo": "take",
+   "arquivo": "A3.mp4",
+   "texto": "¿Podemos poner aquí la transmisión en vivo que enseña esta oración tan poderosa?",
+   "palavras": [
+    {
+     "w": "¿Podemos",
+     "ini": 0.046,
+     "fim": 0.662
+    },
+    {
+     "w": "poner",
+     "ini": 0.731,
+     "fim": 1.115
+    },
+    {
+     "w": "aquí",
+     "ini": 1.184,
+     "fim": 1.533
+    },
+    {
+     "w": "la",
+     "ini": 1.637,
+     "fim": 1.73
+    },
+    {
+     "w": "transmisión",
+     "ini": 1.8,
+     "fim": 2.682
+    },
+    {
+     "w": "en",
+     "ini": 2.775,
+     "fim": 2.844
+    },
+    {
+     "w": "vivo",
+     "ini": 2.926,
+     "fim": 3.309
+    },
+    {
+     "w": "que",
+     "ini": 3.402,
+     "fim": 3.518
+    },
+    {
+     "w": "enseña",
+     "ini": 3.541,
+     "fim": 4.098
+    },
+    {
+     "w": "esta",
+     "ini": 4.133,
+     "fim": 4.354
+    },
+    {
+     "w": "oración",
+     "ini": 4.389,
+     "fim": 4.911
+    },
+    {
+     "w": "tan",
+     "ini": 4.992,
+     "fim": 5.155
+    },
+    {
+     "w": "poderosa?",
+     "ini": 5.224,
+     "fim": 6.014
+    }
+   ]
+  }
+ ]
+}

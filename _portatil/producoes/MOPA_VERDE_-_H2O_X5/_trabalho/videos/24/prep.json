@@ -1,0 +1,59 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/MOPA VERDE - H2O X5/VIDEOS/24 AD.mp4",
+ "resolucao": "720",
+ "fundo": "C:/Users/PICHAU/Downloads/MOPA VERDE - H2O X5/_trabalho/audio/24_no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "narr.mp3",
+ "narr_inicio": 0.1,
+ "atempo": 1.0,
+ "faixas": [
+  {
+   "y": [
+    955,
+    1075
+   ],
+   "grad": 18
+  }
+ ],
+ "titulos": [
+  {
+   "linhas": [
+    "Protege a tu familia",
+    "del 99 % de los gérmenes",
+    "con un solo aparato"
+   ],
+   "px": 34,
+   "cy": 450,
+   "cobrir_w": 540,
+   "cobrir_h": 186,
+   "de": 0,
+   "ate": 5.62
+  },
+  {
+   "linhas": [
+    "Limpiador a vapor H2O X5"
+   ],
+   "px": 36,
+   "cy": 394,
+   "cobrir_w": 600,
+   "cobrir_h": 80,
+   "de": 13.36,
+   "ate": 9999
+  }
+ ],
+ "fim": {
+  "folga": 0.5,
+  "max_total": null
+ },
+ "saida": "corpo.mp4",
+ "trocas": [
+  [
+   "99 %",
+   "99%"
+  ],
+  [
+   "H2O X5",
+   "H2O X5"
+  ]
+ ]
+}

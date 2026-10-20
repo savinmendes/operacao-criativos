@@ -1,0 +1,22 @@
+REVISÃO: PERFUMES-CL_F4_PAGUE-AL-LLEGAR.mp4
+duração 32.86s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 22.8 MB
+decodificação: OK
+pts do áudio: 1542 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 813-1251, x 4-716 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\ONDA3\F4-PAGUE-AL-LLEGAR\PERFUMES-CL_F4_PAGUE-AL-LLEGAR_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  6.60 Yo no compro nada por internet, hasta que me dijeron que pagas cuando te llegas, pedí los
+   6.60- 13.56 tres y al otro día ya estaban en la casa. Revisé los tres, ARMAV, fresco y masculino,
+  13.56- 22.32 ASAD, intenso y seductor, y el AFNAN 9 PM, elegante, ahí recién pagué, tres perfumes
+  22.32- 28.98 árabes al precio de uno. Ahora el que recomiendas soy yo, pagas
+  28.98- 32.22 cuando te llega y el envío es en 24 horas, pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,14 @@
+{
+ "id": "L164",
+ "quadros_heygen": 206,
+ "quadros": 206,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  -0.5,
+  0.0,
+  -1.0
+ ],
+ "indice_pausa": 0.66,
+ "checar": "AVISO",
+ "saida_checar": "LIPSYNC: L164.mp4 (206 quadros, rosto em 100%, rosto 291,132,145,170 [único rosto])\n  boca x original: dif. boca 7.60 | dif. controle 0.35 | mudou em 100% dos quadros | corr. abertura saída x original 0.12\n  pausas da voz nova: índice de pausa 0.66 (11 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.22 (atraso 0 ms) | corr. original -\nAVISO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.66); aviso: índice de pausa acima de 0.6 com só 11 quadros de pausa; confira a boca nas pausas da voz na folha de contato"
+}

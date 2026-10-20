@@ -1,0 +1,362 @@
+[
+ {
+  "texto": "H20X5",
+  "conf": 0.96,
+  "caixa": [
+   182,
+   61,
+   558,
+   141
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "TM",
+  "conf": 1.0,
+  "caixa": [
+   560,
+   63,
+   595,
+   82
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H2O",
+  "conf": 0.86,
+  "caixa": [
+   104,
+   92,
+   164,
+   122
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "LIMITEDTIMEOFFER",
+  "conf": 0.99,
+  "caixa": [
+   165,
+   172,
+   578,
+   255
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "550FF",
+  "conf": 0.99,
+  "caixa": [
+   104,
+   196,
+   737,
+   455
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "S",
+  "conf": 0.92,
+  "caixa": [
+   88,
+   283,
+   159,
+   391
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "POWERFULSTEAM",
+  "conf": 0.99,
+  "caixa": [
+   60,
+   483,
+   749,
+   540
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "AHEALTHIERHOME",
+  "conf": 0.99,
+  "caixa": [
+   57,
+   558,
+   756,
+   614
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "KILLS 99%",
+  "conf": 0.98,
+  "caixa": [
+   84,
+   765,
+   221,
+   795
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "CHEMICAL",
+  "conf": 1.0,
+  "caixa": [
+   310,
+   767,
+   436,
+   797
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5-IN-1",
+  "conf": 0.99,
+  "caixa": [
+   550,
+   765,
+   630,
+   796
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "OFBACTERIA",
+  "conf": 0.99,
+  "caixa": [
+   78,
+   797,
+   222,
+   820
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FREE",
+  "conf": 1.0,
+  "caixa": [
+   342,
+   797,
+   406,
+   825
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "MULTI-SURFACE",
+  "conf": 0.99,
+  "caixa": [
+   512,
+   798,
+   670,
+   821
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "VIRUSES&GERMS*",
+  "conf": 0.98,
+  "caixa": [
+   54,
+   823,
+   252,
+   846
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "VERSATILITY",
+  "conf": 0.99,
+  "caixa": [
+   525,
+   823,
+   656,
+   846
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FLOORS",
+  "conf": 0.99,
+  "caixa": [
+   89,
+   1072,
+   178,
+   1103
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "KITCHEN",
+  "conf": 0.99,
+  "caixa": [
+   337,
+   1076,
+   431,
+   1100
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "BATHROOM",
+  "conf": 0.99,
+  "caixa": [
+   567,
+   1076,
+   688,
+   1100
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "CARPETS",
+  "conf": 0.99,
+  "caixa": [
+   823,
+   1075,
+   922,
+   1102
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "WINDOWS",
+  "conf": 0.99,
+  "caixa": [
+   1069,
+   1076,
+   1179,
+   1100
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "4,000+",
+  "conf": 1.0,
+  "caixa": [
+   215,
+   1144,
+   307,
+   1181
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FREE",
+  "conf": 1.0,
+  "caixa": [
+   520,
+   1148,
+   582,
+   1178
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "30DAY",
+  "conf": 0.99,
+  "caixa": [
+   771,
+   1144,
+   851,
+   1173
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "1-YEAR",
+  "conf": 0.99,
+  "caixa": [
+   1065,
+   1150,
+   1147,
+   1178
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5 STARREVIEWS",
+  "conf": 0.96,
+  "caixa": [
+   217,
+   1182,
+   360,
+   1208
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SHIPPING#",
+  "conf": 0.99,
+  "caixa": [
+   521,
+   1181,
+   634,
+   1208
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "MONEY BACK",
+  "conf": 0.97,
+  "caixa": [
+   770,
+   1175,
+   887,
+   1199
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "FREEWARRANTY",
+  "conf": 0.97,
+  "caixa": [
+   1066,
+   1182,
+   1230,
+   1206
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "GUARANTEE**",
+  "conf": 0.99,
+  "caixa": [
+   770,
+   1197,
+   912,
+   1226
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

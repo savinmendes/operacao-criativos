@@ -1,0 +1,55 @@
+{
+ "slug": "abuela",
+ "saida": "SB-ES_ABUELA_COMPLETA.mp4",
+ "reza": [
+  [
+   "f1",
+   0.0,
+   2.45
+  ],
+  [
+   "f2",
+   0.0,
+   2.1
+  ]
+ ],
+ "cortes_hook": [
+  [
+   3.97,
+   4.21
+  ],
+  [
+   5.81,
+   6.05
+  ]
+ ],
+ "cortes_selfie": [
+  [
+   3.7,
+   3.86
+  ],
+  [
+   8.86,
+   9.02
+  ],
+  [
+   12.18,
+   12.34
+  ]
+ ],
+ "selfie_off": 3.78,
+ "rosto_selfie": [
+  540,
+  760
+ ],
+ "gancho_zoom": 1.15,
+ "gancho_centro": [
+  540,
+  900
+ ],
+ "voz_id": "aYQAm4rWuigkeuRA5i92",
+ "voz_nome": "Grandma Aurora",
+ "cena_gancho": "plano amplio: ella de rodillas junto a una mesa larga puesta para doce, todas las sillas vacías",
+ "cena_virada": "la mesa llena con la familia",
+ "cena_frustrado": "ella sentada sola a la mesa, moviendo la comida sin comer y mirando las sillas vacías"
+}

@@ -1,0 +1,17 @@
+Ranking 04 → SB ES «Sueldo» (20/10/2026)
+Entrega: ..\ENTREGA\SB-ES_RANKING04_SUELDO.mp4 (101,3 s, 720x1280, 30 fps, ~28 MB, cor bt601/tv fixa smpte170m) + SB-ES_RANKING04_SUELDO_texto-anuncio.txt
+Remontar sem pagar: python voz.py -> python broll.py -> python gerar_ov.py -> python montar.py -> sh encode_final.sh -> revisar_ad.py (rev\) + python rev_ocr.py <mp4>
+Vozes (tts.py, rodar com cwd = kit-edicao-criativos; registradas em SB-ES_PADRE-CAPTURADO\_vozes.json, sem clonar):
+  apresentadora Luisa 7nCYbNPCi8RLAKVnYEoO, senhor Salvatore wfTWLJ20rcMqvU8gIiAB, Juan clone BskzYZ6zvapoZ3mBu93C. 1425 caracteres.
+Imagens (flow ElevenLabs FOSqqtV7HOQV7j7SoDoz, gpt-image-2.5-sunburst): ATENÇÃO o nó sai 16:9 por padrão -> setar aspect_ratio 9:16 com creative_update_node antes de rodar.
+  avatar\jm_v.png (Juan no cenário do bispo, sem mitra, microfone de lapela, 9:16), apresentadora\ap_l1.png (16:9 -> PIP), senhor\s_final.png
+  (s_l1 vertical dentro do 16:9, recorte 405x720 + Real-ESRGAN x4plus -> 720x1280).
+HeyGen Avatar IV 720p: A (4 s de silêncio = Juan parado atrás do PIP + J02-J07), B (J08-J15), P apresentadora (high), S senhor. IDs em heygen_jobs.txt.
+Sem lipsync sobre take original: bispo (rosto real) e Silvio Santos saíram inteiros; rostos novos todos avatar.
+B-rolls originais (broll.py, sem os quadros de dissolve) com a legenda PT coberta por caixa opaca no mesmo lugar (broll\caixas.json; selfie corrigido à mão).
+  Do banco SB: dinheiro=alivio_11, padaria=alivio_10, manuscrito=sagrado_08, celular_live=sagrado_31, idosa_cel=sagrado_32, familia_cel=sagrado_34. Nenhum take repete.
+Chiado: apresentadora (HF/tot -16,8 dB) e senhor (-20,7) tratados por trecho em chiado.json (de-esser + highshelf, volume compensado) -> -25,4 / -25,7; Juan -36/-38 sem tratar.
+Trilha: tensão (VIDEO 04) até o «¡Alto!» -> esperança até o fim (emendada com crossfade), -32 LUFS. Voz -18 LUFS.
+Moldura da live «padre.juanmendez» + EN VIVO só a partir de «Por eso la estoy rezando» (antes o Juan é entrevista na catedral, como o bispo do original).
+Falso alarme do revisar_ad: «quadro solto 39,17/39,30» = glitch intencional do «¡Alto!».
+v1 guardada em SB-ES_RANKING04_SUELDO_v1.mp4 (caixa do selfie grande demais, 1º quadro da moça de rosa borrado, legenda maior que a caixa).

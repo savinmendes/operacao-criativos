@@ -1,0 +1,7 @@
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V10\out\V10 - LYMPHORIA-CARRITO-MENOPAUSIA.mp4
+duração : 77.00s | 720x1280 | áudio: sim | 19.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V10\out\V10 - LYMPHORIA-CARRITO-MENOPAUSIA_frames.jpg
+RESULTADO: OK
+CTA em 74.50s
+montagem rápida: 43s para 77s de vídeo (0.56x)

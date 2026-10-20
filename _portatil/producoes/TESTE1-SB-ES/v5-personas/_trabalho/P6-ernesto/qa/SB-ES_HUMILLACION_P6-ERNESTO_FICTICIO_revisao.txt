@@ -1,0 +1,33 @@
+REVISÃO: SB-ES_HUMILLACION_P6-ERNESTO_FICTICIO.mp4
+duração 75.60s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.1 MB
+decodificação: OK
+pts do áudio: 3545 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 711-981, x 4-719 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\_trabalho\P6-ernesto\qa\SB-ES_HUMILLACION_P6-ERNESTO_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.92 imágenes impactantes. Un mesero fue humillado frente a todo un restaurante por su fe.
+   5.92-  9.92 ¡Reyas, antes de servir, llama a tu dios para que limpia esto!
+   9.92- 12.24 Señor, disculpe, yo solo traje lo que usted pidió.
+  20.88- 26.00 Al día siguiente, los clientes hacían fila para que Don Ernesto los atendiera.
+  26.00- 33.06 Esa noche me encerré en el baño del restaurante, con vergüenza de que mis compañeros me vieran llorar.
+  33.06- 35.70 A mi edad sentía que ya no servía para nada.
+  35.70- 39.60 Un compañero me mandó la transición del padre Juan Mendes.
+  39.60- 42.90 La hice esa misma noche, como él enseña.
+  42.90- 46.66 Al otro día, el dueño me llamó para ofrecerme ser encargado.
+  46.66- 54.20 Si tú también rezas y sientes que nadie te escucha y que las cosas solo empeoran, no es que Dios no te escuche.
+  54.20- 58.24 Es que, igual que yo, lo estabas pidiendo de la forma equivocada.
+  58.24- 62.58 El padre Juan Mendes me enseñó la forma correcta de pedirle a San Benito
+  62.58- 65.74 y está haciendo la oración en vivo ahora mismo.
+  65.74- 69.16 ¿Usted puede pasar la transmisión para los que nos están viendo?
+  69.16- 70.02 ¡Claro!
+  70.02- 75.50 Toquen el botón que está abajo del vídeo y entren ahora a la oración en vivo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

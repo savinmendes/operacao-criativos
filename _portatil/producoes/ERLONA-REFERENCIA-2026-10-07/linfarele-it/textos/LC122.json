@@ -1,0 +1,16 @@
+{
+  "conceito": "C122",
+  "ref_erlona": [
+    "122 AD"
+  ],
+  "angulo": "Ritual sem produto: chá e caderno de manhã na janela, o gesto diário de 10 segundos que muda o dia.",
+  "prompt": "Realistic candid smartphone photo, UGC style. Early morning by an open kitchen window in an Italian home: a ceramic cup of herbal tea steaming on the windowsill, a small jar of honey with a wooden dipper, and an open paper notebook with a pen. The notebook pages are completely blank except for one single short handwritten line in the middle of the left page reading exactly: \"Ogni mattina, per me.\" No other writing anywhere on the pages. Soft golden sunrise light, geraniums outside the window. No people, no bottles, no products, no logos, no other text.",
+  "flora_url": "https://app.flora.ai/projects/ns73srpqeednwwk30jzwzxfkgs8ftzsn",
+  "flora_run_id": "run_m175j7z4ga06tfbbe05t8s469x8ft1qg",
+  "arquivo": "linfarele-it/imagens/LC122.jpg",
+  "titulo": "Il mio rito delle sette",
+  "testo_principale": "Le sette del mattino, la finestra aperta e una tazza calda. Questo è il mio momento, mentre la casa dorme ancora.\n\nIo mi svegliavo già gonfia, con le gambe pesanti e la testa annebbiata. Pensavo fosse grasso, o l'età.\n\nUna fisioterapista mi ha spiegato che non era grasso, era ristagno linfatico. Di notte la linfa rallenta e il liquido resta fermo nei tessuti.\n\nCosì nel mio rito è entrato Linfarele: 4 erbe (galio, stillingia, trifoglio rosso e frassino spinoso), poche gocce sotto la lingua ogni mattina. Sa di miele, si sposa bene con la tisana.\n\nDieci secondi per me. E una giornata con la pancia sgonfia e le gambe leggere.\n\nSpedizione gratuita e 90 giorni di garanzia: soddisfatti o rimborsati. 👇 Clicca su «Acquista ora».",
+  "descrizione": "Spedizione gratuita · 90 giorni di garanzia",
+  "qa": "ok",
+  "qa_obs": "2a geração: a 1a tinha rabiscos de pseudo-texto ilegível no caderno."
+}

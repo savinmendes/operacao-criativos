@@ -1,0 +1,4 @@
+[0.00-1.32] Prueba ciegas, compadre.
+      0.00   0.50 Prueba
+      0.50   0.88 ciegas,
+      1.02   1.32 compadre.

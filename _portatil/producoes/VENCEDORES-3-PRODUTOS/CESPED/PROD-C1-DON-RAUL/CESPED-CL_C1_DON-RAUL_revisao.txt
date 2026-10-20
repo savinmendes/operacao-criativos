@@ -1,0 +1,23 @@
+REVISÃO: CESPED-CL_C1_DON-RAUL.mp4
+duração 43.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.3 MB
+decodificação: OK
+pts do áudio: 2022 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1142-1208, x 432-657 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C1-DON-RAUL\CESPED-CL_C1_DON-RAUL_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  8.96 me van a denunciar por el pasto la máquina vencina ya no me arrancaba y el jardinero me
+   8.96- 15.40 cobró un ojo de la cara hasta que probé esta es cortapasto orilladora y bordeadora
+  15.40- 23.36 en uno tiene ruedas así que la usas con una sola mano cuchilla de metal reforzada olvídate
+  23.36- 34.44 de los hilos que se cortan. Y es inalámbrica con dos baterías.
+  34.44- 40.76 Despacho gratis a todo Chile. Pagas al recibir y tienes 90 días de garantía.
+  40.76- 42.64 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

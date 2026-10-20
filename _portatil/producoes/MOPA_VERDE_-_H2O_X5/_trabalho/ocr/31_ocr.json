@@ -1,0 +1,362 @@
+[
+ {
+  "texto": "Fast,effective",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   210,
+   437,
+   496,
+   476
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "cleaning that actually",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   139,
+   486,
+   578,
+   525
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "makeslife easier",
+  "ini": 0.0,
+  "fim": 3.0,
+  "caixa": [
+   196,
+   533,
+   535,
+   569
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "The H2O X5",
+  "ini": 3.0,
+  "fim": 5.0,
+  "caixa": [
+   217,
+   693,
+   508,
+   737
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "1LHI2 2IDE",
+  "ini": 4.0,
+  "fim": 5.0,
+  "caixa": [
+   335,
+   425,
+   387,
+   670
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "5 in 1 steam",
+  "ini": 5.0,
+  "fim": 6.0,
+  "caixa": [
+   213,
+   691,
+   505,
+   739
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "designed",
+  "ini": 6.0,
+  "fim": 7.0,
+  "caixa": [
+   244,
+   692,
+   476,
+   742
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "entire home",
+  "ini": 7.0,
+  "fim": 8.0,
+  "caixa": [
+   206,
+   694,
+   516,
+   738
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "1/0",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   434,
+   402,
+   456,
+   416
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "one device.",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   218,
+   694,
+   496,
+   738
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "THATHORM",
+  "ini": 8.0,
+  "fim": 9.0,
+  "caixa": [
+   403,
+   757,
+   470,
+   782
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "XOZH",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   252,
+   460,
+   330,
+   515
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "From floors",
+  "ini": 9.0,
+  "fim": 10.0,
+  "caixa": [
+   218,
+   691,
+   503,
+   740
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and carpets",
+  "ini": 10.0,
+  "fim": 11.0,
+  "caixa": [
+   210,
+   691,
+   512,
+   744
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "tiles",
+  "ini": 11.0,
+  "fim": 12.0,
+  "caixa": [
+   301,
+   687,
+   417,
+   742
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "It uses",
+  "ini": 12.0,
+  "fim": 13.0,
+  "caixa": [
+   276,
+   693,
+   445,
+   740
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "of steam",
+  "ini": 13.0,
+  "fim": 14.0,
+  "caixa": [
+   249,
+   690,
+   471,
+   740
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "dirt and",
+  "ini": 14.0,
+  "fim": 15.0,
+  "caixa": [
+   259,
+   692,
+   459,
+   739
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "No harsh",
+  "ini": 15.0,
+  "fim": 16.0,
+  "caixa": [
+   243,
+   687,
+   476,
+   741
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "needed.",
+  "ini": 16.0,
+  "fim": 17.0,
+  "caixa": [
+   256,
+   689,
+   466,
+   741
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "and easy",
+  "ini": 17.0,
+  "fim": 18.0,
+  "caixa": [
+   247,
+   688,
+   474,
+   747
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "The H2O",
+  "ini": 18.0,
+  "fim": 19.0,
+  "caixa": [
+   250,
+   688,
+   469,
+   741
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "X5 saves time",
+  "ini": 19.0,
+  "fim": 20.0,
+  "caixa": [
+   191,
+   690,
+   533,
+   739
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "BOSCH",
+  "ini": 20.0,
+  "fim": 22.0,
+  "caixa": [
+   399,
+   268,
+   488,
+   305
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "delivering a",
+  "ini": 20.0,
+  "fim": 21.0,
+  "caixa": [
+   212,
+   689,
+   510,
+   744
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "SO",
+  "ini": 21.0,
+  "fim": 22.0,
+  "caixa": [
+   328,
+   698,
+   390,
+   738
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "14:20",
+  "ini": 21.0,
+  "fim": 22.0,
+  "caixa": [
+   220,
+   748,
+   270,
+   785
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "H20X5",
+  "ini": 22.0,
+  "fim": 24.0,
+  "caixa": [
+   241,
+   144,
+   347,
+   257
+  ],
+  "marca_ou_alerta": true
+ },
+ {
+  "texto": "cleaning and",
+  "ini": 22.0,
+  "fim": 23.0,
+  "caixa": [
+   201,
+   691,
+   523,
+   743
+  ],
+  "marca_ou_alerta": false
+ },
+ {
+  "texto": "living.",
+  "ini": 23.0,
+  "fim": 24.0,
+  "caixa": [
+   276,
+   689,
+   433,
+   748
+  ],
+  "marca_ou_alerta": false
+ }
+]

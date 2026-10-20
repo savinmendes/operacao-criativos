@@ -1,0 +1,71 @@
+REVISÃO: EN 01 - ENZIMAS-DUELO-DE-ENZIMAS - UK.mp4
+duração 97.01s | 720x1280 | 30/1 fps | áudio: sim | 32.2 MB
+decodificação: OK
+pts do áudio: 4179 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 790-956, x 130-521 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ENZIMAS DIGESTIVAS - CRIATIVOS\_trabalho\uk\EN 01\rev\EN 01 - ENZIMAS-DUELO-DE-ENZIMAS - UK_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  7.60 I have a high quality digestive enzyme and I think I have a high quality digestive enzyme.
+   7.60- 15.36 Mine was developed by doctors. Mine was developed by an influencer. Mine has a bunch of added
+  15.36- 20.80 prebiotics, probiotics for your overall gut health. Mine doesn't have any of that. What are
+  20.80- 25.52 you supposed to do again? So these are made to literally break down all the food we eat.
+  25.52- 29.36 The food we eat is just like super processed and hard to digest, which is why you're
+  29.36- 32.16 you're looking like six months pregnant after eating.
+  32.16- 35.00 That used to be me, like I would bloat so bad.
+  35.00- 36.40 Yeah, you got huge.
+  36.40- 37.48 Yeah.
+  37.48- 40.44 It was bad, but now I know I can eat anything
+  40.44- 41.80 and take a digestive enzyme with it
+  41.80- 43.64 and like it's gonna help me break it down
+  43.64- 45.88 so I am not getting like super bloated.
+  45.88- 46.84 Oh, all right.
+  46.84- 49.20 But we eat way more than just pudding.
+  49.20- 51.48 Yeah, people have used my digestive enzyme
+  51.48- 53.80 on pizza, pasta, burgers
+  53.80- 56.44 and it has broken literally all of it down.
+  56.44- 58.88 Okay, that's, nobody's done that with this one.
+  58.88- 63.76 Um, yeah, and mine has completely broken down the pudding now.
+  63.76- 64.76 Are you kidding me?
+  64.76- 66.32 Mine has literally done nothing.
+  66.32- 68.04 What brand are you using?
+  68.04- 69.04 Look at that.
+  69.04- 70.04 It's liquid.
+  70.04- 71.04 Are you serious?
+  71.04- 72.04 Yours has done nothing!
+  72.04- 73.04 I told you!
+  73.04- 74.04 It's still just sitting there.
+  74.04- 75.04 What?
+  75.04- 76.04 I'm using the one by Positions Choice.
+  76.04- 77.04 This one is developed by doctors.
+  77.04- 79.24 Literally the cleanest ingredients on the market.
+  79.24- 81.36 This is the one everyone's using, like all the girls are saying.
+  81.36- 83.80 They can eat whatever and stay like snatched in their bikinis.
+  83.80- 86.04 It like helps so much with bloating.
+  86.04- 87.96 They've got like a big sale on right now too.
+  87.96- 93.52 it's cheaper than you can even get it in the shops. Okay, that's nuts. Low quality versus
+  93.52- 96.80 high quality, that's insane. Are you kidding me?
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: ls_A.mp4 (182 quadros, rosto em 100%, rosto 172,373,267,324 [único rosto])
+  boca x original: dif. boca 10.07 | dif. controle 0.93 | mudou em 100% dos quadros | corr. abertura saída x original 0.24
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.33 (atraso -200 ms) | corr. original 0.18
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.33 (original 0.18); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: ls_B.mp4 (140 quadros, rosto em 100%, rosto 241,375,245,300 [único rosto])
+  boca x original: dif. boca 13.38 | dif. controle 0.97 | mudou em 100% dos quadros | corr. abertura saída x original -0.15
+  pausas da voz nova: índice de pausa - (4 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.42 (atraso 0 ms) | corr. original 0.27
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.42 (original 0.27); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+índice de pausa do conjunto (2 trechos): - -> -
+
+=== RESULTADO ===
+aviso: lipsync ls_A.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.33 (original 0.18); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync ls_B.mp4: boca mudou em 100% dos quadros; correlação com o áudio novo 0.42 (original 0.27); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

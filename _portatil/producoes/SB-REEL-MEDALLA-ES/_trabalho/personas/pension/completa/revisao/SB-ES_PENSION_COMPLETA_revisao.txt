@@ -1,0 +1,32 @@
+REVISÃO: SB-ES_PENSION_COMPLETA.mp4
+duração 63.10s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 42.1 MB
+decodificação: OK
+pts do áudio: 2958 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\pension\completa\revisao\SB-ES_PENSION_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.00 Recé en la recepción de mi pensión, con todas las llaves colgadas.
+   5.00-  7.00 Y esto fue lo que pasó.
+   7.00- 10.00 ¡Oh glorioso San Benito!
+  10.00- 13.00 ¡Sácame de esta escasez!
+  15.00- 18.00 Pasé casi seis meses sin un solo huésped.
+  18.00- 22.00 La casa que levanté con mi esposo se estaba cayendo a pedazos.
+  22.00- 25.00 Sentía que le estaba fallando.
+  25.00- 30.28 hasta que un padre explicó algo que nadie me había dicho sobre la medalla de San Benito.
+  30.28- 36.04 Millones de personas llevan esta medalla, y nunca les explicaron lo que dicen sus letras,
+  36.04- 40.74 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla. Cuando se reza
+  40.74- 46.76 de la forma correcta, la casa se calma, el miedo se va, y uno vuelve a ver salidas
+  46.76- 52.64 donde antes solo veía puertas cerradas. Por eso dejé la explicación completa,
+  52.64- 57.40 por letra en una transmisión en vivo que está abierta a las 24 horas.
+  57.40- 62.52 Toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

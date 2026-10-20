@@ -1,0 +1,28 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/AD 13 - WYZE-SOLAR-CAM-PAN-CERCA-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad13/corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad13/alinhamento.json",
+  "y": 1685,
+  "chaves": [
+   "fácil",
+   "solar",
+   "cargarla",
+   "360",
+   "celular",
+   "suscripción",
+   "microSD",
+   "hora",
+   "nublados",
+   "wyze",
+   "toca"
+  ]
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1350
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

@@ -1,0 +1,35 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\AD 06 - WYZE-SOLAR-CAM-PAN-VECINOS-ES-LATAM.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad06\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\WYZ-CAMARA-LATAM\\producao\\_trabalho\\ad06\\alinhamento.json",
+  "y": 1400,
+  "chaves": [
+   "grabando",
+   "movimiento",
+   "calidad",
+   "mensualidad",
+   "suscripción",
+   "cables",
+   "sol",
+   "app",
+   "color",
+   "reflector",
+   "llueve",
+   "lluvia",
+   "toca"
+  ]
+ },
+ "manchete": {
+  "texto": "Mi vecina pensó que la estaba grabando 😳",
+  "y": 140,
+  "ate": 3.9,
+  "px": 52
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

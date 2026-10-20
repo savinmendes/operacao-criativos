@@ -1,0 +1,26 @@
+{
+ "ad": "02",
+ "idioma": "sem fala (só música); textos na tela em pt-BR",
+ "origem": {"perfil": "@dewaltbrasil (TikTok)", "tipo": "marca oficial DeWalt Brasil", "url": "https://www.tiktok.com/@dewaltbrasil/video/7493314004715195653"},
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 16.0,
+ "cortes": {"n": 6, "ritmo": "rápido, um bloco a cada ~3-4 s, com flash/brilho de transição"},
+ "formato": "demo de força/teste curto + motion de produto (vinheta oficial), sem narração",
+ "gancho": {"0_3s_visual": "mãos de luva amarela DeWalt furando tábua de pinus com serra-copo, cavacos voando, já com vários furos na tábua", "0_3s_fala": "nenhuma (música)", "0_3s_texto_tela": "'TORQUE DE 169Nm' (amarelo/branco)"},
+ "corpo": [
+  {"t": "0-4.5", "bloco": "furando madeira com serra-copo: 'TORQUE DE 169Nm'"},
+  {"t": "4.5-8.2", "bloco": "demo em evento/feira: furadeira com serra-copo travando e o sistema desligando: 'SISTEMA ANTIRROTAÇÃO PERFORM PROTECT'"},
+  {"t": "8.2-11.3", "bloco": "close estúdio furando com raio animado: 'A PARAFUSADEIRA/FURADEIRA DE IMPACTO MAIS FORTE DO MERCADO' + selo XR 20V"},
+  {"t": "11.3-14.2", "bloco": "packshot do produto: 'A PARAFUSADEIRA/FURADEIRA DE IMPACTO' + 20V XR DCD1007B"},
+  {"t": "14.2-16", "bloco": "logo DeWalt 'SUA ALIADA INDUSTRIAL'"}
+ ],
+ "cta": "nenhum explícito (encerramento com logo)",
+ "texto_na_tela": "títulos grandes amarelo/branco com contorno: TORQUE DE 169Nm; SISTEMA ANTIRROTAÇÃO PERFORM PROTECT; A PARAFUSADEIRA/FURADEIRA DE IMPACTO MAIS FORTE DO MERCADO; DCD1007B",
+ "produto": {"modelo": "DCD1007B (escrito na tela)", "e_nosso_produto": false},
+ "rosto": {"tem": false, "tempo_aprox_s": "0 (só mãos e corpo sem rosto; pessoas ao fundo no bloco do evento)"},
+ "marca_dagua": "selos/marca DeWalt oficiais; sem @",
+ "audio": "música, sem voz",
+ "uso_para_nos": ["só referência de formato (demo curta de força com títulos grandes, ótimo ritmo para gancho)", "banco de takes: o take 0-4,5 s (furando madeira com serra-copo) serve como b-roll genérico de força, mas o produto é DCD1007 e aparece"],
+ "nota_cod_chile": 2,
+ "justificativa": "Gancho visual forte e curto (cavaco voando + número de torque) é um formato excelente para reproduzir com o nosso DCD7771, mas o material em si é do DCD1007B, com textos em português e números que não valem para o nosso produto. Usar como modelo de ritmo, não como fonte."
+}

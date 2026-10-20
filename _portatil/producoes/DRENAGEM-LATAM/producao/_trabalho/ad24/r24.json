@@ -1,0 +1,94 @@
+{
+ "ad": "ad24",
+ "corte": 685.0,
+ "takes": [],
+ "blur": [],
+ "longo": {
+  "saida": "AD 24 - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4",
+  "segmentos": [
+   [
+    0,
+    71.56
+   ],
+   [
+    79.2,
+    136.1
+   ],
+   [
+    149.95,
+    157.0
+   ],
+   [
+    166.08,
+    371.88
+   ],
+   [
+    440.25,
+    444.88
+   ],
+   [
+    645.17,
+    684.43
+   ]
+  ]
+ },
+ "curto": {
+  "saida": "AD 24 CURTO - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4",
+  "segmentos": [
+   [
+    0,
+    22.625
+   ],
+   [
+    204.495,
+    217.34
+   ],
+   [
+    260.37,
+    273.415
+   ],
+   [
+    284.475,
+    300.15
+   ]
+  ]
+ },
+ "extras": [
+  {
+   "clipe": "band/T1_fix.mp4",
+   "inicio": 209.233,
+   "quadros": 122
+  },
+  {
+   "clipe": "band/T2_fix.mp4",
+   "inicio": 213.3,
+   "quadros": 48
+  },
+  {
+   "clipe": "band/T3_fix.mp4",
+   "inicio": 244.1,
+   "quadros": 169
+  },
+  {
+   "clipe": "band/T4_fix.mp4",
+   "inicio": 302.967,
+   "quadros": 104
+  },
+  {
+   "clipe": "band/T5_fix.mp4",
+   "inicio": 342.3,
+   "quadros": 69
+  },
+  {
+   "clipe": "band/T6_fix.mp4",
+   "inicio": 664.267,
+   "quadros": 119
+  },
+  {
+   "clipe": "band/T8_fix.mp4",
+   "inicio": 677.933,
+   "quadros": 152
+  }
+ ],
+ "pos": "tratado.mp4 = tratado_v1 + subpaste.py 166.0:166.55:167.2 645.1:645.9:646.6 + subtxt.py 440.0-442.8 'por primera vez|en años'"
+}

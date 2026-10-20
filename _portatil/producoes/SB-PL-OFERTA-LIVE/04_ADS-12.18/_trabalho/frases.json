@@ -1,0 +1,9 @@
+[
+ {"id":"p1","txt":"Jeśli mnie zignorujesz, nie będę miał wyboru: cud, którego tak bardzo potrzebujesz, oddam komuś innemu.","janela":[0.0,5.07],"vel":1.1},
+ {"id":"p2","txt":"To twoja ostatnia szansa, by otrzymać to, co dla ciebie przygotowałem.","janela":[5.1,10.0]},
+ {"id":"p3","txt":"Jezus cię wybrał.","janela":[10.1,12.4]},
+ {"id":"p4","txt":"Przyniósł ci potężny dar.","janela":[12.5,14.6]},
+ {"id":"p5","txt":"Dziś usłyszysz starożytną, zaginioną modlitwę z Biblii, która ześle na twoje życie deszcz błogosławieństw i cudów.","janela":[14.7,23.0],"vel":0.95},
+ {"id":"p6","txt":"Nie odrzucaj mnie znowu.","janela":[23.1,26.1],"vel":0.9},
+ {"id":"p7","txt":"Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo. Otrzymaj swój cud, zanim będzie za późno.","janela":[26.1,32.1],"vel":1.1}
+]

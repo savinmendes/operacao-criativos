@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD3-EL-MECANICO/PERFUMES-CL_P3_EL-MECANICO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD3-EL-MECANICO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD3-EL-MECANICO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD3-EL-MECANICO/corpo.alinhamento.json", "chaves": ["echaste", "mecánico", "clientas", "árabes", "uno", "Armaf", "grasa", "Asad", "overol", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "VINO POR EL AUTO 🙈", "y": 330, "ate": 4.8},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

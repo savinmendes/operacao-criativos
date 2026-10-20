@@ -1,0 +1,40 @@
+[  0.00-  2.98] esq 0.0242 dir 0.0041 -> esq | I have a high quality digestive enzyme.
+[  3.28-  7.34] esq 0.0065 dir 0.0121 -> dir | And I think I have a high quality digestive enzyme.
+[  7.92-  9.84] esq 0.0201 dir 0.0041 -> esq | Mine was developed by doctors.
+[ 10.30- 12.52] esq 0.0042 dir 0.0141 -> dir | Mine was developed by an influencer.
+[ 13.40- 18.82] esq 0.0187 dir 0.0028 -> esq | Mine has a bunch of added prebiotics, probiotics for your overall gut health.
+[ 19.54- 20.60] esq 0.0060 dir 0.0127 -> dir | Mine doesn't have any of that.
+[ 20.66- 21.70] esq 0.0044 dir 0.0105 -> dir | What are these supposed to do again?
+[ 22.24- 25.58] esq 0.0151 dir 0.0027 -> esq | So these are made to literally break down all the food we eat.
+[ 25.60- 29.26] esq 0.0180 dir 0.0023 -> esq | The food in America is just like super processed and hard to digest, which is
+[ 29.26- 31.72] esq 0.0185 dir 0.0030 -> esq | why you're looking like six months pregnant after eating.
+[ 32.08- 32.98] esq 0.0206 dir 0.0027 -> esq | That used to be me.
+[ 33.00- 34.60] esq 0.0202 dir 0.0119 -> esq | Like I would bloat so bad.
+[ 34.96- 36.26] esq 0.0087 dir 0.0151 -> dir | Yeah, you got huge.
+[ 36.96- 38.08] esq 0.0230 dir 0.0038 -> esq | Yeah, it was bad.
+[ 38.08- 41.82] esq 0.0184 dir 0.0029 -> esq | But now I know I can eat anything and take a digestive enzyme with it.
+[ 41.82- 43.62] esq 0.0191 dir 0.0030 -> esq | And like, it's going to help me break it down.
+[ 43.62- 45.72] esq 0.0216 dir 0.0031 -> esq | So I am not getting like super bloated.
+[ 45.88- 48.64] esq 0.0085 dir 0.0133 -> dir | Oh, well, we eat way more than just pudding.
+[ 49.22- 53.68] esq 0.0231 dir 0.0029 -> esq | Yeah, people have used my digestive enzyme on pizza, pasta, burgers.
+[ 53.68- 56.14] esq 0.0157 dir 0.0024 -> esq | And it has broken literally all of it down.
+[ 56.14- 59.16] esq 0.0065 dir 0.0088 -> dir | OK, that's nobody's done that with this one.
+[ 60.78- 63.60] esq 0.0192 dir 0.0039 -> esq | Um, yeah, and mine has completely broken down the pudding now.
+[ 63.78- 64.56] esq 0.0009 dir 0.0167 -> dir | Are you kidding me?
+[ 64.72- 66.14] esq 0.0048 dir 0.0119 -> dir | Mine has literally done nothing.
+[ 66.36- 67.72] esq 0.0044 dir 0.0131 -> dir | What brand are you using?
+[ 67.98- 68.94] esq 0.0107 dir 0.0066 -> esq | Look at that. It's liquid.
+[ 69.12- 70.16] esq 0.0360 dir 0.0094 -> esq | Are you serious?
+[ 70.32- 71.26] esq 0.0221 dir 0.0068 -> esq | Yours has done nothing.
+[ 71.54- 73.62] esq 0.0197 dir 0.0099 -> esq | I told you it's still just sitting there.
+[ 73.98- 75.66] esq 0.0289 dir 0.0056 -> esq | What? I'm using the one by Physicians Choice.
+[ 75.72- 76.86] esq 0.0384 dir 0.0059 -> esq | This one is developed by doctors.
+[ 77.14- 79.14] esq 0.0222 dir 0.0061 -> esq | Literally the cleanest ingredients on the market.
+[ 79.16- 81.28] esq 0.0191 dir 0.0040 -> esq | This is the one everyone's using, like all the girls are saying.
+[ 81.32- 83.70] esq 0.0223 dir 0.0037 -> esq | They can eat whatever and stay like snatched in their bikinis.
+[ 83.80- 85.52] esq 0.0379 dir 0.0213 -> esq | It like helps so much with bloating.
+[ 85.52- 87.78] esq 0.0310 dir 0.0040 -> esq | They're doing like a big sale on here right now, too.
+[ 87.80- 90.32] esq 0.0195 dir 0.0045 -> esq | So it's cheaper than you can even get it in the grocery store.
+[ 90.62- 91.92] esq 0.0442 dir 0.0063 -> esq | OK, that's nuts.
+[ 92.48- 94.40] esq 0.0151 dir 0.0038 -> esq | Low quality versus high quality.
+[ 94.76- 96.72] esq 0.0652 dir 0.0069 -> esq | That's insane. Are you kidding me?

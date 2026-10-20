@@ -1,0 +1,12 @@
+saldo HeyGen antes: 4790 premium (19/10)
+lipsync speed (19/10 ~15:30 UTC):
+RA db16bfd0c80648358ae3cc92b16890f8 (reporter 2.0s)
+DA 8767359269324fdf9b79a6b941e6e067 (dono 5.95s)
+DB 7834866da4e14e9e8d79b0e687d9e383 (dono 5.5s)
+imagem: avatar/jm_frade_b.png (gpt-image-2.5-sunburst, flow ElevenLabs PRR9JT0dP7vnbv2iZWPF, 2 variacoes US$0,25)
+Avatar IV 720p medium: A 0348196313be75ba591a0b7849fc21b4 (J04-J07, 31.9s) | B fd43943ae4b869b5feef6fa5c3923d87 (J08-J12, 45.0s)
+saldo HeyGen ~40 min depois: 4767 (consumo 23 até agora; reconferir ~1 h depois)
+v2 dono: retrato dono2/dono_b.png (sunburst, 2 var US$0,17) -> Avatar IV 36a1fc94fa415dec3b7fe9bc79f67c79 (D.mp3 11.43s)
+saldo apos v2: 4763 (v2 dono ~4 creditos; total 27)
+v3: Avatar IV C 6b6f0135f9dc6395147a2b185af08751 (JN + JG1, 7.2s); Kling G5 moedas (ElevenLabs)
+saldo apos v3: 4760 (avatar C ~3 creditos; total sessao 30)

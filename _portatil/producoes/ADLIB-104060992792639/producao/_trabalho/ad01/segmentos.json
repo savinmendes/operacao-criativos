@@ -1,0 +1,110 @@
+{
+ "fps": 30,
+ "nquadros_base": 3473,
+ "segmentos": [
+  {
+   "nome": "s01",
+   "quadro_ini": 0,
+   "quadro_fim": 251,
+   "ini": 0.0,
+   "fim": 8.4,
+   "dur": 8.4
+  },
+  {
+   "nome": "s02",
+   "quadro_ini": 252,
+   "quadro_fim": 476,
+   "ini": 8.4,
+   "fim": 15.9,
+   "dur": 7.5
+  },
+  {
+   "nome": "s03",
+   "quadro_ini": 477,
+   "quadro_fim": 583,
+   "ini": 15.9,
+   "fim": 19.467,
+   "dur": 3.567
+  },
+  {
+   "nome": "s04",
+   "quadro_ini": 584,
+   "quadro_fim": 628,
+   "ini": 19.467,
+   "fim": 20.967,
+   "dur": 1.5
+  },
+  {
+   "nome": "s05",
+   "quadro_ini": 629,
+   "quadro_fim": 978,
+   "ini": 20.967,
+   "fim": 32.633,
+   "dur": 11.667
+  },
+  {
+   "nome": "s06",
+   "quadro_ini": 979,
+   "quadro_fim": 1259,
+   "ini": 32.633,
+   "fim": 42.0,
+   "dur": 9.367
+  },
+  {
+   "nome": "s07",
+   "quadro_ini": 1260,
+   "quadro_fim": 1469,
+   "ini": 42.0,
+   "fim": 49.0,
+   "dur": 7.0
+  },
+  {
+   "nome": "s08",
+   "quadro_ini": 1470,
+   "quadro_fim": 1807,
+   "ini": 49.0,
+   "fim": 60.267,
+   "dur": 11.267
+  },
+  {
+   "nome": "s09",
+   "quadro_ini": 1808,
+   "quadro_fim": 2173,
+   "ini": 60.267,
+   "fim": 72.467,
+   "dur": 12.2
+  },
+  {
+   "nome": "s10",
+   "quadro_ini": 2174,
+   "quadro_fim": 2498,
+   "ini": 72.467,
+   "fim": 83.3,
+   "dur": 10.833
+  },
+  {
+   "nome": "s11",
+   "quadro_ini": 2499,
+   "quadro_fim": 2811,
+   "ini": 83.3,
+   "fim": 93.733,
+   "dur": 10.433
+  },
+  {
+   "nome": "s12",
+   "quadro_ini": 2812,
+   "quadro_fim": 3142,
+   "ini": 93.733,
+   "fim": 104.767,
+   "dur": 11.033
+  },
+  {
+   "nome": "s13",
+   "quadro_ini": 3143,
+   "quadro_fim": 3472,
+   "ini": 104.767,
+   "fim": 115.767,
+   "dur": 11.0
+  }
+ ]
+}

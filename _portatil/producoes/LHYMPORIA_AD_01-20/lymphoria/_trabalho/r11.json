@@ -1,0 +1,9 @@
+﻿{"ad":"ad11","corte":540.9,"saida":"AD 11 - LYMPHORIA-GIMNASIO-ES-LATAM.mp4","takes":[
+{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/539e3bd5-f41e-4eb1-b8ac-b0f18ef6190e.mp4","inicio":295.533,"quadros":70},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/200db246-f820-4cb6-8b8b-833bf880dd84.mp4","inicio":297.867,"quadros":31},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/35611ea8-710e-4cce-b0ec-6bc858cd301c.mp4","inicio":310.333,"quadros":21},
+{"orig":"flora/t4.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/bf6003c7-9760-4f13-8138-bd2070e39a00.mp4","inicio":407.433,"quadros":30},
+{"orig":"flora/t5.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/e872724e-86aa-4f4d-9b24-3106622ba124.mp4","inicio":412.267,"quadros":163}],
+"blur":[{"de":411.07,"ate":412.27,"caixas":"300,150,600,240"}],
+"textos":[{"de":295.4,"ate":297.95,"caixa":"135,905,600,960","texto":"la mesa. \"Lymphoria","ref":296.5,"fonte":"Poppins-Medium.ttf"}],
+"audios":[{"mp3":"p1.mp3","de":296.0,"ate":298.6}]}

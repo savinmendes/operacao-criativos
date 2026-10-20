@@ -1,0 +1,8 @@
+LIPSYNC: full.mp4 (343 quadros, rosto em 100%, rosto 199,157,186,223 [forçado (--rosto)])
+  boca x original: dif. boca 5.52 | dif. controle 0.22 | mudou em 100% dos quadros | corr. abertura saída x original 0.01
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.29 (atraso -33 ms) | corr. original 0.09
+AVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.29 (original 0.09); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+
+out 345 q (esperado 346)
+cor dv=[-0.6000000238418579, 0.10999999940395355, -0.5299999713897705]

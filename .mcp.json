@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "dropkiller": {
+      "type": "http",
+      "url": "https://app.dropkiller.com/api/mcp"
+    },
+    "chegou-operacoes": {
+      "type": "http",
+      "url": "https://operacoes-api.chegouhub.com.br/mcp"
+    },
+    "winninghunter": {
+      "type": "http",
+      "url": "https://app.winninghunter.com/mcp"
+    }
+  }
+}

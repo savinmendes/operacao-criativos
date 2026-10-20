@@ -1,0 +1,341 @@
+{
+ "rotulo": "C2_muroReal",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\enxuto\\edicao\\cfg_enx\\C2_muroReal.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 35.667,
+ "blocos_medidos": 40,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 16,
+ "erro_max_abs_ms": 63,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 100,
+ "n_energia": 19,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 40,
+  "aparecem_no_quadro_esperado": 40,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "¿TU TALADRO NO",
+   "leg_t": 0.067,
+   "palavra": "¿Tu",
+   "fala_t": 0.081,
+   "erro_ms": -14,
+   "erro_energia_ms": -43
+  },
+  {
+   "legenda": "ENTRA AL MURO?",
+   "leg_t": 0.733,
+   "palavra": "entra",
+   "fala_t": 0.747,
+   "erro_ms": -14,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MIRA ESTO.",
+   "leg_t": 1.367,
+   "palavra": "Mira",
+   "fala_t": 1.372,
+   "erro_ms": -5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SI TU TALADRO",
+   "leg_t": 2.4,
+   "palavra": "Si",
+   "fala_t": 2.4,
+   "erro_ms": 0,
+   "erro_energia_ms": -10
+  },
+  {
+   "legenda": "NO ES PERCUTOR,",
+   "leg_t": 2.933,
+   "palavra": "no",
+   "fala_t": 2.92,
+   "erro_ms": 13,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "EN EL MURO",
+   "leg_t": 3.533,
+   "palavra": "en",
+   "fala_t": 3.541,
+   "erro_ms": -8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SE QUEDA GIRANDO",
+   "leg_t": 3.967,
+   "palavra": "se",
+   "fala_t": 3.981,
+   "erro_ms": -14,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y NO AVANZA.",
+   "leg_t": 4.7,
+   "palavra": "y",
+   "fala_t": 4.701,
+   "erro_ms": -1,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ESTE TALADRO SÍ",
+   "leg_t": 6.1,
+   "palavra": "Este",
+   "fala_t": 6.089,
+   "erro_ms": 11,
+   "erro_energia_ms": 23
+  },
+  {
+   "legenda": "ES PERCUTOR:",
+   "leg_t": 6.9,
+   "palavra": "es",
+   "fala_t": 6.91,
+   "erro_ms": -10,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "GIRAS EL ANILLO",
+   "leg_t": 8.0,
+   "palavra": "giras",
+   "fala_t": 8.01,
+   "erro_ms": -10,
+   "erro_energia_ms": -47
+  },
+  {
+   "legenda": "HASTA EL",
+   "leg_t": 9.5,
+   "palavra": "hasta",
+   "fala_t": 9.511,
+   "erro_ms": -11,
+   "erro_energia_ms": -17
+  },
+  {
+   "legenda": "MARTILLO,",
+   "leg_t": 9.833,
+   "palavra": "martillo,",
+   "fala_t": 9.831,
+   "erro_ms": 2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y CON",
+   "leg_t": 11.533,
+   "palavra": "y",
+   "fala_t": 11.548,
+   "erro_ms": -15,
+   "erro_energia_ms": 30
+  },
+  {
+   "legenda": "BROCA DE CONCRETO,",
+   "leg_t": 11.767,
+   "palavra": "broca",
+   "fala_t": 11.768,
+   "erro_ms": -1,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ENTRA EN EL",
+   "leg_t": 12.8,
+   "palavra": "entra",
+   "fala_t": 12.789,
+   "erro_ms": 11,
+   "erro_energia_ms": 57
+  },
+  {
+   "legenda": "MURO SIN PELEAR.",
+   "leg_t": 13.267,
+   "palavra": "muro",
+   "fala_t": 13.289,
+   "erro_ms": -22,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "EN MODO TALADRO,",
+   "leg_t": 15.467,
+   "palavra": "En",
+   "fala_t": 15.474,
+   "erro_ms": -7,
+   "erro_energia_ms": 40
+  },
+  {
+   "legenda": "PASA LIMPIO POR",
+   "leg_t": 16.4,
+   "palavra": "pasa",
+   "fala_t": 16.455,
+   "erro_ms": -55,
+   "erro_energia_ms": -57
+  },
+  {
+   "legenda": "MADERA Y METAL.",
+   "leg_t": 17.133,
+   "palavra": "madera",
+   "fala_t": 17.135,
+   "erro_ms": -2,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MOTOR",
+   "leg_t": 18.567,
+   "palavra": "Motor",
+   "fala_t": 18.556,
+   "erro_ms": 11,
+   "erro_energia_ms": 30
+  },
+  {
+   "legenda": "SIN CARBONES,",
+   "leg_t": 18.833,
+   "palavra": "sin",
+   "fala_t": 18.876,
+   "erro_ms": -43,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VEINTE VOLTS",
+   "leg_t": 19.7,
+   "palavra": "veinte",
+   "fala_t": 19.737,
+   "erro_ms": -37,
+   "erro_energia_ms": 33
+  },
+  {
+   "legenda": "MAX.",
+   "leg_t": 20.5,
+   "palavra": "MAX.",
+   "fala_t": 20.517,
+   "erro_ms": -17,
+   "erro_energia_ms": 63
+  },
+  {
+   "legenda": "Y TRAE",
+   "leg_t": 21.933,
+   "palavra": "Y",
+   "fala_t": 21.941,
+   "erro_ms": -8,
+   "erro_energia_ms": 43
+  },
+  {
+   "legenda": "DOS BATERÍAS DE",
+   "leg_t": 22.2,
+   "palavra": "dos",
+   "fala_t": 22.201,
+   "erro_ms": -1,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DOS AMPERES",
+   "leg_t": 23.2,
+   "palavra": "dos",
+   "fala_t": 23.222,
+   "erro_ms": -22,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "HORA:",
+   "leg_t": 24.033,
+   "palavra": "hora:",
+   "fala_t": 24.002,
+   "erro_ms": 31,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON UNA",
+   "leg_t": 25.2,
+   "palavra": "con",
+   "fala_t": 25.263,
+   "erro_ms": -63,
+   "erro_energia_ms": -50
+  },
+  {
+   "legenda": "TRABAJAS,",
+   "leg_t": 25.6,
+   "palavra": "trabajas,",
+   "fala_t": 25.583,
+   "erro_ms": 17,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y LA OTRA",
+   "leg_t": 26.833,
+   "palavra": "y",
+   "fala_t": 26.884,
+   "erro_ms": -51,
+   "erro_energia_ms": -17
+  },
+  {
+   "legenda": "SE VA CARGANDO.",
+   "leg_t": 27.633,
+   "palavra": "se",
+   "fala_t": 27.644,
+   "erro_ms": -11,
+   "erro_energia_ms": 3
+  },
+  {
+   "legenda": "MÁS EL CARGADOR",
+   "leg_t": 29.767,
+   "palavra": "Más",
+   "fala_t": 29.772,
+   "erro_ms": -5,
+   "erro_energia_ms": 100
+  },
+  {
+   "legenda": "Y SU MALETA,",
+   "leg_t": 30.433,
+   "palavra": "y",
+   "fala_t": 30.433,
+   "erro_ms": 0,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TODO EN",
+   "leg_t": 30.933,
+   "palavra": "todo",
+   "fala_t": 30.973,
+   "erro_ms": -40,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "UN SOLO KIT.",
+   "leg_t": 31.3,
+   "palavra": "un",
+   "fala_t": 31.293,
+   "erro_ms": 7,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "APROVECHA EL",
+   "leg_t": 32.567,
+   "palavra": "Aprovecha",
+   "fala_t": 32.567,
+   "erro_ms": 0,
+   "erro_energia_ms": 7
+  },
+  {
+   "legenda": "PRE BLACK FRIDAY.",
+   "leg_t": 33.067,
+   "palavra": "Pre",
+   "fala_t": 33.107,
+   "erro_ms": -40,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PÍDELO HOY,",
+   "leg_t": 34.367,
+   "palavra": "Pídelo",
+   "fala_t": 34.368,
+   "erro_ms": -1,
+   "erro_energia_ms": -3
+  },
+  {
+   "legenda": "Y PAGAS RECIÉN",
+   "leg_t": 35.033,
+   "palavra": "y",
+   "fala_t": 35.048,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  }
+ ]
+}

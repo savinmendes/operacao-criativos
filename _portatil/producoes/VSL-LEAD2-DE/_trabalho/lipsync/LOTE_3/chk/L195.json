@@ -1,0 +1,14 @@
+{
+ "id": "L195",
+ "quadros_heygen": 218,
+ "quadros": 218,
+ "cobertura_rosto": 1.0,
+ "desvio_cor_bgr": [
+  0.0,
+  0.0,
+  -0.5
+ ],
+ "indice_pausa": null,
+ "checar": "AVISO",
+ "saida_checar": "LIPSYNC: L195.mp4 (218 quadros, rosto em 100%, rosto 212,148,176,207 [único rosto])\n  boca x original: dif. boca 9.64 | dif. controle 0.32 | mudou em 100% dos quadros | corr. abertura saída x original 0.19\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.42 (atraso 0 ms) | corr. original -\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.42; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+}

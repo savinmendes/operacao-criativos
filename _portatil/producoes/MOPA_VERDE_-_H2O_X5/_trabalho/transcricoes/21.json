@@ -1,0 +1,20 @@
+{
+ "id": "21",
+ "texto": "You",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 1.62,
+   "texto": "You",
+   "no_speech": 0.57,
+   "palavras": [
+    {
+     "w": "You",
+     "ini": 0.0,
+     "fim": 1.62,
+     "p": 0.01
+    }
+   ]
+  }
+ ]
+}

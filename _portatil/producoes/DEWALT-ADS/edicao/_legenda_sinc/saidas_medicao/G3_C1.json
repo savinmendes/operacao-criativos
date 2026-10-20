@@ -1,0 +1,413 @@
+{
+ "rotulo": "G3_C1",
+ "cfg": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\edicao\\cfg\\G3_C1_voz.json",
+ "titulo_ate": 0.0,
+ "cta_desde": 44.833,
+ "blocos_medidos": 49,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 18,
+ "erro_max_abs_ms": 90,
+ "pct_dentro_100ms": 100.0,
+ "erro_energia_max_abs_ms": 70,
+ "n_energia": 21,
+ "faladas_sem_legenda": [],
+ "quadros": {
+  "eventos_conferidos": 49,
+  "aparecem_no_quadro_esperado": 49,
+  "falhas": []
+ },
+ "linhas": [
+  {
+   "legenda": "MAESTRO,",
+   "leg_t": 0.067,
+   "palavra": "Maestro,",
+   "fala_t": 0.06,
+   "erro_ms": 7,
+   "erro_energia_ms": 7
+  },
+  {
+   "legenda": "ESTE TALADRO",
+   "leg_t": 0.467,
+   "palavra": "este",
+   "fala_t": 0.483,
+   "erro_ms": -16,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "AGUANTA",
+   "leg_t": 0.933,
+   "palavra": "aguanta",
+   "fala_t": 0.925,
+   "erro_ms": 8,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PEGA PESADA.",
+   "leg_t": 1.333,
+   "palavra": "pega",
+   "fala_t": 1.307,
+   "erro_ms": 26,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MIRA TODO LO",
+   "leg_t": 2.433,
+   "palavra": "Mira",
+   "fala_t": 2.447,
+   "erro_ms": -14,
+   "erro_energia_ms": 7
+  },
+  {
+   "legenda": "QUE TRAE ESTE",
+   "leg_t": 2.967,
+   "palavra": "que",
+   "fala_t": 2.967,
+   "erro_ms": 0,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "KIT DEWALT.",
+   "leg_t": 3.633,
+   "palavra": "kit",
+   "fala_t": 3.627,
+   "erro_ms": 6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VIENE EN SU",
+   "leg_t": 5.267,
+   "palavra": "Viene",
+   "fala_t": 5.284,
+   "erro_ms": -17,
+   "erro_energia_ms": -17
+  },
+  {
+   "legenda": "MALETA DURA,",
+   "leg_t": 5.767,
+   "palavra": "maleta",
+   "fala_t": 5.744,
+   "erro_ms": 23,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PARA LLEVARLO A",
+   "leg_t": 6.5,
+   "palavra": "para",
+   "fala_t": 6.504,
+   "erro_ms": -4,
+   "erro_energia_ms": -23
+  },
+  {
+   "legenda": "CUALQUIER PEGA.",
+   "leg_t": 7.1,
+   "palavra": "cualquier",
+   "fala_t": 7.085,
+   "erro_ms": 15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ADENTRO:",
+   "leg_t": 8.333,
+   "palavra": "Adentro:",
+   "fala_t": 8.362,
+   "erro_ms": -29,
+   "erro_energia_ms": -7
+  },
+  {
+   "legenda": "EL TALADRO",
+   "leg_t": 9.3,
+   "palavra": "el",
+   "fala_t": 9.322,
+   "erro_ms": -22,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "PERCUTOR Y",
+   "leg_t": 9.833,
+   "palavra": "percutor",
+   "fala_t": 9.842,
+   "erro_ms": -9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ATORNILLADOR,",
+   "leg_t": 10.633,
+   "palavra": "atornillador,",
+   "fala_t": 10.643,
+   "erro_ms": -10,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DOS BATERÍAS DE",
+   "leg_t": 12.267,
+   "palavra": "dos",
+   "fala_t": 12.296,
+   "erro_ms": -29,
+   "erro_energia_ms": -17
+  },
+  {
+   "legenda": "VEINTE VOLTS,",
+   "leg_t": 12.933,
+   "palavra": "veinte",
+   "fala_t": 12.936,
+   "erro_ms": -3,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE DOS AMPERES",
+   "leg_t": 13.7,
+   "palavra": "de",
+   "fala_t": 13.717,
+   "erro_ms": -17,
+   "erro_energia_ms": -3
+  },
+  {
+   "legenda": "HORA,",
+   "leg_t": 14.4,
+   "palavra": "hora,",
+   "fala_t": 14.337,
+   "erro_ms": 63,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y SU CARGADOR.",
+   "leg_t": 15.067,
+   "palavra": "y",
+   "fala_t": 15.091,
+   "erro_ms": -24,
+   "erro_energia_ms": 10
+  },
+  {
+   "legenda": "MANDRIL DE TRECE",
+   "leg_t": 17.333,
+   "palavra": "Mandril",
+   "fala_t": 17.362,
+   "erro_ms": -29,
+   "erro_energia_ms": 17
+  },
+  {
+   "legenda": "MILÍMETROS,",
+   "leg_t": 18.4,
+   "palavra": "milímetros,",
+   "fala_t": 18.382,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE",
+   "leg_t": 19.167,
+   "palavra": "de",
+   "fala_t": 19.183,
+   "erro_ms": -16,
+   "erro_energia_ms": 10
+  },
+  {
+   "legenda": "AJUSTE RÁPIDO.",
+   "leg_t": 19.3,
+   "palavra": "ajuste",
+   "fala_t": 19.303,
+   "erro_ms": -3,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON EL ANILLO",
+   "leg_t": 21.367,
+   "palavra": "Con",
+   "fala_t": 21.366,
+   "erro_ms": 1,
+   "erro_energia_ms": -13
+  },
+  {
+   "legenda": "ELIGES EL MODO:",
+   "leg_t": 22.033,
+   "palavra": "eliges",
+   "fala_t": 22.027,
+   "erro_ms": 6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TALADRO,",
+   "leg_t": 23.4,
+   "palavra": "taladro,",
+   "fala_t": 23.39,
+   "erro_ms": 10,
+   "erro_energia_ms": -13
+  },
+  {
+   "legenda": "PARA MADERA Y",
+   "leg_t": 24.5,
+   "palavra": "para",
+   "fala_t": 24.51,
+   "erro_ms": -10,
+   "erro_energia_ms": -13
+  },
+  {
+   "legenda": "METAL; PERCUTOR,",
+   "leg_t": 25.1,
+   "palavra": "metal;",
+   "fala_t": 25.091,
+   "erro_ms": 9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PARA MURO Y",
+   "leg_t": 27.1,
+   "palavra": "para",
+   "fala_t": 27.085,
+   "erro_ms": 15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CONCRETO; Y",
+   "leg_t": 27.567,
+   "palavra": "concreto;",
+   "fala_t": 27.585,
+   "erro_ms": -18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ATORNILLADOR,",
+   "leg_t": 28.733,
+   "palavra": "atornillador,",
+   "fala_t": 28.749,
+   "erro_ms": -16,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON",
+   "leg_t": 30.1,
+   "palavra": "con",
+   "fala_t": 30.089,
+   "erro_ms": 11,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "QUINCE POSICIONES",
+   "leg_t": 30.333,
+   "palavra": "quince",
+   "fala_t": 30.329,
+   "erro_ms": 4,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DE TORQUE.",
+   "leg_t": 31.233,
+   "palavra": "de",
+   "fala_t": 31.23,
+   "erro_ms": 3,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DOS VELOCIDADES,",
+   "leg_t": 32.867,
+   "palavra": "Dos",
+   "fala_t": 32.957,
+   "erro_ms": -90,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "HASTA MIL",
+   "leg_t": 33.767,
+   "palavra": "hasta",
+   "fala_t": 33.757,
+   "erro_ms": 10,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "SETECIENTAS",
+   "leg_t": 34.167,
+   "palavra": "setecientas",
+   "fala_t": 34.178,
+   "erro_ms": -11,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CINCUENTA",
+   "leg_t": 34.667,
+   "palavra": "cincuenta",
+   "fala_t": 34.678,
+   "erro_ms": -11,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "REVOLUCIONES POR",
+   "leg_t": 35.033,
+   "palavra": "revoluciones",
+   "fala_t": 35.038,
+   "erro_ms": -5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MINUTO.",
+   "leg_t": 35.667,
+   "palavra": "minuto.",
+   "fala_t": 35.658,
+   "erro_ms": 9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y LUZ LED,",
+   "leg_t": 37.1,
+   "palavra": "Y",
+   "fala_t": 37.155,
+   "erro_ms": -55,
+   "erro_energia_ms": -13
+  },
+  {
+   "legenda": "PARA VER BIEN",
+   "leg_t": 38.867,
+   "palavra": "para",
+   "fala_t": 38.835,
+   "erro_ms": 32,
+   "erro_energia_ms": 3
+  },
+  {
+   "legenda": "DONDE TRABAJAS.",
+   "leg_t": 39.4,
+   "palavra": "donde",
+   "fala_t": 39.415,
+   "erro_ms": -15,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TODO ESTO,",
+   "leg_t": 41.133,
+   "palavra": "Todo",
+   "fala_t": 41.14,
+   "erro_ms": -7,
+   "erro_energia_ms": -13
+  },
+  {
+   "legenda": "EN UN SOLO KIT.",
+   "leg_t": 41.7,
+   "palavra": "en",
+   "fala_t": 41.74,
+   "erro_ms": -40,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PRE BLACK",
+   "leg_t": 43.233,
+   "palavra": "Pre",
+   "fala_t": 43.217,
+   "erro_ms": 16,
+   "erro_energia_ms": 10
+  },
+  {
+   "legenda": "FRIDAY:",
+   "leg_t": 43.633,
+   "palavra": "Friday:",
+   "fala_t": 43.657,
+   "erro_ms": -24,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PÍDELO HOY Y",
+   "leg_t": 44.133,
+   "palavra": "Pídelo",
+   "fala_t": 44.197,
+   "erro_ms": -64,
+   "erro_energia_ms": -70
+  }
+ ]
+}

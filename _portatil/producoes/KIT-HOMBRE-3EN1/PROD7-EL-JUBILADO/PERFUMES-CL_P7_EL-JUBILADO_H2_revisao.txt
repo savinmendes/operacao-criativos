@@ -1,0 +1,28 @@
+REVISÃO: PERFUMES-CL_P7_EL-JUBILADO_H2.mp4
+duração 33.82s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 23.4 MB
+decodificação: OK
+pts do áudio: 1587 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1006-1072, x 232-503 | no último quadro: sim | faixa escura do rodapé: 1245-1279
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\PROD7-EL-JUBILADO\PERFUMES-CL_P7_EL-JUBILADO_H2_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00-  3.60 Pase usted, Don Lucho, y ese perfume.
+   4.10-  8.60 Tengo 62 años y estoy más solicitado que nunca.
+   8.60- 10.60 Tres perfumes árabes al precio de uno.
+  11.10- 14.70 En el día Armav Club, fresco, masculino y poderoso.
+  15.20- 16.80 En la plaza ya me dicen el galán.
+  17.30- 19.10 En la noche, la taf Asad.
+  20.40- 21.80 Intenso y seductor.
+  22.30- 24.80 Mi señora se puso celosa y cariñosa.
+  25.20- 29.00 Y el fin de semana, AFNAN 9 PM, elegante y moderno.
+  29.00- 32.38 Los tres te llegan a la casa y pagas cuando los recibes.
+  32.38- 33.38 ¡Pídelo ahora!
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Poppins,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,5,30,30,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.14,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}TE{\c&HFFFFFF&} RECUERDAN POR
+Dialogue: 0,0:00:00.14,0:00:00.58,C,,0,0,0,,{\pos(360,843)}TE {\c&H00F0F5&}RECUERDAN{\c&HFFFFFF&} POR
+Dialogue: 0,0:00:00.58,0:00:00.78,C,,0,0,0,,{\pos(360,843)}TE RECUERDAN {\c&H00F0F5&}POR{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.78,0:00:00.90,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}EL{\c&HFFFFFF&} AROMA QUE
+Dialogue: 0,0:00:00.90,0:00:01.08,C,,0,0,0,,{\pos(360,843)}EL {\c&H00F0F5&}AROMA{\c&HFFFFFF&} QUE
+Dialogue: 0,0:00:01.08,0:00:01.32,C,,0,0,0,,{\pos(360,843)}EL AROMA {\c&H00F0F5&}QUE{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.32,0:00:02.00,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}DEJAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.00,0:00:02.20,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}CON{\c&HFFFFFF&} TRES PERFUMES
+Dialogue: 0,0:00:02.20,0:00:02.40,C,,0,0,0,,{\pos(360,843)}CON {\c&H00F0F5&}TRES{\c&HFFFFFF&} PERFUMES
+Dialogue: 0,0:00:02.40,0:00:02.86,C,,0,0,0,,{\pos(360,843)}CON TRES {\c&H00F0F5&}PERFUMES{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.86,0:00:03.00,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}AL{\c&HFFFFFF&} PRECIO DE
+Dialogue: 0,0:00:03.00,0:00:03.24,C,,0,0,0,,{\pos(360,843)}AL {\c&H00F0F5&}PRECIO{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:03.24,0:00:03.44,C,,0,0,0,,{\pos(360,843)}AL PRECIO {\c&H00F0F5&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.44,0:00:03.92,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}UNO{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.92,0:00:04.10,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}CADA{\c&HFFFFFF&} HABITACIÓN
+Dialogue: 0,0:00:04.10,0:00:04.58,C,,0,0,0,,{\pos(360,843)}CADA {\c&H00F0F5&}HABITACIÓN{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.58,0:00:05.14,C,,0,0,0,,{\pos(360,843)}{\c&H00F0F5&}CONSERVARÁ{\c&HFFFFFF&} TU HUELLA
+Dialogue: 0,0:00:05.14,0:00:05.30,C,,0,0,0,,{\pos(360,843)}CONSERVARÁ {\c&H00F0F5&}TU{\c&HFFFFFF&} HUELLA
+Dialogue: 0,0:00:05.30,0:00:05.95,C,,0,0,0,,{\pos(360,843)}CONSERVARÁ TU {\c&H00F0F5&}HUELLA{\c&HFFFFFF&}

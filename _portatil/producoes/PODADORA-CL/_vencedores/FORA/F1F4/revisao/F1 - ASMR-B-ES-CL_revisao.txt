@@ -1,0 +1,41 @@
+REVISÃO: F1 - ASMR-B-ES-CL.mp4
+duração 42.10s | 720x1280 | 30/1 fps | áudio: sim | 25.6 MB
+decodificação: OK
+pts do áudio: 1974 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 37.85-42.08
+cortes de cena: 14 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\FORA\F1F4\revisao\F1 - ASMR-B-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00- 12.62 Mira, dos baterías, ruedas y cuatro cabezores. Las ruedas hacen más ligero el trabajo. Una
+  12.62- 18.34 pasada y mira la diferencia. El cabezo también se ajusta. Y deja la orida bien pareja.
+  18.34- 21.66 Sí valió la pena. Pícale aquí abajo.
+  21.66- 27.12 Ya ni se venía la orilla. Sigue viendo. Mira, dos baterías, ruedas y cuatro cabezores.
+  27.12- 30.80 Las ruedas hacen más ligero el trabajo, una pasada y mira la diferencia.
+  30.80- 34.76 El cabezo también se ajusta, y deja la orida bien pareja.
+  34.76- 37.40 Si valió la pena, pícale aquí abajo.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00- 10.60    Look, two batteries, wheels and four heads.
+  10.60- 12.64    The wheels make the work lighter.
+  12.64- 14.28    A pass and look at the difference.
+  14.28- 18.32    The head also adjusts and leaves the edge well even.
+  18.32- 19.48    Yes it was worth it.
+  19.48- 21.68    Put it down here.
+  21.68- 23.08    Yanni came to the edge.
+  23.08- 24.08    Keep watching.
+  24.08- 27.12    Look, two batteries, wheels and four heads.
+  27.12- 29.12    The wheels make the work lighter.
+  29.12- 35.12    passada y mira la diferencia el cabezo también se ajusta y deja la orida bien pareja si valió
+  35.12- 36.64    la pena pícale aquí abajo
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 4.25s no fim (a partir de 37.85s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 37.4s; vídeo vai até 42.1s
+1 problema(s)

@@ -1,0 +1,27 @@
+{
+ "arquivo": "20 AD.mp4",
+ "idioma": "pt",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 7.88,
+   "texto": "Essa aqui é a parafusadeira que está viralizando e agora está com mais de 67% de desconto na Tik Tok Shop."
+  },
+  {
+   "ini": 7.88,
+   "fim": 11.28,
+   "texto": "Se eu fosse você, não perdi essa super oferta."
+  },
+  {
+   "ini": 11.28,
+   "fim": 15.48,
+   "texto": "Só aqui na Tik Tok Shop você encontra essa parafusadeira por esse preço."
+  },
+  {
+   "ini": 15.48,
+   "fim": 22.08,
+   "texto": "Já está no carrinho laranja e não perde essa promoção porque é por tempo limitado. Garanta a sua!"
+  }
+ ]
+}

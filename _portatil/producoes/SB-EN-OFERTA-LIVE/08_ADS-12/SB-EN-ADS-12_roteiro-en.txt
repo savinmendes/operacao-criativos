@@ -1,0 +1,34 @@
+SB-EN-ADS-12 — San Benito · Inglês (EUA / Reino Unido / Canadá / Austrália, depois worldwide)
+Origem: SB-ES_08_ADS-12.mp4 (ES, 31,5 s). Saída EN: 26,7 s, 720x1280. Destino: a oração ao vivo (live prayer).
+Botão do Meta: LEARN_MORE ("Learn More"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen ESPANHOL" (AkQxVSf1kENGmX9WjeDE), eleven_multilingual_v2, falando inglês (voz já existente na conta; nenhuma voz criada).
+
+======================================================================
+ROTEIRO ES (original, por cena)
+======================================================================
+[Jesus falando, aureola] Si me ignoras, no tendré otra opción que conceder el milagro que tanto necesitas a otra persona.
+  Esta es tu última oportunidad para recibir lo que he preparado para ti.
+[Abraço] Jesús te ha elegido. Él te ha traído un poderoso regalo.
+[Jesus ajoelhado] En este vídeo, escucharás una antigua oración perdida de la Biblia
+[Jesus nas nuvens com livro] que desbloqueará una lluvia de bendiciones y milagros sobre tu vida.
+[Jesus com a cruz] No me rechaces nuevamente. Toca...
+[Jesus falando, CTA + seta] ...el botón de ver más ahora mismo y recibe tu milagro antes de que sea demasiado tarde.
+
+======================================================================
+ROTEIRO EN (narrado)
+======================================================================
+[0,0–7,4  Jesus falando, lipsync] If you ignore me, I'll have no choice but to give the miracle you need so much to someone else.
+  This is your last chance to receive what I have prepared for you.
+[7,4–11,0  Abraço] Jesus has chosen you. He has brought you a powerful gift.
+[11,0–14,4  Jesus ajoelhado] Today, you will hear an ancient lost prayer from the Bible
+[14,4–17,9  Nuvens/livro] that will unlock a shower of blessings and miracles over your life.
+[17,9–21,3  Cruz] Don't reject me again. Tap Learn More below,
+[21,3–26,7  Jesus falando, lipsync, seta] and join the live prayer right now. Receive your miracle before it's too late.
+
+Decisões de tradução
+- "En este vídeo, escucharás" virou "Today, you will hear": o destino é a oração ao vivo, não um vídeo.
+- "Toca el botón de ver más ahora mismo" virou "Tap Learn More below, and join the live prayer right now"
+  (nome do botão do Meta em inglês + convite para a live).
+- "lluvia de bendiciones y milagros" virou "shower of blessings and miracles" (natural no inglês cristão).
+- Mesmo teor do ES, sem suavizar: "give the miracle you need so much to someone else", "your last chance",
+  "Don't reject me again", "before it's too late".

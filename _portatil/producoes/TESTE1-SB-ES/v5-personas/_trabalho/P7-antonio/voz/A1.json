@@ -1,0 +1,105 @@
+{
+"texto": "Esa noche no quise comer. Cuarenta años trabajando… y me trataron como si yo no valiera nada.",
+"voz": "Zkg9LlmGNlBWLgWjzTnu",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.04,
+"dur": 6.514,
+"palavras": [
+{
+"w": "Esa",
+"ini": 0.035,
+"fim": 0.209
+},
+{
+"w": "noche",
+"ini": 0.255,
+"fim": 0.464
+},
+{
+"w": "no",
+"ini": 0.511,
+"fim": 0.592
+},
+{
+"w": "quise",
+"ini": 0.639,
+"fim": 0.848
+},
+{
+"w": "comer.",
+"ini": 0.894,
+"fim": 1.347
+},
+{
+"w": "Cuarenta",
+"ini": 1.597,
+"fim": 2.34
+},
+{
+"w": "años",
+"ini": 2.375,
+"fim": 2.677
+},
+{
+"w": "trabajando...",
+"ini": 2.723,
+"fim": 3.559
+},
+{
+"w": "y",
+"ini": 3.809,
+"fim": 3.89
+},
+{
+"w": "me",
+"ini": 3.972,
+"fim": 4.064
+},
+{
+"w": "trataron",
+"ini": 4.111,
+"fim": 4.587
+},
+{
+"w": "como",
+"ini": 4.645,
+"fim": 4.865
+},
+{
+"w": "si",
+"ini": 4.924,
+"fim": 5.04
+},
+{
+"w": "yo",
+"ini": 5.098,
+"fim": 5.202
+},
+{
+"w": "no",
+"ini": 5.249,
+"fim": 5.341
+},
+{
+"w": "valiera",
+"ini": 5.365,
+"fim": 5.771
+},
+{
+"w": "nada.",
+"ini": 5.841,
+"fim": 6.317
+}
+],
+"cortes": [
+[
+1.472,
+1.651
+],
+[
+3.863,
+4.043
+]
+]
+}

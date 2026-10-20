@@ -1,0 +1,32 @@
+{
+ "arquivo": "VAR 19 - G9-PAGAS-AL-RECIBIR x AD05.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 285.53,
+ "mb": 35.1,
+ "whisper_gancho": "¿Por qué te dejamos pagar recién cuando lo recibes en tu casa? Porque sabemos que ya aprobaste de todo. Escucha esta historia.",
+ "whisper_emenda": "de todo. Escucha esta historia.",
+ "cobertura_gancho": 0.95,
+ "cortes": [
+  1.166667,
+  2.4,
+  3.966667,
+  6.233333,
+  7.7,
+  8.6
+ ],
+ "cortes_plan": [
+  1.167,
+  2.4,
+  3.967,
+  6.233,
+  7.7
+ ],
+ "silencios": [
+  [
+   58.04,
+   58.86
+  ]
+ ],
+ "ok": true
+}

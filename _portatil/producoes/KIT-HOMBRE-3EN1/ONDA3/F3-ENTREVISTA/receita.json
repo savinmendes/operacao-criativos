@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F3-ENTREVISTA/PERFUMES-CL_F3_ENTREVISTA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F3-ENTREVISTA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F3-ENTREVISTA/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F3-ENTREVISTA/corpo.alinhamento.json", "chaves": ["hombre", "Este", "masculino", "Armaf", "noche", "Asad", "caballero", "9PM", "tres", "uno", "24", "recibes", "Pídelo"]},
+  "manchete": {"texto": "¿CUÁL ELIGEN LAS CHILENAS? 👃", "y": 300, "ate": 2.9},
+  "cta": {"palavra": "pídelo", "y": 1580},
+  "resolucao": "720",
+  "limite_mb": 30
+}

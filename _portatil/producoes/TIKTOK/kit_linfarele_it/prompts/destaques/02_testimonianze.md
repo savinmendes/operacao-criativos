@@ -1,0 +1,1 @@
+Ícone de estrelas ou depoimentos, paleta da marca

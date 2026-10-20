@@ -1,0 +1,702 @@
+{
+ "trad_37": {
+  "id": "trad_37",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_37.mp3",
+  "duracao": 75.81,
+  "fala_fim": 75.41,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Hola, maestros. Hoy les voy a presentar el kit de taladro percutor y atornillador inalámbrico DeWalt, de veinte volts MAX, con baterías de ion de litio. Vamos a verlo.",
+    "inicio": 0.0,
+    "fim": 9.61,
+    "dur": 9.61,
+    "orig_ini": 0.0,
+    "orig_fim": 11.0
+   },
+   {
+    "i": 1,
+    "texto": "Trae cargador, dos baterías de dos amperes hora y una maleta para guardar y llevar todo.",
+    "inicio": 11.0,
+    "fim": 16.39,
+    "dur": 5.39,
+    "orig_ini": 11.0,
+    "orig_fim": 16.5
+   },
+   {
+    "i": 2,
+    "texto": "Tiene mandril de ajuste rápido de media pulgada, trece milímetros.",
+    "inicio": 16.51,
+    "fim": 20.64,
+    "dur": 4.13,
+    "orig_ini": 16.5,
+    "orig_fim": 20.5
+   },
+   {
+    "i": 3,
+    "texto": "Así cambias brocas y puntas en segundos, sin necesidad de usar llave.",
+    "inicio": 20.76,
+    "fim": 24.94,
+    "dur": 4.18,
+    "orig_ini": 20.5,
+    "orig_fim": 24.5
+   },
+   {
+    "i": 4,
+    "texto": "Es compacto y bien liviano en la mano.",
+    "inicio": 25.06,
+    "fim": 26.96,
+    "dur": 1.9,
+    "orig_ini": 24.5,
+    "orig_fim": 26.5
+   },
+   {
+    "i": 5,
+    "texto": "Viene con motor sin carbones, brushless.",
+    "inicio": 27.08,
+    "fim": 29.59,
+    "dur": 2.51,
+    "orig_ini": 26.5,
+    "orig_fim": 29.5
+   },
+   {
+    "i": 6,
+    "texto": "Tiene dos velocidades mecánicas, con gatillo variable y reversa.",
+    "inicio": 29.71,
+    "fim": 33.8,
+    "dur": 4.09,
+    "orig_ini": 29.5,
+    "orig_fim": 33.5
+   },
+   {
+    "i": 7,
+    "texto": "En la segunda velocidad llega hasta mil setecientas cincuenta revoluciones por minuto, para perforar rápido.",
+    "inicio": 33.92,
+    "fim": 40.24,
+    "dur": 6.32,
+    "orig_ini": 33.5,
+    "orig_fim": 40.5
+   },
+   {
+    "i": 8,
+    "texto": "Su anillo tiene quince posiciones de torque, para apretar justo cada tornillo sin dañar el material.",
+    "inicio": 40.5,
+    "fim": 45.7,
+    "dur": 5.2,
+    "orig_ini": 40.5,
+    "orig_fim": 47.0
+   },
+   {
+    "i": 9,
+    "texto": "Y cada batería tiene su indicador de carga incorporado.",
+    "inicio": 47.0,
+    "fim": 50.06,
+    "dur": 3.06,
+    "orig_ini": 47.0,
+    "orig_fim": 50.5
+   },
+   {
+    "i": 10,
+    "texto": "Con él puedes perforar sin ningún problema en distintos tipos de madera,",
+    "inicio": 51.5,
+    "fim": 55.54,
+    "dur": 4.04,
+    "orig_ini": 51.5,
+    "orig_fim": 55.5
+   },
+   {
+    "i": 11,
+    "texto": "y también en metal, para fierros y estructuras,",
+    "inicio": 55.66,
+    "fim": 58.72,
+    "dur": 3.06,
+    "orig_ini": 55.5,
+    "orig_fim": 58.5
+   },
+   {
+    "i": 12,
+    "texto": "y en muro o concreto, usando el modo percutor.",
+    "inicio": 58.84,
+    "fim": 61.82,
+    "dur": 2.97,
+    "orig_ini": 58.5,
+    "orig_fim": 61.5
+   },
+   {
+    "i": 13,
+    "texto": "Tiene luz LED para trabajar en lugares oscuros.",
+    "inicio": 61.94,
+    "fim": 64.72,
+    "dur": 2.79,
+    "orig_ini": 61.5,
+    "orig_fim": 64.5
+   },
+   {
+    "i": 14,
+    "texto": "Ideal para atornillar, armar muebles, estructuras metálicas y para la mantención de la casa o de la obra.",
+    "inicio": 64.84,
+    "fim": 71.02,
+    "dur": 6.18,
+    "orig_ini": 64.5,
+    "orig_fim": 71.5
+   },
+   {
+    "i": 15,
+    "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+    "inicio": 71.6,
+    "fim": 75.41,
+    "dur": 3.81,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "trad_21": {
+  "id": "trad_21",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_21.mp3",
+  "duracao": 54.99,
+  "fala_fim": 54.59,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Si buscas versatilidad, potencia y libertad para perforar y atornillar sin cables, donde sea,",
+    "inicio": 0.27,
+    "fim": 6.21,
+    "dur": 5.94,
+    "orig_ini": 0.27,
+    "orig_fim": 6.77
+   },
+   {
+    "i": 1,
+    "texto": "el kit de taladro percutor y atornillador DeWalt de veinte volts es la elección perfecta.",
+    "inicio": 6.77,
+    "fim": 12.11,
+    "dur": 5.34,
+    "orig_ini": 6.77,
+    "orig_fim": 12.27
+   },
+   {
+    "i": 2,
+    "texto": "Como atornillador, regulas el torque con sus quince posiciones, para no dañar el material con el que trabajas",
+    "inicio": 12.27,
+    "fim": 17.94,
+    "dur": 5.67,
+    "orig_ini": 12.27,
+    "orig_fim": 18.27
+   },
+   {
+    "i": 3,
+    "texto": "y dejar cada uno de tus tornillos bien apretado y firme.",
+    "inicio": 18.27,
+    "fim": 21.75,
+    "dur": 3.48,
+    "orig_ini": 18.27,
+    "orig_fim": 21.27
+   },
+   {
+    "i": 4,
+    "texto": "Su mandril de ajuste rápido te deja cambiar brocas y puntas en un dos por tres,",
+    "inicio": 21.87,
+    "fim": 26.42,
+    "dur": 4.55,
+    "orig_ini": 21.27,
+    "orig_fim": 26.27
+   },
+   {
+    "i": 5,
+    "texto": "y así ahorras harto tiempo en cada pega.",
+    "inicio": 26.54,
+    "fim": 28.82,
+    "dur": 2.28,
+    "orig_ini": 26.27,
+    "orig_fim": 28.27
+   },
+   {
+    "i": 6,
+    "texto": "Con su motor sin carbones, brushless, y su batería de veinte volts MAX,",
+    "inicio": 28.94,
+    "fim": 33.54,
+    "dur": 4.6,
+    "orig_ini": 28.27,
+    "orig_fim": 33.27
+   },
+   {
+    "i": 7,
+    "texto": "este DeWalt te da la fuerza que necesitas, en la casa o en la obra, para perforar distintos materiales:",
+    "inicio": 33.66,
+    "fim": 40.11,
+    "dur": 6.46,
+    "orig_ini": 33.27,
+    "orig_fim": 39.27
+   },
+   {
+    "i": 8,
+    "texto": "madera, metal y muro.",
+    "inicio": 40.23,
+    "fim": 42.28,
+    "dur": 2.04,
+    "orig_ini": 39.27,
+    "orig_fim": 41.27
+   },
+   {
+    "i": 9,
+    "texto": "Y con sus dos velocidades mecánicas, ajustas la potencia según el trabajo que tengas en la mano.",
+    "inicio": 42.4,
+    "fim": 48.01,
+    "dur": 5.62,
+    "orig_ini": 41.27,
+    "orig_fim": 47.27
+   },
+   {
+    "i": 10,
+    "texto": "Aprovecha el Pre Black Friday: pídelo hoy, con envío a todo Chile, y pagas recién cuando te llegue a la casa.",
+    "inicio": 48.13,
+    "fim": 54.59,
+    "dur": 6.46,
+    "orig_ini": 47.27,
+    "orig_fim": 54.27
+   }
+  ]
+ },
+ "trad_41": {
+  "id": "trad_41",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_41.mp3",
+  "duracao": 33.07,
+  "fala_fim": 32.66,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Taladro percutor y atornillador DeWalt.",
+    "inicio": 0.0,
+    "fim": 2.65,
+    "dur": 2.65,
+    "orig_ini": 0.0,
+    "orig_fim": 5.97
+   },
+   {
+    "i": 1,
+    "texto": "Trae dos baterías de veinte volts MAX, de dos amperes hora, y su cargador,",
+    "inicio": 5.97,
+    "fim": 10.99,
+    "dur": 5.02,
+    "orig_ini": 5.97,
+    "orig_fim": 11.61
+   },
+   {
+    "i": 2,
+    "texto": "y su maleta dura.",
+    "inicio": 11.61,
+    "fim": 13.0,
+    "dur": 1.39,
+    "orig_ini": 11.61,
+    "orig_fim": 14.0
+   },
+   {
+    "i": 3,
+    "texto": "La batería trae indicador de carga, y el taladro tiene luz LED para ver bien donde trabajas.",
+    "inicio": 17.0,
+    "fim": 22.76,
+    "dur": 5.76,
+    "orig_ini": 16.9,
+    "orig_fim": 22.44
+   },
+   {
+    "i": 4,
+    "texto": "Quince posiciones de torque, y modo percutor para muro.",
+    "inicio": 22.88,
+    "fim": 26.46,
+    "dur": 3.58,
+    "orig_ini": 22.44,
+    "orig_fim": 26.53
+   },
+   {
+    "i": 5,
+    "texto": "Motor sin carbones.",
+    "inicio": 26.58,
+    "fim": 28.11,
+    "dur": 1.53,
+    "orig_ini": 26.53,
+    "orig_fim": 28.07
+   },
+   {
+    "i": 6,
+    "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+    "inicio": 28.3,
+    "fim": 32.66,
+    "dur": 4.37,
+    "orig_ini": 28.07,
+    "orig_fim": 33.94
+   }
+  ]
+ },
+ "trad_38": {
+  "id": "trad_38",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_38.mp3",
+  "duracao": 15.41,
+  "fala_fim": 15.01,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Taladro DeWalt de veinte volts MAX, sin carbones.",
+    "inicio": 0.15,
+    "fim": 3.73,
+    "dur": 3.58,
+    "orig_ini": 0.1,
+    "orig_fim": 1.9
+   },
+   {
+    "i": 1,
+    "texto": "Gatillo de velocidad variable y luz LED.",
+    "inicio": 3.85,
+    "fim": 6.49,
+    "dur": 2.65,
+    "orig_ini": 2.0,
+    "orig_fim": 7.0
+   },
+   {
+    "i": 2,
+    "texto": "Batería de dos amperes hora,",
+    "inicio": 6.61,
+    "fim": 8.05,
+    "dur": 1.44,
+    "orig_ini": 5.0,
+    "orig_fim": 8.0
+   },
+   {
+    "i": 3,
+    "texto": "motor brushless, compacto y liviano,",
+    "inicio": 8.2,
+    "fim": 11.68,
+    "dur": 3.48,
+    "orig_ini": 8.0,
+    "orig_fim": 11.8
+   },
+   {
+    "i": 4,
+    "texto": "con indicador de carga. Pagas cuando lo recibes.",
+    "inicio": 11.9,
+    "fim": 15.01,
+    "dur": 3.11,
+    "orig_ini": 11.9,
+    "orig_fim": 15.0
+   }
+  ]
+ },
+ "corpo_1": {
+  "id": "corpo_1",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_1.mp3",
+  "duracao": 45.34,
+  "fala_fim": 44.93,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Mira todo lo que trae este kit DeWalt.",
+    "inicio": 0.0,
+    "fim": 2.65,
+    "dur": 2.65,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 1,
+    "texto": "Viene en su maleta dura, para llevarlo a cualquier pega.",
+    "inicio": 2.87,
+    "fim": 5.7,
+    "dur": 2.83,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 2,
+    "texto": "Adentro: el taladro percutor y atornillador,",
+    "inicio": 5.92,
+    "fim": 9.63,
+    "dur": 3.71,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 3,
+    "texto": "dos baterías de veinte volts, de dos amperes hora,",
+    "inicio": 9.86,
+    "fim": 12.36,
+    "dur": 2.51,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 4,
+    "texto": "y su cargador.",
+    "inicio": 12.58,
+    "fim": 14.67,
+    "dur": 2.09,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 5,
+    "texto": "Mandril de trece milímetros, de ajuste rápido.",
+    "inicio": 14.89,
+    "fim": 18.7,
+    "dur": 3.81,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 6,
+    "texto": "Con el anillo eliges el modo:",
+    "inicio": 18.92,
+    "fim": 20.73,
+    "dur": 1.81,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 7,
+    "texto": "taladro, para madera y metal;",
+    "inicio": 20.95,
+    "fim": 23.97,
+    "dur": 3.02,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 8,
+    "texto": "percutor, para muro y concreto;",
+    "inicio": 24.19,
+    "fim": 26.0,
+    "dur": 1.81,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 9,
+    "texto": "y atornillador, con quince posiciones de torque.",
+    "inicio": 26.22,
+    "fim": 30.26,
+    "dur": 4.04,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 10,
+    "texto": "Dos velocidades, hasta mil setecientas cincuenta revoluciones por minuto.",
+    "inicio": 30.48,
+    "fim": 34.43,
+    "dur": 3.95,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 11,
+    "texto": "Y luz LED para ver bien donde trabajas.",
+    "inicio": 34.65,
+    "fim": 38.46,
+    "dur": 3.81,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 12,
+    "texto": "Todo esto, en un solo kit.",
+    "inicio": 38.68,
+    "fim": 40.53,
+    "dur": 1.86,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 13,
+    "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+    "inicio": 40.75,
+    "fim": 44.93,
+    "dur": 4.18,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "corpo_2": {
+  "id": "corpo_2",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_2.mp3",
+  "duracao": 38.79,
+  "fala_fim": 38.39,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Pones el anillo en modo percutor,",
+    "inicio": 0.0,
+    "fim": 2.69,
+    "dur": 2.69,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 1,
+    "texto": "y la broca entra en el muro sin pelear.",
+    "inicio": 2.91,
+    "fim": 5.89,
+    "dur": 2.97,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 2,
+    "texto": "En madera, pasa limpiecita.",
+    "inicio": 6.11,
+    "fim": 8.98,
+    "dur": 2.88,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 3,
+    "texto": "Y para atornillar, quince posiciones de torque: aprietas justo, sin pasarte.",
+    "inicio": 9.21,
+    "fim": 13.38,
+    "dur": 4.18,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 4,
+    "texto": "¿El secreto? Motor sin carbones.",
+    "inicio": 13.61,
+    "fim": 17.18,
+    "dur": 3.58,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 5,
+    "texto": "DeWalt dice que es diecisiete por ciento más eficiente que un motor con carbones.",
+    "inicio": 17.4,
+    "fim": 21.95,
+    "dur": 4.55,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 6,
+    "texto": "Dos velocidades: fuerza en la primera, rapidez en la segunda.",
+    "inicio": 22.17,
+    "fim": 24.82,
+    "dur": 2.65,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 7,
+    "texto": "Y trae dos baterías con indicador de carga: mientras una trabaja, la otra se carga.",
+    "inicio": 25.04,
+    "fim": 29.82,
+    "dur": 4.78,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 8,
+    "texto": "Compacto y liviano, para trabajar todo el día.",
+    "inicio": 30.04,
+    "fim": 32.69,
+    "dur": 2.65,
+    "orig_ini": null,
+    "orig_fim": null
+   },
+   {
+    "i": 9,
+    "texto": "Aprovecha el Pre Black Friday. Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+    "inicio": 32.91,
+    "fim": 38.39,
+    "dur": 5.48,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_1_3b": {
+  "id": "gancho_1_3b",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_1_3b.mp3",
+  "duracao": 2.38,
+  "fala_fim": 2.23,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "¿Buscas un taladro bueno, bonito y barato?",
+    "inicio": 0.0,
+    "fim": 2.23,
+    "dur": 2.23,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_2_debil": {
+  "id": "gancho_2_debil",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_2_debil.mp3",
+  "duracao": 2.15,
+  "fala_fim": 2.0,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "¿Sigues peleando con un taladro débil?",
+    "inicio": 0.0,
+    "fim": 2.0,
+    "dur": 2.0,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_3_pega": {
+  "id": "gancho_3_pega",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_3_pega.mp3",
+  "duracao": 2.33,
+  "fala_fim": 2.18,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Maestro, este aguanta pega pesada.",
+    "inicio": 0.0,
+    "fim": 2.18,
+    "dur": 2.18,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_4_bf": {
+  "id": "gancho_4_bf",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_4_bf.mp3",
+  "duracao": 2.38,
+  "fala_fim": 2.23,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "¡Llegó el Pre Black Friday, maestro!",
+    "inicio": 0.0,
+    "fim": 2.23,
+    "dur": 2.23,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ },
+ "gancho_5_kit": {
+  "id": "gancho_5_kit",
+  "arquivo": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_5_kit.mp3",
+  "duracao": 2.75,
+  "fala_fim": 2.6,
+  "segmentos": [
+   {
+    "i": 0,
+    "texto": "Dos baterías, cargador y maleta: todo incluido.",
+    "inicio": 0.0,
+    "fim": 2.6,
+    "dur": 2.6,
+    "orig_ini": null,
+    "orig_fim": null
+   }
+  ]
+ }
+}

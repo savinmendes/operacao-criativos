@@ -1,0 +1,26 @@
+== h0 (224 quadros índice de pausa 0.07 LIPSYNC:
+APROVADO:
+== A (182 quadros índice de pausa 0.30 LIPSYNC:
+APROVADO:
+== B (216 quadros índice de pausa 0.03 LIPSYNC:
+APROVADO:
+== C (235 quadros índice de pausa 0.20 LIPSYNC:
+APROVADO:
+== D (231 quadros índice de pausa 0.03 LIPSYNC:
+APROVADO:
+== E (219 quadros índice de pausa 0.08 LIPSYNC:
+APROVADO:
+== F (239 quadros índice de pausa 0.08 LIPSYNC:
+APROVADO:
+== G (72 quadros índice de pausa 0.03 LIPSYNC:
+APROVADO:
+== H (72 quadros índice de pausa 0.09 LIPSYNC:
+APROVADO:
+== I (154 quadros índice de pausa 0.03 LIPSYNC:
+APROVADO:
+== J (72 quadros índice de pausa - LIPSYNC:
+AVISO:
+== K (215 quadros índice de pausa 0.23 LIPSYNC:
+APROVADO:
+== L (93 quadros índice de pausa 0.04 LIPSYNC:
+APROVADO:

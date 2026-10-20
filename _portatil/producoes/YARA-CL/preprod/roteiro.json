@@ -1,0 +1,205 @@
+{
+  "produto": "Kit 3 Perfumes Árabes Mujer | Yara + Yara Moi + Yara Elixir Lattafa 100ml",
+  "loja": "chileverificada.com",
+  "preco_clp": 59900,
+  "compare_at_price": null,
+  "estoque": "não informado (inventory_management null)",
+  "mercado": "Chile (ES-CL)",
+  "frente": "COD",
+  "tema": "Black Friday",
+  "publico": "mulheres",
+  "estrutura": "gancho consultora IA (Seedance 8 s) → corpo narrado ElevenLabs sobre unboxing (mãos) → CTA",
+  "ritmo_estimado_palavras_s": 2.7,
+  "ganchos": [
+    {
+      "id": "H1",
+      "angulo": "escassez / Black Friday",
+      "fala": "Solo por Black Friday: Yara, Yara Moi y Yara Elixir, los tres juntos en un solo kit. Aprovecha ahora.",
+      "manchete_sugerida": "SOLO POR BLACK FRIDAY 🖤",
+      "pendencias": [
+        "CONFIRMAR COM A PESSOA: o kit/preço vale só durante a Black Friday? No prod.json o preço $59.900 é o preço normal (compare_at_price vazio). Se não houver condição exclusiva de BF, 'solo por Black Friday' vira afirmação enganosa."
+      ],
+      "palavras": 19,
+      "seg_estimados": 7.0
+    },
+    {
+      "id": "H2",
+      "angulo": "elogio / rastro do aroma",
+      "fala": "Te recuerdan por el aroma que dejas. Este Black Friday, llévate tres perfumes árabes y deja tu huella donde vayas.",
+      "manchete_sugerida": "EL AROMA QUE TODOS RECUERDAN ✨",
+      "pendencias": [],
+      "palavras": 20,
+      "seg_estimados": 7.4
+    },
+    {
+      "id": "H3",
+      "angulo": "presente / autopresente",
+      "fala": "¿Buscas un regalo que sorprenda? O mejor, regálatelo tú: tres perfumes árabes en un kit, a precio Black Friday.",
+      "manchete_sugerida": "EL REGALO PERFECTO 🎁",
+      "pendencias": [
+        "CONFIRMAR COM A PESSOA: 'a precio Black Friday' pressupõe preço promocional de BF; hoje $59.900 é o preço da página sem 'de/por'."
+      ],
+      "palavras": 19,
+      "seg_estimados": 7.0
+    },
+    {
+      "id": "H4",
+      "angulo": "os perfumes árabes que todas perguntam",
+      "fala": "Los perfumes árabes que todas me preguntan: Yara, Yara Moi y Yara Elixir. Este Black Friday, juntos.",
+      "manchete_sugerida": "LOS PERFUMES ÁRABES QUE TODAS PREGUNTAN 👀",
+      "pendencias": [
+        "Fala em 1ª pessoa de consultora fictícia (IA) dizendo que 'todas me preguntan' = depoimento encenado; risco leve de compliance/IA não declarada — decisão da pessoa."
+      ],
+      "palavras": 17,
+      "seg_estimados": 6.3
+    }
+  ],
+  "corpo": [
+    {
+      "bloco": "abertura",
+      "fala": "Mira todo lo que trae este kit.",
+      "takes": "unboxing: mãos abrindo a caixa / mostrando os 3 frascos",
+      "chaves": [
+        "kit"
+      ],
+      "palavras": 7,
+      "seg_estimados": 2.6
+    },
+    {
+      "bloco": "Yara",
+      "fala": "Primero, Yara. Dulce, cremosa y femenina.",
+      "takes": "frasco rosa (anel prata) em close",
+      "chaves": [
+        "Yara"
+      ],
+      "palavras": 6,
+      "seg_estimados": 2.2
+    },
+    {
+      "bloco": "Yara",
+      "fala": "Abre con orquídea, heliotropo y mandarina, sobre un fondo suave de vainilla y almizcle.",
+      "takes": "borrifando / girando o frasco",
+      "chaves": [
+        "vainilla"
+      ],
+      "palavras": 14,
+      "seg_estimados": 5.2
+    },
+    {
+      "bloco": "Yara",
+      "fala": "Perfecta para el día a día, para la pega o para salir a juntarte con amigas.",
+      "takes": "frasco na mão, luz natural",
+      "chaves": [
+        "pega"
+      ],
+      "palavras": 16,
+      "seg_estimados": 5.9
+    },
+    {
+      "bloco": "Yara Moi",
+      "fala": "Después, Yara Moi. Floral, luminosa y elegante.",
+      "takes": "frasco branco (anel dourado) saindo da caixa",
+      "chaves": [
+        "Moi"
+      ],
+      "palavras": 7,
+      "seg_estimados": 2.6
+    },
+    {
+      "bloco": "Yara Moi",
+      "fala": "Jazmín y durazno al inicio, con un fondo cálido de ámbar y caramelo.",
+      "takes": "close no medalhão dourado",
+      "chaves": [
+        "jazmín"
+      ],
+      "palavras": 13,
+      "seg_estimados": 4.8
+    },
+    {
+      "bloco": "Yara Moi",
+      "fala": "Ideal para una cita o una ocasión especial.",
+      "takes": "frasco ao lado dos outros dois",
+      "chaves": [
+        "cita"
+      ],
+      "palavras": 8,
+      "seg_estimados": 3.0
+    },
+    {
+      "bloco": "Yara Elixir",
+      "fala": "Y Yara Elixir. Intensa, golosa y envolvente.",
+      "takes": "frasco rosa-salmão (anel rosé) em close",
+      "chaves": [
+        "Elixir"
+      ],
+      "palavras": 7,
+      "seg_estimados": 2.6
+    },
+    {
+      "bloco": "Yara Elixir",
+      "fala": "Frutilla y grosella negra que terminan en caramelo, vainilla y ámbar.",
+      "takes": "borrifando no pulso",
+      "chaves": [
+        "frutilla"
+      ],
+      "palavras": 11,
+      "seg_estimados": 4.1
+    },
+    {
+      "bloco": "Yara Elixir",
+      "fala": "Para la noche, cuando quieres que se note que llegaste.",
+      "takes": "os 3 frascos lado a lado",
+      "chaves": [
+        "noche"
+      ],
+      "palavras": 10,
+      "seg_estimados": 3.7
+    },
+    {
+      "bloco": "fecho",
+      "fala": "Cada frasco trae cien mililitros: un aroma para cada momento.",
+      "takes": "mãos segurando os 3",
+      "chaves": [
+        "cien"
+      ],
+      "palavras": 10,
+      "seg_estimados": 3.7
+    }
+  ],
+  "corpo_seg_estimados": 40.4,
+  "corpo_texto_tts": "Mira todo lo que trae este kit. Primero, Yara. Dulce, cremosa y femenina. Abre con orquídea, heliotropo y mandarina, sobre un fondo suave de vainilla y almizcle. Perfecta para el día a día, para la pega o para salir a juntarte con amigas. Después, Yara Moi. Floral, luminosa y elegante. Jazmín y durazno al inicio, con un fondo cálido de ámbar y caramelo. Ideal para una cita o una ocasión especial. Y Yara Elixir. Intensa, golosa y envolvente. Frutilla y grosella negra que terminan en caramelo, vainilla y ámbar. Para la noche, cuando quieres que se note que llegaste. Cada frasco trae cien mililitros: un aroma para cada momento.",
+  "cta": {
+    "fala": "Llévate los tres por cincuenta y nueve mil novecientos pesos, con envío gratis. Haz tu pedido ahora y paga solamente cuando lo recibas.",
+    "fala_curta": "Los tres por cincuenta y nueve mil novecientos, con envío gratis. Pide ahora y paga al recibir.",
+    "chaves": [
+      "tres",
+      "gratis",
+      "pedido",
+      "recibas"
+    ],
+    "palavra_seta": "pedido",
+    "pendencias": [
+      "Sem 'aprovechando el Black Friday' de propósito: o BF fica no visual (selo/cartão). Se a pessoa confirmar condição exclusiva de BF, dá para voltar ao 'Puedes llevarte los tres... aprovechando esta promoción de Black Friday' do vencedor.",
+      "Preço por extenso para o TTS; na legenda corrigir para '$59.900'."
+    ],
+    "palavras": 23,
+    "seg_estimados": 8.5,
+    "palavras_curta": 17,
+    "seg_estimados_curta": 6.3
+  },
+  "texto_anuncio": {
+    "primary_text": "🖤 BLACK FRIDAY: los 3 perfumes árabes del momento en un solo kit\n\nYara · Yara Moi · Yara Elixir — Lattafa, 100 ml cada uno\n\n🌸 Yara: dulce y cremoso, para el día a día\n🤍 Yara Moi: floral y elegante, para una cita o una ocasión especial\n🍓 Yara Elixir: intenso y goloso, para la noche\n\n💰 Kit completo: $59.900\n📦 Envío GRATIS\n💳 Pago contra entrega: pagas al recibir\n\n👇 Pide el tuyo aquí",
+    "headlines": [
+      "Black Friday: Kit 3 Perfumes Yara",
+      "3 perfumes árabes · Pagas al recibir",
+      "Kit Yara a $59.900 · Envío gratis"
+    ],
+    "cta_botao": "SHOP_NOW (Comprar)",
+    "link": "https://chileverificada.com/products/kit-3-perfumes-arabes-mujer-yara-yara-moi-yara-elixir-lattafa-100ml",
+    "pendencias": [
+      "O vencedor dizia 'Envío GRATIS en todo Chile'; aqui ficou só 'Envío GRATIS' até confirmar cobertura nacional.",
+      "Garantia de 90 dias aparece na imagem do produto e no body_html; não usei no texto. Pode entrar se a pessoa confirmar."
+    ]
+  },
+  "notas_fontes": "ver roteiro.md (Notas olfativas)"
+}

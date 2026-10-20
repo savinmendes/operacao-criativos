@@ -1,0 +1,20 @@
+﻿>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t1.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t1_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t1_final.mp4 | 162 quadros | editado tinha 129 @ 24 fps | saltos>2: 2
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\encaixar_edit.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t2.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t2_edit.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\flora\t2_final.mp4 | 152 quadros | editado tinha 121 @ 24 fps | saltos>2: 4
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\base.mp4 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\b1.mp4
+t1_final.mp4: 162 quadros a partir de 0.0s
+t2_final.mp4: 152 quadros a partir de 5.4s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\b1.mp4 | 2148 quadros, 314 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_trabalho\ad04\render_parte2.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\narr_fim.mp3 C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\parte2.mp4
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\parte2.mp4 17.13s
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\montar_ad.py C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\_trabalho\ad03\receita_final.json
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 03 - LINFARELE-SCHELETRO-30GIORNI-IT.mp4
+duração : 88.80s | 720x1280 | áudio: sim | 24.6 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 03 - LINFARELE-SCHELETRO-30GIORNI-IT_frames.jpg
+RESULTADO: OK
+CTA em 85.45s
+montagem rápida: 106s para 89s de vídeo (1.19x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\linfarele\AD 03 - LINFARELE-SCHELETRO-30GIORNI-IT.mp4

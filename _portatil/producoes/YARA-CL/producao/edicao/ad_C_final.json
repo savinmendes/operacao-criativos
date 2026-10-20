@@ -1,0 +1,211 @@
+{
+ "saida": "../../entregas/AD-C_yara-kit3_bf_es-cl.mp4",
+ "overlays": ".",
+ "sfx": "sfx",
+ "titulo": {
+  "png": "titulo_abertura.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "broll"
+ },
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modelo": "small",
+  "idioma": "es",
+  "y": 1060,
+  "corrigir": [
+   [
+    "^yaramuyo([.,!?]*)$",
+    "Yara Moi\\1"
+   ],
+   [
+    "^piede$",
+    "Pide"
+   ],
+   [
+    "^jasm[ií]n([.,]*)$",
+    "Jazmín\\1"
+   ],
+   [
+    "^almiscle([.,]*)$",
+    "almizcle\\1"
+   ],
+   [
+    "^durazno([.,]*)$",
+    "durazno\\1"
+   ],
+   [
+    "^[¡]?licudaci[oó]n([.,!?]*)$",
+    "Liquidación\\1"
+   ],
+   [
+    "^muyo([.,!?]*)$",
+    "Moi\\1"
+   ],
+   [
+    "^[hj]asm[ií]n([.,]*)$",
+    "Jazmín\\1"
+   ],
+   [
+    "^piedel$",
+    "Pide el"
+   ],
+   [
+    "^piede$",
+    "Pide"
+   ],
+   [
+    "^almizcle$",
+    "almizcle."
+   ],
+   [
+    "^porquid[ií]a([.,]*)$",
+    "Orquídea\\1"
+   ],
+   [
+    "^[jh]asmine?([.,]*)$",
+    "Jazmín\\1"
+   ],
+   [
+    "^puyo([.,]*)$",
+    "tuyo\\1"
+   ],
+   [
+    "^pied$",
+    "Pide"
+   ]
+  ],
+  "fundir": [
+   [
+    "^el$",
+    "^[íi]xir([.,!?]*)$",
+    "Elixir\\1"
+   ],
+   [
+    "^ya$",
+    "^ya([.,!?]*)$",
+    "Yara\\1"
+   ],
+   [
+    "^muy$",
+    "^yo([.,!?]*)$",
+    "Moi\\1"
+   ],
+   [
+    "^el$",
+    "^recibir([.,!?]*)$",
+    "al recibir\\1"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 0.03,
+   "ate": 2.5,
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 0.03,
+   "audio_ate": 2.5
+  },
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 2.5,
+   "ate": 6.05,
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 2.5,
+   "audio_ate": 6.05
+  },
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 6.05,
+   "ate": 10.08,
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 6.05,
+   "audio_ate": 10.08
+  },
+  {
+   "video": "../takes/T3_yara.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.91,
+   "audio": "../takes/T3_yara_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.91
+  },
+  {
+   "video": "b_yara.mp4",
+   "tipo": "broll",
+   "audio": "../voz/N_yara.mp3"
+  },
+  {
+   "video": "../takes/T5_moi.mp4",
+   "tipo": "consultora",
+   "de": 0.19,
+   "ate": 4.94,
+   "audio": "../takes/T5_moi_vz.wav",
+   "audio_de": 0.19,
+   "audio_ate": 4.94,
+   "legenda_y": 1340
+  },
+  {
+   "video": "b_moi.mp4",
+   "tipo": "broll",
+   "audio": "../voz/N_moi_v2.mp3"
+  },
+  {
+   "video": "../takes/T7_elixir.mp4",
+   "tipo": "consultora",
+   "de": 0.26,
+   "ate": 2.0,
+   "audio": "../takes/T7_elixir_vz.wav",
+   "audio_de": 0.26,
+   "audio_ate": 2.0
+  },
+  {
+   "video": "../takes/T7_elixir.mp4",
+   "tipo": "consultora",
+   "de": 2.62,
+   "ate": 4.93,
+   "audio": "../takes/T7_elixir_vz.wav",
+   "audio_de": 2.62,
+   "audio_ate": 4.93
+  },
+  {
+   "video": "b_elixir.mp4",
+   "tipo": "broll",
+   "audio": "../voz/N_elixir.mp3"
+  },
+  {
+   "video": "../takes/T10_cta.mp4",
+   "tipo": "consultora",
+   "de": 0.46,
+   "ate": 2.66,
+   "audio": "../takes/T10_cta_vz.wav",
+   "audio_de": 0.46,
+   "audio_ate": 2.66
+  },
+  {
+   "video": "../takes/T10_cta.mp4",
+   "tipo": "consultora",
+   "de": 3.0,
+   "ate": 8.57,
+   "zoom": "in",
+   "audio": "../takes/T10_cta_vz.wav",
+   "audio_de": 3.0,
+   "audio_ate": 8.57
+  }
+ ]
+}

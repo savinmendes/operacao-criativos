@@ -1,0 +1,8 @@
+Flora projeto prj_ns7cvmdqvtn37b53wfnywhr9q58fjte1 · modelo is2i-gemini-3.1-flash-image (Nano Banana 2) · referência frasco n59
+c1.png  run_m17e82m5ykjtb74b9r1gpq07nx8g1h8t  node 32326b25  2K 4:5  US$0,108  garçonete no sofá, frasco na mesinha
+c2.png  run_m17c7fcczcm6zkjtjh1f3tqwzx8g1c98  node 1e0ff07d  2K 4:5  US$0,108  almoço de família, frasco na mesa
+c3.png  run_m172fhpxtgp7g5vh88nz972mn18g00jm  node a59311f7  2K 4:5  US$0,108  mãos 60+ com anéis segurando o frasco
+c5.png  run_m1757ghaamzm5mzfb45gwnzng58g0n8x  node ad1832e4  2K 4:5  US$0,108  caixa aberta na porta com 2 frascos
+v1.png  run_m178mfjw777pr3kh1pf902r8vn8g1094  node 0f017762  1K 9:16 US$0,072  entregador passando a caixa (C5 vídeos)
+v2.png  run_m175sbhz133t6yd708p4hk9nyn8g11vj  node d7fc7235  1K 9:16 US$0,072  mãos tirando frasco da caixa (C5 vídeos)
+Prompts completos: no histórico do Flora (flora_list_generations include_inputs).

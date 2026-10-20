@@ -1,0 +1,29 @@
+REVISÃO: DW7781_G4_C2_sem-musica.mp4
+duração 41.63s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.5 MB
+decodificação: OK
+pts do áudio: 1950 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.20-5.10, 7.33-8.30, 10.34-11.40, 16.93-17.75, 18.82-19.60, 23.50-24.37, 31.17-32.23, 40.44-41.57
+cortes de cena: 20 | pares a <0,3 s: 0.80/0.83, 1.23/1.40, 1.40/1.57
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_G4_C2_sem-musica_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00- 19.00 Llegó el Pre Black Friday maestro, ponese el anillo en modo percutor, y la broca entra en el muro sin pelear, en madera pasa limpiecita, y para atornillar 15 posiciones de torque aprietas justo sin pasarte, el secreto, motor sin carbones.
+  19.00- 27.00 The Wall dice que es 17% más eficiente que un motor con carbones, dos velocidades, fuerza en la primera, rapidez en la segunda.
+  27.00- 31.00 Y trae dos baterías con indicador de carga, mientras una trabaja, la otra se carga.
+  32.00- 34.00 Compacto y liviano para trabajar todo el día.
+  35.00- 37.00 Aprovecha el Pre Black Friday.
+  37.00- 39.00 Pídelo hoy y pagas recién cuando te llegue.
+  39.00- 41.00 En vivo a todos Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 1.19s no fim (a partir de 40.44s)
+PROBLEMA: quadro solto? cortes em 0.80s e 0.83s (33 ms)
+PROBLEMA: quadro solto? cortes em 1.23s e 1.40s (167 ms)
+PROBLEMA: quadro solto? cortes em 1.40s e 1.57s (167 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+4 problema(s)

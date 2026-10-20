@@ -1,0 +1,90 @@
+REVISÃO: AD 12 - ORACION-SERPIENTES-CAMPO-ES-LATAM.mp4
+duração 97.60s | 720x1280 | 30/1 fps | áudio: sim | 26.3 MB
+decodificação: OK
+pts do áudio: 4576 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1110-1176, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\_trabalho\ad12\_cor_rev\antes\AD 12 - ORACION-SERPIENTES-CAMPO-ES-LATAM_revisao.jpg
+
+=== lipsync ===
+LIPSYNC: full_h.mp4 (286 quadros, rosto em 100%, rosto 247,286,227,282 [forçado (--rosto)])
+  boca x original: dif. boca 13.40 | dif. controle 4.50 | mudou em 97% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.09 (21 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.41 (atraso -33 ms) | corr. original 0.16
+APROVADO: boca mudou em 97% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.09)
+LIPSYNC: full_s01.mp4 (295 quadros, rosto em 100%, rosto 291,328,210,251 [forçado (--rosto)])
+  boca x original: dif. boca 11.26 | dif. controle 4.60 | mudou em 62% dos quadros | corr. abertura saída x original 0.20
+  pausas da voz nova: índice de pausa 0.26 (28 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.35 (atraso -33 ms) | corr. original 0.26
+APROVADO: boca mudou em 62% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.26)
+LIPSYNC: full_s02.mp4 (293 quadros, rosto em 100%, rosto 307,273,227,294 [forçado (--rosto)])
+  boca x original: dif. boca 11.90 | dif. controle 4.45 | mudou em 78% dos quadros | corr. abertura saída x original 0.22
+  pausas da voz nova: índice de pausa 0.29 (53 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.45 (atraso 0 ms) | corr. original 0.24
+APROVADO: boca mudou em 78% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.29)
+LIPSYNC: full_s03.mp4 (289 quadros, rosto em 100%, rosto 300,334,204,247 [forçado (--rosto)])
+  boca x original: dif. boca 11.57 | dif. controle 4.34 | mudou em 79% dos quadros | corr. abertura saída x original 0.17
+  pausas da voz nova: índice de pausa 0.56 (28 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.22 (atraso 33 ms) | corr. original -0.07
+APROVADO: boca mudou em 79% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.56)
+LIPSYNC: full_s04.mp4 (61 quadros, rosto em 100%, rosto 297,264,234,282 [forçado (--rosto)])
+  boca x original: dif. boca 11.98 | dif. controle 5.33 | mudou em 52% dos quadros | corr. abertura saída x original -0.12
+  pausas da voz nova: índice de pausa 0.07 (10 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.53 (atraso -33 ms) | corr. original -0.17
+APROVADO: boca mudou em 52% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)
+LIPSYNC: full_s05a.mp4 (211 quadros, rosto em 100%, rosto 305,332,199,248 [forçado (--rosto)])
+  boca x original: dif. boca 11.90 | dif. controle 4.47 | mudou em 84% dos quadros | corr. abertura saída x original -0.13
+  pausas da voz nova: índice de pausa 0.45 (17 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.51 (atraso -167 ms) | corr. original 0.16
+APROVADO: boca mudou em 84% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.45)
+LIPSYNC: full_s05b.mp4 (213 quadros, rosto em 100%, rosto 173,252,337,409 [forçado (--rosto)])
+  boca x original: dif. boca 10.80 | dif. controle 4.33 | mudou em 79% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.04 (11 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.35 (atraso 200 ms) | corr. original 0.18
+APROVADO: boca mudou em 79% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.04)
+LIPSYNC: full_s06.mp4 (220 quadros, rosto em 100%, rosto 310,329,194,253 [forçado (--rosto)])
+  boca x original: dif. boca 12.42 | dif. controle 4.54 | mudou em 75% dos quadros | corr. abertura saída x original 0.27
+  pausas da voz nova: índice de pausa 0.35 (12 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.33 (atraso -33 ms) | corr. original -0.06
+APROVADO: boca mudou em 75% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.35)
+LIPSYNC: full_s07.mp4 (299 quadros, rosto em 100%, rosto 302,289,225,280 [forçado (--rosto)])
+  boca x original: dif. boca 11.57 | dif. controle 4.45 | mudou em 86% dos quadros | corr. abertura saída x original 0.11
+  pausas da voz nova: índice de pausa 0.52 (47 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.35 (atraso 0 ms) | corr. original 0.01
+APROVADO: boca mudou em 86% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.52)
+LIPSYNC: full_s08.mp4 (145 quadros, rosto em 100%, rosto 314,329,195,247 [forçado (--rosto)])
+  boca x original: dif. boca 13.29 | dif. controle 4.30 | mudou em 94% dos quadros | corr. abertura saída x original 0.22
+  pausas da voz nova: índice de pausa 0.02 (12 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.46 (atraso 0 ms) | corr. original 0.09
+APROVADO: boca mudou em 94% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.02)
+LIPSYNC: full_s09.mp4 (92 quadros, rosto em 100%, rosto 302,280,227,320 [forçado (--rosto)])
+  boca x original: dif. boca 12.17 | dif. controle 4.40 | mudou em 89% dos quadros | corr. abertura saída x original 0.10
+  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.56 (atraso -67 ms) | corr. original 0.34
+AVISO: boca mudou em 89% dos quadros; correlação com o áudio novo 0.56 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: full_s10.mp4 (103 quadros, rosto em 100%, rosto 177,210,328,366 [forçado (--rosto)])
+  boca x original: dif. boca 10.49 | dif. controle 4.28 | mudou em 64% dos quadros | corr. abertura saída x original 0.18
+  pausas da voz nova: índice de pausa 0.15 (18 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.55 (atraso -167 ms) | corr. original 0.14
+APROVADO: boca mudou em 64% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.15)
+LIPSYNC: full_s11.mp4 (106 quadros, rosto em 100%, rosto 303,293,213,268 [forçado (--rosto)])
+  boca x original: dif. boca 11.86 | dif. controle 4.38 | mudou em 75% dos quadros | corr. abertura saída x original -0.00
+  pausas da voz nova: índice de pausa 0.07 (15 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.49 (atraso 0 ms) | corr. original 0.21
+APROVADO: boca mudou em 75% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)
+LIPSYNC: full_s12.mp4 (147 quadros, rosto em 100%, rosto 283,309,214,272 [forçado (--rosto)])
+  boca x original: dif. boca 13.36 | dif. controle 4.36 | mudou em 82% dos quadros | corr. abertura saída x original -0.10
+  pausas da voz nova: índice de pausa 0.14 (22 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.57 (atraso 33 ms) | corr. original -0.20
+APROVADO: boca mudou em 82% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.14)
+LIPSYNC: full_s13.mp4 (148 quadros, rosto em 100%, rosto 306,292,214,274 [forçado (--rosto)])
+  boca x original: dif. boca 12.35 | dif. controle 4.91 | mudou em 62% dos quadros | corr. abertura saída x original 0.08
+  pausas da voz nova: índice de pausa 0.30 (21 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.43 (atraso -100 ms) | corr. original 0.27
+APROVADO: boca mudou em 62% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.30)
+índice de pausa do conjunto (15 trechos): 0.27 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync full_s09.mp4: boca mudou em 89% dos quadros; correlação com o áudio novo 0.56 (original 0.34); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

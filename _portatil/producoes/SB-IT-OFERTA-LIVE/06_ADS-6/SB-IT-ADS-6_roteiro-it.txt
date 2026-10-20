@@ -1,0 +1,113 @@
+SB-IT-ADS-6 — San Benedetto · Italiano (Italia, EUR)
+Base: SB-EN-ADS-6 (EN, 138,0 s), que vem do SB-ES_02_ADS-6 (vencedor #02). Saída IT: 147,0 s, 1080x1920, 30 fps.
+Destino: la preghiera in diretta. Botão do Meta: LEARN_MORE («Scopri di più»). Sem produto e sem preço.
+Voz: ElevenLabs "Brian - Deep, Resonant and Comforting" (nPczCjzI2devNBz1zQrb), mesma do EN; eleven_multilingual_v2 com language_code "it", speed 1,08.
+Conferência de pronúncia: ElevenLabs Scribe (it) transcreveu o roteiro sem erro; whisper do revisar_ad detectou italiano (0,99).
+Nenhuma voz criada/clonada/apagada. HeyGen: 0 jobs (o vídeo não tem rosto falando: só céu). Música: nenhuma (o original quase não tem; o EN também saiu sem).
+Imagem: a mesma base limpa do EN (LaMa + patch do prédio), esticada ao tempo da narração IT (fator 0,931).
+
+Texto na tela (cartão fixo do topo, mesmo estilo):
+  EN: ‼️ One last warning ‼️ / Stay until the end and pay close attention 🙏🔮✨❤️‍🩹
+  IT: ‼️ Un ultimo avviso ‼️ / Resta fino alla fine e fai molta attenzione 🙏🔮✨❤️‍🩹
+Legenda: Anton, caixa alta, palavra falada em amarelo (estilo do EN), corpo 238 (EN 245; reduzido 3% porque blocos IT são um pouco mais largos).
+Seta amarela animada a partir de «Tocca» (129,9 s) até o fim.
+
+======================================================================
+ROTEIRO EN × IT, frase a frase
+======================================================================
+
+01 EN: God stopped you right here to speak to you. Not by chance, but because this is your last warning.
+   IT: Dio ti ha fermato proprio qui per parlare a te. Non per caso, ma perché questo è il tuo ultimo avviso.
+
+02 EN: No other message like this will come.
+   IT: Non arriverà un altro messaggio come questo.
+
+03 EN: What is about to be released from heaven will move your soul. It will touch your life in a way you won't be able to deny.
+   IT: Quello che sta per essere liberato dal cielo ti scuoterà l'anima. Toccherà la tua vita in un modo che non potrai negare.
+
+04 EN: If I were you, I wouldn't close this video for a single second, because what you are about to hear has the power to change your destiny.
+   IT: Se fossi in te, non chiuderei questo video nemmeno per un secondo, perché quello che stai per ascoltare ha il potere di cambiare il tuo destino.
+
+05 EN: God is showing me that He is going to break that dependence that kept you tied to someone.
+   IT: Dio mi sta mostrando che spezzerà quella dipendenza che ti teneva legato a qualcuno.
+
+06 EN: You won't need anyone anymore.
+   IT: Non avrai più bisogno di nessuno.
+
+07 EN: What's coming is total independence.
+   IT: Quello che arriva è l'indipendenza totale.
+
+08 EN: He is signing a paper in your favor, moving the whole system to give you what is rightfully yours.
+   IT: Sta firmando un documento a tuo favore, muovendo tutto il sistema per darti ciò che ti spetta.
+
+09 EN: Everything they denied you out of envy, He is decreeing in your name.
+   IT: Tutto quello che ti hanno negato per invidia, Lui lo sta decretando a tuo nome.
+
+10 EN: I see a change so big that people won't even recognize you.
+   IT: Vedo un cambiamento così grande che la gente non ti riconoscerà più.
+
+11 EN: God is in a hurry with you, and what you were expecting a month from now will manifest in days.
+   IT: Dio ha fretta con te, e quello che aspettavi tra un mese si manifesterà in pochi giorni.
+
+12 EN: Today marks the beginning of your new story.
+   IT: Oggi segna l'inizio della tua nuova storia.
+
+13 EN: The humiliation ends. The shame is over.
+   IT: L'umiliazione finisce. La vergogna è finita.
+
+14 EN: You will no longer have to beg for what belongs to you, because God sealed it with His divine signature.
+   IT: Non dovrai più implorare ciò che ti appartiene, perché Dio l'ha sigillato con la Sua firma divina.
+
+15 EN: And pay attention to this: there are spiritual protections that are only activated when the right prayer is said.
+   IT: E fai attenzione a questo: ci sono protezioni spirituali che si attivano solo quando si recita la preghiera giusta.
+
+16 EN: For centuries, Saint Benedict was known for breaking attacks, blockages and closed paths, through a powerful prayer that protected not only the person, but everything around them.
+   IT: Per secoli, San Benedetto è stato conosciuto per spezzare attacchi, blocchi e strade chiuse, attraverso una preghiera potente che proteggeva non solo la persona, ma tutto ciò che la circondava.
+
+17 EN: This prayer is not repeated like any other.
+   IT: Questa preghiera non si ripete come tutte le altre.
+
+18 EN: It is learned, it is done with intention, and it is activated at the right moment.
+   IT: Si impara, si fa con intenzione e si attiva nel momento giusto.
+
+19 EN: And that moment is now.
+   IT: E quel momento è adesso.
+
+20 EN: Because right now, a special live prayer is taking place, where this prayer of Saint Benedict is explained and guided, exactly for people who have been through humiliation, envy, spiritual attacks and stagnation.
+   IT: Perché proprio ora si sta svolgendo una preghiera speciale in diretta, dove questa preghiera di San Benedetto viene spiegata e guidata, proprio per le persone che hanno vissuto umiliazione, invidia, attacchi spirituali e blocchi.
+
+21 EN: Many don't understand why everything gets blocked, why the energy feels heavy, why nothing flows.
+   IT: Molti non capiscono perché tutto si blocca, perché l'energia diventa pesante, perché niente scorre.
+
+22 EN: But when the right protection comes in, everything begins to fall into place.
+   IT: Ma quando entra la protezione giusta, tutto comincia a mettersi a posto.
+
+23 EN: Not everyone makes it this far, and not everyone receives this guidance in time.
+   IT: Non tutti arrivano fin qui, e non tutti ricevono questa guida in tempo.
+
+24 EN: If you feel this message touched you deeper than usual, don't ignore it.
+   IT: Se senti che questo messaggio ti ha toccato più nel profondo del solito, non ignorarlo.
+
+25 EN: Tap Learn More below, and join the live prayer happening right now, where you'll discover how to say the prayer of Saint Benedict the right way.
+   IT: Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta, dove scoprirai come recitare la preghiera di San Benedetto nel modo giusto.
+
+26 EN: Don't leave it for later.
+   IT: Non rimandare.
+
+27 EN: This window won't stay open forever.
+   IT: Questa finestra non resterà aperta per sempre.
+
+28 EN: And what God wants to activate in your life begins with this step.
+   IT: E quello che Dio vuole attivare nella tua vita comincia con questo passo.
+
+======================================================================
+Decisões de tradução
+======================================================================
+- "Saint Benedict" → "San Benedetto". "live prayer" → "preghiera (speciale) in diretta".
+- CTA: "Tap Learn More below, and join the live prayer happening right now" → "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta" (padrão do lote IT).
+- "He is signing a paper" → "Sta firmando un documento" ("carta" soaria vago). "what is rightfully yours" → "ciò che ti spetta".
+- "stagnation" → "blocchi" ("stagnazione" soa técnico/econômico em italiano).
+- "ti teneva legato a qualcuno": masculino genérico, como é natural em italiano para o leitor indefinido.
+- "Don't leave it for later" → "Non rimandare" (mais natural).
+- Teor mantido sem suavizar: "il tuo ultimo avviso", "l'indipendenza totale", "si manifesterà in pochi giorni", "l'ha sigillato con la Sua firma divina", "Questa finestra non resterà aperta per sempre".
+- Duração: IT 147,0 s × EN 138,0 s (+6,5%; italiano é naturalmente mais longo, mantida a velocidade do EN).

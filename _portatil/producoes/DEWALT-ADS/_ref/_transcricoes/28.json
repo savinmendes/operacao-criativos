@@ -1,0 +1,52 @@
+{
+ "arquivo": "28 AD.mp4",
+ "idioma": "pt",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 2.56,
+   "texto": "Quem comprou antes dessa promoção vai chorar!"
+  },
+  {
+   "ini": 2.56,
+   "fim": 4.04,
+   "texto": "Olha o que apareceu por aqui!"
+  },
+  {
+   "ini": 4.04,
+   "fim": 9.88,
+   "texto": "Kit 4.1 de 48V com 4 ferramentas por menos de R$130."
+  },
+  {
+   "ini": 9.88,
+   "fim": 12.76,
+   "texto": "Você tem 4 ferramentas sem fio em um único conjunto."
+  },
+  {
+   "ini": 12.76,
+   "fim": 17.76,
+   "texto": "Furadeira de impacto, SDS, parafusadeira, esmerilhadeira angular e chave de impacto."
+  },
+  {
+   "ini": 17.76,
+   "fim": 19.84,
+   "texto": "Tudo organizado nessa caixa portátil."
+  },
+  {
+   "ini": 19.84,
+   "fim": 25.52,
+   "texto": "E ainda tem baterias de 48V, carregador com adaptador bivoute e a caixa para transportar tudo."
+  },
+  {
+   "ini": 25.52,
+   "fim": 26.88,
+   "texto": "Quer aproveitar essa oferta?"
+  },
+  {
+   "ini": 26.88,
+   "fim": 28.88,
+   "texto": "Clica no carrinho e confere o preço."
+  }
+ ]
+}

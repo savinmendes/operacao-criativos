@@ -1,0 +1,89 @@
+{
+ "slug": "COSTURERA",
+ "rosto_selfie": [
+  570,
+  760
+ ],
+ "hook": {
+  "audio": "voz/hook.mp3",
+  "alinhamento": "voz/hook.alinhamento.json",
+  "keep": [
+   [
+    0.0,
+    2.84
+   ],
+   [
+    3.03,
+    4.33
+   ]
+  ]
+ },
+ "reza": {
+  "keep": [
+   [
+    "voz/reza.mp3",
+    0.0,
+    2.68
+   ]
+  ],
+  "lufs": -21.0
+ },
+ "selfie": {
+  "audio": "voz/selfie.mp3",
+  "alinhamento": "voz/selfie.alinhamento.json",
+  "video": "selfie_fr.mp4",
+  "video_offset": 2.35,
+  "cortes": [
+   [
+    2.17,
+    2.37
+   ],
+   [
+    6.44,
+    6.62
+   ]
+  ],
+  "frustrado_fim": 2.17,
+  "selfie_trechos": [
+   [
+    2.37,
+    5.1,
+    1.13
+   ],
+   [
+    5.1,
+    6.44,
+    1.0
+   ],
+   [
+    6.62,
+    null,
+    1.13
+   ]
+  ]
+ },
+ "cenas": {
+  "gancho": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\personas\\costurera\\completa\\gancho_amplo.mp4",
+   "ss": 0.0,
+   "zoom": 1.2,
+   "centro": [
+    540,
+    1120
+   ],
+   "interp": true
+  },
+  "reza": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\personas\\costurera\\antes.mp4",
+   "ss": 0.0
+  },
+  "virada": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\personas\\costurera\\depois_v2.mp4",
+   "ss": 0.4
+  },
+  "frustrado": {
+   "src": "C:\\Users\\PICHAU\\Downloads\\SB-REEL-MEDALLA-ES\\_trabalho\\personas\\costurera\\completa\\frustrado.mp4",
+   "ss": 0.2
+  }
+ }
+}

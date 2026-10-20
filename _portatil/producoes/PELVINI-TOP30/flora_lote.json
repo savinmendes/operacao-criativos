@@ -1,0 +1,222 @@
+{
+"ordem": [
+"02",
+"03",
+"07",
+"10",
+"11",
+"12",
+"14",
+"15",
+"16",
+"17",
+"18",
+"19",
+"22",
+"23",
+"25",
+"26",
+"27",
+"28"
+],
+"gens": [
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/f32d3e08-2ebe-491c-b073-3b0aa28daa33.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/94f4e952-13aa-4690-9de0-ad37a79f2a60.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/d94cd85f-4021-4f9e-a58d-b6bc06a9a3bc.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/293db1a1-f61c-40ef-93ad-cd9774aa8cad.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/bf8a8627-7845-41ce-9424-3dd8aa3fbc45.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/9d580c75-e090-4266-bb48-dda9e773044b.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/c13a9d4d-8819-48db-9dc1-46dbaa4c5101.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/86280807-c279-43fe-bbc2-16204e320213.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/19309210-1c4c-4c31-9327-e62f12e770ee.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/6936d230-0e4c-4fd0-b426-598b44b7891b.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/c8a80dab-108b-481a-9306-365c023caf8c.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/abc2834f-3435-40ab-91bc-796827dda3d3.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/2e0f4b65-ddd8-4f09-9281-668222e85eff.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/429b99fc-c961-4b0a-97b2-a5bc50cbaa6c.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/6c03b62b-1c3e-4a75-b3f4-028f6ef6d06a.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/cf24c6c8-704f-4b41-b66b-60b8f7cf803b.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/67984b00-c573-4492-adfb-45f407f05a06.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+},
+{
+"project_id": "prj_ns7ffgxx451qm2va5y3e6jdw8x8g3z0x",
+"type": "image",
+"model": "i2i-gemini-3.1-flash-image",
+"prompt": "Brand rename edit only. Everywhere the brand appears in this image, replace it: \"PELVINI\" becomes \"PELLORINI\", \"Pelvini\" becomes \"Pellorini\", \"pelvini\" becomes \"pellorini\" (including logos, wordmarks, box lids, the script signature on watch dials, website addresses like pelvini.com and social handles like @pelviniofficial). Spell it exactly P-E-L-L-O-R-I-N-I. Keep the same font, color, weight, size, letter spacing, case, position, perspective and finish as the original brand text. Keep every other pixel identical: all other text, prices, numbers, products, hands, boxes, background, layout, colors and framing. Do not add, remove or rewrite anything else.",
+"params": {
+"image_url": "https://media.flora.ai/pelvini-top30/2026/10/11/user_2wm2XVQSycjee2lnzg6C2YSR1I9/fc3c9fdd-a721-4406-ade1-0dbc3953632f.jpg",
+"resolution": "2K",
+"aspect_ratio": "auto"
+}
+}
+]
+}

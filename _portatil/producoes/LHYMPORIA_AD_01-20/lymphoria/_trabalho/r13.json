@@ -1,0 +1,11 @@
+﻿{"ad":"ad13","corte":674.2,"saida":"AD 13 - LYMPHORIA-HERMANO-ES-LATAM.mp4","takes":[
+{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/5800d23d-1d98-4472-af04-3343fb661715.mp4","inicio":329.433,"quadros":162},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/d6babdcc-2a0c-4f99-820f-1281e70a4fa9.mp4","inicio":435.133,"quadros":92},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/7c8406c3-dbbb-4b87-9453-c570e3b59091.mp4","inicio":438.2,"quadros":118},
+{"orig":"flora/t4.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/c33eda11-4eda-4a99-a74f-d05317c86eb4.mp4","inicio":585.533,"quadros":122},
+{"orig":"flora/t5.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/c6e86d87-273e-474d-a9a4-ba66fa938437.mp4","inicio":635.933,"quadros":92}],
+"blur":[{"de":589.6,"ate":593.27,"caixas":"270,120,600,220"}],
+"textos":[{"de":241.3,"ate":243.5,"caixa":"140,955,580,1008","texto":"«Esto es Lymphoria».","ref":242.0,"fonte":"Poppins-Medium.ttf"},
+{"de":436.5,"ate":441.5,"caixa":"50,976,680,1022","texto":"de Lymphoria en mi encimera.","ref":437.5,"fonte":"Poppins-Medium.ttf"},
+{"de":583.5,"ate":586.5,"caixa":"200,976,505,1024","texto":"de Lymphoria,","ref":584.8,"fonte":"Poppins-Medium.ttf"}],
+"audios":[{"mp3":"p1.mp3","de":241.6,"ate":242.6},{"mp3":"p2.mp3","de":438.2,"ate":441.0},{"mp3":"p3.mp3","de":584.0,"ate":585.6}]}

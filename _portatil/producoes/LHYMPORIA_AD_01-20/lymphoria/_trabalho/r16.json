@@ -1,0 +1,8 @@
+﻿{"ad":"ad16","corte":500.5,"saida":"AD 16 - LYMPHORIA-VESTIDO-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/1ef80d23-49ed-4c6c-ab00-745c05e6d176.mp4","inicio":295.5,"quadros":69},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/d1b8dc0b-75f2-4af7-8d7d-1f5f9b0a8982.mp4","inicio":325.8,"quadros":40},
+{"orig":"flora/t3.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/b4d9a26e-b28a-46e4-9d75-11a1d4fb7c39.mp4","inicio":442.4,"quadros":109}],
+"blur":[{"de":346.67,"ate":349.73,"caixas":"270,110,640,230"}],
+"textos":[{"de":298.3,"ate":301.5,"caixa":"205,912,515,970","texto":"Es Lymphoria.","ref":299.9}],
+"audios":[{"mp3":"p1.mp3","de":297.6,"ate":300.8}]}
+

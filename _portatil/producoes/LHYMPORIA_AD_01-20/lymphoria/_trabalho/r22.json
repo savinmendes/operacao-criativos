@@ -1,0 +1,7 @@
+﻿{"ad":"ad22","corte":228.0,"saida":"AD 22 - LYMPHORIA-22-ANOS-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/0a77f48f-5664-4162-a51d-90152f0fabfd.mp4","inicio":56.3,"quadros":113},
+{"orig":"flora/t2.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/4/anonymous/e7e1604d-df78-4cac-b815-cf8131a65738.mp4","inicio":84.2,"quadros":72}],
+"blur":[{"de":182.47,"ate":184.9,"caixas":"290,205,580,285;300,450,480,510;140,655,360,705"}],
+"textos":[{"de":56.0,"ate":60.4,"caixa":"215,918,505,972","texto":"Lymphoria","ref":58.2},
+{"de":180.0,"ate":183.4,"caixa":"110,895,590,945","texto":"Le dije: «Lymphoria».","ref":181.6}],
+"audios":[{"mp3":"p1.mp3","de":56.1,"ate":60.0},{"mp3":"p2.mp3","de":179.8,"ate":182.3}]}

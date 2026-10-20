@@ -1,0 +1,125 @@
+{
+"texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.",
+"voz": "sJYGLUA6m2su09XOMEb8",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.06,
+"dur": 6.909,
+"palavras": [
+{
+"w": "Si",
+"ini": 0.058,
+"fim": 0.163
+},
+{
+"w": "tú",
+"ini": 0.209,
+"fim": 0.302
+},
+{
+"w": "también",
+"ini": 0.372,
+"fim": 0.615
+},
+{
+"w": "rezas",
+"ini": 0.697,
+"fim": 1.103
+},
+{
+"w": "y",
+"ini": 1.265,
+"fim": 1.335
+},
+{
+"w": "sientes",
+"ini": 1.405,
+"fim": 1.73
+},
+{
+"w": "que",
+"ini": 1.765,
+"fim": 1.834
+},
+{
+"w": "nadie",
+"ini": 1.881,
+"fim": 2.09
+},
+{
+"w": "te",
+"ini": 2.148,
+"fim": 2.252
+},
+{
+"w": "escucha...",
+"ini": 2.287,
+"fim": 2.972
+},
+{
+"w": "y",
+"ini": 3.222,
+"fim": 3.257
+},
+{
+"w": "que",
+"ini": 3.327,
+"fim": 3.396
+},
+{
+"w": "las",
+"ini": 3.443,
+"fim": 3.57
+},
+{
+"w": "cosas",
+"ini": 3.617,
+"fim": 3.872
+},
+{
+"w": "solo",
+"ini": 3.895,
+"fim": 4.128
+},
+{
+"w": "empeoran...",
+"ini": 4.151,
+"fim": 4.917
+},
+{
+"w": "no",
+"ini": 5.167,
+"fim": 5.26
+},
+{
+"w": "es",
+"ini": 5.306,
+"fim": 5.364
+},
+{
+"w": "que",
+"ini": 5.423,
+"fim": 5.504
+},
+{
+"w": "Dios",
+"ini": 5.562,
+"fim": 5.794
+},
+{
+"w": "no",
+"ini": 5.899,
+"fim": 6.015
+},
+{
+"w": "te",
+"ini": 6.073,
+"fim": 6.166
+},
+{
+"w": "escuche.",
+"ini": 6.189,
+"fim": 6.746
+}
+]
+}

@@ -1,0 +1,306 @@
+{
+ "url": "https://www.ulta.com/shop/fragrance/womens-fragrance/perfume",
+ "title": "Perfume - Fragrance - 1200 Products | Ulta Beauty",
+ "cardsFound": 69,
+ "firstCardRect": {
+  "x": 17,
+  "y": 890,
+  "w": 169,
+  "h": 341
+ },
+ "firstImgRect": {
+  "x": 25,
+  "y": 922,
+  "w": 153,
+  "h": 153
+ },
+ "columns": 2,
+ "cardRects": [
+  {
+   "x": 17,
+   "y": 890,
+   "w": 169,
+   "h": 341
+  },
+  {
+   "x": 204,
+   "y": 890,
+   "w": 169,
+   "h": 345
+  },
+  {
+   "x": 17,
+   "y": 1330,
+   "w": 169,
+   "h": 377
+  },
+  {
+   "x": 204,
+   "y": 1330,
+   "w": 169,
+   "h": 361
+  },
+  {
+   "x": 17,
+   "y": 1801,
+   "w": 169,
+   "h": 361
+  },
+  {
+   "x": 204,
+   "y": 1801,
+   "w": 169,
+   "h": 365
+  },
+  {
+   "x": 17,
+   "y": 2260,
+   "w": 169,
+   "h": 341
+  },
+  {
+   "x": 204,
+   "y": 2260,
+   "w": 169,
+   "h": 345
+  }
+ ],
+ "colGap": 18,
+ "rowGap": 99,
+ "sidePaddingLeft": 17,
+ "sidePaddingRight": 17,
+ "cardTexts": [
+  {
+   "tag": "SPAN",
+   "text": "Gucci Flora Gorgeous Magnolia Eau de Parfum",
+   "fs": "0px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgba(0, 0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 1,
+   "w": 1,
+   "relY": 0
+  },
+  {
+   "tag": "SPAN",
+   "text": "5 sizes",
+   "fs": "12px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(115, 109, 105)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 16,
+   "w": 38,
+   "relY": 193
+  },
+  {
+   "tag": "P",
+   "text": "Gucci",
+   "fs": "12px",
+   "fw": "700",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 16,
+   "w": 34,
+   "relY": 229
+  },
+  {
+   "tag": "P",
+   "text": "Flora Gorgeous Magnolia Eau de Parfum",
+   "fs": "14px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 48,
+   "w": 153,
+   "relY": 249
+  },
+  {
+   "tag": "SPAN",
+   "text": "4.7 out of 5 stars ; 1242 reviews",
+   "fs": "16px",
+   "fw": "300",
+   "ff": "\"Circular Std\", Circular, system-ui, Helvetica, Arial, sans-",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "24px",
+   "clamp": "none",
+   "h": 1,
+   "w": 1,
+   "relY": 309
+  },
+  {
+   "tag": "SPAN",
+   "text": "4.7",
+   "fs": "12px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 16,
+   "w": 17,
+   "relY": 301
+  },
+  {
+   "tag": "SPAN",
+   "text": "(1242)",
+   "fs": "12px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(115, 109, 105)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 16,
+   "w": 33,
+   "relY": 301
+  },
+  {
+   "tag": "SPAN",
+   "text": "$40.00 - $234.00",
+   "fs": "16px",
+   "fw": "300",
+   "ff": "Circular, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "left",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 127,
+   "relY": 321
+  }
+ ],
+ "cardButtons": [],
+ "ratingPresent": true,
+ "h1": {
+  "text": "Perfume",
+  "ff": "Circular, sans-serif",
+  "fs": "20px",
+  "fw": "500",
+  "tt": "none",
+  "x": 16,
+  "y": 177,
+  "w": 78,
+  "h": 24
+ },
+ "bodyFont": "\"Circular Std\", Circular, system-ui, Helvetica, Arial, sans-serif",
+ "bodyFs": "16px",
+ "h2Font": "Circular, sans-serif",
+ "header": {
+  "x": 0,
+  "y": 0,
+  "w": 390,
+  "h": 89,
+  "position": "relative"
+ },
+ "chipRows": [],
+ "filterControls": [],
+ "productCount": [
+  {
+   "text": "Floral573 Products Available573",
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "fs": "16px"
+  },
+  {
+   "text": "573 Products Available",
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "fs": "16px"
+  }
+ ],
+ "longTexts": [
+  {
+   "len": 12520,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "Show filters (0)storestoreIn StoreIn StoreIn StoreAvailable at The Promenade at Bolingbroo",
+   "hidden": true
+  },
+  {
+   "len": 12520,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "Show filters (0)storestoreIn StoreIn StoreIn StoreAvailable at The Promenade at Bolingbroo",
+   "hidden": true
+  },
+  {
+   "len": 12520,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "Show filters (0)storestoreIn StoreIn StoreIn StoreAvailable at The Promenade at Bolingbroo",
+   "hidden": true
+  },
+  {
+   "len": 12520,
+   "x": 0,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "start": "Show filters (0)storestoreIn StoreIn StoreIn StoreAvailable at The Promenade at Bolingbroo",
+   "hidden": true
+  }
+ ],
+ "docHeight": 20612,
+ "stickyAtTop": [
+  {
+   "tag": "DIV",
+   "cls": "MobileNavContainer__topPanel",
+   "pos": "fixed",
+   "top": 0,
+   "h": 64,
+   "text": ""
+  }
+ ],
+ "stickyAfterScroll1500": [],
+ "site": "ulta",
+ "headless": true,
+ "viewport": "390x844 @2x"
+}

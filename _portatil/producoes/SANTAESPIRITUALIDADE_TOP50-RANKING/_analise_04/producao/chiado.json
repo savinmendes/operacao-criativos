@@ -1,0 +1,4 @@
+[
+ {"quem": "apresentadora A01 (HF/tot -16,8 dB -> -25,9)", "ini": 0.0, "fim": 4.25, "af": "deesser=i=0.8:m=0.8:f=0.5,highshelf=f=6000:g=-7"},
+ {"quem": "senhor S12 (HF/tot -20,7 dB -> -25,2)", "ini": 69.25, "fim": 83.00, "af": "deesser=i=0.6:m=0.6:f=0.5,highshelf=f=6500:g=-5"}
+]

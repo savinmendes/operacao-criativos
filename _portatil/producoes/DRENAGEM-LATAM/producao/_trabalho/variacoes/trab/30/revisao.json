@@ -1,0 +1,25 @@
+{
+ "arquivo": "VAR 30 - G10-PANCITA-NO-ES-GRASA x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 309.03,
+ "mb": 38.8,
+ "whisper_gancho": "Esa pancita no es grasa, es líquido, atrapado y sedrena, yo tarde años en entenderlo",
+ "whisper_emenda": "yo tarde años en entenderlo Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado",
+ "cobertura_gancho": 0.87,
+ "cortes": [
+  1.733333,
+  3.266667,
+  5.366667,
+  6.833333,
+  9.233333
+ ],
+ "cortes_plan": [
+  1.733,
+  3.267,
+  5.367,
+  6.867
+ ],
+ "silencios": [],
+ "ok": true
+}

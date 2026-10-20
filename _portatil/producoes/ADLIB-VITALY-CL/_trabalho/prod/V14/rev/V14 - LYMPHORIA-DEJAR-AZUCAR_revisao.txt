@@ -1,0 +1,24 @@
+REVISÃO: V14 - LYMPHORIA-DEJAR-AZUCAR.mp4
+duração 21.40s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 12.0 MB
+decodificação: OK
+pts do áudio: 1001 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 20.66-21.40
+cortes de cena: 5 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1005-1172, x 157-563 | no último quadro: sim | faixa escura do rodapé: 1217-1279
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V14\rev\V14 - LYMPHORIA-DEJAR-AZUCAR_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  3.00 Perdón por hacer este baño
+   4.00- 10.00 Y por aquí, sin vivo aliquilado en el despecho
+  10.00- 12.00 Se llama Lymphoria
+  12.00- 14.00 Compre uno y reciba dos, con envío gratis
+  14.00- 16.00 y pagas al recibir en tu casa
+  16.00- 18.00 y tienes 90 días de garantía
+  18.00- 20.00 toca el botón de abajo y pide el tuyo
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

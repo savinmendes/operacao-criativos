@@ -1,0 +1,22 @@
+>> substituir_trechos.py base.mp4 v2_b1.mp4 trechos_v2.json
+t1_final.mp4: 69 quadros a partir de 295.5s
+t2_final.mp4: 40 quadros a partir de 325.8s
+t3_final.mp4: 109 quadros a partir de 442.4s
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad16\v2_b1.mp4 | 15015 quadros, 218 trocados
+>> desfocar_regioes.py v2_b1.mp4 v2_b2.mp4 --de 346.67
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad16\v2_b2.mp4 | 93 quadros desfocados
+>> trocar_texto_tela.py v2_b2.mp4 v2_b3.mp4 --de 298.3
+ok: C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_trabalho\ad16\v2_b3.mp4 | 97 quadros com texto trocado
+>> -v error -y -i v2_b3.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 8.7 min não cabe em 30 MB com qualidade; usando 900 kbps (~65 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 16 - LYMPHORIA-VESTIDO-ES-LATAM v2.mp4
+duração : 520.70s | 720x1280 | áudio: sim | 64.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 16 - LYMPHORIA-VESTIDO-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 517.24s
+montagem rápida: 106s para 521s de vídeo (0.20x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 16 - LYMPHORIA-VESTIDO-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 15469, "psnr_min": 29.73, "psnr_medio": 39.2, "px40_max": 6741, "px40_medio": 106.42, "quadro_px40_max": 45, "t_px40_max": 1.5}, "parte1_fora_dos_takes": {"quadros": 14862, "px40_max": 19, "t_px40_max": 299.67, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 149, "px40_medio": 122.6}}
+{"quadros": 149, "psnr_medio": 37.5, "px40_medio": 191.1, "px40_max": 639}

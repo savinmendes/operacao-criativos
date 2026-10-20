@@ -1,0 +1,26 @@
+REVISÃO: PERFUMES-CL_F7_PRIMERA-CITA.mp4
+duração 28.74s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 20.3 MB
+decodificação: OK
+pts do áudio: 1349 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 836-1029, x 90-240 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\ONDA3\F7-PRIMERA-CITA\PERFUMES-CL_F7_PRIMERA-CITA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  4.00 Antes de pedir, ¿qué perfume traes?
+   4.00-  9.00 Esa noche usé el látafa Asad, intenso, sofisticado y seductor.
+   9.00- 12.00 Tres perfumes árabes al precio de uno.
+  12.00- 14.00 Y los otros dos para el resto de la semana.
+  14.00- 17.00 Armav Club, fresco y masculino.
+  17.00- 20.00 Y Afnan 9 PM, elegante y moderno.
+  20.00- 24.00 Ni pedimos el postre, salimos de la mano.
+  24.00- 27.00 Los tres te llegan a la casa y pagas cuando los recibes.
+  27.00- 29.00 Pídelo ahora.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

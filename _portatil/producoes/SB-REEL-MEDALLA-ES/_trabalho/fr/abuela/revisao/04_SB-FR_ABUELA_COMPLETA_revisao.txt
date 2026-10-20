@@ -1,0 +1,53 @@
+REVISÃO: 04_SB-FR_ABUELA_COMPLETA.mp4
+duração 66.00s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 54.7 MB
+decodificação: OK
+pts do áudio: 3095 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\abuela\revisao\04_SB-FR_ABUELA_COMPLETA_revisao.jpg
+idioma detectado: fr (0.98)
+
+=== transcrição (fr) ===
+   0.00-  4.88 J'ai prié devant une table dressée pour douze et j'ai mangé seul.
+   4.88-  7.00 Et voilà ce qui s'est passé.
+   7.00- 10.48 Au glorieux saint Benoît, rend-moi ma famille.
+  13.48- 16.52 J'ai passé des années à mettre la table pour tout le monde.
+  16.52- 21.04 Mes petits-enfants grandissaient et je ne les voyais qu'en photo.
+  21.04- 24.04 J'avais l'impression de ne plus compter pour personne.
+  24.04- 27.00 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  27.00- 30.16 personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  30.16- 36.24 Des millions de personnes portent cette médaille et personne ne leur a jamais expliqué ce que
+  36.24- 41.48 disent ces lettres. Ce n'est pas un manque de foi. C'est que personne ne leur a appris la bonne façon
+  41.48- 47.40 de la prier. Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va et on
+  47.40- 52.80 recommence à voir des issues là où l'on ne voyait que des portes fermées. C'est pour ça
+  52.80- 59.74 que j'ai laissé l'explication complète lettre par lettre dans une transmission en direct ouverte 24
+  59.74- 65.74 heures sur 24. Appuie sur en savoir plus juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  4.90    Llegó en frente de una tabla para 12, y yo manjé sola.
+   4.90-  7.00    Y aquí es lo que pasó.
+   7.00- 11.00    ¡Oh glorioso, senor Benoit, déjame a mi familia!
+  13.50- 16.50    Llegó hace años a poner la tabla para todo el mundo.
+  16.50- 21.00    Mis pequeños niños creyeron, y yo no lo veía ni en fotos.
+  21.00- 24.00    Me pareció no contar para nadie,
+  24.00- 27.00    hasta el día en el que un pred me explicó algo
+  27.00- 31.00    porque nadie me había nunca dicho sobre la medalla de Saint Benoît.
+  31.00- 33.50    Millions de personas porten esta medalla
+  33.50- 37.50    y nadie les habrá nunca explicado lo que dicen estas letras.
+  37.50- 39.00    No es una falta de forma.
+  39.00- 42.50    Es que nadie les habrá aprendido la buena forma de la prevenir.
+  42.50- 44.50    Cuando la aprendemos de la buena forma,
+  44.50- 47.00    la casa se despeje, la fe se despeje
+  47.00- 49.00    y resumimos que hay issues
+  49.00- 52.50    ahí donde no ves que las puertas son cerradas.
+  52.50- 55.00    Es por eso que dejé la explicación completa,
+  55.00- 61.00    Letra par letra, dans une transmission en directe ouverte 24h sur 24.
+  61.00- 66.00    Apuie sur en savoir plus, juste en dessous, et viens prier avec nous.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

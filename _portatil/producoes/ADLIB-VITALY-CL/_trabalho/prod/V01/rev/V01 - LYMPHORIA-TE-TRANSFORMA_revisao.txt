@@ -1,0 +1,20 @@
+REVISÃO: V01 - LYMPHORIA-TE-TRANSFORMA.mp4
+duração 22.60s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 12.6 MB
+decodificação: OK
+pts do áudio: 1059 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 21.71-22.60
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1005-1180, x 156-563 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\V01\rev\V01 - LYMPHORIA-TE-TRANSFORMA_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00- 13.72 Se llama Linforia, gotitas de drenaje linfático con hierbas naturales, ahora compre uno y
+  13.72- 19.60 reciba dos. Envío gratis y pagas al recibir en tu casa, con 90 días de garantía. Toca
+  19.60- 21.60 el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

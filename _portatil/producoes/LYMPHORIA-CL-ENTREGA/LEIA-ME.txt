@@ -1,0 +1,7 @@
+LYMPHORIA CHILE — ENTREGA FINAL
+VIDEOS\  -> 19 vídeos prontos (01-11 = convertidos do lote Vitaly; 12-19 = conceitos novos).
+IMAGENS\ -> 16 imagens estáticas (01-12 = convertidas do lote Vitaly; 13-16 = estáticos novos).
+TEXTOS-ANUNCIOS.txt -> título, texto principal, descrição, botão (Comprar) e link de cada vídeo/imagem, com a mesma numeração dos arquivos.
+Oferta em todos os textos: Compre 1, Reciba 2 · Pagas al recibir · Envío gratis · 90 días de garantía (sem preço nos criativos).
+Originais, backups e comparações suavizadas ficam em ADLIB-VITALY-CL\LYMPHORIA-ES-CL\SUAVIZADOS\.
+Esta pasta é só cópia: nada foi movido nem apagado das pastas de produção.

@@ -1,0 +1,5 @@
+file 'C:/Users/PICHAU/Downloads/SB-REEL-MEDALLA-ES/_trabalho/completa/padre/_tmp/c1.wav'
+file 'C:/Users/PICHAU/Downloads/SB-REEL-MEDALLA-ES/_trabalho/completa/padre/_tmp/sil.wav'
+file 'C:/Users/PICHAU/Downloads/SB-REEL-MEDALLA-ES/_trabalho/completa/padre/_tmp/c2.wav'
+file 'C:/Users/PICHAU/Downloads/SB-REEL-MEDALLA-ES/_trabalho/completa/padre/_tmp/sil.wav'
+file 'C:/Users/PICHAU/Downloads/SB-REEL-MEDALLA-ES/_trabalho/completa/padre/_tmp/c3.wav'

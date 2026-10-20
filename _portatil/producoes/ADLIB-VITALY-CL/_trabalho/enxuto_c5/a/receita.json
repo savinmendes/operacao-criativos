@@ -1,0 +1,39 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\LYMPHORIA-ENXUTO\\LYM-CL_C5_desconfiada-online_avatar-ugc_a.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\enxuto_c5\\a\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\enxuto_c5\\a\\leg.alinhamento.json",
+  "chaves": [
+   "lymphoria",
+   "gratis",
+   "recibir",
+   "tarjeta",
+   "miel",
+   "noventa",
+   "dos",
+   "nada"
+  ]
+ },
+ "manchete": {
+  "texto": "¿Te da miedo comprar por internet? 😰",
+  "ate": 3.6
+ },
+ "selo": {
+  "linhas": [
+   "",
+   "PAGO CONTRA",
+   "ENTREGA",
+   ""
+  ],
+  "escala": 0.55,
+  "x": 331,
+  "y": 1330,
+  "desde": 36.6
+ },
+ "cta": {
+  "palavra": "toca"
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

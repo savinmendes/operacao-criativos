@@ -1,0 +1,42 @@
+Ranking: 05
+Anúncio (criativo): ADS 12.12
+Nomes de anúncio somados: ADS 12.12, ADS 12.12 B, ADS 12.12 | HOT, ADS 12.12 | HOT 2, ADS 12.12 | WHOP
+Conta: CONTA 01 (SAN BENITO) — act 1929332567965953 (USD)
+Campanhas (8): SB ES - 04/10 - CBO 1-1-6 - BID 53 [ESPANHA] | SB ES - 19/09 - ABO - lead 2 [DUPLICADOS] | SB ES - 19/09 - ABO - lead 2 [TESTE DE CRIATIVOS] | SB ES - 21/09 - ABO - TESTE A/B GATEWAY [HOT x WHOP] | SB ES - 21/09 - ABO - lead 2 [DUPLICADOS HOT] | SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT 2] | SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT] | SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO]
+Período: vida útil inteira (date_preset maximum). Campanhas SB ES com datas no nome de 12/07 a 04/10/2026.
+
+MÉTRICAS (soma de todos os anúncios com este criativo nas campanhas SB ES de vendas)
+Gasto: US$ 341.52
+Compras (pixel): 13
+Custo por compra: US$ 26.27  (média SB ES: US$ 31.62)
+ROAS compra no site: 1.63  (média SB ES: 1.22)
+CTR de link: 10.17%  (cliques no link / impressões)
+Impressões: 18186
+Cliques no link: 1849
+Status atual dos anúncios: {'ADSET_PAUSED': 15, 'CAMPAIGN_PAUSED': 3, 'ACTIVE': 1}
+
+ARQUIVO: SB-ES_05_ADS-12.12.mp4 — 720x1280 h264, 31.6 s
+Origem: Meta, video_id 2608633162905774 (o mais usado, US$ 204 do gasto). Baixado com yt-dlp (formato hd H.264).
+
+TOP 5 ANÚNCIOS POR GASTO (gasto / compras / ad_id / creative_id / campanha / conjunto)
+  US$ 44.15 / 1 / 120248391040280259 / 1405845194854784 / SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT 2] / ADS 12.12 | HOT 2
+  US$ 39.73 / 3 / 120248371060510259 / 1398179299113220 / SB ES - 21/09 - ABO - lead 2 [DUPLICADOS HOT] / ADS 12.12 | HOT
+  US$ 39.38 / 0 / 120248428127650259 / 2256173048265026 / SB ES - 23/09 - 1-5-10 PUBLICAÇÕES [ABO] / CJ 5
+  US$ 34.82 / 0 / 120248391035130259 / 2110592682866524 / SB ES - 22/09 - CBO BIDCAP 37 - PUBLICAÇÕES [HOT] / ADS 12.12 | HOT
+  US$ 34.56 / 1 / 120248339535930259 / 1077285475018710 / SB ES - 19/09 - ABO - lead 2 [TESTE DE CRIATIVOS] / ADS 12.12 — nv
+
+TEXTO DO CRIATIVO (do anúncio de maior gasto que tem texto salvo na API)
+creative_id: 1405845194854784
+Título: (vazio)
+Texto principal:
+Hay un mensaje que está tocando el corazón de muchas personas en pleno momento de oración…
+
+Habla de caminos que parecen cerrados, puertas que no se abren y cargas que uno lleva sin entender por qué.
+
+Muchos lo llaman "mala suerte"…
+pero hay quienes sienten que detrás de todo eso hay algo más profundo, en lo espiritual.
+
+Una oración ligada a San Benito —poco conocida por la mayoría— está despertando la atención de quienes buscan protección, fe y paz interior.
+
+¿Qué revela esta oración?
+Escúchala con atención 👇

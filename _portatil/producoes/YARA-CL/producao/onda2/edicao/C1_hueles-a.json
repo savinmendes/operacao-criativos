@@ -1,0 +1,71 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C1_yara-kit3_hueles-a_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": null,
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": false,
+ "selo": null,
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../../../banco/yara_09.mp4",
+   "tipo": "broll",
+   "audio": "silencio.wav",
+   "audio_de": 0,
+   "audio_ate": 2.8,
+   "dur": 2.8,
+   "png": "../overlays/C1_t1.png"
+  },
+  {
+   "video": "../../../banco/moi_08.mp4",
+   "tipo": "broll",
+   "audio": "silencio.wav",
+   "audio_de": 0,
+   "audio_ate": 2.8,
+   "dur": 2.8,
+   "png": "../overlays/C1_t2.png",
+   "de": 0.8
+  },
+  {
+   "video": "../../../banco/elixir_07.mp4",
+   "tipo": "broll",
+   "audio": "silencio.wav",
+   "audio_de": 0,
+   "audio_ate": 2.8,
+   "dur": 2.8,
+   "png": "../overlays/C1_t3.png"
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "silencio.wav",
+   "audio_de": 0,
+   "audio_ate": 2.6,
+   "dur": 2.6,
+   "png": "../overlays/C1_t4.png"
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "silencio.wav",
+   "audio_de": 0,
+   "audio_ate": 3.0,
+   "dur": 3.0,
+   "png": "../overlays/C1_t5.png",
+   "de": 2.0
+  }
+ ]
+}

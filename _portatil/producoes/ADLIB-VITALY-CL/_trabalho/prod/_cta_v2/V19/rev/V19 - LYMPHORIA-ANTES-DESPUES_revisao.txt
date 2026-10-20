@@ -1,0 +1,19 @@
+REVISÃO: V19 - LYMPHORIA-ANTES-DESPUES.mp4
+duração 28.54s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 21.1 MB
+decodificação: OK
+pts do áudio: 1331 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 4 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1129-1194, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V19\rev\V19 - LYMPHORIA-ANTES-DESPUES_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00- 25.66 La inforia, compre uno y reciba dos, envío gratis, pagas al recibir en tu casa, toca
+  25.66- 27.16 el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

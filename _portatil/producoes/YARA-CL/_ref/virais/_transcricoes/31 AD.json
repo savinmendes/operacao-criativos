@@ -1,0 +1,816 @@
+{
+ "idioma": "en",
+ "prob": 1.0,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 2.26,
+   "texto": "I will stand 10 toes down on this."
+  },
+  {
+   "ini": 2.26,
+   "fim": 5.5,
+   "texto": "These are the absolute best perfumes you can wear"
+  },
+  {
+   "ini": 5.5,
+   "fim": 6.66,
+   "texto": "for fall and winter time."
+  },
+  {
+   "ini": 6.66,
+   "fim": 9.06,
+   "texto": "Like these are guaranteed to pull compliments."
+  },
+  {
+   "ini": 9.06,
+   "fim": 10.34,
+   "texto": "I know because I've lived it."
+  },
+  {
+   "ini": 10.34,
+   "fim": 12.02,
+   "texto": "And a lot of these you've probably never heard of."
+  },
+  {
+   "ini": 12.02,
+   "fim": 13.86,
+   "texto": "Ombre Latte by Essential Parfums."
+  },
+  {
+   "ini": 13.86,
+   "fim": 16.12,
+   "texto": "This is my most worn perfume right now."
+  },
+  {
+   "ini": 16.12,
+   "fim": 16.96,
+   "texto": "Oh my God."
+  },
+  {
+   "ini": 16.96,
+   "fim": 19.58,
+   "texto": "If you have loved gourmands, caramels and vanillas,"
+  },
+  {
+   "ini": 19.58,
+   "fim": 20.62,
+   "texto": "but you're kind of over it,"
+  },
+  {
+   "ini": 20.62,
+   "fim": 22.86,
+   "texto": "like you need something a bit more elevated,"
+  },
+  {
+   "ini": 22.86,
+   "fim": 26.58,
+   "texto": "a little bit more sophisticated and just unique."
+  },
+  {
+   "ini": 26.58,
+   "fim": 29.3,
+   "texto": "This has a very prominent amber fix note in here,"
+  },
+  {
+   "ini": 29.3,
+   "fim": 32.0,
+   "texto": "which makes it incredibly addictive."
+  },
+  {
+   "ini": 32.0,
+   "fim": 34.2,
+   "texto": "Amber fix is one of the most addictive notes in perfume."
+  },
+  {
+   "ini": 34.2,
+   "fim": 37.24,
+   "texto": "Picture a dry piece of wood heated by the sun"
+  },
+  {
+   "ini": 37.24,
+   "fim": 39.48,
+   "texto": "and clean skin with a little bit of sweetness."
+  },
+  {
+   "ini": 39.48,
+   "fim": 41.32,
+   "texto": "That's the best way I can describe amber fix."
+  },
+  {
+   "ini": 41.32,
+   "fim": 43.4,
+   "texto": "And that is very much what this perfume smells like."
+  },
+  {
+   "ini": 43.4,
+   "fim": 45.32,
+   "texto": "With gourmand facets in the background,"
+  },
+  {
+   "ini": 45.32,
+   "fim": 47.6,
+   "texto": "there's almond milk, caramel, tonka bean,"
+  },
+  {
+   "ini": 47.6,
+   "fim": 49.6,
+   "texto": "but this is not a gourmand perfume."
+  },
+  {
+   "ini": 49.6,
+   "fim": 51.68,
+   "texto": "It is such a captivating smell."
+  },
+  {
+   "ini": 51.68,
+   "fim": 54.76,
+   "texto": "Whenever I have this on, I cannot stop smelling my wrists."
+  },
+  {
+   "ini": 54.76,
+   "fim": 55.88,
+   "texto": "Red by Souradora."
+  },
+  {
+   "ini": 55.88,
+   "fim": 58.8,
+   "texto": "One of the most complimented perfumes in my collection."
+  },
+  {
+   "ini": 58.8,
+   "fim": 62.22,
+   "texto": "Picture condensed coconut milk heated on the stove"
+  },
+  {
+   "ini": 62.22,
+   "fim": 64.18,
+   "texto": "with a delicious dose of cardamom"
+  },
+  {
+   "ini": 64.18,
+   "fim": 66.74,
+   "texto": "that just makes it slightly spicy and warm."
+  },
+  {
+   "ini": 66.74,
+   "fim": 67.58,
+   "texto": "Oh my gosh."
+  },
+  {
+   "ini": 67.58,
+   "fim": 69.06,
+   "texto": "One thing about perfumes I wear,"
+  },
+  {
+   "ini": 69.06,
+   "fim": 72.02,
+   "texto": "I want them to smell addictive, unique and mesmerizing."
+  },
+  {
+   "ini": 72.02,
+   "fim": 74.52,
+   "texto": "So a lot of these perfumes have that quality to them."
+  },
+  {
+   "ini": 74.52,
+   "fim": 75.74,
+   "texto": "And this one is no exception."
+  },
+  {
+   "ini": 75.74,
+   "fim": 77.3,
+   "texto": "Gaiac 10 by Le Labo."
+  },
+  {
+   "ini": 77.3,
+   "fim": 80.66,
+   "texto": "If you like another 13, Glossier You, Angel Dust,"
+  },
+  {
+   "ini": 80.66,
+   "fim": 82.58,
+   "texto": "the perfumes that don't smell like a perfume,"
+  },
+  {
+   "ini": 82.58,
+   "fim": 84.7,
+   "texto": "they just make you smell effortlessly good"
+  },
+  {
+   "ini": 84.7,
+   "fim": 87.54,
+   "texto": "and you can't really put your finger on what it smells like."
+  },
+  {
+   "ini": 87.54,
+   "fim": 88.46,
+   "texto": "That's what this is."
+  },
+  {
+   "ini": 88.46,
+   "fim": 90.88,
+   "texto": "Fluffy, cozy white musks"
+  },
+  {
+   "ini": 90.88,
+   "fim": 93.76,
+   "texto": "with some dry woody notes in the base."
+  },
+  {
+   "ini": 93.76,
+   "fim": 97.16,
+   "texto": "The fluffy musks in here make this smell so unique."
+  },
+  {
+   "ini": 97.16,
+   "fim": 98.48,
+   "texto": "Absolutely stunning scent."
+  },
+  {
+   "ini": 98.48,
+   "fim": 99.88,
+   "texto": "You can only get this in September."
+  },
+  {
+   "ini": 99.88,
+   "fim": 101.72,
+   "texto": "Other than that, you're gonna have to book a flight to Tokyo."
+  },
+  {
+   "ini": 101.72,
+   "fim": 102.68,
+   "texto": "Don't say I didn't warn you."
+  },
+  {
+   "ini": 102.68,
+   "fim": 104.4,
+   "texto": "Sua Malachi by Dries van Noten."
+  },
+  {
+   "ini": 104.4,
+   "fim": 107.48,
+   "texto": "This has a silky smooth texture to it."
+  },
+  {
+   "ini": 107.48,
+   "fim": 109.68,
+   "texto": "It has a little bit of a clean feeling to it,"
+  },
+  {
+   "ini": 109.68,
+   "fim": 111.72,
+   "texto": "but it's slightly sweet and jammy."
+  },
+  {
+   "ini": 111.72,
+   "fim": 113.52,
+   "texto": "And then you get that creamy nuttiness."
+  },
+  {
+   "ini": 113.52,
+   "fim": 115.28,
+   "texto": "Another one that's incredibly unique."
+  },
+  {
+   "ini": 115.28,
+   "fim": 116.72,
+   "texto": "I've never smelled any perfume"
+  },
+  {
+   "ini": 116.74,
+   "fim": 118.62,
+   "texto": "that smells remotely similar to this."
+  },
+  {
+   "ini": 118.62,
+   "fim": 121.46,
+   "texto": "And in the cold weather, this scent just really shines."
+  },
+  {
+   "ini": 121.46,
+   "fim": 123.38,
+   "texto": "Forbidden Apple by Chris Collins."
+  },
+  {
+   "ini": 123.38,
+   "fim": 125.58,
+   "texto": "This one's a bit more youthful, playful."
+  },
+  {
+   "ini": 125.58,
+   "fim": 127.02,
+   "texto": "It just smells like a candy apple,"
+  },
+  {
+   "ini": 127.02,
+   "fim": 128.94,
+   "texto": "like a photorealistic candy apple,"
+  },
+  {
+   "ini": 128.94,
+   "fim": 131.48,
+   "texto": "but somehow it does not smell synthetic."
+  },
+  {
+   "ini": 131.48,
+   "fim": 135.58,
+   "texto": "It has this delicious bright red apple juiciness to it,"
+  },
+  {
+   "ini": 135.58,
+   "fim": 136.42,
+   "texto": "but candied."
+  },
+  {
+   "ini": 136.42,
+   "fim": 138.18,
+   "texto": "L'Ace en Tal by Christian Louboutin."
+  },
+  {
+   "ini": 138.18,
+   "fim": 140.18,
+   "texto": "This is a crazy statement, but I will stand on it."
+  },
+  {
+   "ini": 140.18,
+   "fim": 142.1,
+   "texto": "The best sandalwood perfume I've ever smelled."
+  },
+  {
+   "ini": 142.1,
+   "fim": 145.06,
+   "texto": "This is a true milky sandalwood."
+  },
+  {
+   "ini": 145.06,
+   "fim": 146.38,
+   "texto": "There's two notes listed."
+  },
+  {
+   "ini": 146.38,
+   "fim": 148.04,
+   "texto": "It's sandalwood and fig milk,"
+  },
+  {
+   "ini": 148.04,
+   "fim": 150.84,
+   "texto": "and you can smell both of those notes to a T."
+  },
+  {
+   "ini": 150.84,
+   "fim": 152.48,
+   "texto": "Now, when you first spray this,"
+  },
+  {
+   "ini": 152.48,
+   "fim": 156.44,
+   "texto": "that milky, creamy sandalwood note is breathtaking."
+  },
+  {
+   "ini": 156.44,
+   "fim": 160.0,
+   "texto": "And then you have that plush fruity fig in the background."
+  },
+  {
+   "ini": 160.0,
+   "fim": 160.84,
+   "texto": "Oh my gosh."
+  },
+  {
+   "ini": 160.84,
+   "fim": 161.66,
+   "texto": "Look at the dent."
+  },
+  {
+   "ini": 161.66,
+   "fim": 163.56,
+   "texto": "One of Cal's favorite perfumes to smell on me."
+  },
+  {
+   "ini": 163.56,
+   "fim": 165.28,
+   "texto": "He's always asking me to wear this."
+  },
+  {
+   "ini": 165.28,
+   "fim": 166.84,
+   "texto": "Black Tie by Celine."
+  },
+  {
+   "ini": 166.84,
+   "fim": 170.56,
+   "texto": "A beautiful, sophisticated, dark, mysterious vanilla."
+  },
+  {
+   "ini": 170.56,
+   "fim": 173.24,
+   "texto": "We get some smoky notes in here, some woodiness."
+  },
+  {
+   "ini": 173.24,
+   "fim": 174.6,
+   "texto": "The vanilla isn't sweet."
+  },
+  {
+   "ini": 174.6,
+   "fim": 177.3,
+   "texto": "It just gives the scent this warm, cozy,"
+  },
+  {
+   "ini": 177.3,
+   "fim": 178.78,
+   "texto": "like wrapped in a blanket feel,"
+  },
+  {
+   "ini": 178.78,
+   "fim": 181.5,
+   "texto": "but in the most classy, elegant way possible."
+  },
+  {
+   "ini": 181.5,
+   "fim": 183.9,
+   "texto": "Another one that's just incredibly captivating."
+  },
+  {
+   "ini": 183.9,
+   "fim": 184.74,
+   "texto": "This is one of those scents"
+  },
+  {
+   "ini": 184.74,
+   "fim": 187.54,
+   "texto": "that if I smelled this in public, I would be very impressed."
+  },
+  {
+   "ini": 187.54,
+   "fim": 189.26,
+   "texto": "Whispering Kiss by L'Persona."
+  },
+  {
+   "ini": 189.26,
+   "fim": 190.42,
+   "texto": "Look at that dent."
+  },
+  {
+   "ini": 190.42,
+   "fim": 192.82,
+   "texto": "One of the hardest perfumes to describe"
+  },
+  {
+   "ini": 192.82,
+   "fim": 194.94,
+   "texto": "because of how unique this is."
+  },
+  {
+   "ini": 194.94,
+   "fim": 197.26,
+   "texto": "This also has a very prominent amber fix note."
+  },
+  {
+   "ini": 197.26,
+   "fim": 198.62,
+   "texto": "So it has that addictive,"
+  },
+  {
+   "ini": 198.62,
+   "fim": 201.1,
+   "texto": "I can't stop smelling it kind of quality to it."
+  },
+  {
+   "ini": 201.1,
+   "fim": 202.94,
+   "texto": "It's boozy, it's sweet,"
+  },
+  {
+   "ini": 202.96,
+   "fim": 205.84,
+   "texto": "but then you get this kind of roasted nuttiness,"
+  },
+  {
+   "ini": 205.84,
+   "fim": 208.56,
+   "texto": "and it sounds so strange, but it is delicious."
+  },
+  {
+   "ini": 208.56,
+   "fim": 210.8,
+   "texto": "It has this beautiful airiness to it,"
+  },
+  {
+   "ini": 210.8,
+   "fim": 213.72,
+   "texto": "but it's very, very warm and cozy at the same time."
+  },
+  {
+   "ini": 213.72,
+   "fim": 214.98,
+   "texto": "This is another one I would pull out"
+  },
+  {
+   "ini": 214.98,
+   "fim": 216.36,
+   "texto": "if I was trying to impress someone."
+  },
+  {
+   "ini": 216.36,
+   "fim": 218.56,
+   "texto": "Sunset Hour Dark Peach by Goldfield and Banks."
+  },
+  {
+   "ini": 218.56,
+   "fim": 221.28,
+   "texto": "You get this juicy, fruity note on one side,"
+  },
+  {
+   "ini": 221.28,
+   "fim": 224.08,
+   "texto": "and then you get this dark, sweet, boozy-ness"
+  },
+  {
+   "ini": 224.08,
+   "fim": 226.44,
+   "texto": "on the other side, and you blend those two together,"
+  },
+  {
+   "ini": 226.44,
+   "fim": 228.32,
+   "texto": "and you have the most gorgeous scent."
+  },
+  {
+   "ini": 228.32,
+   "fim": 229.96,
+   "texto": "Vanilla Canyon by Fleur."
+  },
+  {
+   "ini": 229.96,
+   "fim": 232.08,
+   "texto": "Oh man, Fleur did their big one with this."
+  },
+  {
+   "ini": 232.1,
+   "fim": 233.9,
+   "texto": "This is a honeyed vanilla"
+  },
+  {
+   "ini": 233.9,
+   "fim": 236.94,
+   "texto": "with the most beautiful smokiness woven in."
+  },
+  {
+   "ini": 236.94,
+   "fim": 239.1,
+   "texto": "I don't usually love a smoky vanilla."
+  },
+  {
+   "ini": 239.1,
+   "fim": 240.9,
+   "texto": "It has to be done really well,"
+  },
+  {
+   "ini": 240.9,
+   "fim": 242.74,
+   "texto": "and it is done perfectly in this perfume."
+  },
+  {
+   "ini": 242.74,
+   "fim": 244.46,
+   "texto": "Crazy scent trail on this, by the way."
+  },
+  {
+   "ini": 244.46,
+   "fim": 245.96,
+   "texto": "This will fill up like an entire room."
+  },
+  {
+   "ini": 245.96,
+   "fim": 247.02,
+   "texto": "My sister was wearing this,"
+  },
+  {
+   "ini": 247.02,
+   "fim": 248.46,
+   "texto": "and I could smell her the entire day."
+  },
+  {
+   "ini": 248.46,
+   "fim": 250.5,
+   "texto": "Skin Musk by Atar Olhas."
+  },
+  {
+   "ini": 250.5,
+   "fim": 252.14,
+   "texto": "Clean, powdery almond."
+  },
+  {
+   "ini": 252.14,
+   "fim": 253.46,
+   "texto": "That's exactly what this smells like."
+  },
+  {
+   "ini": 253.46,
+   "fim": 256.02,
+   "texto": "Kind of like baby powder if it was scented like almonds."
+  },
+  {
+   "ini": 256.02,
+   "fim": 258.1,
+   "texto": "Very clean, fresh out of the shower,"
+  },
+  {
+   "ini": 258.1,
+   "fim": 259.9,
+   "texto": "dabbing the body powder all over you."
+  },
+  {
+   "ini": 259.9,
+   "fim": 261.56,
+   "texto": "I love, love, love wearing this to bed,"
+  },
+  {
+   "ini": 261.56,
+   "fim": 264.1,
+   "texto": "although it is very strong, you need like five sprays."
+  },
+  {
+   "ini": 264.1,
+   "fim": 265.78,
+   "texto": "It can be a little too much if you overdo it."
+  },
+  {
+   "ini": 265.78,
+   "fim": 267.22,
+   "texto": "Milk Orchid by Commodity."
+  },
+  {
+   "ini": 267.22,
+   "fim": 268.74,
+   "texto": "This is another one I love putting on"
+  },
+  {
+   "ini": 268.74,
+   "fim": 269.7,
+   "texto": "fresh out of the shower,"
+  },
+  {
+   "ini": 269.7,
+   "fim": 272.34,
+   "texto": "because to me, this smells like a clean lotion."
+  },
+  {
+   "ini": 272.34,
+   "fim": 274.74,
+   "texto": "You get that fig milk and that warm cotton,"
+  },
+  {
+   "ini": 274.74,
+   "fim": 277.62,
+   "texto": "and it has this sweet, milky creaminess to it,"
+  },
+  {
+   "ini": 277.62,
+   "fim": 279.06,
+   "texto": "but it stays feeling clean."
+  },
+  {
+   "ini": 279.06,
+   "fim": 280.46,
+   "texto": "Bourbon Brulee by Letta."
+  },
+  {
+   "ini": 280.46,
+   "fim": 282.34,
+   "texto": "This smells like if you took bourbon,"
+  },
+  {
+   "ini": 282.34,
+   "fim": 284.98,
+   "texto": "and you caramelized it, and you took all the alcohol out."
+  },
+  {
+   "ini": 284.98,
+   "fim": 286.9,
+   "texto": "It's like candied caramelized bourbon,"
+  },
+  {
+   "ini": 286.9,
+   "fim": 288.18,
+   "texto": "but it's not overly sweet."
+  },
+  {
+   "ini": 288.18,
+   "fim": 290.38,
+   "texto": "You still get those dry, woody notes woven in."
+  },
+  {
+   "ini": 290.38,
+   "fim": 292.2,
+   "texto": "One of my absolute favorite scents to wear"
+  },
+  {
+   "ini": 292.2,
+   "fim": 293.32,
+   "texto": "when it starts getting colder."
+  },
+  {
+   "ini": 293.32,
+   "fim": 295.24,
+   "texto": "Whenever I go snowboarding, I take this with me,"
+  },
+  {
+   "ini": 295.24,
+   "fim": 296.56,
+   "texto": "and I save the best for last."
+  },
+  {
+   "ini": 296.56,
+   "fim": 298.6,
+   "texto": "Vanilla Powder X-Trait by Montier Premier."
+  },
+  {
+   "ini": 298.6,
+   "fim": 299.76,
+   "texto": "My pride and joy."
+  },
+  {
+   "ini": 299.76,
+   "fim": 302.32,
+   "texto": "One of the most addictive captivating vanillas"
+  },
+  {
+   "ini": 302.32,
+   "fim": 304.28,
+   "texto": "in my collection, actually the most."
+  },
+  {
+   "ini": 304.28,
+   "fim": 307.56,
+   "texto": "The best way I can describe this is like warm cocoa butter"
+  },
+  {
+   "ini": 307.56,
+   "fim": 309.56,
+   "texto": "and clean vanilla with a little bit"
+  },
+  {
+   "ini": 309.56,
+   "fim": 311.28,
+   "texto": "of this darker, woodier base."
+  },
+  {
+   "ini": 311.28,
+   "fim": 313.56,
+   "texto": "The scent trail that this leaves is insane."
+  },
+  {
+   "ini": 313.56,
+   "fim": 316.0,
+   "texto": "The compliments that this pulls in is also insane."
+  },
+  {
+   "ini": 316.0,
+   "fim": 318.0,
+   "texto": "And there is just something about this scent"
+  },
+  {
+   "ini": 318.0,
+   "fim": 319.58,
+   "texto": "that is very, very sensual."
+  },
+  {
+   "ini": 319.58,
+   "fim": 322.12,
+   "texto": "I am dying to know what is your all-time favorite perfume"
+  },
+  {
+   "ini": 322.12,
+   "fim": 324.08,
+   "texto": "to wear in the fall and winter months?"
+  },
+  {
+   "ini": 324.08,
+   "fim": 325.56,
+   "texto": "If you could only pick one, what would it be?"
+  },
+  {
+   "ini": 325.56,
+   "fim": 327.16,
+   "texto": "For research purposes, I need to know."
+  },
+  {
+   "ini": 327.16,
+   "fim": 328.28,
+   "texto": "And if you love smelling good,"
+  },
+  {
+   "ini": 328.28,
+   "fim": 329.84,
+   "texto": "you're gonna wanna hit the follow button."
+  },
+  {
+   "ini": 329.84,
+   "fim": 331.44,
+   "texto": "All right, I'll see you next time."
+  }
+ ]
+}

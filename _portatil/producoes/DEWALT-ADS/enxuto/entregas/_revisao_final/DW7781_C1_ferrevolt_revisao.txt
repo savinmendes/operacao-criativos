@@ -1,0 +1,47 @@
+REVISÃO: DW7781_C1_ferrevolt.mp4
+duração 44.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 16.3 MB
+decodificação: OK
+pts do áudio: 2069 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: 39.73/39.87
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao_final\DW7781_C1_ferrevolt_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  4.78 maestros, dos baterías, una trabajando y la otra cargando, así no separa la pega
+   4.78- 10.08 pones el anillo en modo percutor, y la broca entra en el muro sin pelear
+  10.08- 13.88 en madera, pasa limpiecita
+  13.88- 18.54 y para la tornilla, quince posiciones de torque, aprietas justo sin pasarte
+  18.54- 21.88 el secreto, motor sin carbón
+  21.88- 26.88 The Wall dice que es 17% más eficiente que un motor con carbón
+  26.88- 29.88 dos velocidades, fuerzas en la primera, rapidez en la segunda
+  29.88- 33.88 y trae dos baterías con indicador de carga, mientras una trabaja, la otra se carga
+  34.88- 37.88 compacto y liviano para trabajar todo el día
+  37.88- 39.88 aprovecha el pre-black friday
+  39.88- 41.88 pídelo hoy y pagas recién cuando te llegue
+  41.88- 43.88 envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  4.78    Maestros, duas baterias, uma trabalhando e a outra cargando, assim não se separa a pega
+   4.78-  6.86    Põe-se o anilho no modo percutor
+   6.86-  9.98    E a broca entra no muro sem pelear
+   9.98- 12.98    Em madeira passa a limpecita
+  12.98- 18.30    E para a torna e já, quinta posições de torque, apretas justo sem passar-te
+  18.30- 21.42    O secreto, motor sem carbões
+  21.42- 26.22    De Wall disse que é 17% mais eficiente que um motor com carbões
+  26.22- 29.74    Dois velocidades, força na primeira, rapidez na segunda
+  29.74- 31.74    E traz 2 baterias com indicador de carga,
+  31.74- 33.74    mentre uma trabalha, a outra se carga.
+  34.74- 36.74    Compacto e liviano para trabalhar todo o dia.
+  37.74- 38.74    Aproveita o Pre Black Friday.
+  39.74- 41.74    Fique hoje e pague reciente quando você chegar.
+  41.74- 42.74    Viva todo Chile!
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 39.73s e 39.87s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

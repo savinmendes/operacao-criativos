@@ -1,0 +1,336 @@
+{
+ "id": "32",
+ "texto": "I love the H20X5. It's not just a mop, but a full home steam cleaning system. It works as a steam mop and a handheld steamer, cleans floors, tiles, glass, garments, and more. All with the power of steam. No chemicals. Just a deep clean for every corner of your home.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 4.96,
+   "texto": "I love the H20X5. It's not just a mop, but a full home steam cleaning system.",
+   "no_speech": 0.17,
+   "palavras": [
+    {
+     "w": "I",
+     "ini": 0.0,
+     "fim": 0.48,
+     "p": 0.82
+    },
+    {
+     "w": "love",
+     "ini": 0.48,
+     "fim": 0.68,
+     "p": 0.98
+    },
+    {
+     "w": "the",
+     "ini": 0.68,
+     "fim": 1.06,
+     "p": 0.99
+    },
+    {
+     "w": "H20X5.",
+     "ini": 1.06,
+     "fim": 2.18,
+     "p": 0.78
+    },
+    {
+     "w": "It's",
+     "ini": 2.3,
+     "fim": 2.58,
+     "p": 0.98
+    },
+    {
+     "w": "not",
+     "ini": 2.58,
+     "fim": 2.72,
+     "p": 1.0
+    },
+    {
+     "w": "just",
+     "ini": 2.72,
+     "fim": 2.98,
+     "p": 1.0
+    },
+    {
+     "w": "a",
+     "ini": 2.98,
+     "fim": 3.12,
+     "p": 1.0
+    },
+    {
+     "w": "mop,",
+     "ini": 3.12,
+     "fim": 3.28,
+     "p": 0.99
+    },
+    {
+     "w": "but",
+     "ini": 3.48,
+     "fim": 3.6,
+     "p": 1.0
+    },
+    {
+     "w": "a",
+     "ini": 3.6,
+     "fim": 3.68,
+     "p": 1.0
+    },
+    {
+     "w": "full",
+     "ini": 3.68,
+     "fim": 3.9,
+     "p": 0.98
+    },
+    {
+     "w": "home",
+     "ini": 3.9,
+     "fim": 4.14,
+     "p": 0.8
+    },
+    {
+     "w": "steam",
+     "ini": 4.14,
+     "fim": 4.36,
+     "p": 0.97
+    },
+    {
+     "w": "cleaning",
+     "ini": 4.36,
+     "fim": 4.6,
+     "p": 0.96
+    },
+    {
+     "w": "system.",
+     "ini": 4.6,
+     "fim": 4.96,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 5.2,
+   "fim": 10.56,
+   "texto": "It works as a steam mop and a handheld steamer, cleans floors, tiles, glass, garments, and more.",
+   "no_speech": 0.17,
+   "palavras": [
+    {
+     "w": "It",
+     "ini": 5.2,
+     "fim": 5.3,
+     "p": 0.99
+    },
+    {
+     "w": "works",
+     "ini": 5.3,
+     "fim": 5.48,
+     "p": 1.0
+    },
+    {
+     "w": "as",
+     "ini": 5.48,
+     "fim": 5.72,
+     "p": 1.0
+    },
+    {
+     "w": "a",
+     "ini": 5.72,
+     "fim": 5.86,
+     "p": 0.99
+    },
+    {
+     "w": "steam",
+     "ini": 5.86,
+     "fim": 6.02,
+     "p": 1.0
+    },
+    {
+     "w": "mop",
+     "ini": 6.02,
+     "fim": 6.2,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 6.2,
+     "fim": 6.42,
+     "p": 0.96
+    },
+    {
+     "w": "a",
+     "ini": 6.42,
+     "fim": 6.54,
+     "p": 0.89
+    },
+    {
+     "w": "handheld",
+     "ini": 6.54,
+     "fim": 6.82,
+     "p": 0.8
+    },
+    {
+     "w": "steamer,",
+     "ini": 6.82,
+     "fim": 7.48,
+     "p": 1.0
+    },
+    {
+     "w": "cleans",
+     "ini": 7.62,
+     "fim": 7.88,
+     "p": 0.96
+    },
+    {
+     "w": "floors,",
+     "ini": 7.88,
+     "fim": 8.34,
+     "p": 1.0
+    },
+    {
+     "w": "tiles,",
+     "ini": 8.66,
+     "fim": 8.88,
+     "p": 0.99
+    },
+    {
+     "w": "glass,",
+     "ini": 9.14,
+     "fim": 9.5,
+     "p": 1.0
+    },
+    {
+     "w": "garments,",
+     "ini": 9.8,
+     "fim": 9.98,
+     "p": 0.99
+    },
+    {
+     "w": "and",
+     "ini": 10.18,
+     "fim": 10.32,
+     "p": 1.0
+    },
+    {
+     "w": "more.",
+     "ini": 10.32,
+     "fim": 10.56,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 10.88,
+   "fim": 15.24,
+   "texto": "All with the power of steam. No chemicals. Just a deep clean for every corner of your home.",
+   "no_speech": 0.17,
+   "palavras": [
+    {
+     "w": "All",
+     "ini": 10.88,
+     "fim": 11.08,
+     "p": 0.99
+    },
+    {
+     "w": "with",
+     "ini": 11.08,
+     "fim": 11.24,
+     "p": 1.0
+    },
+    {
+     "w": "the",
+     "ini": 11.24,
+     "fim": 11.4,
+     "p": 1.0
+    },
+    {
+     "w": "power",
+     "ini": 11.4,
+     "fim": 11.58,
+     "p": 1.0
+    },
+    {
+     "w": "of",
+     "ini": 11.58,
+     "fim": 11.86,
+     "p": 1.0
+    },
+    {
+     "w": "steam.",
+     "ini": 11.86,
+     "fim": 12.06,
+     "p": 0.99
+    },
+    {
+     "w": "No",
+     "ini": 12.24,
+     "fim": 12.46,
+     "p": 1.0
+    },
+    {
+     "w": "chemicals.",
+     "ini": 12.46,
+     "fim": 12.86,
+     "p": 1.0
+    },
+    {
+     "w": "Just",
+     "ini": 13.1,
+     "fim": 13.36,
+     "p": 0.99
+    },
+    {
+     "w": "a",
+     "ini": 13.36,
+     "fim": 13.54,
+     "p": 1.0
+    },
+    {
+     "w": "deep",
+     "ini": 13.54,
+     "fim": 13.72,
+     "p": 1.0
+    },
+    {
+     "w": "clean",
+     "ini": 13.72,
+     "fim": 13.98,
+     "p": 0.99
+    },
+    {
+     "w": "for",
+     "ini": 13.98,
+     "fim": 14.28,
+     "p": 0.99
+    },
+    {
+     "w": "every",
+     "ini": 14.28,
+     "fim": 14.5,
+     "p": 1.0
+    },
+    {
+     "w": "corner",
+     "ini": 14.5,
+     "fim": 14.74,
+     "p": 1.0
+    },
+    {
+     "w": "of",
+     "ini": 14.74,
+     "fim": 14.92,
+     "p": 1.0
+    },
+    {
+     "w": "your",
+     "ini": 14.92,
+     "fim": 15.04,
+     "p": 1.0
+    },
+    {
+     "w": "home.",
+     "ini": 15.04,
+     "fim": 15.24,
+     "p": 1.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+[0:v]setpts=N/(30*TB)[win];
+[2:v]format=rgba,fps=30[pl];
+[pl][win]overlay=0:297:format=auto[b0];
+[3:v]format=rgba[hd];
+[b0][hd]overlay=0:0:format=auto[b1];
+[4:v]format=rgba[ti];
+[b1][ti]overlay=0:0:format=auto:enable='lt(t,2.983)'[b2];
+[b2]ass=leg.ass:fontsdir=fonts[b3];
+[5:v]format=rgba[ct];
+[b3][ct]overlay=0:-22:format=auto:enable='gte(t,60.5500)'[b4];
+[6:v]format=rgba[se];
+[b4][se]overlay=0:'-37+10*sin(2*PI*1.4*t)':format=auto:eval=frame:enable='gte(t,60.5500)'[b5];
+[7:v]format=rgba[sl];
+[b5][sl]overlay=0:0:format=auto,format=yuv420p[v]

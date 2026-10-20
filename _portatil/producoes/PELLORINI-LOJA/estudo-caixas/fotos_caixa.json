@@ -1,0 +1,1243 @@
+{
+ "resumo": {
+  "data": "2026-10-11",
+  "fonte": "https://pellorini.com/products.json?limit=250",
+  "produtos": 52,
+  "imagens": 695,
+  "caixa_total": 67,
+  "caixa_ja_feitas": 8,
+  "caixa_pendentes": 59,
+  "caixa_total_por_tipo": {
+   "verde-agua": 20,
+   "caramelo": 19,
+   "vermelha": 21,
+   "outra": 7
+  },
+  "caixa_pendentes_por_tipo": {
+   "verde-agua": 12,
+   "caramelo": 19,
+   "vermelha": 21,
+   "outra": 7
+  },
+  "mostrador_close": 18,
+  "nota_posicoes": "posições 0-based (ordem atual da loja = ordem antiga). As 8 já feitas são as posições contadas a partir de 1 (vittorio 2, milano 2, dominante 2, opulent 2/5/6, maretti 2/6) = 0-based 1, 1, 1, 1/4/5, 1/5; todas caixa verde-água. Na loja ainda estão as fotos originais."
+ },
+ "por_produto": [
+  {
+   "handle": "pellorini-silk-cleaning-cloth",
+   "imagens": 3,
+   "caixa": 3,
+   "pos_caixa": [
+    0,
+    1,
+    2
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-adjustment-tool",
+   "imagens": 3,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "premium-pellorini-box",
+   "imagens": 2,
+   "caixa": 2,
+   "pos_caixa": [
+    0,
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-parchment-gift-bag",
+   "imagens": 3,
+   "caixa": 2,
+   "pos_caixa": [
+    0,
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-bellissima",
+   "imagens": 8,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-marcello",
+   "imagens": 13,
+   "caixa": 1,
+   "pos_caixa": [
+    2
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-aurora",
+   "imagens": 10,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-perla",
+   "imagens": 9,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-aria",
+   "imagens": 18,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-veloce",
+   "imagens": 15,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-gemma",
+   "imagens": 10,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-carina",
+   "imagens": 16,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-argento",
+   "imagens": 14,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-valentina",
+   "imagens": 15,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-cristallo",
+   "imagens": 12,
+   "caixa": 2,
+   "pos_caixa": [
+    2,
+    3
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-livia",
+   "imagens": 17,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "celeste",
+   "imagens": 8,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    1
+   ]
+  },
+  {
+   "handle": "pellorini-dario",
+   "imagens": 13,
+   "caixa": 2,
+   "pos_caixa": [
+    1,
+    3
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-grazia",
+   "imagens": 17,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    2,
+    3
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-valore",
+   "imagens": 14,
+   "caixa": 1,
+   "pos_caixa": [
+    2
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-roma",
+   "imagens": 16,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    2,
+    3
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-nocturne",
+   "imagens": 10,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 2,
+   "pos_mostrador": [
+    1,
+    4
+   ]
+  },
+  {
+   "handle": "pellorini-milano-2d-carbon",
+   "imagens": 11,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-fiorella",
+   "imagens": 19,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-venti",
+   "imagens": 15,
+   "caixa": 1,
+   "pos_caixa": [
+    2
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-luna-perla",
+   "imagens": 10,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "vortex",
+   "imagens": 11,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-caelus",
+   "imagens": 17,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    1
+   ]
+  },
+  {
+   "handle": "pellorini-astro",
+   "imagens": 9,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-bellagio",
+   "imagens": 10,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    1
+   ]
+  },
+  {
+   "handle": "pellorini-aureo",
+   "imagens": 10,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    1
+   ]
+  },
+  {
+   "handle": "pellorini-lunetta",
+   "imagens": 12,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-serpina",
+   "imagens": 23,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-forte",
+   "imagens": 16,
+   "caixa": 1,
+   "pos_caixa": [
+    2
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-portofina",
+   "imagens": 17,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    1
+   ]
+  },
+  {
+   "handle": "pellorini-serafina",
+   "imagens": 8,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "imagens": 30,
+   "caixa": 4,
+   "pos_caixa": [
+    1,
+    2,
+    3,
+    16
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-napoli",
+   "imagens": 18,
+   "caixa": 6,
+   "pos_caixa": [
+    1,
+    2,
+    3,
+    14,
+    15,
+    16
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-clovera",
+   "imagens": 18,
+   "caixa": 2,
+   "pos_caixa": [
+    1,
+    6
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-lucent",
+   "imagens": 14,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    4,
+    11
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-dante",
+   "imagens": 18,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    6,
+    8
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-milano-carbon",
+   "imagens": 25,
+   "caixa": 2,
+   "pos_caixa": [
+    1,
+    17
+   ],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "imagens": 25,
+   "caixa": 1,
+   "pos_caixa": [
+    8
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "titan",
+   "imagens": 17,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    6
+   ]
+  },
+  {
+   "handle": "pellorini-maretti",
+   "imagens": 17,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    5,
+    10
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-opulent",
+   "imagens": 17,
+   "caixa": 3,
+   "pos_caixa": [
+    1,
+    4,
+    5
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-milano",
+   "imagens": 18,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "pellorini-dominante",
+   "imagens": 15,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "vittorio",
+   "imagens": 16,
+   "caixa": 1,
+   "pos_caixa": [
+    1
+   ],
+   "mostrador_close": 1,
+   "pos_mostrador": [
+    2
+   ]
+  },
+  {
+   "handle": "dg",
+   "imagens": 6,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "cordless-stick-vacuum-with-touch-screen",
+   "imagens": 6,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  },
+  {
+   "handle": "rapi-addon-366ef1126b8a17509d690c91f86bc6cd",
+   "imagens": 1,
+   "caixa": 0,
+   "pos_caixa": [],
+   "mostrador_close": 0,
+   "pos_mostrador": []
+  }
+ ],
+ "caixa": [
+  {
+   "handle": "pellorini-veloce",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A6211.jpg"
+  },
+  {
+   "handle": "pellorini-argento",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A6455.jpg"
+  },
+  {
+   "handle": "pellorini-venti",
+   "pos": 2,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A6484.jpg"
+  },
+  {
+   "handle": "pellorini-forte",
+   "pos": 2,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A6428.jpg"
+  },
+  {
+   "handle": "pellorini-lucent",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_1_61b34828-7dc2-4660-979f-c94c1d5a4d99.webp"
+  },
+  {
+   "handle": "pellorini-lucent",
+   "pos": 4,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_2_d3eb03d3-3245-4332-8b22-8fc9b62182cf.webp"
+  },
+  {
+   "handle": "pellorini-lucent",
+   "pos": 11,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_5_e0b53c30-8dc8-4a92-9d0f-6b00cb0f42b6.webp"
+  },
+  {
+   "handle": "pellorini-dante",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_5_0c50344d-d831-44f7-9698-b42487199cc3.webp"
+  },
+  {
+   "handle": "pellorini-dante",
+   "pos": 6,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_3_8b6d5a52-7b04-442b-929a-1dd7711ff7d7.webp"
+  },
+  {
+   "handle": "pellorini-dante",
+   "pos": 8,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_4_5f25a59f-bdd6-4876-a8fb-f38c4d92892b.webp"
+  },
+  {
+   "handle": "titan",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_4_3c9b3b72-e2d0-4624-9d26-a640d44062df.webp"
+  },
+  {
+   "handle": "pellorini-maretti",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Maretti_4.webp"
+  },
+  {
+   "handle": "pellorini-maretti",
+   "pos": 5,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Maretti_2.webp"
+  },
+  {
+   "handle": "pellorini-maretti",
+   "pos": 10,
+   "tipo": "verde-agua",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Maretti_5.webp"
+  },
+  {
+   "handle": "pellorini-opulent",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Opulent_4.webp"
+  },
+  {
+   "handle": "pellorini-opulent",
+   "pos": 4,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Opulent_5.webp"
+  },
+  {
+   "handle": "pellorini-opulent",
+   "pos": 5,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Opulent_3.webp"
+  },
+  {
+   "handle": "pellorini-milano",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Milano_4.webp"
+  },
+  {
+   "handle": "pellorini-dominante",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dominante_2.webp"
+  },
+  {
+   "handle": "vittorio",
+   "pos": 1,
+   "tipo": "verde-agua",
+   "ja_feita": true,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Vittorio_a537750c-07ee-4158-b91e-f9aed29f5257.webp"
+  },
+  {
+   "handle": "pellorini-bellissima",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/bellissima.webp"
+  },
+  {
+   "handle": "pellorini-aurora",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/aurora.webp"
+  },
+  {
+   "handle": "pellorini-perla",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/perla.webp"
+  },
+  {
+   "handle": "pellorini-aria",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/aria.webp"
+  },
+  {
+   "handle": "pellorini-gemma",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/gemma.webp"
+  },
+  {
+   "handle": "pellorini-carina",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/carina.webp"
+  },
+  {
+   "handle": "pellorini-valentina",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/valentina.webp"
+  },
+  {
+   "handle": "pellorini-livia",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/livia.webp"
+  },
+  {
+   "handle": "pellorini-grazia",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Grazia.webp"
+  },
+  {
+   "handle": "pellorini-grazia",
+   "pos": 2,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Grazia_5.webp"
+  },
+  {
+   "handle": "pellorini-grazia",
+   "pos": 3,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Grazia_3.webp"
+  },
+  {
+   "handle": "pellorini-valore",
+   "pos": 2,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A5894.jpg"
+  },
+  {
+   "handle": "pellorini-fiorella",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/fiorella.webp"
+  },
+  {
+   "handle": "pellorini-luna-perla",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/LunaPerla.webp"
+  },
+  {
+   "handle": "pellorini-lunetta",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/lunetta.webp"
+  },
+  {
+   "handle": "pellorini-serpina",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/serpina_0d29a5fe-9973-404a-96ba-0aaa34417ff9.webp"
+  },
+  {
+   "handle": "pellorini-serafina",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/serafina.webp"
+  },
+  {
+   "handle": "pellorini-clovera",
+   "pos": 1,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A9269_done.webp"
+  },
+  {
+   "handle": "pellorini-clovera",
+   "pos": 6,
+   "tipo": "caramelo",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Clovera.webp"
+  },
+  {
+   "handle": "pellorini-marcello",
+   "pos": 2,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Marcello_3.webp"
+  },
+  {
+   "handle": "pellorini-cristallo",
+   "pos": 2,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_3_46452435-68ad-427d-86d4-cba3ee2cd03e.webp"
+  },
+  {
+   "handle": "pellorini-cristallo",
+   "pos": 3,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_1_2a6f1d6b-516d-461f-bf08-58e36893df48.webp"
+  },
+  {
+   "handle": "pellorini-dario",
+   "pos": 1,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dario_2.webp"
+  },
+  {
+   "handle": "pellorini-dario",
+   "pos": 3,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dario_3.webp"
+  },
+  {
+   "handle": "pellorini-roma",
+   "pos": 1,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Roma.webp"
+  },
+  {
+   "handle": "pellorini-roma",
+   "pos": 2,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Roma_4.webp"
+  },
+  {
+   "handle": "pellorini-roma",
+   "pos": 3,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Roma_3.webp"
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "pos": 1,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/MilanoIced_2.webp"
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "pos": 2,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/MilanoIced_6.webp"
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "pos": 3,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/MilanoIced_3.webp"
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "pos": 16,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/MilanoIced_4.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 1,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 2,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_8.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 3,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_2.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 14,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_4.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 15,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_5.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 16,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_7.webp"
+  },
+  {
+   "handle": "pellorini-milano-carbon",
+   "pos": 1,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A5914.jpg"
+  },
+  {
+   "handle": "pellorini-milano-carbon",
+   "pos": 17,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A5936.jpg"
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "pos": 8,
+   "tipo": "vermelha",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_4.webp"
+  },
+  {
+   "handle": "pellorini-silk-cleaning-cloth",
+   "pos": 0,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copyof3_20260510_105208_0002.webp",
+   "obs": "pano verde-água com assinatura Pelvini (o próprio produto)"
+  },
+  {
+   "handle": "pellorini-silk-cleaning-cloth",
+   "pos": 1,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copyof1_20260510_105208_0000.webp",
+   "obs": "pano verde-água com assinatura Pelvini (o próprio produto)"
+  },
+  {
+   "handle": "pellorini-silk-cleaning-cloth",
+   "pos": 2,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copyof4_20260510_105208_0003.webp",
+   "obs": "pano verde-água com assinatura Pelvini (o próprio produto)"
+  },
+  {
+   "handle": "premium-pellorini-box",
+   "pos": 0,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Adsiz_tasarim_5_f2736efb-19c5-4e6b-91e8-c08f404cd16a.png",
+   "obs": "caixa verde-escura PELVINI (o próprio produto)"
+  },
+  {
+   "handle": "premium-pellorini-box",
+   "pos": 1,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Adsiz_tasarim_4_ecc5ca2a-993b-49e6-a602-8299d1374a08.png",
+   "obs": "caixa verde-escura PELVINI (o próprio produto)"
+  },
+  {
+   "handle": "pellorini-parchment-gift-bag",
+   "pos": 0,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/parchement-bag.png",
+   "obs": "saco de presente verde com assinatura Pelvini (o próprio produto)"
+  },
+  {
+   "handle": "pellorini-parchment-gift-bag",
+   "pos": 1,
+   "tipo": "outra",
+   "ja_feita": false,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/bag2.png",
+   "obs": "saco de presente verde com assinatura Pelvini (o próprio produto)"
+  }
+ ],
+ "mostrador_close": [
+  {
+   "handle": "celeste",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_CELESTE.webp"
+  },
+  {
+   "handle": "pellorini-nocturne",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_94.png"
+  },
+  {
+   "handle": "pellorini-nocturne",
+   "pos": 4,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_93.png"
+  },
+  {
+   "handle": "vortex",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_208_95190ad2-b505-4e19-b886-70b4049acb41.webp"
+  },
+  {
+   "handle": "pellorini-caelus",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_CAELUS.webp"
+  },
+  {
+   "handle": "pellorini-astro",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_ASTRO.webp"
+  },
+  {
+   "handle": "pellorini-bellagio",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_BILLAGIO.webp"
+  },
+  {
+   "handle": "pellorini-aureo",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_AUREO.png"
+  },
+  {
+   "handle": "pellorini-portofina",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_PORTOFINA.webp"
+  },
+  {
+   "handle": "pellorini-lucent",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_LUCENT.png"
+  },
+  {
+   "handle": "pellorini-dante",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_DANTE.webp"
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_ABITO.webp"
+  },
+  {
+   "handle": "titan",
+   "pos": 6,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_TITAN.webp"
+  },
+  {
+   "handle": "pellorini-maretti",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_MARETTI.webp"
+  },
+  {
+   "handle": "pellorini-opulent",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_OPULENT.webp"
+  },
+  {
+   "handle": "pellorini-milano",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_MILANO.webp"
+  },
+  {
+   "handle": "pellorini-dominante",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_DOMINANTE.png"
+  },
+  {
+   "handle": "vittorio",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_VITTORIO.webp"
+  }
+ ],
+ "fundo_ou_fecho_gravado_info": [
+  {
+   "handle": "pellorini-valore",
+   "pos": 3,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_182_a9f30d2b-4ea6-4efe-ad9b-af090c2e3237.webp"
+  },
+  {
+   "handle": "vortex",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_180.webp"
+  },
+  {
+   "handle": "titan",
+   "pos": 10,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_16_f436a16d-185c-4e2b-8d5d-520b52cc8995.webp"
+  },
+  {
+   "handle": "pellorini-dominante",
+   "pos": 5,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_37_7a6544e3-a453-4084-839c-477997248aee.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 5,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/PELVINI_9ac89bc5-36a3-4473-b1ec-d030bee5a56a.png"
+  }
+ ],
+ "caixa_sem_marca_legivel_info": [
+  {
+   "handle": "pellorini-marcello",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Marcello_2.webp"
+  },
+  {
+   "handle": "pellorini-cristallo",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_2_f9654657-b414-4cea-83b9-acc04ad5b36c.webp"
+  },
+  {
+   "handle": "pellorini-dario",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dario_4.webp"
+  },
+  {
+   "handle": "pellorini-dario",
+   "pos": 4,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dario.webp"
+  },
+  {
+   "handle": "pellorini-roma",
+   "pos": 4,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Roma_2.webp"
+  },
+  {
+   "handle": "pellorini-milano-iced",
+   "pos": 14,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/MilanoIced_5.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 11,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_6.webp"
+  },
+  {
+   "handle": "pellorini-napoli",
+   "pos": 13,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli_3.webp"
+  },
+  {
+   "handle": "pellorini-serpina",
+   "pos": 2,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/0L3A8930done.webp"
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "pos": 1,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_6.webp"
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "pos": 13,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_5.webp"
+  },
+  {
+   "handle": "pellorini-abito-limited-edition",
+   "pos": 14,
+   "url": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/1_3.webp"
+  }
+ ]
+}

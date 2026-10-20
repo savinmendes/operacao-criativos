@@ -1,0 +1,25 @@
+{
+ "arquivo": "VAR 26 - G6-DISCULPA x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 309.03,
+ "mb": 38.8,
+ "whisper_gancho": "Tengo que pedir perdón en público. Durante meses no conté la verdad de lo que me pasó. Ya no me lo guardo más. Llegué",
+ "whisper_emenda": "de lo que me pasó. Ya no me lo guardo más. Llegué a casa, me mire en el espejo y por fin entendí porque durante nuestro complicado",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  2.233333,
+  3.766667,
+  5.966667,
+  6.833333,
+  9.233333
+ ],
+ "cortes_plan": [
+  2.233,
+  3.767,
+  5.967,
+  6.867
+ ],
+ "silencios": [],
+ "ok": true
+}

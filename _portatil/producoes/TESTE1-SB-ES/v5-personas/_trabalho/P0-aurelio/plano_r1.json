@@ -1,0 +1,172 @@
+{
+ "segs": [
+  {
+   "id": "ABERTURA",
+   "tipo": "abertura",
+   "video": "takes/abertura.mov",
+   "json": "voz/abertura.json",
+   "u0": 0.0,
+   "u1": 10.466666666666667,
+   "narr": [
+    [
+     "REPORTERA (en PiP)",
+     "Imágenes impactantes: un vendedor fue humillado en plena calle… por su fe.",
+     0.03
+    ],
+    [
+     "(acción)",
+     "el agresor arranca el crucifijo del carrito, lo tira al suelo y barre salsas y vasos (cámara lenta 0–4,6 s)",
+     0.0
+    ],
+    [
+     "AGRESOR",
+     "¿No crees en Dios? ¡Entonces llámalo ahora!",
+     4.83
+    ],
+    [
+     "DON AURELIO",
+     "Señor, yo no hice nada. Pare, por el amor de Dios.",
+     8.01
+    ]
+   ]
+  },
+  {
+   "id": "MAOS",
+   "tipo": "mudo",
+   "video": "takes/maos.mp4",
+   "ss": 0.3,
+   "dur": 3.0,
+   "cx": 0.25,
+   "desc": "don Aurelio junta el crucifijo del suelo (manos), música triste"
+  },
+  {
+   "id": "B04",
+   "tipo": "mudo",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\takes\\k_b04.mp4",
+   "ss": 0.0,
+   "dur": 2.2,
+   "desc": "carrito vacío"
+  },
+  {
+   "id": "B05",
+   "tipo": "mudo",
+   "video": "C:\\Users\\PICHAU\\Downloads\\TESTE1-SB-ES\\v3\\_trabalho\\abertura_v2\\takes\\k_b05.mp4",
+   "ss": 0.0,
+   "dur": 2.2,
+   "desc": "cinco clientes en el carrito, la música cambia a esperanza"
+  },
+  {
+   "id": "B06",
+   "tipo": "mudo",
+   "video": "takes/b06_fila.mp4",
+   "ss": 0.4,
+   "dur": 2.6,
+   "desc": "fila llena en el carrito"
+  },
+  {
+   "id": "R01",
+   "tipo": "fala",
+   "video": "takes/hg_R01.mp4",
+   "audio": "voz/R01.wav",
+   "json": "voz/R01.json",
+   "nome": "REPORTERA",
+   "texto": "Al día siguiente, el carrito de don Aurelio tenía la fila más larga de toda la calle.",
+   "zoom": 1.0,
+   "cy": 0.12
+  },
+  {
+   "id": "A1",
+   "tipo": "fala",
+   "video": "takes/hg_A1.mp4",
+   "audio": "voz/A1.wav",
+   "json": "voz/A1.json",
+   "nome": "DON AURELIO",
+   "texto": "Esa noche llegué a casa y no le pude mirar la cara a mi nieto. Llevaba meses vendiendo cada vez menos… y pensé que Dios se había olvidado de mí.",
+   "zoom": 1.0,
+   "cy": 0.0
+  },
+  {
+   "id": "A2a",
+   "tipo": "fala",
+   "video": "takes/hg_A2a.mp4",
+   "audio": "voz/A2a.wav",
+   "json": "voz/A2a.json",
+   "nome": "DON AURELIO (rostro + b-roll de noche)",
+   "texto": "Un vecino me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña.",
+   "zoom": 1.12,
+   "cy": 0.06,
+   "cobre": [
+    [
+     1.46,
+     6.38,
+     "takes/noche.mp4",
+     0.0
+    ]
+   ],
+   "cx": 0.75
+  },
+  {
+   "id": "A2b",
+   "tipo": "fala",
+   "video": "takes/hg_A2b.mp4",
+   "audio": "voz/A2b.wav",
+   "json": "voz/A2b.json",
+   "nome": "DON AURELIO",
+   "texto": "A las siete de la mañana ya tenía gente esperando.",
+   "zoom": 1.0,
+   "cy": 0.0
+  },
+  {
+   "id": "P1",
+   "tipo": "fala",
+   "video": "takes/hg_P1.mp4",
+   "audio": "voz/P1.wav",
+   "json": "voz/P1.json",
+   "nome": "DON AURELIO",
+   "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche.",
+   "zoom": 1.12,
+   "cy": 0.06,
+   "cx": 0.75
+  },
+  {
+   "id": "P2",
+   "tipo": "fala",
+   "video": "takes/hg_P2.mp4",
+   "audio": "voz/P2.wav",
+   "json": "voz/P2.json",
+   "nome": "DON AURELIO",
+   "texto": "Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito…",
+   "zoom": 1.0,
+   "cy": 0.0
+  },
+  {
+   "id": "P3",
+   "tipo": "fala",
+   "video": "takes/hg_P3.mp4",
+   "audio": "voz/P3.wav",
+   "json": "voz/P3.json",
+   "nome": "DON AURELIO",
+   "texto": "y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?",
+   "zoom": 1.12,
+   "cy": 0.06,
+   "cx": 0.75
+  },
+  {
+   "id": "R02",
+   "tipo": "fala",
+   "video": "takes/hg_R02.mp4",
+   "audio": "voz/R02.wav",
+   "json": "voz/R02.json",
+   "nome": "REPORTERA (CTA, flechas TOCA «VER MÁS» hasta el final)",
+   "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo.",
+   "zoom": 1.0,
+   "cy": 0.12,
+   "cta": true
+  }
+ ],
+ "trilha": {
+  "triste_de": "MAOS",
+  "esperanca_de": "B05",
+  "ate": "R01"
+ }
+}

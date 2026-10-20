@@ -1,0 +1,100 @@
+{
+"texto": "Mi hijo me mandó la transmisión del padre Juan Méndez. La hice esa misma noche, como él enseña.",
+"voz": "sJYGLUA6m2su09XOMEb8",
+"est": 0.45,
+"estilo": 0.3,
+"vel": 1.12,
+"dur": 5.486,
+"palavras": [
+{
+"w": "Mi",
+"ini": 0.058,
+"fim": 0.186
+},
+{
+"w": "hijo",
+"ini": 0.232,
+"fim": 0.383
+},
+{
+"w": "me",
+"ini": 0.43,
+"fim": 0.511
+},
+{
+"w": "mandó",
+"ini": 0.557,
+"fim": 0.789
+},
+{
+"w": "la",
+"ini": 0.836,
+"fim": 0.917
+},
+{
+"w": "transmisión",
+"ini": 0.964,
+"fim": 1.498
+},
+{
+"w": "del",
+"ini": 1.533,
+"fim": 1.649
+},
+{
+"w": "padre",
+"ini": 1.718,
+"fim": 1.997
+},
+{
+"w": "Juan",
+"ini": 2.032,
+"fim": 2.206
+},
+{
+"w": "Méndez.",
+"ini": 2.252,
+"fim": 2.752
+},
+{
+"w": "La",
+"ini": 3.002,
+"fim": 3.106
+},
+{
+"w": "hice",
+"ini": 3.153,
+"fim": 3.339
+},
+{
+"w": "esa",
+"ini": 3.373,
+"fim": 3.524
+},
+{
+"w": "misma",
+"ini": 3.571,
+"fim": 3.803
+},
+{
+"w": "noche,",
+"ini": 3.849,
+"fim": 4.291
+},
+{
+"w": "como",
+"ini": 4.476,
+"fim": 4.697
+},
+{
+"w": "él",
+"ini": 4.72,
+"fim": 4.79
+},
+{
+"w": "enseña.",
+"ini": 4.848,
+"fim": 5.359
+}
+]
+}

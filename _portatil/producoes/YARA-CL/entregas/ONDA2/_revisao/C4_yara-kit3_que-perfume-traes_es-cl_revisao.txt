@@ -1,0 +1,22 @@
+REVISÃO: C4_yara-kit3_que-perfume-traes_es-cl.mp4
+duração 16.73s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 5.2 MB
+decodificação: OK
+pts do áudio: 783 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 2 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 640-693, x 537-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\ONDA2\_revisao\C4_yara-kit3_que-perfume-traes_es-cl_revisao.jpg
+idioma detectado: es (0.96)
+
+=== transcrição (es) ===
+   0.00-  3.04 Oye, ¿qué perfume traes?
+   3.04-  4.80 Huele demasiado rico.
+   4.80-  8.80 Son árabes, tengo tres, uno para cada día.
+   8.80- 13.40 Los pedí por Black Friday, pagué dos y me llegaron tres.
+  13.40- 16.60 Pagas al recibir y el envío es gratis, pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

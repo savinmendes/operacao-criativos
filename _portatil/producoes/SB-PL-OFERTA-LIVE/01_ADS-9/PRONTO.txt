@@ -1,0 +1,4 @@
+SB-PL-ADS-9 pronto em 16/10/2026.
+SB-PL-ADS-9.mp4 — 102,87 s, 720x1280, 30 fps. Voz ElevenLabs "Jesus The Chosen" (eleven_multilingual_v2, whisper pl 0,99), 11 jobs HeyGen speed (todos aprovados, índice de pausa do conjunto 0,24; pior trecho ls_00 0,55).
+Revisão: revisar_ad.py (whisper pl, proibidos, pts, silêncio) OK + revisor independente (legenda/setas tiradas do 1o quadro da live).
+Imperfeições menores: boca levemente entreaberta em 2 pausas curtas (3,9 s e 52,5 s), sem retoque (regra).

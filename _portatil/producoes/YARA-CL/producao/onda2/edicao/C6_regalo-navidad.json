@@ -1,0 +1,51 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C6_yara-kit3_regalo-navidad_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": {
+  "png": "../onda2/overlays/titulo_C6.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "broll"
+ },
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C6_T1_reacao.mp4",
+   "tipo": "outro",
+   "de": 0.0,
+   "ate": 2.14,
+   "audio": "../voz/C6_N_gancho.mp3"
+  },
+  {
+   "video": "../takes/C6_T1_reacao.mp4",
+   "tipo": "broll",
+   "de": 2.0,
+   "audio": "../voz/C6_N_corpo.mp3",
+   "audio_de": 0.0,
+   "audio_ate": 4.35
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C6_N_corpo.mp3",
+   "audio_de": 4.35,
+   "audio_ate": 9.33
+  }
+ ]
+}

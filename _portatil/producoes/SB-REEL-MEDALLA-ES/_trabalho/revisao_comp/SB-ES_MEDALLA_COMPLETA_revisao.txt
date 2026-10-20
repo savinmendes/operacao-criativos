@@ -1,0 +1,12 @@
+REVISÃO: SB-ES_MEDALLA_COMPLETA.mp4
+duração 61.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 27.5 MB
+decodificação: OK
+pts do áudio: 2889 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\revisao_comp\SB-ES_MEDALLA_COMPLETA_revisao.jpg
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

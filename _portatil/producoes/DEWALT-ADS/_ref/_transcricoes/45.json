@@ -1,0 +1,22 @@
+{
+ "arquivo": "45 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.21,
+   "fim": 7.63,
+   "texto": "Furadeira para Fuzadeira deu out 20V com duas baterias, 340A, você vai encontrar na Riala"
+  },
+  {
+   "ini": 7.63,
+   "fim": 13.63,
+   "texto": "Centro de Campos Avenida Rui Barbosa 1035, venha a conhecer nossa loja, já segue, compartilha"
+  },
+  {
+   "ini": 13.63,
+   "fim": 15.53,
+   "texto": "nossa página de GTOC e boas compras."
+  }
+ ]
+}

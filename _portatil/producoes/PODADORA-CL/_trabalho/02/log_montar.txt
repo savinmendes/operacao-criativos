@@ -1,0 +1,7 @@
+arquivo : C:\Users\PICHAU\Downloads\PODADORA-CL\AD 02 - PODADORA-INALAMBRICA-PERRO-ES-CL.mp4
+duração : 66.80s | 720x1280 | áudio: sim | 27.5 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\PODADORA-CL\AD 02 - PODADORA-INALAMBRICA-PERRO-ES-CL_frames.jpg
+RESULTADO: OK
+CTA em 61.66s
+montagem rápida: 32s para 67s de vídeo (0.48x)

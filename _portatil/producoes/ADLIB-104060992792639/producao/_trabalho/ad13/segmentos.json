@@ -1,0 +1,161 @@
+{
+  "base": "base_sem_legenda.mp4",
+  "fps": 30,
+  "resolucao": "720x1280",
+  "duracao": 120.433,
+  "segmentos": [
+    {
+      "arquivo": "seg_j1.mp4",
+      "personagem": "jesus",
+      "ini": 0.0,
+      "fim": 6.6,
+      "dur": 6.6,
+      "quadro_ini": 0,
+      "quadro_fim": 197
+    },
+    {
+      "arquivo": "seg_w01.mp4",
+      "personagem": "mulher",
+      "ini": 7.033,
+      "fim": 15.167,
+      "dur": 8.133,
+      "quadro_ini": 211,
+      "quadro_fim": 454
+    },
+    {
+      "arquivo": "seg_w02.mp4",
+      "personagem": "mulher",
+      "ini": 15.167,
+      "fim": 23.067,
+      "dur": 7.9,
+      "quadro_ini": 455,
+      "quadro_fim": 691
+    },
+    {
+      "arquivo": "seg_w03.mp4",
+      "personagem": "mulher",
+      "ini": 23.067,
+      "fim": 29.1,
+      "dur": 6.033,
+      "quadro_ini": 692,
+      "quadro_fim": 872
+    },
+    {
+      "arquivo": "seg_w04.mp4",
+      "personagem": "mulher",
+      "ini": 33.433,
+      "fim": 43.567,
+      "dur": 10.133,
+      "quadro_ini": 1003,
+      "quadro_fim": 1306
+    },
+    {
+      "arquivo": "seg_w05.mp4",
+      "personagem": "mulher",
+      "ini": 47.133,
+      "fim": 53.0,
+      "dur": 5.867,
+      "quadro_ini": 1414,
+      "quadro_fim": 1589
+    },
+    {
+      "arquivo": "seg_w06.mp4",
+      "personagem": "mulher",
+      "ini": 53.0,
+      "fim": 59.8,
+      "dur": 6.8,
+      "quadro_ini": 1590,
+      "quadro_fim": 1793
+    },
+    {
+      "arquivo": "seg_w07.mp4",
+      "personagem": "mulher",
+      "ini": 63.633,
+      "fim": 67.1,
+      "dur": 3.467,
+      "quadro_ini": 1909,
+      "quadro_fim": 2012
+    },
+    {
+      "arquivo": "seg_w08.mp4",
+      "personagem": "mulher",
+      "ini": 67.1,
+      "fim": 76.167,
+      "dur": 9.067,
+      "quadro_ini": 2013,
+      "quadro_fim": 2284
+    },
+    {
+      "arquivo": "seg_w09.mp4",
+      "personagem": "mulher",
+      "ini": 76.167,
+      "fim": 83.9,
+      "dur": 7.733,
+      "quadro_ini": 2285,
+      "quadro_fim": 2516
+    },
+    {
+      "arquivo": "seg_w10.mp4",
+      "personagem": "mulher",
+      "ini": 88.9,
+      "fim": 98.3,
+      "dur": 9.4,
+      "quadro_ini": 2667,
+      "quadro_fim": 2948
+    },
+    {
+      "arquivo": "seg_w11.mp4",
+      "personagem": "mulher",
+      "ini": 98.3,
+      "fim": 106.4,
+      "dur": 8.1,
+      "quadro_ini": 2949,
+      "quadro_fim": 3191
+    },
+    {
+      "arquivo": "seg_w12.mp4",
+      "personagem": "mulher",
+      "ini": 106.4,
+      "fim": 116.0,
+      "dur": 9.6,
+      "quadro_ini": 3192,
+      "quadro_fim": 3479
+    },
+    {
+      "arquivo": "seg_w13.mp4",
+      "personagem": "mulher",
+      "ini": 116.0,
+      "fim": 120.0,
+      "dur": 4.0,
+      "quadro_ini": 3480,
+      "quadro_fim": 3599
+    }
+  ],
+  "fora_do_lipsync": [
+    {
+      "ini": 6.6,
+      "fim": 7.033,
+      "o_que": "transicao com glitch (Jesus -> mulher)"
+    },
+    {
+      "ini": 29.1,
+      "fim": 33.433,
+      "o_que": "b-roll da corda/no"
+    },
+    {
+      "ini": 43.567,
+      "fim": 47.133,
+      "o_que": "b-roll mulher na mesa"
+    },
+    {
+      "ini": 59.8,
+      "fim": 63.633,
+      "o_que": "b-roll esteira"
+    },
+    {
+      "ini": 83.9,
+      "fim": 88.9,
+      "o_que": "quarto com crucifixo (substitui a cena com pessoa parecida com apresentadora de TV)"
+    }
+  ]
+}

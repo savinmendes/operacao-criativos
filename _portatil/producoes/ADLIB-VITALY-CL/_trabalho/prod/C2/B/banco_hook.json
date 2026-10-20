@@ -1,0 +1,41 @@
+{
+ "video": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\AD 24 - LYMPHORIA-HOMBRE-40-ES-LATAM.mp4",
+ "tomadas": [
+  {
+   "ini": 90.6,
+   "fim": 93.85,
+   "dur": 3.25,
+   "grupo": 0
+  },
+  {
+   "ini": 77.5,
+   "fim": 80.35,
+   "dur": 2.85,
+   "grupo": 1
+  },
+  {
+   "ini": 80.4,
+   "fim": 82.75,
+   "dur": 2.35,
+   "grupo": 2
+  },
+  {
+   "ini": 87.35,
+   "fim": 90.45,
+   "dur": 3.1,
+   "grupo": 3
+  },
+  {
+   "ini": 60.8,
+   "fim": 63.75,
+   "dur": 2.95,
+   "grupo": 4
+  },
+  {
+   "ini": 51.75,
+   "fim": 55.5,
+   "dur": 3.75,
+   "grupo": 5
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+REVISÃO: DW7781_TR37_fundo-original.mp4
+duração 76.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 19.4 MB
+decodificação: OK
+pts do áudio: 3573 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 75.40-76.20
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_TR37_fundo-original_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  4.64 Hola maestros, hoy les voy a presentar el kit de taladro percutor y atornillador inalámbrico
+   4.64-  8.80 The Walt, de 20V Max con baterías de Ion de Litio.
+   8.80- 11.20 Vamos a verlo.
+  11.20- 16.76 Trae cargador, dos baterías de 2 amperes, hora y una maleta para guardar y llevar todo.
+  16.76- 20.92 Tiene mandril de ajuste rápido de media pulgada, 13 milímetros.
+  20.92- 25.16 Así cambias brocas y puntas en segundos, sin necesidad de usar llave.
+  25.16- 27.36 Es compacto y bien liviano en la mano.
+  27.36- 33.04 con motor sin carbones, brushless, tiene dos velocidades mecánicas con gatillo variable y
+  33.04- 40.04 reversa. En la segunda velocidad llega hasta 1,750 revoluciones por minuto para perforar rápido.
+  40.04- 45.48 Su anillo tiene 15 posiciones de torque para apretar justo cada tornillo sin dañar el material.
+  46.68- 53.36 Y cada batería tiene su indicador de carga incorporado. Con él puedes perforar sin ningún
+  53.36- 59.52 problema en distintos tipos de madera y también en metal para fierros y estructuras y en muro o
+  59.52- 65.96 concreto usando el modo percutor. Tiene luz led para trabajar en lugares oscuros, ideal para atornillar,
+  65.96- 70.72 armar muebles, estructuras metálicas y para la mantención de la casa o de la obra.
+  70.72- 75.12 Pre Black Friday, pídelo hoy y pagas recién cuando te llegue.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

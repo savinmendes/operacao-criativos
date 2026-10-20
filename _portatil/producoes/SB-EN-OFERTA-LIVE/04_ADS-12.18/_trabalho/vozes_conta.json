@@ -1,0 +1,2576 @@
+[
+{
+"id": "CwhRBWXzGAHq8TQ4Fs17",
+"name": "Roger - Laid-Back, Casual, Resonant",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "EXAVITQu4vr4xnSDxMaL",
+"name": "Sarah - Mature, Reassuring, Confident",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "professional",
+"language": "en",
+"use_case": "entertainment_tv",
+"accent": "american"
+}
+},
+{
+"id": "FGY2WhTYpPnrIDTdsKH5",
+"name": "Laura - Enthusiast, Quirky Attitude",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "sassy",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+}
+},
+{
+"id": "IKne3meq5aSn9XLyUdCD",
+"name": "Charlie - Deep, Confident, Energetic",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "hyped",
+"language": "en",
+"use_case": "conversational",
+"accent": "australian"
+}
+},
+{
+"id": "JBFqnCBsd6RMkjVDRZzb",
+"name": "George - Warm, Captivating Storyteller",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "mature",
+"language": "en",
+"use_case": "narrative_story",
+"accent": "british"
+}
+},
+{
+"id": "N2lVS1w4EtoT3dr4eOWO",
+"name": "Callum - Husky Trickster",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"language": "en",
+"use_case": "characters_animation",
+"accent": "american"
+}
+},
+{
+"id": "SAz9YHcvj6GT2YYXdXww",
+"name": "River - Relaxed, Neutral, Informative",
+"labels": {
+"gender": "neutral",
+"age": "middle_aged",
+"descriptive": "calm",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "SOYHLrjzK2X1ezoPC6cr",
+"name": "Harry - Fierce Warrior",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "rough",
+"language": "en",
+"use_case": "characters_animation",
+"accent": "american"
+}
+},
+{
+"id": "TX3LPaxmHKxFdv7VOQHJ",
+"name": "Liam - Energetic, Social Media Creator",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "confident",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+}
+},
+{
+"id": "Xb7hH8MSUJpSbSDYk0k2",
+"name": "Alice - Clear, Engaging Educator",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "professional",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+}
+},
+{
+"id": "XrExE9yKIg1WjnnlVkGX",
+"name": "Matilda - Knowledgable, Professional",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "upbeat",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "american"
+}
+},
+{
+"id": "bIHbv24MWmeRgasZH58o",
+"name": "Will - Relaxed Optimist",
+"labels": {
+"gender": "male",
+"age": "young",
+"descriptive": "chill",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "cgSgspJ2msm6clMCkdW9",
+"name": "Jessica - Playful, Bright, Warm",
+"labels": {
+"gender": "female",
+"age": "young",
+"descriptive": "cute",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "cjVigY5qzO86Huf0OWal",
+"name": "Eric - Smooth, Trustworthy",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "hpp4J3VqNfWAUOO0d1Us",
+"name": "Bella - Professional, Bright, Warm",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "professional",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "american"
+}
+},
+{
+"id": "iP95p4xoKVk53GoZ742B",
+"name": "Chris - Charming, Down-to-Earth",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "casual",
+"language": "en",
+"use_case": "conversational",
+"accent": "american"
+}
+},
+{
+"id": "nPczCjzI2devNBz1zQrb",
+"name": "Brian - Deep, Resonant and Comforting",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "classy",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+}
+},
+{
+"id": "onwK4e9ZLuTAKqWW03F9",
+"name": "Daniel - Steady Broadcaster",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"descriptive": "formal",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+}
+},
+{
+"id": "pFZP5JQG7iQjIQuC4Bku",
+"name": "Lily - Velvety Actress",
+"labels": {
+"gender": "female",
+"age": "middle_aged",
+"descriptive": "confident",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british"
+}
+},
+{
+"id": "pNInz6obpgDQGcFmaJgB",
+"name": "Adam - Dominant, Firm",
+"labels": {
+"gender": "male",
+"age": "middle_aged",
+"language": "en",
+"use_case": "social_media",
+"accent": "american"
+}
+},
+{
+"id": "pqHfZKP75CvOlQylNhV4",
+"name": "Bill - Wise, Mature, Balanced",
+"labels": {
+"gender": "male",
+"age": "old",
+"descriptive": "crisp",
+"language": "en",
+"use_case": "advertisement",
+"accent": "american"
+}
+},
+{
+"id": "tnIDK75HyzryRabWonpL",
+"name": " DONA NEUSA 75 SP",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "oC03u0lZtYoBEuEwq7B0",
+"name": "AD02 narrador",
+"labels": {}
+},
+{
+"id": "3vVC1vE6mtyyjMC3YkRN",
+"name": "AD07 narrador",
+"labels": {}
+},
+{
+"id": "WovuHMgaNy2r7dM7STN7",
+"name": "AD09 narrador",
+"labels": {}
+},
+{
+"id": "XiWwL7ZBc4Jmx3qAX9gQ",
+"name": "Alex - expressive narrator",
+"labels": {
+"descriptive": "intense",
+"accent": "american",
+"gender": "male",
+"use_case": "narrative_story",
+"age": "young"
+}
+},
+{
+"id": "DdDws00ridJ4DntZhKlI",
+"name": "30 Reportagem",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "L241G4ojJ3IUGejgD27W",
+"name": "85+ TUDO DOI",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "vWXfbG8jJ2AiiYxxj3Ax",
+"name": "AD11 narrador",
+"labels": {}
+},
+{
+"id": "jKbwZXxLCZofPlbZNKNw",
+"name": "AD13 narrador",
+"labels": {}
+},
+{
+"id": "l1zE9xgNpUTaQCZzpNJa",
+"name": "Alberto Rodríguez - Serious, Narrative",
+"labels": {
+"descriptive": "casual",
+"accent": "latin american",
+"language": "es",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "RmDpU4kAq4V0Azz9b52u",
+"name": "AD14 narrador",
+"labels": {}
+},
+{
+"id": "i4Kar2uamCWyas8TAu31",
+"name": "Adán - Calm, Mystery",
+"labels": {
+"descriptive": "calm",
+"use_case": "narrative_story",
+"language": "es",
+"gender": "male",
+"age": "young",
+"accent": "latin american"
+}
+},
+{
+"id": "HVD2dHblkFaLh5Hy0HUJ",
+"name": "Albeiro Sandoval",
+"labels": {
+"descriptive": "casual",
+"gender": "male",
+"language": "es",
+"use_case": "conversational",
+"age": "middle_aged",
+"accent": "colombian"
+}
+},
+{
+"id": "V3r7h5Mp5G4iG0M1hQMS",
+"name": "AD19 narrador",
+"labels": {}
+},
+{
+"id": "6xnxeygeMfFgAqKpWy1A",
+"name": "Aiden - Deep, Breathy, Seductive",
+"labels": {
+"descriptive": "gentle",
+"accent": "latin american",
+"language": "es",
+"use_case": "narrative_story",
+"age": "young",
+"gender": "male"
+}
+},
+{
+"id": "sKgg4MPUDBy69X7iv3fA",
+"name": "Alejandro Duran - Warm, Deep and Hoarse",
+"labels": {
+"descriptive": "professional",
+"language": "es",
+"gender": "male",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"accent": "latin american"
+}
+},
+{
+"id": "4ll3PNf6Nng2ekCzxIL4",
+"name": "Amelia - smooth, sweet, captivating narrator",
+"labels": {
+"descriptive": "formal",
+"accent": "british",
+"gender": "female",
+"use_case": "narrative_story",
+"age": "middle_aged"
+}
+},
+{
+"id": "gP52hjM48hyNoVCbizxO",
+"name": "Alexandre - Calm, Warm & Authentic",
+"labels": {
+"descriptive": "calm",
+"gender": "male",
+"accent": "parisian",
+"use_case": "conversational",
+"age": "middle_aged",
+"language": "fr"
+}
+},
+{
+"id": "auTAgxuKRGwTsbs8ZkuN",
+"name": "Alexandre - Narration",
+"labels": {
+"descriptive": "confident",
+"language": "pt",
+"use_case": "narrative_story",
+"gender": "male",
+"age": "middle_aged",
+"accent": "brazilian"
+}
+},
+{
+"id": "N2HSRirbsHTZ8DE2WqjB",
+"name": "Arturo Casares - Smooth, Rich and Tender",
+"labels": {
+"descriptive": "mature",
+"use_case": "narrative_story",
+"accent": "latin american",
+"gender": "male",
+"age": "old",
+"language": "es"
+}
+},
+{
+"id": "SmgKjOvC1aIujLWcMzqq",
+"name": "Alisson — Voz cálida y natural con acento colombiano suave",
+"labels": {
+"descriptive": "casual",
+"gender": "female",
+"accent": "colombian",
+"use_case": "conversational",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "6Baa2TPYKxCms9zp5IoX",
+"name": "Audio VSL INFO COSTAS",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "prblQcKOdF08ozhxP2mk",
+"name": "Andrea Rabbit",
+"labels": {
+"descriptive": "calm",
+"gender": "female",
+"accent": "chilean",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "dQafQNlqLLJDepKplzjl",
+"name": "BRAULIO - Calm, Smooth, Brooding",
+"labels": {
+"descriptive": "calm",
+"accent": "latin american",
+"language": "es",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "PHNjiQZ95SnMQ7rDQsXz",
+"name": "Aurelio - Gentle and Tender",
+"labels": {
+"descriptive": "calm",
+"use_case": "informative_educational",
+"language": "es",
+"accent": "mexican",
+"age": "old",
+"gender": "male"
+}
+},
+{
+"id": "CAZxQxqYY9vEdQr6mE53",
+"name": "Audio rep Carticuri",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "cDHqwfqpNJIPMQs0M4c3",
+"name": "BARA",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "6q6UVsvekS0UjrUXFz79",
+"name": "Benedict - Premium British (RP) Male",
+"labels": {
+"descriptive": "confident",
+"language": "en",
+"use_case": "informative_educational",
+"accent": "british",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "aLfZD7taF67TDqarAq79",
+"name": "Carmen ED FEM",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "oJIuRMopN0sojGjwD6rQ",
+"name": "Camila - Español chileno",
+"labels": {
+"descriptive": "confident",
+"language": "es",
+"accent": "chilean",
+"use_case": "conversational",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "X91kq0xypSEbSMQwWKmf",
+"name": "Aurel - Super Realistic & Client Support",
+"labels": {
+"descriptive": "professional",
+"use_case": "conversational",
+"accent": "standard",
+"language": "fr",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "kPzsL2i3teMYv0FxEYQ6",
+"name": "Brittney - Social Media Voice - Fun, Youthful & Informative",
+"labels": {
+"descriptive": "upbeat",
+"accent": "american",
+"language": "en",
+"gender": "female",
+"age": "young",
+"use_case": "social_media"
+}
+},
+{
+"id": "uHo8F3FY11rc2LxCwDSB",
+"name": "Chilena",
+"labels": {
+"language": "es",
+"accent": "es-colombian",
+"gender": "female",
+"age": "young"
+}
+},
+{
+"id": "D3ws14YxTqcjPaXEOehR",
+"name": "Azu – Soft Mexican Spanish Female Narrator",
+"labels": {
+"descriptive": "mature",
+"use_case": "social_media",
+"accent": "mexican",
+"language": "es",
+"age": "old",
+"gender": "female"
+}
+},
+{
+"id": "vq479zipNPD44hpCdbIh",
+"name": "Atma - Warm, Expressive & Versatile",
+"labels": {
+"descriptive": "calm",
+"accent": "parisian",
+"language": "fr",
+"gender": "female",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "Om4SAFCLA5Ecbue3cvcc",
+"name": "Consultora Yara BF",
+"labels": {}
+},
+{
+"id": "9jd0hkEFS2KFCw19Rddp",
+"name": "Clel - Warm and Neural",
+"labels": {
+"descriptive": "calm",
+"accent": "geordie",
+"gender": "female",
+"language": "en",
+"age": "young",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "NEjemlRxgWmL5ZGJetsB",
+"name": "Claire - Conversationnel",
+"labels": {
+"descriptive": "casual",
+"accent": "standard",
+"use_case": "conversational",
+"language": "fr",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "8oRSDHKWkgA1zohzAAHn",
+"name": "Criativo 05",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "FysPGPl8HTOjTqXShYSR",
+"name": "Creuza, 58 — Recôncavo Baiano",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "Tog5ke1E7OaMcpw2WCk5",
+"name": "Creuza - Recôncavo Baiano",
+"labels": {
+"age_range": "55-60",
+"gender": "female",
+"region": "bahia"
+}
+},
+{
+"id": "6Gr4AVmTax1pMJO0lHRK",
+"name": "Catalina - Español Chileno",
+"labels": {
+"descriptive": "professional",
+"language": "es",
+"gender": "female",
+"accent": "chilean",
+"age": "young",
+"use_case": "conversational"
+}
+},
+{
+"id": "QuOMQsI7mfJXSCLhyVNd",
+"name": "Coroa Dorovil BR",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "FgZfF59PvtYIb1ZcysY1",
+"name": "DEWALT AD21 narradora",
+"labels": {}
+},
+{
+"id": "jr8CPks3Dkh7lJ7aRmnV",
+"name": "DANI UGC POADCAST SB",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "1CeqBeXMOqCleeQjfYfO",
+"name": "Cristina - Premium Spanish Female",
+"labels": {
+"descriptive": "professional",
+"accent": "peninsular",
+"use_case": "advertisement",
+"language": "es",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "3fxbs2pB9bs8S6Z1N38A",
+"name": "Céline | Chaleureuse et immersive",
+"labels": {
+"descriptive": "confident",
+"language": "fr",
+"use_case": "narrative_story",
+"gender": "female",
+"age": "middle_aged",
+"accent": "standard"
+}
+},
+{
+"id": "D1ohFwrSGA1WWSAB7HqF",
+"name": "DONA IRACEMA — 74 ANOS  MG",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "qKr1b0Suz42haFlTfgnQ",
+"name": "DONA IRACEMA — 74 MG T",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "Y4VgKTL3wogVll4ptg9R",
+"name": "DONA LURDES 74 - BAIXADA FLUMINENSE",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "aGSKUtsBUESN8lwpt9Zd",
+"name": "DEWALT AD37 narrador",
+"labels": {}
+},
+{
+"id": "IlvZL1ylCUSyCP1EAiAM",
+"name": "DEWALT AD41 narrador",
+"labels": {}
+},
+{
+"id": "K30xlzBx7r8q6rKkLEyi",
+"name": "DRENAGEM AD18 narrador",
+"labels": {}
+},
+{
+"id": "u2nMDMb5MLuxTjynCQJ7",
+"name": "DRENAGEM AD20 entrenador",
+"labels": {}
+},
+{
+"id": "BCCHRwYb332ahRN0gT7H",
+"name": "DRENAGEM AD05 narradora",
+"labels": {}
+},
+{
+"id": "tfFP4rfamffIqrVeBdL6",
+"name": "DRENAGEM AD01 narradora",
+"labels": {}
+},
+{
+"id": "rn2VXAqQiqTMocuRpBfC",
+"name": "Coroa 56 anos Latam Botox coreano",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "NUAtCZSTcJFHAM1PIX5u",
+"name": "DULCEIA",
+"labels": {}
+},
+{
+"id": "xYPon3lV4FsEOMk5vd1Y",
+"name": "DRENAGEM AD20 narrador",
+"labels": {}
+},
+{
+"id": "Hv5w94RZ3rshZu6xuFBE",
+"name": "Cristina - Customer Service",
+"labels": {
+"descriptive": "pleasant",
+"use_case": "conversational",
+"gender": "female",
+"language": "es",
+"age": "middle_aged",
+"accent": "latin american"
+}
+},
+{
+"id": "x7Q3zqDG9jz6G8aiQCio",
+"name": "DRENAGEM AD30 narradora",
+"labels": {}
+},
+{
+"id": "hjP5TDhJGEoXkmqWpdqs",
+"name": "DRENAGEM AD21 narradora",
+"labels": {}
+},
+{
+"id": "BPwS5yO6aXvwg8auqNwS",
+"name": "Damián - Deep, Rich and Resonant",
+"labels": {
+"descriptive": "deep",
+"use_case": "narrative_story",
+"accent": "latin american",
+"gender": "male",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "VhRqgQW6EDUC4kDgiuj1",
+"name": "DeWalt C2 casa (enxuto)",
+"labels": {}
+},
+{
+"id": "cIBxLwfshLYhRB9lCXEg",
+"name": "Carolina - Conversational, Balanced",
+"labels": {
+"descriptive": "professional",
+"accent": "latin american",
+"gender": "female",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "IUEkf483KpgC9tyWn70n",
+"name": "DRENAGEM AD25 narrador",
+"labels": {}
+},
+{
+"id": "5wTYWBvfkwjSTPtW7xFw",
+"name": "Dona RAIMUNDA, 66, PA",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "3ADZQUoqg3hWyEOlzpXW",
+"name": "David - British Professional",
+"labels": {
+"descriptive": "casual",
+"accent": "british",
+"language": "en",
+"use_case": "conversational",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "3xoDOiXdPdiRtuNouBvh",
+"name": "Doutora VSL",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "KelaCxL9RS4vBOZXXG8i",
+"name": "Dr Articuly",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "A06vlxk6nDfyiFCokszy",
+"name": "Dr Oftalmo Chile",
+"labels": {
+"accent": "en-american",
+"gender": "male",
+"language": "en",
+"age": "middle-aged"
+}
+},
+{
+"id": "Iq9IDbsAh0XiIAKtSuSg",
+"name": "Diego - Engaging, Ads, Confident",
+"labels": {
+"descriptive": "confident",
+"use_case": "advertisement",
+"gender": "male",
+"accent": "latin american",
+"age": "young",
+"language": "es"
+}
+},
+{
+"id": "HL1TBvvvWenhFvdfljcw",
+"name": "Dr Sebastian Chile",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "5qBMWyZj9vdMRyfDtJd6",
+"name": "ENZIMAS UK EN 01 mulher",
+"labels": {}
+},
+{
+"id": "WBrVsgRJbIDJhv90lRC8",
+"name": "ENZIMAS UK EN 04 creator",
+"labels": {}
+},
+{
+"id": "8tm9IYjg8ybDoxe8w6Rk",
+"name": "Daniela - Tender, Friendly and Youthful",
+"labels": {
+"descriptive": "cute",
+"use_case": "narrative_story",
+"gender": "female",
+"language": "es",
+"age": "young",
+"accent": "latin american"
+}
+},
+{
+"id": "eUAnqvLQWNX29twcYLUM",
+"name": "Dyego Noticias",
+"labels": {
+"descriptive": "anxious",
+"use_case": "informative_educational",
+"language": "pt",
+"gender": "male",
+"age": "middle_aged",
+"accent": "brazilian"
+}
+},
+{
+"id": "rnyHtBhQLcSaNXnn1yy9",
+"name": "ENZIMAS UK EN 02 creator",
+"labels": {}
+},
+{
+"id": "QuE2ojjpawaYQH7JLSPO",
+"name": "ENZIMAS UK EN 08 creator",
+"labels": {}
+},
+{
+"id": "lVyHshDR1NstCGJZhI0E",
+"name": "ENZIMAS UK EN 07 mulher",
+"labels": {}
+},
+{
+"id": "FrCDCQwye0euHmliGxP9",
+"name": "Edna - Warm, Motherly and Calm",
+"labels": {
+"descriptive": "pleasant",
+"accent": "brazilian",
+"use_case": "narrative_story",
+"gender": "female",
+"age": "old",
+"language": "pt"
+}
+},
+{
+"id": "JjHBC66wF58p4ogebCNA",
+"name": "Eduardo - Persuasive and Neutral",
+"labels": {
+"descriptive": "intense",
+"accent": "latin american",
+"language": "es",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "advertisement"
+}
+},
+{
+"id": "q2XMPZ6icuVDBj7rgCxQ",
+"name": "Eleguar - Deep, Warm and Natural",
+"labels": {
+"descriptive": "calm",
+"accent": "american",
+"gender": "male",
+"use_case": "social_media",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "Rl2JPHsuEWSfwCD4ZHIQ",
+"name": "El Faraon - Powerful and Mysterious",
+"labels": {
+"descriptive": "deep",
+"gender": "male",
+"accent": "latin american",
+"language": "es",
+"age": "old",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "MHPwHxLx0nmGIb5Jnbly",
+"name": "Empress - Smoky, Breathy, and Neutral",
+"labels": {
+"descriptive": "deep",
+"use_case": "narrative_story",
+"accent": "american",
+"language": "en",
+"age": "old",
+"gender": "female"
+}
+},
+{
+"id": "AXew9SdK5txhdj9zcREd",
+"name": "Ferrevolt vendedor DeWalt",
+"labels": {}
+},
+{
+"id": "GJid0jgRsqjUy21Avuex",
+"name": "Emma Smartplacement",
+"labels": {
+"descriptive": "professional",
+"gender": "female",
+"use_case": "conversational",
+"accent": "chilean",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "BskzYZ6zvapoZ3mBu93C",
+"name": "GRIMORIO V2 padre",
+"labels": {}
+},
+{
+"id": "hHjbwzYZW17oh0p05AKv",
+"name": "Gabriela - Spanish from Mexico Professional Voice",
+"labels": {
+"descriptive": "casual",
+"use_case": "narrative_story",
+"gender": "female",
+"language": "es",
+"age": "middle_aged",
+"accent": "mexican"
+}
+},
+{
+"id": "WPgqgCVa3mD38JuyODU6",
+"name": "Gabriel — Friendly Brazilian Ad Voice",
+"labels": {
+"descriptive": "confident",
+"accent": "brazilian",
+"language": "pt",
+"use_case": "advertisement",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "n4GNpJP6Y2Nd09pDtetA",
+"name": "Gaby - Cute & Shy",
+"labels": {
+"descriptive": "cute",
+"accent": "latin american",
+"language": "es",
+"use_case": "conversational",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "pEmpsQLW3HeOpC1qCbzH",
+"name": "Fabo  - Narrador de historias oscuras",
+"labels": {
+"descriptive": "deep",
+"accent": "latin american",
+"use_case": "narrative_story",
+"language": "es",
+"age": "old",
+"gender": "male"
+}
+},
+{
+"id": "a0MaQpDjx7p7bZmqzFp1",
+"name": "Gaby - Young Student",
+"labels": {
+"descriptive": "neutral",
+"accent": "latin american",
+"language": "es",
+"gender": "female",
+"age": "young",
+"use_case": "social_media"
+}
+},
+{
+"id": "aYQAm4rWuigkeuRA5i92",
+"name": "Grandma Aurora - Warm, Deep & Loving",
+"labels": {
+"descriptive": "pleasant",
+"accent": "latin american",
+"language": "es",
+"gender": "female",
+"age": "old",
+"use_case": "characters_animation"
+}
+},
+{
+"id": "EsbcEfYoTFrRNrRCVEHp",
+"name": "Gaucha SouthOfBrazil - Engaging/Trusting",
+"labels": {
+"descriptive": "confident",
+"language": "pt",
+"use_case": "conversational",
+"gender": "female",
+"age": "middle_aged",
+"accent": "brazilian"
+}
+},
+{
+"id": "EMuO6fFLrXKOryHzij6K",
+"name": "Grandma Clo – Warm Storyteller",
+"labels": {
+"descriptive": "gentle",
+"accent": "standard",
+"language": "fr",
+"use_case": "narrative_story",
+"age": "old",
+"gender": "female"
+}
+},
+{
+"id": "3HZyQcLKlT0a3RDeXVsP",
+"name": "Guillaume - Documentary and Storytelling",
+"labels": {
+"descriptive": "chill",
+"use_case": "social_media",
+"accent": "parisian",
+"gender": "male",
+"age": "middle_aged",
+"language": "fr"
+}
+},
+{
+"id": "YyqkX0AHv8W5D1vxG9lR",
+"name": "Hazel - Warm, Witty & Conversational Female Voice",
+"labels": {
+"descriptive": "casual",
+"language": "en",
+"use_case": "conversational",
+"accent": "american",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "59dhv4BKONM60oDSKECM",
+"name": "HenryD",
+"labels": {
+"descriptive": "calm",
+"gender": "male",
+"accent": "standard",
+"language": "fr",
+"age": "old",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "qUGCz1bYJNC8GvAxHEC8",
+"name": "Homem Espanhol Magnesio",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "CIYv40BTvkVocCRdR3gQ",
+"name": "Homem Espanhol Magnesio Original",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "U7PLDU8LfmZJJWlOX8gu",
+"name": "Homem info gluteo",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "Z9hTPAGOLzw3EDa4r5ka",
+"name": "IRACEMA 74 MG",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "aI9919Z6KR2NIkiqeIWg",
+"name": "IVÁN_OLIVARES",
+"labels": {
+"descriptive": "excited",
+"use_case": "informative_educational",
+"gender": "male",
+"accent": "chilean",
+"age": "old",
+"language": "es"
+}
+},
+{
+"id": "OkpgeWemYGUwpVrCrrCu",
+"name": "JESU ESPANHOL",
+"labels": {
+"accent": "pt-brazilian",
+"gender": "male",
+"language": "pt",
+"age": "middle-aged"
+}
+},
+{
+"id": "ZVmOp6LNUylpHACtxOug",
+"name": "Ivan Jimenez Garcia",
+"labels": {
+"descriptive": "mature",
+"language": "es",
+"use_case": "narrative_story",
+"gender": "male",
+"age": "middle_aged",
+"accent": "peninsular"
+}
+},
+{
+"id": "RILOU7YmBhvwJGDGjNmP",
+"name": "Jane - Professional Audiobook Reader",
+"labels": {
+"descriptive": "professional",
+"gender": "female",
+"accent": "british",
+"use_case": "narrative_story",
+"age": "old",
+"language": "en"
+}
+},
+{
+"id": "aaFolVhGWg7DJxhDSAed",
+"name": "JOSÉ CARLOS, 64, SP",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "a2NqrzzRklNWkb04aqW1",
+"name": "Hélène – A Warm French Documentary Voice",
+"labels": {
+"descriptive": "classy",
+"accent": "standard",
+"use_case": "narrative_story",
+"language": "fr",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "AkQxVSf1kENGmX9WjeDE",
+"name": "Jesus The Chosen ESPANHOL",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "mtzl3O00V1uHxyFod1DQ",
+"name": "Joanne - pensive, introspective, soft and lovely",
+"labels": {
+"descriptive": "pleasant",
+"accent": "american",
+"gender": "female",
+"use_case": "characters_animation",
+"age": "young"
+}
+},
+{
+"id": "aIu5oHglU5AHNc2x0AZu",
+"name": "Jane Hackett",
+"labels": {
+"descriptive": "confident",
+"use_case": "conversational",
+"gender": "female",
+"language": "en",
+"age": "old",
+"accent": "american"
+}
+},
+{
+"id": "lQFpy8cEH4bDaHre2DpA",
+"name": "JOSE",
+"labels": {
+"descriptive": "confident",
+"use_case": "narrative_story",
+"accent": "mexican",
+"gender": "male",
+"age": "middle_aged",
+"language": "es"
+}
+},
+{
+"id": "MDLAMJ0jxkpYkjXbmG4t",
+"name": "Jerry B - Jolly Santa Claus",
+"labels": {
+"descriptive": "pleasant",
+"gender": "male",
+"accent": "american",
+"language": "en",
+"age": "old",
+"use_case": "characters_animation"
+}
+},
+{
+"id": "2ioMMK3jFz5ZnzjgcjOr",
+"name": "Joncodebr",
+"labels": {
+"descriptive": "casual",
+"use_case": "narrative_story",
+"language": "pt",
+"accent": "brazilian",
+"age": "young",
+"gender": "male"
+}
+},
+{
+"id": "l1I1wznLWL4c2NiibumL",
+"name": "LYMPHORIA AD01 narradora",
+"labels": {}
+},
+{
+"id": "lLsDvdl6OjtZfLJPM2HA",
+"name": "Isa Pro - Warm & trusted, Contact Center",
+"labels": {
+"descriptive": "gentle",
+"language": "es",
+"gender": "female",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"accent": "chilean"
+}
+},
+{
+"id": "Lkf4mlW1rIqYRJQQF66Q",
+"name": "LYMPHORIA AD03 narrador",
+"labels": {}
+},
+{
+"id": "sM4f2a6lmttmqTug8V7W",
+"name": "Karly - Natural & Versatile Spanish",
+"labels": {
+"descriptive": "professional",
+"use_case": "social_media",
+"language": "es",
+"gender": "female",
+"age": "young",
+"accent": "colombian"
+}
+},
+{
+"id": "FNIhgYgEcJsdWbHRFiz6",
+"name": "LYMPHORIA AD04 narrador",
+"labels": {}
+},
+{
+"id": "yj30vwTGJxSHezdAGsv9",
+"name": "Jessa - Easygoing and Effortless",
+"labels": {
+"descriptive": "casual",
+"accent": "american",
+"use_case": "narrative_story",
+"language": "en",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "9u1x1R9twoyzbh4M3qGX",
+"name": "LYMPHORIA AD05 mascote",
+"labels": {}
+},
+{
+"id": "CSYfnnLP5Bhcl2ZoJxfJ",
+"name": "LYMPHORIA AD06 narrador",
+"labels": {}
+},
+{
+"id": "XgKboIFsmuyzrgubdI8J",
+"name": "LYMPHORIA AD16 narrador",
+"labels": {}
+},
+{
+"id": "8xs8KilCLDcPG2dJEkc1",
+"name": "LYMPHORIA AD10 narradora",
+"labels": {}
+},
+{
+"id": "tobZrRc4tNgrL674jxom",
+"name": "LYMPHORIA AD21 narradora",
+"labels": {}
+},
+{
+"id": "oJ3IkiN67dqmGmx9XMBq",
+"name": "LYMPHORIA AD12 narrador",
+"labels": {}
+},
+{
+"id": "RibiE3aWOosJepHEdVvG",
+"name": "LYMPHORIA AD21 narradora v2",
+"labels": {}
+},
+{
+"id": "Bu4ixDQxWYLHNEiH4hhn",
+"name": "LYMPHORIA AD21 narradora v3",
+"labels": {}
+},
+{
+"id": "vPDGWwhUG61kSty95yA6",
+"name": "LYMPHORIA AD22 narrador",
+"labels": {}
+},
+{
+"id": "Su8gBKRqNV3hbcg6U1g6",
+"name": "LYMPHORIA AD23 narrador supermercado",
+"labels": {}
+},
+{
+"id": "rbBhGs2j1ghMxVvVT1FV",
+"name": "LYMPHORIA AD24 narradora",
+"labels": {}
+},
+{
+"id": "yfUfwZTRubVrsUZWqzwp",
+"name": "Lina - Colombian Warm & Confident",
+"labels": {
+"descriptive": "pleasant",
+"accent": "colombian",
+"language": "es",
+"gender": "female",
+"age": "young",
+"use_case": "social_media"
+}
+},
+{
+"id": "FM3ChNOHGKKULNhmx5m2",
+"name": "Lola Jaén | Warm & Expressive Spanish Voice | 18 Languages",
+"labels": {
+"descriptive": "gentle",
+"use_case": "conversational",
+"language": "es",
+"gender": "female",
+"age": "middle_aged",
+"accent": "peninsular"
+}
+},
+{
+"id": "7UEcc2wDVftk45UjyB46",
+"name": "Louis",
+"labels": {
+"descriptive": "confident",
+"gender": "male",
+"accent": "colombian",
+"language": "es",
+"age": "middle_aged",
+"use_case": "conversational"
+}
+},
+{
+"id": "cOHUo8FosWk7BqQhx8nk",
+"name": "Leo -  Narration, Commercial, & Social Media",
+"labels": {
+"descriptive": "confident",
+"use_case": "narrative_story",
+"language": "en",
+"accent": "american",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "EMGk4qRFrRTnkdPoTzu3",
+"name": "Luciana - Relaxed and Approachable",
+"labels": {
+"descriptive": "casual",
+"use_case": "conversational",
+"gender": "female",
+"accent": "brazilian",
+"age": "middle_aged",
+"language": "pt"
+}
+},
+{
+"id": "D7veSz4mUoXEHTJ4BiI7",
+"name": "MOPA X5 narradora 07",
+"labels": {}
+},
+{
+"id": "O7yBra2v5jyiQoDuDLW8",
+"name": "MOPA X5 narradora 25",
+"labels": {}
+},
+{
+"id": "G8cAfhSwImuQFtP8slqP",
+"name": "MOPA X5 narradora 16",
+"labels": {}
+},
+{
+"id": "GnAzF1UybYKv51msoOSw",
+"name": "MOPA X5 narradora 24",
+"labels": {}
+},
+{
+"id": "gm4qx4lkjb5aDUefAhv1",
+"name": "MOPA X5 narradora 31",
+"labels": {}
+},
+{
+"id": "nYtqTfEhQQHcqjdJFvBT",
+"name": "Marcus - authoritative and deep",
+"labels": {
+"descriptive": "confident",
+"accent": "american",
+"gender": "male",
+"use_case": "narrative_story",
+"age": "middle_aged"
+}
+},
+{
+"id": "WYQBc1mMAXi4M7WH0923",
+"name": "M Palmeira 55+",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "efcRUax7uSa9kpBwtDPe",
+"name": "Luisa - Narradora de Cuentos",
+"labels": {
+"descriptive": "deep",
+"use_case": "narrative_story",
+"gender": "female",
+"accent": "latin american",
+"age": "old",
+"language": "es"
+}
+},
+{
+"id": "86V9x9hrQds83qf7zaGn",
+"name": "Marcela - Youthful, Smooth and Natural",
+"labels": {
+"descriptive": "relaxed",
+"use_case": "conversational",
+"gender": "female",
+"language": "es",
+"age": "young",
+"accent": "colombian"
+}
+},
+{
+"id": "SVgp5d1fyFQRW1eQbwkq",
+"name": "Lucas — Male, Informative Voice",
+"labels": {
+"descriptive": "calm",
+"accent": "brazilian",
+"language": "pt",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "ZuuXsIgssLuaZ8Slz3yX",
+"name": "Luis-voz natural- latina-Chile",
+"labels": {
+"descriptive": "casual",
+"gender": "male",
+"accent": "chilean",
+"language": "es",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "HRi5Prm2B3PevwpDmVLP",
+"name": "María Blanco | Warm Expressive Versatile",
+"labels": {
+"descriptive": "pleasant",
+"language": "es",
+"gender": "female",
+"accent": "colombian",
+"age": "old",
+"use_case": "conversational"
+}
+},
+{
+"id": "3H55HGnNE1XjYxigHSAS",
+"name": "Marcus K - Calm Documentary Narrator",
+"labels": {
+"descriptive": "calm",
+"gender": "male",
+"use_case": "narrative_story",
+"accent": "american",
+"age": "middle_aged",
+"language": "en"
+}
+},
+{
+"id": "7cXofkJEHlC1QSjDpbRp",
+"name": "Marisa - Interior de Minas Gerais",
+"labels": {
+"age_range": "60-65",
+"gender": "female",
+"region": "minas_gerais"
+}
+},
+{
+"id": "RYwYAMtz8rLFuJjJzBlO",
+"name": "Mulher BakingSoda",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "taCaB2AztdNJ5HzAHXNL",
+"name": "NAJI",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "YHcCpa6SBWnKDaCPZJQR",
+"name": "Mora - Gritty and Enigmatic",
+"labels": {
+"descriptive": "raspy",
+"accent": "american",
+"use_case": "characters_animation",
+"gender": "female",
+"age": "old",
+"language": "en"
+}
+},
+{
+"id": "TES2Z4FdTbwd5F5uHmLW",
+"name": "Jérôme - Narrateur FR Podcast Réflexif",
+"labels": {
+"descriptive": "meditative",
+"gender": "male",
+"use_case": "narrative_story",
+"accent": "standard",
+"age": "middle_aged",
+"language": "fr"
+}
+},
+{
+"id": "QPsyytGOW0cYgBZeUznj",
+"name": "Mulher Romenia Hook3 Glucomax",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "b0Ev8lcOOXx2o9ZcF46H",
+"name": "Martin - Deep and Conversational",
+"labels": {
+"descriptive": "deep",
+"language": "fr",
+"accent": "standard",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "conversational"
+}
+},
+{
+"id": "RLuVFsprvn3JW4wwadpw",
+"name": "Marisa - MG Interior 55",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "zc26CwL0XKvypk91UDMj",
+"name": "NEUSA 75 SP TESTE2",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "OXOrMUhizM8W8hel51RL",
+"name": "NEUSA 75 SP TESTE 3",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "eptbh5KQei9tCWyAUN37",
+"name": "Nadia - Educational & Documentary",
+"labels": {
+"descriptive": "cute",
+"language": "en",
+"gender": "female",
+"accent": "british",
+"age": "middle_aged",
+"use_case": "informative_educational"
+}
+},
+{
+"id": "DGLPA5FOERyfW8Y8qRGx",
+"name": "Najw MULHER 50-60 UGC SAN BENITO",
+"labels": {
+"accent": "es-peninsular",
+"language": "es"
+}
+},
+{
+"id": "am5XuPVtut7uKJQKMja2",
+"name": "Mike L - Soft, Clear and Charming",
+"labels": {
+"descriptive": "casual",
+"use_case": "informative_educational",
+"accent": "standard",
+"language": "ro",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "57ACTpYW4xKp2f1On3ve",
+"name": "Natasha - Valley girl",
+"labels": {
+"descriptive": "sassy",
+"accent": "american",
+"gender": "female",
+"use_case": "social_media",
+"age": "young"
+}
+},
+{
+"id": "xIzR6egd3S3LJZbVW0c1",
+"name": "Nana Margaret - Little Old Lady",
+"labels": {
+"descriptive": "calm",
+"gender": "female",
+"accent": "american",
+"language": "en",
+"age": "old",
+"use_case": "conversational"
+}
+},
+{
+"id": "Atp5cNFg1Wj5gyKD7HWV",
+"name": "Natasha - Gentle Meditation ",
+"labels": {
+"descriptive": "whispery",
+"gender": "female",
+"accent": "american",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"language": "en"
+}
+},
+{
+"id": "30Bu3NdpCkBMOF2yyBwC",
+"name": "Natasha - Upset, Clear and Serious",
+"labels": {
+"descriptive": "confident",
+"use_case": "narrative_story",
+"accent": "american",
+"language": "en",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "Lj8IZtgwUEYQogpRD9Is",
+"name": "Mulher Romenia Hook4 Glucomax",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "ErqTI1A8XA0CK8tS4IH7",
+"name": "ORACAO-02 mulher shopping",
+"labels": {}
+},
+{
+"id": "y3QZXBVdGkWBnlHwEtgG",
+"name": "Nestor - Deep Calm Narrator",
+"labels": {
+"descriptive": "calm",
+"language": "es",
+"gender": "male",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"accent": "peninsular"
+}
+},
+{
+"id": "5p4THmLc2S6kXKO1pOM5",
+"name": "Nayara Técia - PVC",
+"labels": {
+"descriptive": "confident",
+"gender": "female",
+"language": "pt",
+"accent": "brazilian",
+"age": "young",
+"use_case": "conversational"
+}
+},
+{
+"id": "kCx3Qoh3lfILbbTZftSq",
+"name": "Natasha - Sultry Velvety Magnetic Versatile ",
+"labels": {
+"descriptive": "crisp",
+"use_case": "narrative_story",
+"accent": "american",
+"gender": "female",
+"age": "middle_aged",
+"language": "en"
+}
+},
+{
+"id": "rS7c1woNY04WT3UAS83Y",
+"name": "Nathalie - Calm French Storyteller",
+"labels": {
+"descriptive": "calm",
+"accent": "standard",
+"language": "fr",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "VnTxD2iQGtERWlKJ85BB",
+"name": "Medico Romeno",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "5JUCUUmKATtNYJaNlP0n",
+"name": "ORACAO-03 padre",
+"labels": {}
+},
+{
+"id": "84WxgdFrdm1LAdwbQFZR",
+"name": "ORACAO-05 Clara (esposa)",
+"labels": {}
+},
+{
+"id": "VtWz85Bf8UfJlJLifFE3",
+"name": "ORACAO-11 menina",
+"labels": {}
+},
+{
+"id": "lRnvtIq1W0SQIeABr1I4",
+"name": "ORACAO-13 jesus",
+"labels": {}
+},
+{
+"id": "WEXcMUyDslMuxfm2EwsK",
+"name": "NEUSA SP TESTE 3",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "UNDKAyEJ2rTv99l7gCy5",
+"name": "ORACAO-11 mulher",
+"labels": {}
+},
+{
+"id": "Fn4faHoDwi31tC6L06Fl",
+"name": "ORACAO-05 marido",
+"labels": {}
+},
+{
+"id": "tTQzD8U9VSnJgfwC6HbY",
+"name": "Nathalia",
+"labels": {
+"descriptive": "casual",
+"accent": "latin american",
+"language": "es",
+"gender": "female",
+"age": "young",
+"use_case": "social_media"
+}
+},
+{
+"id": "ZsipxX9wNYg2lJhEScWc",
+"name": "ORACAO-13 mulher",
+"labels": {}
+},
+{
+"id": "acdKA5HckGxoxxvy40dA",
+"name": "Nassif - Documentary, History & Thriller",
+"labels": {
+"descriptive": "deep",
+"use_case": "narrative_story",
+"language": "pt",
+"accent": "brazilian",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "uabuzZ2qfzct54G73CqM",
+"name": "Oana Romena",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "DOLloAI0T9htJntu9yeB",
+"name": "Opr VSL",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "XbA48uS2hMZ9plGF5NZC",
+"name": "PADRE JUAN",
+"labels": {
+"gender": "male",
+"language": "es",
+"accent": "es-latin-american",
+"age": "middle-aged"
+}
+},
+{
+"id": "sJYGLUA6m2su09XOMEb8",
+"name": "Oscar G - Calmada y Tranquila",
+"labels": {
+"descriptive": "deep",
+"accent": "colombian",
+"gender": "male",
+"language": "es",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "57OUoWWIdEbPrxk0T02A",
+"name": "PODADORA venc-B narradora",
+"labels": {}
+},
+{
+"id": "ABW47xCXNNaOhg24REDc",
+"name": "Owen – Documentary & Educational",
+"labels": {
+"descriptive": "pleasant",
+"gender": "male",
+"use_case": "informative_educational",
+"language": "en",
+"age": "middle_aged",
+"accent": "american"
+}
+},
+{
+"id": "jP6N6KfDjbkU2OFoSJkR",
+"name": "Padre VSL reales",
+"labels": {
+"accent": "es-latin-american",
+"gender": "male",
+"language": "es",
+"age": "middle-aged"
+}
+},
+{
+"id": "yr2h9pRTkHdt8R5TEU19",
+"name": "Padre jovem",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "etjtr87ptP3yIbzoCGWN",
+"name": "Papa",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "FMCfM4NZhcA3sXn9H8SA",
+"name": "Podadora narrador A",
+"labels": {}
+},
+{
+"id": "uRMRBo5iAU5ZXgoamM2P",
+"name": "Radar Cleide v3",
+"labels": {}
+},
+{
+"id": "FeLIlJxnnCAPT2tBSYRE",
+"name": "Radar Ana",
+"labels": {}
+},
+{
+"id": "jrlquqhVmSDi02eu2OFr",
+"name": "Raniy",
+"labels": {
+"descriptive": "neutral",
+"accent": "american",
+"gender": "female",
+"use_case": "advertisement",
+"age": "young"
+}
+},
+{
+"id": "BgvvJ0I0R4tg6uf8DolY",
+"name": "Podadora narrador B",
+"labels": {}
+},
+{
+"id": "Zkg9LlmGNlBWLgWjzTnu",
+"name": "Pa Gabriel espiritualidad",
+"labels": {
+"descriptive": "calm",
+"gender": "male",
+"language": "es",
+"use_case": "narrative_story",
+"age": "young",
+"accent": "colombian"
+}
+},
+{
+"id": "FzKkd6DTpa2Ai5STAdW1",
+"name": "Reporter 2 VSL",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "4RtjXIMKphSoiQAJoOh2",
+"name": "Padre terno",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "OyB9t957VxUtN0puqGPg",
+"name": "Paweł – Polish Nonfiction Narrator",
+"labels": {
+"descriptive": "calm",
+"gender": "male",
+"accent": "standard",
+"language": "pl",
+"age": "old",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "Ixq4yFnVsJRszbDmjPTx",
+"name": "Reporter VSL",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "l8XLzyPMdDP1v93xtf9h",
+"name": "Rosa - SP Interior 62",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "oUTKD5T3vmcWtIDkcnYK",
+"name": "Rodrigo Santoro",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "vaqy7xTyDShJDMsCQCNZ",
+"name": "Radar Rafa",
+"labels": {}
+},
+{
+"id": "Cpm6N9BNC1M75bYS7kO1",
+"name": "Richard - Dinámica y versátil",
+"labels": {
+"descriptive": "professional",
+"language": "es",
+"accent": "latin american",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "social_media"
+}
+},
+{
+"id": "ZFATFNuLuL8f12ywNZZs",
+"name": "SEU JOAQUIM — 67 ANOS  B",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "hiBf4cheHmE2J0anQGh8",
+"name": "SEU JOAQUIM — 67 ANOS ",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "RGymW84CSmfVugnA5tvA",
+"name": "Roberta - For Conversational",
+"labels": {
+"descriptive": "casual",
+"use_case": "conversational",
+"language": "pt",
+"accent": "brazilian",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "pWNYyKtBQDVSp22RQO8O",
+"name": "Sandra JN",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "wfTWLJ20rcMqvU8gIiAB",
+"name": "Salvatore - Conversations & Storyteller",
+"labels": {
+"descriptive": "neutral",
+"gender": "male",
+"language": "es",
+"accent": "latin american",
+"age": "old",
+"use_case": "conversational"
+}
+},
+{
+"id": "VXZKNah1ssrzM8c81OiY",
+"name": "Santiago - Gravelly and commanding",
+"labels": {
+"descriptive": "deep",
+"language": "es",
+"use_case": "characters_animation",
+"gender": "male",
+"age": "old",
+"accent": "latin american"
+}
+},
+{
+"id": "QGfpyFuk3rtPv4pRSQwp",
+"name": "Sara - Warm and Calm",
+"labels": {
+"descriptive": "classy",
+"gender": "female",
+"language": "fr",
+"use_case": "conversational",
+"age": "middle_aged",
+"accent": "parisian"
+}
+},
+{
+"id": "8nBBDfYxYXmDNaqTCxPH",
+"name": "Serban Popescu - Professional Narrator",
+"labels": {
+"descriptive": "confident",
+"language": "ro",
+"gender": "male",
+"accent": "standard",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "njW73tfmLMLBD5l6ok7U",
+"name": "Rosa, 62 anos, Interior de São Paulo",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "Mm1Y50AcdcwOuaZoyWDG",
+"name": "Teste",
+"labels": {
+"language": "pt",
+"accent": "pt-brazilian",
+"gender": "female"
+}
+},
+{
+"id": "KdpgHYgwgVb0UWdjhKmL",
+"name": "Trali",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "ODO4sbmD3pTjhgRVVRP6",
+"name": "Sara - Warm, Clear and Engaging",
+"labels": {
+"descriptive": "neutral",
+"accent": "latin american",
+"language": "es",
+"use_case": "conversational",
+"age": "young",
+"gender": "female"
+}
+},
+{
+"id": "SH5rTsQzlm6uv1YipARv",
+"name": "VITALY V26 narradora",
+"labels": {}
+},
+{
+"id": "y2Y5MeVPm6ZQXK64WUui",
+"name": "The Pharaoh  - Wisdom Bearer",
+"labels": {
+"descriptive": "calm",
+"language": "en",
+"gender": "male",
+"accent": "american",
+"age": "old",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "HqqY0SS9swdkN4CjlQG4",
+"name": "VITALY V12 narradora Mi Camino",
+"labels": {}
+},
+{
+"id": "eLDgbtnf2Ub9I9whr89p",
+"name": "VITALY V10 mujer 50",
+"labels": {}
+},
+{
+"id": "mAGD2RZLgAuLx9O3YXg4",
+"name": "VOVÔ ANTÔNIO, 67, RJ",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "3crfBmnxgwLLke46Idqn",
+"name": "VOZ BENTO",
+"labels": {}
+},
+{
+"id": "fGNkFPkHw6NbElS9HQsN",
+"name": "VSL PILATES BR",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "ArTYCGluU0cZhq1bF7Hp",
+"name": "VOZ DIVINA",
+"labels": {
+"accent": "es-latin-american",
+"gender": "male",
+"language": "es",
+"age": "middle-aged"
+}
+},
+{
+"id": "6d9vbtuUBzziDzgw9Wss",
+"name": "VOZ HUMANIZADA",
+"labels": {}
+},
+{
+"id": "CwXdg9Tt2BOyZ5iuqglu",
+"name": "VOZ HECTOR FABIO",
+"labels": {}
+},
+{
+"id": "7pPQukIImWPTYlkOqdKr",
+"name": "VSL info relacionamento",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "fz6aIR3AHRSSbVXIwarr",
+"name": "VSL tesla",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "xjlfQQ3ynqiEyRpArrT8",
+"name": "Vera - young and sensual",
+"labels": {
+"descriptive": "excited",
+"accent": "standard",
+"language": "hu",
+"gender": "female",
+"age": "middle_aged",
+"use_case": "advertisement"
+}
+},
+{
+"id": "wSs8c9kFDWX0X0ApjEga",
+"name": "Vitaly V09 creadora",
+"labels": {}
+},
+{
+"id": "ZUrGa8aGlTHMIBYRmZBm",
+"name": "Vovo Roça 85+",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "36ebqVN22ARm9Ockczzs",
+"name": "Vovó 70+ Mineira",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "80BSYnPfJdew4qey6gkW",
+"name": "Vestal - Calm & Grounded Male Narrator",
+"labels": {
+"descriptive": "confident",
+"use_case": "narrative_story",
+"language": "en",
+"accent": "american",
+"age": "middle_aged",
+"gender": "male"
+}
+},
+{
+"id": "XQe8h2jcH8oBMFF2v26b",
+"name": "Vovó 82 real",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "UGxrNfvCuZWqCmKaxFQf",
+"name": "VovÓ Mineira teste",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "t64UcMrEWjn4Mo6HmIbv",
+"name": "Vovó 82 anos",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "OxUqKsB2VdMWMq8fna3B",
+"name": "Vovó Lourders Mineira 70+",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "DNJ5GgriTanBIe9Cq33J",
+"name": "Vovó Mineira 65+",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "duJjlpX8aH9qSEDMYxeF",
+"name": "Voz 65+ Carticuri Dubladora",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "tjWJtEpk4Id8ZTF5ZxWr",
+"name": "Voz Fem Romenia 29/04",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "CdtlnT7EzJnIPWXds3E7",
+"name": "Voz FeminINa Romenia M1",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "IYdeV1pWlCfxMXHAURNv",
+"name": "Voz Elon Musk",
+"labels": {}
+},
+{
+"id": "HubqJpBCCpz0uGF1wbXC",
+"name": "Voz Feminina Romenia PF",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "McdgLJiBH2eVabvCkS46",
+"name": "Voz HOMEM IDOSO CartiCuri",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "RBxX28iu8YczBZouJvcD",
+"name": "Voz Locutora 60+ Carticuri",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "qSeXEcewz7tA0Q0qk9fH",
+"name": "Victoria - Warm, Trustworthy, and Relatable",
+"labels": {
+"descriptive": "professional",
+"use_case": "narrative_story",
+"accent": "american",
+"language": "en",
+"age": "middle_aged",
+"gender": "female"
+}
+},
+{
+"id": "K7Fk8K9jT6TYJpZlK8oL",
+"name": "Voz Veo3 Romenia",
+"labels": {
+"language": "ro"
+}
+},
+{
+"id": "eIZA6343HrgfmZa1CO39",
+"name": "Voz Original video12",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "BdhfYdjD1b8TF4Yf4mbW",
+"name": "Voz Locutora 60+ Carticuri 2",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "dJn2tztnHM4Ctx71ESIw",
+"name": "Voz Vovó 70+ CartiCuri",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "3N0G7TFE16l6ZZZVWJH3",
+"name": "Voz VSL Botox",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "rRnaqjOcmwaDmdf2AHjt",
+"name": "Voz espanhol para VSL",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "NzmImimfmv8AzldyHEEr",
+"name": "Voz espanhola feminina grossa",
+"labels": {
+"language": "es"
+}
+},
+{
+"id": "fSWPBlX4raOl4u1fVIPB",
+"name": "WILLIAM BORNER",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "tomkxGQGz4b1kE0EM722",
+"name": "WYZE 01-12 Mario animado",
+"labels": {
+"descriptive": "excited",
+"gender": "male",
+"use_case": "conversational",
+"accent": "latin american",
+"age": "young",
+"language": "es"
+}
+},
+{
+"id": "gWMqmxWXzsgLWLsVLbUa",
+"name": "Wagner Moura",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "h96v1HCJtcisNNeagp0R",
+"name": "Will - Grave Suspense",
+"labels": {
+"descriptive": "serious",
+"accent": "brazilian",
+"language": "pt",
+"gender": "male",
+"age": "middle_aged",
+"use_case": "narrative_story"
+}
+},
+{
+"id": "NDcVpQJv7Naa7ZKrqtEk",
+"name": "WYZE Gerardo",
+"labels": {
+"descriptive": "casual",
+"gender": "male",
+"language": "es",
+"accent": "latin american",
+"age": "middle_aged",
+"use_case": "conversational"
+}
+},
+{
+"id": "G4IAP30yc6c1gK0csDfu",
+"name": "WYZE 08-10-13 Juan Carlos upbeat",
+"labels": {
+"descriptive": "excited",
+"gender": "male",
+"use_case": "advertisement",
+"language": "es",
+"age": "middle_aged",
+"accent": "latin american"
+}
+},
+{
+"id": "BHLqq06mcM3GS54SV6yo",
+"name": "Yenisel",
+"labels": {
+"descriptive": "casual",
+"gender": "female",
+"language": "es",
+"use_case": "narrative_story",
+"age": "middle_aged",
+"accent": "cuban"
+}
+},
+{
+"id": "6n2wvUqtuawHxpfNKA2Q",
+"name": "audio dr articuly 1",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "hzivyA96xNM0ARBf0kpb",
+"name": "Vovo mineira teste",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "WoUyxldmJX19Gt0Kb3g9",
+"name": "voz vsl ingles",
+"labels": {
+"language": "en"
+}
+},
+{
+"id": "QGiPma5r94GQsA2OFYoU",
+"name": "anyelo 1",
+"labels": {
+"descriptive": "mature",
+"language": "es",
+"use_case": "social_media",
+"gender": "male",
+"age": "middle_aged",
+"accent": "colombian"
+}
+},
+{
+"id": "nm6ya51BbqymOzq2w9AG",
+"name": "reales",
+"labels": {
+"accent": "es-colombian",
+"language": "es",
+"gender": "female",
+"age": "middle-aged"
+}
+},
+{
+"id": "DEYxJ6xaEHaQTfmTZliX",
+"name": "teste vovo 85",
+"labels": {
+"language": "pt"
+}
+},
+{
+"id": "d97lOQ8DtbL5XXRLjYKw",
+"name": "teste vovo",
+"labels": {
+"language": "pt"
+}
+}
+]

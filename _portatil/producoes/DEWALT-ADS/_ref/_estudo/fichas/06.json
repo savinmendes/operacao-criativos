@@ -1,0 +1,24 @@
+{
+ "ad": "06",
+ "idioma": "pt-BR",
+ "origem": {"perfil": "@achadinhosttoopp (TikTok)", "tipo": "loja/afiliado de 'achadinhos' TikTok Shop; vídeo gerado por IA (apresentadora sintética)", "url": "https://www.tiktok.com/@achadinhosttoopp/video/7600433293825215762"},
+ "resolucao": "576x1024 (abaixo de 720p); trechos com tarjas pretas de reenquadramento",
+ "duracao_s": 23.0,
+ "cortes": {"n": 2, "ritmo": "3 planos longos (0-7,3 / 7,3-15 / 15-23) com movimento de câmera típico de vídeo IA"},
+ "formato": "avatar/apresentadora IA tipo vendedora em loja (talking head + oferta)",
+ "gancho": {"0_3s_visual": "mulher loira com uniforme preto/amarelo 'DEWALT' segurando furadeira amarela em close, loja ao fundo", "0_3s_fala": "Baixou o preço da parafusadeira e furadeira mais vendida aqui no TikTok Shop, essa daqui é 48V.", "0_3s_texto_tela": "nenhum"},
+ "corpo": [
+  {"t": "0-7.3", "bloco": "close: preço baixou, 48V, duas baterias"},
+  {"t": "7.3-15", "bloco": "bancada com bits e bateria: acessórios, LED, torques, velocidade 1 e 2, carregador bivolt"},
+  {"t": "15-23", "bloco": "plano médio com bateria '48V': 'por menos de 140 reais', 'clica no carrinho laranja'"}
+ ],
+ "cta": "'já clica no carrinho laranja' + botão 'Oorange cart' com logo DeWalt (erro de grafia)",
+ "texto_na_tela": "botão 'Oorange cart' no final; sem legendas",
+ "produto": {"modelo": "furadeira 'DeWalt 48V' - voltagem inexistente na linha DeWalt (réplica/genérico); bateria com texto de IA 'DEWALT BATTERIES'", "e_nosso_produto": false},
+ "rosto": {"tem": true, "tempo_aprox_s": "23 s (todo, rosto sintético)"},
+ "marca_dagua": "sem @ visível",
+ "audio": "voz feminina em português (provável TTS)",
+ "uso_para_nos": ["só referência de formato (vendedora uniformizada em loja, IA)", "descartar como material (produto falso 48V, uniforme imitando a marca, preço R$140)"],
+ "nota_cod_chile": 1,
+ "justificativa": "Vídeo IA de réplica '48V' com uniforme que imita funcionária DeWalt: risco de compliance/marca e não é o nosso produto. Útil só para saber que o feed está cheio de kits falsos baratos, o que reforça o ângulo 'original x pirata' para justificar CLP 179.990."
+}

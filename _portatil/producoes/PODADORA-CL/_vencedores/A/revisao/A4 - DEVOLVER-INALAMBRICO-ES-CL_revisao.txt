@@ -1,0 +1,47 @@
+REVISÃO: A4 - DEVOLVER-INALAMBRICO-ES-CL.mp4
+duração 50.50s | 720x1280 | 30/1 fps | áudio: sim | 25.0 MB
+decodificação: OK
+pts do áudio: 2366 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 49.72-50.50
+cortes de cena: 11 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 929-1075, x 156-563 | no último quadro: sim | faixa escura do rodapé: 1136-1194
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\A\revisao\A4 - DEVOLVER-INALAMBRICO-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.34 Nadie me creía que esto era inalámbrico.
+   3.34-  6.34 Quien inventó esto merece un aumento.
+   6.34-  9.88 Si todavía andas arrastrando un cortapasto pesado
+   9.88- 14.08 o peleando con esas desbrosadoras que se traban, mira esto.
+  14.08- 17.88 Es cortapasto, orilladora y bordeadora en uno.
+  17.88- 21.62 Y ojo, pesa unos 4,5 kilos y tiene ruedas.
+  21.62- 24.22 Así que la puedes usar con una sola mano.
+  24.22- 28.12 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  28.12- 31.12 Esta usa una cuchilla de metal reforzada.
+  31.12- 37.12 Es inalámbrica, trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  37.12- 41.12 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  41.12- 45.12 Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  45.12- 50.12 Toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  3.20    No one believed me, that this was inalambric.
+   3.20-  6.28    Whoever invented this deserves an increase.
+   6.28-  9.88    If you are still dragging a heavy pasta cutlery
+   9.88- 12.88    or fighting with those defibrillators that get stuck,
+  12.88- 14.04    look at this.
+  14.04- 15.32    It's pasta cutlery,
+  15.32- 17.84    orilladora and bordeadora in one.
+  17.84- 20.56    And watch out, it weighs about 4.5 kilos
+  20.56- 21.60    and has wheels,
+  21.60- 24.24    so you can use it with a single hand.
+  24.24- 28.12    Forget about those plastic threads that are cut every now and then.
+  28.12- 34.52    Esta usa una cuchilla de metal reforzada. Es inalámbrica. Trae dos baterías de 21 voltios
+  34.52- 40.84    y solo aprietas un botón y listo. Rápida, fácil y mucho más práctica de lo que imaginaba.
+  40.84- 46.44    Despacho gratis, pagas al recibir y tienes 90 días de garantía. Toca el botón de abajo
+  46.44- 50.28    y pide tu podadora inalámbrica de césped con ruedas.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

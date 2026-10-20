@@ -1,0 +1,505 @@
+{
+ "rotulo": "H3",
+ "cfg": "../volume/cfg_H3.json",
+ "titulo_ate": 1.35,
+ "cta_desde": 47.667,
+ "blocos_medidos": 52,
+ "blocos_texto_errado": 0,
+ "erro_medio_abs_ms": 80,
+ "erro_max_abs_ms": 382,
+ "pct_dentro_100ms": 67.3,
+ "erro_energia_max_abs_ms": 317,
+ "n_energia": 22,
+ "faladas_sem_legenda": [
+  [
+   "¡Liquidación",
+   1.704
+  ],
+  [
+   "por",
+   2.823
+  ],
+  [
+   "Black",
+   3.023
+  ],
+  [
+   "Llévate",
+   3.905
+  ],
+  [
+   "los",
+   4.346
+  ],
+  [
+   "tres",
+   4.587
+  ],
+  [
+   "Este",
+   11.507
+  ],
+  [
+   "es",
+   11.788
+  ],
+  [
+   "Yara:",
+   11.888
+  ]
+ ],
+ "quadros": {
+  "eventos_conferidos": 52,
+  "aparecem_no_quadro_esperado": 47,
+  "falhas": [
+   [
+    "MERCADO.",
+    6.87,
+    4,
+    1
+   ],
+   [
+    "ESTE ES YARA,",
+    11.23,
+    3,
+    3
+   ],
+   [
+    "LUMINOSO Y",
+    23.5,
+    120,
+    2
+   ],
+   [
+    "CITA.",
+    30.1,
+    0,
+    1
+   ],
+   [
+    "YARA ELIXIR,",
+    30.83,
+    5,
+    3
+   ]
+  ]
+ },
+ "linhas": [
+  {
+   "legenda": "TOTAL POR BLACK",
+   "leg_t": 2.4,
+   "palavra": "total",
+   "fala_t": 2.425,
+   "erro_ms": -25,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "FRIDAY!",
+   "leg_t": 3.2,
+   "palavra": "Friday!",
+   "fala_t": 3.324,
+   "erro_ms": -124,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "LLÉVATE LOS 3",
+   "leg_t": 3.767,
+   "palavra": "Llévate",
+   "fala_t": 3.905,
+   "erro_ms": -138,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "YARA MUY POR",
+   "leg_t": 4.767,
+   "palavra": "Yara",
+   "fala_t": 4.847,
+   "erro_ms": -80,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DEBAJO DEL",
+   "leg_t": 5.9,
+   "palavra": "debajo",
+   "fala_t": 5.909,
+   "erro_ms": -9,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PRECIO DEL",
+   "leg_t": 6.4,
+   "palavra": "precio",
+   "fala_t": 6.43,
+   "erro_ms": -30,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "MERCADO.",
+   "leg_t": 6.867,
+   "palavra": "mercado.",
+   "fala_t": 6.911,
+   "erro_ms": -44,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "HOY PAGAS 2",
+   "leg_t": 7.4,
+   "palavra": "Hoy",
+   "fala_t": 7.435,
+   "erro_ms": -35,
+   "erro_energia_ms": -23
+  },
+  {
+   "legenda": "Y EL TERCERO",
+   "leg_t": 8.267,
+   "palavra": "y",
+   "fala_t": 8.497,
+   "erro_ms": -230,
+   "erro_energia_ms": -197
+  },
+  {
+   "legenda": "TE LO LLEVAS",
+   "leg_t": 9.133,
+   "palavra": "te",
+   "fala_t": 9.139,
+   "erro_ms": -6,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "COMPLETAMENTE",
+   "leg_t": 9.667,
+   "palavra": "completamente",
+   "fala_t": 9.78,
+   "erro_ms": -113,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "GRATIS.",
+   "leg_t": 10.3,
+   "palavra": "gratis.",
+   "fala_t": 10.682,
+   "erro_ms": -382,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ESTE ES YARA,",
+   "leg_t": 11.233,
+   "palavra": "Este",
+   "fala_t": 11.507,
+   "erro_ms": -274,
+   "erro_energia_ms": -253
+  },
+  {
+   "legenda": "DULCE,",
+   "leg_t": 12.733,
+   "palavra": "dulce,",
+   "fala_t": 12.929,
+   "erro_ms": -196,
+   "erro_energia_ms": -143
+  },
+  {
+   "legenda": "CREMOSO Y MUY",
+   "leg_t": 13.867,
+   "palavra": "cremoso",
+   "fala_t": 13.811,
+   "erro_ms": 56,
+   "erro_energia_ms": 50
+  },
+  {
+   "legenda": "FEMENINO.",
+   "leg_t": 15.3,
+   "palavra": "femenino.",
+   "fala_t": 15.413,
+   "erro_ms": -113,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ORQUÍDEA,",
+   "leg_t": 16.3,
+   "palavra": "Orquídea,",
+   "fala_t": 16.347,
+   "erro_ms": -47,
+   "erro_energia_ms": 13
+  },
+  {
+   "legenda": "MANDARINA Y UN",
+   "leg_t": 16.967,
+   "palavra": "mandarina",
+   "fala_t": 16.949,
+   "erro_ms": 18,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "FONDO DE",
+   "leg_t": 17.833,
+   "palavra": "fondo",
+   "fala_t": 17.873,
+   "erro_ms": -40,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "VAINILLA Y",
+   "leg_t": 18.2,
+   "palavra": "vainilla",
+   "fala_t": 18.234,
+   "erro_ms": -34,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "ALMIZCLE,",
+   "leg_t": 18.867,
+   "palavra": "almizcle.",
+   "fala_t": 18.896,
+   "erro_ms": -29,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PERFECTO PARA EL",
+   "leg_t": 19.433,
+   "palavra": "Perfecto",
+   "fala_t": 19.438,
+   "erro_ms": -5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "DÍA A DÍA.",
+   "leg_t": 20.3,
+   "palavra": "día",
+   "fala_t": 20.301,
+   "erro_ms": -1,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "YARA MOI,",
+   "leg_t": 21.1,
+   "palavra": "Yara",
+   "fala_t": 21.11,
+   "erro_ms": -10,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "FLORAL,",
+   "leg_t": 22.367,
+   "palavra": "floral,",
+   "fala_t": 22.392,
+   "erro_ms": -25,
+   "erro_energia_ms": -73
+  },
+  {
+   "legenda": "LUMINOSO Y",
+   "leg_t": 23.5,
+   "palavra": "luminoso",
+   "fala_t": 23.474,
+   "erro_ms": 26,
+   "erro_energia_ms": 80
+  },
+  {
+   "legenda": "ELEGANTE,",
+   "leg_t": 24.767,
+   "palavra": "elegante.",
+   "fala_t": 24.796,
+   "erro_ms": -29,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "JAZMÍN Y",
+   "leg_t": 25.767,
+   "palavra": "Jazmín,",
+   "fala_t": 25.773,
+   "erro_ms": -6,
+   "erro_energia_ms": -7
+  },
+  {
+   "legenda": "DURAZNO,",
+   "leg_t": 26.5,
+   "palavra": "durazno,",
+   "fala_t": 26.495,
+   "erro_ms": 5,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "CON UN FONDO",
+   "leg_t": 27.167,
+   "palavra": "con",
+   "fala_t": 27.117,
+   "erro_ms": 50,
+   "erro_energia_ms": 43
+  },
+  {
+   "legenda": "CÁLIDO DE ÁMBAR",
+   "leg_t": 27.667,
+   "palavra": "cálido",
+   "fala_t": 27.779,
+   "erro_ms": -112,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "Y CARAMELO,",
+   "leg_t": 28.6,
+   "palavra": "y",
+   "fala_t": 28.622,
+   "erro_ms": -22,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "IDEAL PARA UNA",
+   "leg_t": 29.4,
+   "palavra": "Ideal",
+   "fala_t": 29.424,
+   "erro_ms": -24,
+   "erro_energia_ms": 27
+  },
+  {
+   "legenda": "CITA.",
+   "leg_t": 30.1,
+   "palavra": "cita.",
+   "fala_t": 30.227,
+   "erro_ms": -127,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "YARA ELIXIR,",
+   "leg_t": 30.833,
+   "palavra": "Yara",
+   "fala_t": 30.994,
+   "erro_ms": -161,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "EL MÁS INTENSO",
+   "leg_t": 32.633,
+   "palavra": "el",
+   "fala_t": 32.631,
+   "erro_ms": 2,
+   "erro_energia_ms": 37
+  },
+  {
+   "legenda": "DE LOS TRES.",
+   "leg_t": 33.8,
+   "palavra": "de",
+   "fala_t": 33.833,
+   "erro_ms": -33,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "FRUTILLA,",
+   "leg_t": 34.9,
+   "palavra": "Frutilla,",
+   "fala_t": 34.847,
+   "erro_ms": 53,
+   "erro_energia_ms": 43
+  },
+  {
+   "legenda": "GROSELLA NEGRA,",
+   "leg_t": 35.8,
+   "palavra": "grosella",
+   "fala_t": 35.81,
+   "erro_ms": -10,
+   "erro_energia_ms": 23
+  },
+  {
+   "legenda": "CARAMELO Y",
+   "leg_t": 37.067,
+   "palavra": "caramelo",
+   "fala_t": 37.033,
+   "erro_ms": 34,
+   "erro_energia_ms": 20
+  },
+  {
+   "legenda": "VAINILLA,",
+   "leg_t": 37.933,
+   "palavra": "vainilla.",
+   "fala_t": 37.976,
+   "erro_ms": -43,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PARA LA NOCHE",
+   "leg_t": 38.733,
+   "palavra": "Para",
+   "fala_t": 38.718,
+   "erro_ms": 15,
+   "erro_energia_ms": -3
+  },
+  {
+   "legenda": "CUANDO QUIERES",
+   "leg_t": 39.3,
+   "palavra": "cuando",
+   "fala_t": 39.5,
+   "erro_ms": -200,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "QUE SE NOTE",
+   "leg_t": 40.033,
+   "palavra": "que",
+   "fala_t": 40.182,
+   "erro_ms": -149,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "QUE LLEGASTE.",
+   "leg_t": 40.7,
+   "palavra": "que",
+   "fala_t": 40.844,
+   "erro_ms": -144,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PAGAS 2 Y",
+   "leg_t": 41.8,
+   "palavra": "Pagas",
+   "fala_t": 41.78,
+   "erro_ms": 20,
+   "erro_energia_ms": 0
+  },
+  {
+   "legenda": "TE LLEVAS LOS",
+   "leg_t": 42.733,
+   "palavra": "te",
+   "fala_t": 42.761,
+   "erro_ms": -28,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "TRES,",
+   "leg_t": 43.3,
+   "palavra": "tres.",
+   "fala_t": 43.402,
+   "erro_ms": -102,
+   "erro_energia_ms": null
+  },
+  {
+   "legenda": "PAGAS AL RECIBIR",
+   "leg_t": 43.967,
+   "palavra": "Pagas",
+   "fala_t": 44.003,
+   "erro_ms": -36,
+   "erro_energia_ms": -73
+  },
+  {
+   "legenda": "Y EL ENVÍO",
+   "leg_t": 44.933,
+   "palavra": "y",
+   "fala_t": 45.284,
+   "erro_ms": -351,
+   "erro_energia_ms": -317
+  },
+  {
+   "legenda": "ES GRATIS.",
+   "leg_t": 45.9,
+   "palavra": "es",
+   "fala_t": 46.165,
+   "erro_ms": -265,
+   "erro_energia_ms": -220
+  },
+  {
+   "legenda": "PIDE EL TUYO",
+   "leg_t": 47.267,
+   "palavra": "¡Pide",
+   "fala_t": 47.326,
+   "erro_ms": -59,
+   "erro_energia_ms": -73
+  }
+ ]
+}

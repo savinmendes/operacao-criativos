@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C9-RATON/CESPED-CL_C9_RATON.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C9-RATON/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C9-RATON/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C9-RATON/corpo.alinhamento.json", "y": 1590, "chaves": ["eso", "Suéltalo", "límite", "hijos", "probé", "uno", "ruedas", "mano", "metal", "hilos", "inalámbrica", "baterías", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "ESTO SALIÓ DE MI PASTO 🤢", "y": 1330, "ate": 3.85},
+  "cta": {"palavra": "toca", "y": 1700},
+  "resolucao": "720",
+  "limite_mb": 30
+}

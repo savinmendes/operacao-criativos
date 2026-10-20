@@ -1,0 +1,444 @@
+{
+ "id": "25",
+ "texto": "I can't believe I didn't get the H20X5 sooner. It's so lightweight and easy to move around. I can clean my floors, carpets, windows, and even garment all with just one device. It's completely chemical free. It uses the power of steam to cut through grime and sanitize every surface. Honestly, cleaning feels so much quicker and safer now. I'm obsessed.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 2.76,
+   "texto": "I can't believe I didn't get the H20X5 sooner.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "I",
+     "ini": 0.0,
+     "fim": 0.16,
+     "p": 0.9
+    },
+    {
+     "w": "can't",
+     "ini": 0.16,
+     "fim": 0.48,
+     "p": 0.99
+    },
+    {
+     "w": "believe",
+     "ini": 0.48,
+     "fim": 0.7,
+     "p": 1.0
+    },
+    {
+     "w": "I",
+     "ini": 0.7,
+     "fim": 0.86,
+     "p": 0.98
+    },
+    {
+     "w": "didn't",
+     "ini": 0.86,
+     "fim": 1.06,
+     "p": 1.0
+    },
+    {
+     "w": "get",
+     "ini": 1.06,
+     "fim": 1.22,
+     "p": 1.0
+    },
+    {
+     "w": "the",
+     "ini": 1.22,
+     "fim": 1.48,
+     "p": 0.99
+    },
+    {
+     "w": "H20X5",
+     "ini": 1.48,
+     "fim": 2.42,
+     "p": 0.81
+    },
+    {
+     "w": "sooner.",
+     "ini": 2.42,
+     "fim": 2.76,
+     "p": 0.98
+    }
+   ]
+  },
+  {
+   "ini": 3.3,
+   "fim": 5.26,
+   "texto": "It's so lightweight and easy to move around.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "It's",
+     "ini": 3.3,
+     "fim": 3.58,
+     "p": 0.99
+    },
+    {
+     "w": "so",
+     "ini": 3.58,
+     "fim": 3.8,
+     "p": 1.0
+    },
+    {
+     "w": "lightweight",
+     "ini": 3.8,
+     "fim": 4.16,
+     "p": 0.96
+    },
+    {
+     "w": "and",
+     "ini": 4.16,
+     "fim": 4.44,
+     "p": 0.98
+    },
+    {
+     "w": "easy",
+     "ini": 4.44,
+     "fim": 4.7,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 4.7,
+     "fim": 4.84,
+     "p": 1.0
+    },
+    {
+     "w": "move",
+     "ini": 4.84,
+     "fim": 4.96,
+     "p": 1.0
+    },
+    {
+     "w": "around.",
+     "ini": 4.96,
+     "fim": 5.26,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 5.58,
+   "fim": 7.44,
+   "texto": "I can clean my floors, carpets, windows,",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "I",
+     "ini": 5.58,
+     "fim": 5.76,
+     "p": 1.0
+    },
+    {
+     "w": "can",
+     "ini": 5.76,
+     "fim": 5.96,
+     "p": 1.0
+    },
+    {
+     "w": "clean",
+     "ini": 5.96,
+     "fim": 6.08,
+     "p": 1.0
+    },
+    {
+     "w": "my",
+     "ini": 6.08,
+     "fim": 6.3,
+     "p": 1.0
+    },
+    {
+     "w": "floors,",
+     "ini": 6.3,
+     "fim": 6.62,
+     "p": 0.99
+    },
+    {
+     "w": "carpets,",
+     "ini": 6.86,
+     "fim": 7.1,
+     "p": 0.99
+    },
+    {
+     "w": "windows,",
+     "ini": 7.24,
+     "fim": 7.44,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 7.62,
+   "fim": 9.74,
+   "texto": "and even garment all with just one device.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "and",
+     "ini": 7.62,
+     "fim": 7.8,
+     "p": 1.0
+    },
+    {
+     "w": "even",
+     "ini": 7.8,
+     "fim": 7.98,
+     "p": 1.0
+    },
+    {
+     "w": "garment",
+     "ini": 7.98,
+     "fim": 8.32,
+     "p": 0.99
+    },
+    {
+     "w": "all",
+     "ini": 8.32,
+     "fim": 8.66,
+     "p": 0.66
+    },
+    {
+     "w": "with",
+     "ini": 8.66,
+     "fim": 8.86,
+     "p": 1.0
+    },
+    {
+     "w": "just",
+     "ini": 8.86,
+     "fim": 9.16,
+     "p": 0.99
+    },
+    {
+     "w": "one",
+     "ini": 9.16,
+     "fim": 9.38,
+     "p": 0.99
+    },
+    {
+     "w": "device.",
+     "ini": 9.38,
+     "fim": 9.74,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 10.1,
+   "fim": 11.56,
+   "texto": "It's completely chemical free.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "It's",
+     "ini": 10.1,
+     "fim": 10.52,
+     "p": 1.0
+    },
+    {
+     "w": "completely",
+     "ini": 10.52,
+     "fim": 10.9,
+     "p": 1.0
+    },
+    {
+     "w": "chemical",
+     "ini": 10.9,
+     "fim": 11.24,
+     "p": 1.0
+    },
+    {
+     "w": "free.",
+     "ini": 11.24,
+     "fim": 11.56,
+     "p": 0.45
+    }
+   ]
+  },
+  {
+   "ini": 11.92,
+   "fim": 13.94,
+   "texto": "It uses the power of steam to cut through grime",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "It",
+     "ini": 11.92,
+     "fim": 12.1,
+     "p": 1.0
+    },
+    {
+     "w": "uses",
+     "ini": 12.1,
+     "fim": 12.32,
+     "p": 1.0
+    },
+    {
+     "w": "the",
+     "ini": 12.32,
+     "fim": 12.54,
+     "p": 1.0
+    },
+    {
+     "w": "power",
+     "ini": 12.54,
+     "fim": 12.7,
+     "p": 1.0
+    },
+    {
+     "w": "of",
+     "ini": 12.7,
+     "fim": 12.98,
+     "p": 1.0
+    },
+    {
+     "w": "steam",
+     "ini": 12.98,
+     "fim": 13.12,
+     "p": 1.0
+    },
+    {
+     "w": "to",
+     "ini": 13.12,
+     "fim": 13.34,
+     "p": 1.0
+    },
+    {
+     "w": "cut",
+     "ini": 13.34,
+     "fim": 13.46,
+     "p": 1.0
+    },
+    {
+     "w": "through",
+     "ini": 13.46,
+     "fim": 13.64,
+     "p": 1.0
+    },
+    {
+     "w": "grime",
+     "ini": 13.64,
+     "fim": 13.94,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 13.94,
+   "fim": 15.22,
+   "texto": "and sanitize every surface.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "and",
+     "ini": 13.94,
+     "fim": 14.18,
+     "p": 1.0
+    },
+    {
+     "w": "sanitize",
+     "ini": 14.18,
+     "fim": 14.62,
+     "p": 0.99
+    },
+    {
+     "w": "every",
+     "ini": 14.62,
+     "fim": 14.84,
+     "p": 1.0
+    },
+    {
+     "w": "surface.",
+     "ini": 14.84,
+     "fim": 15.22,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 15.74,
+   "fim": 18.06,
+   "texto": "Honestly, cleaning feels so much quicker and safer now.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "Honestly,",
+     "ini": 15.74,
+     "fim": 15.94,
+     "p": 1.0
+    },
+    {
+     "w": "cleaning",
+     "ini": 16.2,
+     "fim": 16.28,
+     "p": 1.0
+    },
+    {
+     "w": "feels",
+     "ini": 16.28,
+     "fim": 16.54,
+     "p": 0.99
+    },
+    {
+     "w": "so",
+     "ini": 16.54,
+     "fim": 16.82,
+     "p": 1.0
+    },
+    {
+     "w": "much",
+     "ini": 16.82,
+     "fim": 17.02,
+     "p": 1.0
+    },
+    {
+     "w": "quicker",
+     "ini": 17.02,
+     "fim": 17.22,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 17.22,
+     "fim": 17.52,
+     "p": 0.99
+    },
+    {
+     "w": "safer",
+     "ini": 17.52,
+     "fim": 17.74,
+     "p": 1.0
+    },
+    {
+     "w": "now.",
+     "ini": 17.74,
+     "fim": 18.06,
+     "p": 0.98
+    }
+   ]
+  },
+  {
+   "ini": 18.3,
+   "fim": 18.92,
+   "texto": "I'm obsessed.",
+   "no_speech": 0.03,
+   "palavras": [
+    {
+     "w": "I'm",
+     "ini": 18.3,
+     "fim": 18.5,
+     "p": 1.0
+    },
+    {
+     "w": "obsessed.",
+     "ini": 18.5,
+     "fim": 18.92,
+     "p": 1.0
+    }
+   ]
+  }
+ ]
+}

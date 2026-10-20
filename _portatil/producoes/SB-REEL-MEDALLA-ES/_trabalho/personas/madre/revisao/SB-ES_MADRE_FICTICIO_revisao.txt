@@ -1,0 +1,35 @@
+REVISÃO: SB-ES_MADRE_FICTICIO.mp4
+duração 71.30s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 48.8 MB
+decodificação: OK
+pts do áudio: 3342 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 22 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 971-1009, x 533-666 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\madre\revisao\SB-ES_MADRE_FICTICIO_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¡Oh glorioso sanvenito!
+   2.00-  6.00 Hoy pronuncio las palabras grabadas en tu medalla.
+   6.00-  8.00 Protege a mis hijos.
+   8.00- 12.00 Si me escuchas, dame fuerzas.
+  15.00- 20.00 Trabajaba de sol a sol y aun así las cuentas no cerraban.
+  20.00- 23.00 Lloraba en la cocina cuando los niños dormían.
+  23.00- 26.00 Hasta que en una transmisión en vivo,
+  26.00- 30.58 Un padre explicó la forma exacta de pedirle a San Benito.
+  30.58- 36.54 Ese día recuperé la paz y poco a poco las puertas empezaron a abrirse.
+  36.54- 40.62 Esta es la última vez que Dios intenta hablarte de esta forma.
+  40.62- 42.42 Jesús te eligió.
+  42.42- 45.42 Preparó un regalo poderoso solo para ti.
+  45.42- 48.96 En este video vas a escuchar la oración perdida de San Benito
+  48.96- 52.06 que desbloquea una lluvia de milagros.
+  52.06- 54.82 Pero solo si no la rechazas otra vez.
+  54.82- 61.42 Toca más información ahora, recibe tu milagro antes de que la puerta se cierre para siempre.
+  61.42- 65.98 Ahora mismo está ocurriendo una transmisión en vivo con San Benito.
+  65.98- 70.82 Toca el botón ver más aquí abajo del vídeo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

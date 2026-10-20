@@ -1,0 +1,54 @@
+{
+ "idioma": "pt-BR (whisper 0.98)",
+ "origem": {
+  "perfil": "@techshop.of (TikTok)",
+  "tipo": "loja/afiliado"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 14.65,
+ "cortes": {
+  "n": 0,
+  "tempos_s": [],
+  "ritmo": "plano único handheld na prateleira com movimento"
+ },
+ "formato": "POV loja/prateleira - 'super oferta' com etiqueta de preço",
+ "gancho": {
+  "visual": "furadeira DeWalt 12V na prateleira de loja, selo vermelho 'SUPER OFERTA' + etiqueta R$ 899,90 (de 1.119,90)",
+  "fala": "'Aí pessoal, quero ver se vocês encontram o preço mais barato que esse aqui, o DeWalt, 899,90.'",
+  "texto_tela": "SUPER OFERTA; palavras soltas tipo karaokê (PESSOAL, SE..., NOVENTA, LINK, VER, QUE, COMPRAR, TIKTOK)"
+ },
+ "corpo": [
+  {
+   "t": "0-8",
+   "bloco": "mão pega a furadeira da prateleira"
+  },
+  {
+   "t": "8-11",
+   "bloco": "close na etiqueta de preço"
+  },
+  {
+   "t": "11-14.6",
+   "bloco": "volta à furadeira + 'link... TikTok'"
+  }
+ ],
+ "cta": "'Clica aí no alto que vocês vão ver o preço que vocês vão encontrar aqui agora no TikTok Shop'",
+ "texto_tela": "SUPER OFERTA fixo + legenda palavra a palavra",
+ "produto": {
+  "modelo": "DeWalt 12V MAX 3/8 (etiqueta 'FURAD/PARAF 3/8 12V', código parcialmente legível, provável DCD700/DCD701)",
+  "nosso_produto": false
+ },
+ "rosto": {
+  "sim": false,
+  "tempo": "0 (só mão)"
+ },
+ "marca_dagua": "nenhuma",
+ "audio": "voz do criador (desafio de preço)",
+ "uso": "só referência de formato",
+ "uso_motivo": "formato curto 'preço de loja x nosso preço' (ancoragem); produto 12V e preço em R$ não servem",
+ "nota": 2,
+ "nota_just": "ideia de ancoragem com etiqueta de loja é boa para COD; takes não reaproveitáveis.",
+ "ad": "34",
+ "fala_resumo": "ângulo desafio de preço/ancoragem",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\34.json",
+ "n_segmentos_fala": 2
+}

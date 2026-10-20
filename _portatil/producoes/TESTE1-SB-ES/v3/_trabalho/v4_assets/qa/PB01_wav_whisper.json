@@ -1,0 +1,78 @@
+{
+"arquivo": "PB01.wav",
+"whisper": "No es mala suerte, cuando los caminos se cierran así, hay algo espiritual detrás.",
+"palavras": [
+{
+"w": "No",
+"ini": 0.0,
+"fim": 0.18
+},
+{
+"w": "es",
+"ini": 0.18,
+"fim": 0.36
+},
+{
+"w": "mala",
+"ini": 0.36,
+"fim": 0.52
+},
+{
+"w": "suerte,",
+"ini": 0.52,
+"fim": 1.08
+},
+{
+"w": "cuando",
+"ini": 1.38,
+"fim": 1.62
+},
+{
+"w": "los",
+"ini": 1.62,
+"fim": 1.86
+},
+{
+"w": "caminos",
+"ini": 1.86,
+"fim": 2.12
+},
+{
+"w": "se",
+"ini": 2.12,
+"fim": 2.34
+},
+{
+"w": "cierran",
+"ini": 2.34,
+"fim": 2.66
+},
+{
+"w": "así,",
+"ini": 2.66,
+"fim": 3.02
+},
+{
+"w": "hay",
+"ini": 3.28,
+"fim": 3.44
+},
+{
+"w": "algo",
+"ini": 3.44,
+"fim": 3.62
+},
+{
+"w": "espiritual",
+"ini": 3.62,
+"fim": 4.22
+},
+{
+"w": "detrás.",
+"ini": 4.22,
+"fim": 4.76
+}
+],
+"ratio": 1.0,
+"dif": []
+}

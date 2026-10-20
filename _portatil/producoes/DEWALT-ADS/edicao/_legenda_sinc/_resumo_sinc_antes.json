@@ -1,0 +1,820 @@
+{
+ "G1_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 124,
+  "pct_dentro_100ms": 95.8,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 21,
+  "faladas_sem_legenda": [
+   [
+    "Mira",
+    2.513
+   ],
+   [
+    "todo",
+    2.733
+   ],
+   [
+    "lo",
+    2.933
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU CARGADOR.",
+    "leg_t": 15.033,
+    "palavra": "y",
+    "fala_t": 15.157,
+    "erro_ms": -124,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "Y LUZ LED,",
+    "leg_t": 37.1,
+    "palavra": "Y",
+    "fala_t": 37.222,
+    "erro_ms": -122,
+    "erro_energia_ms": -80
+   }
+  ]
+ },
+ "G1_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 32,
+  "erro_max_abs_ms": 132,
+  "pct_dentro_100ms": 91.5,
+  "erro_energia_max_abs_ms": 110,
+  "n_energia": 17,
+  "faladas_sem_legenda": [
+   [
+    "Pones",
+    2.513
+   ],
+   [
+    "el",
+    2.873
+   ],
+   [
+    "anillo",
+    2.993
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y LA BROCA",
+    "leg_t": 5.333,
+    "palavra": "y",
+    "fala_t": 5.444,
+    "erro_ms": -111,
+    "erro_energia_ms": -80
+   },
+   {
+    "legenda": "Y PARA",
+    "leg_t": 11.633,
+    "palavra": "Y",
+    "fala_t": 11.765,
+    "erro_ms": -132,
+    "erro_energia_ms": -100
+   },
+   {
+    "legenda": "Y TRAE",
+    "leg_t": 27.467,
+    "palavra": "Y",
+    "fala_t": 27.573,
+    "erro_ms": -106,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "APROVECHA EL",
+    "leg_t": 35.333,
+    "palavra": "Aprovecha",
+    "fala_t": 35.451,
+    "erro_ms": -118,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "G2_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 32,
+  "erro_max_abs_ms": 124,
+  "pct_dentro_100ms": 95.8,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 21,
+  "faladas_sem_legenda": [
+   [
+    "Mira",
+    2.28
+   ],
+   [
+    "todo",
+    2.5
+   ],
+   [
+    "lo",
+    2.7
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU CARGADOR.",
+    "leg_t": 14.8,
+    "palavra": "y",
+    "fala_t": 14.924,
+    "erro_ms": -124,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "Y LUZ LED,",
+    "leg_t": 36.867,
+    "palavra": "Y",
+    "fala_t": 36.989,
+    "erro_ms": -122,
+    "erro_energia_ms": -80
+   }
+  ]
+ },
+ "G2_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 132,
+  "pct_dentro_100ms": 91.5,
+  "erro_energia_max_abs_ms": 110,
+  "n_energia": 18,
+  "faladas_sem_legenda": [
+   [
+    "Pones",
+    2.28
+   ],
+   [
+    "el",
+    2.64
+   ],
+   [
+    "anillo",
+    2.76
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y LA BROCA",
+    "leg_t": 5.1,
+    "palavra": "y",
+    "fala_t": 5.211,
+    "erro_ms": -111,
+    "erro_energia_ms": -80
+   },
+   {
+    "legenda": "Y PARA",
+    "leg_t": 11.4,
+    "palavra": "Y",
+    "fala_t": 11.532,
+    "erro_ms": -132,
+    "erro_energia_ms": -100
+   },
+   {
+    "legenda": "Y TRAE",
+    "leg_t": 27.233,
+    "palavra": "Y",
+    "fala_t": 27.339,
+    "erro_ms": -106,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "APROVECHA EL",
+    "leg_t": 35.1,
+    "palavra": "Aprovecha",
+    "fala_t": 35.218,
+    "erro_ms": -118,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "G3_C1": {
+  "blocos_medidos": 49,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 34,
+  "erro_max_abs_ms": 124,
+  "pct_dentro_100ms": 95.9,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 21,
+  "faladas_sem_legenda": [
+   [
+    "Mira",
+    2.447
+   ],
+   [
+    "todo",
+    2.667
+   ],
+   [
+    "lo",
+    2.867
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU CARGADOR.",
+    "leg_t": 14.967,
+    "palavra": "y",
+    "fala_t": 15.091,
+    "erro_ms": -124,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "Y LUZ LED,",
+    "leg_t": 37.033,
+    "palavra": "Y",
+    "fala_t": 37.155,
+    "erro_ms": -122,
+    "erro_energia_ms": -80
+   }
+  ]
+ },
+ "G3_C2": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 132,
+  "pct_dentro_100ms": 91.7,
+  "erro_energia_max_abs_ms": 110,
+  "n_energia": 17,
+  "faladas_sem_legenda": [
+   [
+    "Pones",
+    2.447
+   ],
+   [
+    "el",
+    2.807
+   ],
+   [
+    "anillo",
+    2.927
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y LA BROCA",
+    "leg_t": 5.267,
+    "palavra": "y",
+    "fala_t": 5.378,
+    "erro_ms": -111,
+    "erro_energia_ms": -80
+   },
+   {
+    "legenda": "Y PARA",
+    "leg_t": 11.567,
+    "palavra": "Y",
+    "fala_t": 11.699,
+    "erro_ms": -132,
+    "erro_energia_ms": -100
+   },
+   {
+    "legenda": "Y TRAE",
+    "leg_t": 27.4,
+    "palavra": "Y",
+    "fala_t": 27.506,
+    "erro_ms": -106,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "APROVECHA EL",
+    "leg_t": 35.267,
+    "palavra": "Aprovecha",
+    "fala_t": 35.385,
+    "erro_ms": -118,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "G4_C1": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 124,
+  "pct_dentro_100ms": 95.8,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 21,
+  "faladas_sem_legenda": [
+   [
+    "Mira",
+    2.513
+   ],
+   [
+    "todo",
+    2.733
+   ],
+   [
+    "lo",
+    2.933
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU CARGADOR.",
+    "leg_t": 15.033,
+    "palavra": "y",
+    "fala_t": 15.157,
+    "erro_ms": -124,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "Y LUZ LED,",
+    "leg_t": 37.1,
+    "palavra": "Y",
+    "fala_t": 37.222,
+    "erro_ms": -122,
+    "erro_energia_ms": -80
+   }
+  ]
+ },
+ "G4_C2": {
+  "blocos_medidos": 47,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 32,
+  "erro_max_abs_ms": 132,
+  "pct_dentro_100ms": 91.5,
+  "erro_energia_max_abs_ms": 110,
+  "n_energia": 17,
+  "faladas_sem_legenda": [
+   [
+    "Pones",
+    2.513
+   ],
+   [
+    "el",
+    2.873
+   ],
+   [
+    "anillo",
+    2.993
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y LA BROCA",
+    "leg_t": 5.333,
+    "palavra": "y",
+    "fala_t": 5.444,
+    "erro_ms": -111,
+    "erro_energia_ms": -80
+   },
+   {
+    "legenda": "Y PARA",
+    "leg_t": 11.633,
+    "palavra": "Y",
+    "fala_t": 11.765,
+    "erro_ms": -132,
+    "erro_energia_ms": -100
+   },
+   {
+    "legenda": "Y TRAE",
+    "leg_t": 27.467,
+    "palavra": "Y",
+    "fala_t": 27.573,
+    "erro_ms": -106,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "APROVECHA EL",
+    "leg_t": 35.333,
+    "palavra": "Aprovecha",
+    "fala_t": 35.451,
+    "erro_ms": -118,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "G5_C1": {
+  "blocos_medidos": 49,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 34,
+  "erro_max_abs_ms": 124,
+  "pct_dentro_100ms": 95.9,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 22,
+  "faladas_sem_legenda": [
+   [
+    "Mira",
+    2.88
+   ],
+   [
+    "todo",
+    3.1
+   ],
+   [
+    "lo",
+    3.3
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 48,
+   "aparecem_no_quadro_esperado": 48,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU CARGADOR.",
+    "leg_t": 15.4,
+    "palavra": "y",
+    "fala_t": 15.524,
+    "erro_ms": -124,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "Y LUZ LED,",
+    "leg_t": 37.467,
+    "palavra": "Y",
+    "fala_t": 37.589,
+    "erro_ms": -122,
+    "erro_energia_ms": -80
+   }
+  ]
+ },
+ "G5_C2": {
+  "blocos_medidos": 48,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 34,
+  "erro_max_abs_ms": 132,
+  "pct_dentro_100ms": 91.7,
+  "erro_energia_max_abs_ms": 110,
+  "n_energia": 19,
+  "faladas_sem_legenda": [
+   [
+    "Pones",
+    2.88
+   ],
+   [
+    "el",
+    3.24
+   ],
+   [
+    "anillo",
+    3.36
+   ]
+  ],
+  "quadros": {
+   "eventos_conferidos": 47,
+   "aparecem_no_quadro_esperado": 47,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y LA BROCA",
+    "leg_t": 5.7,
+    "palavra": "y",
+    "fala_t": 5.811,
+    "erro_ms": -111,
+    "erro_energia_ms": -80
+   },
+   {
+    "legenda": "Y PARA",
+    "leg_t": 12.0,
+    "palavra": "Y",
+    "fala_t": 12.132,
+    "erro_ms": -132,
+    "erro_energia_ms": -100
+   },
+   {
+    "legenda": "Y TRAE",
+    "leg_t": 27.833,
+    "palavra": "Y",
+    "fala_t": 27.939,
+    "erro_ms": -106,
+    "erro_energia_ms": -90
+   },
+   {
+    "legenda": "APROVECHA EL",
+    "leg_t": 35.7,
+    "palavra": "Aprovecha",
+    "fala_t": 35.818,
+    "erro_ms": -118,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "TR21": {
+  "blocos_medidos": 66,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 30,
+  "erro_max_abs_ms": 193,
+  "pct_dentro_100ms": 93.9,
+  "erro_energia_max_abs_ms": 267,
+  "n_energia": 21,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 66,
+   "aparecem_no_quadro_esperado": 66,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "SI BUSCAS",
+    "leg_t": 0.267,
+    "palavra": "Si",
+    "fala_t": 0.46,
+    "erro_ms": -193,
+    "erro_energia_ms": -153
+   },
+   {
+    "legenda": "Y DEJAR CADA",
+    "leg_t": 18.267,
+    "palavra": "y",
+    "fala_t": 18.407,
+    "erro_ms": -140,
+    "erro_energia_ms": -113
+   },
+   {
+    "legenda": "SU MANDRIL DE",
+    "leg_t": 21.867,
+    "palavra": "Su",
+    "fala_t": 21.968,
+    "erro_ms": -101,
+    "erro_energia_ms": -63
+   },
+   {
+    "legenda": "APROVECHA EL PRE",
+    "leg_t": 48.133,
+    "palavra": "Aprovecha",
+    "fala_t": 48.237,
+    "erro_ms": -104,
+    "erro_energia_ms": -47
+   }
+  ]
+ },
+ "TR37": {
+  "blocos_medidos": 90,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 144,
+  "pct_dentro_100ms": 94.4,
+  "erro_energia_max_abs_ms": 90,
+  "n_energia": 16,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 89,
+   "aparecem_no_quadro_esperado": 89,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y CADA BATERÍA",
+    "leg_t": 47.0,
+    "palavra": "Y",
+    "fala_t": 47.132,
+    "erro_ms": -132,
+    "erro_energia_ms": 0
+   },
+   {
+    "legenda": "Y TAMBIÉN EN",
+    "leg_t": 55.667,
+    "palavra": "y",
+    "fala_t": 55.775,
+    "erro_ms": -108,
+    "erro_energia_ms": 7
+   },
+   {
+    "legenda": "Y EN MURO",
+    "leg_t": 58.833,
+    "palavra": "y",
+    "fala_t": 58.935,
+    "erro_ms": -102,
+    "erro_energia_ms": -7
+   },
+   {
+    "legenda": "IDEAL PARA",
+    "leg_t": 64.833,
+    "palavra": "Ideal",
+    "fala_t": 64.977,
+    "erro_ms": -144,
+    "erro_energia_ms": -77
+   }
+  ]
+ },
+ "TR38": {
+  "blocos_medidos": 15,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 39,
+  "erro_max_abs_ms": 92,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 117,
+  "n_energia": 8,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 15,
+   "aparecem_no_quadro_esperado": 15,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR41": {
+  "blocos_medidos": 27,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 40,
+  "erro_max_abs_ms": 102,
+  "pct_dentro_100ms": 96.3,
+  "erro_energia_max_abs_ms": 100,
+  "n_energia": 11,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 26,
+   "aparecem_no_quadro_esperado": 26,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU MALETA",
+    "leg_t": 11.6,
+    "palavra": "y",
+    "fala_t": 11.702,
+    "erro_ms": -102,
+    "erro_energia_ms": -70
+   }
+  ]
+ },
+ "TR21_fundo-original": {
+  "blocos_medidos": 66,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 30,
+  "erro_max_abs_ms": 193,
+  "pct_dentro_100ms": 93.9,
+  "erro_energia_max_abs_ms": 153,
+  "n_energia": 4,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 66,
+   "aparecem_no_quadro_esperado": 66,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "SI BUSCAS",
+    "leg_t": 0.267,
+    "palavra": "Si",
+    "fala_t": 0.46,
+    "erro_ms": -193,
+    "erro_energia_ms": -153
+   },
+   {
+    "legenda": "Y DEJAR CADA",
+    "leg_t": 18.267,
+    "palavra": "y",
+    "fala_t": 18.407,
+    "erro_ms": -140,
+    "erro_energia_ms": null
+   },
+   {
+    "legenda": "SU MANDRIL DE",
+    "leg_t": 21.867,
+    "palavra": "Su",
+    "fala_t": 21.968,
+    "erro_ms": -101,
+    "erro_energia_ms": null
+   },
+   {
+    "legenda": "APROVECHA EL PRE",
+    "leg_t": 48.133,
+    "palavra": "Aprovecha",
+    "fala_t": 48.237,
+    "erro_ms": -104,
+    "erro_energia_ms": 73
+   }
+  ]
+ },
+ "TR37_fundo-original": {
+  "blocos_medidos": 90,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 33,
+  "erro_max_abs_ms": 144,
+  "pct_dentro_100ms": 94.4,
+  "erro_energia_max_abs_ms": 0,
+  "n_energia": 1,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 89,
+   "aparecem_no_quadro_esperado": 89,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y CADA BATERÍA",
+    "leg_t": 47.0,
+    "palavra": "Y",
+    "fala_t": 47.132,
+    "erro_ms": -132,
+    "erro_energia_ms": null
+   },
+   {
+    "legenda": "Y TAMBIÉN EN",
+    "leg_t": 55.667,
+    "palavra": "y",
+    "fala_t": 55.775,
+    "erro_ms": -108,
+    "erro_energia_ms": null
+   },
+   {
+    "legenda": "Y EN MURO",
+    "leg_t": 58.833,
+    "palavra": "y",
+    "fala_t": 58.935,
+    "erro_ms": -102,
+    "erro_energia_ms": null
+   },
+   {
+    "legenda": "IDEAL PARA",
+    "leg_t": 64.833,
+    "palavra": "Ideal",
+    "fala_t": 64.977,
+    "erro_ms": -144,
+    "erro_energia_ms": null
+   }
+  ]
+ },
+ "TR38_fundo-original": {
+  "blocos_medidos": 15,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 39,
+  "erro_max_abs_ms": 92,
+  "pct_dentro_100ms": 100.0,
+  "erro_energia_max_abs_ms": 103,
+  "n_energia": 1,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 15,
+   "aparecem_no_quadro_esperado": 15,
+   "falhas": []
+  },
+  "fora_100ms": []
+ },
+ "TR41_fundo-original": {
+  "blocos_medidos": 27,
+  "blocos_texto_errado": 0,
+  "erro_medio_abs_ms": 42,
+  "erro_max_abs_ms": 102,
+  "pct_dentro_100ms": 96.3,
+  "erro_energia_max_abs_ms": 40,
+  "n_energia": 3,
+  "faladas_sem_legenda": [],
+  "quadros": {
+   "eventos_conferidos": 26,
+   "aparecem_no_quadro_esperado": 26,
+   "falhas": []
+  },
+  "fora_100ms": [
+   {
+    "legenda": "Y SU MALETA",
+    "leg_t": 11.6,
+    "palavra": "y",
+    "fala_t": 11.702,
+    "erro_ms": -102,
+    "erro_energia_ms": 40
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "arquivo": "43 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 4.08,
+   "texto": "Conheça um novo kit completo da Dell Auto, com parafusadeira e furadeira de impacto DCD"
+  },
+  {
+   "ini": 4.08,
+   "fim": 10.2,
+   "texto": "806 PEP3, com 2 baterias 20 volts, 1.7 Amperes PowerStack, mais um carregador de bateria"
+  },
+  {
+   "ini": 10.2,
+   "fim": 11.2,
+   "texto": "e bolsa de transporte."
+  },
+  {
+   "ini": 11.2,
+   "fim": 16.16,
+   "texto": "Equipada com motor sem escovas, a DCD 806B entrega até 30% mais autonomia e maior vida"
+  },
+  {
+   "ini": 16.16,
+   "fim": 18.3,
+   "texto": "útil, em comparação a modelos convencionais."
+  },
+  {
+   "ini": 18.3,
+   "fim": 22.44,
+   "texto": "Oferece 90 Nm de torque máximo, transmissão de duas velocidades e mandril metálico"
+  },
+  {
+   "ini": 22.44,
+   "fim": 23.44,
+   "texto": "de meia polegada."
+  },
+  {
+   "ini": 23.44,
+   "fim": 27.0,
+   "texto": "As baterias oferecem tamanho reduzido, leveza e maior desempenho energético em comparação"
+  },
+  {
+   "ini": 27.0,
+   "fim": 28.12,
+   "texto": "as baterias convencionais."
+  }
+ ]
+}

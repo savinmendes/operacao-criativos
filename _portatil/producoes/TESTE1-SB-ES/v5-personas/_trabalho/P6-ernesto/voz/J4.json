@@ -1,0 +1,213 @@
+{
+"dur": 10.893,
+"frases": [
+"P3",
+"P4"
+],
+"palavras": [
+{
+"w": "El",
+"ini": 0.046,
+"fim": 0.163,
+"frase": "P3"
+},
+{
+"w": "padre",
+"ini": 0.221,
+"fim": 0.476,
+"frase": "P3"
+},
+{
+"w": "Juan",
+"ini": 0.522,
+"fim": 0.72,
+"frase": "P3"
+},
+{
+"w": "Méndez",
+"ini": 0.778,
+"fim": 1.115,
+"frase": "P3"
+},
+{
+"w": "me",
+"ini": 1.173,
+"fim": 1.231,
+"frase": "P3"
+},
+{
+"w": "enseñó",
+"ini": 1.254,
+"fim": 1.614,
+"frase": "P3"
+},
+{
+"w": "la",
+"ini": 1.66,
+"fim": 1.73,
+"frase": "P3"
+},
+{
+"w": "forma",
+"ini": 1.788,
+"fim": 2.067,
+"frase": "P3"
+},
+{
+"w": "correcta",
+"ini": 2.113,
+"fim": 2.543,
+"frase": "P3"
+},
+{
+"w": "de",
+"ini": 2.589,
+"fim": 2.659,
+"frase": "P3"
+},
+{
+"w": "pedirle",
+"ini": 2.705,
+"fim": 3.123,
+"frase": "P3"
+},
+{
+"w": "a",
+"ini": 3.158,
+"fim": 3.181,
+"frase": "P3"
+},
+{
+"w": "San",
+"ini": 3.239,
+"fim": 3.379,
+"frase": "P3"
+},
+{
+"w": "Benito...",
+"ini": 3.437,
+"fim": 4.133,
+"frase": "P3"
+},
+{
+"w": "y",
+"ini": 4.383,
+"fim": 4.441,
+"frase": "P3"
+},
+{
+"w": "está",
+"ini": 4.522,
+"fim": 4.754,
+"frase": "P3"
+},
+{
+"w": "haciendo",
+"ini": 4.778,
+"fim": 5.172,
+"frase": "P3"
+},
+{
+"w": "la",
+"ini": 5.23,
+"fim": 5.288,
+"frase": "P3"
+},
+{
+"w": "oración",
+"ini": 5.312,
+"fim": 5.706,
+"frase": "P3"
+},
+{
+"w": "en",
+"ini": 5.753,
+"fim": 5.811,
+"frase": "P3"
+},
+{
+"w": "vivo",
+"ini": 5.857,
+"fim": 6.206,
+"frase": "P3"
+},
+{
+"w": "ahora",
+"ini": 6.345,
+"fim": 6.647,
+"frase": "P3"
+},
+{
+"w": "mismo.",
+"ini": 6.693,
+"fim": 7.134,
+"frase": "P3"
+},
+{
+"w": "¿Usted",
+"ini": 7.617,
+"fim": 7.884,
+"frase": "P4"
+},
+{
+"w": "puede",
+"ini": 7.907,
+"fim": 8.116,
+"frase": "P4"
+},
+{
+"w": "pasar",
+"ini": 8.174,
+"fim": 8.453,
+"frase": "P4"
+},
+{
+"w": "la",
+"ini": 8.488,
+"fim": 8.557,
+"frase": "P4"
+},
+{
+"w": "transmisión",
+"ini": 8.615,
+"fim": 9.149,
+"frase": "P4"
+},
+{
+"w": "para",
+"ini": 9.219,
+"fim": 9.416,
+"frase": "P4"
+},
+{
+"w": "los",
+"ini": 9.451,
+"fim": 9.579,
+"frase": "P4"
+},
+{
+"w": "que",
+"ini": 9.625,
+"fim": 9.707,
+"frase": "P4"
+},
+{
+"w": "nos",
+"ini": 9.765,
+"fim": 9.881,
+"frase": "P4"
+},
+{
+"w": "están",
+"ini": 9.95,
+"fim": 10.183,
+"frase": "P4"
+},
+{
+"w": "viendo?",
+"ini": 10.229,
+"fim": 10.693,
+"frase": "P4"
+}
+]
+}

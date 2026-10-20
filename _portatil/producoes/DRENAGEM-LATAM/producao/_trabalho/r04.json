@@ -1,0 +1,104 @@
+{
+"ad": "ad04",
+"corte": 350.3,
+"saida": "AD 04 - LYMPHORIA-MUJER-28-ES-LATAM.mp4",
+"takes": [],
+"extras": [
+{
+"clipe": "band/c1.mp4",
+"inicio": 120.0,
+"quadros": 89
+},
+{
+"clipe": "band/c2.mp4",
+"inicio": 124.767,
+"quadros": 90
+},
+{
+"clipe": "band/c3.mp4",
+"inicio": 196.367,
+"quadros": 42
+},
+{
+"clipe": "band/c4.mp4",
+"inicio": 303.867,
+"quadros": 48
+}
+],
+"blur": [
+{
+"de": 307.99,
+"ate": 310.02,
+"caixas": "110,190,700,850"
+}
+],
+"legendas_caixa": [
+{
+"de": 175.0,
+"ate": 179.0,
+"caixa": "78,880,645,924",
+"texto": "Levantó el frasco. Lymphoria.",
+"ref": 176.5,
+"px": 34,
+"base": 917
+},
+{
+"de": 237.0,
+"ate": 241.2,
+"caixa": "40,880,680,924",
+"texto": "Semana cuatro. La ropa más floja,",
+"ref": 239.2,
+"px": 34,
+"base": 917
+},
+{
+"de": 243.0,
+"ate": 246.4,
+"caixa": "150,880,560,924",
+"texto": "Semana cinco. Me sentía",
+"ref": 245.0,
+"px": 34,
+"base": 917
+},
+{
+"de": 243.0,
+"ate": 246.4,
+"caixa": "240,927,498,971",
+"texto": "liviana.",
+"ref": 245.0,
+"px": 34,
+"base": 955
+},
+{
+"de": 301.8,
+"ate": 306.4,
+"caixa": "66,927,656,971",
+"texto": "el secreto de Brasil: Lymphoria.",
+"ref": 304.5,
+"px": 34,
+"base": 955
+}
+],
+"audios": [
+{
+"mp3": "p1.mp3",
+"de": 175.5,
+"ate": 178.62
+},
+{
+"mp3": "p3.mp3",
+"de": 237.4,
+"ate": 240.9
+},
+{
+"mp3": "p4.mp3",
+"de": 243.55,
+"ate": 245.95
+},
+{
+"mp3": "p2.mp3",
+"de": 303.85,
+"ate": 306.38
+}
+]
+}

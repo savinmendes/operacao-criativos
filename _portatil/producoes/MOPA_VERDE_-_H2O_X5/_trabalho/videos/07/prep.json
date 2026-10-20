@@ -1,0 +1,153 @@
+{
+ "video": "../../../VIDEOS/07 AD.mp4",
+ "res": [
+  720,
+  1280
+ ],
+ "fundo": "../../audio/07_no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "narr.mp3",
+ "offsets": [
+  0.1,
+  3.65,
+  8.4,
+  16.75,
+  18.75,
+  20.35,
+  21.45,
+  23.0,
+  25.3
+ ],
+ "titulos": [
+  {
+   "linhas": [
+    "¿Sabías que las bacterias de tu",
+    "cocina te están enfermando?"
+   ],
+   "cx": 359,
+   "cy": 657,
+   "cobrir_w": 672,
+   "cobrir_h": 172,
+   "px": 32,
+   "de": 0,
+   "ate": 3.64
+  },
+  {
+   "linhas": [
+    "ANTES ❌"
+   ],
+   "cx": 220,
+   "cy": 247,
+   "cobrir_w": 310,
+   "cobrir_h": 74,
+   "px": 38,
+   "de": 3.45,
+   "ate": 6.64
+  },
+  {
+   "linhas": [
+    "DESPUÉS ✅"
+   ],
+   "cx": 200,
+   "cy": 861,
+   "cobrir_w": 280,
+   "cobrir_h": 68,
+   "px": 38,
+   "de": 3.45,
+   "ate": 6.64
+  },
+  {
+   "linhas": [
+    "¡Esta es tu señal para desinfectar",
+    "tu cocina con el H2O X5!"
+   ],
+   "cx": 358,
+   "cy": 678,
+   "cobrir_w": 575,
+   "cobrir_h": 102,
+   "px": 27,
+   "de": 3.64,
+   "ate": 9.01
+  },
+  {
+   "linhas": [
+    "Usa 1300 watts de vapor supercaliente",
+    "que elimina el 99 % de bacterias",
+    "y gérmenes donde preparas la comida"
+   ],
+   "cx": 358,
+   "cy": 853,
+   "cobrir_w": 585,
+   "cobrir_h": 190,
+   "px": 27,
+   "de": 9.0,
+   "ate": 17.1
+  },
+  {
+   "linhas": [
+    "Certificado en laboratorio ✅"
+   ],
+   "cx": 362,
+   "cy": 604,
+   "cobrir_w": 460,
+   "cobrir_h": 82,
+   "px": 32,
+   "de": 16.6,
+   "ate": 18.6
+  },
+  {
+   "linhas": [
+    "¡Solo vapor y un paño!"
+   ],
+   "cx": 356,
+   "cy": 460,
+   "cobrir_w": 632,
+   "cobrir_h": 80,
+   "px": 40,
+   "de": 18.4,
+   "ate": 20.27
+  },
+  {
+   "linhas": [
+    "¡Mira qué limpio!",
+    "Sin gérmenes 🥰"
+   ],
+   "cx": 360,
+   "cy": 315,
+   "cobrir_w": 520,
+   "cobrir_h": 122,
+   "px": 34,
+   "de": 20.15,
+   "ate": 22.78
+  },
+  {
+   "linhas": [
+    "¡Me impresionó mucho!"
+   ],
+   "cx": 358,
+   "cy": 315,
+   "cobrir_w": 652,
+   "cobrir_h": 126,
+   "px": 40,
+   "de": 22.4,
+   "ate": 25.06
+  }
+ ],
+ "pngs": [
+  {
+   "arq": "../_A_ferramentas/selo_916.png",
+   "de": 0,
+   "ate": 25.05
+  },
+  {
+   "arq": "avaliacoes.png",
+   "de": 25.05,
+   "ate": 9999
+  }
+ ],
+ "fim": {
+  "folga": 0.5,
+  "max_total": null
+ },
+ "saida": "corpo.mp4"
+}

@@ -1,0 +1,1143 @@
+{
+ "P1": {
+  "arquivo": "P1.wav",
+  "texto": "No es que Dios no te escuche... es que casi nadie conoce la forma correcta de pedirle a San Benito.",
+  "dur": 5.225,
+  "palavras": [
+   {
+    "w": "No",
+    "ini": 0.07,
+    "fim": 0.163
+   },
+   {
+    "w": "es",
+    "ini": 0.186,
+    "fim": 0.244
+   },
+   {
+    "w": "que",
+    "ini": 0.29,
+    "fim": 0.372
+   },
+   {
+    "w": "Dios",
+    "ini": 0.418,
+    "fim": 0.604
+   },
+   {
+    "w": "no",
+    "ini": 0.65,
+    "fim": 0.72
+   },
+   {
+    "w": "te",
+    "ini": 0.778,
+    "fim": 0.859
+   },
+   {
+    "w": "escuche...",
+    "ini": 0.882,
+    "fim": 1.602
+   },
+   {
+    "w": "es",
+    "ini": 1.852,
+    "fim": 1.992
+   },
+   {
+    "w": "que",
+    "ini": 2.038,
+    "fim": 2.119
+   },
+   {
+    "w": "casi",
+    "ini": 2.178,
+    "fim": 2.433
+   },
+   {
+    "w": "nadie",
+    "ini": 2.479,
+    "fim": 2.677
+   },
+   {
+    "w": "conoce",
+    "ini": 2.723,
+    "fim": 3.002
+   },
+   {
+    "w": "la",
+    "ini": 3.048,
+    "fim": 3.106
+   },
+   {
+    "w": "forma",
+    "ini": 3.164,
+    "fim": 3.385
+   },
+   {
+    "w": "correcta",
+    "ini": 3.431,
+    "fim": 3.803
+   },
+   {
+    "w": "de",
+    "ini": 3.826,
+    "fim": 3.873
+   },
+   {
+    "w": "pedirle",
+    "ini": 3.931,
+    "fim": 4.267
+   },
+   {
+    "w": "a",
+    "ini": 4.291,
+    "fim": 4.314
+   },
+   {
+    "w": "San",
+    "ini": 4.349,
+    "fim": 4.476
+   },
+   {
+    "w": "Benito.",
+    "ini": 4.523,
+    "fim": 5.045
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    1.602,
+    1.852
+   ],
+   [
+    5.045,
+    5.225
+   ]
+  ],
+  "avatar": true,
+  "fonte": "L08"
+ },
+ "P2": {
+  "arquivo": "P2.wav",
+  "texto": "Presten mucha atención, porque este video puede salir del aire muy pronto.",
+  "dur": 4.425,
+  "palavras": [
+   {
+    "w": "Presten",
+    "ini": 0.1,
+    "fim": 0.506
+   },
+   {
+    "w": "mucha",
+    "ini": 0.599,
+    "fim": 0.878
+   },
+   {
+    "w": "atención,",
+    "ini": 0.901,
+    "fim": 1.563
+   },
+   {
+    "w": "porque",
+    "ini": 1.813,
+    "fim": 2.103
+   },
+   {
+    "w": "este",
+    "ini": 2.126,
+    "fim": 2.289
+   },
+   {
+    "w": "video",
+    "ini": 2.335,
+    "fim": 2.591
+   },
+   {
+    "w": "puede",
+    "ini": 2.626,
+    "fim": 2.846
+   },
+   {
+    "w": "salir",
+    "ini": 2.893,
+    "fim": 3.148
+   },
+   {
+    "w": "del",
+    "ini": 3.195,
+    "fim": 3.311
+   },
+   {
+    "w": "aire",
+    "ini": 3.357,
+    "fim": 3.508
+   },
+   {
+    "w": "muy",
+    "ini": 3.554,
+    "fim": 3.682
+   },
+   {
+    "w": "pronto.",
+    "ini": 3.74,
+    "fim": 4.309
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.1
+   ],
+   [
+    1.563,
+    1.813
+   ],
+   [
+    4.309,
+    4.425
+   ]
+  ],
+  "avatar": true,
+  "fonte": "L08"
+ },
+ "narr_L08_no-quieren": {
+  "arquivo": "narr_L08_no-quieren.wav",
+  "texto": "No quieren que tengas acceso a esto, porque es una oración muy poderosa.",
+  "dur": 4.088,
+  "palavras": [
+   {
+    "w": "No",
+    "ini": 0.1,
+    "fim": 0.251
+   },
+   {
+    "w": "quieren",
+    "ini": 0.333,
+    "fim": 0.646
+   },
+   {
+    "w": "que",
+    "ini": 0.692,
+    "fim": 0.762
+   },
+   {
+    "w": "tengas",
+    "ini": 0.82,
+    "fim": 1.087
+   },
+   {
+    "w": "acceso",
+    "ini": 1.145,
+    "fim": 1.528
+   },
+   {
+    "w": "a",
+    "ini": 1.563,
+    "fim": 1.586
+   },
+   {
+    "w": "esto,",
+    "ini": 1.668,
+    "fim": 2.051
+   },
+   {
+    "w": "porque",
+    "ini": 2.19,
+    "fim": 2.469
+   },
+   {
+    "w": "es",
+    "ini": 2.492,
+    "fim": 2.538
+   },
+   {
+    "w": "una",
+    "ini": 2.608,
+    "fim": 2.724
+   },
+   {
+    "w": "oración",
+    "ini": 2.759,
+    "fim": 3.072
+   },
+   {
+    "w": "muy",
+    "ini": 3.131,
+    "fim": 3.305
+   },
+   {
+    "w": "poderosa.",
+    "ini": 3.351,
+    "fim": 3.99
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.1
+   ],
+   [
+    3.99,
+    4.088
+   ]
+  ],
+  "avatar": false,
+  "fonte": "L08"
+ },
+ "P3": {
+  "arquivo": "P3.wav",
+  "texto": "Repitan conmigo.",
+  "dur": 1.125,
+  "palavras": [
+   {
+    "w": "Repitan",
+    "ini": 0.098,
+    "fim": 0.458
+   },
+   {
+    "w": "conmigo.",
+    "ini": 0.505,
+    "fim": 1.005
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.098
+   ],
+   [
+    1.005,
+    1.125
+   ]
+  ],
+  "avatar": true,
+  "fonte": "L08"
+ },
+ "P4": {
+  "arquivo": "P4.wav",
+  "texto": "Esta es la poderosísima oración de las doce palabras de San Benito. Están llegando testimonios de bendiciones todos los días.",
+  "dur": 7.024,
+  "palavras": [
+   {
+    "w": "Esta",
+    "ini": 0.035,
+    "fim": 0.337
+   },
+   {
+    "w": "es",
+    "ini": 0.36,
+    "fim": 0.406
+   },
+   {
+    "w": "la",
+    "ini": 0.464,
+    "fim": 0.546
+   },
+   {
+    "w": "poderosísima",
+    "ini": 0.627,
+    "fim": 1.498
+   },
+   {
+    "w": "oración",
+    "ini": 1.521,
+    "fim": 1.904
+   },
+   {
+    "w": "de",
+    "ini": 1.939,
+    "fim": 1.985
+   },
+   {
+    "w": "las",
+    "ini": 2.032,
+    "fim": 2.171
+   },
+   {
+    "w": "doce",
+    "ini": 2.229,
+    "fim": 2.473
+   },
+   {
+    "w": "palabras",
+    "ini": 2.531,
+    "fim": 2.891
+   },
+   {
+    "w": "de",
+    "ini": 2.926,
+    "fim": 2.984
+   },
+   {
+    "w": "San",
+    "ini": 3.03,
+    "fim": 3.158
+   },
+   {
+    "w": "Benito.",
+    "ini": 3.204,
+    "fim": 3.762
+   },
+   {
+    "w": "Están",
+    "ini": 4.012,
+    "fim": 4.29
+   },
+   {
+    "w": "llegando",
+    "ini": 4.313,
+    "fim": 4.615
+   },
+   {
+    "w": "testimonios",
+    "ini": 4.662,
+    "fim": 5.196
+   },
+   {
+    "w": "de",
+    "ini": 5.219,
+    "fim": 5.265
+   },
+   {
+    "w": "bendiciones",
+    "ini": 5.312,
+    "fim": 5.858
+   },
+   {
+    "w": "todos",
+    "ini": 5.927,
+    "fim": 6.194
+   },
+   {
+    "w": "los",
+    "ini": 6.229,
+    "fim": 6.368
+   },
+   {
+    "w": "días.",
+    "ini": 6.426,
+    "fim": 6.844
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    3.762,
+    4.012
+   ],
+   [
+    6.844,
+    7.024
+   ]
+  ],
+  "avatar": true,
+  "fonte": "L10"
+ },
+ "P5": {
+  "arquivo": "P5.wav",
+  "texto": "Fue escrita por el propio San Benito y se mantuvo en secreto durante novecientos dieciocho años.",
+  "dur": 7.392,
+  "palavras": [
+   {
+    "w": "Fue",
+    "ini": 0.1,
+    "fim": 0.251
+   },
+   {
+    "w": "escrita",
+    "ini": 0.286,
+    "fim": 0.692
+   },
+   {
+    "w": "por",
+    "ini": 0.739,
+    "fim": 0.855
+   },
+   {
+    "w": "el",
+    "ini": 0.901,
+    "fim": 0.959
+   },
+   {
+    "w": "propio",
+    "ini": 1.018,
+    "fim": 1.354
+   },
+   {
+    "w": "San",
+    "ini": 1.389,
+    "fim": 1.54
+   },
+   {
+    "w": "Benito",
+    "ini": 1.61,
+    "fim": 2.097
+   },
+   {
+    "w": "y",
+    "ini": 2.347,
+    "fim": 2.429
+   },
+   {
+    "w": "se",
+    "ini": 2.498,
+    "fim": 2.579
+   },
+   {
+    "w": "mantuvo",
+    "ini": 2.626,
+    "fim": 3.032
+   },
+   {
+    "w": "en",
+    "ini": 3.067,
+    "fim": 3.113
+   },
+   {
+    "w": "secreto",
+    "ini": 3.172,
+    "fim": 3.74
+   },
+   {
+    "w": "durante",
+    "ini": 3.99,
+    "fim": 4.582
+   },
+   {
+    "w": "novecientos",
+    "ini": 4.745,
+    "fim": 5.674
+   },
+   {
+    "w": "dieciocho",
+    "ini": 5.924,
+    "fim": 6.632
+   },
+   {
+    "w": "años.",
+    "ini": 6.678,
+    "fim": 7.212
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.1
+   ],
+   [
+    2.097,
+    2.347
+   ],
+   [
+    3.74,
+    3.99
+   ],
+   [
+    4.582,
+    4.745
+   ],
+   [
+    5.674,
+    5.924
+   ],
+   [
+    7.212,
+    7.392
+   ]
+  ],
+  "avatar": true,
+  "fonte": "L10"
+ },
+ "narr_L10_monjes-congreso": {
+  "arquivo": "narr_L10_monjes-congreso.wav",
+  "texto": "Solo un pequeño grupo de monjes tenía acceso a esta oración completa; yo la traje de un viaje que hice a Italia para compartirla con ustedes. La última vez que enseñé esta oración en un congreso, recibí más de cuatrocientos noventa y siete testimonios de bendiciones al día siguiente. Fue increíble.",
+  "dur": 17.38,
+  "palavras": [
+   {
+    "w": "Solo",
+    "ini": 0.1,
+    "fim": 0.343
+   },
+   {
+    "w": "un",
+    "ini": 0.378,
+    "fim": 0.424
+   },
+   {
+    "w": "pequeño",
+    "ini": 0.471,
+    "fim": 0.796
+   },
+   {
+    "w": "grupo",
+    "ini": 0.831,
+    "fim": 1.075
+   },
+   {
+    "w": "de",
+    "ini": 1.109,
+    "fim": 1.168
+   },
+   {
+    "w": "monjes",
+    "ini": 1.214,
+    "fim": 1.551
+   },
+   {
+    "w": "tenía",
+    "ini": 1.597,
+    "fim": 1.829
+   },
+   {
+    "w": "acceso",
+    "ini": 1.853,
+    "fim": 2.247
+   },
+   {
+    "w": "a",
+    "ini": 2.282,
+    "fim": 2.305
+   },
+   {
+    "w": "esta",
+    "ini": 2.352,
+    "fim": 2.549
+   },
+   {
+    "w": "oración",
+    "ini": 2.584,
+    "fim": 2.932
+   },
+   {
+    "w": "completa;",
+    "ini": 2.99,
+    "fim": 3.606
+   },
+   {
+    "w": "yo",
+    "ini": 3.966,
+    "fim": 4.071
+   },
+   {
+    "w": "la",
+    "ini": 4.106,
+    "fim": 4.175
+   },
+   {
+    "w": "traje",
+    "ini": 4.222,
+    "fim": 4.524
+   },
+   {
+    "w": "de",
+    "ini": 4.57,
+    "fim": 4.628
+   },
+   {
+    "w": "un",
+    "ini": 4.686,
+    "fim": 4.744
+   },
+   {
+    "w": "viaje",
+    "ini": 4.779,
+    "fim": 5.046
+   },
+   {
+    "w": "que",
+    "ini": 5.104,
+    "fim": 5.185
+   },
+   {
+    "w": "hice",
+    "ini": 5.232,
+    "fim": 5.406
+   },
+   {
+    "w": "a",
+    "ini": 5.441,
+    "fim": 5.464
+   },
+   {
+    "w": "Italia",
+    "ini": 5.499,
+    "fim": 5.882
+   },
+   {
+    "w": "para",
+    "ini": 5.928,
+    "fim": 6.079
+   },
+   {
+    "w": "compartirla",
+    "ini": 6.137,
+    "fim": 6.718
+   },
+   {
+    "w": "con",
+    "ini": 6.764,
+    "fim": 6.857
+   },
+   {
+    "w": "ustedes.",
+    "ini": 6.915,
+    "fim": 7.542
+   },
+   {
+    "w": "La",
+    "ini": 7.902,
+    "fim": 7.995
+   },
+   {
+    "w": "última",
+    "ini": 8.042,
+    "fim": 8.32
+   },
+   {
+    "w": "vez",
+    "ini": 8.355,
+    "fim": 8.46
+   },
+   {
+    "w": "que",
+    "ini": 8.518,
+    "fim": 8.587
+   },
+   {
+    "w": "enseñé",
+    "ini": 8.622,
+    "fim": 9.052
+   },
+   {
+    "w": "esta",
+    "ini": 9.087,
+    "fim": 9.295
+   },
+   {
+    "w": "oración",
+    "ini": 9.342,
+    "fim": 9.702
+   },
+   {
+    "w": "en",
+    "ini": 9.76,
+    "fim": 9.806
+   },
+   {
+    "w": "un",
+    "ini": 9.864,
+    "fim": 9.911
+   },
+   {
+    "w": "congreso,",
+    "ini": 9.969,
+    "fim": 10.735
+   },
+   {
+    "w": "recibí",
+    "ini": 11.095,
+    "fim": 11.478
+   },
+   {
+    "w": "más",
+    "ini": 11.536,
+    "fim": 11.757
+   },
+   {
+    "w": "de",
+    "ini": 11.803,
+    "fim": 11.885
+   },
+   {
+    "w": "cuatrocientos",
+    "ini": 11.943,
+    "fim": 12.906
+   },
+   {
+    "w": "noventa",
+    "ini": 12.987,
+    "fim": 13.463
+   },
+   {
+    "w": "y",
+    "ini": 13.51,
+    "fim": 13.533
+   },
+   {
+    "w": "siete",
+    "ini": 13.591,
+    "fim": 13.916
+   },
+   {
+    "w": "testimonios",
+    "ini": 13.963,
+    "fim": 14.543
+   },
+   {
+    "w": "de",
+    "ini": 14.578,
+    "fim": 14.636
+   },
+   {
+    "w": "bendiciones",
+    "ini": 14.671,
+    "fim": 15.24
+   },
+   {
+    "w": "al",
+    "ini": 15.298,
+    "fim": 15.356
+   },
+   {
+    "w": "día",
+    "ini": 15.402,
+    "fim": 15.542
+   },
+   {
+    "w": "siguiente.",
+    "ini": 15.588,
+    "fim": 16.157
+   },
+   {
+    "w": "Fue",
+    "ini": 16.354,
+    "fim": 16.494
+   },
+   {
+    "w": "increíble.",
+    "ini": 16.517,
+    "fim": 17.26
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.1
+   ],
+   [
+    3.606,
+    3.966
+   ],
+   [
+    7.542,
+    7.902
+   ],
+   [
+    10.735,
+    11.095
+   ],
+   [
+    16.157,
+    16.354
+   ],
+   [
+    17.26,
+    17.38
+   ]
+  ],
+  "avatar": false,
+  "fonte": "L10"
+ },
+ "narr_L11_imagina": {
+  "arquivo": "narr_L11_imagina.wav",
+  "texto": "Imagina despertar dentro de siete días con las deudas resueltas, la paz de vuelta en tu casa y tu trabajo lleno otra vez.",
+  "dur": 7.411,
+  "palavras": [
+   {
+    "w": "Imagina",
+    "ini": 0.058,
+    "fim": 0.418
+   },
+   {
+    "w": "despertar",
+    "ini": 0.453,
+    "fim": 0.917
+   },
+   {
+    "w": "dentro",
+    "ini": 0.987,
+    "fim": 1.277
+   },
+   {
+    "w": "de",
+    "ini": 1.312,
+    "fim": 1.37
+   },
+   {
+    "w": "siete",
+    "ini": 1.428,
+    "fim": 1.753
+   },
+   {
+    "w": "días",
+    "ini": 1.8,
+    "fim": 2.09
+   },
+   {
+    "w": "con",
+    "ini": 2.148,
+    "fim": 2.241
+   },
+   {
+    "w": "las",
+    "ini": 2.287,
+    "fim": 2.403
+   },
+   {
+    "w": "deudas",
+    "ini": 2.473,
+    "fim": 2.763
+   },
+   {
+    "w": "resueltas,",
+    "ini": 2.798,
+    "fim": 3.541
+   },
+   {
+    "w": "la",
+    "ini": 3.913,
+    "fim": 4.029
+   },
+   {
+    "w": "paz",
+    "ini": 4.098,
+    "fim": 4.296
+   },
+   {
+    "w": "de",
+    "ini": 4.342,
+    "fim": 4.4
+   },
+   {
+    "w": "vuelta",
+    "ini": 4.447,
+    "fim": 4.725
+   },
+   {
+    "w": "en",
+    "ini": 4.748,
+    "fim": 4.795
+   },
+   {
+    "w": "tu",
+    "ini": 4.841,
+    "fim": 4.934
+   },
+   {
+    "w": "casa",
+    "ini": 5.016,
+    "fim": 5.364
+   },
+   {
+    "w": "y",
+    "ini": 5.399,
+    "fim": 5.433
+   },
+   {
+    "w": "tu",
+    "ini": 5.48,
+    "fim": 5.573
+   },
+   {
+    "w": "trabajo",
+    "ini": 5.619,
+    "fim": 6.118
+   },
+   {
+    "w": "lleno",
+    "ini": 6.142,
+    "fim": 6.548
+   },
+   {
+    "w": "otra",
+    "ini": 6.641,
+    "fim": 6.931
+   },
+   {
+    "w": "vez.",
+    "ini": 6.966,
+    "fim": 7.291
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.541,
+    3.913
+   ],
+   [
+    7.291,
+    7.411
+   ]
+  ],
+  "avatar": false,
+  "fonte": "L11"
+ },
+ "P6": {
+  "arquivo": "P6.wav",
+  "texto": "Pero atención: no es una oración común. Toca el botón Ver más, aquí abajo del video, y aprende la forma correcta, mientras todavía está disponible.",
+  "dur": 8.918,
+  "palavras": [
+   {
+    "w": "Pero",
+    "ini": 0.058,
+    "fim": 0.221
+   },
+   {
+    "w": "atención:",
+    "ini": 0.244,
+    "fim": 0.882
+   },
+   {
+    "w": "no",
+    "ini": 1.132,
+    "fim": 1.272
+   },
+   {
+    "w": "es",
+    "ini": 1.33,
+    "fim": 1.388
+   },
+   {
+    "w": "una",
+    "ini": 1.457,
+    "fim": 1.562
+   },
+   {
+    "w": "oración",
+    "ini": 1.585,
+    "fim": 1.922
+   },
+   {
+    "w": "común.",
+    "ini": 1.98,
+    "fim": 2.433
+   },
+   {
+    "w": "Toca",
+    "ini": 2.683,
+    "fim": 2.974
+   },
+   {
+    "w": "el",
+    "ini": 2.997,
+    "fim": 3.043
+   },
+   {
+    "w": "botón",
+    "ini": 3.09,
+    "fim": 3.357
+   },
+   {
+    "w": "Ver",
+    "ini": 3.403,
+    "fim": 3.519
+   },
+   {
+    "w": "más,",
+    "ini": 3.577,
+    "fim": 3.821
+   },
+   {
+    "w": "aquí",
+    "ini": 3.856,
+    "fim": 4.042
+   },
+   {
+    "w": "abajo",
+    "ini": 4.065,
+    "fim": 4.332
+   },
+   {
+    "w": "del",
+    "ini": 4.367,
+    "fim": 4.46
+   },
+   {
+    "w": "video,",
+    "ini": 4.518,
+    "fim": 5.005
+   },
+   {
+    "w": "y",
+    "ini": 5.255,
+    "fim": 5.325
+   },
+   {
+    "w": "aprende",
+    "ini": 5.418,
+    "fim": 5.801
+   },
+   {
+    "w": "la",
+    "ini": 5.847,
+    "fim": 5.917
+   },
+   {
+    "w": "forma",
+    "ini": 5.987,
+    "fim": 6.254
+   },
+   {
+    "w": "correcta,",
+    "ini": 6.3,
+    "fim": 6.765
+   },
+   {
+    "w": "mientras",
+    "ini": 6.788,
+    "fim": 7.194
+   },
+   {
+    "w": "todavía",
+    "ini": 7.252,
+    "fim": 7.693
+   },
+   {
+    "w": "está",
+    "ini": 7.717,
+    "fim": 7.926
+   },
+   {
+    "w": "disponible.",
+    "ini": 7.984,
+    "fim": 8.738
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    0.882,
+    1.132
+   ],
+   [
+    2.433,
+    2.683
+   ],
+   [
+    5.005,
+    5.255
+   ],
+   [
+    8.738,
+    8.918
+   ]
+  ],
+  "avatar": true,
+  "fonte": "P6"
+ }
+}

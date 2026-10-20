@@ -1,0 +1,6 @@
+{"orig": "../../../UNICOS_HD/15.mp4", "base": "base_sem_legenda.mp4", "narr": "narracao_es.wav",
+ "segs": [
+  {"nome": "s1", "q0": 0, "q1": 140, "crop": null, "cola": [372, 405, 125, 140]},
+  {"nome": "s2", "q0": 141, "q1": 403, "crop": null, "cola": [372, 405, 125, 140]},
+  {"nome": "s3", "q0": 404, "q1": 541, "crop": [247, 120, 216, 384], "cola": [366, 298, 46, 54]}
+ ]}

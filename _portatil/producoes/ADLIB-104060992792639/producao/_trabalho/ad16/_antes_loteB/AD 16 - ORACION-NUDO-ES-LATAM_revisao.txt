@@ -1,0 +1,142 @@
+REVISÃO: AD 16 - ORACION-NUDO-ES-LATAM.mp4
+duração 92.40s | 720x1280 | 30/1 fps | áudio: sim | 27.3 MB
+decodificação: OK
+pts do áudio: 4329 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 9 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1118-1184, x 232-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-104060992792639\producao\AD 16 - ORACION-NUDO-ES-LATAM_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  4.80 Vine a traer paz a tu corazón y a desatar el nudo que detiene tu vida.
+   6.70-  9.90 Porque no fue por casualidad que este video llegó hasta ti.
+   9.90- 13.20 Fuiste tú a quien elegí, entre tanta gente.
+  13.20- 17.80 Hay una gran bendición separada con tu nombre y ya está en camino hacia ti.
+  17.80- 22.40 Pero hay un nudo apretado en medio del camino que la detiene del lado de afuera.
+  22.40- 25.50 Y ese nudo no lo ataste tú, no es que tu fe sea débil.
+  25.50- 28.90 Resaste, encendiste velas, hiciste promesas
+  28.90- 31.70 y aún así tu corazón no encontraba descanso
+  31.70- 33.60 y ese peso en tu pecho no se iba.
+  33.60- 35.20 La culpa nunca fue tuya.
+  35.20- 38.80 Siempre fue ese nudo y solo se desata de una manera,
+  38.80- 41.20 con una oración de nueve palabras,
+  41.20- 43.00 rezada en el orden correcto,
+  43.00- 44.50 tal como te voy a enseñar.
+  44.50- 46.20 No se trata de rezar más.
+  46.20- 50.20 Lo que desata ese nudo es rezar de la manera correcta.
+  50.20- 52.90 Y cuando se desate, la paz vuelve a tu corazón
+  52.90- 54.90 y la alegría vuelve a tu hogar.
+  54.90- 57.70 Las preocupaciones que te quitan el sueño se alivian
+  57.70- 61.08 y ese peso que te acompaña hace tanto tiempo empieza a irse.
+  62.58- 65.04 Pero presta mucha atención hasta el final,
+  65.04- 68.44 porque esta oración sagrada fue preparada con amor para ti.
+  69.74- 72.04 Entonces toca el botón de abajo ahora,
+  72.04- 74.24 porque te dejé un video corto y gratuito
+  74.24- 76.44 con el orden correcto de las oraciones,
+  76.44- 78.94 una para cada nudo, pero sé rápido.
+  82.24- 84.28 No dejes pasar este momento.
+  84.28- 87.08 Hay quien no quiere que esta bendición llegue hasta ti.
+  87.70- 91.70 Toca el botón de abajo y recibe lo que Dios preparó para ti.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  4.80    Vine atraer paz a teu coração e a desatar o nudo que detiene a tua vida.
+   6.70-  9.90    Porque não foi por casualidade que este vídeo chegou até ti.
+   9.90- 13.20    Fui-ste tu a quem elegi, entre tanta gente.
+  13.20- 16.10    Há uma grande bendição separada com o teu nome.
+  16.10- 17.80    E já está em caminho para ti.
+  17.80- 22.40    Mas há um nudo apertado no meio do caminho, que detende o lado de fora.
+  22.40- 25.50    E esse nudo não o ataste tu, não é que tu fecesse a débile.
+  25.50- 28.90    Rezaste, encendiste velas, hiciste promessas.
+  28.90- 33.56    E ainda assim, seu coração não encontrava descanso, e esse peso em seu peito não se iba.
+  33.56- 38.78    A culpa nunca foi sua, sempre foi esse nudo, e só se desata de uma maneira,
+  38.78- 44.52    com uma oração de 9 palavras, reçada no ordem correto, tal como vou te ensinar.
+  44.52- 50.18    Não se trata de rezar mais, o que desata esse nudo é rezar de maneira correta.
+  50.18- 54.90    E quando se desata, a paz volta ao seu coração e a alegria volta ao seu hogar.
+  54.90- 57.66    As preocupações que te quitaram o sonho se aliviam
+  57.66- 61.26    e esse peso que te acompanha há tanto tempo começa a ir.
+  62.58- 65.10    Mas presta muita atenção até o final,
+  65.10- 68.54    porque esta oração sagrada foi preparada com amor para você.
+  69.74- 72.06    Então toca o botão de baixo agora,
+  72.06- 76.42    porque deixei um vídeo corto e gratuito com o ordem correto das orações,
+  76.42- 79.14    uma para cada nudo, mas se rápido.
+  82.22- 84.30    Não deixe passar esse momento.
+  84.30- 87.06    Há quem não quer que esta bendição chegue até você.
+  88.20- 91.64    Toca o botão de baixo e recebe o que Deus preparou para você.
+
+=== lipsync ===
+LIPSYNC: full_a1.mp4 (292 quadros, rosto em 100%, rosto 280,420,230,370 [forçado (--rosto)])
+  boca x original: dif. boca 11.24 | dif. controle 4.44 | mudou em 58% dos quadros | corr. abertura saída x original 0.23
+  pausas da voz nova: índice de pausa 0.18 (64 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.56 (atraso 33 ms) | corr. original 0.37
+APROVADO: boca mudou em 58% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.18)
+LIPSYNC: full_b1.mp4 (229 quadros, rosto em 100%, rosto 395,265,155,195 [forçado (--rosto)])
+  boca x original: dif. boca 12.14 | dif. controle 4.17 | mudou em 72% dos quadros | corr. abertura saída x original 0.03
+  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.32 (atraso 33 ms) | corr. original 0.19
+AVISO: boca mudou em 72% dos quadros; correlação com o áudio novo 0.32 (original 0.19); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: full_c1.mp4 (240 quadros, rosto em 100%, rosto 385,320,145,190 [forçado (--rosto)])
+  boca x original: dif. boca 14.09 | dif. controle 4.40 | mudou em 82% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.05 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.39 (atraso 0 ms) | corr. original 0.27
+APROVADO: boca mudou em 82% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.05)
+LIPSYNC: full_c2.mp4 (323 quadros, rosto em 100%, rosto 380,320,150,200 [forçado (--rosto)])
+  boca x original: dif. boca 14.54 | dif. controle 4.17 | mudou em 82% dos quadros | corr. abertura saída x original 0.09
+  pausas da voz nova: índice de pausa 0.31 (22 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.15 (atraso 33 ms) | corr. original 0.01
+APROVADO: boca mudou em 82% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.31)
+LIPSYNC: full_d1.mp4 (289 quadros, rosto em 100%, rosto 395,335,125,160 [forçado (--rosto)])
+  boca x original: dif. boca 15.32 | dif. controle 4.34 | mudou em 88% dos quadros | corr. abertura saída x original 0.12
+  pausas da voz nova: índice de pausa 0.17 (16 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.43 (atraso -33 ms) | corr. original 0.01
+APROVADO: boca mudou em 88% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.17)
+LIPSYNC: full_e1.mp4 (274 quadros, rosto em 100%, rosto 395,265,150,205 [forçado (--rosto)])
+  boca x original: dif. boca 15.45 | dif. controle 4.23 | mudou em 89% dos quadros | corr. abertura saída x original 0.07
+  pausas da voz nova: índice de pausa 0.06 (41 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.53 (atraso 0 ms) | corr. original 0.21
+APROVADO: boca mudou em 89% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.06)
+LIPSYNC: full_f1.mp4 (299 quadros, rosto em 100%, rosto 395,335,125,155 [forçado (--rosto)])
+  boca x original: dif. boca 14.21 | dif. controle 4.28 | mudou em 85% dos quadros | corr. abertura saída x original 0.10
+  pausas da voz nova: índice de pausa 0.03 (47 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.53 (atraso 0 ms) | corr. original 0.27
+APROVADO: boca mudou em 85% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.03)
+LIPSYNC: full_g1.mp4 (66 quadros, rosto em 100%, rosto 405,295,140,170 [forçado (--rosto)])
+  boca x original: dif. boca 17.92 | dif. controle 4.41 | mudou em 94% dos quadros | corr. abertura saída x original 0.04
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.36 (atraso 0 ms) | corr. original 0.13
+AVISO: boca mudou em 94% dos quadros; correlação com o áudio novo 0.36 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: full_h1.mp4 (69 quadros, rosto em 100%, rosto 400,268,160,190 [forçado (--rosto)])
+  boca x original: dif. boca 14.20 | dif. controle 4.35 | mudou em 83% dos quadros | corr. abertura saída x original -0.07
+  pausas da voz nova: índice de pausa 0.04 (34 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.76 (atraso 0 ms) | corr. original 0.43
+APROVADO: boca mudou em 83% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.04)
+LIPSYNC: full_i1r.mp4 (192 quadros, rosto em 100%, rosto 388,335,135,150 [forçado (--rosto)])
+  boca x original: dif. boca 15.90 | dif. controle 4.18 | mudou em 92% dos quadros | corr. abertura saída x original 0.14
+  pausas da voz nova: índice de pausa - (4 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.15 (atraso 0 ms) | corr. original 0.13
+AVISO: boca mudou em 92% dos quadros; correlação com o áudio novo 0.15 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: full_j1.mp4 (85 quadros, rosto em 100%, rosto 405,258,160,185 [forçado (--rosto)])
+  boca x original: dif. boca 16.23 | dif. controle 4.16 | mudou em 87% dos quadros | corr. abertura saída x original 0.18
+  pausas da voz nova: índice de pausa 0.51 (11 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.42 (atraso 0 ms) | corr. original 0.17
+APROVADO: boca mudou em 87% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.51)
+LIPSYNC: full_k1.mp4 (269 quadros, rosto em 100%, rosto 257,430,201,215 [4 rostos; escolhido o que mudou em relação ao original])
+  boca x original: dif. boca 14.22 | dif. controle 3.85 | mudou em 84% dos quadros | corr. abertura saída x original 0.14
+  pausas da voz nova: índice de pausa 0.09 (133 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.82 (atraso 167 ms) | corr. original 0.26
+APROVADO: boca mudou em 84% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.09)
+LIPSYNC: full_l1.mp4 (139 quadros, rosto em 100%, rosto 375,325,155,195 [forçado (--rosto)])
+  boca x original: dif. boca 15.31 | dif. controle 4.11 | mudou em 94% dos quadros | corr. abertura saída x original 0.19
+  pausas da voz nova: índice de pausa 0.03 (32 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.62 (atraso 33 ms) | corr. original 0.14
+APROVADO: boca mudou em 94% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.03)
+índice de pausa do conjunto (13 trechos): 0.13 -> APROVADO
+
+=== RESULTADO ===
+aviso: lipsync full_b1.mp4: boca mudou em 72% dos quadros; correlação com o áudio novo 0.32 (original 0.19); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync full_g1.mp4: boca mudou em 94% dos quadros; correlação com o áudio novo 0.36 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync full_i1r.mp4: boca mudou em 92% dos quadros; correlação com o áudio novo 0.15 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+OK: nenhum problema encontrado

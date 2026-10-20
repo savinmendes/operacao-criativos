@@ -1,0 +1,71 @@
+{
+ "idioma": "sem fala (whisper vazio, prob 0.33) - ASMR",
+ "origem": {
+  "perfil": "@torktools (TikTok)",
+  "tipo": "loja/criador ASMR unboxing"
+ },
+ "resolucao": "576x1024 (abaixo de 720p)",
+ "duracao_s": 74.2,
+ "cortes": {
+  "n": 13,
+  "tempos_s": [
+   1.2,
+   4.8,
+   5.2,
+   6.6,
+   18.1,
+   39.4,
+   41.4,
+   46.3,
+   50.3,
+   52.9,
+   59.9,
+   60.5,
+   67.2
+  ],
+  "ritmo": "médio; o som do manuseio dita o ritmo"
+ },
+ "formato": "UGC unboxing ASMR (mãos femininas, sem fala)",
+ "gancho": {
+  "visual": "mãos abrindo maleta DeWalt no chão",
+  "fala": "sem fala (ASMR)",
+  "texto_tela": "ícone fone 'ASMR' no canto"
+ },
+ "corpo": [
+  {
+   "t": "0-20",
+   "bloco": "abre maleta, manual, bateria 4Ah, carregador"
+  },
+  {
+   "t": "20-40",
+   "bloco": "desembala sacos plásticos, peças, mandril"
+  },
+  {
+   "t": "40-60",
+   "bloco": "encaixa bateria, empunhadura lateral"
+  },
+  {
+   "t": "60-74",
+   "bloco": "guarda tudo e fecha a maleta"
+  }
+ ],
+ "cta": "nenhum",
+ "texto_tela": "ícone ASMR fixo",
+ "produto": {
+  "modelo": "DeWalt 20V XR premium (selo XR, mandril metálico, empunhadura lateral, bateria 4Ah); modelo não legível, provável DCD996/DCD998",
+  "nosso_produto": false
+ },
+ "rosto": {
+  "sim": false,
+  "tempo": "0 (só mãos)"
+ },
+ "marca_dagua": "ícone ASMR (overlay pequeno)",
+ "audio": "ASMR, só sons do unboxing",
+ "uso": "só referência de formato",
+ "uso_motivo": "unboxing ASMR do kit em maleta é forte para 'tudo que vem no kit'; produto e bateria 4Ah diferentes (não usar takes)",
+ "nota": 3,
+ "nota_just": "formato barato de reproduzir com o nosso kit (maleta + 2 baterias 2Ah + carregador).",
+ "ad": "39",
+ "transcricao": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\_ref\\_transcricoes\\39.json",
+ "n_segmentos_fala": 0
+}

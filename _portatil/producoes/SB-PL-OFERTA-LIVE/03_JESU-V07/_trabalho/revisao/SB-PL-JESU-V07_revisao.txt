@@ -1,0 +1,35 @@
+REVISÃO: SB-PL-JESU-V07.mp4
+duração 30.61s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 28.4 MB
+decodificação: OK
+pts do áudio: 1436 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1794-1919
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-PL-OFERTA-LIVE\03_JESU-V07\_trabalho\revisao\SB-PL-JESU-V07_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  4.88 Jeśli teraz zamknieś ten film, cud z twoim imieniem otrzyma ktoś inny.
+   4.88-  8.90 To ostatni raz, gdy Bóg spróbuje przemówić do ciebie w ten sposób.
+   8.90- 10.80 Jezus wybrał ciebie.
+  10.80- 14.12 Przygotował potężny dar, tylko dla ciebie.
+  14.12- 19.80 Dziś usłyszysz zaginioną modlitwę świętego Benedikta, która uwalnia deszcz cudów.
+  19.80- 26.48 Ale tylko jeśli znowu jej nie odrzucisz, dotknij i dowiedz się więcej poniżej i dołącz do modlitwy na żywo.
+  26.48- 30.48 Przyjmij swój cud, zanim drzwi zamkną się na zawsze.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  4.88    If you close this video now, it feels like someone else is holding your hand.
+   4.88-  8.92    This is the last time when God tries to convince you in this way.
+   8.92- 10.80    Jesus chose you.
+  10.80- 14.12    He prepared a powerful gift only for you.
+  14.12- 19.80    Today you will hear the dying prayer of the Holy Benedict who releases the rain of miracles.
+  19.80- 22.36    But only if you don't reject it again.
+  22.36- 26.48    Touch and learn more below and join the prayer live.
+  26.48- 30.48    Take your miracle before the door closes forever.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,193 @@
+{
+ "video": "../../../VIDEOS/17 AD.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/17 AD - ES.mp4",
+ "W": 720,
+ "H": 1280,
+ "audio": "orig",
+ "camadas": [
+  {
+   "tipo": "rotulo",
+   "rect": [
+    100,
+    550,
+    620,
+    670
+   ],
+   "linhas": [
+    "Un limpiador que limpia",
+    "todas las superficies de tu casa"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 0,
+   "ate": 3.003
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    240,
+    548,
+    480,
+    624
+   ],
+   "linhas": [
+    "Alfombras"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 3.003,
+   "ate": 4.204
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    270,
+    548,
+    450,
+    624
+   ],
+   "linhas": [
+    "Pisos"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 4.204,
+   "ate": 5.739
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    140,
+    548,
+    580,
+    624
+   ],
+   "linhas": [
+    "Vaporizador de mano"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 5.739,
+   "ate": 6.573
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    180,
+    548,
+    540,
+    624
+   ],
+   "linhas": [
+    "Freidora de aire"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 6.573,
+   "ate": 9.109
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    260,
+    548,
+    460,
+    624
+   ],
+   "linhas": [
+    "Horno"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 9.109,
+   "ate": 11.812
+  },
+  {
+   "tipo": "rotulo",
+   "rect": [
+    160,
+    548,
+    560,
+    624
+   ],
+   "linhas": [
+    "Microondas y más"
+   ],
+   "fundo": "#ffffff",
+   "cores": [
+    "#111111"
+   ],
+   "px": 40,
+   "fonte": "semi",
+   "raio": 16,
+   "pad": 14,
+   "de": 11.812,
+   "ate": 99
+  },
+  {
+   "tipo": "selo",
+   "x": 190,
+   "y": 720,
+   "larg": 340,
+   "linhas": [
+    "PAGO CONTRA",
+    "ENTREGA"
+   ],
+   "fita": "¡PAGAS AL RECIBIR!",
+   "de": 0,
+   "ate": 99
+  },
+  {
+   "tipo": "cta",
+   "cx": 360,
+   "y": 930,
+   "px": 44,
+   "de": 10.0,
+   "setas_de": 10.3,
+   "setas_x": [
+    170,
+    416
+   ],
+   "setas_y": 1060,
+   "seta_tam": 110,
+   "ate": 99
+  }
+ ],
+ "fps_in": 29.97
+}

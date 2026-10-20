@@ -1,0 +1,25 @@
+{
+ "id": "04",
+ "video": "original_04.mp4",
+ "fundo": "orig_04",
+ "narr": "narr_B.mp3",
+ "narr_inicio": 9.0,
+ "atempo": 1.01,
+ "aviso": [
+  "Este video está acelerado e incluye varios cortes de escena,",
+  "con limpieza de maleza y cambio de batería durante el proceso."
+ ],
+ "faixa_topo": 1150,
+ "gancho": {
+  "linhas": [
+   "Bueno… creo que ya no la puedo devolver 😅"
+  ],
+  "px": 25,
+  "negrito": false,
+  "cy": 470,
+  "cobrir_w": 484,
+  "cobrir_h": 52,
+  "de": 0,
+  "ate": 6.1
+ }
+}

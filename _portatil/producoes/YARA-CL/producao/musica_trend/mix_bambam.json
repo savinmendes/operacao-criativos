@@ -1,0 +1,9 @@
+{
+ "nome": "bambam",
+ "inst": "sep/htdemucs/bambam/no_vocals.wav",
+ "inicio_s": 60.547,
+ "ganho_musica_db": -3.4,
+ "musica_sob_voz_lufs": -24.0,
+ "final_lufs": -14.6,
+ "pico_dbfs": -1.8
+}

@@ -1,0 +1,99 @@
+{
+ "texto": "Si te echas perfume y te frotas las mullegas, lo estás haciendo mal o estás haciendo el asmelo.",
+ "esperado": "Si te echas perfume y te frotas las muñecas, lo estás haciendo mal.",
+ "faltam": [
+  "munecas"
+ ],
+ "palavras": [
+  {
+   "p": "Si",
+   "ini": 0.0,
+   "fim": 0.38
+  },
+  {
+   "p": "te",
+   "ini": 0.38,
+   "fim": 0.6
+  },
+  {
+   "p": "echas",
+   "ini": 0.6,
+   "fim": 0.92
+  },
+  {
+   "p": "perfume",
+   "ini": 0.92,
+   "fim": 1.4
+  },
+  {
+   "p": "y",
+   "ini": 1.4,
+   "fim": 1.7
+  },
+  {
+   "p": "te",
+   "ini": 1.7,
+   "fim": 1.94
+  },
+  {
+   "p": "frotas",
+   "ini": 1.94,
+   "fim": 2.26
+  },
+  {
+   "p": "las",
+   "ini": 2.26,
+   "fim": 2.5
+  },
+  {
+   "p": "mullegas,",
+   "ini": 2.5,
+   "fim": 3.74
+  },
+  {
+   "p": "lo",
+   "ini": 4.14,
+   "fim": 4.42
+  },
+  {
+   "p": "estás",
+   "ini": 4.42,
+   "fim": 4.64
+  },
+  {
+   "p": "haciendo",
+   "ini": 4.64,
+   "fim": 5.12
+  },
+  {
+   "p": "mal",
+   "ini": 5.12,
+   "fim": 5.54
+  },
+  {
+   "p": "o",
+   "ini": 5.54,
+   "fim": 6.48
+  },
+  {
+   "p": "estás",
+   "ini": 6.48,
+   "fim": 6.76
+  },
+  {
+   "p": "haciendo",
+   "ini": 6.76,
+   "fim": 7.26
+  },
+  {
+   "p": "el",
+   "ini": 7.26,
+   "fim": 7.38
+  },
+  {
+   "p": "asmelo.",
+   "ini": 7.38,
+   "fim": 7.84
+  }
+ ]
+}

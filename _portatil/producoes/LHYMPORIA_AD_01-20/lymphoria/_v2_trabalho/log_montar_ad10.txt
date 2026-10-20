@@ -1,0 +1,18 @@
+(reaproveitado) v2_b1.mp4
+(reaproveitado) v2_b2.mp4
+(reaproveitado) v2_b3.mp4
+(reaproveitado) v2_b4.mp4
+>> -v error -y -i v2_b4.mp4
+>> -v error -y -i v2_parte1_so_video.mp4
+>> montar_ad.py receita_final_v2.json
+aviso: 7.3 min não cabe em 30 MB com qualidade; usando 900 kbps (~55 MB)
+arquivo : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 10 - LYMPHORIA-MATRIMONIO-ES-LATAM v2.mp4
+duração : 439.00s | 720x1280 | áudio: sim | 53.3 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 10 - LYMPHORIA-MATRIMONIO-ES-LATAM v2_frames.jpg
+RESULTADO: OK
+CTA em 435.19s
+montagem rápida: 95s para 439s de vídeo (0.22x)
+PRONTO C:\Users\PICHAU\Downloads\LHYMPORIA AD 01-20\lymphoria\_v2_corrigidos\AD 10 - LYMPHORIA-MATRIMONIO-ES-LATAM v2.mp4
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 13049, "psnr_min": 27.86, "psnr_medio": 38.71, "px40_max": 13713, "px40_medio": 168.27, "quadro_px40_max": 9476, "t_px40_max": 315.87}, "parte1_fora_dos_takes": {"quadros": 12363, "px40_max": 57, "t_px40_max": 284.77, "quadros_com_px40>50": 5}, "parte1_dentro_dos_takes": {"quadros": 116, "px40_medio": 539.2}}
+{"quadros": 116, "psnr_medio": 34.75, "px40_medio": 783.8, "px40_max": 1413}

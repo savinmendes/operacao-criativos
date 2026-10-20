@@ -1,0 +1,4 @@
+jobs criados 18:49 (saldo antes 8797 as 18:48)
+saldo 18:48 (antes dos jobs): 8797
+jobs (speed): EN01 A daf2ae58c502457299088509212f8ae3 6.07s | EN01 B 2b3c4e66db994c8d9b6a1d89f30034c0 4.67s | EN07 A 94dc51c6871946baba8b28092fed8ad8 4.13s -> 14.87 s ~ 15 creditos estimados (~1 cr/s speed)
+saldo 19:00 (logo apos): 8797 (cobranca atrasa; outros agentes usam HeyGen em paralelo)

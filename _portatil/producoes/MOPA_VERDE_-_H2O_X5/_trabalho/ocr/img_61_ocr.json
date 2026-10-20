@@ -1,0 +1,266 @@
+[
+ {
+  "texto": "H20X5",
+  "conf": 0.9,
+  "caixa": [
+   168,
+   86,
+   483,
+   154
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "TM",
+  "conf": 1.0,
+  "caixa": [
+   488,
+   87,
+   513,
+   102
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H2O",
+  "conf": 0.85,
+  "caixa": [
+   102,
+   116,
+   153,
+   138
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "EXCLUSIVELIMITED-TIMEOFFER",
+  "conf": 0.99,
+  "caixa": [
+   90,
+   201,
+   573,
+   228
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "A Healthier Home,",
+  "conf": 0.94,
+  "caixa": [
+   60,
+   249,
+   696,
+   338
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "PoweredbyS",
+  "conf": 0.97,
+  "caixa": [
+   56,
+   340,
+   502,
+   420
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Steam",
+  "conf": 1.0,
+  "caixa": [
+   473,
+   343,
+   705,
+   412
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SAVE $55",
+  "conf": 0.91,
+  "caixa": [
+   59,
+   447,
+   703,
+   607
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "On the H2O X5 Steam Cleaner",
+  "conf": 0.99,
+  "caixa": [
+   101,
+   615,
+   647,
+   658
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "5-in-1",
+  "conf": 1.0,
+  "caixa": [
+   535,
+   704,
+   605,
+   739
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "海",
+  "conf": 0.71,
+  "caixa": [
+   129,
+   727,
+   172,
+   766
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Kills 99%",
+  "conf": 1.0,
+  "caixa": [
+   92,
+   819,
+   207,
+   849
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "Chemical-",
+  "conf": 1.0,
+  "caixa": [
+   296,
+   820,
+   424,
+   851
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "5-in-1",
+  "conf": 1.0,
+  "caixa": [
+   530,
+   820,
+   608,
+   851
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "of bacteria,",
+  "conf": 0.98,
+  "caixa": [
+   90,
+   847,
+   211,
+   878
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Free",
+  "conf": 1.0,
+  "caixa": [
+   335,
+   850,
+   395,
+   880
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Versatility",
+  "conf": 0.99,
+  "caixa": [
+   505,
+   847,
+   628,
+   883
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "viruses& germs*",
+  "conf": 0.97,
+  "caixa": [
+   60,
+   873,
+   243,
+   902
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "4,000+ Reviews",
+  "conf": 0.99,
+  "caixa": [
+   324,
+   927,
+   530,
+   958
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "30-DayMoney-BackGuarantee",
+  "conf": 0.99,
+  "caixa": [
+   153,
+   1001,
+   573,
+   1034
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "Claim My $55 Savings",
+  "conf": 1.0,
+  "caixa": [
+   123,
+   1093,
+   554,
+   1145
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "*Based on controlled lab tests. Efficacy varies by treatment time and surface.",
+  "conf": 0.98,
+  "caixa": [
+   46,
+   1201,
+   638,
+   1227
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

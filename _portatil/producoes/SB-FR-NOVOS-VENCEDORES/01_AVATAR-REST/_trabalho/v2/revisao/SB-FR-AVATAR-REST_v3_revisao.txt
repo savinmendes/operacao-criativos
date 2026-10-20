@@ -1,0 +1,34 @@
+REVISÃO: SB-FR-AVATAR-REST_v3.mp4
+duração 61.30s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 45.6 MB
+decodificação: OK
+pts do áudio: 2875 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-FR-NOVOS-VENCEDORES\01_AVATAR-REST\_trabalho\v2\revisao\SB-FR-AVATAR-REST_v3_revisao.jpg
+idioma detectado: fr (0.99)
+
+=== transcrição (fr) ===
+   0.00-  5.10 Au glorieux Saint-Benoît, aujourd'hui je prononce les paroles gravées sur ta médaille.
+   5.10- 10.70 Délivre-moi de cette misère. Si tu m'entends, aide-moi.
+  10.70- 15.04 J'ai passé presque 6 mois sans client. J'ai même pensé à fermer mon commerce.
+  15.04- 18.26 Jusqu'au jour ou pendant une diffusion en direct,
+  18.26- 22.04 un prêtre a expliqué la façon exacte de demander à Saint-Benoît.
+  22.04- 24.54 Ce jour-là, j'ai retrouvé la paix.
+  24.54- 28.00 Et petit à petit, les portes ont commencé à s'ouvrir.
+  28.00- 31.82 C'est la dernière fois que Dieu essaie de te parler de cette façon.
+  31.82- 33.66 Jésus t'a choisi.
+  33.66- 37.16 Il a préparé un cadeau puissant, rien que pour toi.
+  37.16- 40.92 Dans cette vidéo, tu vas écouter la prière perdue de Saint Benoît,
+  40.92- 43.16 qui débloque une pluie de miracles.
+  43.16- 46.48 Mais seulement si tu ne la refuses pas une fois de plus.
+  46.48- 50.52 Reçois ton miracle avant que la porte ne se ferme pour toujours.
+  50.52- 55.52 En ce moment même, une prière à Saint Benoît est diffusée en direct.
+  55.52- 61.12 Appuie sur « En savoir plus » ci-dessous et rejoins la prière en direct.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

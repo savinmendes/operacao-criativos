@@ -1,0 +1,40 @@
+mobile colecao: {"hc": [328, 0, 62, 39.375], "hcFloat": false, "cards": 15, "btns": 15, "rsi": 15, "btn0": [15, 554.390625, 174, 36], "rsi0": [15, 508.390625, 174, 40], "docW": 390, "rsiText": "Pide y Paga al Recibir", "overflow": false}
+mobile hc float apos rolar: True
+mobile card add handle: lattafa
+mobile carrinho apos add card: {'n': 1, 't': 5990000, 'items': ['lattafa x1']}
+mobile upsell da gaveta adicionou: {'n': 2, 't': 9480000, 'items': ['perfume-arabe-lattafa-asad-100ml-edp-original x1', 'lattafa x1']}
+mobile badge: 1 hidden=false
+mobile carrinho apos 2o card: {'n': 2, 't': 10980000, 'items': ['yara x1', 'lattafa x1']}
+mobile releasit card abriu: 1
+Perfume Árabe Lattafa Asad Zanzibar 100ml EDP Original
+$34.900
+1
+Pack 3x1 Perfumes Árabes Mujer | Yara + Fakhar Rose + Sabah Al Ward 100ml
+$49.900
+1
+Pack 3x1 
+mobile icone abre gaveta: ok
+mobile trava: cv-toast cv-toast--warn is-on | Este producto se despacha por separado de lo que ya tienes en el carrito. Pídelo aparte con «Pide y Paga al Recibir» o revisa tu carrito. {'n': 1, 't': 3990000, 'items': ['mopah2o x1']}
+mobile produto: cv-atc visivel False fab visivel none
+mobile pack lattafa cv-atc: False
+mobile erros JS: ["Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared"]
+desktop colecao: {"hc": [1311.1875, 0, 128.8125, 39.375], "hcFloat": false, "cards": 15, "btns": 15, "rsi": 15, "btn0": [358, 780.109375, 44, 40], "rsi0": [126, 780.109375, 224, 40], "docW": 1440, "rsiText": "Pide y Paga al Recibir", "overflow": false}
+desktop hc float apos rolar: True
+desktop card add handle: lattafa
+desktop carrinho apos add card: {'n': 1, 't': 5990000, 'items': ['lattafa x1']}
+desktop upsell da gaveta adicionou: {'n': 2, 't': 9480000, 'items': ['perfume-arabe-lattafa-asad-100ml-edp-original x1', 'lattafa x1']}
+desktop badge: 1 hidden=false
+desktop carrinho apos 2o card: {'n': 2, 't': 10980000, 'items': ['yara x1', 'lattafa x1']}
+desktop releasit card abriu: 1
+Perfume Árabe Lattafa Asad Zanzibar 100ml EDP Original
+$34.900
+1
+Pack 3x1 Perfumes Árabes Mujer | Yara + Fakhar Rose + Sabah Al Ward 100ml
+$49.900
+1
+Pack 3x1 
+desktop icone abre gaveta: ok
+desktop trava: cv-toast cv-toast--warn is-on | Este producto se despacha por separado de lo que ya tienes en el carrito. Pídelo aparte con «Pide y Paga al Recibir» o revisa tu carrito. {'n': 1, 't': 3990000, 'items': ['mopah2o x1']}
+desktop produto: cv-atc visivel False fab visivel none
+desktop pack lattafa cv-atc: False
+desktop erros JS: ["Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared"]

@@ -1,0 +1,14 @@
+{"ad":"ad05","corte":300.40,"inicio":42.26,"hook":"hook_final.mp4","saida":"AD 05 - LYMPHORIA-ESPOSO-LUZ-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"-","inicio":96.833,"quadros":70},
+{"orig":"flora/t2.mp4","edit_url":"-","inicio":99.167,"quadros":67},
+{"orig":"flora/t3.mp4","edit_url":"-","inicio":119.933,"quadros":22},
+{"orig":"flora/t4.mp4","edit_url":"-","inicio":120.667,"quadros":32},
+{"orig":"flora/t5.mp4","edit_url":"-","inicio":121.733,"quadros":90},
+{"orig":"flora/t7.mp4","edit_url":"-","inicio":249.167,"quadros":34}],
+"textos":[
+{"de":95.77,"ate":99.31,"caixa":"60,930,660,1040","texto":"líquido parecía miel.\nLymphoria.","tipo":"branco","px":36,"fonte":"Poppins-Medium.ttf","contorno":2},
+{"de":245.54,"ate":248.42,"caixa":"60,930,660,1040","texto":"Estás brillando». Le dije:\n«Lymphoria».","tipo":"branco","px":36,"fonte":"Poppins-Medium.ttf","contorno":2},
+{"de":248.47,"ate":250.98,"caixa":"60,930,660,1040","texto":"Ella sacó su\nteléfono","tipo":"branco","px":36,"fonte":"Poppins-Medium.ttf","contorno":2},
+{"de":280.07,"ate":283.11,"caixa":"60,930,660,1040","texto":"mirarte. No es tu culpa,\nno es falta de","tipo":"branco","px":36,"fonte":"Poppins-Medium.ttf","contorno":2},
+{"de":283.14,"ate":286.28,"caixa":"60,930,660,1040","texto":"voluntad. Tu cuerpo solo\nnecesita","tipo":"branco","px":36,"fonte":"Poppins-Medium.ttf","contorno":2}],
+"audios":[{"mp3":"p1.mp3","de":95.19,"ate":98.75},{"mp3":"p2.mp3","de":246.55,"ate":248.88},{"mp3":"p3.mp3","de":280.65,"ate":283.80}]}

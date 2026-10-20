@@ -1,0 +1,36 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/PERFUMES-CL_P7_EL-JUBILADO_H2.mp4",
+ "estilo": "drop",
+ "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/corpo_h2.mp4",
+ "cortar_pausas": false,
+ "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/audio/trilha.mp3",
+ "legenda": {
+  "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD7-EL-JUBILADO/corpo_h2.alinhamento.json",
+  "chaves": [
+   "Lucho",
+   "perfume",
+   "62",
+   "solicitado",
+   "árabes",
+   "uno",
+   "Armaf",
+   "galán",
+   "Asad",
+   "cariñosa",
+   "9PM",
+   "recibes",
+   "Pídelo"
+  ]
+ },
+ "manchete": {
+  "texto": "ME DAN EL PUESTO EN LA FILA 👴🔥",
+  "y": 1500,
+  "ate": 3.6
+ },
+ "cta": {
+  "palavra": "pídelo",
+  "y": 1480
+ },
+ "resolucao": "720",
+ "limite_mb": 30
+}

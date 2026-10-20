@@ -1,0 +1,330 @@
+{
+ "total": 56.4,
+ "fps": 30,
+ "cenas": [
+  {
+   "nome": "S0_ajoelhado",
+   "out_ini": 0,
+   "out_fim": 4.9,
+   "src_ini": 0,
+   "src_dur": 4.9,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S1_ajoelhado2",
+   "out_ini": 4.9,
+   "out_fim": 8.7,
+   "src_ini": 6.3,
+   "src_dur": 3.8,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S2_rest_cheio",
+   "out_ini": 8.7,
+   "out_fim": 10.7,
+   "src_ini": 11.9,
+   "src_dur": 2.0,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S3_selfieA1",
+   "out_ini": 10.7,
+   "out_fim": 12.98,
+   "src_ini": 18.9,
+   "src_dur": 2.28,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "comerciante"
+  },
+  {
+   "nome": "S3_selfieA2",
+   "out_ini": 12.98,
+   "out_fim": 15.2,
+   "src_ini": 14.5,
+   "src_dur": 2.22,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "comerciante"
+  },
+  {
+   "nome": "S4_mulher_cel",
+   "out_ini": 15.2,
+   "out_fim": 17.07,
+   "src_ini": 22.72,
+   "src_dur": 1.87,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S5_selfieB1",
+   "out_ini": 17.07,
+   "out_fim": 20.3,
+   "src_ini": 24.7,
+   "src_dur": 3.23,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "comerciante"
+  },
+  {
+   "nome": "S5_selfieB2",
+   "out_ini": 20.3,
+   "out_fim": 22.35,
+   "src_ini": 29.5,
+   "src_dur": 2.05,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "comerciante"
+  },
+  {
+   "nome": "S6_rest_cheio2",
+   "out_ini": 22.35,
+   "out_fim": 25.88,
+   "src_ini": 31.65,
+   "src_dur": 3.53,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S7_padre1",
+   "out_ini": 25.88,
+   "out_fim": 29.15,
+   "src_ini": 37.1,
+   "src_dur": 3.27,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "padre"
+  },
+  {
+   "nome": "S8_multidao",
+   "out_ini": 29.15,
+   "out_fim": 31.4,
+   "src_ini": 40.7,
+   "src_dur": 1.95,
+   "fator": 1.1538,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S9_jesus_bau",
+   "out_ini": 31.4,
+   "out_fim": 35.72,
+   "src_ini": 42.7,
+   "src_dur": 3.2,
+   "fator": 1.35,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S10_padre2",
+   "out_ini": 35.72,
+   "out_fim": 37.19,
+   "src_ini": 45.9,
+   "src_dur": 1.47,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "padre"
+  },
+  {
+   "nome": "S11_casa",
+   "out_ini": 37.19,
+   "out_fim": 40.89,
+   "src_ini": 49.1,
+   "src_dur": 3.45,
+   "fator": 1.0725,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S12_padre3",
+   "out_ini": 40.89,
+   "out_fim": 43.35,
+   "src_ini": 52.567,
+   "src_dur": 2.15,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "padre"
+  },
+  {
+   "nome": "S13_chave",
+   "out_ini": 43.35,
+   "out_fim": 46.1,
+   "src_ini": 54.767,
+   "src_dur": 2.75,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S14_porta",
+   "out_ini": 46.1,
+   "out_fim": 47.41,
+   "src_ini": 59.8,
+   "src_dur": 1.31,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S15_padre4",
+   "out_ini": 47.41,
+   "out_fim": 49.88,
+   "src_ini": 61.833,
+   "src_dur": 2.47,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "padre"
+  },
+  {
+   "nome": "S16_monge",
+   "out_ini": 49.88,
+   "out_fim": 52.04,
+   "src_ini": 64.533,
+   "src_dur": 1.75,
+   "fator": 1.2343,
+   "congela": 0.0,
+   "lipsync": null
+  },
+  {
+   "nome": "S17_padre5",
+   "out_ini": 52.04,
+   "out_fim": 53.68,
+   "src_ini": 66.333,
+   "src_dur": 1.64,
+   "fator": 1.0,
+   "congela": 0.0,
+   "lipsync": "padre"
+  },
+  {
+   "nome": "S18_altar",
+   "out_ini": 53.68,
+   "out_fim": 56.4,
+   "src_ini": 69.133,
+   "src_dur": 2.5,
+   "fator": 1.088,
+   "congela": 0.0,
+   "lipsync": null
+  }
+ ],
+ "falas": [
+  [
+   "hook",
+   0.06,
+   5.75,
+   0.03,
+   "comerciante"
+  ],
+  [
+   "hook",
+   6.45,
+   10.78,
+   6.16,
+   "comerciante"
+  ],
+  [
+   "temo",
+   0.03,
+   2.1,
+   10.8,
+   "comerciante"
+  ],
+  [
+   "temo",
+   2.46,
+   4.43,
+   13.09,
+   "comerciante"
+  ],
+  [
+   "temo",
+   5.16,
+   6.81,
+   15.31,
+   "comerciante"
+  ],
+  [
+   "temo",
+   7.05,
+   10.05,
+   17.18,
+   "comerciante"
+  ],
+  [
+   "temo",
+   10.66,
+   12.44,
+   20.41,
+   "comerciante"
+  ],
+  [
+   "temo",
+   12.8,
+   15.61,
+   22.51,
+   "comerciante"
+  ],
+  [
+   "padre",
+   0.02,
+   3.13,
+   25.91,
+   "padre"
+  ],
+  [
+   "padre",
+   3.75,
+   5.29,
+   29.54,
+   "padre"
+  ],
+  [
+   "padre",
+   5.65,
+   8.82,
+   31.4,
+   "padre"
+  ],
+  [
+   "padre",
+   9.55,
+   15.16,
+   34.79,
+   "padre"
+  ],
+  [
+   "padre",
+   15.89,
+   18.22,
+   40.92,
+   "padre"
+  ],
+  [
+   "padre",
+   18.95,
+   22.15,
+   43.77,
+   "padre"
+  ],
+  [
+   "padre",
+   22.76,
+   26.97,
+   47.44,
+   "padre"
+  ],
+  [
+   "padre",
+   27.41,
+   31.1,
+   52.07,
+   "padre"
+  ]
+ ]
+}

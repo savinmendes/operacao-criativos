@@ -1,0 +1,176 @@
+{
+"id": "A01",
+"take": "take_A01_aurelio.mp4",
+"res": "720x900",
+"fps": 25.0,
+"quadros": 315,
+"dur_video": 12.6,
+"dur_audio": 12.578,
+"dur_audio_enviado": 12.578,
+"whisper": "Sí, eso me pasó a mí. Pero yo había aprendido la oración del Grimorio Sagrado y Secreto de San Benito y decidí hacerla después de aquella situación.",
+"diferencas": [],
+"palavras_whisper": [
+{
+"w": "Sí,",
+"ini": 0.0,
+"fim": 0.28,
+"p": 0.51
+},
+{
+"w": "eso",
+"ini": 0.76,
+"fim": 1.02,
+"p": 0.98
+},
+{
+"w": "me",
+"ini": 1.02,
+"fim": 1.18,
+"p": 1.0
+},
+{
+"w": "pasó",
+"ini": 1.18,
+"fim": 1.54,
+"p": 0.99
+},
+{
+"w": "a",
+"ini": 1.54,
+"fim": 1.86,
+"p": 0.99
+},
+{
+"w": "mí.",
+"ini": 1.86,
+"fim": 2.06,
+"p": 0.98
+},
+{
+"w": "Pero",
+"ini": 2.54,
+"fim": 2.78,
+"p": 0.98
+},
+{
+"w": "yo",
+"ini": 2.78,
+"fim": 3.04,
+"p": 0.98
+},
+{
+"w": "había",
+"ini": 3.04,
+"fim": 3.5,
+"p": 0.99
+},
+{
+"w": "aprendido",
+"ini": 3.5,
+"fim": 4.32,
+"p": 1.0
+},
+{
+"w": "la",
+"ini": 4.32,
+"fim": 4.5,
+"p": 1.0
+},
+{
+"w": "oración",
+"ini": 4.5,
+"fim": 5.06,
+"p": 1.0
+},
+{
+"w": "del",
+"ini": 5.06,
+"fim": 5.36,
+"p": 0.97
+},
+{
+"w": "Grimorio",
+"ini": 5.36,
+"fim": 6.0,
+"p": 0.8
+},
+{
+"w": "Sagrado",
+"ini": 6.0,
+"fim": 6.66,
+"p": 0.81
+},
+{
+"w": "y",
+"ini": 6.66,
+"fim": 6.8,
+"p": 0.89
+},
+{
+"w": "Secreto",
+"ini": 6.8,
+"fim": 7.4,
+"p": 0.67
+},
+{
+"w": "de",
+"ini": 7.4,
+"fim": 7.54,
+"p": 0.99
+},
+{
+"w": "San",
+"ini": 7.54,
+"fim": 7.74,
+"p": 0.95
+},
+{
+"w": "Benito",
+"ini": 7.74,
+"fim": 8.34,
+"p": 0.97
+},
+{
+"w": "y",
+"ini": 8.34,
+"fim": 8.82,
+"p": 0.64
+},
+{
+"w": "decidí",
+"ini": 8.82,
+"fim": 9.48,
+"p": 0.98
+},
+{
+"w": "hacerla",
+"ini": 9.48,
+"fim": 10.1,
+"p": 0.92
+},
+{
+"w": "después",
+"ini": 10.1,
+"fim": 10.52,
+"p": 0.99
+},
+{
+"w": "de",
+"ini": 10.52,
+"fim": 10.84,
+"p": 1.0
+},
+{
+"w": "aquella",
+"ini": 10.84,
+"fim": 11.34,
+"p": 1.0
+},
+{
+"w": "situación.",
+"ini": 11.34,
+"fim": 11.68,
+"p": 1.0
+}
+]
+}

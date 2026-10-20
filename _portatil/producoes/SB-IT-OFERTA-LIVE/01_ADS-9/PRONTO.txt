@@ -1,0 +1,3 @@
+SB-IT-ADS-9 pronto em 16/10/2026.
+SB-IT-ADS-9.mp4 — 102,87 s, 720x1280, 30 fps. Voz ElevenLabs "Jesus The Chosen" (eleven_multilingual_v2), 11 jobs HeyGen speed (todos aprovados, índice de pausa do conjunto 0,22).
+Revisão: revisar_ad.py (whisper it, proibidos, pts, cortes) OK + revisor independente (selo do 1o quadro da live corrigido).

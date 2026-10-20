@@ -1,0 +1,1 @@
+Ícone de interrogação, paleta da marca

@@ -1,0 +1,54 @@
+{
+ "video": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/originais/03.mp4",
+ "fundo": "C:/Users/PICHAU/Downloads/WYZ-CAMARA-LATAM/producao/_trabalho/ad03/sep/htdemucs/orig_03/no_vocals.wav",
+ "fundo_vol": 1.0,
+ "narr": "narr.mp3",
+ "cortes": [
+  [
+   0,
+   13.3
+  ],
+  [
+   16.067,
+   19.9
+  ],
+  [
+   22.933,
+   27.5
+  ],
+  [
+   27.5,
+   33.9
+  ],
+  [
+   33.9,
+   42.8
+  ]
+ ],
+ "offsets": [
+  0.1,
+  4.0,
+  7.7,
+  13.35,
+  16.5,
+  21.5,
+  26.9,
+  30.45,
+  33.85
+ ],
+ "cauda": 1.0,
+ "faixa": [
+  950,
+  1102
+ ],
+ "titulo": {
+  "linhas": [
+   "CÁMARA SOLAR ☀️🎥"
+  ],
+  "px": 44,
+  "cy": 240,
+  "cobrir_w": 580,
+  "cobrir_h": 128,
+  "ate": 7.75
+ }
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "arquivo": "ad30/flora/t6.mp4",
+  "fields": {
+   "Content-Type": "video/mp4",
+   "key": "mcp-uploads/2026/10/5/user_2wm2XVQSycjee2lnzg6C2YSR1I9/38380bca-04ef-4850-9dfe-d94d165d3063.mp4",
+   "x-goog-date": "20261005T013315Z",
+   "x-goog-credential": "vercel-app-prod@flora-prod-455015.iam.gserviceaccount.com/20261005/auto/storage/goog4_request",
+   "x-goog-algorithm": "GOOG4-RSA-SHA256",
+   "policy": "eyJjb25kaXRpb25zIjpbWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwzNjcwMDE2MDBdLHsiQ29udGVudC1UeXBlIjoidmlkZW8vbXA0In0seyJidWNrZXQiOiJmbG9yYS1hc3NldHMtcHJvZCJ9LHsia2V5IjoibWNwLXVwbG9hZHMvMjAyNi8xMC81L3VzZXJfMndtMlhWUVN5Y2plZTJsbnpnNkMyWVNSMUk5LzM4MzgwYmNhLTA0ZWYtNDg1MC05ZGZlLWQ5NGQxNjVkMzA2My5tcDQifSx7IngtZ29vZy1kYXRlIjoiMjAyNjEwMDVUMDEzMzE1WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJ2ZXJjZWwtYXBwLXByb2RAZmxvcmEtcHJvZC00NTUwMTUuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20vMjAyNjEwMDUvYXV0by9zdG9yYWdlL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0xMC0wNVQwMTo0ODoxNVoifQ==",
+   "x-goog-signature": "12330e74e9e9735abd66d5497ba2680e06b732947169ffabec49ca2d90b9b59f3854679ddd02968da27a30e1633c16ea2bee751fddaf242d359636d5355ec51985c6e285250545c4dccf7ce2f5678761bcbf6c614a894970e57d84f5e15cee8d68d43c6db01132a26198ebc6709193c45ef5c78b7c7d324887424cf43d546a61742aea126c73a5b2eb187a64b42a1bcbb1f1a6ad5a3afbcf3cb23a927141da6e85c0f7715e59b4915ae8973f34de76acd5c0c798f003ba482896682a00ce65cab57eb40de057b0a5d0aba293367f53fc6db815c6b7d30dfef295f4b70b20e21f1601da3008bbb5382d93d804f2e43d1f7a391a27574670dfeaaa2ba6ae8aaef9"
+  }
+ }
+]

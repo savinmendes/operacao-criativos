@@ -1,0 +1,1 @@
+{"video": "up/37.mp4", "saida": "limpo/37.mp4", "caixas_json": "cfg/37_caixas.json", "passo": 3, "tipo": "branco", "pad": 8, "sublinhado": true, "retangulo_em": [[250, 2170]], "ret_esq": 55, "caixas_extra": [[250, 352, 190, 148, 530, 228], [760, 830, 140, 205, 625, 290], [890, 960, 110, 565, 605, 645], [1240, 1350, 15, 570, 100, 650]], "excluir": "^\\d+m"}

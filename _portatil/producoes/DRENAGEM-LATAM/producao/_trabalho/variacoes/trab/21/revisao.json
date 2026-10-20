@@ -1,0 +1,27 @@
+{
+ "arquivo": "VAR 21 - G1-ESPOSO-AMIGA x AD30.mp4",
+ "problemas": [],
+ "res": "720x1280",
+ "dur": 310.17,
+ "mb": 38.9,
+ "whisper_gancho": "Vi a mi esposo mirar a mi mejor amiga como antes me miraba a mí Como si yo no estuviera en la sala, esto fue lo que pasó",
+ "whisper_emenda": "en la sala, esto fue lo que pasó Llegué a casa, me miré en el espejo y por fin entendí Porque durante nuestro complicado",
+ "cobertura_gancho": 1.0,
+ "cortes": [
+  1.666667,
+  3.4,
+  5.666667,
+  7.2,
+  8.0,
+  10.366667
+ ],
+ "cortes_plan": [
+  1.667,
+  3.4,
+  5.667,
+  7.2,
+  8.0
+ ],
+ "silencios": [],
+ "ok": true
+}

@@ -1,0 +1,41 @@
+REVISÃO: V5_NOTICIA-TV.mp4
+duração 84.97s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 26.1 MB
+decodificação: OK
+pts do áudio: 3983 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 21 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 792-1115, x 12-504 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-ES_PADRE-CAPTURADO\gancho_g5\revisao\V5_NOTICIA-TV_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.48 Un sacerdote fue retirado de su parroquia por enseñar una oración a San Benito.
+   4.48-  6.88 Este es el video que grabaron sus fieles.
+   6.88-  8.12 ¡Graven!
+   8.12-  9.92 ¡No quieren que el pueblo prospere!
+   9.92- 13.84 Es indignante ver lo que me hicieron solo porque enseñé una oración que podría
+  13.84- 16.52 bendecir y ayudar a muchas personas.
+  16.52- 18.92 Pero la verdad no va a quedar escondida.
+  18.92- 21.84 Le enseñé esta oración a mi amigo, el padre Juan Méndez,
+  21.84- 24.92 y él la está rezando en vivo con miles de familias.
+  24.92- 28.40 Cada día me escriben familias que trabajan sin descanso,
+  28.40- 34.48 que rezan y aun así sienten que el dinero nunca alcanza y que algo les cierra el camino,
+  34.48- 36.00 no es falta de fe.
+  36.00- 41.72 O poderoso San Benito, guardián de los arcanos sagrados, que venciste a las serpientes con
+  41.72- 47.44 la señal de la cruz y callaste el rugido de los abismos con tu fe inquebrantable.
+  47.44- 52.16 Esta es la oración a San Benito que casi nadie conoce y que está ayudando a muchas
+  52.16- 53.88 familias hispanas.
+  53.88- 58.08 Sólo un grupo de monjes tenía acceso a esta oración completa.
+  58.08- 61.82 Por eso nunca habían oído hablar de ella.
+  61.82- 65.40 Pero atención tiene que hacerse de la forma correcta,
+  65.40- 69.20 siguiendo las instrucciones, porque no es una oración común.
+  69.20- 73.92 Tiene instrucciones y una manera correcta de hacerla y de escucharla.
+  73.92- 78.00 Por eso la estoy rezando en vivo, completa, paso a paso,
+  78.00- 79.96 junto con miles de familias.
+  79.96- 84.28 toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

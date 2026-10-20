@@ -1,0 +1,604 @@
+[
+ {
+  "titulo": "Pellorini – Silk Cleaning Cloth",
+  "handle": "pellorini-silk-cleaning-cloth",
+  "link": "https://pellorini.com/products/pellorini-silk-cleaning-cloth",
+  "preco": "7.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copyof3_20260510_105208_0002.webp?v=1791669372"
+ },
+ {
+  "titulo": "Pellorini – Stainless Steel Adjustment Tool",
+  "handle": "pellorini-adjustment-tool",
+  "link": "https://pellorini.com/products/pellorini-adjustment-tool",
+  "preco": "12.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/IMG_20260510_070357_710.webp?v=1791669354"
+ },
+ {
+  "titulo": "Premium Pellorini Box",
+  "handle": "premium-pellorini-box",
+  "link": "https://pellorini.com/products/premium-pellorini-box",
+  "preco": "29.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Adsiz_tasarim_5_f2736efb-19c5-4e6b-91e8-c08f404cd16a.png?v=1791669386"
+ },
+ {
+  "titulo": "Pellorini – Parchment Gift Bag",
+  "handle": "pellorini-parchment-gift-bag",
+  "link": "https://pellorini.com/products/pellorini-parchment-gift-bag",
+  "preco": "12.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/parchement-bag.png?v=1791669384"
+ },
+ {
+  "titulo": "Pellorini Bellissima",
+  "handle": "pellorini-bellissima",
+  "link": "https://pellorini.com/products/pellorini-bellissima",
+  "preco": "355.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_6.png?v=1791666507"
+ },
+ {
+  "titulo": "Pellorini Marcello",
+  "handle": "pellorini-marcello",
+  "link": "https://pellorini.com/products/pellorini-marcello",
+  "preco": "361.00",
+  "variantes": [
+   "White Gold",
+   "Gold",
+   "Rose Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Marcello-Watch-White-Gold.webp?v=1791666509"
+ },
+ {
+  "titulo": "Pellorini Aurora",
+  "handle": "pellorini-aurora",
+  "link": "https://pellorini.com/products/pellorini-aurora",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_7ff7dbbe-d512-4343-a42c-cd8a6f374d58.png?v=1791666505"
+ },
+ {
+  "titulo": "Pellorini Perla",
+  "handle": "pellorini-perla",
+  "link": "https://pellorini.com/products/pellorini-perla",
+  "preco": "355.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_1_7d0147f8-039f-4e60-ad6d-09698de6d447.png?v=1791666502"
+ },
+ {
+  "titulo": "Pellorini Aria",
+  "handle": "pellorini-aria",
+  "link": "https://pellorini.com/products/pellorini-aria",
+  "preco": "283.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_2.png?v=1791666503"
+ },
+ {
+  "titulo": "Pellorini Veloce",
+  "handle": "pellorini-veloce",
+  "link": "https://pellorini.com/products/pellorini-veloce",
+  "preco": "169.00",
+  "variantes": [
+   "Fire",
+   "Sky",
+   "Sun",
+   "Cloud"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_200.webp?v=1791666496"
+ },
+ {
+  "titulo": "Pellorini Gemma",
+  "handle": "pellorini-gemma",
+  "link": "https://pellorini.com/products/pellorini-gemma",
+  "preco": "141.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_3d8c26dc-6a88-4e24-b62d-e8925222e137.png?v=1791666498"
+ },
+ {
+  "titulo": "Pellorini Carina",
+  "handle": "pellorini-carina",
+  "link": "https://pellorini.com/products/pellorini-carina",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_810df93f-0bec-4731-b985-24ea528fe8a6.png?v=1791666494"
+ },
+ {
+  "titulo": "Pellorini Argento",
+  "handle": "pellorini-argento",
+  "link": "https://pellorini.com/products/pellorini-argento",
+  "preco": "129.00",
+  "variantes": [
+   "Two Toned",
+   "Platinum",
+   "Obisidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_161.webp?v=1791666490"
+ },
+ {
+  "titulo": "Pellorini Valentina",
+  "handle": "pellorini-valentina",
+  "link": "https://pellorini.com/products/pellorini-valentina",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_1.png?v=1791666490"
+ },
+ {
+  "titulo": "Pellorini Cristallo",
+  "handle": "pellorini-cristallo",
+  "link": "https://pellorini.com/products/pellorini-cristallo",
+  "preco": "231.00",
+  "variantes": [
+   "White Gold",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/CristalloWhiteGold.webp?v=1791666488"
+ },
+ {
+  "titulo": "Pellorini Livia",
+  "handle": "pellorini-livia",
+  "link": "https://pellorini.com/products/pellorini-livia",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_1_16a4d065-48f9-422d-9c1f-f2faaa8d6bad.png?v=1791666487"
+ },
+ {
+  "titulo": "Pellorini Celeste",
+  "handle": "celeste",
+  "link": "https://pellorini.com/products/celeste",
+  "preco": "129.00",
+  "variantes": [
+   "Default Title"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_132.webp?v=1791666483"
+ },
+ {
+  "titulo": "Pellorini Dario",
+  "handle": "pellorini-dario",
+  "link": "https://pellorini.com/products/pellorini-dario",
+  "preco": "231.00",
+  "variantes": [
+   "Ruby",
+   "Emerald",
+   "Diamond",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Dario-Watch-Ruby.webp?v=1791666484"
+ },
+ {
+  "titulo": "Pellorini Grazia",
+  "handle": "pellorini-grazia",
+  "link": "https://pellorini.com/products/pellorini-grazia",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_a12b94f4-3b93-4711-8618-79bb1ce74229.png?v=1791666482"
+ },
+ {
+  "titulo": "Pellorini Valore",
+  "handle": "pellorini-valore",
+  "link": "https://pellorini.com/products/pellorini-valore",
+  "preco": "212.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_152.webp?v=1791666479"
+ },
+ {
+  "titulo": "Pellorini Roma",
+  "handle": "pellorini-roma",
+  "link": "https://pellorini.com/products/pellorini-roma",
+  "preco": "231.00",
+  "variantes": [
+   "White Gold",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Roma-White_Gold.webp?v=1791666478"
+ },
+ {
+  "titulo": "Pellorini Nocturne",
+  "handle": "pellorini-nocturne",
+  "link": "https://pellorini.com/products/pellorini-nocturne",
+  "preco": "169.00",
+  "variantes": [
+   "Classic",
+   "Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_89_60759bce-e27a-4476-a312-6f4bc7c731d0.webp?v=1791666474"
+ },
+ {
+  "titulo": "Pellorini Milano 2D Carbon",
+  "handle": "pellorini-milano-2d-carbon",
+  "link": "https://pellorini.com/products/pellorini-milano-2d-carbon",
+  "preco": "129.00",
+  "variantes": [
+   "Midnight",
+   "Lunar"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_143.webp?v=1791666473"
+ },
+ {
+  "titulo": "Pellorini Fiorella",
+  "handle": "pellorini-fiorella",
+  "link": "https://pellorini.com/products/pellorini-fiorella",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_c9442583-e659-4808-8b9f-4085b5095728.png?v=1791666476"
+ },
+ {
+  "titulo": "Pellorini Venti",
+  "handle": "pellorini-venti",
+  "link": "https://pellorini.com/products/pellorini-venti",
+  "preco": "199.00",
+  "variantes": [
+   "White Gold",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_135_609bd576-30b1-4604-8f56-070dffdab4d9.webp?v=1791666469"
+ },
+ {
+  "titulo": "Pellorini Luna Perla",
+  "handle": "pellorini-luna-perla",
+  "link": "https://pellorini.com/products/pellorini-luna-perla",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_8f83e2f4-8244-44cc-971e-f99ffbfe91e1.png?v=1791666469"
+ },
+ {
+  "titulo": "Pellorini Vortex",
+  "handle": "vortex",
+  "link": "https://pellorini.com/products/vortex",
+  "preco": "149.00",
+  "variantes": [
+   "Obsidian Gold",
+   "White Gold",
+   "Gold",
+   "Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_171.webp?v=1791666466"
+ },
+ {
+  "titulo": "Pellorini Caelus",
+  "handle": "pellorini-caelus",
+  "link": "https://pellorini.com/products/pellorini-caelus",
+  "preco": "107.00",
+  "variantes": [
+   "White Gold",
+   "Diamond",
+   "Obsidian",
+   "Ruby",
+   "White Obsidian",
+   "Diamond Obsidian",
+   "Full Obsidian",
+   "Rose Gold",
+   "Obsidian Rose Gold",
+   "Ruby Rose Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_122.webp?v=1791666465"
+ },
+ {
+  "titulo": "Pellorini Astro",
+  "handle": "pellorini-astro",
+  "link": "https://pellorini.com/products/pellorini-astro",
+  "preco": "259.00",
+  "variantes": [
+   "White Gold",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_196.webp?v=1791666461"
+ },
+ {
+  "titulo": "Pellorini Bellagio",
+  "handle": "pellorini-bellagio",
+  "link": "https://pellorini.com/products/pellorini-bellagio",
+  "preco": "129.00",
+  "variantes": [
+   "Emerald",
+   "Obsidian",
+   "Ocean"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_79_9a471d09-020b-4e7a-9049-c8d92d0879f4.webp?v=1791666461"
+ },
+ {
+  "titulo": "Pellorini Aureo",
+  "handle": "pellorini-aureo",
+  "link": "https://pellorini.com/products/pellorini-aureo",
+  "preco": "129.00",
+  "variantes": [
+   "Ocean",
+   "Obsidian",
+   "Emerald"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_70_ed6dc4a9-2c53-4664-8e8c-fcef6b6d4eb7.webp?v=1791666459"
+ },
+ {
+  "titulo": "Pellorini Lunetta",
+  "handle": "pellorini-lunetta",
+  "link": "https://pellorini.com/products/pellorini-lunetta",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold",
+   "Obsidian Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Untitled_design_f18a180f-d130-4d2c-90d6-a6237279efd3.png?v=1791666459"
+ },
+ {
+  "titulo": "Pellorini Serpina (Limited Edition)",
+  "handle": "pellorini-serpina",
+  "link": "https://pellorini.com/products/pellorini-serpina",
+  "preco": "212.00",
+  "variantes": [
+   "Gold",
+   "White Gold",
+   "Two-Tone"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/s1_1.png?v=1791666455"
+ },
+ {
+  "titulo": "Pellorini Forte",
+  "handle": "pellorini-forte",
+  "link": "https://pellorini.com/products/pellorini-forte",
+  "preco": "199.00",
+  "variantes": [
+   "White Gold",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_57.webp?v=1791666452"
+ },
+ {
+  "titulo": "Pellorini Portofina",
+  "handle": "pellorini-portofina",
+  "link": "https://pellorini.com/products/pellorini-portofina",
+  "preco": "110.00",
+  "variantes": [
+   "Emerald",
+   "Diamond",
+   "White Gold",
+   "White Obsidian",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_249.webp?v=1791666450"
+ },
+ {
+  "titulo": "Pellorini Serafina",
+  "handle": "pellorini-serafina",
+  "link": "https://pellorini.com/products/pellorini-serafina",
+  "preco": "141.00",
+  "variantes": [
+   "Gold Diamond",
+   "Gold",
+   "White Gold",
+   "Ice Diamond"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Gold_Diamond.png?v=1791666451"
+ },
+ {
+  "titulo": "Pellorini Milano Iced",
+  "handle": "pellorini-milano-iced",
+  "link": "https://pellorini.com/products/pellorini-milano-iced",
+  "preco": "231.00",
+  "variantes": [
+   "White Gold 40MM",
+   "Gold 40MM",
+   "Carbon 40MM"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Silver_533d3dbe-a156-4ad7-b170-d9d33bd40007.webp?v=1791666450"
+ },
+ {
+  "titulo": "Pellorini Napoli",
+  "handle": "pellorini-napoli",
+  "link": "https://pellorini.com/products/pellorini-napoli",
+  "preco": "231.00",
+  "variantes": [
+   "White Gold 40MM",
+   "Gold 40MM",
+   "Rose Gold 40MM"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Napoli-WhiteGold.webp?v=1791666447"
+ },
+ {
+  "titulo": "Pellorini Clovera",
+  "handle": "pellorini-clovera",
+  "link": "https://pellorini.com/products/pellorini-clovera",
+  "preco": "141.00",
+  "variantes": [
+   "Gold",
+   "White Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Adsiz_tasarim_8_741ad19b-dc54-4907-b0eb-0d2da0b19049.webp?v=1791666449"
+ },
+ {
+  "titulo": "Pellorini Lucent",
+  "handle": "pellorini-lucent",
+  "link": "https://pellorini.com/products/pellorini-lucent",
+  "preco": "110.00",
+  "variantes": [
+   "Diamond",
+   "Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_136_f145e92d-1100-4898-b3de-42aeb5beb67a.webp?v=1791666442"
+ },
+ {
+  "titulo": "Pellorini Dante",
+  "handle": "pellorini-dante",
+  "link": "https://pellorini.com/products/pellorini-dante",
+  "preco": "110.00",
+  "variantes": [
+   "Diamond",
+   "Emerald",
+   "Sapphire",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_36.webp?v=1791666440"
+ },
+ {
+  "titulo": "Pellorini Milano Carbon",
+  "handle": "pellorini-milano-carbon",
+  "link": "https://pellorini.com/products/pellorini-milano-carbon",
+  "preco": "129.00",
+  "variantes": [
+   "Midnight / Classic",
+   "Midnight / Arabic",
+   "Cloud / Classic",
+   "Cloud / Arabic",
+   "Sky / Classic",
+   "Moon / Classic",
+   "Forest / Classic"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_3.webp?v=1791666438"
+ },
+ {
+  "titulo": "Pellorini Abito (Limited Edition)",
+  "handle": "pellorini-abito-limited-edition",
+  "link": "https://pellorini.com/products/pellorini-abito-limited-edition",
+  "preco": "180.00",
+  "variantes": [
+   "Ruby",
+   "Obsidian",
+   "Diamond",
+   "White Gold",
+   "Obsidian Gold",
+   "Gold",
+   "Sapphire",
+   "Pearl Gold",
+   "Cognac",
+   "Ruby Gold",
+   "Emerald"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_118.png?v=1791666436"
+ },
+ {
+  "titulo": "Pellorini Titan",
+  "handle": "titan",
+  "link": "https://pellorini.com/products/titan",
+  "preco": "138.00",
+  "variantes": [
+   "Ocean",
+   "Silver Obsidian",
+   "Rose Gold Ocean",
+   "Obsidian",
+   "Obsidian Ocean",
+   "Rose Gold Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_98.webp?v=1791666435"
+ },
+ {
+  "titulo": "Pellorini Maretti",
+  "handle": "pellorini-maretti",
+  "link": "https://pellorini.com/products/pellorini-maretti",
+  "preco": "110.00",
+  "variantes": [
+   "Champagne",
+   "Obsidian",
+   "Gold",
+   "Iron",
+   "Platinum",
+   "Diamond"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_86.webp?v=1791666434"
+ },
+ {
+  "titulo": "Pellorini Opulent",
+  "handle": "pellorini-opulent",
+  "link": "https://pellorini.com/products/pellorini-opulent",
+  "preco": "110.00",
+  "variantes": [
+   "Diamond",
+   "White Gold",
+   "White Obsedian",
+   "Obsidian",
+   "Rose Gold",
+   "Rose Diamond",
+   "Rose Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/78.webp?v=1791666432"
+ },
+ {
+  "titulo": "Pellorini Milano",
+  "handle": "pellorini-milano",
+  "link": "https://pellorini.com/products/pellorini-milano",
+  "preco": "110.00",
+  "variantes": [
+   "Emerald",
+   "Diamond",
+   "White Gold",
+   "Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_62_65b36562-79c0-490d-8ca1-52cb238396bf.webp?v=1791666428"
+ },
+ {
+  "titulo": "Pellorini Dominante",
+  "handle": "pellorini-dominante",
+  "link": "https://pellorini.com/products/pellorini-dominante",
+  "preco": "138.00",
+  "variantes": [
+   "Iced Gold Diamond",
+   "Emerald",
+   "Diamond",
+   "Obsidian",
+   "Gold Diamond",
+   "White Diamond",
+   "Gold Obsidian"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_24.webp?v=1791666427"
+ },
+ {
+  "titulo": "Pellorini Vittorio",
+  "handle": "vittorio",
+  "link": "https://pellorini.com/products/vittorio",
+  "preco": "110.00",
+  "variantes": [
+   "Emerald",
+   "Diamond",
+   "White Gold",
+   "Obsidian",
+   "Gold"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Copy_of_47.webp?v=1791666423"
+ }
+]

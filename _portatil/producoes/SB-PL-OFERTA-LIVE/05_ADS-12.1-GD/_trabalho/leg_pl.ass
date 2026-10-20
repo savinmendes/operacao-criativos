@@ -1,0 +1,82 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: G,Poppins,84,&H00FFFFFF,&H00FFFFFF,&H30000000,&H00000000,0,0,0,0,100,100,1,0,1,12,0,5,50,50,0,1
+Style: C,Poppins,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.67,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}JEŚLI MNIE
+Dialogue: 1,0:00:00.15,0:00:00.67,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&HFFFFFF&}JEŚLI {\c&HFFFFFF&}MNIE
+Dialogue: 0,0:00:00.67,0:00:01.31,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}ZIGNORUJESZ
+Dialogue: 1,0:00:00.67,0:00:01.31,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&H2626FF&}ZIGNORUJESZ
+Dialogue: 0,0:00:01.31,0:00:02.17,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}NIE BĘDĘ\NMIAŁ WYBORU
+Dialogue: 1,0:00:01.31,0:00:02.17,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&HFFFFFF&}NIE {\c&HFFFFFF&}BĘDĘ\N{\c&HFFFFFF&}MIAŁ {\c&HFFFFFF&}WYBORU
+Dialogue: 0,0:00:02.17,0:00:03.08,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}I ODDAM\NKOMUŚ INNEMU
+Dialogue: 1,0:00:02.17,0:00:03.08,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&HFFFFFF&}I {\c&HFFFFFF&}ODDAM\N{\c&HFFFFFF&}KOMUŚ {\c&HFFFFFF&}INNEMU
+Dialogue: 0,0:00:03.08,0:00:03.40,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}CUD
+Dialogue: 1,0:00:03.08,0:00:03.40,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&H2626FF&}CUD
+Dialogue: 0,0:00:03.40,0:00:04.13,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}KTÓREGO TAK\NBARDZO
+Dialogue: 1,0:00:03.40,0:00:04.13,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&HFFFFFF&}KTÓREGO {\c&HFFFFFF&}TAK\N{\c&HFFFFFF&}BARDZO
+Dialogue: 0,0:00:04.13,0:00:05.07,G,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur9c&H000000&}POTRZEBUJESZ
+Dialogue: 1,0:00:04.13,0:00:05.07,C,,0,0,0,,{\an5\pos(540,1515)\fad(40,0)lur1}{\c&HFFFFFF&}POTRZEBUJESZ
+Dialogue: 0,0:00:05.70,0:00:06.20,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}TO TWOJA
+Dialogue: 1,0:00:05.70,0:00:06.20,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}TO {\c&HFFFFFF&}TWOJA
+Dialogue: 0,0:00:06.20,0:00:07.11,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}OSTATNIA SZANSA
+Dialogue: 1,0:00:06.20,0:00:07.11,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&H2626FF&}OSTATNIA {\c&H2626FF&}SZANSA
+Dialogue: 0,0:00:07.11,0:00:07.89,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}BY OTRZYMAĆ TO
+Dialogue: 1,0:00:07.11,0:00:07.89,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}BY {\c&HFFFFFF&}OTRZYMAĆ {\c&HFFFFFF&}TO
+Dialogue: 0,0:00:07.89,0:00:08.40,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}CO DLA CIEBIE
+Dialogue: 1,0:00:07.89,0:00:08.40,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}CO {\c&HFFFFFF&}DLA {\c&HFFFFFF&}CIEBIE
+Dialogue: 0,0:00:08.40,0:00:10.00,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}PRZYGOTOWAŁEM
+Dialogue: 1,0:00:08.40,0:00:10.00,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&H2EF2FF&}PRZYGOTOWAŁEM
+Dialogue: 0,0:00:10.05,0:00:11.88,G,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur9c&H000000&}JEZUS CIĘ WYBRAŁ
+Dialogue: 1,0:00:10.05,0:00:11.88,C,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur1}{\c&HFFFFFF&}JEZUS {\c&HFFFFFF&}CIĘ {\c&H2EF2FF&}WYBRAŁ
+Dialogue: 0,0:00:11.88,0:00:12.55,G,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur9c&H000000&}PRZYNIÓSŁ CI
+Dialogue: 1,0:00:11.88,0:00:12.55,C,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur1}{\c&HFFFFFF&}PRZYNIÓSŁ {\c&HFFFFFF&}CI
+Dialogue: 0,0:00:12.55,0:00:14.32,G,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur9c&H000000&}POTĘŻNY DAR
+Dialogue: 1,0:00:12.55,0:00:14.32,C,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur1}{\c&HFFFFFF&}POTĘŻNY {\c&H2626FF&}DAR
+Dialogue: 0,0:00:14.40,0:00:15.13,G,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur9c&H000000&}DZIŚ USŁYSZYSZ
+Dialogue: 1,0:00:14.40,0:00:15.13,C,,0,0,0,,{\an5\pos(540,1170)\fad(40,0)lur1}{\c&HFFFFFF&}DZIŚ {\c&H2EF2FF&}USŁYSZYSZ
+Dialogue: 0,0:00:15.13,0:00:15.81,G,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur9c&H000000&}STAROŻYTNĄ
+Dialogue: 1,0:00:15.13,0:00:15.81,C,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur1}{\c&HFFFFFF&}STAROŻYTNĄ
+Dialogue: 0,0:00:15.81,0:00:16.75,G,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur9c&H000000&}ZAGINIONĄ\NMODLITWĘ
+Dialogue: 1,0:00:15.81,0:00:16.75,C,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur1}{\c&HFFFFFF&}ZAGINIONĄ\N{\c&H2EF2FF&}MODLITWĘ
+Dialogue: 0,0:00:16.75,0:00:17.76,G,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur9c&H000000&}Z BIBLII
+Dialogue: 1,0:00:16.75,0:00:17.76,C,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur1}{\c&HFFFFFF&}Z {\c&HFFFFFF&}BIBLII
+Dialogue: 0,0:00:17.76,0:00:18.67,G,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur9c&H000000&}KTÓRA SPROWADZI
+Dialogue: 1,0:00:17.76,0:00:18.67,C,,0,0,0,,{\an5\pos(540,1260)\fad(40,0)lur1}{\c&HFFFFFF&}KTÓRA {\c&HFFFFFF&}SPROWADZI
+Dialogue: 0,0:00:18.67,0:00:19.19,G,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur9c&H000000&}NA TWOJE ŻYCIE
+Dialogue: 1,0:00:18.67,0:00:19.19,C,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur1}{\c&HFFFFFF&}NA {\c&HFFFFFF&}TWOJE {\c&H2626FF&}ŻYCIE
+Dialogue: 0,0:00:19.19,0:00:19.51,G,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur9c&H000000&}DESZCZ
+Dialogue: 1,0:00:19.19,0:00:19.51,C,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur1}{\c&HFFFFFF&}DESZCZ
+Dialogue: 0,0:00:19.51,0:00:20.29,G,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur9c&H000000&}BŁOGOSŁAWIEŃSTW
+Dialogue: 1,0:00:19.51,0:00:20.29,C,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur1}{\c&H3DE65A&}BŁOGOSŁAWIEŃSTW
+Dialogue: 0,0:00:20.29,0:00:22.97,G,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur9c&H000000&}I CUDÓW
+Dialogue: 1,0:00:20.29,0:00:22.97,C,,0,0,0,,{\an5\pos(540,1230)\fad(40,0)lur1}{\c&HFFFFFF&}I {\c&H2626FF&}CUDÓW
+Dialogue: 0,0:00:22.97,0:00:24.10,G,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur9c&H000000&}NIE ODRZUCAJ\NMNIE
+Dialogue: 1,0:00:22.97,0:00:24.10,C,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur1}{\c&HFFFFFF&}NIE {\c&H2626FF&}ODRZUCAJ\N{\c&HFFFFFF&}MNIE
+Dialogue: 0,0:00:24.10,0:00:25.55,G,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur9c&H000000&}ZNOWU
+Dialogue: 1,0:00:24.10,0:00:25.55,C,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur1}{\c&HFFFFFF&}ZNOWU
+Dialogue: 0,0:00:25.55,0:00:26.12,G,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur9c&H000000&}DOTKNIJ
+Dialogue: 1,0:00:25.55,0:00:26.12,C,,0,0,0,,{\an5\pos(540,1185)\fad(40,0)lur1}{\c&HFFFFFF&}DOTKNIJ
+Dialogue: 0,0:00:26.12,0:00:26.95,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}DOWIEDZ SIĘ\NWIĘCEJ
+Dialogue: 1,0:00:26.12,0:00:26.95,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&H2EF2FF&}DOWIEDZ {\c&H2EF2FF&}SIĘ\N{\c&H2EF2FF&}WIĘCEJ
+Dialogue: 0,0:00:26.95,0:00:27.55,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}PONIŻEJ I
+Dialogue: 1,0:00:26.95,0:00:27.55,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}PONIŻEJ {\c&HFFFFFF&}I
+Dialogue: 0,0:00:27.55,0:00:27.94,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}DOŁĄCZ DO
+Dialogue: 1,0:00:27.55,0:00:27.94,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}DOŁĄCZ {\c&HFFFFFF&}DO
+Dialogue: 0,0:00:27.94,0:00:29.02,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}MODLITWY NA ŻYWO
+Dialogue: 1,0:00:27.94,0:00:29.02,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&H2EF2FF&}MODLITWY {\c&HFFFFFF&}NA {\c&H2EF2FF&}ŻYWO
+Dialogue: 0,0:00:29.02,0:00:29.90,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}ODBIERZ SWÓJ CUD
+Dialogue: 1,0:00:29.02,0:00:29.90,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}ODBIERZ {\c&HFFFFFF&}SWÓJ {\c&H2626FF&}CUD
+Dialogue: 0,0:00:29.90,0:00:30.37,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}ZANIM BĘDZIE
+Dialogue: 1,0:00:29.90,0:00:30.37,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}ZANIM {\c&HFFFFFF&}BĘDZIE
+Dialogue: 0,0:00:30.37,0:00:31.60,G,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur9c&H000000&}ZA PÓŹNO
+Dialogue: 1,0:00:30.37,0:00:31.60,C,,0,0,0,,{\an5\pos(540,1545)\fad(40,0)lur1}{\c&HFFFFFF&}ZA {\c&H2626FF&}PÓŹNO

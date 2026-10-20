@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C10-JARDINERO/CESPED-CL_C10_JARDINERO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C10-JARDINERO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C10-JARDINERO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C10-JARDINERO/corpo.alinhamento.json", "y": 1440, "chaves": ["vez", "jardinero", "alto", "probé", "uno", "ruedas", "mano", "metal", "inalámbrica", "baterías", "necesito", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "LE PAGABA Y NUNCA VENÍA 🙄", "y": 1180, "ate": 4.7},
+  "cta": {"palavra": "pídela", "y": 1660},
+  "resolucao": "720",
+  "limite_mb": 30
+}

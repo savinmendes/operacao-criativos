@@ -1,0 +1,11 @@
+# termos proibidos - vencedor B (ORILLA). UTF-8
+precio
+pesos
+lucas
+dólares
+\$\s?\d
+gratis
+garantía
+garantia
+tiktok
+link

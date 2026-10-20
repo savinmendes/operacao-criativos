@@ -1,0 +1,77 @@
+REVISÃO: SB-ES_RANKING01_G4_PUERTA.mp4
+duração 101.20s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.4 MB
+decodificação: OK
+pts do áudio: 4744 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.98-5.87
+cortes de cena: 34 | pares a <0,3 s: 49.07/49.23
+setas (vermelho) no fim: y 940-1073, x 232-487 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_01\producao\rev3\SB-ES_RANKING01_G4_PUERTA_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  5.00 Si tienes un negocio y pasas el día mirando la puerta, esperando clientes
+   5.00- 11.00 No lo van a creer, pasé seis meses casi sin clientes, ya iba a cerrar
+  11.00- 17.00 Resé la oración de San Benito y minutos después mi restaurante se llenó
+  17.00- 23.00 La aprendí con el padre Juan Mendes en una transmisión en vivo
+  23.00- 27.00 Presten mucha atención porque esta oración puede cambiar su vida
+  27.00- 31.80 cada vez que la enseñó, intentan tumbar la transmisión y decir que es mentira.
+  31.80- 37.70 No quieren que nuestra gente prospere, pero los testimonios que llegan todos los días no mienten.
+  37.70- 40.10 Y yo no voy a dejar de enseñarla.
+  40.10- 45.00 Repitan conmigo, o poderoso San Benito, guardián de los arcanos sagrados
+  45.00- 49.00 que venciste a las serpientes con la señal de la cruz.
+  49.00- 51.40 ¡Alto! El resto no lo puedo decir aquí.
+  51.40- 54.70 Ya me borraron la transmisión por enseñarla.
+  54.70- 58.36 Esta oración estuvo escondida por 900 años.
+  58.36- 61.10 Sólo los más poderosos la conocían
+  61.10- 65.14 y tiene una forma correcta de hacerla y de escucharla.
+  65.14- 66.48 Muchos me preguntan,
+  66.48- 68.94 ¿Padre, Dios quiere que prosperemos?
+  68.94- 70.94 Claro que sí, la falta de dinero
+  70.94- 73.14 es lo que más divide a las familias.
+  73.14- 75.38 Lo dice el Salmo 112.
+  75.38- 78.82 Riqueza y abundancia habrá en su casa
+  78.82- 82.06 y su justicia permanece para siempre.
+  82.06- 86.66 Por eso le estoy rezando completa, en vivo, paso a paso.
+  86.66- 91.02 Imagina pagar la última cuota y dormir tranquilo otra vez.
+  91.02- 94.42 Vuelve en siete días y cuéntame qué pasó.
+  94.42- 96.42 Envía este video a quien amas.
+  96.42-101.50 Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  5.00    Se você tem um negócio e passa o dia olhando a porta, esperando clientes...
+   5.00-  7.00    Não o vão acreditar.
+   7.00- 10.00    Passei seis meses quase sem clientes.
+  10.00- 12.00    Já ia cerrar.
+  12.00- 14.00    Reci a oração de San Benito.
+  14.00- 17.00    E minutos depois, meu restaurante se enganou.
+  17.00- 20.00    Aprendi com o pai Juan Mendes.
+  20.00- 23.00    Em uma transmissão em vivo.
+  23.00- 27.00    Preste muito atenção porque essa oração pode mudar sua vida.
+  27.00- 31.80    cada vez que lhe ensinam, tentam cumprir a transmissão e dizer que é mentira.
+  31.80- 34.20    Não querem que a nossa gente prospera,
+  34.20- 37.70    mas os testemunhos que chegam todos os dias não mentem,
+  37.70- 40.10    e eu não vou deixar de ensinar-la.
+  40.10- 41.24    Repitam comigo,
+  41.24- 45.00    o poderoso Sam Benito, guardiando os arcanos sagrados,
+  45.00- 49.00    que venciste a serpientes com a senhal da cruz.
+  49.00- 51.40    Alto, o resto não posso dizer aqui,
+  51.40- 54.70    já me borraram a transmissão por ensinar-la.
+  54.70- 58.42    Esta oração estava escondida por 900 anos.
+  58.42- 65.14    Só os mais poderosos a conheciam e tem uma forma correta de fazer ela e de escutar ela.
+  65.14- 66.46    Muitos me perguntam,
+  66.46- 68.94    Padre, Deus quer que nós prospera?
+  68.94- 73.14    Claro que sim, a falta de dinheiro é o que mais divide as famílias.
+  73.14- 75.42    O diz o Salmo 112.
+  75.42- 82.06    Riqueza e abundância habrá em sua casa e sua justiça permanece para sempre.
+  82.06- 86.62    Por isso eu estou restando completa, em vivo, passo a passo.
+  86.62- 90.94    Imagine pagar a última quota e dormir tranquilo outra vez.
+  90.94- 94.42    Volve em 7 dias e contame o que aconteceu.
+  94.42- 96.42    Envie este vídeo a quem ama.
+  96.42-101.02    Toca em ver mais aqui abaixo e entra a rezar comigo.
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 49.07s e 49.23s (167 ms)
+1 problema(s)

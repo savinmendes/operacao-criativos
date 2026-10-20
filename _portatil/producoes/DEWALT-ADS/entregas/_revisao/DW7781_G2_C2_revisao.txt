@@ -1,0 +1,36 @@
+REVISÃO: DW7781_G2_C2.mp4
+duração 41.40s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.4 MB
+decodificação: OK
+pts do áudio: 1942 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 16 | pares a <0,3 s: 37.03/37.17
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G2_C2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  2.00 ¿Sigue peleando con un taladro o debi?
+   2.00-  5.00 Pones el anillo en modo percutor
+   5.00-  8.00 y la broca entra en el muro sin pelear
+   8.00- 11.00 en madera, pasa limpiecita
+  11.00- 14.00 y para atornillar, 15 posiciones de torque
+  14.00- 16.00 aprietas justo sin pasarte
+  16.00- 19.00 el secreto, motor sin carbón
+  19.00- 22.00 The Wall dice que es 17% más eficiente
+  22.00- 24.00 que un motor con carbón
+  24.00- 25.00 2 velocidades
+  25.00- 27.00 fuerza en la primera, rapidez en la segunda
+  27.00- 29.00 y trae dos baterías con indicador de carga
+  29.00- 31.64 mientras una trabaja, la otra se carga.
+  31.64- 35.12 Compacto y liviano para trabajar todo el día.
+  35.12- 36.60 Aprovecha el Pre-Black Friday.
+  36.60- 39.24 Fíjelo hoy y pagas recién cuando te lleguen.
+  39.24- 40.20 En vivo a todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 37.03s e 37.17s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

@@ -1,0 +1,56 @@
+REVISÃO: 02_SB-FR_APP_COMPLETA.mp4
+duração 57.40s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 50.3 MB
+decodificação: OK
+pts do áudio: 2691 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 19 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\fr\medalla\_tmp\rev_02_SB-FR_APP\02_SB-FR_APP_COMPLETA_revisao.jpg
+idioma detectado: fr (1.00)
+
+=== transcrição (fr) ===
+   0.00-  3.40 J'ai prié dans ma voiture à trois heures du matin sans une seule course.
+   3.40-  4.90 Et voilà ce qui s'est passé.
+   4.90-  8.40 Au glorieux Saint-Benoît, sort-moi de cette misère.
+  10.70- 12.90 J'ai passé presque six mois presque sans course.
+  12.90- 15.80 Mes enfants me demandaient des choses et je leur répondais.
+  15.80- 17.70 Demain, je me sentais un raté.
+  17.70- 20.10 Jusqu'au jour où un prêtre m'a expliqué quelque chose
+  20.10- 23.40 que personne ne m'avait jamais dit sur la médaille de Saint-Benoît.
+  23.40- 25.90 Des millions de personnes portent cette médaille
+  25.90- 29.80 et personne ne leur a jamais expliqué ce que disent ses lettres.
+  29.80- 34.40 Ce n'est pas un manque de foi, c'est que personne ne leur a appris la bonne façon de la prier.
+  34.40- 38.96 Quand on l'a pris de la bonne façon, la maison s'apèse, la peur s'en va,
+  38.96- 43.76 et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+  43.76- 48.04 C'est pour ça que j'ai laissé l'explication complète, lettre par lettre,
+  48.04- 52.36 dans une transmission en direct ouverte 24 heures sur 24.
+  52.36- 57.32 Appuie sur « En savoir plus » juste en dessous et viens prier avec nous.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  3.30    Pruebo en mi coche a tres horas del mañana sin una sola ruta.
+   3.30-  4.90    Y ahí es lo que pasó.
+   4.90-  6.52    A los glorios de Saint Benoît,
+   6.52-  8.52    saldame de esta misera.
+  10.62- 12.86    Hace casi seis meses, casi sin ruta.
+  12.86- 15.74    Mis niños me dieron cosas y les respondí.
+  15.74- 17.74    Domingo, me sentí un rato.
+  17.74- 21.70    Hasta el día en que un prieste explicó algo que nadie me había dicho
+  21.70- 23.46    sobre la medalla de Saint Benoît.
+  23.46- 25.86    Millones de personas traen esta medalla.
+  25.86- 29.86    Y nadie les ha explicado lo que dicen las letras.
+  29.86- 31.18    No es una falta de veces.
+  31.18- 34.46    Es que nadie les ha aprendido la buena forma de pregarlo.
+  34.46- 39.02    Cuando la preguen de la buena forma, la casa se arrasa, la fe se va.
+  39.02- 43.86    Y comencemos a ver los insuos ahí donde no ves que los puestos son cerrados.
+  43.86- 46.58    Es por eso que dejé la explicación completa,
+  46.58- 48.14    letra a letra,
+  48.14- 52.42    en una transmisión en directo abierto 24 horas por 24 horas.
+  52.42- 54.70    Apuye en saber más,
+  54.70- 57.34    justo debajo y vien a pregar con nosotros.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

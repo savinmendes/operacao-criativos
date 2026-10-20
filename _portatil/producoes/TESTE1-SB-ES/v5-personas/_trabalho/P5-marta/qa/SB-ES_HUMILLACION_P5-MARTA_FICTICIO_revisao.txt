@@ -1,0 +1,33 @@
+REVISÃO: SB-ES_HUMILLACION_P5-MARTA_FICTICIO.mp4
+duração 68.00s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 21.2 MB
+decodificação: OK
+pts do áudio: 3189 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 673-1105, x 1-718 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\_trabalho\P5-marta\qa\SB-ES_HUMILLACION_P5-MARTA_FICTICIO_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  1.40 Imágenes impactantes.
+   1.40-  4.80 Una feriante fue atacada en plena fe, por su fe.
+   4.80-  6.90 Llama a tu Dios para que te recoja esto.
+   6.90-  8.60 Señor, yo no le hice nada.
+   8.60- 10.00 Pare por el amor de Dios.
+  19.30- 23.60 Al día siguiente, el puesto de Doña Marta se quedó sin fruta
+  23.60- 25.20 antes del mediodía.
+  25.20- 28.50 Esa noche tiré a la basura la fruta que se me había podrido,
+  28.50- 33.58 igual que todas las semanas. Ya no sabía qué hacer. Mi vecina me mandó la transmisión
+  33.58- 37.94 del padre Juan Mendes. La hice esa misma noche, como él enseña.
+  37.94- 42.66 Al otro día, a las ocho, ya tenía fila. Si tú también reesas y sientes que nadie
+  42.66- 48.08 te escucha y que las cosas solo empeoran, no es que Dios no te escuche. Es que, igual
+  48.08- 52.82 que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Mendes me enseñó
+  52.82- 57.46 la forma correcta de pedirle a San Benito y está haciendo la oración en vivo ahora
+  57.46- 61.30 ¿Usted puede pasar la transmisión para los que nos están viendo?
+  61.30- 67.46 Claro, toquen el botón que está abajo del vídeo y entren ahora a la oración en vivo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,35 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/PERFUMES-CL_P1_EL-MAESTRO_H2.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/corpo_h2.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/audio/trilha.mp3",
+  "legenda": {
+    "fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD1-EL-MAESTRO/corpo_h2.alinhamento.json",
+    "chaves": [
+      "perfume",
+      "perfumes",
+      "árabes",
+      "uno",
+      "Armaf",
+      "paradero",
+      "Asad",
+      "tele",
+      "ese",
+      "9PM",
+      "recibes",
+      "Pídelo"
+    ]
+  },
+  "manchete": {
+    "texto": "HASTA EN LA FILA DEL ALMUERZO 😅",
+    "y": 1250,
+    "ate": 3.9
+  },
+  "cta": {
+    "palavra": "pídelo",
+    "y": 1480
+  },
+  "resolucao": "720",
+  "limite_mb": 30
+}

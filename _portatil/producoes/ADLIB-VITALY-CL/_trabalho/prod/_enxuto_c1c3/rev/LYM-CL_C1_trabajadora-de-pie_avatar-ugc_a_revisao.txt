@@ -1,0 +1,35 @@
+REVISÃO: LYM-CL_C1_trabajadora-de-pie_avatar-ugc_a.mp4
+duração 42.50s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.8 MB
+decodificação: OK
+pts do áudio: 1985 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 17 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1129-1194, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_enxuto_c1c3\rev\LYM-CL_C1_trabajadora-de-pie_avatar-ugc_a_revisao.jpg
+idioma detectado: es (0.98)
+
+=== transcrição (es) ===
+   0.00-  5.76 Doce horas parada en la caja del súper y llegaba a la casa con los tobillos así de hinchados.
+   5.76- 11.52 Me sacaba los zapatos y sentía las piernas pesadas, cansadas, como llenas de agua.
+  11.52- 15.24 Una compañera del turno me pasó el dato, linforia.
+  15.24- 22.56 Son unas gotitas con cuatro hierbas, galio, trébol rojo, raíz de estilinja y fresno espinoso.
+  22.56- 25.48 Es cien por ciento natural y sabe a miel.
+  25.48- 28.08 Me he hecho unas gotas en el agua y listo.
+  28.08- 30.60 Ahora termino el turno con las piernas livianas.
+  31.16- 33.48 Adiós, hinchazón. Se llama linforia.
+  33.92- 38.52 Compre uno y reciba dos con envío gratis y pagas al recibir en tu casa.
+  39.08- 41.32 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: av.mp4 (1042 quadros, rosto em 100%, rosto 276,393,189,211 [2 rostos; escolhido o que mais acompanha o áudio novo])
+  pausas da voz nova: índice de pausa 1.25 (154 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo -0.03 (atraso 200 ms) | corr. original -
+REPROVADO: a boca não acompanha o áudio novo: fica aberta nas pausas da voz (índice de pausa 1.25 > 0.75; sincronizado <= 0.6)
+
+=== RESULTADO ===
+PROBLEMA: lipsync av.mp4: a boca não acompanha o áudio novo: fica aberta nas pausas da voz (índice de pausa 1.25 > 0.75; sincronizado <= 0.6)
+aviso: lipsync av.mp4 checado sem o original (sem o teste 'a boca mudou')
+1 problema(s)

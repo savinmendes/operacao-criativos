@@ -1,0 +1,53 @@
+01 - Te transforma.mp4: 52 quadros; achados: 0
+nenhum
+02 - POV 10 mil pasos.mp4: 66 quadros; achados: 0
+nenhum
+03 - Te paso el dato.mp4: 68 quadros; achados: 0
+nenhum
+04 - Carrito menopausia.mp4: 231 quadros; achados: 0
+nenhum
+05 - Rutina 30 segundos.mp4: 221 quadros; achados: 0
+nenhum
+06 - Dejar el azucar.mp4: 59 quadros; achados: 0
+nenhum
+07 - Antes y despues.mp4: 85 quadros; achados: 0
+nenhum
+08 - POV drenar.mp4: 74 quadros; achados: 0
+nenhum
+09 - Hinchazon y energia.mp4: 59 quadros; achados: 0
+nenhum
+10 - Adios hinchazon.mp4: 119 quadros; achados: 1
+   2.67s  [VITALY]  ADIOS HINCHAZON | VITALY | Lymphatic | Drainage
+11 - Antes y ahora.mp4: 55 quadros; achados: 0
+nenhum
+12 - Trabaja de pie (avatar).mp4: 127 quadros; achados: 0
+nenhum
+13 - Trabaja de pie (voz off).mp4: 130 quadros; achados: 0
+nenhum
+14 - Suegra embarazada.mp4: 176 quadros; achados: 0
+nenhum
+[vost#0:0/rawvideo @ 0000029b4efeb740] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0000029b4cbf1840] Error muxing a packet
+[out#0/rawvideo @ 0000029b4cbf1840] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0000029b4cbf1840] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0000029b4cbf1840] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0000029b4cbf1840] Error closing file: Broken pipe
+[vost#0:0/rawvideo @ 00000265882c0200] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 00000265882415c0] Error muxing a packet
+[out#0/rawvideo @ 00000265882415c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 00000265882415c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 00000265882415c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 00000265882415c0] Error closing file: Broken pipe
+16 - Jubilada 60 (avatar).mp4: 130 quadros; achados: 0
+nenhum
+17 - Jubilada 60 (testimonio).mp4: 132 quadros; achados: 0
+nenhum
+18 - Desconfiada online (avatar).mp4: 130 quadros; achados: 0
+nenhum
+19 - Pagas al recibir (montaje).mp4: 97 quadros; achados: 0
+nenhum
+15 - De cuantos meses (cunado).mp4: 1092 quadros; achados: 0
+nenhum
+FIM

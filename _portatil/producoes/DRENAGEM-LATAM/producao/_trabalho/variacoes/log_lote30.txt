@@ -1,0 +1,21 @@
+[23:05] [1/10] VAR 21 G1 x AD30
+ok VAR 21 G1 x AD30 | gancho 8.00s (5 tomadas) | total 310.2s | VAR 21 - G1-ESPOSO-AMIGA x AD30.mp4
+[23:06] [2/10] VAR 22 G2 x AD30
+ok VAR 22 G2 x AD30 | gancho 10.63s (7 tomadas) | total 312.8s | VAR 22 - G2-MUJER-28 x AD30.mp4
+[23:06] [3/10] VAR 23 G3 x AD30
+ok VAR 23 G3 x AD30 | gancho 8.97s (6 tomadas) | total 311.1s | VAR 23 - G3-EXESPOSO-FILA x AD30.mp4
+[23:07] [4/10] VAR 24 G4 x AD30
+ok VAR 24 G4 x AD30 | gancho 7.20s (5 tomadas) | total 309.4s | VAR 24 - G4-NO-ES-PESO-ES-LODO x AD30.mp4
+[23:08] [5/10] VAR 25 G5 x AD30
+ok VAR 25 G5 x AD30 | gancho 8.97s (5 tomadas) | total 311.1s | VAR 25 - G5-CARRITO x AD30.mp4
+[23:08] [6/10] VAR 26 G6 x AD30
+ok VAR 26 G6 x AD30 | gancho 6.87s (4 tomadas) | total 309.0s | VAR 26 - G6-DISCULPA x AD30.mp4
+[23:09] [7/10] VAR 27 G7 x AD30
+ok VAR 27 G7 x AD30 | gancho 8.47s (5 tomadas) | total 310.6s | VAR 27 - G7-COPIAS x AD30.mp4
+[23:10] [8/10] VAR 28 G8 x AD30
+ok VAR 28 G8 x AD30 | gancho 8.73s (6 tomadas) | total 310.9s | VAR 28 - G8-POR-QUE-NOS-HINCHAMOS x AD30.mp4
+[23:11] [9/10] VAR 29 G9 x AD30
+ok VAR 29 G9 x AD30 | gancho 7.00s (4 tomadas) | total 309.2s | VAR 29 - G9-PAGAS-AL-RECIBIR x AD30.mp4
+[23:11] [10/10] VAR 30 G10 x AD30
+ok VAR 30 G10 x AD30 | gancho 6.87s (4 tomadas) | total 309.0s | VAR 30 - G10-PANCITA-NO-ES-GRASA x AD30.mp4
+LOTE_OK 30

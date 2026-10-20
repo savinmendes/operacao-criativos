@@ -1,0 +1,12 @@
+MADRE COMPLETA (14/10/2026) -> SB-ES_MADRE_COMPLETA.mp4 (60,6 s) + _narracion.txt
+Flora projeto prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (ref: retrato.png antigo, asset_jd7e4c0tj0ne70e83kctd013x98g8w0y)
+  img/retrato_triste.png  is2i-gpt-image-2-5-flare 2k  run_m174faqecwhke7614yp38bq17n8g84z0  US$0.122
+  img/gancho_amplo.png    idem  run_m176g4j1thw5hen3rmz3d7yk598g9n2y  US$0.122
+  img/frustrado.png       idem  run_m17dzqh1rq8kayhh1jcrf228b98g9vfm  US$0.122
+  takes/gancho_amplo.mp4  i2v-kling-2.5 5s canvas n796 run_m1735ncrtep2kwcxkvjnzgwfn58g9xfb US$0.294
+  takes/frustrado.mp4     i2v-kling-2.5 5s canvas n795 run_m17309nt5shkwy32ar1p6ezyzs8g9vvg US$0.294
+  Total Flora: US$0.954
+ElevenLabs (Alisson, multilingual_v2): hook 84 + selfie 229 = 313 caracteres. Reza = falas antigas f1 + f2 (0 caracteres).
+HeyGen video 7a1d3babaca26587e8edb7c8145566ed (selfie a partir de 4,40 s), 12,2 s, ~15 créditos estimados
+  (saldo geral 7119 -> 7012 inclui outros agentes em paralelo).
+QA: takes a cada 0,2 s sem deformação; selfie triste sem sorriso. revisar_ad --idioma es OK. -14,2 LUFS, pico -2,3 dBFS.

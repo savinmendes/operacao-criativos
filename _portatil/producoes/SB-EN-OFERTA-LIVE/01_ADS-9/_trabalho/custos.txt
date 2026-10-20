@@ -1,0 +1,3 @@
+heygen_antes 5534 Thu Oct 15 16:09:20     2026
+heygen_depois 5531 Thu Oct 15 17:28:28     2026 (jobs enviados ~16:50; cobranca do speed pode aparecer ate ~1 h depois; outros agentes do lote usam a mesma conta em paralelo)
+elevenlabs TTS: 2044 caracteres (~US$0,34); STT scribe FR 103 s (~US$0,01)

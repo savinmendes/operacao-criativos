@@ -1,0 +1,43 @@
+NARRATION — 07_SB-FR_DESEMPLEADO_COMPLETA.mp4 (1:02)
+Temps = début de chaque phrase dans la vidéo finale.
+Personnages fictifs : CHÔMEUR et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique originale : tension grave (accroche et prière) -> thème d'espoir en accords majeurs dès la scène de l'après.
+Voix : chômeur Guillaume (3HZyQcLKlT0a3RDeXVsP) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan moyen-large : lui, seul sur un banc d'une place presque vide, en prière, le dossier sur les genoux)
+[00:00] CHÔMEUR (voix ferme, en off) : J'ai prié sur un banc du parc, avec mon dossier de CV... et voilà ce qui s'est passé.
+[00:05] CHÔMEUR (prière murmurée) : Ô glorieux saint Benoît... sors-moi de cette misère.
+[00:09] (dans un bureau : il serre la main d'une responsable, souriant, sans voix)
+
+BLOC 2 — CONNEXION
+[00:11] CHÔMEUR (en off ; lui, seul, le regard perdu) : Passé cinquante ans, j'ai perdu mon travail.
+[00:15] CHÔMEUR : Je sortais tous les matins en costume pour que ma famille ne le sache pas.
+[00:19] CHÔMEUR : Je me sentais un bon à rien.
+[00:21] CHÔMEUR : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET AVENIR
+[00:28] PRÊTRE : Des millions de personnes portent cette médaille...
+[00:30] PRÊTRE : et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:34] PRÊTRE : Ce n'est pas un manque de foi.
+[00:36] PRÊTRE : C'est que personne ne leur a appris la bonne façon de la prier.
+[00:39] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va...
+[00:44] PRÊTRE : et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:49] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[00:57] PRÊTRE : Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.
+
+============================================================
+TEXTE DE L'ANNONCE (FR)
+Titre (38 car.) : La médaille que tu portes a un message
+
+Texte principal :
+Il sortait chaque matin en costume pour que sa famille ne sache rien.
+Beaucoup portent la médaille de saint Benoît sans savoir ce que disent ses lettres.
+Un prêtre l'explique, lettre par lettre, dans une transmission en direct ouverte 24 h/24.
+Appuie sur « En savoir plus » et viens prier avec nous.
+(Vidéo fictive, personnages interprétés.)
+
+Bouton : En savoir plus

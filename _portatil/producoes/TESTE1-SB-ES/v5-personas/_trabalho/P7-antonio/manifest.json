@@ -1,0 +1,9 @@
+{"persona": "P7 DON ANTONIO", "saida": "v5-personas/SB-ES_HUMILLACION_P7-ANTONIO_FICTICIO.mp4", "duracao_s": 66.53,
+ "flora": {"projeto": "SB-ES v5 P7 Antonio", "gasto_usd": 0.254, "itens": {"img/antonio_master.png (GPT Image 2 1k 9:16)": 0.254},
+           "obs": "saldo do workspace zerou (US$0,005) logo depois; 5 imagens Sunburst falharam com BILLING_NOT_ENOUGH_CREDITS (US$0 cobrado)"},
+ "heygen": {"video1_reference_to_video_768p": ["takes/hv_briga_v1.mp4 11 s (briga, falas nativas ES, exatas na 1a)", "hv_maos/hv_banco/hv_vizinha/hv_familia 5 s", "hv_praca_fundo 5 s 9:16 (fundo da reportera)"],
+            "avatar_iv_720p_low": ["hg_A1/A2/P1/P2/P3 (Antonio, foto-mestra)", "hg_R00/R01/CTA (reportera_verde, chroma: R00 em PiP, R01/CTA sobre a praça)"],
+            "creditos_saldo": "6796 -> 6555 (241 no total da conta no período; outros agentes rodando em paralelo, então é teto, não exato)"},
+ "elevenlabs": {"tts": "R00,R01,CTA Gabriela; A1,A2,P1,P2,P3 Pa Gabriel (~760 caracteres)", "sts": "fala do Antonio na briga (4,4 s) -> Pa Gabriel, eleven_multilingual_sts_v2 + demucs"},
+ "trilha": "reaproveitada de v3/_trabalho/final_B/trilha (triste_1, esperanca_1)",
+ "scripts": ["voz/gerar.py", "abertura.py", "montar_p7.py", "graficos/titulo.py"]}

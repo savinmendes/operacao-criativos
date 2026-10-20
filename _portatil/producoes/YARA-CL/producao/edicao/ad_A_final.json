@@ -1,0 +1,208 @@
+{
+ "saida": "../../entregas/AD-A_yara-kit3_bf_es-cl.mp4",
+ "overlays": ".",
+ "sfx": "sfx",
+ "titulo": {
+  "png": "titulo_abertura.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": null,
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060,
+  "juntar": [
+   [
+    "día",
+    "a",
+    "día"
+   ]
+  ]
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 0.3,
+   "ate": 2.53,
+   "zoom": 1.0,
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 0.3,
+   "audio_ate": 2.53
+  },
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 2.53,
+   "ate": 6.07,
+   "zoom": 1.12,
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 2.53,
+   "audio_ate": 6.07
+  },
+  {
+   "video": "../takes/T1_gancho_v2.mp4",
+   "tipo": "consultora",
+   "de": 6.07,
+   "ate": 10.05,
+   "zoom": "in",
+   "audio": "../takes/T1_gancho_v2_vz.wav",
+   "audio_de": 6.07,
+   "audio_ate": 10.05
+  },
+  {
+   "video": "../takes/T3_yara.mp4",
+   "tipo": "consultora",
+   "de": 0.04,
+   "ate": 4.86,
+   "zoom": 1.0,
+   "audio": "../takes/T3_yara_vz.wav",
+   "audio_de": 0.04,
+   "audio_ate": 4.86
+  },
+  {
+   "video": "../takes/T4_yara_close.mp4",
+   "tipo": "consultora",
+   "de": 1.69,
+   "ate": 6.01,
+   "zoom": 1.08,
+   "audio": "../takes/T4_yara_close_vz.wav",
+   "audio_de": 1.69,
+   "audio_ate": 6.01,
+   "legenda_y": 350
+  },
+  {
+   "video": "../takes/T5_moi.mp4",
+   "tipo": "consultora",
+   "de": 0.2,
+   "ate": 4.86,
+   "zoom": 1.15,
+   "audio": "../takes/T5_moi_vz.wav",
+   "audio_de": 0.2,
+   "audio_ate": 4.86,
+   "legenda_y": 1280,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T6_moi_borrifo.mp4",
+   "tipo": "consultora",
+   "de": 1.89,
+   "ate": 5.59,
+   "zoom": 1.0,
+   "audio": "../takes/T6_moi_borrifo_vz.wav",
+   "audio_de": 1.89,
+   "audio_ate": 5.59,
+   "legenda_y": 900,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T6_moi_borrifo.mp4",
+   "tipo": "consultora",
+   "de": 5.84,
+   "ate": 7.1,
+   "zoom": 1.12,
+   "audio": "../takes/T6_moi_borrifo_vz.wav",
+   "audio_de": 5.84,
+   "audio_ate": 7.1,
+   "centro": [
+    0.6,
+    0.4
+   ],
+   "legenda_y": 900,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T7_elixir.mp4",
+   "tipo": "consultora",
+   "de": 0.3,
+   "ate": 2.03,
+   "zoom": 1.12,
+   "audio": "../takes/T7_elixir_vz.wav",
+   "audio_de": 0.3,
+   "audio_ate": 2.03,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T7_elixir.mp4",
+   "tipo": "consultora",
+   "de": 2.68,
+   "ate": 4.82,
+   "zoom": 1.0,
+   "audio": "../takes/T7_elixir_vz.wav",
+   "audio_de": 2.68,
+   "audio_ate": 4.82,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T8_elixir_close.mp4",
+   "tipo": "consultora",
+   "de": 0.02,
+   "ate": 4.04,
+   "zoom": 1.0,
+   "audio": "../takes/T8_elixir_close_vz.wav",
+   "audio_de": 0.02,
+   "audio_ate": 4.04,
+   "legenda_y": 330,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T8_elixir_close.mp4",
+   "tipo": "consultora",
+   "de": 4.47,
+   "ate": 8.03,
+   "zoom": 1.1,
+   "audio": "../takes/T8_elixir_close_vz.wav",
+   "audio_de": 4.47,
+   "audio_ate": 8.03,
+   "centro": [
+    0.55,
+    0.4
+   ],
+   "legenda_y": 330,
+   "sticker": true
+  },
+  {
+   "video": "../takes/T9_aberto.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 3.15,
+   "zoom": 1.0,
+   "audio": "../takes/T9_aberto_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 3.15,
+   "legenda_y": 1500
+  },
+  {
+   "video": "../takes/T10_cta.mp4",
+   "tipo": "consultora",
+   "de": 0.44,
+   "ate": 2.67,
+   "zoom": 1.12,
+   "audio": "../takes/T10_cta_vz.wav",
+   "audio_de": 0.44,
+   "audio_ate": 2.67,
+   "legenda_y": 1720
+  },
+  {
+   "video": "../takes/T10_cta.mp4",
+   "tipo": "consultora",
+   "de": 3.0,
+   "ate": 8.52,
+   "zoom": "in",
+   "audio": "../takes/T10_cta_vz.wav",
+   "audio_de": 3.0,
+   "audio_ate": 8.52,
+   "legenda_y": 1720
+  }
+ ]
+}

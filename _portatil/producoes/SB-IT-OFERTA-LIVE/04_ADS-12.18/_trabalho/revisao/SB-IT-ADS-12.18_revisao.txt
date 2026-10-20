@@ -1,0 +1,23 @@
+REVISÃO: SB-IT-ADS-12.18.mp4
+duração 32.60s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 11.9 MB
+decodificação: OK
+pts do áudio: 1530 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 733-990, x 231-485 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-IT-OFERTA-LIVE\04_ADS-12.18\_trabalho\revisao\SB-IT-ADS-12.18_revisao.jpg
+idioma detectado: it (0.99)
+
+=== transcrição (it) ===
+   0.00-  6.08 Se mi volti le spalle, non avrò altra scelta, darò a qualcun altro il miracolo di cui hai tanto bisogno.
+   6.08- 10.68 Questa è la tua ultima occasione per ricevere ciò che ho preparato per te.
+  10.68- 15.72 Gesù ti ha scelto, ti ha portato un dono potente.
+  15.72- 23.76 Oggi ascolterai un'antica pregliera perduta della Bibbia che farà scendere una pioggia di benedizioni e di miracoli sulla tua vita.
+  23.76- 26.56 Non rifiutarmi di nuovo.
+  26.56- 32.56 Tocca scopridi più qui sotto. Unisciti alla pregliera indiretta e ricevi il tuo miracolo, prima che sia troppo tardi.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

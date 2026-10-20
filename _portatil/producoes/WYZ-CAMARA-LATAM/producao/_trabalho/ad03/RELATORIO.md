@@ -1,0 +1,23 @@
+# AD 03 — Câmera na parede (Grupo A)
+
+- **Arquivo:** `producao/AD 03 - WYZE-SOLAR-CAM-PAN-PARED-ES-LATAM.mp4`, 37,0 s (o original tinha 46 s), 720x1280, 25,1 MB. Revisão do kit: OK.
+- **Voz:** Richard - Dinámica y versátil (`Cpm6N9BNC1M75bYS7kO1`), masculina, latino neutro, dinâmica, de catálogo, sem clonagem. O F0 do original (mediana ~150 Hz, faixa estreita) indica homem enérgico.
+- **TTS:** 595 caracteres (~US$0,10). Velocidade 1,0x.
+- **HeyGen:** não usado.
+- **Roteiro:** `roteiro_es.txt`.
+- **O que foi cortado ou trocado:**
+  - "No more prescription (subscription) needed" virou "Ya no necesitas pagar suscripción…", e no fim entra "graba en tarjeta microSD, sin suscripción".
+  - Foi tirada a frase "discounted price right now / sold out one time / direct link down below" (33,8–45,8 s). No lugar entram specs oficiais ("una hora de sol directo al día, funciona continuo", "microSD, sin suscripción") e o CTA "Toca el botón de abajo y pide la tuya".
+  - "Wide lens" virou "visión nocturna a color y un reflector". "10 minutes to install / gives you all hardware" virou "Es fácil de instalar, y la puedes poner tú mismo", porque o tempo de instalação não está nas specs.
+  - A bateria ficou como "batería de gran capacidad", sem citar número. Foram adicionados "Gira 360 grados y sigue el movimiento" e o "cable largo", ambos das specs.
+  - Cortes de vídeo para acompanhar a fala (sem quadros soltos): origem 0–13,3 + 16,07–19,9 + 22,93–42,8 s. O plano da bateria (13,3–16,07) e parte da instalação (19,9–22,93) saíram.
+  - O título "SOLAR POWERED CAMERA ☀️🎥" (0–7,75 s) foi coberto por uma caixa branca com "CÁMARA SOLAR ☀️🎥".
+  - A legenda roxa em inglês foi coberta pela faixa preta (alpha 252, y 950–1102), com a legenda nova por cima. As setas entram no "toca" (33,85 s), abaixo da faixa.
+  - O fundo vem do demucs (`no_vocals`; só ambiente, sem música).
+  - O selo está pronto em `receita_com_selo.json`, sem uso.
+- **Revisão:**
+  - Whisper es: bate com o roteiro e não tem nada proibido. O "Wyze" sai pronunciado/transcrito como "Wwise", que é aceitável para marca.
+  - Whisper en: só tradução, nada de inglês original.
+  - Folha 1 qps: sem legenda em inglês, sem rosto, data ou placa. O quadro solto do título em 7,77 s foi corrigido.
+  - Fim: a fala acaba em 36,0 s; o ambiente continua até 37,0 s (sem silêncio morto).
+- **Pendências:** nenhuma crítica. Se quiser, testar outra pronúncia de "Wyze" (ex.: "Uaiz") no TTS.

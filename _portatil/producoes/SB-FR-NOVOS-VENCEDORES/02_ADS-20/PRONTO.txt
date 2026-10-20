@@ -1,0 +1,6 @@
+SB-FR-ADS-20 pronto em 17/10/2026.
+Vídeo: SB-FR-ADS-20.mp4 (144,1 s, 720x1280, 30 fps)
+Vozes: Jesus The Chosen (gancho) + Brian speed 1.08 (corpo), eleven_multilingual_v2 fr; nenhuma voz criada/clonada
+HeyGen: 1 job lipsync speed (gancho 4,3 s, f5dd60c577ac49b69acdfff3468695ea), índice de pausa 0,24 APROVADO
+revisar_ad.py: OK (whisper fr 0.99, sem proibidos, sem salto de pts, sem silêncio); revisor independente: 2 críticos (quadro ES no corte, fim congelado) + CTA pouco nítido corrigidos; 2ª rodada sem pendências
+Cosmético aceito: fim estendido com reverso da base (fios elétricos voltam ~141-144 s, balanço de câmera 143,25-143,7 s)

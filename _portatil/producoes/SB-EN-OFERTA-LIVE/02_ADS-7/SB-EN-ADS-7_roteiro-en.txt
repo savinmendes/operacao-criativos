@@ -1,0 +1,41 @@
+SB-EN-ADS-7 — Anjo da guarda / bênção financeira · Inglês (EUA / Reino Unido / Canadá / Austrália, depois worldwide)
+Origem: "ads 7.mp4" (ES, 21,5 s, vencedor ROAS 3,41 em 14 dias). Imagem: "ad 7 frances pronto.mp4" (versão FR 720p do
+mesmo roteiro, anjo em close, legenda FR removida com LaMa) com lipsync HeyGen speed para o EN.
+Destino: a oração ao vivo (live prayer). Botão do Meta: LEARN_MORE. Sem produto e sem preço.
+Voz: ElevenLabs "Brian - Deep, Resonant and Comforting" (nPczCjzI2devNBz1zQrb), voz que já existia na conta,
+masculina e grave como o narrador ES (f0 mediano ~83 Hz no ES e no FR). Nenhuma voz criada/clonada/apagada.
+
+======================================================================
+ROTEIRO ES (original, transcrito)
+======================================================================
+Tu ángel de la guarda te ha elegido y ha traído un regalo para ti.
+En esta transmisión en vivo escucharás una oración de 7 minutos basada en la Biblia
+capaz de traer una gran bendición financiera a tu vida.
+[CTA 1] Haz clic en el botón de abajo para escucharla.
+No ignores la bendición financiera que está destinada para ti.
+[CTA 2] Haz clic en escuchar ahora y mira la transmisión en vivo.
+
+======================================================================
+ROTEIRO EN (narrado, 21,7 s de fala, vídeo 22,4 s)
+======================================================================
+Your guardian angel has chosen you... and he has brought a gift, just for you.
+In this live stream, you will hear a seven-minute prayer, based on the Bible,
+that can bring a great financial blessing into your life.
+[CTA 1] Tap the button below to hear it.
+Don't ignore the financial blessing that is meant for you.
+[CTA 2] Tap Learn More below, and join the live prayer now.
+
+Decisões de tradução
+- "En esta transmisión en vivo" virou "In this live stream": o ES já falava da live; mantido (não é "in this video").
+- "Haz clic en escuchar ahora y mira la transmisión en vivo" virou o CTA padrão do lote: "Tap Learn More below, and
+  join the live prayer now" (nome do botão do Meta em inglês).
+- "Haz clic en el botón de abajo para escucharla" virou "Tap the button below to hear it" (mantém o 1º CTA do original).
+- "capaz de traer" virou "that can bring" (natural em inglês; mesmo teor da promessa, sem suavizar nem intensificar).
+- "oración de 7 minutos" virou "seven-minute prayer"; na legenda sai "SEVEN-MINUTE".
+
+Legenda: estilo do ES (fonte pesada em caixa alta, 2 linhas, palavra falada em verde com brilho, palavras-chave em
+vermelho: GIFT, LIVE, PRAYER, FINANCIAL, BLESSING, IGNORE, BELOW, NOW). Setas amarelas nos dois CTAs
+(12,9–15,2 s e 18,4 s até o fim). Música: trilha do FR sem a voz (demucs), ~-32 LUFS sob a fala.
+
+Compliance (decisão da pessoa, mantido como no ES): "a great financial blessing into your life" e "the financial
+blessing that is meant for you" são promessa financeira no vídeo, igual ao original aprovado.

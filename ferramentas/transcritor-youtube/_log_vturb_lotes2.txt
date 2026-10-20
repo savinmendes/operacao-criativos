@@ -1,0 +1,131 @@
+Pendentes: 3 · motor: hibrido · janela: 30s
+
+[1/3] De Copy Jr A Sócia De Uma Operação Milionária (Em Apenas 18 Meses!) | Luisa Velozo - SDE #141
+   De Copy Jr A Sócia De Uma Operação Milionária (Em Apenas 1 · VTurb · 2:34:19
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4438 segmentos
+   salvo: De Copy Jr A Sócia De Uma Operação Milionária (Em Apenas 18 Meses!) Luisa Velozo - SDE #141__7sa0JIa4RaQ.md
+
+[2/3] https://www.youtube.com/watch?v=L7u7r6rOl68
+   Lucrando Múltiplos 7D/Mês Com Perpétuo White (Aos 21 Anos! · VTurb · 3:51:38
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6774 segmentos
+   salvo: Lucrando Múltiplos 7DMês Com Perpétuo White (Aos 21 Anos!) Lucas Ramos - Segredos da Escala #140__L7u7r6rOl68.md
+
+[3/3] https://www.youtube.com/watch?v=GSSh_3RoU98
+   Escalando 100K/Dia Com Low Ticket (Aos 19 Anos!) | Victor  · VTurb · 2:43:02
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4602 segmentos
+   salvo: Escalando 100KDia Com Low Ticket (Aos 19 Anos!) Victor Xisto - Segredos da Escala #139__GSSh_3RoU98.md
+
+============================================================
+Transcritos: 3 · sem legenda: 0 · erros: 0
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 12 · feito: 111
+Pendentes: 3 · motor: hibrido · janela: 30s
+
+[1/3] https://www.youtube.com/watch?v=_hXmiIEac6w
+   Afiliado Na Gringa: Os Segredos Para Lucrar Muito Em 2026  · VTurb · 2:45:59
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4779 segmentos
+   salvo: Afiliado Na Gringa Os Segredos Para Lucrar Muito Em 2026 Rafael Pires de Lima - SDE #138___hXmiIEac6w.md
+
+[2/3] https://www.youtube.com/watch?v=t8_vzmE4dtQ
+   Escalando Native Ads Na Gringa (Na Prática) | Marcelo Orne · VTurb · 3:28:33
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5976 segmentos
+   salvo: Escalando Native Ads Na Gringa (Na Prática) Marcelo Ornelas – Segredos da Escala #137__t8_vzmE4dtQ.md
+
+[3/3] https://www.youtube.com/watch?v=aFabW0i9K20
+   Escalando 100K/Dia Como Afiliado Na Gringa (Passo A Passo) · VTurb · 2:06:43
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 3463 segmentos
+   salvo: Escalando 100KDia Como Afiliado Na Gringa (Passo A Passo) Diogo Gomes e Gabriel Pinto - SDE #136__aFabW0i9K20.md
+
+============================================================
+Transcritos: 3 · sem legenda: 0 · erros: 0
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 9 · feito: 114
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+Pendentes: 3 · motor: hibrido · janela: 30s
+
+[1/3] https://www.youtube.com/watch?v=NlZ4rbm2Jvs
+   Edição DR: Como Ganhar 10K/Mês (Ou Mais!) Editando Vídeos  · VTurb · 3:12:37
+   sem legenda — transcrevendo o áudio...
+   whisper falhou: ERROR: unable to download video data: HTTP Error 403: Forbidden
+[2/3] https://www.youtube.com/watch?v=b1R3cnLXdks
+   Escalando Múltiplos 7D/Mês Em 5 Fontes de Tráfego | Guilhe · VTurb · 2:53:17
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4898 segmentos
+   salvo: Escalando Múltiplos 7DMês Em 5 Fontes de Tráfego Guilherme Karkling - Segredos da Escala #134__b1R3cnLXdks.md
+
+[3/3] https://www.youtube.com/watch?v=cL3FuW8bAMA
+   Escalando Experts Para 7D/Mês Com VSLs (Sem Promessas Mila · VTurb · 3:32:37
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6252 segmentos
+   salvo: Escalando Experts Para 7DMês Com VSLs (Sem Promessas Milagrosas!) Wesley, Braz e Keeps - SDE #133__cL3FuW8bAMA.md
+
+============================================================
+Transcritos: 2 · sem legenda: 0 · erros: 1
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 7 · feito: 116
+Pendentes: 3 · motor: hibrido · janela: 30s
+
+[1/3] Edição DR: Como Ganhar 10K/Mês (Ou Mais!) Editando Vídeos Simples | Gabriel Figueiredo - SDE #135
+   Edição DR: Como Ganhar 10K/Mês (Ou Mais!) Editando Vídeos  · VTurb · 3:12:37
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 6139 segmentos
+   salvo: Edição DR Como Ganhar 10KMês (Ou Mais!) Editando Vídeos Simples Gabriel Figueiredo - SDE #135__NlZ4rbm2Jvs.md
+
+[2/3] https://www.youtube.com/watch?v=9Iahajs5RDU
+   Ele Já Fez +450M No Digital (E Tem Apenas 24 Anos!) | Gust · VTurb · 3:01:04
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5350 segmentos
+   salvo: Ele Já Fez +450M No Digital (E Tem Apenas 24 Anos!) Gustavo Cezar - Segredos da Escala #132__9Iahajs5RDU.md
+
+[3/3] https://www.youtube.com/watch?v=EG-YXLmJqAs
+   Os Segredos Para Criar Conteúdos Que Vendem | Luana Caroli · VTurb · 3:21:02
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 5478 segmentos
+   salvo: Os Segredos Para Criar Conteúdos Que Vendem Luana Carolina - Segredos da Escala #131__EG-YXLmJqAs.md
+
+============================================================
+Transcritos: 3 · sem legenda: 0 · erros: 0
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 4 · feito: 119
+Pendentes: 3 · motor: hibrido · janela: 30s
+
+[1/3] https://www.youtube.com/watch?v=FF57kVKru3Y
+   Escalando Múltiplos 8D/Mês Com Nutra Nos EUA (Aos 21 Anos! · VTurb · 2:43:20
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4756 segmentos
+   salvo: Escalando Múltiplos 8DMês Com Nutra Nos EUA (Aos 21 Anos!) Elton Cipriano - SDE #130__FF57kVKru3Y.md
+
+[2/3] https://www.youtube.com/watch?v=Z9GyOMD1MiE
+   Vendas Em Dólar Pelo Pinterest: Passo A Passo Completo | D · VTurb · 2:29:26
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4023 segmentos
+   salvo: Vendas Em Dólar Pelo Pinterest Passo A Passo Completo Duda Serenine - Segredos da Escala #129__Z9GyOMD1MiE.md
+
+[3/3] https://www.youtube.com/watch?v=rx1uxvGrakk
+   O Copywriter Por Trás De +1 Bilhão Em Vendas | Diogo Ramal · VTurb · 2:51:28
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 4954 segmentos
+   salvo: O Copywriter Por Trás De +1 Bilhão Em Vendas Diogo Ramalho - Segredos da Escala #128__rx1uxvGrakk.md
+
+============================================================
+Transcritos: 3 · sem legenda: 0 · erros: 0
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: erro: 1 · feito: 122
+Pendentes: 1 · motor: hibrido · janela: 30s
+
+[1/1] https://www.youtube.com/watch?v=M9GCw_ojfwk
+   Segredos Das Operações Que Escalam Até 9D/Mês | Luka, Feli · VTurb · 4:22:36
+   sem legenda — transcrevendo o áudio...
+   whisper-large-v3/cuda/pt · 8319 segmentos
+   salvo: Segredos Das Operações Que Escalam Até 9DMês Luka, Felipe e Arthur PC - Segredos da Escala #127__M9GCw_ojfwk.md
+
+============================================================
+Transcritos: 1 · sem legenda: 0 · erros: 0
+Saída: C:\Users\PICHAU\Downloads\Produtividade com ia\ferramentas\transcritor-youtube\transcricoes
+Fila: feito: 123

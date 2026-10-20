@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: L,Poppins ExtraBold,112,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,10,4,5,30,30,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.14,0:00:16.46,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}PENDANT{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.46,0:00:17.03,L,,0,0,0,,{\an5\pos(540,1389)}UNE {\c&H55E3FB&}DIFFUSION{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.03,0:00:18.10,L,,0,0,0,,{\an5\pos(540,1389)}EN {\c&H55E3FB&}DIRECT{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.30,0:00:18.80,L,,0,0,0,,{\an5\pos(540,1389)}UN {\c&H55E3FB&}PRÊTRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.80,0:00:19.30,L,,0,0,0,,{\an5\pos(540,1389)}A {\c&H55E3FB&}EXPLIQUÉ{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.30,0:00:20.29,L,,0,0,0,,{\an5\pos(540,1389)}LA FAÇON {\c&H55E3FB&}EXACTE{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.29,0:00:20.84,L,,0,0,0,,{\an5\pos(540,1389)}DE {\c&H55E3FB&}DEMANDER{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.84,0:00:21.85,L,,0,0,0,,{\an5\pos(540,1389)}À SAINT {\c&H55E3FB&}BENOÎT{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.11,0:00:22.76,L,,0,0,0,,{\an5\pos(540,1389)}CE {\c&H55E3FB&}JOUR-LÀ{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.76,0:00:23.32,L,,0,0,0,,{\an5\pos(540,1389)}J'AI {\c&H55E3FB&}RETROUVÉ{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.32,0:00:24.10,L,,0,0,0,,{\an5\pos(540,1389)}LA {\c&H55E3FB&}PAIX{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.55,0:00:25.06,L,,0,0,0,,{\an5\pos(540,1389)}ET {\c&H55E3FB&}PETIT{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.06,0:00:25.65,L,,0,0,0,,{\an5\pos(540,1389)}À {\c&H55E3FB&}PETIT{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.65,0:00:26.39,L,,0,0,0,,{\an5\pos(540,1389)}LES {\c&H55E3FB&}PORTES{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.39,0:00:26.99,L,,0,0,0,,{\an5\pos(540,1389)}ONT {\c&H55E3FB&}COMMENCÉ{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.99,0:00:28.00,L,,0,0,0,,{\an5\pos(540,1389)}À {\c&H55E3FB&}S'OUVRIR{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.00,0:00:28.98,L,,0,0,0,,{\an5\pos(540,1389)}C'EST LA {\c&H55E3FB&}DERNIÈRE{\c&HFFFFFF&} FOIS
+Dialogue: 0,0:00:28.98,0:00:29.93,L,,0,0,0,,{\an5\pos(540,1389)}QUE {\c&H55E3FB&}DIEU{\c&HFFFFFF&} ESSAIE
+Dialogue: 0,0:00:29.93,0:00:30.58,L,,0,0,0,,{\an5\pos(540,1389)}DE TE {\c&H55E3FB&}PARLER{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.58,0:00:31.75,L,,0,0,0,,{\an5\pos(540,1389)}DE CETTE {\c&H55E3FB&}FAÇON{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.95,0:00:33.60,L,,0,0,0,,{\an5\pos(540,1389)}JÉSUS T'A {\c&H55E3FB&}CHOISI{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.66,0:00:34.48,L,,0,0,0,,{\an5\pos(540,1389)}IL A {\c&H55E3FB&}PRÉPARÉ{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.48,0:00:34.93,L,,0,0,0,,{\an5\pos(540,1389)}UN {\c&H55E3FB&}CADEAU{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.93,0:00:35.75,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}PUISSANT{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.75,0:00:36.03,L,,0,0,0,,{\an5\pos(540,1389)}{\c&H55E3FB&}RIEN{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.03,0:00:37.05,L,,0,0,0,,{\an5\pos(540,1389)}QUE POUR {\c&H55E3FB&}TOI{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.20,0:00:38.10,L,,0,0,0,,{\an5\pos(540,1389)}DANS CETTE {\c&H55E3FB&}VIDÉO{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.10,0:00:38.81,L,,0,0,0,,{\an5\pos(540,1389)}TU VAS {\c&H55E3FB&}ÉCOUTER{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.81,0:00:39.74,L,,0,0,0,,{\an5\pos(540,1389)}LA PRIÈRE {\c&H55E3FB&}PERDUE{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.74,0:00:40.96,L,,0,0,0,,{\an5\pos(540,1389)}DE SAINT {\c&H55E3FB&}BENOÎT{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.96,0:00:41.66,L,,0,0,0,,{\an5\pos(540,1389)}QUI {\c&H55E3FB&}DÉBLOQUE{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.66,0:00:42.12,L,,0,0,0,,{\an5\pos(540,1389)}UNE {\c&H55E3FB&}PLUIE{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.12,0:00:43.20,L,,0,0,0,,{\an5\pos(540,1389)}DE {\c&H55E3FB&}MIRACLES{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.20,0:00:43.90,L,,0,0,0,,{\an5\pos(540,1389)}MAIS {\c&H55E3FB&}SEULEMENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.90,0:00:44.30,L,,0,0,0,,{\an5\pos(540,1389)}SI TU
+Dialogue: 0,0:00:44.30,0:00:44.97,L,,0,0,0,,{\an5\pos(540,1389)}NE LA {\c&H55E3FB&}REFUSES{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.97,0:00:45.38,L,,0,0,0,,{\an5\pos(540,1389)}PAS UNE {\c&H55E3FB&}FOIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.38,0:00:46.10,L,,0,0,0,,{\an5\pos(540,1389)}DE {\c&H55E3FB&}PLUS{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.56,0:00:47.02,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}REÇOIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.02,0:00:47.95,L,,0,0,0,,{\an5\pos(540,1230)}TON {\c&H55E3FB&}MIRACLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.95,0:00:48.28,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}AVANT{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.28,0:00:48.77,L,,0,0,0,,{\an5\pos(540,1230)}QUE LA {\c&H55E3FB&}PORTE{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.77,0:00:49.33,L,,0,0,0,,{\an5\pos(540,1230)}NE SE {\c&H55E3FB&}FERME{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.33,0:00:50.40,L,,0,0,0,,{\an5\pos(540,1230)}POUR {\c&H55E3FB&}TOUJOURS{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.56,0:00:51.30,L,,0,0,0,,{\an5\pos(540,1230)}EN CE {\c&H55E3FB&}MOMENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.30,0:00:51.87,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}MÊME{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.87,0:00:52.54,L,,0,0,0,,{\an5\pos(540,1230)}UNE {\c&H55E3FB&}PRIÈRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.54,0:00:53.36,L,,0,0,0,,{\an5\pos(540,1230)}À SAINT {\c&H55E3FB&}BENOÎT{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.73,0:00:54.46,L,,0,0,0,,{\an5\pos(540,1230)}EST {\c&H55E3FB&}DIFFUSÉE{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.46,0:00:55.35,L,,0,0,0,,{\an5\pos(540,1230)}EN {\c&H55E3FB&}DIRECT{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.56,0:00:56.43,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}APPUIE{\c&HFFFFFF&} SUR
+Dialogue: 0,0:00:56.43,0:00:57.74,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}« EN{\c&HFFFFFF&} {\c&H55E3FB&}SAVOIR{\c&HFFFFFF&} {\c&H55E3FB&}PLUS »{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.74,0:00:58.87,L,,0,0,0,,{\an5\pos(540,1230)}{\c&H55E3FB&}CI-DESSOUS{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.87,0:00:59.47,L,,0,0,0,,{\an5\pos(540,1230)}ET {\c&H55E3FB&}REJOINS{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.47,0:00:59.95,L,,0,0,0,,{\an5\pos(540,1230)}LA {\c&H55E3FB&}PRIÈRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.95,0:01:01.12,L,,0,0,0,,{\an5\pos(540,1230)}EN {\c&H55E3FB&}DIRECT{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.67,0:01:02.30,L,,0,0,0,,{\an5\pos(540,1519)\fad(120,0)\fs104}APPUIE SUR {\c&H55E3FB&}« EN SAVOIR PLUS »

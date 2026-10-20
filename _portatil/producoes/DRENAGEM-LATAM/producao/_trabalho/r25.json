@@ -1,0 +1,6 @@
+{"ad":"ad25","corte":279.2,"saida":"AD 25 - LYMPHORIA-VECINO-ES-LATAM.mp4",
+"takes":[{"orig":"flora/t1.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/5/anonymous/de0c5e04-006e-4b19-81df-0cd883c5b918.mp4","inicio":126.767,"quadros":54},
+{"orig":"flora/t4.mp4","edit_url":"https://media.flora.ai/node-inputs/2026/10/5/anonymous/6d210888-0456-4104-9dbd-e87645ff03b8.mp4","inicio":168.167,"quadros":175}],
+"extras":[{"clipe":"flora/t2_band.mp4","inicio":143.067,"quadros":78},{"clipe":"flora/t3_band.mp4","inicio":149.567,"quadros":55},
+{"clipe":"flora/t5_band.mp4","inicio":174.067,"quadros":41},{"clipe":"flora/t6_band.mp4","inicio":175.5,"quadros":59}],
+"audios":[{"mp3":"p1.mp3","de":167.9,"ate":173.75}]}

@@ -1,0 +1,47 @@
+{
+ "saida": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-57_NO-LO-RECHACES",
+ "slides": [
+  {
+   "fundo": "C:/Users/PICHAU/Downloads/SB-ES-CARROSSEIS-LIVE/AD-57_NO-LO-RECHACES/_base/b.png",
+   "cx": 0.494,
+   "cy": 0.5,
+   "grad_topo": 260,
+   "grad_base": 620,
+   "grad_forca": 0.9,
+   "textos": [
+    {
+     "texto": "¡NO LO RECHACES!",
+     "y": 105,
+     "tamanho": 86,
+     "largura": 980,
+     "alt_max": 120
+    },
+    {
+     "texto": "SAN BENITO ESTÁ PASANDO AHORA LLEVANDO PROSPERIDAD Y BENDICIONES PARA TI Y TU FAMILIA.",
+     "y": 850,
+     "ancora": "topo",
+     "tamanho": 52,
+     "largura": 980,
+     "alt_max": 260
+    },
+    {
+     "texto": "ENTRA A LA ORACIÓN EN VIVO QUE ESTÁ SUCEDIENDO AHORA ↓",
+     "y": 1100,
+     "ancora": "topo",
+     "cor": "amarelo",
+     "tamanho": 44,
+     "largura": 900,
+     "alt_max": 110
+    }
+   ],
+   "setas_cta": {
+    "y": 1308,
+    "xs": [
+     430,
+     650
+    ],
+    "s": 30
+   }
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+REVISÃO: C5_yara-kit3_lo-estas-aplicando-mal_es-cl.mp4
+duração 30.40s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 9.3 MB
+decodificação: OK
+pts do áudio: 1423 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 6 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 641-693, x 534-665 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\YARA-CL\entregas\ONDA2\_revisao\C5_yara-kit3_lo-estas-aplicando-mal_es-cl_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.60 Si te echas perfume y te frotas las muñecas, lo estás haciendo mal.
+   5.60-  8.00 Al frotarlo, rompes el aroma.
+   8.00- 11.20 Aplícalo en el pulso muñecas.
+  11.20- 15.60 De ello y detrás de las orejas y deja que se seque solo.
+  15.60- 21.20 Y elige según el momento, uno suave para el día y uno intenso para la noche.
+  21.20- 25.60 Estos tres Yara vienen en Kit o Black Friday.
+  25.60- 30.40 Pagas dos y te llevas tres y pagas al recibir.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

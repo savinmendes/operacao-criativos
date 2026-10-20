@@ -1,0 +1,72 @@
+{
+ "saida": "../../../entregas/ONDA2/sem-musica/C7_yara-kit3_cuanto-pague_es-cl.mp4",
+ "overlays": "../../edicao/",
+ "sfx": "../../edicao/sfx",
+ "titulo": {
+  "png": "../onda2/overlays/titulo_C7.png",
+  "dur": 1.5
+ },
+ "cta": {
+  "png": "cta_final.png",
+  "dur": 1.8
+ },
+ "banner": true,
+ "sticker": true,
+ "selo": {
+  "em": "broll"
+ },
+ "whoosh": true,
+ "pop": true,
+ "legenda": {
+  "modo": "roteiro",
+  "textos": "textos_legenda.json",
+  "y": 1060
+ },
+ "loudnorm": -15,
+ "limite_mb": 30,
+ "segmentos": [
+  {
+   "video": "../takes/C7_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.5,
+   "audio": "../takes/C7_T1_gancho_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.5
+  },
+  {
+   "video": "../takes/C7_T1_gancho.mp4",
+   "tipo": "consultora",
+   "de": 4.5,
+   "ate": 9.05,
+   "audio": "../takes/C7_T1_gancho_vz.wav",
+   "audio_de": 4.5,
+   "audio_ate": 9.05,
+   "zoom": "in"
+  },
+  {
+   "video": "../takes/C3_T1_kit.mp4",
+   "tipo": "broll",
+   "audio": "../voz/C7_N_meio.mp3"
+  },
+  {
+   "video": "../takes/C7_T2_cta.mp4",
+   "tipo": "consultora",
+   "de": 0.0,
+   "ate": 4.0,
+   "audio": "../takes/C7_T2_cta_vz.wav",
+   "audio_de": 0.0,
+   "audio_ate": 4.0
+  },
+  {
+   "video": "../takes/C7_T2_cta.mp4",
+   "tipo": "consultora",
+   "de": 4.0,
+   "ate": 8.05,
+   "audio": "../takes/C7_T2_cta_vz.wav",
+   "audio_de": 4.0,
+   "audio_ate": 8.05,
+   "zoom": "in"
+  }
+ ]
+}

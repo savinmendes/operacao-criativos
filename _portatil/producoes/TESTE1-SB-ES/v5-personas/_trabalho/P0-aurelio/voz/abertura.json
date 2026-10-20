@@ -1,0 +1,185 @@
+{
+"dur": 10.466666666666667,
+"palavras": [
+{
+"w": "Imágenes",
+"ini": 0.035,
+"fim": 0.476,
+"fala": "R00"
+},
+{
+"w": "impactantes:",
+"ini": 0.534,
+"fim": 1.324,
+"fala": "R00"
+},
+{
+"w": "un",
+"ini": 1.574,
+"fim": 1.69,
+"fala": "R00"
+},
+{
+"w": "vendedor",
+"ini": 1.736,
+"fim": 2.142,
+"fala": "R00"
+},
+{
+"w": "fue",
+"ini": 2.201,
+"fim": 2.317,
+"fala": "R00"
+},
+{
+"w": "humillado",
+"ini": 2.34,
+"fim": 2.723,
+"fala": "R00"
+},
+{
+"w": "en",
+"ini": 2.758,
+"fim": 2.804,
+"fala": "R00"
+},
+{
+"w": "plena",
+"ini": 2.862,
+"fim": 3.129,
+"fala": "R00"
+},
+{
+"w": "calle...",
+"ini": 3.176,
+"fim": 3.629,
+"fala": "R00"
+},
+{
+"w": "por",
+"ini": 3.879,
+"fim": 4.03,
+"fala": "R00"
+},
+{
+"w": "su",
+"ini": 4.088,
+"fim": 4.181,
+"fala": "R00"
+},
+{
+"w": "fe.",
+"ini": 4.251,
+"fim": 4.529,
+"fala": "R00"
+},
+{
+"w": "¿No",
+"ini": 4.83,
+"fim": 5.37,
+"fala": "AG"
+},
+{
+"w": "crees",
+"ini": 5.37,
+"fim": 5.71,
+"fala": "AG"
+},
+{
+"w": "en",
+"ini": 5.71,
+"fim": 5.81,
+"fala": "AG"
+},
+{
+"w": "Dios?",
+"ini": 5.81,
+"fim": 6.19,
+"fala": "AG"
+},
+{
+"w": "¡Entonces",
+"ini": 6.55,
+"fim": 6.69,
+"fala": "AG"
+},
+{
+"w": "llámalo",
+"ini": 6.69,
+"fim": 7.09,
+"fala": "AG"
+},
+{
+"w": "ahora!",
+"ini": 7.09,
+"fim": 7.65,
+"fala": "AG"
+},
+{
+"w": "Señor,",
+"ini": 8.01,
+"fim": 8.09,
+"fala": "AU"
+},
+{
+"w": "yo",
+"ini": 8.09,
+"fim": 8.25,
+"fala": "AU"
+},
+{
+"w": "no",
+"ini": 8.25,
+"fim": 8.37,
+"fala": "AU"
+},
+{
+"w": "hice",
+"ini": 8.37,
+"fim": 8.55,
+"fala": "AU"
+},
+{
+"w": "nada.",
+"ini": 8.55,
+"fim": 8.91,
+"fala": "AU"
+},
+{
+"w": "Pare,",
+"ini": 9.23,
+"fim": 9.29,
+"fala": "AU"
+},
+{
+"w": "por",
+"ini": 9.29,
+"fim": 9.51,
+"fala": "AU"
+},
+{
+"w": "el",
+"ini": 9.51,
+"fim": 9.63,
+"fala": "AU"
+},
+{
+"w": "amor",
+"ini": 9.63,
+"fim": 9.77,
+"fala": "AU"
+},
+{
+"w": "de",
+"ini": 9.77,
+"fim": 9.95,
+"fala": "AU"
+},
+{
+"w": "Dios.",
+"ini": 9.95,
+"fim": 10.27,
+"fala": "AU"
+}
+]
+}

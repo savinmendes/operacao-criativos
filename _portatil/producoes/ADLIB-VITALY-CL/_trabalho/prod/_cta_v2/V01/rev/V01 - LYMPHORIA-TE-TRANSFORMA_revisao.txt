@@ -1,0 +1,19 @@
+REVISÃO: V01 - LYMPHORIA-TE-TRANSFORMA.mp4
+duração 17.32s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 12.0 MB
+decodificação: OK
+pts do áudio: 810 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 8 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 752-1187, x 224-512 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V01\rev\V01 - LYMPHORIA-TE-TRANSFORMA_revisao.jpg
+idioma detectado: es (0.97)
+
+=== transcrição (es) ===
+   0.00- 13.92 Se llama Linforia. Compre uno y reciba dos. Envío gratis y pagas al recibir en tu casa.
+  13.92- 16.18 Toca el botón de abajo y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

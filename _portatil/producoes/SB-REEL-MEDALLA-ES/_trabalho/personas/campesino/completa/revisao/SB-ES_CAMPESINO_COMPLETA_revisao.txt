@@ -1,0 +1,30 @@
+REVISÃO: SB-ES_CAMPESINO_COMPLETA.mp4
+duração 61.60s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 57.7 MB
+decodificação: OK
+pts do áudio: 2887 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 18 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\campesino\completa\revisao\SB-ES_CAMPESINO_COMPLETA_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.52 Recé de rodillas en mi tierra seca, y esto fue lo que pasó.
+   5.52- 12.16 O glorioso San Benito, mira mi tierra.
+  12.16- 18.80 Pasé meses viendo mi tierra secarse, la tierra de mi padre y de mi abuelo, y yo la iba a
+  18.80- 19.80 perder.
+  19.80- 25.36 Me sentía la vergüenza de mi familia, hasta que un padre explicó algo que nadie me
+  25.36- 28.84 había dicho sobre la medalla de San Benito.
+  28.84- 34.54 Millones de personas llevan esta medalla y nunca les explicaron lo que dicen sus letras,
+  34.54- 39.28 no es falta de fe, es que nadie les enseñó la forma correcta de rezarla, cuando se reza
+  39.28- 45.60 de la forma correcta, la casa se calma, el miedo se va y uno vuelve a ver salidas donde
+  45.60- 51.36 antes solo veía puertas cerradas. Por eso dejé la explicación completa, letra por
+  51.36- 56.00 letra en una transmisión en vivo que está abierta las 24 horas.
+  56.00- 61.12 toca en más información aquí abajo y entra a rezar con nosotros.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

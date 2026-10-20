@@ -1,0 +1,101 @@
+REVISÃO: SB-ES_RANKING01_RESTAURANTE-NOTICIA.mp4
+duração 100.50s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 27.5 MB
+decodificação: OK
+pts do áudio: 4712 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 27 | pares a <0,3 s: 49.97/50.13
+setas (vermelho) no fim: y 942-1074, x 232-487 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SANTAESPIRITUALIDADE_TOP50-RANKING\_analise_01\producao\rev\SB-ES_RANKING01_RESTAURANTE-NOTICIA_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  3.00 ¿Vieron lo que acaba de pasar en este restaurante?
+   3.00-  5.00 Nadie lo puede explicar.
+   6.60-  7.90 No lo van a creer.
+   7.90- 10.60 Pasé seis meses casi sin clientes.
+  10.60- 12.60 Ya iba a cerrar.
+  12.60- 15.00 Resé la oración de San Benito
+  15.00- 18.40 y minutos después mi restaurante se llenó.
+  18.40- 21.10 La aprendí con el padre Juan Mendes
+  21.10- 23.90 en una transmisión en vivo.
+  23.90- 27.90 Presten mucha atención porque esta oración puede cambiar su vida
+  27.90- 32.70 cada vez que la enseñó, intentan tumbar la transmisión y decir que es mentira.
+  32.70- 38.58 No quieren que nuestra gente prospere, pero los testimonios que llegan todos los días no mienten,
+  38.58- 40.98 y yo no voy a dejar de enseñarla.
+  40.98- 45.86 Repitan conmigo, o poderoso San Benito, guardián de los arcanos sagrados,
+  45.86- 49.90 que venciste a las serpientes con la señal de la cruz.
+  49.90- 55.62 ¡Alto! El resto no lo puedo decir aquí, ya me borraron la transmisión por enseñarla.
+  55.62- 59.28 Esta oración estuvo escondida por 900 años.
+  59.28- 62.02 Sólo los más poderosos la conocían
+  62.02- 66.06 y tiene una forma correcta de hacerla y de escucharla.
+  66.06- 67.36 Muchos me preguntan,
+  67.36- 69.82 ¿Padre, Dios quiere que prosperemos?
+  69.82- 74.06 Claro que sí, la falta de dinero es lo que más divide a las familias.
+  74.06- 76.26 Lo dice el Salmo 112.
+  76.26- 79.70 Riqueza y abundancia habrá en su casa
+  79.70- 82.94 y su justicia permanece para siempre.
+  82.94- 87.26 Por eso le estoy rezando completa, en vivo, paso a paso.
+  87.26- 93.68 A partir de hoy, despídete de las deudas, vuelve en siete días y cuéntame qué pasó.
+  93.68- 95.72 Envía este video a quien amas.
+  95.72-100.28 Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (pt) ===
+   0.00-  3.00    Viveram o que acabou de passar neste restaurante?
+   3.00-  5.00    Ninguém pode explicar.
+   6.50-  8.00    Não o vão acreditar.
+   8.00- 10.50    Passei seis meses quase sem clientes.
+  10.50- 12.50    Já ia cerrar.
+  12.50- 15.00    Reci a oração de San Benito
+  15.00- 18.50    e minutos depois meu restaurante se enganou.
+  18.50- 21.00    Eu aprendi com o pai Juan Mendes.
+  21.00- 24.00    Em uma transmissão em vivo.
+  24.00- 28.00    Preste muito atenção porque esta oração pode mudar sua vida.
+  28.00- 32.70    Cada vez que lhe ensinam, tentam cumprir a transmissão e dizer que é mentira.
+  32.70- 35.10    Não querem que nossa gente prospera,
+  35.10- 38.60    mas os testemunhos que chegam todos os dias não mentem.
+  38.60- 41.00    E eu não vou deixar de ensinar-la.
+  41.00- 45.90    Repitam comigo, o poderoso Sam Benito, guardiando os arcanos sagrados,
+  45.90- 49.90    que venciste aos serpientes com a senhal da cruz.
+  49.90- 50.60    Alto.
+  50.60- 52.40    O resto não posso dizer aqui.
+  52.40- 55.70    Já me borraram a transmissão por ensinar-la.
+  55.70- 59.30    Esta oração estava escondida por 900 anos.
+  59.30- 66.14    Só os mais poderosos a conheciam e tem uma forma correta de fazer e de ouvir.
+  66.14- 67.42    Muitos me perguntam,
+  67.42- 69.86    Padre, Deus quer que possamos prosperar?
+  69.86- 74.14    Claro que sim, a falta de dinheiro é o que mais divide as famílias.
+  74.14- 76.34    O que diz o Salmo 112.
+  76.34- 79.78    Riqueza e abundância habrá em sua casa
+  79.78- 83.02    e sua justiça permanece para sempre.
+  83.02- 87.22    Por isso le estoy rezando completa, em vivo, paso a paso.
+  87.22- 90.32    A partir de hoje, despíde-te de las deudas.
+  90.32- 93.72    Vuelve en siete días y cuéntame qué pasó.
+  93.72- 95.72    Envía este vídeo a quien amas.
+  95.72-100.32    Toca en ver más aquí abajo y entra a rezar conmigo.
+
+=== lipsync ===
+LIPSYNC: f_RA.mp4 (60 quadros, rosto em 73%, rosto 408,738,184,218 [forçado (--rosto)])
+  boca x original: dif. boca 11.17 | dif. controle 5.73 | mudou em 25% dos quadros | corr. abertura saída x original -0.10
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.21 (atraso 200 ms) | corr. original 0.25
+AVISO: aviso: pixels da boca quase iguais aos do original (25% dos quadros), mas a abertura não segue a do original (corr. -0.10); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.21 (original 0.25); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: f_DA.mp4 (178 quadros, rosto em 100%, rosto 268,350,254,290 [3 rostos; escolhido o que mais acompanha o áudio novo])
+  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.53 (atraso 0 ms) | corr. original -
+AVISO: correlação com o áudio novo 0.53; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+LIPSYNC: f_DB.mp4 (161 quadros, rosto em 100%, rosto 265,354,251,299 [3 rostos; escolhido o que mais acompanha o áudio novo])
+  pausas da voz nova: índice de pausa 0.02 (7 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo 0.25 (atraso 200 ms) | corr. original -
+APROVADO: fecha nas pausas da voz nova (índice de pausa 0.02)
+índice de pausa do conjunto (3 trechos): 0.02 -> APROVADO
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 49.97s e 50.13s (167 ms)
+aviso: lipsync f_RA.mp4: aviso: pixels da boca quase iguais aos do original (25% dos quadros), mas a abertura não segue a do original (corr. -0.10); barba/rosto pequeno? confira a boca na folha; correlação com o áudio novo 0.21 (original 0.25); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync f_DA.mp4: correlação com o áudio novo 0.53; aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato
+aviso: lipsync f_DA.mp4 checado sem o original (sem o teste 'a boca mudou')
+aviso: lipsync f_DB.mp4 checado sem o original (sem o teste 'a boca mudou')
+1 problema(s)

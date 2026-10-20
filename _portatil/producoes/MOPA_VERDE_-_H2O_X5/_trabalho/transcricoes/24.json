@@ -1,0 +1,372 @@
+{
+ "id": "24",
+ "texto": "Protect your family from 99% of germs with the H20X5 Steam Cleaner. It's that easy. Use it on floors, counters, carpets. Everything gets spotless in minutes. No chemicals, safe around kids and pets, and super quick to use. A single device that makes keeping your home truly clean, simple, and stress-free.",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 4.84,
+   "texto": "Protect your family from 99% of germs with the H20X5 Steam Cleaner.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "Protect",
+     "ini": 0.0,
+     "fim": 0.54,
+     "p": 0.91
+    },
+    {
+     "w": "your",
+     "ini": 0.54,
+     "fim": 0.76,
+     "p": 1.0
+    },
+    {
+     "w": "family",
+     "ini": 0.76,
+     "fim": 1.04,
+     "p": 1.0
+    },
+    {
+     "w": "from",
+     "ini": 1.04,
+     "fim": 1.34,
+     "p": 1.0
+    },
+    {
+     "w": "99",
+     "ini": 1.34,
+     "fim": 1.78,
+     "p": 0.98
+    },
+    {
+     "w": "%",
+     "ini": 1.78,
+     "fim": 2.14,
+     "p": 0.88
+    },
+    {
+     "w": "of",
+     "ini": 2.14,
+     "fim": 2.34,
+     "p": 0.99
+    },
+    {
+     "w": "germs",
+     "ini": 2.34,
+     "fim": 2.54,
+     "p": 1.0
+    },
+    {
+     "w": "with",
+     "ini": 2.54,
+     "fim": 2.78,
+     "p": 0.98
+    },
+    {
+     "w": "the",
+     "ini": 2.78,
+     "fim": 3.1,
+     "p": 0.98
+    },
+    {
+     "w": "H20X5",
+     "ini": 3.1,
+     "fim": 4.08,
+     "p": 0.82
+    },
+    {
+     "w": "Steam",
+     "ini": 4.08,
+     "fim": 4.36,
+     "p": 0.46
+    },
+    {
+     "w": "Cleaner.",
+     "ini": 4.36,
+     "fim": 4.84,
+     "p": 0.94
+    }
+   ]
+  },
+  {
+   "ini": 5.04,
+   "fim": 5.82,
+   "texto": "It's that easy.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "It's",
+     "ini": 5.04,
+     "fim": 5.3,
+     "p": 0.99
+    },
+    {
+     "w": "that",
+     "ini": 5.3,
+     "fim": 5.48,
+     "p": 1.0
+    },
+    {
+     "w": "easy.",
+     "ini": 5.48,
+     "fim": 5.82,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 6.22,
+   "fim": 8.5,
+   "texto": "Use it on floors, counters, carpets.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "Use",
+     "ini": 6.22,
+     "fim": 6.42,
+     "p": 0.99
+    },
+    {
+     "w": "it",
+     "ini": 6.42,
+     "fim": 6.58,
+     "p": 1.0
+    },
+    {
+     "w": "on",
+     "ini": 6.58,
+     "fim": 6.78,
+     "p": 1.0
+    },
+    {
+     "w": "floors,",
+     "ini": 6.78,
+     "fim": 7.08,
+     "p": 1.0
+    },
+    {
+     "w": "counters,",
+     "ini": 7.56,
+     "fim": 7.76,
+     "p": 0.99
+    },
+    {
+     "w": "carpets.",
+     "ini": 8.14,
+     "fim": 8.5,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 8.94,
+   "fim": 10.52,
+   "texto": "Everything gets spotless in minutes.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "Everything",
+     "ini": 8.94,
+     "fim": 9.2,
+     "p": 1.0
+    },
+    {
+     "w": "gets",
+     "ini": 9.2,
+     "fim": 9.5,
+     "p": 0.99
+    },
+    {
+     "w": "spotless",
+     "ini": 9.5,
+     "fim": 9.9,
+     "p": 0.99
+    },
+    {
+     "w": "in",
+     "ini": 9.9,
+     "fim": 10.18,
+     "p": 1.0
+    },
+    {
+     "w": "minutes.",
+     "ini": 10.18,
+     "fim": 10.52,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 10.8,
+   "fim": 14.64,
+   "texto": "No chemicals, safe around kids and pets, and super quick to use.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "No",
+     "ini": 10.8,
+     "fim": 10.98,
+     "p": 1.0
+    },
+    {
+     "w": "chemicals,",
+     "ini": 10.98,
+     "fim": 11.46,
+     "p": 1.0
+    },
+    {
+     "w": "safe",
+     "ini": 11.8,
+     "fim": 12.08,
+     "p": 1.0
+    },
+    {
+     "w": "around",
+     "ini": 12.08,
+     "fim": 12.38,
+     "p": 1.0
+    },
+    {
+     "w": "kids",
+     "ini": 12.38,
+     "fim": 12.64,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 12.64,
+     "fim": 12.92,
+     "p": 0.99
+    },
+    {
+     "w": "pets,",
+     "ini": 12.92,
+     "fim": 13.14,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 13.4,
+     "fim": 13.56,
+     "p": 1.0
+    },
+    {
+     "w": "super",
+     "ini": 13.56,
+     "fim": 13.86,
+     "p": 1.0
+    },
+    {
+     "w": "quick",
+     "ini": 13.86,
+     "fim": 14.08,
+     "p": 0.96
+    },
+    {
+     "w": "to",
+     "ini": 14.08,
+     "fim": 14.36,
+     "p": 0.99
+    },
+    {
+     "w": "use.",
+     "ini": 14.36,
+     "fim": 14.64,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "ini": 15.0,
+   "fim": 19.12,
+   "texto": "A single device that makes keeping your home truly clean, simple, and stress-free.",
+   "no_speech": 0.04,
+   "palavras": [
+    {
+     "w": "A",
+     "ini": 15.0,
+     "fim": 15.14,
+     "p": 1.0
+    },
+    {
+     "w": "single",
+     "ini": 15.14,
+     "fim": 15.42,
+     "p": 1.0
+    },
+    {
+     "w": "device",
+     "ini": 15.42,
+     "fim": 15.8,
+     "p": 1.0
+    },
+    {
+     "w": "that",
+     "ini": 15.8,
+     "fim": 16.04,
+     "p": 0.99
+    },
+    {
+     "w": "makes",
+     "ini": 16.04,
+     "fim": 16.24,
+     "p": 1.0
+    },
+    {
+     "w": "keeping",
+     "ini": 16.24,
+     "fim": 16.52,
+     "p": 1.0
+    },
+    {
+     "w": "your",
+     "ini": 16.52,
+     "fim": 16.8,
+     "p": 1.0
+    },
+    {
+     "w": "home",
+     "ini": 16.8,
+     "fim": 17.0,
+     "p": 1.0
+    },
+    {
+     "w": "truly",
+     "ini": 17.0,
+     "fim": 17.4,
+     "p": 1.0
+    },
+    {
+     "w": "clean,",
+     "ini": 17.4,
+     "fim": 17.74,
+     "p": 1.0
+    },
+    {
+     "w": "simple,",
+     "ini": 18.02,
+     "fim": 18.2,
+     "p": 1.0
+    },
+    {
+     "w": "and",
+     "ini": 18.48,
+     "fim": 18.6,
+     "p": 1.0
+    },
+    {
+     "w": "stress",
+     "ini": 18.6,
+     "fim": 18.88,
+     "p": 1.0
+    },
+    {
+     "w": "-free.",
+     "ini": 18.88,
+     "fim": 19.12,
+     "p": 0.87
+    }
+   ]
+  }
+ ]
+}

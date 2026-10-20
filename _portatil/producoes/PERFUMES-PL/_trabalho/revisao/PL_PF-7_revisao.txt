@@ -1,0 +1,59 @@
+REVISÃO: PL_PF-7.mp4
+duração 60.28s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.5 MB
+decodificação: OK
+pts do áudio: 2827 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 0.00-7.99
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PERFUMES-PL\_trabalho\revisao\PL_PF-7_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  5.00 Chcesz poznać perfumy, przez które kobiety oszaleją na Twoim punkcie?
+   5.00-  8.00 Uwaga, bo tej promocji nie możesz przegapić.
+   8.00- 12.00 Teraz zgarniesz trzy arabskie perfumy Premium w jednej ofercie.
+  12.00- 16.00 Trzy różne zapachy, które zostawiają niezapomniane wrażenie.
+  16.00- 20.00 Arma w klap. Świeży, męski i mocny.
+  20.00- 23.00 Daje energię, pewność siebie i charyzmę.
+  23.00- 26.00 Robi zbyt spokojnie.
+  26.00- 29.00 Daje energię, pewność siebie i charyzmę.
+  29.00- 31.00 Robi wrażenie od pierwszej chwili.
+  31.00- 33.00 Latafa Asad.
+  33.00- 36.00 Intensywny, wyrafinowany i uwodzicielski.
+  36.00- 40.00 Elegancka nuta, która przyciąga uwagę gdziekolwiek jesteś.
+  40.00- 43.00 Zapach z charakterem na wyjątkowe okazje.
+  43.00- 44.00 Afnan.
+  44.00- 47.00 Elegancki, nowoczesny i szlachetny.
+  47.00- 50.00 Dla tych, którzy chcą emanować stylem i klasą.
+  50.00- 53.00 Uniwersalny zapach na każdą okazję.
+  53.00- 54.00 A najlepsze?
+  54.00- 57.00 W tej promocji bierzesz wszystkie trzy perfumy premium.
+  57.00- 60.00 Zamów teraz i zapłać dopiero przy odbiorze.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (es) ===
+   0.00-  5.00    ¿Quieres conocer los perfumes por los que las mujeres se enojan en tu punto de vista?
+   5.00-  8.00    Cuidado, porque de esta promoción no puedes perder.
+   8.00- 12.00    Ahora compras tres perfumes árabes premium en una oferta.
+  12.00- 16.00    Tres diferentes aromas que dejan una impresión indescribible.
+  16.00- 18.00    Arma в клап.
+  18.00- 20.00    Cierdo, masculino y fuerte.
+  20.00- 23.00    Da energía, pewnoidad en sí mismo y carisma.
+  23.00- 25.00    Trabajas en el suelo.
+  25.00- 29.00    y fuerte, da energía, confianza en sí mismo y carisma,
+  29.00- 31.00    hace impresión desde la primera instancia.
+  31.00- 36.00    Latafa Asad, intensivo, rafinado y dirigido,
+  36.00- 40.00    una nota elegante que trae la atención donde sea que estés,
+  40.00- 43.00    un aroma con carácter para ocasiones excepcionales.
+  43.00- 47.00    Afnan, elegante, moderno y noble,
+  47.00- 50.00    para aquellos que quieren emanuar estilo y clase,
+  50.00- 53.00    un aroma universal para cada ocasión,
+  53.00- 57.48    ¿Y lo mejor? En esta promoción compras todas las tres perfumes premium.
+  57.48- 60.04    Pregúntate ahora y pagájate sólo al recibirla.
+
+=== RESULTADO ===
+aviso: silêncio de 8.0s em 0.00s
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,25 @@
+REVISÃO: PERFUMES-CL_F6_CUANTO-COSTO.mp4
+duração 30.99s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 21.6 MB
+decodificação: OK
+pts do áudio: 1454 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1032-1185, x 9-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\KIT-HOMBRE-3EN1\ONDA3\F6-CUANTO-COSTO\PERFUMES-CL_F6_CUANTO-COSTO_revisao.jpg
+idioma detectado: es (0.96)
+
+=== transcrição (es) ===
+   0.00-  4.04 ¡Buon! ¿Qué te echaste? ¿Que eso debe haber salido carísimo?
+   4.04-  8.68 Si supieran, son tres y lo falle cuando llegaron.
+   8.68- 11.68 Tres perfumes árabes al precio de uno.
+  11.68- 15.28 Armav Club, fresco, masculino y poderoso.
+  15.28- 19.80 Latafa Asad, intenso, sofisticado y seductor.
+  19.80- 24.84 Y Afnan 9 PM, elegante, moderno y refinado.
+  24.84- 29.32 Los tres te llegan a la casa y pagas cuando los recibes.
+  29.32- 31.32 ¡Pídelo ahora!
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

@@ -1,0 +1,66 @@
+REVISÃO: SB-EN-ADS-24.mp4
+duração 122.03s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 31.2 MB
+decodificação: OK
+pts do áudio: 5722 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 4.92-5.76, 56.33-57.03
+cortes de cena: 27 | pares a <0,3 s: 30.70/30.90, 34.67/34.87, 44.87/45.00, 45.00/45.17, 45.17/45.20, 46.97/47.00, 53.80/54.00, 74.77/74.93, 76.87/76.97, 80.27/80.30, 98.83/98.97, 103.37/103.40
+setas (vermelho) no fim: y 947-978, x 226-324 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-EN-NOVOS-VENCEDORES\02_ADS-24\_trabalho\revisao\SB-EN-ADS-24_revisao.jpg
+idioma detectado: en (1.00)
+
+=== transcrição (en) ===
+   0.00-  4.16 You have 60 seconds. Then I'll pass this blessing on to someone else.
+   5.68-  8.96 The 1111 portal has opened and not everyone will see it.
+   9.52- 14.96 Careful, if you skip this video, you will break the exact alignment the universe arranged to bless
+  14.96- 20.48 you. Today you asked heaven for a sign and now you want to run away from it. You have ignored
+  20.48- 25.60 the signs again and again. When you feel sudden shifts in energy or notice strange
+  25.60- 32.56 coincidences in your day, you brush them off. But it's not random. It's me trying to hand you
+  32.56- 37.28 the compass that will unlock your life. But today, Heaven's patience has reached its limit.
+  38.00- 43.44 Many say this is the last door that will open for you. The 1111 portal has opened.
+  43.44- 47.36 Your guardian angel has two financial miracles to deliver to you this week.
+  47.92- 52.32 If you're seeing this, it's no coincidence. Here is your guardian angel's guidance to
+  52.32- 54.06 to receive that miracle.
+  54.06- 57.18 Take a deep breath now and let's begin.
+  57.18- 60.14 The angel who has been with you since the day you were born
+  60.14- 62.70 is about to connect directly with your soul
+  62.70- 66.02 and open a path of unexpected miracles.
+  66.02- 68.54 The answer to that financial change you long for
+  68.54- 70.42 is closer than you imagine,
+  70.42- 72.90 but you must know something important.
+  72.90- 75.14 This doesn't happen just because of your prayers
+  75.14- 77.14 or what you ask for.
+  77.14- 80.38 God has a different way of placing miracles in our path
+  80.38- 83.22 and many times he does it through acts of deep faith,
+  83.22- 86.22 spiritual protection and true surrender.
+  86.22- 88.78 That's why for that miracle to manifest,
+  88.78- 90.58 you must take the first step
+  90.58- 92.46 and that step begins now.
+  92.46- 95.38 In a few moments, you'll join a special live prayer,
+  95.38- 97.62 an ancient prayer of protection
+  97.62-100.18 used for centuries to break blockages,
+ 100.18-103.56 drive away negative influences and open paths.
+ 103.56-105.22 The prayer of St. Benedict.
+ 105.22-108.70 If this message has reached you, it's no coincidence.
+ 108.70-111.96 Tap Learn more below and join the live prayer now.
+ 111.96-115.20 Maybe this is the opportunity you've been waiting for.
+ 115.20-118.20 Stay with us and join the live prayer of Saint Benedict.
+ 118.20-120.40 The protection, the order and the blessings
+ 120.40-121.88 you need can begin today.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 30.70s e 30.90s (200 ms)
+PROBLEMA: quadro solto? cortes em 34.67s e 34.87s (200 ms)
+PROBLEMA: quadro solto? cortes em 44.87s e 45.00s (133 ms)
+PROBLEMA: quadro solto? cortes em 45.00s e 45.17s (167 ms)
+PROBLEMA: quadro solto? cortes em 45.17s e 45.20s (33 ms)
+PROBLEMA: quadro solto? cortes em 46.97s e 47.00s (33 ms)
+PROBLEMA: quadro solto? cortes em 53.80s e 54.00s (200 ms)
+PROBLEMA: quadro solto? cortes em 74.77s e 74.93s (167 ms)
+PROBLEMA: quadro solto? cortes em 76.87s e 76.97s (100 ms)
+PROBLEMA: quadro solto? cortes em 80.27s e 80.30s (33 ms)
+PROBLEMA: quadro solto? cortes em 98.83s e 98.97s (133 ms)
+PROBLEMA: quadro solto? cortes em 103.37s e 103.40s (33 ms)
+12 problema(s)

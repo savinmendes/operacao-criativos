@@ -1,0 +1,366 @@
+[
+ {
+  "w": "J'ai",
+  "ini": 0.046,
+  "fim": 0.313,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "passé",
+  "ini": 0.36,
+  "fim": 0.662,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "des",
+  "ini": 0.731,
+  "fim": 0.859,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mois",
+  "ini": 0.906,
+  "fim": 1.184,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "à",
+  "ini": 1.277,
+  "fim": 1.335,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "regarder",
+  "ini": 1.451,
+  "fim": 1.939,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ma",
+  "ini": 1.985,
+  "fim": 2.101,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "terre",
+  "ini": 2.171,
+  "fim": 2.438,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "se",
+  "ini": 2.461,
+  "fim": 2.589,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "dessécher.",
+  "ini": 2.659,
+  "fim": 3.413,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "La",
+  "ini": 3.855,
+  "fim": 3.971,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "terre",
+  "ini": 4.052,
+  "fim": 4.319,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 4.365,
+  "fim": 4.447,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mon",
+  "ini": 4.505,
+  "fim": 4.644,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "père",
+  "ini": 4.702,
+  "fim": 4.981,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 5.027,
+  "fim": 5.155,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 5.201,
+  "fim": 5.283,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "mon",
+  "ini": 5.341,
+  "fim": 5.48,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "grand-père...",
+  "ini": 5.538,
+  "fim": 6.211,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "et",
+  "ini": 6.908,
+  "fim": 7.047,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "j'allais",
+  "ini": 7.094,
+  "fim": 7.361,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 7.396,
+  "fim": 7.465,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "perdre.",
+  "ini": 7.535,
+  "fim": 7.999,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Je",
+  "ini": 8.44,
+  "fim": 8.638,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "me",
+  "ini": 8.696,
+  "fim": 8.789,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "sentais",
+  "ini": 8.835,
+  "fim": 9.218,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 9.253,
+  "fim": 9.358,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "honte",
+  "ini": 9.451,
+  "fim": 9.799,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 9.845,
+  "fim": 9.915,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ma",
+  "ini": 9.985,
+  "fim": 10.077,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "famille.",
+  "ini": 10.147,
+  "fim": 10.739,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Jusqu'au",
+  "ini": 11.18,
+  "fim": 11.703,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "jour",
+  "ini": 11.749,
+  "fim": 12.086,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "où",
+  "ini": 12.132,
+  "fim": 12.318,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "un",
+  "ini": 12.399,
+  "fim": 12.446,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "prêtre",
+  "ini": 12.516,
+  "fim": 13.05,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'a",
+  "ini": 13.166,
+  "fim": 13.271,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "expliqué",
+  "ini": 13.305,
+  "fim": 13.793,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "quelque",
+  "ini": 13.874,
+  "fim": 14.246,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "chose",
+  "ini": 14.281,
+  "fim": 14.768,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "que",
+  "ini": 15.21,
+  "fim": 15.407,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "personne",
+  "ini": 15.477,
+  "fim": 16.069,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "ne",
+  "ini": 16.22,
+  "fim": 16.359,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "m'avait",
+  "ini": 16.429,
+  "fim": 16.73,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "jamais",
+  "ini": 16.788,
+  "fim": 17.125,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "dit",
+  "ini": 17.16,
+  "fim": 17.543,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "sur",
+  "ini": 17.868,
+  "fim": 18.124,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "la",
+  "ini": 18.158,
+  "fim": 18.228,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "médaille",
+  "ini": 18.309,
+  "fim": 18.693,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "de",
+  "ini": 18.716,
+  "fim": 18.832,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "saint",
+  "ini": 18.901,
+  "fim": 19.099,
+  "personagem": "campesino",
+  "parte": "selfie"
+ },
+ {
+  "w": "Benoît.",
+  "ini": 19.122,
+  "fim": 19.586,
+  "personagem": "campesino",
+  "parte": "selfie"
+ }
+]

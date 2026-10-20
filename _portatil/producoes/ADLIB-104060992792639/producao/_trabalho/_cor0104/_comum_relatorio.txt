@@ -1,0 +1,5 @@
+- **Causa:** a leitura pelo cv2 (matriz bt709 nos arquivos com essa etiqueta) e a gravação em bt601 escureciam ~2–3 níveis por passada. A base passava pelo LaMa e pela colagem, e o recorte enviado ao HeyGen levava mais uma ou duas passadas.
+- **Leitura e gravação:** as do `ad13\lipsync3\comum3.py`, ou seja, ffmpeg bt601 com `accurate_rnd`, conversão inversa exata e etiqueta bt709/tv só no bitstream.
+- **Base:** refeita a partir do original `UNICOS_HD`, com as faixas do LaMa já calculadas (nenhum LaMa novo). Os PNG do LaMa vieram da leitura cv2, então foram convertidos para a leitura nova por uma afim fixa, medida no próprio original (resíduo 0,97).
+- **Cor de cada trecho do HeyGen:** antes de colar, uma afim BGR robusta leva a saída para a cor da base nova (`_trabalho\_cor0104\util.py`).
+- **Nenhum crédito HeyGen e nenhum job novo.** As saídas já baixadas foram reaproveitadas.

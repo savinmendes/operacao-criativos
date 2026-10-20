@@ -1,0 +1,56 @@
+{
+"texto": "A los pocos días, Carmen tenía tres familias queriendo contratarla.",
+"dur": 4.663,
+"palavras": [
+{
+"w": "A",
+"ini": 0.07,
+"fim": 0.093
+},
+{
+"w": "los",
+"ini": 0.163,
+"fim": 0.313
+},
+{
+"w": "pocos",
+"ini": 0.372,
+"fim": 0.662
+},
+{
+"w": "días,",
+"ini": 0.697,
+"fim": 1.184
+},
+{
+"w": "Carmen",
+"ini": 1.275,
+"fim": 1.646
+},
+{
+"w": "tenía",
+"ini": 1.693,
+"fim": 2.064
+},
+{
+"w": "tres",
+"ini": 2.169,
+"fim": 2.471
+},
+{
+"w": "familias",
+"ini": 2.529,
+"fim": 3.086
+},
+{
+"w": "queriendo",
+"ini": 3.19,
+"fim": 3.655
+},
+{
+"w": "contratarla.",
+"ini": 3.713,
+"fim": 4.491
+}
+]
+}

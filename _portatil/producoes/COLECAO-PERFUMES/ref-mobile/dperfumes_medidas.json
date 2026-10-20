@@ -1,0 +1,91 @@
+{
+ "url": "https://dperfumes.cl/?s=arabe&post_type=product",
+ "status": "ok (headless, com reload)",
+ "primeiro_card": {
+  "y_px": 375,
+  "pct_viewport": 44
+ },
+ "primeira_imagem": {
+  "y_px": 375,
+  "w": 175,
+  "h": 175,
+  "aspecto": 1.0
+ },
+ "titulo": {
+  "h1": "Resultados de búsqueda: “arabe”",
+  "fonte": "Poppins",
+  "size": "18px",
+  "weight": 600,
+  "faixa": "faixa cinza centralizada abaixo do menu",
+  "descricao": "nenhuma",
+  "banner": "nenhum (página de busca)"
+ },
+ "header": {
+  "altura_px": 140,
+  "inclui": "barra de aviso rolando + logo + menu de categorias preto horizontal",
+  "position": "static"
+ },
+ "chips": "nenhuma linha de chips",
+ "filtro_ordenar": {
+  "controle": "link 'Mostrar filtros' 15px/600 + ícone de ordenar, y=332",
+  "sticky": false
+ },
+ "contagem": {
+  "texto": "Mostrando los 20 resultados",
+  "y": 270,
+  "size": "15px",
+  "cor": "#777"
+ },
+ "card": {
+  "badges": "pílula roxa '-10% Cyber Week' e preta 'Envío gratis' sobre a imagem, 11px/500 branco",
+  "cta": {
+   "texto": "Añadir al carrito",
+   "altura": 38,
+   "largura": 175,
+   "largura_total": true,
+   "font": "13px/600",
+   "bg": "#AF32AF",
+   "radius": "35px",
+   "posicao": "logo abaixo da imagem, antes da marca"
+  },
+  "marca": {
+   "size": "12.8px",
+   "weight": 400,
+   "cor": "#A5A5A5",
+   "uppercase": false
+  },
+  "nome": {
+   "size": "13.5px",
+   "weight": 500,
+   "cor": "#333",
+   "linhas": "2 (sem line-clamp)",
+   "alinhamento": "esquerda"
+  },
+  "preco": {
+   "size": "13.5px",
+   "weight": 700,
+   "cor": "#AF32AF"
+  },
+  "preco_de": {
+   "size": "12.15px",
+   "cor": "#BBB",
+   "riscado": true,
+   "posicao": "ao lado do preço"
+  },
+  "extras": "linha '6 cuotas sin interés de $X' 12px; tags de nota olfativa (Dulce/Oriental) 10px/500 em pílulas coloridas",
+  "rating": false,
+  "icones": "lupa e coração circulares à direita da imagem"
+ },
+ "grid": {
+  "colunas": 2,
+  "gap_coluna": 10,
+  "gap_linha_medido": 58,
+  "padding_lateral": 15
+ },
+ "fontes": {
+  "body": "Poppins",
+  "titulos": "Poppins"
+ },
+ "seo": "não encontrado na página de busca",
+ "fixos": "tab bar inferior fixa 55px (Tienda/Favoritos/Carrito/Mi cuenta) + botão flutuante de chat"
+}

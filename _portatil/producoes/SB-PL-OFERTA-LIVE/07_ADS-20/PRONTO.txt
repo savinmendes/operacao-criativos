@@ -1,0 +1,5 @@
+SB-PL-ADS-20 pronto em 16/10/2026.
+Video: SB-PL-ADS-20.mp4 (131,4 s, 720x1280, 30 fps; EN 140,8 s / IT 138,7 s)
+Voz: Jesus The Chosen (gancho) + Brian speed 1.12 (corpo), eleven_multilingual_v2 language_code pl
+HeyGen: 1 job lipsync speed (gancho 4,3 s, 50de53fdd3284e2ca0e0291d43831603), indice de pausa 0,20 APROVADO
+revisar_ad.py: OK (whisper pl 0.99, sem proibidos, sem salto de pts, sem silencio); revisor independente: sem criticos, cosmeticos corrigidos

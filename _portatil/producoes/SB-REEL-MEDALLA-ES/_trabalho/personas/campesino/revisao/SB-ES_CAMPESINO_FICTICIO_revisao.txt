@@ -1,0 +1,29 @@
+REVISÃO: SB-ES_CAMPESINO_FICTICIO.mp4
+duração 69.80s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 58.8 MB
+decodificação: OK
+pts do áudio: 3272 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 20 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 966-1006, x 536-666 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\campesino\revisao\SB-ES_CAMPESINO_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  8.40 O glorioso San Benito, hoy pronuncio las palabras grabadas en tu medalla, mira mi tierra,
+   8.40- 15.80 si me escuchas, no me abandones.
+  15.80- 22.36 Pasé meses viendo mi tierra secarse, llegué a pensar que lo iba a perder todo, hasta que
+  22.36- 28.92 en una transmisión en vivo un padre explicó la forma exacta de pedirle a San Benito.
+  28.92- 35.48 día recupere la paz y poco a poco todo volvió a florecer.
+  35.48- 39.28 Esta es la última vez que Dios intenta hablarte de esta forma.
+  39.28- 44.12 Jesús te eligió, preparó un regalo poderoso solo para ti.
+  44.12- 48.84 En este video vas a escuchar la oración perdida de San Benito que desbloquea una
+  48.84- 53.44 lluvia de milagros, pero solo si no la rechazas otra vez.
+  53.44- 59.92 toca más información ahora recibe tu milagro antes de que la puerta se cierre para siempre
+  59.92- 65.28 ahora mismo está ocurriendo una transmisión en vivo con san benito toca el botón ver
+  65.28- 69.28 más aquí abajo del vídeo y entra a rezar con nosotros
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

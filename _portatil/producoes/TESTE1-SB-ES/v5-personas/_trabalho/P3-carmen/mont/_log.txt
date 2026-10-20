@@ -1,0 +1,16 @@
+   0.00 +12.60 briga    z1
+  12.60 + 2.20 maos     z1.0
+  14.80 + 3.40 sentada  z1.0
+  18.20 + 2.40 abraco   z1.0
+  20.60 + 4.57 R01      z1.0
+  25.17 + 9.13 C1       z1.0
+  34.30 + 7.33 C2       z1.12
+  41.63 + 6.97 P1       z1.0
+  48.60 + 9.10 P2       z1.12
+  57.70 + 6.20 P3       z1.0
+  63.90 + 6.17 CTA      z1.0
+  70.07 + 0.90 final    z1
+TOTAL 70.96666666666667 CTA 63.900000000000006
+janela 2129 quadros; esperado 2129
+ok C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P3-CARMEN_FICTICIO.mp4 70.97 s
+C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P3-CARMEN_FICTICIO_narracion.txt

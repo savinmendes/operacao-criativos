@@ -1,0 +1,690 @@
+[
+{
+"ini": 0.0,
+"texto": "gente después"
+},
+{
+"ini": 1.2,
+"texto": "dicen que dios"
+},
+{
+"ini": 1.86,
+"texto": "no existe"
+},
+{
+"ini": 3.98,
+"texto": "no crees en"
+},
+{
+"ini": 4.72,
+"texto": "dios"
+},
+{
+"ini": 5.08,
+"texto": "entonces llámalo"
+},
+{
+"ini": 5.82,
+"texto": "ahora"
+},
+{
+"ini": 6.26,
+"texto": "señor yo no"
+},
+{
+"ini": 6.92,
+"texto": "hice nada"
+},
+{
+"ini": 7.74,
+"texto": "pare por el"
+},
+{
+"ini": 8.2,
+"texto": "amor de dios"
+},
+{
+"ini": 18.15,
+"texto": "después de ser"
+},
+{
+"ini": 18.904,
+"texto": "atacado por un"
+},
+{
+"ini": 19.705,
+"texto": "cliente y volverse"
+},
+{
+"ini": 21.006,
+"texto": "viral el carrito"
+},
+{
+"ini": 22.347,
+"texto": "de don aurelio se"
+},
+{
+"ini": 23.631,
+"texto": "convirtió en uno"
+},
+{
+"ini": 24.861,
+"texto": "de los más"
+},
+{
+"ini": 25.523,
+"texto": "pedidos del país"
+},
+{
+"ini": 26.799,
+"texto": "sí eso me"
+},
+{
+"ini": 27.829,
+"texto": "pasó a mí"
+},
+{
+"ini": 29.09,
+"texto": "pero yo había"
+},
+{
+"ini": 30.182,
+"texto": "aprendido la"
+},
+{
+"ini": 31.122,
+"texto": "oración del"
+},
+{
+"ini": 32.028,
+"texto": "grimorio sagrado y"
+},
+{
+"ini": 33.409,
+"texto": "secreto de"
+},
+{
+"ini": 34.187,
+"texto": "san benito y"
+},
+{
+"ini": 35.447,
+"texto": "decidí hacerla"
+},
+{
+"ini": 36.759,
+"texto": "después de aquella"
+},
+{
+"ini": 38.001,
+"texto": "situación"
+},
+{
+"ini": 39.21,
+"texto": "al día siguiente"
+},
+{
+"ini": 40.546,
+"texto": "a mi carrito"
+},
+{
+"ini": 41.405,
+"texto": "empezaron a llover"
+},
+{
+"ini": 42.67,
+"texto": "clientes"
+},
+{
+"ini": 43.625,
+"texto": "no lo podía"
+},
+{
+"ini": 44.636,
+"texto": "creer"
+},
+{
+"ini": 45.542,
+"texto": "podemos poner aquí"
+},
+{
+"ini": 47.144,
+"texto": "la transmisión"
+},
+{
+"ini": 48.247,
+"texto": "en vivo que se"
+},
+{
+"ini": 49.211,
+"texto": "cayó la que"
+},
+{
+"ini": 50.349,
+"texto": "enseña esta"
+},
+{
+"ini": 51.591,
+"texto": "oración tan"
+},
+{
+"ini": 52.659,
+"texto": "poderosa"
+},
+{
+"ini": 53.587,
+"texto": "claro"
+},
+{
+"ini": 54.392,
+"texto": "presten mucha"
+},
+{
+"ini": 54.973,
+"texto": "atención porque"
+},
+{
+"ini": 55.716,
+"texto": "posiblemente este"
+},
+{
+"ini": 56.505,
+"texto": "video saldrá del"
+},
+{
+"ini": 57.295,
+"texto": "aire muy rápido"
+},
+{
+"ini": 58.402,
+"texto": "no quieren que"
+},
+{
+"ini": 59.098,
+"texto": "tengas acceso a"
+},
+{
+"ini": 59.876,
+"texto": "esto porque es"
+},
+{
+"ini": 60.898,
+"texto": "una oración muy"
+},
+{
+"ini": 61.746,
+"texto": "poderosa"
+},
+{
+"ini": 62.719,
+"texto": "repitan conmigo"
+},
+{
+"ini": 64.092,
+"texto": "oh poderoso"
+},
+{
+"ini": 64.916,
+"texto": "san benito"
+},
+{
+"ini": 66.251,
+"texto": "guardián de los"
+},
+{
+"ini": 67.134,
+"texto": "misterios sagrados"
+},
+{
+"ini": 68.84,
+"texto": "que venciste a"
+},
+{
+"ini": 69.699,
+"texto": "la serpiente con"
+},
+{
+"ini": 70.651,
+"texto": "la señal de"
+},
+{
+"ini": 71.208,
+"texto": "la cruz y"
+},
+{
+"ini": 72.218,
+"texto": "callaste el rugido"
+},
+{
+"ini": 73.484,
+"texto": "del abismo con"
+},
+{
+"ini": 74.389,
+"texto": "tu fe"
+},
+{
+"ini": 74.784,
+"texto": "inquebrantable"
+},
+{
+"ini": 76.247,
+"texto": "invoco ahora las"
+},
+{
+"ini": 77.326,
+"texto": "12 palabras"
+},
+{
+"ini": 78.209,
+"texto": "selladas por tu"
+},
+{
+"ini": 79.265,
+"texto": "mano"
+},
+{
+"ini": 80.315,
+"texto": "crux"
+},
+{
+"ini": 80.93,
+"texto": "lux"
+},
+{
+"ini": 81.337,
+"texto": "fides"
+},
+{
+"ini": 81.813,
+"texto": "ignes"
+},
+{
+"ini": 82.242,
+"texto": "veritas"
+},
+{
+"ini": 82.718,
+"texto": "silentium"
+},
+{
+"ini": 83.392,
+"texto": "gladius"
+},
+{
+"ini": 83.949,
+"texto": "fortitudo"
+},
+{
+"ini": 84.646,
+"texto": "custodia"
+},
+{
+"ini": 85.598,
+"texto": "sanctitas"
+},
+{
+"ini": 86.457,
+"texto": "spiritus"
+},
+{
+"ini": 87.2,
+"texto": "y triumphus"
+},
+{
+"ini": 89.163,
+"texto": "esta es la"
+},
+{
+"ini": 89.86,
+"texto": "poderosísima"
+},
+{
+"ini": 90.696,
+"texto": "oración de las"
+},
+{
+"ini": 91.358,
+"texto": "12 palabras del"
+},
+{
+"ini": 92.619,
+"texto": "grimorio sagrado y"
+},
+{
+"ini": 93.606,
+"texto": "secreto de"
+},
+{
+"ini": 94.151,
+"texto": "san benito"
+},
+{
+"ini": 95.178,
+"texto": "están surgiendo"
+},
+{
+"ini": 95.898,
+"texto": "relatos de"
+},
+{
+"ini": 96.42,
+"texto": "bendiciones todos"
+},
+{
+"ini": 97.43,
+"texto": "los días"
+},
+{
+"ini": 98.416,
+"texto": "fue escrita por"
+},
+{
+"ini": 99.228,
+"texto": "el propio"
+},
+{
+"ini": 99.832,
+"texto": "san benito en su"
+},
+{
+"ini": 100.726,
+"texto": "regla y se"
+},
+{
+"ini": 101.643,
+"texto": "mantuvo en secreto"
+},
+{
+"ini": 102.572,
+"texto": "durante 918 años"
+},
+{
+"ini": 105.426,
+"texto": "solo un grupo"
+},
+{
+"ini": 106.146,
+"texto": "de monjes tenía"
+},
+{
+"ini": 107.052,
+"texto": "acceso a esta"
+},
+{
+"ini": 107.911,
+"texto": "oración completa"
+},
+{
+"ini": 109.223,
+"texto": "la traje de"
+},
+{
+"ini": 109.745,
+"texto": "una excursión que"
+},
+{
+"ini": 110.651,
+"texto": "hice a italia"
+},
+{
+"ini": 111.719,
+"texto": "y decidí"
+},
+{
+"ini": 112.276,
+"texto": "compartirla con"
+},
+{
+"ini": 113.112,
+"texto": "ustedes"
+},
+{
+"ini": 114.237,
+"texto": "la última vez"
+},
+{
+"ini": 114.829,
+"texto": "que enseñé esta"
+},
+{
+"ini": 115.641,
+"texto": "oración en un"
+},
+{
+"ini": 116.315,
+"texto": "congreso recibí"
+},
+{
+"ini": 117.673,
+"texto": "más de 497"
+},
+{
+"ini": 119.775,
+"texto": "relatos de"
+},
+{
+"ini": 120.32,
+"texto": "bendiciones al día"
+},
+{
+"ini": 121.818,
+"texto": "siguiente"
+},
+{
+"ini": 122.768,
+"texto": "pero atención"
+},
+{
+"ini": 123.854,
+"texto": "tiene que hacerse"
+},
+{
+"ini": 124.876,
+"texto": "de la forma"
+},
+{
+"ini": 125.422,
+"texto": "correcta según las"
+},
+{
+"ini": 126.722,
+"texto": "instrucciones del"
+},
+{
+"ini": 127.384,
+"texto": "grimorio porque no"
+},
+{
+"ini": 128.44,
+"texto": "es una oración"
+},
+{
+"ini": 129.195,
+"texto": "común"
+},
+{
+"ini": 129.943,
+"texto": "tiene"
+},
+{
+"ini": 130.175,
+"texto": "instrucciones y"
+},
+{
+"ini": 131.022,
+"texto": "una manera"
+},
+{
+"ini": 131.568,
+"texto": "correcta de"
+},
+{
+"ini": 132.137,
+"texto": "hacerla y de"
+},
+{
+"ini": 133.252,
+"texto": "escucharla"
+},
+{
+"ini": 134.376,
+"texto": "voy a pedirle"
+},
+{
+"ini": 135.166,
+"texto": "a la producción"
+},
+{
+"ini": 136.321,
+"texto": "que deje el"
+},
+{
+"ini": 136.843,
+"texto": "grimorio sagrado y"
+},
+{
+"ini": 138.144,
+"texto": "secreto de"
+},
+{
+"ini": 138.678,
+"texto": "san benito"
+},
+{
+"ini": 139.235,
+"texto": "disponible en este"
+},
+{
+"ini": 140.477,
+"texto": "sitio para que"
+},
+{
+"ini": 141.342,
+"texto": "puedan hacerla de"
+},
+{
+"ini": 142.433,
+"texto": "la forma correcta"
+},
+{
+"ini": 143.924,
+"texto": "pero no sé"
+},
+{
+"ini": 144.597,
+"texto": "por cuánto tiempo"
+},
+{
+"ini": 145.503,
+"texto": "va a estar"
+},
+{
+"ini": 145.944,
+"texto": "disponible"
+},
+{
+"ini": 147.08,
+"texto": "y quien obtenga"
+},
+{
+"ini": 147.811,
+"texto": "el grimorio hoy"
+},
+{
+"ini": 148.938,
+"texto": "recibirá de regalo"
+},
+{
+"ini": 150.302,
+"texto": "un collar de"
+},
+{
+"ini": 150.952,
+"texto": "plata de"
+},
+{
+"ini": 151.382,
+"texto": "san benito el"
+},
+{
+"ini": 152.369,
+"texto": "mismo que se"
+},
+{
+"ini": 153.443,
+"texto": "usaba en sus"
+},
+{
+"ini": 154.348,
+"texto": "oraciones"
+},
+{
+"ini": 155.059,
+"texto": "accede mientras"
+},
+{
+"ini": 155.826,
+"texto": "todavía es posible"
+},
+{
+"ini": 157.27,
+"texto": "a partir de"
+},
+{
+"ini": 157.851,
+"texto": "hoy le darás"
+},
+{
+"ini": 158.385,
+"texto": "la bienvenida a"
+},
+{
+"ini": 159.267,
+"texto": "una vida próspera"
+},
+{
+"ini": 160.809,
+"texto": "vuelve aquí"
+},
+{
+"ini": 161.332,
+"texto": "después de siete"
+},
+{
+"ini": 162.11,
+"texto": "días para contar"
+},
+{
+"ini": 162.946,
+"texto": "las bendiciones"
+},
+{
+"ini": 163.665,
+"texto": "que llegaron a"
+},
+{
+"ini": 164.234,
+"texto": "tu vida"
+},
+{
+"ini": 165.173,
+"texto": "envía este video"
+},
+{
+"ini": 166.044,
+"texto": "a quien amas"
+},
+{
+"ini": 166.694,
+"texto": "y haz la"
+},
+{
+"ini": 167.066,
+"texto": "oración de la"
+},
+{
+"ini": 167.774,
+"texto": "forma correcta"
+}
+]

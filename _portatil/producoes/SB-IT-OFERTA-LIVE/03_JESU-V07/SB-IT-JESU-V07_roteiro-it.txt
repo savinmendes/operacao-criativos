@@ -1,0 +1,56 @@
+SB-IT-JESU-V07 — San Benedetto · Italiano (Itália, EUR)
+Origem: SB-JESU-V07.mp4 (ES, 33,1 s) via versão EN (SB-EN-JESU-V07, 27,0 s). Destino: la preghiera in diretta.
+Botão do Meta: LEARN_MORE ("Scopri di più"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen ESPANHOL" (AkQxVSf1kENGmX9WjeDE), a mesma do EN (nenhuma voz criada/clonada/apagada).
+Modelo eleven_multilingual_v2, velocidade 1,08 (whisper it: idioma "it" 0,99, texto bate com o roteiro).
+
+======================================================================
+ROTEIRO EN (base)                     | ROTEIRO IT (narrado)
+======================================================================
+[Gancho — Jesus no Getsêmani, soldados com tochas]
+If you close this video now, the miracle that carried your name will be given to someone else.
+Se chiudi questo video adesso, il miracolo che portava il tuo nome sarà dato a qualcun altro.
+
+[Jesus coroa de espinhos]
+This is the last time God will try to speak to you this way.
+Questa è l'ultima volta che Dio cercherà di parlarti in questo modo.
+
+[Mulher de olhos fechados]
+Jesus chose you.
+Gesù ha scelto te.
+
+[Mão entregando chave dourada]
+He prepared a powerful gift, just for you.
+Ha preparato un dono potente, solo per te.
+
+[Jesus coroa]
+Today, you will hear the lost prayer of Saint Benedict that
+Oggi ascolterai la preghiera perduta di San Benedetto che
+
+[Portão abrindo]
+unlocks a shower of miracles.
+sblocca una pioggia di miracoli.
+
+[Mulher triste entre sombras]
+But only if you don't reject it again.
+Ma solo se non la rifiuti di nuovo.
+
+[Jesus coroa + seta]
+Tap Learn More below, and join the live prayer now.
+Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta.
+
+[Porta com feixe de luz + seta]
+Receive your miracle before the door closes forever.
+Ricevi il tuo miracolo prima che la porta si chiuda per sempre.
+
+Decisões
+- "Saint Benedict" virou "San Benedetto"; CTA padrão do lote IT: "Tocca «Scopri di più» qui sotto e unisciti alla preghiera in diretta".
+- "Today, you will hear" virou "Oggi ascolterai" SEM vírgula/pausa: no EN a pausa depois de "Today," deixou a boca
+  entreaberta ~0,45 s em 0:12. No IT a cena do Jesus (crown2) só tem fala contínua.
+- "shower of miracles" = "pioggia di miracoli" (é a imagem do original ES "lluvia de milagros").
+- Promessas e urgência mantidas sem suavizar (decisão da pessoa).
+- Imagem: mesmas cenas e b-rolls do EN, mas a cena crown2 usa outro trecho da fonte (6,0 s em vez de 4,0 s) para não
+  repetir quadros da crown1. 4 trechos de lipsync HeyGen speed (gancho + 3 do Jesus coroado), entrada com o áudio
+  ORIGINAL ES e áudio IT separado; só boca e queixo colados sobre o original (colar_boca.py).
+- Legenda karaokê no estilo do EN (Poppins ExtraBold caixa alta, palavra falada em amarelo), seta amarela a partir de
+  "Tocca" até o fim; trilha do original (demucs) a -32 LUFS sob a voz (-16 LUFS).

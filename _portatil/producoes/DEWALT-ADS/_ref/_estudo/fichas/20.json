@@ -1,0 +1,59 @@
+{
+  "ad": "20",
+  "arquivo": "20 AD.mp4",
+  "folha": "_estudo/folhas/20.jpg",
+  "idioma": "pt (Brasil)",
+  "origem": {
+    "perfil": "@shopderica_ (TikTok, afiliada TikTok Shop)",
+    "tipo": "criador/afiliado (compilação de clipes chineses/Douyin)"
+  },
+  "resolucao": "576x1024 (abaixo de 720p)",
+  "duracao_s": 22.2,
+  "cortes": {
+    "n": 7,
+    "ritmo": "rápido: ~3 s por plano"
+  },
+  "formato": "slideshow/compilação de clipes de fábrica + oferta TikTok Shop (desconto)",
+  "gancho": {
+    "visual": "0-3 s: furadeira tipo DeWalt 20V XR na mão, prateleira de maletas DeWalt ao fundo",
+    "fala_ou_texto": "Fala: 'Essa aqui é a parafusadeira que está viralizando e agora está com mais de 67% de desconto na TikTok Shop.'"
+  },
+  "estrutura": [
+    {
+      "t": "0-4.5",
+      "bloco": "furadeira tipo DeWalt na loja"
+    },
+    {
+      "t": "4.5-9.7",
+      "bloco": "clipes de outras furadeiras genéricas (roxa, vermelha) furando metal"
+    },
+    {
+      "t": "9.7-16",
+      "bloco": "maleta de kit com acessórios (grama, mesa)"
+    },
+    {
+      "t": "16-22",
+      "bloco": "parafusando em vergalhão + volta à DeWalt na prateleira"
+    }
+  ],
+  "cta": "'Já está no carrinho laranja... promoção por tempo limitado. Garanta a sua!'",
+  "texto_tela": "marca d'água chinesa vertical (Douyin) no canto inferior esquerdo; sem legenda",
+  "produto": {
+    "mostrado": "Mistura: furadeira estilo DeWalt 20V XR (modelo não legível; o contexto sugere réplica/genérica) + furadeiras genéricas de outras marcas + kits de maleta genéricos",
+    "e_o_nosso": false
+  },
+  "rosto": {
+    "sim": false,
+    "tempo_s": 0
+  },
+  "marca_dagua": "texto chinês (Douyin) em vários planos; logos de fábrica chinesa num plano",
+  "audio": "voz feminina pt-BR (TTS/afiliada) + música",
+  "uso": [
+    "descartar (produto misturado/genérico, provável réplica, marcas d'água chinesas)",
+    "só referência de formato para o argumento 'kit em maleta com acessórios'"
+  ],
+  "nota": {
+    "valor": 1,
+    "justificativa": "Mistura produtos diferentes e prováveis réplicas, com risco de passar imagem de pirata; nada é o DCD7771. Só lembra que 'maleta + tudo incluso' chama atenção."
+  }
+}

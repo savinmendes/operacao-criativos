@@ -1,0 +1,492 @@
+{
+ "L084": {
+  "n_quadros": 249,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L084.mp4 (249 quadros, rosto em 100%, rosto 270,135,146,176 [único rosto])\n  boca x original: dif. boca 8.32 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original 0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.34 (atraso 33 ms) | corr. original 0.16\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.16); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L085": {
+  "n_quadros": 308,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L085.mp4 (308 quadros, rosto em 100%, rosto 264,130,145,171 [único rosto])\n  boca x original: dif. boca 7.87 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original 0.04\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.22 (atraso 0 ms) | corr. original 0.25\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.22 (original 0.25); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L087": {
+  "n_quadros": 275,
+  "indice": 0.19,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L087.mp4 (275 quadros, rosto em 100%, rosto 259,129,146,172 [único rosto])\n  boca x original: dif. boca 8.52 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original -0.14\n  pausas da voz nova: índice de pausa 0.19 (23 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.55 (atraso 33 ms) | corr. original 0.08\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.19)"
+ },
+ "L088": {
+  "n_quadros": 345,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L088.mp4 (345 quadros, rosto em 100%, rosto 259,132,145,174 [único rosto])\n  boca x original: dif. boca 8.07 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original 0.00\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.26 (atraso 0 ms) | corr. original 0.13\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.26 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L089": {
+  "n_quadros": 292,
+  "indice": 0.09,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L089.mp4 (292 quadros, rosto em 100%, rosto 258,135,145,169 [único rosto])\n  boca x original: dif. boca 9.32 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original 0.22\n  pausas da voz nova: índice de pausa 0.09 (7 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.32 (atraso 0 ms) | corr. original 0.06\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.09)"
+ },
+ "L090": {
+  "n_quadros": 353,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L090.mp4 (353 quadros, rosto em 100%, rosto 255,135,148,170 [único rosto])\n  boca x original: dif. boca 10.13 | dif. controle 1.15 | mudou em 99% dos quadros | corr. abertura saída x original 0.00\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.46 (atraso -33 ms) | corr. original -0.02\nAVISO: boca mudou em 99% dos quadros; correlação com o áudio novo 0.46 (original -0.02); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L091": {
+  "n_quadros": 177,
+  "indice": null,
+  "checar": "REPROVADO",
+  "nota": "ajuste cor BGR [-0.0, 0.5, -0.5]",
+  "log": "LIPSYNC: ls_L091.mp4 (177 quadros, rosto em 100%, rosto 204,213,165,195 [único rosto])\n  boca x original: dif. boca 6.35 | dif. controle 1.12 | mudou em 97% dos quadros | corr. abertura saída x original -0.22\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.14 (atraso 100 ms) | corr. original -0.01\nREPROVADO: a boca não acompanha o áudio novo (correlação 0.14; mínimo 0.15; trecho sem pausa para o índice de pausa)"
+ },
+ "L092": {
+  "n_quadros": 288,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L092.mp4 (288 quadros, rosto em 100%, rosto 261,136,147,173 [2 rostos; escolhido o que mudou em relação ao original])\n  boca x original: dif. boca 8.95 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original -0.20\n  pausas da voz nova: índice de pausa - (4 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.31 (atraso 0 ms) | corr. original 0.20\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.31 (original 0.20); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L093": {
+  "n_quadros": 344,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L093.mp4 (344 quadros, rosto em 100%, rosto 258,136,146,173 [único rosto])\n  boca x original: dif. boca 8.73 | dif. controle 1.06 | mudou em 100% dos quadros | corr. abertura saída x original 0.05\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.34 (atraso -100 ms) | corr. original 0.12\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L094": {
+  "n_quadros": 263,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L094.mp4 (263 quadros, rosto em 100%, rosto 256,131,147,168 [único rosto])\n  boca x original: dif. boca 8.31 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original 0.08\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.34 (atraso 33 ms) | corr. original 0.24\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.24); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L095": {
+  "n_quadros": 216,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L095.mp4 (216 quadros, rosto em 100%, rosto 259,129,145,170 [único rosto])\n  boca x original: dif. boca 9.58 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original -0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.38 (atraso 33 ms) | corr. original 0.11\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.38 (original 0.11); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L096": {
+  "n_quadros": 304,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L096.mp4 (304 quadros, rosto em 100%, rosto 254,133,147,174 [único rosto])\n  boca x original: dif. boca 8.83 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original 0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.33 (atraso -33 ms) | corr. original 0.06\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.33 (original 0.06); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L097": {
+  "n_quadros": 139,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L097.mp4 (139 quadros, rosto em 100%, rosto 260,131,146,174 [único rosto])\n  boca x original: dif. boca 9.33 | dif. controle 1.16 | mudou em 100% dos quadros | corr. abertura saída x original 0.35\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.60 (atraso 0 ms) | corr. original 0.08\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.60 (original 0.08); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L098": {
+  "n_quadros": 198,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L098.mp4 (198 quadros, rosto em 100%, rosto 300,128,144,172 [2 rostos; escolhido o que mudou em relação ao original])\n  boca x original: dif. boca 8.07 | dif. controle 1.16 | mudou em 100% dos quadros | corr. abertura saída x original 0.02\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.29 (atraso 0 ms) | corr. original 0.09\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.29 (original 0.09); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L099": {
+  "n_quadros": 338,
+  "indice": 0.56,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L099.mp4 (338 quadros, rosto em 100%, rosto 223,151,176,209 [único rosto])\n  boca x original: dif. boca 8.73 | dif. controle 1.04 | mudou em 94% dos quadros | corr. abertura saída x original -0.11\n  pausas da voz nova: índice de pausa 0.56 (20 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.36 (atraso -33 ms) | corr. original 0.12\nAPROVADO: boca mudou em 94% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.56)"
+ },
+ "L100": {
+  "n_quadros": 328,
+  "indice": 1.05,
+  "checar": "REPROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L100.mp4 (328 quadros, rosto em 100%, rosto 219,144,176,207 [único rosto])\n  boca x original: dif. boca 8.85 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original 0.07\n  pausas da voz nova: índice de pausa 1.05 (6 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.18 (atraso 0 ms) | corr. original 0.02\nREPROVADO: a boca não acompanha o áudio novo: fica aberta nas pausas da voz (índice de pausa 1.05 > 0.9; sincronizado <= 0.6)"
+ },
+ "L101": {
+  "n_quadros": 274,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L101.mp4 (274 quadros, rosto em 100%, rosto 221,145,176,208 [único rosto])\n  boca x original: dif. boca 7.83 | dif. controle 1.07 | mudou em 100% dos quadros | corr. abertura saída x original 0.15\n  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.50 (atraso 0 ms) | corr. original 0.16\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.50 (original 0.16); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L102": {
+  "n_quadros": 155,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L102.mp4 (155 quadros, rosto em 100%, rosto 231,149,175,207 [único rosto])\n  boca x original: dif. boca 8.70 | dif. controle 1.03 | mudou em 97% dos quadros | corr. abertura saída x original 0.11\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.32 (atraso 200 ms) | corr. original 0.17\nAVISO: boca mudou em 97% dos quadros; correlação com o áudio novo 0.32 (original 0.17); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L103": {
+  "n_quadros": 177,
+  "indice": null,
+  "checar": "REPROVADO",
+  "nota": "ajuste cor BGR [-0.4000000059604645, 0.4000000059604645, -0.8999999761581421]",
+  "log": "LIPSYNC: ls_L103.mp4 (177 quadros, rosto em 100%, rosto 203,212,164,192 [único rosto])\n  boca x original: dif. boca 7.37 | dif. controle 1.11 | mudou em 95% dos quadros | corr. abertura saída x original -0.05\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.15 (atraso -200 ms) | corr. original 0.39\nREPROVADO: a boca não acompanha o áudio novo (correlação 0.15; mínimo 0.15; trecho sem pausa para o índice de pausa)"
+ },
+ "L104": {
+  "n_quadros": 302,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L104.mp4 (302 quadros, rosto em 100%, rosto 252,127,146,170 [único rosto])\n  boca x original: dif. boca 8.53 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original -0.08\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.18 (atraso 0 ms) | corr. original -0.05\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.18 (original -0.05); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L105": {
+  "n_quadros": 291,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L105.mp4 (291 quadros, rosto em 100%, rosto 256,129,146,170 [único rosto])\n  boca x original: dif. boca 8.28 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original -0.24\n  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.31 (atraso 0 ms) | corr. original 0.03\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.31 (original 0.03); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L106": {
+  "n_quadros": 314,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L106.mp4 (314 quadros, rosto em 100%, rosto 250,162,145,170 [único rosto])\n  boca x original: dif. boca 8.12 | dif. controle 1.14 | mudou em 100% dos quadros | corr. abertura saída x original 0.13\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.29 (atraso 0 ms) | corr. original 0.01\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.29 (original 0.01); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L107": {
+  "n_quadros": 114,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L107.mp4 (114 quadros, rosto em 100%, rosto 248,131,148,173 [único rosto])\n  boca x original: dif. boca 7.46 | dif. controle 1.16 | mudou em 100% dos quadros | corr. abertura saída x original 0.02\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso 0 ms) | corr. original 0.12\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.35 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L108": {
+  "n_quadros": 280,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L108.mp4 (280 quadros, rosto em 100%, rosto 261,131,145,170 [único rosto])\n  boca x original: dif. boca 8.23 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original -0.19\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.29 (atraso -67 ms) | corr. original 0.17\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.29 (original 0.17); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L109": {
+  "n_quadros": 356,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L109.mp4 (356 quadros, rosto em 100%, rosto 260,122,146,169 [único rosto])\n  boca x original: dif. boca 9.02 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original 0.15\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.28 (atraso -167 ms) | corr. original 0.17\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28 (original 0.17); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L111": {
+  "n_quadros": 162,
+  "indice": 0.47,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L111.mp4 (162 quadros, rosto em 100%, rosto 225,157,175,207 [único rosto])\n  boca x original: dif. boca 8.67 | dif. controle 1.06 | mudou em 100% dos quadros | corr. abertura saída x original -0.03\n  pausas da voz nova: índice de pausa 0.47 (7 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.42 (atraso 33 ms) | corr. original -0.03\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.47)"
+ },
+ "L112": {
+  "n_quadros": 297,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L112.mp4 (297 quadros, rosto em 100%, rosto 215,141,175,203 [único rosto])\n  boca x original: dif. boca 9.31 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original -0.16\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.32 (atraso 0 ms) | corr. original 0.10\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.32 (original 0.10); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L113": {
+  "n_quadros": 293,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L113.mp4 (293 quadros, rosto em 100%, rosto 220,150,176,208 [único rosto])\n  boca x original: dif. boca 9.56 | dif. controle 1.07 | mudou em 100% dos quadros | corr. abertura saída x original 0.19\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.37 (atraso 0 ms) | corr. original 0.03\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.37 (original 0.03); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L114": {
+  "n_quadros": 271,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L114.mp4 (271 quadros, rosto em 100%, rosto 223,144,176,206 [único rosto])\n  boca x original: dif. boca 8.78 | dif. controle 1.03 | mudou em 100% dos quadros | corr. abertura saída x original -0.11\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.38 (atraso 0 ms) | corr. original 0.15\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.38 (original 0.15); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L115": {
+  "n_quadros": 257,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L115.mp4 (257 quadros, rosto em 100%, rosto 224,145,176,208 [único rosto])\n  boca x original: dif. boca 8.26 | dif. controle 1.02 | mudou em 100% dos quadros | corr. abertura saída x original -0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.21 (atraso 200 ms) | corr. original 0.14\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.21 (original 0.14); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L116": {
+  "n_quadros": 327,
+  "indice": 0.45,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L116.mp4 (327 quadros, rosto em 100%, rosto 218,143,176,206 [único rosto])\n  boca x original: dif. boca 9.00 | dif. controle 1.06 | mudou em 100% dos quadros | corr. abertura saída x original 0.18\n  pausas da voz nova: índice de pausa 0.45 (10 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso 200 ms) | corr. original 0.20\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.45)"
+ },
+ "L117": {
+  "n_quadros": 220,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L117.mp4 (220 quadros, rosto em 100%, rosto 215,138,176,206 [único rosto])\n  boca x original: dif. boca 9.53 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original -0.01\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso -33 ms) | corr. original 0.36\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.35 (original 0.36); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L118": {
+  "n_quadros": 279,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L118.mp4 (279 quadros, rosto em 100%, rosto 224,153,176,210 [único rosto])\n  boca x original: dif. boca 8.69 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original 0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.22 (atraso 0 ms) | corr. original -0.16\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.22 (original -0.16); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L119": {
+  "n_quadros": 174,
+  "indice": 0.8,
+  "checar": "AVISO",
+  "nota": "ajuste cor BGR [0.30000001192092896, 0.5, -0.30000001192092896]",
+  "log": "LIPSYNC: ls_L119.mp4 (174 quadros, rosto em 100%, rosto 203,214,166,195 [único rosto])\n  boca x original: dif. boca 6.12 | dif. controle 0.99 | mudou em 99% dos quadros | corr. abertura saída x original 0.37\n  pausas da voz nova: índice de pausa 0.80 (17 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.21 (atraso 200 ms) | corr. original -0.20\nAVISO: boca mudou em 99% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.80); aviso: índice de pausa acima de 0.6 com só 17 quadros de pausa; confira a boca nas pausas da voz na folha de contato"
+ },
+ "L120": {
+  "n_quadros": 91,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L120.mp4 (91 quadros, rosto em 100%, rosto 259,159,151,171 [único rosto])\n  boca x original: dif. boca 8.40 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original -0.28\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.54 (atraso 67 ms) | corr. original 0.03\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.54 (original 0.03); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L121": {
+  "n_quadros": 286,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L121.mp4 (286 quadros, rosto em 100%, rosto 270,149,145,171 [único rosto])\n  boca x original: dif. boca 9.05 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original -0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.29 (atraso 0 ms) | corr. original 0.11\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.29 (original 0.11); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L122": {
+  "n_quadros": 96,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L122.mp4 (96 quadros, rosto em 100%, rosto 262,134,147,176 [único rosto])\n  boca x original: dif. boca 10.55 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original 0.07\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.30 (atraso 0 ms) | corr. original 0.28\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.30 (original 0.28); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L123": {
+  "n_quadros": 332,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L123.mp4 (332 quadros, rosto em 100%, rosto 250,124,146,168 [único rosto])\n  boca x original: dif. boca 8.42 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original -0.00\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.28 (atraso 0 ms) | corr. original 0.08\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28 (original 0.08); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L124": {
+  "n_quadros": 315,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L124.mp4 (315 quadros, rosto em 100%, rosto 260,124,146,168 [único rosto])\n  boca x original: dif. boca 8.90 | dif. controle 1.14 | mudou em 100% dos quadros | corr. abertura saída x original -0.02\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.25 (atraso 0 ms) | corr. original 0.23\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.25 (original 0.23); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L125": {
+  "n_quadros": 68,
+  "indice": 0.29,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L125.mp4 (90 quadros, rosto em 100%, rosto 246,131,147,176 [único rosto])\n  boca x original: dif. boca 6.45 | dif. controle 1.15 | mudou em 91% dos quadros | corr. abertura saída x original 0.26\n  pausas da voz nova: índice de pausa 0.29 (17 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.67 (atraso 33 ms) | corr. original 0.27\nAPROVADO: boca mudou em 91% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.29)"
+ },
+ "L126": {
+  "n_quadros": 174,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "ajuste cor BGR [0.10000000149011612, 0.4000000059604645, -0.6000000238418579]",
+  "log": "LIPSYNC: ls_L126.mp4 (174 quadros, rosto em 100%, rosto 203,215,166,195 [único rosto])\n  boca x original: dif. boca 6.66 | dif. controle 1.10 | mudou em 100% dos quadros | corr. abertura saída x original -0.04\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.27 (atraso 33 ms) | corr. original -0.10\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.27 (original -0.10); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L127": {
+  "n_quadros": 134,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L127.mp4 (134 quadros, rosto em 100%, rosto 224,152,176,210 [único rosto])\n  boca x original: dif. boca 8.44 | dif. controle 1.06 | mudou em 100% dos quadros | corr. abertura saída x original -0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.61 (atraso -67 ms) | corr. original 0.25\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.61 (original 0.25); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L128": {
+  "n_quadros": 189,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L128.mp4 (189 quadros, rosto em 100%, rosto 215,145,176,209 [único rosto])\n  boca x original: dif. boca 10.22 | dif. controle 1.08 | mudou em 100% dos quadros | corr. abertura saída x original 0.17\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso 0 ms) | corr. original 0.19\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.35 (original 0.19); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L129": {
+  "n_quadros": 218,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L129.mp4 (218 quadros, rosto em 100%, rosto 217,141,176,205 [único rosto])\n  boca x original: dif. boca 10.10 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original -0.11\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.36 (atraso 33 ms) | corr. original 0.14\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.36 (original 0.14); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L130": {
+  "n_quadros": 217,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L130.mp4 (217 quadros, rosto em 100%, rosto 220,144,176,209 [único rosto])\n  boca x original: dif. boca 8.13 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original -0.00\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.21 (atraso 0 ms) | corr. original -0.04\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.21 (original -0.04); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L131": {
+  "n_quadros": 308,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L131.mp4 (308 quadros, rosto em 100%, rosto 223,144,176,208 [único rosto])\n  boca x original: dif. boca 8.20 | dif. controle 1.04 | mudou em 100% dos quadros | corr. abertura saída x original 0.11\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.36 (atraso 33 ms) | corr. original 0.12\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.36 (original 0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L132": {
+  "n_quadros": 267,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L132.mp4 (267 quadros, rosto em 100%, rosto 224,142,177,208 [único rosto])\n  boca x original: dif. boca 8.28 | dif. controle 1.00 | mudou em 100% dos quadros | corr. abertura saída x original 0.22\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.38 (atraso 0 ms) | corr. original -0.02\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.38 (original -0.02); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L133": {
+  "n_quadros": 237,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L133.mp4 (237 quadros, rosto em 100%, rosto 222,141,177,206 [único rosto])\n  boca x original: dif. boca 8.28 | dif. controle 1.02 | mudou em 100% dos quadros | corr. abertura saída x original 0.08\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.34 (atraso 200 ms) | corr. original 0.20\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.34 (original 0.20); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L134": {
+  "n_quadros": 222,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L134.mp4 (222 quadros, rosto em 100%, rosto 215,137,175,206 [único rosto])\n  boca x original: dif. boca 9.05 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original -0.24\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso -33 ms) | corr. original -0.01\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.35 (original -0.01); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L135": {
+  "n_quadros": 316,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L135.mp4 (316 quadros, rosto em 100%, rosto 223,140,175,206 [único rosto])\n  boca x original: dif. boca 8.84 | dif. controle 0.94 | mudou em 100% dos quadros | corr. abertura saída x original -0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.43 (atraso 0 ms) | corr. original -0.09\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.43 (original -0.09); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L136": {
+  "n_quadros": 174,
+  "indice": 0.38,
+  "checar": "APROVADO",
+  "nota": "ajuste cor BGR [0.10000000149011612, 0.6000000238418579, -0.5]",
+  "log": "LIPSYNC: ls_L136.mp4 (174 quadros, rosto em 100%, rosto 204,215,165,193 [único rosto])\n  boca x original: dif. boca 6.22 | dif. controle 1.08 | mudou em 99% dos quadros | corr. abertura saída x original 0.25\n  pausas da voz nova: índice de pausa 0.38 (25 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.51 (atraso 0 ms) | corr. original 0.22\nAPROVADO: boca mudou em 99% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.38)"
+ },
+ "L137": {
+  "n_quadros": 329,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L137.mp4 (329 quadros, rosto em 100%, rosto 262,136,147,173 [único rosto])\n  boca x original: dif. boca 8.82 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original 0.08\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.28 (atraso 0 ms) | corr. original 0.10\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.28 (original 0.10); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L138": {
+  "n_quadros": 138,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L138.mp4 (138 quadros, rosto em 100%, rosto 257,136,147,174 [único rosto])\n  boca x original: dif. boca 8.31 | dif. controle 1.11 | mudou em 100% dos quadros | corr. abertura saída x original -0.31\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.23 (atraso 67 ms) | corr. original -0.12\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.23 (original -0.12); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L139": {
+  "n_quadros": 309,
+  "indice": null,
+  "checar": "REPROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L139.mp4 (309 quadros, rosto em 100%, rosto 255,144,147,170 [único rosto])\n  boca x original: dif. boca 8.17 | dif. controle 1.08 | mudou em 100% dos quadros | corr. abertura saída x original -0.11\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.11 (atraso 0 ms) | corr. original 0.11\nREPROVADO: a boca não acompanha o áudio novo (correlação 0.11; mínimo 0.15; trecho sem pausa para o índice de pausa)"
+ },
+ "L140": {
+  "n_quadros": 316,
+  "indice": 0.24,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L140.mp4 (316 quadros, rosto em 100%, rosto 258,128,145,170 [único rosto])\n  boca x original: dif. boca 8.48 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original -0.08\n  pausas da voz nova: índice de pausa 0.24 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.55 (atraso -33 ms) | corr. original 0.05\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.24)"
+ },
+ "L141": {
+  "n_quadros": 357,
+  "indice": 0.07,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L141.mp4 (357 quadros, rosto em 100%, rosto 255,130,146,173 [2 rostos; escolhido o que mudou em relação ao original])\n  boca x original: dif. boca 9.62 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original -0.01\n  pausas da voz nova: índice de pausa 0.07 (8 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.40 (atraso 0 ms) | corr. original 0.20\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.07)"
+ },
+ "L142": {
+  "n_quadros": 306,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L142.mp4 (306 quadros, rosto em 100%, rosto 286,131,146,172 [único rosto])\n  boca x original: dif. boca 8.51 | dif. controle 1.15 | mudou em 100% dos quadros | corr. abertura saída x original -0.18\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.39 (atraso -33 ms) | corr. original -0.00\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.39 (original -0.00); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L143": {
+  "n_quadros": 294,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L143.mp4 (294 quadros, rosto em 100%, rosto 290,126,146,170 [único rosto])\n  boca x original: dif. boca 9.25 | dif. controle 1.13 | mudou em 100% dos quadros | corr. abertura saída x original -0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.24 (atraso 0 ms) | corr. original 0.11\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.24 (original 0.11); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L144": {
+  "n_quadros": 97,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L144.mp4 (97 quadros, rosto em 100%, rosto 260,132,146,175 [único rosto])\n  boca x original: dif. boca 9.38 | dif. controle 1.06 | mudou em 100% dos quadros | corr. abertura saída x original -0.06\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.45 (atraso 67 ms) | corr. original 0.01\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.45 (original 0.01); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L145": {
+  "n_quadros": 290,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L145.mp4 (290 quadros, rosto em 100%, rosto 255,133,146,174 [único rosto])\n  boca x original: dif. boca 8.90 | dif. controle 1.12 | mudou em 100% dos quadros | corr. abertura saída x original 0.37\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.26 (atraso -67 ms) | corr. original 0.17\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.26 (original 0.17); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L146": {
+  "n_quadros": 195,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L146.mp4 (195 quadros, rosto em 100%, rosto 260,130,144,170 [único rosto])\n  boca x original: dif. boca 10.44 | dif. controle 1.14 | mudou em 100% dos quadros | corr. abertura saída x original -0.24\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.32 (atraso 0 ms) | corr. original 0.03\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.32 (original 0.03); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L147": {
+  "n_quadros": 295,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L147.mp4 (295 quadros, rosto em 100%, rosto 260,130,146,166 [único rosto])\n  boca x original: dif. boca 8.92 | dif. controle 1.09 | mudou em 100% dos quadros | corr. abertura saída x original -0.04\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.41 (atraso 0 ms) | corr. original -0.00\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.41 (original -0.00); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L148": {
+  "n_quadros": 335,
+  "indice": 0.13,
+  "checar": "APROVADO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L148.mp4 (335 quadros, rosto em 100%, rosto 257,137,146,173 [2 rostos; escolhido o que mudou em relação ao original])\n  boca x original: dif. boca 8.48 | dif. controle 1.04 | mudou em 100% dos quadros | corr. abertura saída x original -0.03\n  pausas da voz nova: índice de pausa 0.13 (7 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.36 (atraso -33 ms) | corr. original -0.14\nAPROVADO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.13)"
+ },
+ "L149": {
+  "n_quadros": 290,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L149.mp4 (290 quadros, rosto em 100%, rosto 260,135,147,172 [único rosto])\n  boca x original: dif. boca 8.16 | dif. controle 0.98 | mudou em 99% dos quadros | corr. abertura saída x original 0.05\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.21 (atraso -33 ms) | corr. original 0.11\nAVISO: boca mudou em 99% dos quadros; correlação com o áudio novo 0.21 (original 0.11); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L150": {
+  "n_quadros": 174,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "ajuste cor BGR [-0.0, 0.5, -0.6000000238418579]",
+  "log": "LIPSYNC: ls_L150.mp4 (174 quadros, rosto em 100%, rosto 204,214,164,194 [único rosto])\n  boca x original: dif. boca 5.54 | dif. controle 1.09 | mudou em 99% dos quadros | corr. abertura saída x original 0.24\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.21 (atraso -33 ms) | corr. original 0.13\nAVISO: boca mudou em 99% dos quadros; correlação com o áudio novo 0.21 (original 0.13); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L151": {
+  "n_quadros": 309,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L151.mp4 (309 quadros, rosto em 100%, rosto 220,146,176,210 [único rosto])\n  boca x original: dif. boca 8.92 | dif. controle 0.92 | mudou em 100% dos quadros | corr. abertura saída x original -0.08\n  pausas da voz nova: índice de pausa - (4 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.35 (atraso 0 ms) | corr. original 0.24\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.35 (original 0.24); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L152": {
+  "n_quadros": 202,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L152.mp4 (202 quadros, rosto em 100%, rosto 212,145,175,208 [único rosto])\n  boca x original: dif. boca 8.80 | dif. controle 0.96 | mudou em 100% dos quadros | corr. abertura saída x original -0.03\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.27 (atraso 0 ms) | corr. original 0.28\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.27 (original 0.28); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L153": {
+  "n_quadros": 350,
+  "indice": null,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L153.mp4 (350 quadros, rosto em 100%, rosto 222,144,176,208 [único rosto])\n  boca x original: dif. boca 8.21 | dif. controle 1.05 | mudou em 100% dos quadros | corr. abertura saída x original -0.10\n  pausas da voz nova: índice de pausa - (5 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.30 (atraso 0 ms) | corr. original 0.08\nAVISO: boca mudou em 100% dos quadros; correlação com o áudio novo 0.30 (original 0.08); aviso: trecho sem pausa na voz nova, o índice de pausa não foi calculado; confira a boca na folha de contato"
+ },
+ "L086": {
+  "n_quadros": 202,
+  "indice": 0.79,
+  "checar": "AVISO",
+  "nota": "",
+  "log": "LIPSYNC: ls_L086.mp4 (202 quadros, rosto em 100%, rosto 262,128,145,172 [único rosto])\n  boca x original: dif. boca 9.02 | dif. controle 1.17 | mudou em 100% dos quadros | corr. abertura saída x original -0.09\n  pausas da voz nova: índice de pausa 0.79 (9 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.28 (atraso 33 ms) | corr. original 0.15\nAVISO: boca mudou em 100% dos quadros; fecha nas pausas da voz nova (índice de pausa 0.79); aviso: índice de pausa acima de 0.6 com só 9 quadros de pausa; confira a boca nas pausas da voz na folha de contato"
+ },
+ "L110": {
+  "n_quadros": 177,
+  "indice": null,
+  "checar": "REPROVADO",
+  "nota": "ajuste cor BGR [-0.10000000149011612, 0.5, -0.6000000238418579]",
+  "log": "LIPSYNC: ls_L110.mp4 (177 quadros, rosto em 100%, rosto 203,213,166,194 [único rosto])\n  boca x original: dif. boca 6.47 | dif. controle 1.14 | mudou em 98% dos quadros | corr. abertura saída x original 0.17\n  pausas da voz nova: índice de pausa - (0 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)\n  boca x áudio: corr. novo 0.03 (atraso -200 ms) | corr. original 0.36\nREPROVADO: a boca não acompanha o áudio novo (correlação 0.03; mínimo 0.15; trecho sem pausa para o índice de pausa)"
+ }
+}

@@ -1,0 +1,14 @@
+AD 04 (AD 04 - ORACION-ENVIDIA-ES-LATAM.mp4): mediana final-original | elipse boca/queixo | anel de pele | degrau
+  w1         -1.0  +0.0  -1.0
+  w2coberto -18.5 -22.5  +4.0
+  w3         +0.0  +0.0  +0.0
+  w4         -1.0  +0.0  -1.0
+  w5         -1.0  +0.0  -1.0
+  w6         -1.0  +0.0  -1.0
+  w7         -1.0  +0.0  -1.0
+  w8         +0.0  +0.0  +0.0
+  w9         -1.0  +0.0  -1.0
+  w10        +0.0  +0.0  +0.0
+  w11        -1.0  +0.0  -1.0
+  w12        -1.0  +0.0  -1.0
+  TODOS      -1.0  +0.0  -1.0

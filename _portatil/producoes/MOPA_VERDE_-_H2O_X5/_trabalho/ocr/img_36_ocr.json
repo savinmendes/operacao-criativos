@@ -1,0 +1,74 @@
+[
+ {
+  "texto": "H20 X5",
+  "conf": 0.88,
+  "caixa": [
+   735,
+   141,
+   949,
+   189
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "STEAM CLEANER",
+  "conf": 0.97,
+  "caixa": [
+   665,
+   208,
+   1007,
+   238
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SALE",
+  "conf": 0.99,
+  "caixa": [
+   590,
+   427,
+   1010,
+   572
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "NOW ON!",
+  "conf": 0.95,
+  "caixa": [
+   608,
+   598,
+   992,
+   664
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "LIMITED STOCK ONLY!",
+  "conf": 0.96,
+  "caixa": [
+   605,
+   685,
+   993,
+   718
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "USE CODE: FBX5",
+  "conf": 0.99,
+  "caixa": [
+   612,
+   895,
+   985,
+   934
+  ],
+  "marca_ou_alerta": true,
+  "remover": true
+ }
+]

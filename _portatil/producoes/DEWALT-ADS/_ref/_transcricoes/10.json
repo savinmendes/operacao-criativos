@@ -1,0 +1,32 @@
+{
+ "arquivo": "10 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.99,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 6.0,
+   "texto": "Para a fusadeira furadeira de impacto bruxlesa com duas baterias 20 Vols Deual que com maleta."
+  },
+  {
+   "ini": 6.0,
+   "fim": 16.71,
+   "texto": "Esse modelo, além de possuir um design leve e compacto, possui um interruptor de velocidade variável."
+  },
+  {
+   "ini": 16.71,
+   "fim": 22.5,
+   "texto": "Lúgile, indicador de carga da bateria."
+  },
+  {
+   "ini": 22.5,
+   "fim": 34.22,
+   "texto": "Com a tecnologia sem escovas de carvão bruxlesa para fusadeira e furadeira de impacto sem fio 20 Vols Deual,"
+  },
+  {
+   "ini": 34.22,
+   "fim": 39.22,
+   "texto": "conta com muito mais eficiência através de mais tempo de uso e menos manutenções."
+  }
+ ]
+}

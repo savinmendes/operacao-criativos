@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/PERFUMES-CL_P6_EL-CHOFER.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/PROD6-EL-CHOFER/corpo.alinhamento.json", "chaves": ["perfume", "demasiado", "chofer", "paradero", "árabes", "uno", "Armaf", "vuelta", "Asad", "despierta", "9PM", "recibes", "Pídelo"]},
+  "manchete": {"texto": "NADIE SE QUIERE BAJAR 😂", "y": 1450, "ate": 4.1},
+  "cta": {"palavra": "pídelo", "y": 1480},
+  "resolucao": "720",
+  "limite_mb": 30
+}

@@ -1,0 +1,146 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: C,Arial Black,98,&H00FFFFFF,&H00FFFFFF,&H00101010,&H90000000,0,0,0,0,100,100,1,0,1,6,3,5,40,40,0,1
+Style: G,Arial Black,98,&HA02EF02E,&HA02EF02E,&H602EF02E,&HFF000000,0,0,0,0,100,100,1,0,1,14,0,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.07,0:00:00.28,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}YOUR GUARDIAN\NANGEL
+Dialogue: 1,0:00:00.07,0:00:00.28,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}YOUR {\c&HFFFFFF&}GUARDIAN\N{\c&HFFFFFF&}ANGEL
+Dialogue: 0,0:00:00.28,0:00:00.71,G,,0,0,0,,{\an5\pos(540,1420)\blur12}YOUR GUARDIAN\NANGEL
+Dialogue: 1,0:00:00.28,0:00:00.71,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}YOUR {\c&H2EF02E&}GUARDIAN\N{\c&HFFFFFF&}ANGEL
+Dialogue: 0,0:00:00.71,0:00:01.03,G,,0,0,0,,{\an5\pos(540,1420)\blur12}YOUR GUARDIAN\NANGEL
+Dialogue: 1,0:00:00.71,0:00:01.03,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}YOUR {\c&HFFFFFF&}GUARDIAN\N{\c&H2EF02E&}ANGEL
+Dialogue: 0,0:00:01.03,0:00:01.21,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}HAS CHOSEN\NYOU
+Dialogue: 1,0:00:01.03,0:00:01.21,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}HAS {\c&HFFFFFF&}CHOSEN\N{\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:01.21,0:00:01.62,G,,0,0,0,,{\an5\pos(540,1420)\blur12}HAS CHOSEN\NYOU
+Dialogue: 1,0:00:01.21,0:00:01.62,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}HAS {\c&H2EF02E&}CHOSEN\N{\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:01.62,0:00:02.35,G,,0,0,0,,{\an5\pos(540,1420)\blur12}HAS CHOSEN\NYOU
+Dialogue: 1,0:00:01.62,0:00:02.35,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}HAS {\c&HFFFFFF&}CHOSEN\N{\c&H2EF02E&}YOU
+Dialogue: 0,0:00:02.35,0:00:02.55,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}AND HE\NHAS BROUGHT
+Dialogue: 1,0:00:02.35,0:00:02.55,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}AND {\c&HFFFFFF&}HE\N{\c&HFFFFFF&}HAS {\c&HFFFFFF&}BROUGHT
+Dialogue: 0,0:00:02.55,0:00:02.69,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND HE\NHAS BROUGHT
+Dialogue: 1,0:00:02.55,0:00:02.69,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&H2EF02E&}HE\N{\c&HFFFFFF&}HAS {\c&HFFFFFF&}BROUGHT
+Dialogue: 0,0:00:02.69,0:00:02.89,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND HE\NHAS BROUGHT
+Dialogue: 1,0:00:02.69,0:00:02.89,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&HFFFFFF&}HE\N{\c&H2EF02E&}HAS {\c&HFFFFFF&}BROUGHT
+Dialogue: 0,0:00:02.89,0:00:03.15,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND HE\NHAS BROUGHT
+Dialogue: 1,0:00:02.89,0:00:03.15,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&HFFFFFF&}HE\N{\c&HFFFFFF&}HAS {\c&H2EF02E&}BROUGHT
+Dialogue: 0,0:00:03.15,0:00:03.24,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}A GIFT
+Dialogue: 1,0:00:03.15,0:00:03.24,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}A {\c&H2020FF&}GIFT
+Dialogue: 0,0:00:03.24,0:00:03.76,G,,0,0,0,,{\an5\pos(540,1420)\blur12}A GIFT
+Dialogue: 1,0:00:03.24,0:00:03.76,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}A {\c&H2EF02E&}GIFT
+Dialogue: 0,0:00:03.76,0:00:03.99,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}JUST FOR\NYOU
+Dialogue: 1,0:00:03.76,0:00:03.99,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}JUST {\c&HFFFFFF&}FOR\N{\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:03.99,0:00:04.16,G,,0,0,0,,{\an5\pos(540,1420)\blur12}JUST FOR\NYOU
+Dialogue: 1,0:00:03.99,0:00:04.16,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}JUST {\c&H2EF02E&}FOR\N{\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:04.16,0:00:05.12,G,,0,0,0,,{\an5\pos(540,1420)\blur12}JUST FOR\NYOU
+Dialogue: 1,0:00:04.16,0:00:05.12,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}JUST {\c&HFFFFFF&}FOR\N{\c&H2EF02E&}YOU
+Dialogue: 0,0:00:05.12,0:00:05.29,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}IN THIS\NLIVE STREAM
+Dialogue: 1,0:00:05.12,0:00:05.29,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}IN {\c&HFFFFFF&}THIS\N{\c&H2020FF&}LIVE {\c&HFFFFFF&}STREAM
+Dialogue: 0,0:00:05.29,0:00:05.53,G,,0,0,0,,{\an5\pos(540,1420)\blur12}IN THIS\NLIVE STREAM
+Dialogue: 1,0:00:05.29,0:00:05.53,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}IN {\c&H2EF02E&}THIS\N{\c&H2020FF&}LIVE {\c&HFFFFFF&}STREAM
+Dialogue: 0,0:00:05.53,0:00:05.83,G,,0,0,0,,{\an5\pos(540,1420)\blur12}IN THIS\NLIVE STREAM
+Dialogue: 1,0:00:05.53,0:00:05.83,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}IN {\c&HFFFFFF&}THIS\N{\c&H2EF02E&}LIVE {\c&HFFFFFF&}STREAM
+Dialogue: 0,0:00:05.83,0:00:06.44,G,,0,0,0,,{\an5\pos(540,1420)\blur12}IN THIS\NLIVE STREAM
+Dialogue: 1,0:00:05.83,0:00:06.44,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}IN {\c&HFFFFFF&}THIS\N{\c&H2020FF&}LIVE {\c&H2EF02E&}STREAM
+Dialogue: 0,0:00:06.44,0:00:06.57,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}YOU WILL\NHEAR A
+Dialogue: 1,0:00:06.44,0:00:06.57,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}YOU {\c&HFFFFFF&}WILL\N{\c&HFFFFFF&}HEAR {\c&HFFFFFF&}A
+Dialogue: 0,0:00:06.57,0:00:06.76,G,,0,0,0,,{\an5\pos(540,1420)\blur12}YOU WILL\NHEAR A
+Dialogue: 1,0:00:06.57,0:00:06.76,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}YOU {\c&H2EF02E&}WILL\N{\c&HFFFFFF&}HEAR {\c&HFFFFFF&}A
+Dialogue: 0,0:00:06.76,0:00:06.93,G,,0,0,0,,{\an5\pos(540,1420)\blur12}YOU WILL\NHEAR A
+Dialogue: 1,0:00:06.76,0:00:06.93,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}YOU {\c&HFFFFFF&}WILL\N{\c&H2EF02E&}HEAR {\c&HFFFFFF&}A
+Dialogue: 0,0:00:06.93,0:00:07.06,G,,0,0,0,,{\an5\pos(540,1420)\blur12}YOU WILL\NHEAR A
+Dialogue: 1,0:00:06.93,0:00:07.06,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}YOU {\c&HFFFFFF&}WILL\N{\c&HFFFFFF&}HEAR {\c&H2EF02E&}A
+Dialogue: 0,0:00:07.06,0:00:07.65,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}SEVEN-MINUTE\NPRAYER
+Dialogue: 1,0:00:07.06,0:00:07.65,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}SEVEN-MINUTE\N{\c&H2020FF&}PRAYER
+Dialogue: 0,0:00:07.65,0:00:08.37,G,,0,0,0,,{\an5\pos(540,1420)\blur12}SEVEN-MINUTE\NPRAYER
+Dialogue: 1,0:00:07.65,0:00:08.37,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}SEVEN-MINUTE\N{\c&H2EF02E&}PRAYER
+Dialogue: 0,0:00:08.37,0:00:08.71,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}BASED ON\NTHE BIBLE
+Dialogue: 1,0:00:08.37,0:00:08.71,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}BASED {\c&HFFFFFF&}ON\N{\c&HFFFFFF&}THE {\c&HFFFFFF&}BIBLE
+Dialogue: 0,0:00:08.71,0:00:08.81,G,,0,0,0,,{\an5\pos(540,1420)\blur12}BASED ON\NTHE BIBLE
+Dialogue: 1,0:00:08.71,0:00:08.81,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}BASED {\c&H2EF02E&}ON\N{\c&HFFFFFF&}THE {\c&HFFFFFF&}BIBLE
+Dialogue: 0,0:00:08.81,0:00:08.93,G,,0,0,0,,{\an5\pos(540,1420)\blur12}BASED ON\NTHE BIBLE
+Dialogue: 1,0:00:08.81,0:00:08.93,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}BASED {\c&HFFFFFF&}ON\N{\c&H2EF02E&}THE {\c&HFFFFFF&}BIBLE
+Dialogue: 0,0:00:08.93,0:00:09.69,G,,0,0,0,,{\an5\pos(540,1420)\blur12}BASED ON\NTHE BIBLE
+Dialogue: 1,0:00:08.93,0:00:09.69,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}BASED {\c&HFFFFFF&}ON\N{\c&HFFFFFF&}THE {\c&H2EF02E&}BIBLE
+Dialogue: 0,0:00:09.69,0:00:09.93,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}THAT CAN\NBRING A
+Dialogue: 1,0:00:09.69,0:00:09.93,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}THAT {\c&HFFFFFF&}CAN\N{\c&HFFFFFF&}BRING {\c&HFFFFFF&}A
+Dialogue: 0,0:00:09.93,0:00:10.12,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT CAN\NBRING A
+Dialogue: 1,0:00:09.93,0:00:10.12,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&H2EF02E&}CAN\N{\c&HFFFFFF&}BRING {\c&HFFFFFF&}A
+Dialogue: 0,0:00:10.12,0:00:10.40,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT CAN\NBRING A
+Dialogue: 1,0:00:10.12,0:00:10.40,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&HFFFFFF&}CAN\N{\c&H2EF02E&}BRING {\c&HFFFFFF&}A
+Dialogue: 0,0:00:10.40,0:00:10.55,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT CAN\NBRING A
+Dialogue: 1,0:00:10.40,0:00:10.55,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&HFFFFFF&}CAN\N{\c&HFFFFFF&}BRING {\c&H2EF02E&}A
+Dialogue: 0,0:00:10.55,0:00:10.91,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}GREAT\NFINANCIAL
+Dialogue: 1,0:00:10.55,0:00:10.91,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}GREAT\N{\c&H2020FF&}FINANCIAL
+Dialogue: 0,0:00:10.91,0:00:11.48,G,,0,0,0,,{\an5\pos(540,1420)\blur12}GREAT\NFINANCIAL
+Dialogue: 1,0:00:10.91,0:00:11.48,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}GREAT\N{\c&H2EF02E&}FINANCIAL
+Dialogue: 0,0:00:11.48,0:00:11.87,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}BLESSING INTO\NYOUR
+Dialogue: 1,0:00:11.48,0:00:11.87,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}BLESSING {\c&HFFFFFF&}INTO\N{\c&HFFFFFF&}YOUR
+Dialogue: 0,0:00:11.87,0:00:12.02,G,,0,0,0,,{\an5\pos(540,1420)\blur12}BLESSING INTO\NYOUR
+Dialogue: 1,0:00:11.87,0:00:12.02,C,,0,0,0,,{\an5\pos(540,1420)}{\c&H2020FF&}BLESSING {\c&H2EF02E&}INTO\N{\c&HFFFFFF&}YOUR
+Dialogue: 0,0:00:12.02,0:00:12.18,G,,0,0,0,,{\an5\pos(540,1420)\blur12}BLESSING INTO\NYOUR
+Dialogue: 1,0:00:12.02,0:00:12.18,C,,0,0,0,,{\an5\pos(540,1420)}{\c&H2020FF&}BLESSING {\c&HFFFFFF&}INTO\N{\c&H2EF02E&}YOUR
+Dialogue: 0,0:00:12.18,0:00:12.93,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}LIFE
+Dialogue: 1,0:00:12.18,0:00:12.93,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}LIFE
+Dialogue: 0,0:00:12.93,0:00:13.34,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}TAP THE\NBUTTON BELOW
+Dialogue: 1,0:00:12.93,0:00:13.34,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}TAP {\c&HFFFFFF&}THE\N{\c&HFFFFFF&}BUTTON {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:13.34,0:00:13.47,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP THE\NBUTTON BELOW
+Dialogue: 1,0:00:13.34,0:00:13.47,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&H2EF02E&}THE\N{\c&HFFFFFF&}BUTTON {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:13.47,0:00:13.76,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP THE\NBUTTON BELOW
+Dialogue: 1,0:00:13.47,0:00:13.76,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&HFFFFFF&}THE\N{\c&H2EF02E&}BUTTON {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:13.76,0:00:14.05,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP THE\NBUTTON BELOW
+Dialogue: 1,0:00:13.76,0:00:14.05,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&HFFFFFF&}THE\N{\c&HFFFFFF&}BUTTON {\c&H2EF02E&}BELOW
+Dialogue: 0,0:00:14.05,0:00:14.16,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}TO HEAR\NIT
+Dialogue: 1,0:00:14.05,0:00:14.16,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}TO {\c&HFFFFFF&}HEAR\N{\c&HFFFFFF&}IT
+Dialogue: 0,0:00:14.16,0:00:14.38,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TO HEAR\NIT
+Dialogue: 1,0:00:14.16,0:00:14.38,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TO {\c&H2EF02E&}HEAR\N{\c&HFFFFFF&}IT
+Dialogue: 0,0:00:14.38,0:00:15.22,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TO HEAR\NIT
+Dialogue: 1,0:00:14.38,0:00:15.22,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TO {\c&HFFFFFF&}HEAR\N{\c&H2EF02E&}IT
+Dialogue: 0,0:00:15.31,0:00:15.60,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}DON'T IGNORE\NTHE
+Dialogue: 1,0:00:15.31,0:00:15.60,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}DON'T {\c&H2020FF&}IGNORE\N{\c&HFFFFFF&}THE
+Dialogue: 0,0:00:15.60,0:00:15.89,G,,0,0,0,,{\an5\pos(540,1420)\blur12}DON'T IGNORE\NTHE
+Dialogue: 1,0:00:15.60,0:00:15.89,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}DON'T {\c&H2EF02E&}IGNORE\N{\c&HFFFFFF&}THE
+Dialogue: 0,0:00:15.89,0:00:16.02,G,,0,0,0,,{\an5\pos(540,1420)\blur12}DON'T IGNORE\NTHE
+Dialogue: 1,0:00:15.89,0:00:16.02,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}DON'T {\c&H2020FF&}IGNORE\N{\c&H2EF02E&}THE
+Dialogue: 0,0:00:16.02,0:00:16.61,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}FINANCIAL\NBLESSING
+Dialogue: 1,0:00:16.02,0:00:16.61,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}FINANCIAL\N{\c&H2020FF&}BLESSING
+Dialogue: 0,0:00:16.61,0:00:17.01,G,,0,0,0,,{\an5\pos(540,1420)\blur12}FINANCIAL\NBLESSING
+Dialogue: 1,0:00:16.61,0:00:17.01,C,,0,0,0,,{\an5\pos(540,1420)}{\c&H2020FF&}FINANCIAL\N{\c&H2EF02E&}BLESSING
+Dialogue: 0,0:00:17.01,0:00:17.16,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}THAT IS\NMEANT FOR
+Dialogue: 1,0:00:17.01,0:00:17.16,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}THAT {\c&HFFFFFF&}IS\N{\c&HFFFFFF&}MEANT {\c&HFFFFFF&}FOR
+Dialogue: 0,0:00:17.16,0:00:17.28,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT IS\NMEANT FOR
+Dialogue: 1,0:00:17.16,0:00:17.28,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&H2EF02E&}IS\N{\c&HFFFFFF&}MEANT {\c&HFFFFFF&}FOR
+Dialogue: 0,0:00:17.28,0:00:17.50,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT IS\NMEANT FOR
+Dialogue: 1,0:00:17.28,0:00:17.50,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&HFFFFFF&}IS\N{\c&H2EF02E&}MEANT {\c&HFFFFFF&}FOR
+Dialogue: 0,0:00:17.50,0:00:17.65,G,,0,0,0,,{\an5\pos(540,1420)\blur12}THAT IS\NMEANT FOR
+Dialogue: 1,0:00:17.50,0:00:17.65,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}THAT {\c&HFFFFFF&}IS\N{\c&HFFFFFF&}MEANT {\c&H2EF02E&}FOR
+Dialogue: 0,0:00:17.65,0:00:18.38,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}YOU
+Dialogue: 1,0:00:17.65,0:00:18.38,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}YOU
+Dialogue: 0,0:00:18.38,0:00:18.77,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}TAP LEARN\NMORE BELOW
+Dialogue: 1,0:00:18.38,0:00:18.77,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}TAP {\c&HFFFFFF&}LEARN\N{\c&HFFFFFF&}MORE {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:18.77,0:00:19.04,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP LEARN\NMORE BELOW
+Dialogue: 1,0:00:18.77,0:00:19.04,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&H2EF02E&}LEARN\N{\c&HFFFFFF&}MORE {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:19.04,0:00:19.26,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP LEARN\NMORE BELOW
+Dialogue: 1,0:00:19.04,0:00:19.26,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&HFFFFFF&}LEARN\N{\c&H2EF02E&}MORE {\c&H2020FF&}BELOW
+Dialogue: 0,0:00:19.26,0:00:19.85,G,,0,0,0,,{\an5\pos(540,1420)\blur12}TAP LEARN\NMORE BELOW
+Dialogue: 1,0:00:19.26,0:00:19.85,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}TAP {\c&HFFFFFF&}LEARN\N{\c&HFFFFFF&}MORE {\c&H2EF02E&}BELOW
+Dialogue: 0,0:00:19.85,0:00:20.09,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}AND JOIN\NTHE LIVE
+Dialogue: 1,0:00:19.85,0:00:20.09,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}AND {\c&HFFFFFF&}JOIN\N{\c&HFFFFFF&}THE {\c&H2020FF&}LIVE
+Dialogue: 0,0:00:20.09,0:00:20.36,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND JOIN\NTHE LIVE
+Dialogue: 1,0:00:20.09,0:00:20.36,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&H2EF02E&}JOIN\N{\c&HFFFFFF&}THE {\c&H2020FF&}LIVE
+Dialogue: 0,0:00:20.36,0:00:20.49,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND JOIN\NTHE LIVE
+Dialogue: 1,0:00:20.36,0:00:20.49,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&HFFFFFF&}JOIN\N{\c&H2EF02E&}THE {\c&H2020FF&}LIVE
+Dialogue: 0,0:00:20.49,0:00:20.78,G,,0,0,0,,{\an5\pos(540,1420)\blur12}AND JOIN\NTHE LIVE
+Dialogue: 1,0:00:20.49,0:00:20.78,C,,0,0,0,,{\an5\pos(540,1420)}{\c&HFFFFFF&}AND {\c&HFFFFFF&}JOIN\N{\c&HFFFFFF&}THE {\c&H2EF02E&}LIVE
+Dialogue: 0,0:00:20.78,0:00:21.06,G,,0,0,0,,{\an5\pos(540,1420)\blur12\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}PRAYER NOW
+Dialogue: 1,0:00:20.78,0:00:21.06,C,,0,0,0,,{\an5\pos(540,1420)\fscx85\fscy85\t(0,90,\fscx105\fscy105)\t(90,160,\fscx100\fscy100)}{\c&H2EF02E&}PRAYER {\c&H2020FF&}NOW
+Dialogue: 0,0:00:21.06,0:00:22.40,G,,0,0,0,,{\an5\pos(540,1420)\blur12}PRAYER NOW
+Dialogue: 1,0:00:21.06,0:00:22.40,C,,0,0,0,,{\an5\pos(540,1420)}{\c&H2020FF&}PRAYER {\c&H2EF02E&}NOW

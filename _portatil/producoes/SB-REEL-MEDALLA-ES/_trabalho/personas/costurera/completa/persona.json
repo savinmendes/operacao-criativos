@@ -1,0 +1,17 @@
+{
+ "slug": "COSTURERA",
+ "rosto_selfie": [570, 760],
+ "hook": {"audio": "voz/hook.mp3", "alinhamento": "voz/hook.alinhamento.json", "keep": [[0.0, 3.05], [3.40, 5.15]]},
+ "reza": {"keep": [["../f1.mp3", 0.0, 1.80], ["../f2.mp3", 0.0, 1.74]], "lufs": -21.0},
+ "selfie": {"audio": "voz/selfie.mp3", "alinhamento": "voz/selfie.alinhamento.json", "video": "selfie_final.mp4",
+            "video_offset": 3.0,
+            "cortes": [[2.90, 3.20], [5.55, 5.90], [7.62, 7.98], [9.60, 9.90], [13.50, 13.85], [16.10, 16.40]],
+            "frustrado_fim": 2.90,
+            "selfie_trechos": [[3.20, 5.55, 1.13], [5.90, 7.62, 1.0], [7.98, 9.60, 1.13], [9.90, 13.50, 1.0], [13.85, null, 1.13]]},
+ "cenas": {
+  "gancho": {"src": "gancho_amplo.mp4", "ss": 0.0, "zoom": 1.2, "centro": [540, 1120], "interp": true},
+  "reza": {"src": "../antes.mp4", "ss": 0.0},
+  "virada": {"src": "../depois_v2.mp4", "ss": 0.4},
+  "frustrado": {"src": "frustrado.mp4", "ss": 0.2}
+ }
+}

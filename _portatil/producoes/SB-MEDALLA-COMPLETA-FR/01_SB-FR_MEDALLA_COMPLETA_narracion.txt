@@ -1,0 +1,37 @@
+NARRATION — 01_SB-FR_MEDALLA_COMPLETA.mp4 (série COMPLÈTE, 00:56)
+Temps = début de chaque phrase dans la vidéo finale.
+Personnages fictifs : COMMERÇANT et PRÊTRE. Sceau « VIDÉO FICTIVE » (mini, collé en haut à droite) pendant toute la vidéo.
+Musique propre : tension grave (accroche et prière) -> thème d'espoir à partir de la scène de l'« après ».
+Voix : commerçant Martin (b0Ev8lcOOXx2o9ZcF46H) · prêtre Alexandre (gP52hjM48hyNoVCbizxO).
+Bouton unique : LEARN_MORE (« En savoir plus »).
+
+BLOC 1 — ACCROCHE
+[00:00] (plan large : lui à genoux entre les tables vides de son restaurant)
+[00:00] COMMERÇANT (voix ferme, en off) : J'ai prié à genoux dans mon restaurant vide…
+[00:02] COMMERÇANT (voix ferme, en off) : et voilà ce qui s'est passé.
+[00:03] COMMERÇANT (prière chuchotée) : Ô glorieux saint Benoît…
+[00:05] COMMERÇANT (prière chuchotée) : sors-moi de cette misère.
+[00:07] (l'après, sans voix)
+
+BLOC 2 — CONNEXION
+[00:09] COMMERÇANT (en off ; lui debout, frustré, regardant la salle vide) : J'ai passé presque six mois sans clients.
+[00:11] COMMERÇANT (selfie) : Je rentrais à la maison et je n'arrivais plus à regarder ma femme dans les yeux.
+[00:15] COMMERÇANT (selfie) : Je me sentais un raté.
+[00:16] COMMERÇANT (selfie) : Jusqu'au jour où un prêtre m'a expliqué quelque chose que personne ne m'avait jamais dit sur la médaille de saint Benoît.
+
+BLOC 3 — MÉCANISME ET FUTUR
+[00:21] PRÊTRE : Des millions de personnes portent cette médaille…
+[00:24] PRÊTRE : et personne ne leur a jamais expliqué ce que disent ses lettres.
+[00:28] PRÊTRE : Ce n'est pas un manque de foi.
+[00:29] PRÊTRE : C'est que personne ne leur a appris la bonne façon de la prier.
+[00:32] PRÊTRE : Quand on la prie de la bonne façon, la maison s'apaise, la peur s'en va…
+[00:37] PRÊTRE : et on recommence à voir des issues là où l'on ne voyait que des portes fermées.
+
+BLOC 4 — CTA
+[00:42] PRÊTRE : C'est pour ça que j'ai laissé l'explication complète, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24.
+[00:50] PRÊTRE : Appuie sur « En savoir plus », juste en dessous, et viens prier avec nous.
+
+TEXTE DE L'ANNONCE
+Titre : Ce que disent les lettres de la médaille
+Texte principal : Six mois sans clients, et la honte de rentrer à la maison. Beaucoup de gens portent la médaille de saint Benoît sans savoir ce que disent ses lettres. Un prêtre en explique le sens, lettre par lettre, dans une transmission en direct ouverte 24 heures sur 24. Appuie sur « En savoir plus » et viens prier avec nous.
+Bouton : En savoir plus (LEARN_MORE)

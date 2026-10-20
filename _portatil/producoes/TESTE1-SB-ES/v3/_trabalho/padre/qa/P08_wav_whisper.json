@@ -1,0 +1,78 @@
+{
+"arquivo": "P08.wav",
+"whisper": "Envía este video a quien amas y haz la oración de la forma correcta.",
+"palavras": [
+{
+"w": "Envía",
+"ini": 0.0,
+"fim": 0.4
+},
+{
+"w": "este",
+"ini": 0.4,
+"fim": 0.56
+},
+{
+"w": "video",
+"ini": 0.56,
+"fim": 0.88
+},
+{
+"w": "a",
+"ini": 0.88,
+"fim": 1.1
+},
+{
+"w": "quien",
+"ini": 1.1,
+"fim": 1.24
+},
+{
+"w": "amas",
+"ini": 1.24,
+"fim": 1.56
+},
+{
+"w": "y",
+"ini": 1.56,
+"fim": 1.68
+},
+{
+"w": "haz",
+"ini": 1.68,
+"fim": 1.86
+},
+{
+"w": "la",
+"ini": 1.86,
+"fim": 1.98
+},
+{
+"w": "oración",
+"ini": 1.98,
+"fim": 2.4
+},
+{
+"w": "de",
+"ini": 2.4,
+"fim": 2.6
+},
+{
+"w": "la",
+"ini": 2.6,
+"fim": 2.76
+},
+{
+"w": "forma",
+"ini": 2.76,
+"fim": 2.98
+},
+{
+"w": "correcta.",
+"ini": 2.98,
+"fim": 3.5
+}
+],
+"ratio": 1.0,
+"dif": []
+}

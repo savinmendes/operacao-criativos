@@ -1,0 +1,619 @@
+{
+ "AV01": {
+  "arquivo": "vo_AV01.wav",
+  "texto": "Y no era la primera vez… yo pensaba que era mala suerte; todas las puertas se me cerraban.",
+  "tts": null,
+  "dur": 8.313,
+  "palavras": [
+   {
+    "w": "Y",
+    "ini": 0.035,
+    "fim": 0.07
+   },
+   {
+    "w": "no",
+    "ini": 0.209,
+    "fim": 0.395
+   },
+   {
+    "w": "era",
+    "ini": 0.476,
+    "fim": 0.72
+   },
+   {
+    "w": "la",
+    "ini": 0.801,
+    "fim": 0.882
+   },
+   {
+    "w": "primera",
+    "ini": 0.94,
+    "fim": 1.451
+   },
+   {
+    "w": "vez...",
+    "ini": 1.533,
+    "fim": 2.125
+   },
+   {
+    "w": "yo",
+    "ini": 2.543,
+    "fim": 2.705
+   },
+   {
+    "w": "pensaba",
+    "ini": 2.775,
+    "fim": 3.402
+   },
+   {
+    "w": "que",
+    "ini": 3.495,
+    "fim": 3.715
+   },
+   {
+    "w": "era",
+    "ini": 3.738,
+    "fim": 3.959
+   },
+   {
+    "w": "mala",
+    "ini": 4.04,
+    "fim": 4.447
+   },
+   {
+    "w": "suerte;",
+    "ini": 4.528,
+    "fim": 5.178
+   },
+   {
+    "w": "todas",
+    "ini": 5.538,
+    "fim": 5.979
+   },
+   {
+    "w": "las",
+    "ini": 6.072,
+    "fim": 6.235
+   },
+   {
+    "w": "puertas",
+    "ini": 6.339,
+    "fim": 6.908
+   },
+   {
+    "w": "se",
+    "ini": 6.954,
+    "fim": 7.047
+   },
+   {
+    "w": "me",
+    "ini": 7.129,
+    "fim": 7.233
+   },
+   {
+    "w": "cerraban.",
+    "ini": 7.279,
+    "fim": 8.15
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    2.125,
+    2.543
+   ],
+   [
+    5.178,
+    5.538
+   ],
+   [
+    8.15,
+    8.313
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "PB01": {
+  "arquivo": "PB01.wav",
+  "texto": "No es mala suerte. Cuando los caminos se cierran así, hay algo espiritual detrás.",
+  "tts": null,
+  "dur": 5.033,
+  "palavras": [
+   {
+    "w": "No",
+    "ini": 0.07,
+    "fim": 0.151
+   },
+   {
+    "w": "es",
+    "ini": 0.186,
+    "fim": 0.232
+   },
+   {
+    "w": "mala",
+    "ini": 0.279,
+    "fim": 0.464
+   },
+   {
+    "w": "suerte.",
+    "ini": 0.522,
+    "fim": 1.08
+   },
+   {
+    "w": "Cuando",
+    "ini": 1.33,
+    "fim": 1.573
+   },
+   {
+    "w": "los",
+    "ini": 1.62,
+    "fim": 1.736
+   },
+   {
+    "w": "caminos",
+    "ini": 1.782,
+    "fim": 2.108
+   },
+   {
+    "w": "se",
+    "ini": 2.131,
+    "fim": 2.2
+   },
+   {
+    "w": "cierran",
+    "ini": 2.235,
+    "fim": 2.572
+   },
+   {
+    "w": "así,",
+    "ini": 2.642,
+    "fim": 3.048
+   },
+   {
+    "w": "hay",
+    "ini": 3.245,
+    "fim": 3.396
+   },
+   {
+    "w": "algo",
+    "ini": 3.431,
+    "fim": 3.594
+   },
+   {
+    "w": "espiritual",
+    "ini": 3.628,
+    "fim": 4.209
+   },
+   {
+    "w": "detrás.",
+    "ini": 4.29,
+    "fim": 4.871
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    1.08,
+    1.33
+   ],
+   [
+    3.048,
+    3.245
+   ],
+   [
+    4.871,
+    5.033
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "P03B": {
+  "arquivo": "P03B.wav",
+  "texto": "Esta es la poderosísima oración de las doce palabras de San Benito.",
+  "tts": null,
+  "dur": 3.762,
+  "palavras": [
+   {
+    "w": "Esta",
+    "ini": 0.058,
+    "fim": 0.232
+   },
+   {
+    "w": "es",
+    "ini": 0.267,
+    "fim": 0.313
+   },
+   {
+    "w": "la",
+    "ini": 0.36,
+    "fim": 0.43
+   },
+   {
+    "w": "poderosísima",
+    "ini": 0.522,
+    "fim": 1.405
+   },
+   {
+    "w": "oración",
+    "ini": 1.44,
+    "fim": 1.834
+   },
+   {
+    "w": "de",
+    "ini": 1.869,
+    "fim": 1.916
+   },
+   {
+    "w": "las",
+    "ini": 1.962,
+    "fim": 2.067
+   },
+   {
+    "w": "doce",
+    "ini": 2.101,
+    "fim": 2.368
+   },
+   {
+    "w": "palabras",
+    "ini": 2.426,
+    "fim": 2.775
+   },
+   {
+    "w": "de",
+    "ini": 2.798,
+    "fim": 2.879
+   },
+   {
+    "w": "San",
+    "ini": 2.926,
+    "fim": 3.042
+   },
+   {
+    "w": "Benito.",
+    "ini": 3.088,
+    "fim": 3.599
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.599,
+    3.762
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ },
+ "P04B": {
+  "arquivo": "P04B.wav",
+  "texto": "Pero atención: tiene que hacerse de la forma correcta, porque no es una oración común.",
+  "tts": null,
+  "dur": 4.969,
+  "palavras": [
+   {
+    "w": "Pero",
+    "ini": 0.058,
+    "fim": 0.221
+   },
+   {
+    "w": "atención:",
+    "ini": 0.255,
+    "fim": 0.917
+   },
+   {
+    "w": "tiene",
+    "ini": 1.167,
+    "fim": 1.434
+   },
+   {
+    "w": "que",
+    "ini": 1.492,
+    "fim": 1.562
+   },
+   {
+    "w": "hacerse",
+    "ini": 1.585,
+    "fim": 1.98
+   },
+   {
+    "w": "de",
+    "ini": 2.026,
+    "fim": 2.084
+   },
+   {
+    "w": "la",
+    "ini": 2.13,
+    "fim": 2.2
+   },
+   {
+    "w": "forma",
+    "ini": 2.27,
+    "fim": 2.56
+   },
+   {
+    "w": "correcta,",
+    "ini": 2.63,
+    "fim": 3.106
+   },
+   {
+    "w": "porque",
+    "ini": 3.129,
+    "fim": 3.361
+   },
+   {
+    "w": "no",
+    "ini": 3.419,
+    "fim": 3.489
+   },
+   {
+    "w": "es",
+    "ini": 3.524,
+    "fim": 3.57
+   },
+   {
+    "w": "una",
+    "ini": 3.651,
+    "fim": 3.779
+   },
+   {
+    "w": "oración",
+    "ini": 3.814,
+    "fim": 4.232
+   },
+   {
+    "w": "común.",
+    "ini": 4.302,
+    "fim": 4.789
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    0.917,
+    1.167
+   ],
+   [
+    4.789,
+    4.969
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "P05B": {
+  "arquivo": "P05B.wav",
+  "texto": "Por eso grabé un video donde enseño la Oración de San Benito completa, paso a paso, de la forma correcta,",
+  "tts": null,
+  "dur": 6.525,
+  "palavras": [
+   {
+    "w": "Por",
+    "ini": 0.07,
+    "fim": 0.197
+   },
+   {
+    "w": "eso",
+    "ini": 0.244,
+    "fim": 0.372
+   },
+   {
+    "w": "grabé",
+    "ini": 0.406,
+    "fim": 0.615
+   },
+   {
+    "w": "un",
+    "ini": 0.65,
+    "fim": 0.697
+   },
+   {
+    "w": "video",
+    "ini": 0.743,
+    "fim": 1.022
+   },
+   {
+    "w": "donde",
+    "ini": 1.045,
+    "fim": 1.265
+   },
+   {
+    "w": "enseño",
+    "ini": 1.289,
+    "fim": 1.776
+   },
+   {
+    "w": "la",
+    "ini": 1.811,
+    "fim": 1.869
+   },
+   {
+    "w": "Oración",
+    "ini": 1.904,
+    "fim": 2.287
+   },
+   {
+    "w": "de",
+    "ini": 2.322,
+    "fim": 2.38
+   },
+   {
+    "w": "San",
+    "ini": 2.426,
+    "fim": 2.543
+   },
+   {
+    "w": "Benito",
+    "ini": 2.589,
+    "fim": 2.914
+   },
+   {
+    "w": "completa,",
+    "ini": 2.972,
+    "fim": 3.622
+   },
+   {
+    "w": "paso",
+    "ini": 3.872,
+    "fim": 4.209
+   },
+   {
+    "w": "a",
+    "ini": 4.255,
+    "fim": 4.279
+   },
+   {
+    "w": "paso,",
+    "ini": 4.337,
+    "fim": 4.836
+   },
+   {
+    "w": "de",
+    "ini": 5.068,
+    "fim": 5.149
+   },
+   {
+    "w": "la",
+    "ini": 5.207,
+    "fim": 5.277
+   },
+   {
+    "w": "forma",
+    "ini": 5.358,
+    "fim": 5.648
+   },
+   {
+    "w": "correcta,",
+    "ini": 5.707,
+    "fim": 6.345
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    3.622,
+    3.872
+   ],
+   [
+    4.836,
+    5.068
+   ],
+   [
+    6.345,
+    6.525
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "P07B": {
+  "arquivo": "P07B.wav",
+  "texto": "Toca el botón Ver más, aquí abajo, y mírala ahora, mientras todavía está disponible.",
+  "tts": null,
+  "dur": 5.19,
+  "palavras": [
+   {
+    "w": "Toca",
+    "ini": 0.058,
+    "fim": 0.267
+   },
+   {
+    "w": "el",
+    "ini": 0.29,
+    "fim": 0.337
+   },
+   {
+    "w": "botón",
+    "ini": 0.395,
+    "fim": 0.72
+   },
+   {
+    "w": "Ver",
+    "ini": 0.778,
+    "fim": 0.917
+   },
+   {
+    "w": "más,",
+    "ini": 0.998,
+    "fim": 1.324
+   },
+   {
+    "w": "aquí",
+    "ini": 1.37,
+    "fim": 1.637
+   },
+   {
+    "w": "abajo,",
+    "ini": 1.672,
+    "fim": 2.055
+   },
+   {
+    "w": "y",
+    "ini": 2.09,
+    "fim": 2.171
+   },
+   {
+    "w": "mírala",
+    "ini": 2.241,
+    "fim": 2.554
+   },
+   {
+    "w": "ahora,",
+    "ini": 2.589,
+    "fim": 3.007
+   },
+   {
+    "w": "mientras",
+    "ini": 3.257,
+    "fim": 3.652
+   },
+   {
+    "w": "todavía",
+    "ini": 3.698,
+    "fim": 4.081
+   },
+   {
+    "w": "está",
+    "ini": 4.104,
+    "fim": 4.29
+   },
+   {
+    "w": "disponible.",
+    "ini": 4.325,
+    "fim": 5.01
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.007,
+    3.257
+   ],
+   [
+    5.01,
+    5.19
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ }
+}

@@ -1,0 +1,40 @@
+REVISÃO: A0 - DEVOLVER-1080.mp4
+duração 56.10s | 1080x1920 | 30/1 fps | áudio: sim | 26.1 MB
+decodificação: OK
+pts do áudio: 2629 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 55.31-56.10
+cortes de cena: 9 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1393-1613, x 235-844 | no último quadro: sim | faixa escura do rodapé: 1702-1791
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\A\revisao\A0 - DEVOLVER-1080_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00- 16.16 quien inventó esto merece un aumento si todavía andas arrastrando un cortapasto pesado o peleando
+  16.16- 23.60 con esas desbrosadoras que se traban mira esto es cortapasto orilladora y bordeadora en uno y
+  23.60- 27.32 Y ojo, pesa unos 4 kilos y medio y tiene ruedas.
+  27.32- 29.96 Así que la puedes usar con una sola mano.
+  29.96- 33.84 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  33.84- 36.84 Esta usa una cuchilla de metal reforzada.
+  36.84- 37.96 Es inalámbrica.
+  37.96- 42.72 Trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  42.72- 46.56 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  46.56- 50.84 Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  50.84- 55.32 toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00- 12.12    Who invented this deserves an increase.
+  12.12- 17.64    If you are still dragging a heavy piece of dough or fighting with those crumples that
+  17.64- 19.88    get stuck, look at this.
+  19.88- 23.56    It is a piece of dough, a rolling pin and a rolling pin in one.
+  23.56- 28.76    And be careful, it weighs about 4.5 kilos and has wheels, so you can use it with
+  28.76- 34.48    una sola mano. Olvídate de esos hilos de plástico que se cortan a cada rato. Esta usa
+  34.48- 41.08    una cuchilla de metal reforzada. Es inalámbrica. Trae dos baterías de 21 voltios y solo aprietas
+  41.08- 47.08    un botón y listo. Rápida, fácil y mucho más práctica de lo que imaginaba. Despacho
+  47.08- 52.16    gratis, pagas al recibir y tienes 90 días de garantía. Tóca el botón de abajo y
+  52.16- 55.28    pide tu podadora inalámbrica de césped con ruedas.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

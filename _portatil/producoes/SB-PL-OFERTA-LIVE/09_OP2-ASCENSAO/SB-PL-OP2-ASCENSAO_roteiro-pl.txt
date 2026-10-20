@@ -1,0 +1,48 @@
+SB-PL-OP2-ASCENSAO — Święty Benedykt · Polonês (Polônia)
+Base: SB-EN-OP2-ASCENSAO_B-caminho1.mp4 (EN, 23,9 s) e SB-IT-OP2-ASCENSAO.mp4 (IT, 26,9 s, com o clipA corrigido). Origem ES: SB-OP2-ASCENSAO.mp4 (30,3 s).
+Destino: modlitwa na żywo. Botão do Meta: LEARN_MORE ("Dowiedz się więcej"). Sem produto e sem preço no vídeo.
+Voz: ElevenLabs "Jesus The Chosen" (AkQxVSf1kENGmX9WjeDE), a mesma do EN/IT, eleven_multilingual_v2, speed 1.0.
+     Whisper pl transcreveu a narração palavra por palavra (pronúncia polonesa ok: ś, ć, ż, ł, rz, cz).
+Lipsync: HeyGen mode speed, 4 trechos (gancho 3,2 s, corpo 4,3 s, clipA 3,3 s, clipB 4,7 s), vídeo de entrada com o áudio ORIGINAL (ES).
+
+======================================================================
+ROTEIRO EN (base)                     | ROTEIRO PL (narrado)
+======================================================================
+[GANCHO] Close this video, and the miracle goes to someone else.
+         Zamknij ten film, a cud trafi do kogoś innego.
+This is the last time God will try to speak to you this way.
+         To ostatni raz, gdy Bóg próbuje przemówić do ciebie w ten sposób.
+Jesus chose you.
+         Jezus cię wybrał.
+He prepared a powerful gift, just for you.
+         Przygotował potężny dar, tylko dla ciebie.
+Today, you will hear the lost prayer of Saint Benedict,
+         Dziś usłyszysz zaginioną modlitwę świętego Benedykta,
+that unlocks a shower of miracles...
+         która sprowadza deszcz cudów...
+but only if you don't reject it again.
+         ale tylko jeśli znów jej nie odrzucisz.
+[CTA] Tap Learn More below, and join the live prayer now.
+         Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo.
+Receive your miracle before the door closes forever.
+         Przyjmij swój cud, zanim drzwi zamkną się na zawsze.
+
+Decisões de tradução
+- "Saint Benedict" / "San Benito" -> "święty Benedykt", declinado: "modlitwę świętego Benedykta" (genitivo).
+- "Today, you will hear" -> "Dziś usłyszysz": o destino é a modlitwa na żywo, não um vídeo.
+- "shower of miracles" / "lluvia de milagros" -> "deszcz cudów"; "unlocks" -> "sprowadza" (traz, faz descer), mais natural
+  no polonês religioso do que "odblokowuje".
+- "Receive your miracle" -> "Przyjmij swój cud" (przyjąć = acolher/receber, registro litúrgico).
+- CTA = padrão do lote PL: "Dotknij «Dowiedz się więcej» poniżej i dołącz do modlitwy na żywo".
+- Tratamento "ty" direto (ciebie/cię), mesmo teor do ES/EN/IT (promessa e urgência mantidas, sem suavizar).
+- Duração: 28,7 s (EN 23,9 s; IT 26,9 s; ES 30,3 s). O polonês é mais longo; texto já enxuto, sem cortar promessa.
+  Pausas curtas inseridas depois de "sposób" (0,25), "wybrał" (0,20), "odrzucisz" (0,20) e "żywo" (0,15).
+- Legenda: Poppins Bold (tem todos os diacríticos ĄĆĘŁŃÓŚŹŻ), blocos definidos à mão para não quebrar sintagmas
+  ("ŚWIĘTEGO BENEDYKTA", "NIE ODRZUCISZ", "W TEN SPOSÓB", "NA ZAWSZE").
+- Sem texto queimado/selo no original além da legenda: nada mais a traduzir na tela.
+
+Cenas (s): gancho 0–3,2 (Jesus, lipsync) | corpo 3,2–7,12 (Jesus, lipsync) | Jezus cię wybrał 7,12–8,57 (mano en el pecho)
+| dar 8,57–11,29 (regalo) | dziś usłyszysz 11,29–14,66 (catacumbas) | deszcz cudów 14,66–17,03 (lluvia) | ale tylko 17,03–19,81
+(Jesus, lipsync clipA) | CTA 19,81–24,11 (scroll detenido + setas amarelas) | przyjmij 24,11–28,73 (Jesus, lipsync clipB).
+Correção herdada do IT: o clipA cobre a frase "ale tylko jeśli znów jej nie odrzucisz" com lipsync (no EN era quadro congelado).
+Os trechos clipA/clipB foram recortados de novo do SB-CORPO_CTA_COMPLETO_JESU.mp4 (16,16 s e 22,10 s) para caber o polonês, mais longo.

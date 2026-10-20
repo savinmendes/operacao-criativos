@@ -1,0 +1,4 @@
+PRONTO — agente G1+G3 (19/10/2026)
+gancho_G1.mp4 (6,0 s) e gancho_G3.mp4 (6,0 s): layout do gancho do v4 (título amarelo no topo, vídeo na janela, legenda em caixa palavra a palavra), selo VIDEO FICTICIO a 10%.
+V1_MISSA.mp4 e V3_ESCADARIA.mp4 (81,07 s cada) = gancho + corpo_a_partir_selfie.mp4 do PRONTO2; corte seco, sem salto de pts, trilha do v4 contínua (o gancho termina no quadro 241 do v4). revisar_ad.py: OK nos dois.
+Copiados para ENTREGA\ com os _texto-anuncio.txt.

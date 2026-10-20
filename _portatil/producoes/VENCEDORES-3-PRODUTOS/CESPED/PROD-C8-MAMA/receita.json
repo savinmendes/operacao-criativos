@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C8-MAMA/CESPED-CL_C8_MAMA.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C8-MAMA/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C8-MAMA/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C8-MAMA/corpo.alinhamento.json", "chaves": ["molestar", "sola", "vergüenza", "esta", "uno", "ruedas", "mano", "metal", "inalámbrica", "baterías", "gratis", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "NO ME HABÍA DADO CUENTA 😢", "y": 1150, "ate": 3.05},
+  "cta": {"palavra": "pídela", "y": 1340},
+  "resolucao": "720",
+  "limite_mb": 30
+}

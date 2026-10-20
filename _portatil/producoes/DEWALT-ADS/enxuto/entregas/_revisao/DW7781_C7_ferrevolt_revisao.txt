@@ -1,0 +1,32 @@
+REVISÃO: DW7781_C7_ferrevolt.mp4
+duração 39.97s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 13.6 MB
+decodificação: OK
+pts do áudio: 1875 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 14 | pares a <0,3 s: 10.63/10.67, 35.33/35.53
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\DEWALT-ADS\enxuto\entregas\_revisao\DW7781_C7_ferrevolt_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.28 Maestro, si se les pasa el tornillo es porque no tienen esto.
+   3.28-  6.18 Con el anillo eliges entre 15 posiciones de Torque.
+   6.18- 10.18 Así el tornillo queda justo, sin pasarlo y sin dañar la madera.
+  10.18- 14.18 Tiene dos velocidades, una para atornillar y otra para perforar.
+  14.18- 17.52 Hasta 1.750 revoluciones.
+  17.52- 21.52 Con el gatillo de velocidad variable, controlas cada vuelta.
+  21.52- 23.52 Motor sin carbónes.
+  23.52- 26.52 Más eficiencia y menos mantensión.
+  26.52- 29.52 Y luz led para ver en los rincones oscuros.
+  29.52- 32.88 Traes dos baterías con indicador de carga, cargador y maleta
+  32.88- 35.38 Aprovecha el Pre Black Friday
+  35.38- 39.04 Pídelo hoy y pagas recién cuando te llegue envío a todo Chile
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 10.63s e 10.67s (33 ms)
+PROBLEMA: quadro solto? cortes em 35.33s e 35.53s (200 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+2 problema(s)

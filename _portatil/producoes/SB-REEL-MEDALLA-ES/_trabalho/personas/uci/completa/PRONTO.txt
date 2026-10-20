@@ -1,0 +1,8 @@
+SB COMPLETA UCI (14/10/2026) -> SB-ES_UCI_COMPLETA.mp4 (1:00) + _narracion.txt
+Flora prj_ns721bmqbf08c3b5ewg8ys06ds8ezc95 (is2i-gpt-image-2-5-flare 2k + i2v-kling-2.5 5s, canvas n763/n770)
+ retrato_triste.png 0.122 | gancho_amplo.png ~0.13 | frustrado.png 0.122 | gancho_amplo.mp4 0.294 | frustrado.mp4 0.294  = ~US$0.96
+ElevenLabs Yenisel (tts_ctx v2): hook 91 + selfie 233 = 324 car. Reza = cortes da reza.mp3 antiga (0 car.).
+HeyGen c275ec5fac1a5e6ab51beaf14712fe0d (retrato triste, audio selfie a partir de 3,62 s, 10,9 s, expressividade low) ~12-16 creditos (pool compartilhado com outros agentes; medida exata impossivel).
+QA: takes a cada 0,2 s + zoom maos/rosto: estaveis. Selfie: choro contido, dentes aparecem ao falar (sem sorriso); gestos de mao entram pela borda inferior (3,8-4,1 s; 6,1-6,3 s), mao normal.
+revisar_ad --idioma es: OK (aviso padrao de setas vermelhas: CTA do modelo e amarelo). -14,3 LUFS, TP -2,3 dBTP.
+Montagem: python montar.py (cfg.json); legenda.py; narr_txt.py em ../../narr_txt.py.

@@ -1,0 +1,8 @@
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V26\out\V26 - LYMPHORIA-ADIOS-HINCHAZON.mp4
+duração : 39.86s | 720x1280 | áudio: sim | 27.8 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V26\out\V26 - LYMPHORIA-ADIOS-HINCHAZON_frames.jpg
+RESULTADO: OK
+CTA em 36.91s
+montagem rápida: 8s para 40s de vídeo (0.20x)
+OK V26 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V26\out\V26 - LYMPHORIA-ADIOS-HINCHAZON.mp4

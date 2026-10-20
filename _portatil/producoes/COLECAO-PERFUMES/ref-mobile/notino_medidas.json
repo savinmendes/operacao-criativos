@@ -1,0 +1,95 @@
+{
+ "url": "https://www.notino.es/perfumes/",
+ "status": "ok (headless). /perfumes-arabes/ deu 404; página da marca /lattafa/ vista só como referência",
+ "primeiro_card": {
+  "y_px": 714,
+  "pct_viewport": 85
+ },
+ "primeira_imagem": {
+  "y_px": 746,
+  "obs": "frasco com object-fit; caixa da imagem ~171px de largura, aprox. 1:1 (não medido exatamente)"
+ },
+ "titulo": {
+  "h1": "Perfumes",
+  "fonte": "Roboto",
+  "size": "20px",
+  "weight": 500,
+  "y": 125,
+  "descricao": "nenhuma no topo",
+  "banner": "carrossel promo ~170px abaixo do H1 + faixa de logos de marcas"
+ },
+ "header": {
+  "altura_px": 109,
+  "inclui": "barra preta 44px fixa + faixa promo"
+ },
+ "chips": {
+  "linha_horizontal": true,
+  "categorias": {
+   "altura": 32,
+   "font": "12px (ativo 700)",
+   "radius": "2px",
+   "borda": "1px preto",
+   "bg": "branco"
+  },
+  "filtros": {
+   "altura": 36,
+   "itens": "Filtros / Precio / Embalaje / Marca ...",
+   "estilo": "pílulas cinza (visual)"
+  }
+ },
+ "filtro_ordenar": {
+  "sticky": true,
+  "detalhe": "as duas linhas (categorias e filtros) ficam sticky abaixo do header ao rolar (top 45 e 97)"
+ },
+ "contagem": {
+  "texto": "De productos: 9751",
+  "size": "14px",
+  "cor": "#6B6B6B",
+  "posicao": "esquerda, com 'Más relevantes' sublinhado à direita, logo acima do grid"
+ },
+ "card": {
+  "largura": 187,
+  "padding_interno": 8,
+  "badges": "'Oferta'/'Regalo' 12px/500 branco, 24px de altura, acima da marca",
+  "marca": {
+   "size": "16px",
+   "weight": 400,
+   "cor": "#474747",
+   "uppercase": false
+  },
+  "nome": {
+   "size": "16px",
+   "weight": 500,
+   "cor": "#000",
+   "linhas": 1
+  },
+  "descricao": "tipo/volume 14px/400, até 2 linhas",
+  "rating": "estrelas + '4,0 (2)' 12px",
+  "variantes": "chips de ml 10px, 18px de altura",
+  "preco": {
+   "size": "16px",
+   "weight": 700,
+   "cor": "#000",
+   "prefixo": "'desde' 14px/700"
+  },
+  "promo": "bloco '-15 % en compras...' 14px abaixo do preço, separado por linha tracejada",
+  "cta": "nenhum no grid (só coração de favorito no canto superior direito)"
+ },
+ "grid": {
+  "colunas": 2,
+  "gap_coluna_visual": 16,
+  "gap_linha": 32,
+  "padding_lateral": 16
+ },
+ "fontes": {
+  "body": "Roboto",
+  "titulos": "Roboto"
+ },
+ "seo": {
+  "presente": true,
+  "posicao": "embaixo, depois do grid",
+  "tamanho_chars": 12713,
+  "colapsado": false,
+  "obs": "na página de marca (/lattafa/) o texto fica no topo, ~3 linhas, com 'texto completo' colapsável"
+ }
+}

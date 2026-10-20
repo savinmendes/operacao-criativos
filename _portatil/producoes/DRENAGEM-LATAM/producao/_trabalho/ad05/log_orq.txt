@@ -1,0 +1,23 @@
+>> ffmpeg -v error -y
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\substituir_trechos.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\base.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4
+t1_final.mp4: 70 quadros a partir de 96.833s
+t2_final.mp4: 67 quadros a partir de 99.167s
+t3_final.mp4: 22 quadros a partir de 119.933s
+t4_final.mp4: 32 quadros a partir de 120.667s
+t5_final.mp4: 90 quadros a partir de 121.733s
+t7_final.mp4: 34 quadros a partir de 249.167s
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4 | 9012 quadros, 315 trocados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\textos_lote.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b1.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4 | 458 quadros alterados
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b2.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p1.mp3
+aviso: fala nova 2.32s para 3.56s exigiria 0.65x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b3.mp4 | trecho 95.19-98.75s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b3.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p2.mp3
+aviso: fala nova 1.35s para 2.33s exigiria 0.58x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b4.mp4 | trecho 246.55-248.88s trocado (velocidade 0.85x)
+>> C:\Users\PICHAU\AppData\Local\Programs\Python\Python312\python.exe C:\Users\PICHAU\Downloads\Produtividade com ia\kit-edicao-criativos\ferramentas\trocar_trecho_audio.py C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b4.mp4 C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\p3.mp3
+aviso: fala nova 2.46s para 3.15s exigiria 0.78x; limitei a 0.85x
+ok: C:\Users\PICHAU\Downloads\DRENAGEM-LATAM\producao\_trabalho\ad05\b5.mp4 | trecho 280.65-283.80s trocado (velocidade 0.85x)
+>> ffmpeg -v error -y
+>> ffmpeg -v error -y
+parte1 273.233333

@@ -1,0 +1,198 @@
+[
+ {
+  "id": "01",
+  "voz": "rep",
+  "ini": 0.0,
+  "fim": 4.12,
+  "t": "¡Gente, están tratando de impedir que este sacerdote ayude a nuestra gente!"
+ },
+ {
+  "id": "02",
+  "voz": "chora",
+  "ini": 4.12,
+  "fim": 7.38,
+  "t": "¡Graben! ¡No quieren que el pueblo prospere!",
+  "estab": 0.3,
+  "estilo": 0.6
+ },
+ {
+  "id": "03",
+  "voz": "chora",
+  "ini": 7.38,
+  "fim": 16.02,
+  "t": "Es indignante ver lo que me hicieron solo porque enseñé una oración que podría bendecir y ayudar a muchas personas."
+ },
+ {
+  "id": "04",
+  "voz": "chora",
+  "ini": 16.02,
+  "fim": 17.98,
+  "t": "Pero la verdad no va a quedar escondida."
+ },
+ {
+  "id": "05",
+  "voz": "chora",
+  "ini": 17.98,
+  "fim": 21.76,
+  "t": "Le enseñé esta oración a mi amigo, el padre Pablo, y él la va a revelar en una transmisión en vivo."
+ },
+ {
+  "id": "06",
+  "voz": "roxo",
+  "ini": 21.76,
+  "fim": 32.86,
+  "t": "Presten mucha atención, porque será la última vez que voy a enseñar esto en público, a pedido de mi amigo el padre Joel, a quien intentaron silenciar."
+ },
+ {
+  "id": "07",
+  "voz": "roxo",
+  "ini": 32.86,
+  "fim": 44.12,
+  "t": "Oh poderoso San Benito, guardián de los arcanos sagrados, que venciste a las serpientes con la señal de la cruz y callaste el rugido de los abismos con tu fe inquebrantable."
+ },
+ {
+  "id": "08",
+  "voz": "roxo",
+  "ini": 44.12,
+  "fim": 48.36,
+  "t": "Invoco ahora las doce palabras selladas por tu mano."
+ },
+ {
+  "id": "09",
+  "voz": "roxo",
+  "ini": 48.36,
+  "fim": 51.76,
+  "t": "Crux, Lux, Fides, Ignis."
+ },
+ {
+  "id": "10",
+  "voz": "roxo",
+  "ini": 51.76,
+  "fim": 61.2,
+  "t": "Veritas, Silentium, Gladius, Fortitudo, Custodia, Sanctitas, Spiritus y Triumphus."
+ },
+ {
+  "id": "11",
+  "voz": "roxo",
+  "ini": 61.2,
+  "fim": 67.56,
+  "t": "Esta es la poderosísima oración de las doce palabras del Grimorio Sagrado y Secreto de San Benito,"
+ },
+ {
+  "id": "12",
+  "voz": "roxo",
+  "ini": 67.56,
+  "fim": 73.84,
+  "t": "que está ayudando a muchas familias hispanas, y cada día llegan testimonios de bendiciones."
+ },
+ {
+  "id": "13",
+  "voz": "roxo",
+  "ini": 73.84,
+  "fim": 81.88,
+  "t": "Fue escrita por el propio San Benito en su regla, y se mantuvo en secreto durante novecientos dieciocho años,",
+  "leg": [
+   [
+    "novecientos dieciocho",
+    "918"
+   ]
+  ]
+ },
+ {
+  "id": "14",
+  "voz": "roxo",
+  "ini": 81.88,
+  "fim": 87.4,
+  "t": "lejos de la humanidad: solo un grupo de monjes tenía acceso a esta oración completa."
+ },
+ {
+  "id": "15",
+  "voz": "roxo",
+  "ini": 87.4,
+  "fim": 90.04,
+  "t": "Por eso nunca habían oído hablar de ella."
+ },
+ {
+  "id": "16",
+  "voz": "roxo",
+  "ini": 90.04,
+  "fim": 95.84,
+  "t": "La traje de un viaje que hice a Italia, para revelar este secreto a nuestra gente."
+ },
+ {
+  "id": "17",
+  "voz": "roxo",
+  "ini": 95.84,
+  "fim": 104.52,
+  "t": "Y la última vez que enseñé esta oración en un congreso, recibí más de cuatrocientos noventa y siete testimonios de bendiciones al día siguiente.",
+  "leg": [
+   [
+    "cuatrocientos noventa y siete",
+    "497"
+   ]
+  ]
+ },
+ {
+  "id": "18",
+  "voz": "roxo",
+  "ini": 104.52,
+  "fim": 111.88,
+  "t": "Fue increíble. Pero atención: tiene que hacerse de la forma correcta, siguiendo las instrucciones."
+ },
+ {
+  "id": "19",
+  "voz": "roxo",
+  "ini": 111.88,
+  "fim": 120.28,
+  "t": "Porque no es una oración común: tiene instrucciones y una manera correcta de hacerla y de escucharla."
+ },
+ {
+  "id": "20",
+  "voz": "roxo",
+  "ini": 120.28,
+  "fim": 127.48,
+  "t": "Voy a pedirle a la producción que deje el libro Grimorio Sagrado y Secreto de San Benito, junto con el collar de plata de San Benito, disponible en el sitio web,"
+ },
+ {
+  "id": "21",
+  "voz": "roxo",
+  "ini": 127.48,
+  "fim": 133.3,
+  "t": "para que puedan hacerlo de la forma correcta. Pero no sé por cuánto tiempo va a estar disponible."
+ },
+ {
+  "id": "22",
+  "voz": "roxo",
+  "ini": 133.3,
+  "fim": 136.88,
+  "t": "Entra mientras todavía sea posible."
+ },
+ {
+  "id": "23",
+  "voz": "roxo",
+  "ini": 136.88,
+  "fim": 141.92,
+  "t": "A partir de hoy le vas a entregar a Dios tus dificultades económicas,"
+ },
+ {
+  "id": "24",
+  "voz": "roxo",
+  "ini": 141.92,
+  "fim": 144.94,
+  "t": "y le darás la bienvenida a una vida próspera."
+ },
+ {
+  "id": "25",
+  "voz": "roxo",
+  "ini": 144.94,
+  "fim": 150.72,
+  "t": "Vuelve aquí después de siete días para contar las bendiciones que llegaron a tu vida."
+ },
+ {
+  "id": "26",
+  "voz": "roxo",
+  "ini": 150.72,
+  "fim": 154.83,
+  "t": "Envía este video a quien amas, y haz la oración de la forma correcta."
+ }
+]

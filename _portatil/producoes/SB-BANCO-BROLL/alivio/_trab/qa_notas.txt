@@ -1,0 +1,32 @@
+01 ok 0.0 5.0
+02 ok 0.0 4.5 flare verde no fim
+03 ok 0.0 5.0
+04 ok 0.0 5.0
+05 ok 0.0 5.0
+06 ok 0.0 5.0
+07 ok 0.0 5.0
+10 v1 rejeitado: saco de pao duplica (~3s); regerado sessao nprozz9Hsf2rGTIzlUsH
+11 v1 rejeitado: maco de notas encolhe/vira nota unica (~2.5s); regerado sessao lZz455ZIcJ5Bh67WDey6
+12 ok 0.0 3.5 dinheiro some das maos no fim
+13 ok 0.0 5.0
+14 ok 0.0 5.0 mao segura grade no fim
+15 ok 0.0 5.0
+16 ok 0.0 5.0
+17 ok 0.0 5.0
+18 ok 0.0 5.0
+19 ok 0.0 5.0
+20 ok 0.0 5.0
+21 ok 0.0 5.0
+22 ok 0.0 5.0
+23 ok 0.0 5.0
+24 ok 0.0 5.0
+25 ok 0.0 5.0
+26 ok 0.0 5.0
+27 ok 0.0 5.0
+28 ok 0.0 5.0 asas com leve borrao de movimento
+29 ok 0.0 5.0
+30 ok 0.0 5.0 abertura sutil (botoes balancam)
+08 ok 0.0 5.0
+09 ok 0.0 5.0
+10 v2 (no 4OGawYKuUnMKr7xSwNR8) tambem duplicou o saco em ~1.5s -> mantida v1 cortada 0-1.8s (curto)
+11 v2 (no ZM7ZUTUd6b65lygGKZbW) ok 0.0 4.4 (maco afina no fim)

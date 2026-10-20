@@ -1,0 +1,47 @@
+{
+ "video": "takes/G3_seedance.mp4",
+ "dur": 6.0,
+ "modo": "janela",
+ "audio": "audio/g3_mix.wav",
+ "palavras": [
+  {
+   "w": "¡Suéltenlo!",
+   "ini": 1.3,
+   "fim": 2.42
+  },
+  {
+   "w": "¡Él",
+   "ini": 3.28,
+   "fim": 3.72
+  },
+  {
+   "w": "solo",
+   "ini": 3.72,
+   "fim": 3.96
+  },
+  {
+   "w": "nos",
+   "ini": 3.96,
+   "fim": 4.3
+  },
+  {
+   "w": "enseñaba",
+   "ini": 4.3,
+   "fim": 4.82
+  },
+  {
+   "w": "a",
+   "ini": 4.82,
+   "fim": 4.86
+  },
+  {
+   "w": "rezar!",
+   "ini": 4.86,
+   "fim": 5.76
+  }
+ ],
+ "titulo": [
+  "SE LLEVARON AL PADRE"
+ ],
+ "out": "gancho_G3.mp4"
+}

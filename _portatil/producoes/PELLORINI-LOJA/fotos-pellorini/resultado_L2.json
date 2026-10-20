@@ -1,0 +1,122 @@
+[
+ {
+  "handle": "pellorini-bellissima",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/bellissima.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-bellissima_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e assinatura do pano. A IA tinha trocado o numeral XII do mostrador por um logo PELLORINI; Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-aurora",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/aurora.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-aurora_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e pano. A IA reescreveu o texto BS do mostrador; Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-perla",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/perla.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-perla_1.jpg",
+  "status": "aprovada",
+  "tentativas": 2,
+  "custo": 0.216,
+  "mostrador_corrigido": true,
+  "observacao": "1a tentativa reprovada: letras do rolo ficaram cobre/rose em vez de dourado. 2a tentativa com prompt reforcado OK (houve 1 envio recusado pelo provedor, sem cobranca). Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-aria",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/aria.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-aria_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e pano. Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo). (preventivo, mostrador quase igual)"
+ },
+ {
+  "handle": "pellorini-gemma",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/gemma.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-gemma_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e pano; na tampa o dourado ficou um pouco mais vivo que o original. A IA escreveu PELLOBINI no mostrador; Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-carina",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/carina.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-carina_1.jpg",
+  "status": "aprovada",
+  "tentativas": 2,
+  "custo": 0.216,
+  "mostrador_corrigido": true,
+  "observacao": "1a tentativa reprovada: assinatura do pano virou dourada e grande, com reflexo da marca na frente da caixa. 2a tentativa OK (assinatura branca cortada na borda, como no original). Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-valentina",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/valentina.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-valentina_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e pano. A IA reescreveu o texto do mostrador; Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-livia",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/livia.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-livia_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo, tampa e pano. A IA escreveu PELAMINI no mostrador; Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-grazia",
+  "pos": 1,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Grazia.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-grazia_1.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada no rolo e tampa (pano quase fora do quadro, sem assinatura visivel). Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ },
+ {
+  "handle": "pellorini-grazia",
+  "pos": 2,
+  "tipo": "caramelo",
+  "url_original": "https://cdn.shopify.com/s/files/1/1035/3619/7908/files/Grazia_5.webp",
+  "arquivo": "C:/Users/PICHAU/Downloads/PELLORINI-LOJA/fotos-pellorini/pellorini-grazia_2.jpg",
+  "status": "aprovada",
+  "tentativas": 1,
+  "custo": 0.108,
+  "mostrador_corrigido": true,
+  "observacao": "Marca trocada na tampa (sem rolo/pano no quadro). Mostrador do relogio (marca de fabrica, nao PELVINI) restaurado do original por colagem alinhada com bordas suavizadas (sem custo)."
+ }
+]

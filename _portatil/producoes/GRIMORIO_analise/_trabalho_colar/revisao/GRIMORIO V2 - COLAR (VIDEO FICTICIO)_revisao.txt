@@ -1,0 +1,54 @@
+REVISÃO: GRIMORIO V2 - COLAR (VIDEO FICTICIO).mp4
+duração 158.22s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 36.5 MB
+decodificação: OK
+pts do áudio: 6815 pacotes, passo mediano 23.2 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 24 | pares a <0,3 s: 87.40/87.43
+setas (vermelho) no fim: y 1006-1087, x 229-708 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\GRIMORIO_analise\_trabalho_colar\revisao\GRIMORIO V2 - COLAR (VIDEO FICTICIO)_revisao.jpg
+idioma detectado: pt (0.99)
+
+=== transcrição (pt) ===
+   0.00-  4.20 A gente está tentando impedir esse padre de ajudar os brasileiros.
+   4.20-  5.20 Filmen!
+   5.20-  8.20 Eles não querem que o povo faça!
+   8.20- 13.88 É revoltante ver o que fizeram comigo só porque ensinei uma oração que poderia abençoar
+  13.88- 18.36 e ajudar muitas pessoas, mas a verdade não vai ser escondida.
+  18.36- 22.12 Eu ensinei a sua oração ao meu amigo Padre Paulo e ele vai revelá-la em uma live.
+  22.12- 28.08 Preste muita atenção, que será a última vez que vou ensinar isso em público
+  28.08- 32.88 apedido do meu amigo Padre Joel, que foi tentado silenciado.
+  32.88- 37.20 Ó poderoso São Bento, guardião dos arcanos sagrados,
+  37.20- 40.16 que venceu as serpentes com o sinal da cruz,
+  40.16- 44.40 e calou o rugido dos abismos com sua fé inquebravel.
+  44.40- 48.64 Eu invoco agora as 12 palavras celadas por tua mão.
+  48.64- 57.08 Crooks, Lux, Fidas, Ignas, Veritas, Silêncio, Gladias, Fortitude, Custodia,
+  57.08- 61.36 santitas, espíritos e triunfos.
+  61.36- 67.76 Essa é a poderosíssima oração das 12 palavras do Grimório Sagrado e Secreto de São Bento,
+  67.76- 74.08 que está ajudando muitos brasileiros e que está surgindo relatos de bênçãos todos os dias.
+  74.08- 77.80 Ela foi escrita pelo próprio São Bento em sua regra,
+  77.80- 83.08 que foi mantido em segredo por novecentos e dezoito anos da humanidade.
+  83.08- 87.32 Só um grupo de monges tinha acesso a essa oração completa,
+  87.32- 89.98 por isso vocês nunca ouviram falar dela.
+  89.98- 93.24 Então trouxe ela de uma viagem que fez a Itália
+  93.24- 95.80 e revelar esse segredo ao povo brasileiro.
+  95.80- 99.24 E a última vez que ensinei essa oração em um congresso,
+  99.24-104.74 recebi mais de 497 relatos de Benson no dia seguinte.
+ 104.74-107.60 Foi inacreditável, mas atenção,
+ 107.60-110.32 ela precisa ser feita do jeito certo
+ 110.32-116.96 conforme as instruções do Grimório, porque não é uma oração comum, ela tem instruções
+ 116.96-120.48 e uma maneira correta de fazer e de ouvir.
+ 120.48-126.32 Eu vou pedir para a produção deixar o Grimório sagrado e secreto de São Bento junto com
+ 126.32-131.88 o colar da medalha de São Bento de presente disponível nesse perfil para que vocês possam
+ 131.88-136.44 fazer do jeito certo, mas não sei por quanto tempo vai ficar disponível.
+ 136.44-140.20 Acesse enquanto ainda é possível.
+ 140.20-146.88 A partir de hoje você vai dar a Deus as dificuldades financeiras e dar a boas-vindas
+ 146.88-148.24 uma vida próspera.
+ 148.24-154.04 Volte aqui depois de sete dias para contar as bênçãos que aconteceram na sua vida.
+ 154.04-158.20 Envia esse vídeo para quem você ama e faça a oração da forma correta.
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 87.40s e 87.43s (33 ms)
+1 problema(s)

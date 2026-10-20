@@ -1,0 +1,12 @@
+REVISÃO: SB-ES_NOTICIA-AURELIO_A-GRIMORIO_FICTICIO.mp4
+duração 173.83s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 52.0 MB
+decodificação: OK
+pts do áudio: 8147 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 59 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v3\_trabalho\final_A\qa\SB-ES_NOTICIA-AURELIO_A-GRIMORIO_FICTICIO_revisao.jpg
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

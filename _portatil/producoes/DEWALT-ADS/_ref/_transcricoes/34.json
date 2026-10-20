@@ -1,0 +1,17 @@
+{
+ "arquivo": "34 AD.mp4",
+ "idioma": "pt",
+ "prob": 0.98,
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fim": 9.0,
+   "texto": "Aí pessoal, quero ver se vocês encontrem o preço mais barato que esse aqui, o Dualty, 899,90."
+  },
+  {
+   "ini": 9.0,
+   "fim": 15.0,
+   "texto": "Agora vale o seguinte, clica aí no alto que vocês vão ver o preço que vocês vão encontrar aqui agora no tipo Tech Shop."
+  }
+ ]
+}

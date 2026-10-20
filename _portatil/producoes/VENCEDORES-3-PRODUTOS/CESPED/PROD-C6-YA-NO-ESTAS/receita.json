@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C6-YA-NO-ESTAS/CESPED-CL_C6_YA-NO-ESTAS.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C6-YA-NO-ESTAS/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C6-YA-NO-ESTAS/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/VENCEDORES-3-PRODUTOS/CESPED/PROD-C6-YA-NO-ESTAS/corpo.alinhamento.json", "chaves": ["pa'", "esto", "vida", "bencina", "probé", "uno", "ruedas", "mano", "metal", "hilos", "inalámbrica", "baterías", "Chile", "recibir", "garantía", "pídela"]},
+  "manchete": {"texto": "MI HIJO ME DIJO QUE YA NO PODÍA 😤", "y": 780, "ate": 4.2},
+  "cta": {"palavra": "pídela", "y": 1700},
+  "resolucao": "720",
+  "limite_mb": 30
+}

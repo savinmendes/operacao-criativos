@@ -1,0 +1,44 @@
+{
+ "R00": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.2,
+  "texto": "Imágenes impactantes: un taxista fue humillado por un pasajero… por su fe."
+ },
+ "R01": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.5,
+  "estilo": 0.2,
+  "vel": 1.12,
+  "texto": "Al día siguiente, el taxi de don Ramón no paró ni un minuto."
+ },
+ "RA1": {
+  "voz": "wfTWLJ20rcMqvU8gIiAB",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.13,
+  "texto": "Esa noche me quedé dentro del taxi, sin ganas de volver a casa. Llevaba semanas haciendo dos carreras por día… no alcanzaba ni para la gasolina."
+ },
+ "RA2": {
+  "voz": "wfTWLJ20rcMqvU8gIiAB",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.13,
+  "texto": "Mi hija me mandó la transmisión del padre Juan Méndez. La hice ahí mismo, en el taxi, como él enseña. Al otro día, el teléfono empezó a sonar a las seis de la mañana."
+ },
+ "PED": {
+  "voz": "wfTWLJ20rcMqvU8gIiAB",
+  "est": 0.45,
+  "estilo": 0.3,
+  "vel": 1.13,
+  "texto": "Si tú también rezas y sientes que nadie te escucha… y que las cosas solo empeoran… no es que Dios no te escuche. Es que, igual que yo, lo estabas pidiendo de la forma equivocada. El padre Juan Méndez me enseñó la forma correcta de pedirle a San Benito… y está haciendo la oración en vivo ahora mismo. ¿Usted puede pasar la transmisión para los que nos están viendo?"
+ },
+ "CTA": {
+  "voz": "hHjbwzYZW17oh0p05AKv",
+  "est": 0.4,
+  "estilo": 0.4,
+  "vel": 1.1,
+  "texto": "¡Claro! Toquen el botón que está abajo del video y entren ahora a la oración en vivo."
+ }
+}

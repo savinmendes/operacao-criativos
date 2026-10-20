@@ -1,0 +1,6 @@
+Copia do kit-edicao-criativos/ferramentas (05/10/2026) usada so para gerar os v2.
+Unica diferenca para o kit: "-threads 4" em todas as chamadas libx264 (outro agente usava a CPU)
+e ENC[:10] -> ENC[:12] em montar_ad.py (por causa dos 2 itens a mais).
+encaixar_edit.py = versao corrigida (faixa da legenda). encaixar_edit_antigo_bug.py = versao de antes da correcao,
+usada so para provar que o take antigo e reproduzivel.
+- substituir_trechos/desfocar_regioes/trocar_texto_tela: sem "-shortest" (com -threads 4 o -shortest cortava 1 quadro por passada; no lote original audio e video tinham o mesmo tamanho e o -shortest nao cortava nada).

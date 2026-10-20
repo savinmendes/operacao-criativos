@@ -1,0 +1,19 @@
+# AD 03
+
+| | |
+|---|---|
+| Canal | arquivo local |
+| Duração | 01:16 |
+| Publicado | ? |
+| URL | https://www.youtube.com/watch?v=local |
+| Origem da transcrição | whisper-large-v3/cuda/es |
+| Transcrito em | 03/10/2026 11:27 |
+| Blocos | 3 (janela de 30s) |
+
+---
+
+**[00:00]** ¿Qué le pasa a tu cuerpo si tomas las gotas Maya Berra todos los días durante 30 días? Día 1. Colocas el gotero debajo de tu lengua. El líquido se absorbe directamente en tu sistema. Por la noche, una ligera ligereza detrás de tus ojos. Día 3. Te despiertas y caminas al baño. Miras en el espejo. Tu cara parece tu cara otra vez. La hinchazón matutina que te recibía cada uno de los días ha comenzado a drenar. Te acercas más. Tu línea de la mandíbula está regresando. Día 7. Miras hacia abajo a tus piernas. Tus tobillos no están hinchados. Te sientas en tu escritorio todo el día. Y por la noche,
+
+**[00:32]** tus piernas todavía se sienten ligeras. Día 15. Te pones tus jeans. La pretina no se entierra. Te miras en el espejo y tu estómago está más plano de lo que ha estado en meses. La hinchazón con la que te despertabas cada mañana. La opresión después de cada comida ha desaparecido. Pasas tu mano por tu estómago solo para asegurarte de que es real. Día 20. Tienes energía a las 3 per omne. Tu neblina mental se ha ido. La pesadez que cargabas a todas partes se está drenando de tu cuerpo. Día 30. Te despiertas ligera. Tu cara está definida. Tus piernas se sienten como si pertenecieran a alguien 10 años más joven. La hinchazón que pensabas que era solo parte de
+
+**[01:06]** envejecer se ha ido. Tu cuerpo finalmente drenó lo que había estado reteniendo durante años. Unas pocas gotas. 30 días y 30% de descuento ahora mismo. Haz clic abajo.

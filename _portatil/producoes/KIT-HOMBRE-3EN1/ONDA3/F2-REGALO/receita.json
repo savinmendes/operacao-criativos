@@ -1,0 +1,12 @@
+{
+  "saida": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F2-REGALO/PERFUMES-CL_F2_REGALO.mp4",
+  "estilo": "drop",
+  "corpo": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F2-REGALO/corpo.mp4",
+  "cortar_pausas": false,
+  "trilha": "C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F2-REGALO/audio/trilha.mp3",
+  "legenda": {"fonte": "alinhamento:C:/Users/PICHAU/Downloads/KIT-HOMBRE-3EN1/ONDA3/F2-REGALO/corpo.alinhamento.json", "y": 1440, "chaves": ["perfume", "2015…", "tres.", "llegaron…", "regalo.", "árabes", "uno.", "Armaf", "Asad,", "9PM,", "tranquilo", "recibes.", "¡Pídelo"]},
+  "manchete": {"texto": "LE CAMBIÉ EL PERFUME 😏", "y": 1180, "ate": 4.0},
+  "cta": {"palavra": "pídelo", "y": 1650},
+  "resolucao": "720",
+  "limite_mb": 30
+}

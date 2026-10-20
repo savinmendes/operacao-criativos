@@ -1,0 +1,50 @@
+PRONTO_base — GRIMORIO V2 ES (agente VISUAL), 14/10/2026
+
+ARQUIVO: base_sem_legenda.mp4  (nesta pasta)
+- Vídeo inteiro SEM a legenda PT queimada (LaMa na GPU só na faixa da legenda, máscara por OCR + glifo). ÁUDIO ORIGINAL copiado sem recodificar.
+- 720x1280, 30 fps, 4645 quadros, 154,83 s (igual ao original).
+- Cor: lido do original como bt709/full (como ele está etiquetado) e gravado com a matriz inversa bt709/tv, yuv420p, etiqueta bt709/tv.
+  Para ler/regravar sem desvio use a MESMA matriz nos dois sentidos (comum3.quadros + ENC_VF/ENC_TAG servem: lê bt601/tv e grava bt601/tv = identidade nos pixels).
+  Luma conferida fora da faixa da legenda: original x base com diferença <= 0,2 nível (quadros 10, 300, 900, 1500, 2500, 3300, 4000, 4600).
+- O título amarelo PT do gancho, a arroba padre.paulo_, o cartão e os textos PT NÃO estão trocados aqui (base neutra para o lip sync).
+  Para a montagem final use base_visual_es.mp4 (mesmos quadros + arroba/cartão/desfoques); ver PRONTO.txt.
+- Quadro solto 2622 (1:27,40) NÃO corrigido na base (para manter a contagem); correção em correcoes.json.
+
+PLANOS COM ROSTO (quadros do original = quadros da base; caixa x,y,w,h em px 720x1280)
+caixa_mediana = rosto de quem fala na posição típica; caixa_uniao = área total que o rosto percorre no plano (use para recortar).
+
+- quadros 0-122  (0.00-4.10 s)  reporter (PiP embaixo à esquerda; voz feminina ~250 Hz) | rostos no quadro (máx): 2 | caixa_mediana [4, 848, 248, 308] | caixa_uniao [0, 837, 257, 334]
+    obs: 2 rostos: repórter (PiP embaixo à esquerda, fala) + padre ao fundo. Voz feminina ~250 Hz = repórter. Recorte só o rosto dela.
+- quadros 123-230  (4.10-7.70 s)  padre do tumulto gritando (rosto se move muito) | rostos no quadro (máx): 2 | caixa_mediana [199, 452, 279, 329] | caixa_uniao [0, 281, 649, 677]
+    obs: padre agarrado gritando; voz medida ~217 Hz (pode ser a repórter fora de quadro gritando '¡Graben!'). Confira de ouvido: se a voz não for dele, não precisa de lip sync. Rosto se move muito (use a caixa_uniao).
+- quadros 239-665  (7.97-22.20 s)  padre chorando (selfie) | rostos no quadro (máx): 2 | caixa_mediana [48, 360, 569, 748] | caixa_uniao [0, 304, 672, 888]
+    obs: selfie, rosto grande. Fusão para o padre de roxo em 21,97-22,2 s.
+- quadros 666-923  (22.20-30.80 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [272, 348, 234, 237] | caixa_uniao [253, 341, 269, 259]
+    obs: 1 rosto que fala (o avatar pequeno da moldura no topo esquerdo não conta).
+- quadros 984-1009  (32.80-33.67 s)  padre de roxo (live) | rostos no quadro (máx): 2 | caixa_mediana [261, 365, 231, 234] | caixa_uniao [257, 360, 237, 247]
+    obs: trecho curto perto da ilustração de São Bento: conferir.
+- quadros 1215-1333  (40.50-44.47 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [264, 348, 237, 240] | caixa_uniao [221, 339, 313, 256]
+    obs: 1 rosto que fala (o avatar pequeno da moldura no topo esquerdo não conta).
+- quadros 1811-2280  (60.37-76.03 s)  padre de roxo (live) | rostos no quadro (máx): 2 | caixa_mediana [273, 345, 233, 239] | caixa_uniao [236, 324, 320, 290]
+    obs: 1796-1810 é fusão do cartão para o padre. De ~2033 a ~2178 (67,8-72,6 s) há depoimentos em vídeo NA METADE DE BAIXO (mulher, homem, mulher, idoso, carro): o padre segue em cima e é quem fala; os depoimentos não precisam de sync.
+- quadros 2625-2990  (87.50-99.70 s)  padre de roxo (live) | rostos no quadro (máx): 2 | caixa_mediana [294, 348, 229, 233] | caixa_uniao [169, 330, 412, 309]
+    obs: começa logo após a transição em chicote 2620-2625 (quadro solto 2622).
+- quadros 3148-3281  (104.93-109.40 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [296, 347, 230, 233] | caixa_uniao [281, 332, 270, 343]
+    obs: sai em fusão para o livro na mesa (~3282-3300).
+- quadros 3392-3500  (113.07-116.70 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [330, 340, 232, 236] | caixa_uniao [308, 320, 262, 267]
+    obs: entra em fusão vindo do livro na mesa.
+- quadros 3597-3778  (119.90-125.97 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [312, 346, 231, 235] | caixa_uniao [270, 327, 305, 333]
+    obs: termina no corte seco para a tela do produto (3779).
+- quadros 3921-4003  (130.70-133.47 s)  padre de roxo (live) | rostos no quadro (máx): 1 | caixa_mediana [301, 348, 235, 232] | caixa_uniao [284, 333, 301, 261]
+    obs: começa no corte seco depois da tela do produto.
+- quadros 4041-4553  (134.70-151.80 s)  padre de roxo (live) | rostos no quadro (máx): 2 | caixa_mediana [328, 347, 231, 236] | caixa_uniao [289, 327, 307, 296]
+    obs: termina no corte para a luz dourada (4554); 2º rosto ocasional = mãos/avatar da moldura.
+
+SEM ROSTO FALANDO (b-roll, bons para alongar se a fala ES não couber): 30,8-32,7 e 33,7-40,4 (São Bento ilustrado), 44,4-48,4 (página do livro),
+48,4-60,2 (cartão das 12 palavras), 76,0-87,4 (molduras: monge, manuscrito, procissão), 99,7-104,9 (print de WhatsApp), ~109,4-113,0 (livro na mesa),
+~116,8-119,9 (mãos rezando), 126,0-130,7 (prints do perfil -> tela do produto ES), 151,8-154,8 (luz dourada).
+
+ATUALIZAÇÃO 19:55: base_sem_legenda.mp4 foi regravada no mesmo nome com limpeza extra de restos de letra
+(fim 4554-4644 na luz dourada e ~1.000 quadros com pedaços de palavra nas pontas da linha, sobre a casula).
+Mudou SÓ a faixa da legenda (peito / b-roll, y ~730-910); rosto, tempo, contagem de quadros e áudio idênticos.
+Trechos de lip sync já recortados da versão anterior continuam válidos (a boca não mudou).

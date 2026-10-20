@@ -1,0 +1,34 @@
+REVISÃO: SB-IT-JESU-V07.mp4
+duração 31.17s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 29.4 MB
+decodificação: OK
+pts do áudio: 1462 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 0 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1768-1919
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-IT-OFERTA-LIVE\03_JESU-V07\_trabalho\revisao\SB-IT-JESU-V07_revisao.jpg
+idioma detectado: it (1.00)
+
+=== transcrição (it) ===
+   0.00-  5.00 Se chiudi questo video adesso, il miracolo che portava il tuo nome sarà dato a qualcun altro.
+   6.00-  9.00 Questa è l'ultima volta che Dio cercherà di parlarti in questo modo.
+  10.00- 14.00 Gesù ha scelto te, ha preparato un dono potente, solo per te.
+  15.00- 19.00 Oggi ascolterai la preghiera perduta di San Benedetto che sblocca una pioggia di miracoli.
+  20.00- 26.00 Ma solo se non la rifiuti di nuovo, tocca scopri di più qui sotto e unisciti alla preghiera indiretta.
+  26.00- 30.16 indiretta. ricevi il tuo miracolo prima che la porta si chiuda per sempre.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  6.00    If you end this video now, the miracle that your name would bring will be given to someone else.
+   6.00- 10.24    This is the last time that God will try to talk to you in this way.
+  10.24- 12.08    Jesus chose you.
+  12.08- 15.44    He prepared a powerful gift, only for you.
+  15.44- 20.64    Today you will listen to the lost prayer of San Benedetto that blocks a rain of miracles.
+  20.64- 23.00    But only if you do not refuse it again.
+  23.00- 27.36    Touch, discover more, down here, and join the prayer indirectly.
+  27.36- 30.36    Recebe il tuo miracolo prima che la porta si chiuda per sempre.
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

@@ -1,0 +1,133 @@
+{
+"arquivo": "vo_V04.wav",
+"whisper": "Solo un grupo de monjes tenía acceso a esta oración completa. La traje de una excursión que hice a Italia y decidí compartirla con ustedes.",
+"palavras": [
+{
+"w": "Solo",
+"ini": 0.0,
+"fim": 0.32
+},
+{
+"w": "un",
+"ini": 0.32,
+"fim": 0.48
+},
+{
+"w": "grupo",
+"ini": 0.48,
+"fim": 0.76
+},
+{
+"w": "de",
+"ini": 0.76,
+"fim": 1.0
+},
+{
+"w": "monjes",
+"ini": 1.0,
+"fim": 1.36
+},
+{
+"w": "tenía",
+"ini": 1.36,
+"fim": 1.68
+},
+{
+"w": "acceso",
+"ini": 1.68,
+"fim": 2.14
+},
+{
+"w": "a",
+"ini": 2.14,
+"fim": 2.44
+},
+{
+"w": "esta",
+"ini": 2.44,
+"fim": 2.56
+},
+{
+"w": "oración",
+"ini": 2.56,
+"fim": 2.98
+},
+{
+"w": "completa.",
+"ini": 2.98,
+"fim": 3.42
+},
+{
+"w": "La",
+"ini": 3.86,
+"fim": 4.04
+},
+{
+"w": "traje",
+"ini": 4.04,
+"fim": 4.28
+},
+{
+"w": "de",
+"ini": 4.28,
+"fim": 4.44
+},
+{
+"w": "una",
+"ini": 4.44,
+"fim": 4.6
+},
+{
+"w": "excursión",
+"ini": 4.6,
+"fim": 5.14
+},
+{
+"w": "que",
+"ini": 5.14,
+"fim": 5.3
+},
+{
+"w": "hice",
+"ini": 5.3,
+"fim": 5.5
+},
+{
+"w": "a",
+"ini": 5.5,
+"fim": 5.7
+},
+{
+"w": "Italia",
+"ini": 5.7,
+"fim": 5.98
+},
+{
+"w": "y",
+"ini": 5.98,
+"fim": 6.6
+},
+{
+"w": "decidí",
+"ini": 6.6,
+"fim": 6.98
+},
+{
+"w": "compartirla",
+"ini": 6.98,
+"fim": 7.58
+},
+{
+"w": "con",
+"ini": 7.58,
+"fim": 7.78
+},
+{
+"w": "ustedes.",
+"ini": 7.78,
+"fim": 8.18
+}
+],
+"ratio": 1.0,
+"dif": []
+}

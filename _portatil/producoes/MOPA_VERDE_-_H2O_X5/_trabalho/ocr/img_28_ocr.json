@@ -1,0 +1,86 @@
+[
+ {
+  "texto": "H2O X5",
+  "conf": 0.89,
+  "caixa": [
+   715,
+   166,
+   955,
+   223
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "STEAM",
+  "conf": 0.98,
+  "caixa": [
+   699,
+   236,
+   859,
+   269
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "MOP",
+  "conf": 0.99,
+  "caixa": [
+   851,
+   237,
+   981,
+   268
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SALE",
+  "conf": 1.0,
+  "caixa": [
+   618,
+   426,
+   1008,
+   538
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "NOWON!",
+  "conf": 0.99,
+  "caixa": [
+   618,
+   565,
+   1006,
+   631
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "LIMITEDSTOCKONLY!",
+  "conf": 0.99,
+  "caixa": [
+   618,
+   668,
+   1014,
+   704
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "SHOPNOW",
+  "conf": 0.99,
+  "caixa": [
+   710,
+   859,
+   909,
+   892
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

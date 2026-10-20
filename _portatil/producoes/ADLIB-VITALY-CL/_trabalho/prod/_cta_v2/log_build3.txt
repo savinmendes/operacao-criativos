@@ -1,0 +1,16 @@
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V12\out\V12 - LYMPHORIA-RUTINA-30-SEGUNDOS.mp4
+duração : 73.64s | 720x1280 | áudio: sim | 25.7 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V12\out\V12 - LYMPHORIA-RUTINA-30-SEGUNDOS_frames.jpg
+RESULTADO: OK
+CTA em 70.56s
+montagem rápida: 8s para 74s de vídeo (0.11x)
+arquivo : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V19\out\V19 - LYMPHORIA-ANTES-DESPUES.mp4
+duração : 28.54s | 720x1280 | áudio: sim | 21.1 MB
+decodif.: OK
+frames  : C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V19\out\V19 - LYMPHORIA-ANTES-DESPUES_frames.jpg
+RESULTADO: OK
+CTA em 25.43s
+montagem rápida: 4s para 28s de vídeo (0.15x)
+OK V12 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V12\out\V12 - LYMPHORIA-RUTINA-30-SEGUNDOS.mp4
+OK V19 C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_cta_v2\V19\out\V19 - LYMPHORIA-ANTES-DESPUES.mp4

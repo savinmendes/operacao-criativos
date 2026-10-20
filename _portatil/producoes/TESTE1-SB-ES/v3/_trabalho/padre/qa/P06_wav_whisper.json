@@ -1,0 +1,128 @@
+{
+"arquivo": "P06.wav",
+"whisper": "Y quien obtenga el Grimorio, hoy recibirá de regalo un collar de plata de San Benito, el mismo que se usaba en sus oraciones.",
+"palavras": [
+{
+"w": "Y",
+"ini": 0.0,
+"fim": 0.22
+},
+{
+"w": "quien",
+"ini": 0.22,
+"fim": 0.4
+},
+{
+"w": "obtenga",
+"ini": 0.4,
+"fim": 0.82
+},
+{
+"w": "el",
+"ini": 0.82,
+"fim": 0.98
+},
+{
+"w": "Grimorio,",
+"ini": 0.98,
+"fim": 1.58
+},
+{
+"w": "hoy",
+"ini": 1.72,
+"fim": 1.94
+},
+{
+"w": "recibirá",
+"ini": 1.94,
+"fim": 2.48
+},
+{
+"w": "de",
+"ini": 2.48,
+"fim": 2.72
+},
+{
+"w": "regalo",
+"ini": 2.72,
+"fim": 3.16
+},
+{
+"w": "un",
+"ini": 3.16,
+"fim": 3.58
+},
+{
+"w": "collar",
+"ini": 3.58,
+"fim": 3.8
+},
+{
+"w": "de",
+"ini": 3.8,
+"fim": 4.06
+},
+{
+"w": "plata",
+"ini": 4.06,
+"fim": 4.22
+},
+{
+"w": "de",
+"ini": 4.22,
+"fim": 4.44
+},
+{
+"w": "San",
+"ini": 4.44,
+"fim": 4.6
+},
+{
+"w": "Benito,",
+"ini": 4.6,
+"fim": 5.06
+},
+{
+"w": "el",
+"ini": 5.3,
+"fim": 5.44
+},
+{
+"w": "mismo",
+"ini": 5.44,
+"fim": 5.8
+},
+{
+"w": "que",
+"ini": 5.8,
+"fim": 6.32
+},
+{
+"w": "se",
+"ini": 6.32,
+"fim": 6.52
+},
+{
+"w": "usaba",
+"ini": 6.52,
+"fim": 6.98
+},
+{
+"w": "en",
+"ini": 6.98,
+"fim": 7.18
+},
+{
+"w": "sus",
+"ini": 7.18,
+"fim": 7.34
+},
+{
+"w": "oraciones.",
+"ini": 7.34,
+"fim": 7.82
+}
+],
+"ratio": 1.0,
+"dif": []
+}

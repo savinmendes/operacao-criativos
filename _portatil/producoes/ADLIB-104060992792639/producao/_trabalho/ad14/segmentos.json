@@ -1,0 +1,81 @@
+{
+ "fps": 24,
+ "n": 2342,
+ "segmentos": [
+  {
+   "nome": "h",
+   "quadro_ini": 0,
+   "quadro_fim": 228
+  },
+  {
+   "nome": "s01",
+   "quadro_ini": 231,
+   "quadro_fim": 466
+  },
+  {
+   "nome": "s02",
+   "quadro_ini": 467,
+   "quadro_fim": 701
+  },
+  {
+   "nome": "s03",
+   "quadro_ini": 702,
+   "quadro_fim": 933
+  },
+  {
+   "nome": "s04",
+   "quadro_ini": 934,
+   "quadro_fim": 982
+  },
+  {
+   "nome": "s05a",
+   "quadro_ini": 983,
+   "quadro_fim": 1152
+  },
+  {
+   "nome": "s05b",
+   "quadro_ini": 1153,
+   "quadro_fim": 1322
+  },
+  {
+   "nome": "s06",
+   "quadro_ini": 1323,
+   "quadro_fim": 1498
+  },
+  {
+   "nome": "s07",
+   "quadro_ini": 1499,
+   "quadro_fim": 1738
+  },
+  {
+   "nome": "s08",
+   "quadro_ini": 1739,
+   "quadro_fim": 1855
+  },
+  {
+   "nome": "s09",
+   "quadro_ini": 1856,
+   "quadro_fim": 1929
+  },
+  {
+   "nome": "s10",
+   "quadro_ini": 1930,
+   "quadro_fim": 2011
+  },
+  {
+   "nome": "s11",
+   "quadro_ini": 2012,
+   "quadro_fim": 2096
+  },
+  {
+   "nome": "s12",
+   "quadro_ini": 2097,
+   "quadro_fim": 2214
+  },
+  {
+   "nome": "s13",
+   "quadro_ini": 2215,
+   "quadro_fim": 2341
+  }
+ ]
+}

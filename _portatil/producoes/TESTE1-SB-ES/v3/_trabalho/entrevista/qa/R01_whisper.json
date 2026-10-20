@@ -1,0 +1,164 @@
+{
+"id": "R01",
+"take": "take_R01_reportera.mp4",
+"res": "720x900",
+"fps": 25.0,
+"quadros": 221,
+"dur_video": 8.84,
+"dur_audio": 8.801,
+"dur_audio_enviado": 8.801,
+"whisper": "Después de ser atacado por un cliente y volverse viral, el carrito de Don Aurelio se convirtió en uno de los más pedidos del país.",
+"diferencas": [],
+"palavras_whisper": [
+{
+"w": "Después",
+"ini": 0.0,
+"fim": 0.38,
+"p": 0.86
+},
+{
+"w": "de",
+"ini": 0.38,
+"fim": 0.56,
+"p": 1.0
+},
+{
+"w": "ser",
+"ini": 0.56,
+"fim": 0.72,
+"p": 1.0
+},
+{
+"w": "atacado",
+"ini": 0.72,
+"fim": 1.24,
+"p": 0.98
+},
+{
+"w": "por",
+"ini": 1.24,
+"fim": 1.44,
+"p": 0.99
+},
+{
+"w": "un",
+"ini": 1.44,
+"fim": 1.6,
+"p": 1.0
+},
+{
+"w": "cliente",
+"ini": 1.6,
+"fim": 2.22,
+"p": 0.99
+},
+{
+"w": "y",
+"ini": 2.22,
+"fim": 2.34,
+"p": 0.98
+},
+{
+"w": "volverse",
+"ini": 2.34,
+"fim": 2.82,
+"p": 0.99
+},
+{
+"w": "viral,",
+"ini": 2.82,
+"fim": 3.16,
+"p": 1.0
+},
+{
+"w": "el",
+"ini": 3.64,
+"fim": 3.74,
+"p": 0.96
+},
+{
+"w": "carrito",
+"ini": 3.74,
+"fim": 4.18,
+"p": 0.74
+},
+{
+"w": "de",
+"ini": 4.18,
+"fim": 4.32,
+"p": 0.99
+},
+{
+"w": "Don",
+"ini": 4.32,
+"fim": 4.46,
+"p": 0.79
+},
+{
+"w": "Aurelio",
+"ini": 4.46,
+"fim": 5.02,
+"p": 0.94
+},
+{
+"w": "se",
+"ini": 5.02,
+"fim": 5.46,
+"p": 0.96
+},
+{
+"w": "convirtió",
+"ini": 5.46,
+"fim": 6.12,
+"p": 1.0
+},
+{
+"w": "en",
+"ini": 6.12,
+"fim": 6.44,
+"p": 1.0
+},
+{
+"w": "uno",
+"ini": 6.44,
+"fim": 6.66,
+"p": 1.0
+},
+{
+"w": "de",
+"ini": 6.66,
+"fim": 6.84,
+"p": 1.0
+},
+{
+"w": "los",
+"ini": 6.84,
+"fim": 7.0,
+"p": 0.99
+},
+{
+"w": "más",
+"ini": 7.0,
+"fim": 7.3,
+"p": 0.96
+},
+{
+"w": "pedidos",
+"ini": 7.3,
+"fim": 7.8,
+"p": 0.99
+},
+{
+"w": "del",
+"ini": 7.8,
+"fim": 7.98,
+"p": 1.0
+},
+{
+"w": "país.",
+"ini": 7.98,
+"fim": 8.26,
+"p": 0.99
+}
+]
+}

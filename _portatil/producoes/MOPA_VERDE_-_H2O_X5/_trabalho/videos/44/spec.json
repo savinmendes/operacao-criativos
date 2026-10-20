@@ -1,0 +1,39 @@
+{
+ "video": "base.mp4",
+ "saida": "../../../ES-LATAM/VIDEOS/44 AD - ES.mp4",
+ "W": 720,
+ "H": 720,
+ "audio": "silencio",
+ "camadas": [
+  {
+   "tipo": "selo",
+   "x": 26,
+   "y": 62,
+   "larg": 250,
+   "linhas": [
+    "PAGO CONTRA ENTREGA"
+   ],
+   "px": 24,
+   "de": 0,
+   "ate": 99
+  },
+  {
+   "tipo": "cta",
+   "cx": 168,
+   "y": 640,
+   "px": 25,
+   "pad": 30,
+   "borda_px": 3,
+   "de": 1.0,
+   "setas_de": 1.0,
+   "setas_x": [
+    88,
+    206
+   ],
+   "setas_y": 566,
+   "seta_tam": 56,
+   "seta_amp": 3,
+   "ate": 99
+  }
+ ]
+}

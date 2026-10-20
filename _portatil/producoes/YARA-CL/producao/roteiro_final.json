@@ -1,0 +1,18 @@
+{
+  "_nota": "Oferta definida pela pessoa em 09/10/2026: liquidacion Black Friday, paga 2 lleva 3, muy por debajo del mercado. NAO falar preco no video nem mostrar $59.900.",
+  "takes_consultora": {
+    "T1_gancho": {"arquivo": "../teste/gancho_teste_v1.mp4", "fala": "¡Liquidación de stock por Black Friday! Llévate los tres Yara a un precio muy por debajo del mercado. Hoy pagas dos y el tercero te lo llevas completamente gratis.", "cena": "balcao BF, plano medio, segura Yara"},
+    "T3_yara": {"fala": "Este es Yara: dulce, cremoso y muy femenino.", "cena": "prateleiras, 3/4 lateral, plano medio", "uso": ["A", "C"]},
+    "T4_yara_close": {"fala": "Orquídea, mandarina y un fondo de vainilla. Perfecto para el día a día.", "cena": "close-up rosto + frasco perto da bochecha", "uso": ["A"]},
+    "T5_moi": {"fala": "Yara Moi: floral, luminoso y elegante.", "cena": "penteadeira de camarim, plano medio frontal", "uso": ["C"]},
+    "T7_elixir": {"fala": "Y Yara Elixir, el más intenso de los tres.", "cena": "lounge noturno, plano baixo", "uso": ["C"]},
+    "T10_cta": {"fala": "Pagas dos y te llevas los tres. Pagas al recibir y el envío es gratis. ¡Pide el tuyo antes que se acabe!", "cena": "volta ao balcao BF (cena do gancho), push-in lento", "uso": ["C"]}
+  },
+  "narracao_sobre_takes_reais_C": {
+    "N_yara": "Orquídea, mandarina y un fondo de vainilla y almizcle. Perfecto para el día a día.",
+    "N_moi": "Jazmín y durazno, con un fondo cálido de ámbar y caramelo. Ideal para una cita.",
+    "N_elixir": "Frutilla, grosella negra, caramelo y vainilla. Para la noche, cuando quieres que se note que llegaste."
+  },
+  "ordem_C": ["T1_gancho", "T3_yara", "N_yara", "T5_moi", "N_moi", "T7_elixir", "N_elixir", "T10_cta"],
+  "ordem_A_parcial": ["T3_yara", "T4_yara_close"]
+}

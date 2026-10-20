@@ -1,0 +1,117 @@
+{
+ "texto": "No sabes cuál perfume árabe elegir? Te recomiendo uno para cada momento del día y la habrá para cada momento del día.",
+ "esperado": "¿No sabes cuál perfume árabe elegir? Te recomiendo uno para cada momento del día.",
+ "faltam": [],
+ "palavras": [
+  {
+   "p": "No",
+   "ini": 0.0,
+   "fim": 0.58
+  },
+  {
+   "p": "sabes",
+   "ini": 0.58,
+   "fim": 0.92
+  },
+  {
+   "p": "cuál",
+   "ini": 0.92,
+   "fim": 1.16
+  },
+  {
+   "p": "perfume",
+   "ini": 1.16,
+   "fim": 1.66
+  },
+  {
+   "p": "árabe",
+   "ini": 1.66,
+   "fim": 2.02
+  },
+  {
+   "p": "elegir?",
+   "ini": 2.02,
+   "fim": 2.76
+  },
+  {
+   "p": "Te",
+   "ini": 3.06,
+   "fim": 3.34
+  },
+  {
+   "p": "recomiendo",
+   "ini": 3.34,
+   "fim": 3.8
+  },
+  {
+   "p": "uno",
+   "ini": 3.8,
+   "fim": 4.32
+  },
+  {
+   "p": "para",
+   "ini": 4.32,
+   "fim": 4.88
+  },
+  {
+   "p": "cada",
+   "ini": 4.88,
+   "fim": 5.14
+  },
+  {
+   "p": "momento",
+   "ini": 5.14,
+   "fim": 5.62
+  },
+  {
+   "p": "del",
+   "ini": 5.62,
+   "fim": 5.86
+  },
+  {
+   "p": "día",
+   "ini": 5.86,
+   "fim": 6.1
+  },
+  {
+   "p": "y",
+   "ini": 6.1,
+   "fim": 6.7
+  },
+  {
+   "p": "la",
+   "ini": 6.7,
+   "fim": 6.88
+  },
+  {
+   "p": "habrá",
+   "ini": 6.88,
+   "fim": 7.38
+  },
+  {
+   "p": "para",
+   "ini": 7.38,
+   "fim": 7.76
+  },
+  {
+   "p": "cada",
+   "ini": 7.76,
+   "fim": 8.1
+  },
+  {
+   "p": "momento",
+   "ini": 8.1,
+   "fim": 8.56
+  },
+  {
+   "p": "del",
+   "ini": 8.56,
+   "fim": 8.8
+  },
+  {
+   "p": "día.",
+   "ini": 8.8,
+   "fim": 8.94
+  }
+ ]
+}

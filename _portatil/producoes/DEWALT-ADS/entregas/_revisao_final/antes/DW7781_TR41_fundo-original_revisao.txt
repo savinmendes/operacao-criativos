@@ -1,0 +1,23 @@
+REVISÃO: DW7781_TR41_fundo-original.mp4
+duração 33.47s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 17.7 MB
+decodificação: OK
+pts do áudio: 1569 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 2 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao_final\DW7781_TR41_fundo-original_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  2.40 Taladro percutor y atornillador de Walt.
+   6.00- 12.80 Trae dos baterías de 20 volts max de 2 amperes hora y su cargador y su maleta dura.
+  17.00- 22.60 La batería trae indicador de carga y el taladro tiene luz LED para ver bien dónde trabajas.
+  22.90- 27.80 15 posiciones de torque y modo percutor para muro, motor sin carbones.
+  27.80- 32.80 Pre-Black Friday, pídelo hoy y pagas recién cuando te llegue.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

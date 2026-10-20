@@ -1,0 +1,33 @@
+    0.00 +10.47 ABERTURA                     vt   0.00 z1.0
+   10.47 + 3.00 MAOS                         vt   0.80 z1.0
+   13.47 + 2.20 B04                          vt   0.00 z1.0
+   15.67 + 2.20 B05                          vt   0.00 z1.0
+   17.87 + 2.60 B06                          vt   0.40 z1.0
+   20.47 + 6.00 R01                          vt   0.04 z1.0
+   26.47 +11.40 A1                           vt   0.04 z1.0
+   37.87 + 1.40 A2a                          vt   0.04 z1.12
+   39.27 + 4.93 A2a:broll:noche              vt   0.00 z1.0
+   44.20 + 2.70 A2a                          vt   6.38 z1.12
+   46.90 + 4.50 A2b                          vt   0.10 z1.0
+   51.40 + 9.17 P1                           vt   0.04 z1.12
+   60.57 +10.33 P2                           vt   0.04 z1.0
+   70.90 + 8.43 P3                           vt   0.04 z1.12
+   79.33 + 5.87 R02                          vt   0.04 z1.0
+TOTAL 85.2 CTA 79.3497
+  [1/15]   0.00  314q ABERTURA z1.0
+  [2/15]  10.47   90q MAOS z1.0
+  [3/15]  13.47   66q B04 z1.0
+  [4/15]  15.67   66q B05 z1.0
+  [5/15]  17.87   78q B06 z1.0
+  [6/15]  20.47  180q R01 z1.0
+  [7/15]  26.47  342q A1 z1.0
+  [8/15]  37.86   42q A2a z1.12
+  [9/15]  39.28  148q A2a:broll:noche z1.0
+  [10/15]  44.20   81q A2a z1.12
+  [11/15]  46.90  135q A2b z1.0
+  [12/15]  51.39  275q P1 z1.12
+  [13/15]  60.56  310q P2 z1.0
+  [14/15]  70.90  253q P3 z1.12
+  [15/15]  79.35  176q R02 z1.0
+ok C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P0-AURELIO_FICTICIO.mp4 85.20 s
+C:\Users\PICHAU\Downloads\TESTE1-SB-ES\v5-personas\SB-ES_HUMILLACION_P0-AURELIO_FICTICIO_narracion.txt

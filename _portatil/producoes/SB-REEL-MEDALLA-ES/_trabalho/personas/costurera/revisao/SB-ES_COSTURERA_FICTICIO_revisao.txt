@@ -1,0 +1,28 @@
+REVISÃO: SB-ES_COSTURERA_FICTICIO.mp4
+duração 70.43s | 1080x1920 (9:16) | 30/1 fps | áudio: sim | 54.1 MB
+decodificação: OK
+pts do áudio: 3303 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 22 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 973-1011, x 529-663 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\SB-REEL-MEDALLA-ES\_trabalho\personas\costurera\revisao\SB-ES_COSTURERA_FICTICIO_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.00 ¡Oh glorioso San Benito! Hoy pronuncio las palabras grabadas en tu medalla.
+   6.00- 11.00 ¡Sácame de esta escasez! Si me escuchas, ayúdame.
+  14.00- 21.00 Pasé casi seis meses sin un solo encargo. Mi máquina se quedó quieta y llegué a pensar en venderla,
+  21.00- 29.00 hasta que en una transmisión en vivo un padre explicó la forma exacta de pedirle a San Benito.
+  29.00- 34.92 Ese día recupere la paz y poco a poco las puertas empezaron a abrirse.
+  34.92- 40.88 Esta es la última vez que Dios intenta hablarte de esta forma. Jesús te eligió,
+  40.88- 46.48 preparó un regalo poderoso solo para ti. En este video vas a escuchar la oración
+  46.48- 53.04 perdida de San Benito que desbloquea una lluvia de milagros, pero solo si no la rechazas otra
+  53.04- 59.64 vez toca más información ahora recibe tu milagro antes de que la puerta se cierre para
+  59.64- 65.96 siempre ahora mismo está ocurriendo una transmisión en vivo con san benito toca el botón ver
+  65.96- 69.88 más aquí abajo del vídeo y entra a rezar con nosotros
+
+=== termos proibidos ===
+(nenhuma lista passada em --proibidos)
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

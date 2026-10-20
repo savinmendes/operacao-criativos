@@ -1,0 +1,7 @@
+DESEMPLEADO - série COMPLETA (14/10/2026)
+Saída: ..\..\..\..\SB-ES_DESEMPLEADO_COMPLETA.mp4 (60,8 s, 1080x1920, 30 fps) + SB-ES_DESEMPLEADO_COMPLETA_narracion.txt
+Montagem: montar_completa.py (cópia adaptada de _trabalho/montar_completa2.py) + legenda_comp.py + cfg_comp.json. Padre/b-rolls/CTA idênticos ao Medalla COMPLETA.
+Voz: Alberto Rodríguez (l1zE9xgNpUTaQCZzpNJa), eleven_multilingual_v2 via app/tts_ctx.py. hook 84 + selfie 223 = 307 caracteres. Reza: cortes de ../reza.mp3 (sem custo).
+Flora: ver custos.txt. Total US$ 0,962. Gancho já gerado com o personagem acima do título.
+HeyGen: vídeo 37bee294c4d727b371a1dbfd2d876309 (create_video_from_image, low, 1080p), 15,76 s. Ficou ~10 min na fila.
+QA: takes a cada 0,2 s com zoom (o celular é pousado na pasta ~3 s: o trecho usado é 0–3,07 s); zoom no rosto da selfie (choro, sem sorriso, sem deformação); revisar_ad --idioma es OK; CTA único; -14,2 LUFS, TP -2,3 dBFS.

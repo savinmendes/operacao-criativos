@@ -1,0 +1,65 @@
+mobile flag no tema: True
+mobile popup: ['Oferta válida solo para 1 perfume adicional por pedido: el 50% lo asumimos nosotros 🖤', 'SOLO 1 POR PEDIDO', 'Agregar por $17,450']
+mobile popup cabe (scrollW<=W): [390, 390]
+mobile carrinho: {'total': 6735000, 'orig': 8480000, 'desc': 1745000, 'items': ['perfume-arabe-lattafa-yara-tous-100ml-edp-original 3490000->1745000 ["Black Friday +1 perfume 50%"]', 'yara 4990000->4990000 ["Black Friday +1 perfume 50%"]']}
+mobile gaveta: Subtotal | $84,800 | Descuento | −$17,450 | Total | $67,350 |  | 💵 Pago contra entrega | · | 🚚 Despacho a todo Chile |  | Pide y Paga al Recibir | Total $67,350 · pagas al recibir | Seguir comprando
+mobile linhas releasit: ['Perfume Árabe Lattafa Yara Tou => $34.900 / $17.450', 'Pack 3x1 Perfumes Árabes Mujer => $49.900']
+mobile form releasit: $34.900 | $17.450 | $49.900 | $67.350
+desktop flag no tema: True
+desktop popup: ['Oferta válida solo para 1 perfume adicional por pedido: el 50% lo asumimos nosotros 🖤', 'SOLO 1 POR PEDIDO', 'Agregar por $17,450']
+desktop popup cabe (scrollW<=W): [1440, 1440]
+desktop carrinho: {'total': 6735000, 'orig': 8480000, 'desc': 1745000, 'items': ['perfume-arabe-lattafa-yara-tous-100ml-edp-original 3490000->1745000 ["Black Friday +1 perfume 50%"]', 'yara 4990000->4990000 ["Black Friday +1 perfume 50%"]']}
+desktop gaveta: Subtotal | $84,800 | Descuento | −$17,450 | Total | $67,350 |  | 💵 Pago contra entrega | · | 🚚 Despacho a todo Chile |  | Pide y Paga al Recibir | Total $67,350 · pagas al recibir | Seguir comprando
+desktop linhas releasit: ['Perfume Árabe Lattafa Yara Tou => $34.900 / $17.450', 'Pack 3x1 Perfumes Árabes Mujer => $49.900']
+desktop form releasit: $34.900 | $17.450 | $49.900 | $67.350
+mobile linhas: ['Perfume Árabe Lattafa  => $34.900 / $17.450', 'Pack 3x1 Perfumes Árab => $49.900']
+mobile botao: ¡HACER PEDIDO AHORA!
+$67.350
+
+Paga al Recibir
+mobile apos remover kit: ['Perfume Árabe Lattafa  => $34.900'] 3490000
+mobile erros js: ["Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')"]
+desktop linhas: ['Perfume Árabe Lattafa  => $34.900 / $17.450', 'Pack 3x1 Perfumes Árab => $49.900']
+desktop botao: ¡HACER PEDIDO AHORA!
+$67.350
+
+Paga al Recibir
+desktop apos remover kit: ['Perfume Árabe Lattafa  => $34.900'] 3490000
+desktop erros js: ["Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')", "Cannot set properties of null (setting 'innerHTML')"]
+marcas v2 apos carregar: [None, None]
+botoes nos cards: 15 cards: 15
+rodada 1: popup abriu {'won': False, 'canvasOpacity': '1'}
+rodada 1: raspado -> True
+rodada 2: popup abriu {'won': False, 'canvasOpacity': '1'}
+rodada 2: raspado -> True
+rodada 3: popup abriu {'won': False, 'canvasOpacity': '1'}
+rodada 3: raspado -> True
+com unitario no carrinho, popup abriu? False
+collections/all: {"cards": 50, "comForn": ["kit-3-perfumes-arabes-mujer-yara-yara-moi-yara-candy-lattafa-100ml", "kit-3-perfumes-arabes-mujer-yara-yara-moi-yara-elixir-lattafa-100ml"], "botoes": []}
+erros js: ["Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared", "Unexpected token '}'", "Cannot read properties of null (reading 'closest')", 'Failed to fetch', "Identifier '_0x54d0d7' has already been declared"]
+mobile flag no tema: True
+mobile popup: ['Oferta válida solo para 1 perfume adicional por pedido: el 50% lo asumimos nosotros 🖤', 'SOLO 1 POR PEDIDO', 'Agregar por $17,450']
+mobile popup cabe (scrollW<=W): [390, 390]
+mobile carrinho: {'total': 6735000, 'orig': 8480000, 'desc': 1745000, 'items': ['perfume-arabe-lattafa-yara-tous-100ml-edp-original 3490000->1745000 ["Black Friday +1 perfume 50%"]', 'yara 4990000->4990000 ["Black Friday +1 perfume 50%"]']}
+mobile gaveta: Subtotal | $84,800 | Descuento | −$17,450 | Total | $67,350 |  | 💵 Pago contra entrega | · | 🚚 Despacho a todo Chile |  | Pide y Paga al Recibir | Total $67,350 · pagas al recibir | Seguir comprando
+mobile linhas releasit: ['Perfume Árabe Lattafa Yara Tou => $34.900 / $17.450', 'Pack 3x1 Perfumes Árabes Mujer => $49.900']
+mobile form releasit: $34.900 | $17.450 | $49.900 | $67.350
+desktop flag no tema: True
+desktop popup: ['Oferta válida solo para 1 perfume adicional por pedido: el 50% lo asumimos nosotros 🖤', 'SOLO 1 POR PEDIDO', 'Agregar por $17,450']
+desktop popup cabe (scrollW<=W): [1440, 1440]
+desktop carrinho: {'total': 6735000, 'orig': 8480000, 'desc': 1745000, 'items': ['perfume-arabe-lattafa-yara-tous-100ml-edp-original 3490000->1745000 ["Black Friday +1 perfume 50%"]', 'yara 4990000->4990000 ["Black Friday +1 perfume 50%"]']}
+desktop gaveta: Subtotal | $84,800 | Descuento | −$17,450 | Total | $67,350 |  | 💵 Pago contra entrega | · | 🚚 Despacho a todo Chile |  | Pide y Paga al Recibir | Total $67,350 · pagas al recibir | Seguir comprando
+desktop linhas releasit: ['Perfume Árabe Lattafa Yara Tou => $34.900 / $17.450', 'Pack 3x1 Perfumes Árabes Mujer => $49.900']
+desktop form releasit: $34.900 | $17.450 | $49.900 | $67.350
+mobile linhas: ['Perfume Árabe Lattafa  => $34.900 / $17.450', 'Pack 3x1 Perfumes Árab => $49.900']
+mobile botao: ¡HACER PEDIDO AHORA!
+$67.350
+
+Paga al Recibir
+mobile apos remover kit: ['Perfume Árabe Lattafa  => $34.900'] 3490000
+desktop linhas: ['Perfume Árabe Lattafa  => $34.900 / $17.450', 'Pack 3x1 Perfumes Árab => $49.900']
+desktop botao: ¡HACER PEDIDO AHORA!
+$67.350
+
+Paga al Recibir
+desktop apos remover kit: ['Perfume Árabe Lattafa  => $34.900'] 3490000

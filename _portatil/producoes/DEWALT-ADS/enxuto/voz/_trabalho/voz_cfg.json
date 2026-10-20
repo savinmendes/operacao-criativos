@@ -1,0 +1,126 @@
+{
+ "itens": [
+  {
+   "id": "corpo_c2",
+   "voz_id": "ZuuXsIgssLuaZ8Slz3yX",
+   "velocidade": 1.0,
+   "cauda": 0.4,
+   "segmentos": [
+    {
+     "texto": "Si tu taladro no es percutor, en el muro se queda girando y no avanza.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Este taladro sí es percutor: giras el anillo hasta el martillo,",
+     "tts": "Este taladro sí es percutor: giras el anillo hasta el martillo,",
+     "pausa": 0.22
+    },
+    {
+     "texto": "y con broca de concreto, entra en el muro sin pelear.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "En modo taladro, pasa limpio por madera y metal.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Motor sin carbones, veinte volts MAX.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Y trae dos baterías de dos amperes hora: con una trabajas, y la otra se va cargando.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Más el cargador y su maleta, todo en un solo kit.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+     "tts": "Aprovecha el Pre Black Friday. Pídelo hoy, y pagas recién cuando te llegue. Envío a todo Chile.",
+     "pausa": 0.22
+    }
+   ]
+  },
+  {
+   "id": "corpo_c7",
+   "voz_id": "ZuuXsIgssLuaZ8Slz3yX",
+   "velocidade": 1.0,
+   "cauda": 0.4,
+   "segmentos": [
+    {
+     "texto": "Con el anillo eliges entre quince posiciones de torque.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Así el tornillo queda justo, sin pasarlo y sin dañar la madera.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Tiene dos velocidades: una para atornillar y otra para perforar, hasta mil setecientas cincuenta revoluciones.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Con el gatillo de velocidad variable, controlas cada vuelta.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Motor sin carbones: más eficiencia y menos mantención.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Y luz led, para ver en los rincones oscuros.",
+     "tts": "Y luz led, para ver en los rincones oscuros.",
+     "pausa": 0.22
+    },
+    {
+     "texto": "Trae dos baterías con indicador de carga, cargador y maleta.",
+     "tts": null,
+     "pausa": 0.22
+    },
+    {
+     "texto": "Aprovecha el Pre Black Friday: pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+     "tts": "Aprovecha el Pre Black Friday. Pídelo hoy, y pagas recién cuando te llegue. Envío a todo Chile.",
+     "pausa": 0.22
+    }
+   ]
+  },
+  {
+   "id": "gancho_muro",
+   "voz_id": "ZuuXsIgssLuaZ8Slz3yX",
+   "velocidade": 1.0,
+   "cauda": 0.15,
+   "segmentos": [
+    {
+     "texto": "¿Tu taladro no entra al muro? Mira esto.",
+     "tts": null,
+     "pausa": 0.22
+    }
+   ]
+  },
+  {
+   "id": "gancho_anel",
+   "voz_id": "ZuuXsIgssLuaZ8Slz3yX",
+   "velocidade": 1.0,
+   "cauda": 0.15,
+   "segmentos": [
+    {
+     "texto": "Quince posiciones de torque: nunca más pasas un tornillo.",
+     "tts": null,
+     "pausa": 0.22
+    }
+   ]
+  }
+ ]
+}

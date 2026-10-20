@@ -1,0 +1,34 @@
+REVISÃO: B3 - ORILLA-SOLA-ES-CL.mp4
+duração 37.77s | 720x1280 | 30/1 fps | áudio: sim | 25.0 MB
+decodificação: OK
+pts do áudio: 1771 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 33.52-37.74
+cortes de cena: 10 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\B\revisao\B3 - ORILLA-SOLA-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  3.00 Esto lo hice en una tarde y sola.
+   3.00-  6.00 Mira, dos baterías, ruedas y cuatro cabezones.
+   6.00-  8.00 Las ruedas hacen más ligero el trabajo.
+   8.00- 10.00 Una pasada y mira la diferencia.
+  10.00- 13.00 El cabezo también se ajusta y deja la orida bien pareja.
+  13.00- 15.00 Sí valió la pena.
+  15.00- 17.00 Pícale aquí abajo.
+  17.00- 18.00 Ya ni se venía la orilla.
+  18.00- 19.00 Sigue viendo.
+  19.00- 22.00 Mira, dos baterías, ruedas y cuatro cabezones.
+  22.00- 24.00 Las ruedas hacen más ligero el trabajo.
+  24.00- 26.00 Una pasada y mira la diferencia.
+  26.00- 29.00 El cabezo también se ajusta y deja la orida bien pareja.
+  29.00- 32.28 pareja si valió la pena pícale aquí abajo
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: silêncio de 4.25s no fim (a partir de 33.52s)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+aviso: última fala termina em 32.3s; vídeo vai até 37.8s
+1 problema(s)

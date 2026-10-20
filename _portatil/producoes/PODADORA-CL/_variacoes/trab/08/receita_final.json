@@ -1,0 +1,40 @@
+{
+ "saida": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\AD 08 - PODADORA-INALAMBRICA-PERRO-KIT-ES-CL.mp4",
+ "estilo": "drop",
+ "corpo": "C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_variacoes\\trab\\08\\corpo.mp4",
+ "legenda": {
+  "fonte": "alinhamento:C:\\Users\\PICHAU\\Downloads\\PODADORA-CL\\_variacoes\\trab\\08\\alinhamento.json",
+  "chaves": [
+   "podadora",
+   "ruedas",
+   "baterías",
+   "batería",
+   "metal",
+   "gratis",
+   "recibir",
+   "noventa",
+   "garantía",
+   "toca",
+   "inalámbrica",
+   "caja",
+   "cuchilla"
+  ]
+ },
+ "selo": {
+  "linhas": [
+   "DESPACHO GRATIS A DOMICILIO",
+   "PAGO CONTRA",
+   "ENTREGA",
+   "¡PAGAS AL RECIBIR!"
+  ],
+  "x": 160,
+  "y": 1110,
+  "desde": 32.73
+ },
+ "cta": {
+  "palavra": "toca",
+  "y": 1490
+ },
+ "limite_mb": 30,
+ "resolucao": "720"
+}

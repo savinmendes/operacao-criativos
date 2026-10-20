@@ -1,0 +1,2 @@
+{"audio_identico": true, "duracao_igual": true, "fora_dos_takes": {"quadros": 1841, "psnr_min": 37.19, "psnr_medio": 42.69, "px40_max": 56, "px40_medio": 1.37, "quadro_px40_max": 1736, "t_px40_max": 57.87}, "parte1_fora_dos_takes": {"quadros": 1227, "px40_max": 41, "t_px40_max": 16.1, "quadros_com_px40>50": 0}, "parte1_dentro_dos_takes": {"quadros": 165, "px40_medio": 437.6}}
+{"quadros": 165, "psnr_medio": 38.37, "px40_medio": 433.6, "px40_max": 3955}

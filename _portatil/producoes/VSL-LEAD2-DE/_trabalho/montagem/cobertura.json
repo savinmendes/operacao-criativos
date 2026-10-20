@@ -1,0 +1,299 @@
+[
+ {
+  "novo_ini": 569.335,
+  "novo_fim": 573.835,
+  "src_ini": 206.2,
+  "broll": "igreja geral (nave)",
+  "trechos": "L058",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 573.835,
+  "novo_fim": 575.93,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L058",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 579.0,
+  "novo_fim": 582.55,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L059",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 582.55,
+  "novo_fim": 585.5,
+  "src_ini": 2146.4,
+  "broll": "estatua B",
+  "trechos": "L059",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 585.5,
+  "novo_fim": 586.935,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L059",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 590.15,
+  "novo_fim": 592.935,
+  "src_ini": 211.0,
+  "broll": "igreja geral (nave)",
+  "trechos": "L060",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 666.153,
+  "novo_fim": 670.653,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L070",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 670.653,
+  "novo_fim": 674.203,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L070",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 674.203,
+  "novo_fim": 675.414,
+  "src_ini": 582.4,
+  "broll": "estatua A",
+  "trechos": "L070",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 718.511,
+  "novo_fim": 722.661,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L077",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 722.661,
+  "novo_fim": 727.161,
+  "src_ini": 214.085,
+  "broll": "igreja geral (nave)",
+  "trechos": "L077",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 727.161,
+  "novo_fim": 729.961,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L077",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 734.786,
+  "novo_fim": 738.336,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L079",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 738.336,
+  "novo_fim": 740.886,
+  "src_ini": 582.4,
+  "broll": "estatua A",
+  "trechos": "L079",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 740.886,
+  "novo_fim": 743.239,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L079",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 837.737,
+  "novo_fim": 842.237,
+  "src_ini": 206.2,
+  "broll": "igreja geral (nave)",
+  "trechos": "L091",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 842.237,
+  "novo_fim": 843.635,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L091",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 896.572,
+  "novo_fim": 899.906,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L098",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 938.542,
+  "novo_fim": 941.092,
+  "src_ini": 582.4,
+  "broll": "estatua A",
+  "trechos": "L103",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 941.092,
+  "novo_fim": 944.441,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L103",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 999.669,
+  "novo_fim": 1004.169,
+  "src_ini": 211.0,
+  "broll": "igreja geral (nave)",
+  "trechos": "L110",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 1004.169,
+  "novo_fim": 1005.567,
+  "src_ini": 454.298,
+  "broll": "altar ao longe",
+  "trechos": "L110",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 1412.035,
+  "novo_fim": 1413.035,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L160",
+  "motivo": "pausas",
+  "zoom": false
+ },
+ {
+  "novo_ini": 1558.024,
+  "novo_fim": 1560.574,
+  "src_ini": 582.4,
+  "broll": "estatua A",
+  "trechos": "L178",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 1560.574,
+  "novo_fim": 1564.119,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L178",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 1564.119,
+  "novo_fim": 1565.319,
+  "src_ini": 215.8,
+  "broll": "igreja geral (nave)",
+  "trechos": "L178",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": false
+ },
+ {
+  "novo_ini": 2122.551,
+  "novo_fim": 2124.581,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L244",
+  "motivo": "apos 5,27 s (mao no rosto) ate o crucifixo",
+  "zoom": false
+ },
+ {
+  "novo_ini": 2274.35,
+  "novo_fim": 2278.85,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L261",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": true
+ },
+ {
+  "novo_ini": 2278.85,
+  "novo_fim": 2280.257,
+  "src_ini": 582.4,
+  "broll": "estatua A",
+  "trechos": "L261",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": true
+ },
+ {
+  "novo_ini": 2280.257,
+  "novo_fim": 2281.457,
+  "src_ini": 2149.6,
+  "broll": "igreja + altar",
+  "trechos": "L261",
+  "motivo": "trecho inteiro (sem pausa medivel)",
+  "zoom": true
+ },
+ {
+  "novo_ini": 2293.537,
+  "novo_fim": 2296.453,
+  "src_ini": 217.3,
+  "broll": "igreja geral (nave)",
+  "trechos": "L263",
+  "motivo": "pausas",
+  "zoom": true
+ },
+ {
+  "novo_ini": 2387.133,
+  "novo_fim": 2389.957,
+  "src_ini": 452.6,
+  "broll": "altar ao longe",
+  "trechos": "L274",
+  "motivo": "pausas",
+  "zoom": true
+ },
+ {
+  "novo_ini": 2389.957,
+  "novo_fim": 2391.157,
+  "src_ini": 278.4,
+  "broll": "pulpito vazio A",
+  "trechos": "L274",
+  "motivo": "pausas",
+  "zoom": true
+ }
+]

@@ -1,0 +1,110 @@
+{
+ "G5 - presentadora de noticiero (ancla TV)": {
+  "voice_id": "7nCYbNPCi8RLAKVnYEoO",
+  "nome": "LUISA - PRESENTADORA NOTICIAS (biblioteca, es-latin)",
+  "modelo": "eleven_multilingual_v2",
+  "agente": "gancho_g5"
+ },
+ "padre_capturado_alejandro (G1 grito)": {
+  "voice_id": "sKgg4MPUDBy69X7iv3fA",
+  "modelo": "eleven_v3",
+  "agente": "g1g3"
+ },
+ "senhora_65_escadaria (G3)": {
+  "voice_id": "aYQAm4rWuigkeuRA5i92",
+  "nome": "Grandma Aurora (biblioteca, latin american)",
+  "modelo": "eleven_v3",
+  "agente": "g1g3",
+  "take_usado": "g3_senhora_a.mp3 (eleven_v3, '[gritando, llorando, desesperada]')"
+ },
+ "padre_capturado_alejandro (corpo: selfie chorando)": {
+  "voice_id": "sKgg4MPUDBy69X7iv3fA",
+  "nome": "Alejandro Duran",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stability 0.3, style 0.6 (testado eleven_v3 [llorando]: timbre diferente das falas vizinhas do v4, descartado)",
+  "agente": "corpo"
+ },
+ "padre_juan_mendez (corpo: avatar novo, rosto da página)": {
+  "voice_id": "BskzYZ6zvapoZ3mBu93C",
+  "nome": "clone padre de roxo do v4",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stability 0.5, style 0",
+  "avatar": "HeyGen Avatar IV 720p a partir de corpo/_trab/avatar/jm_b.png (gpt-image-2.5-sunburst sobre _ref/padre_juan_mendez_PAGINA.png)",
+  "agente": "corpo"
+ },
+ "reportera_ranking01 (repórter da calçada, rosto do original + lipsync)": {
+  "voice_id": "ODO4sbmD3pTjhgRVVRP6",
+  "nome": "Sara - Warm, Clear and Engaging (biblioteca, latin american, young)",
+  "modelo": "eleven_multilingual_v2",
+  "agente": "ranking01"
+ },
+ "dueno_restaurante_ranking01 (~60, rosto do original + lipsync)": {
+  "voice_id": "N2HSRirbsHTZ8DE2WqjB",
+  "nome": "Arturo Casares - Smooth, Rich and Tender (biblioteca, latin american, old)",
+  "modelo": "eleven_multilingual_v2",
+  "agente": "ranking01"
+ },
+ "padre_juan_mendez (ranking01: cenário do frade, microfone)": {
+  "voice_id": "BskzYZ6zvapoZ3mBu93C",
+  "nome": "clone padre de roxo do v4",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.30, style 0.55, speed 1.05 (igual VIDEO 04)",
+  "agente": "ranking01"
+ },
+ "jefe_tienda_ranking02 (patrão gritando, rosto do original + lipsync)": {
+  "voice_id": "JjHBC66wF58p4ogebCNA",
+  "nome": "Eduardo - Persuasive and Neutral (biblioteca, latin american, intense) — já na conta (limite 160, sem adicionar)",
+  "modelo": "eleven_v3",
+  "settings": "stability 0.0 (Creative), tags [furious] [shouting], atempo 1.08 na edição",
+  "agente": "ranking02"
+ },
+ "mujer_selfie_ranking02 (~40, avatar novo nítido)": {
+  "voice_id": "cIBxLwfshLYhRB9lCXEg",
+  "nome": "Carolina - Conversational, Balanced (biblioteca, latin american, middle_aged) — já na conta",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.45 style 0.35 (M4 feliz: stab 0.40 style 0.55)",
+  "agente": "ranking02"
+ },
+ "padre_juan_mendez (ranking02: cenário do padre julio, microfone)": {
+  "voice_id": "BskzYZ6zvapoZ3mBu93C",
+  "nome": "clone padre de roxo do v4",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.30, style 0.55, speed 1.05 (igual Ranking 01)",
+  "agente": "ranking02"
+ },
+ "mujer_ranking03 (~38, chroma + selfie nova, despedida-camara)": {
+  "voice_id": "hHjbwzYZW17oh0p05AKv",
+  "nome": "Gabriela - Spanish from Mexico Professional Voice (biblioteca, mexican, middle_aged) — já na conta, diferente da Carolina do R02",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.40 style 0.50",
+  "agente": "ranking03"
+ },
+ "padre_juan_mendez (ranking03: cenário do padre paulo, microfone)": {
+  "voice_id": "BskzYZ6zvapoZ3mBu93C",
+  "nome": "clone padre de roxo do v4",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.30, style 0.55, speed 1.05 (igual Ranking 01/02)",
+  "agente": "ranking03"
+ },
+ "apresentadora_ranking04 (PIP do gancho, avatar novo nítido)": {
+  "voice_id": "7nCYbNPCi8RLAKVnYEoO",
+  "nome": "LUISA - PRESENTADORA NOTICIAS (biblioteca, es-latin) — já na conta",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.35 style 0.55 speed 1.05; de-esser + highshelf -7 dB no trecho",
+  "agente": "ranking04"
+ },
+ "senhor_testimonio_ranking04 (~70, sofá, avatar novo anônimo)": {
+  "voice_id": "wfTWLJ20rcMqvU8gIiAB",
+  "nome": "Salvatore - Conversations & Storyteller (biblioteca, latin american, old) — já na conta",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.45 style 0.35; de-esser + highshelf -5 dB no trecho",
+  "agente": "ranking04"
+ },
+ "padre_juan_mendez (ranking04: cenário da catedral do bispo original, microfone de lapela)": {
+  "voice_id": "BskzYZ6zvapoZ3mBu93C",
+  "nome": "clone padre de roxo do v4",
+  "modelo": "eleven_multilingual_v2",
+  "settings": "stab 0.30, style 0.55, speed 1.05 (igual R01/R02)",
+  "agente": "ranking04"
+ }
+}

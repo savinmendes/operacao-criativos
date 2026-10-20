@@ -1,0 +1,496 @@
+{
+ "url": "https://www.notino.es/perfumes/",
+ "title": "Perfumes online a precios únicos | Comprar perfumes | notino.es",
+ "cardsFound": 29,
+ "firstCardRect": {
+  "x": 8,
+  "y": 714,
+  "w": 187,
+  "h": 521
+ },
+ "firstImgRect": {
+  "x": 80,
+  "y": 746,
+  "w": 43,
+  "h": 160
+ },
+ "columns": 2,
+ "cardRects": [
+  {
+   "x": 8,
+   "y": 714,
+   "w": 187,
+   "h": 521
+  },
+  {
+   "x": 195,
+   "y": 714,
+   "w": 187,
+   "h": 521
+  },
+  {
+   "x": 8,
+   "y": 1267,
+   "w": 187,
+   "h": 472
+  },
+  {
+   "x": 195,
+   "y": 1267,
+   "w": 187,
+   "h": 472
+  },
+  {
+   "x": 8,
+   "y": 1771,
+   "w": 187,
+   "h": 371
+  },
+  {
+   "x": 195,
+   "y": 1771,
+   "w": 187,
+   "h": 371
+  },
+  {
+   "x": 8,
+   "y": 2174,
+   "w": 187,
+   "h": 512
+  },
+  {
+   "x": 195,
+   "y": 2174,
+   "w": 187,
+   "h": 512
+  }
+ ],
+ "colGap": 0,
+ "rowGap": 32,
+ "sidePaddingLeft": 8,
+ "sidePaddingRight": 212,
+ "cardTexts": [
+  {
+   "tag": "SPAN",
+   "text": "Sol de Janeiro",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 171,
+   "relY": 232
+  },
+  {
+   "tag": "SPAN",
+   "text": "Cheirosa '39",
+   "fs": "16px",
+   "fw": "500",
+   "ff": "Roboto",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 171,
+   "relY": 254
+  },
+  {
+   "tag": "SPAN",
+   "text": "Bruma perfumada corporal y capilar",
+   "fs": "14px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 40,
+   "w": 171,
+   "relY": 278
+  },
+  {
+   "tag": "SPAN",
+   "text": "4,0",
+   "fs": "12px",
+   "fw": "500",
+   "ff": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "normal",
+   "clamp": "none",
+   "h": 14,
+   "w": 16,
+   "relY": 327
+  },
+  {
+   "tag": "SPAN",
+   "text": "( 2 )",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+   "color": "rgb(107, 107, 107)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "normal",
+   "clamp": "none",
+   "h": 14,
+   "w": 15,
+   "relY": 327
+  },
+  {
+   "tag": "SPAN",
+   "text": "240 ml",
+   "fs": "10px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgb(255, 255, 255)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "12px",
+   "clamp": "none",
+   "h": 18,
+   "w": 41,
+   "relY": 349
+  },
+  {
+   "tag": "SPAN",
+   "text": "90 ml",
+   "fs": "10px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgb(255, 255, 255)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "12px",
+   "clamp": "none",
+   "h": 18,
+   "w": 35,
+   "relY": 349
+  },
+  {
+   "tag": "SPAN",
+   "text": "desde",
+   "fs": "14px",
+   "fw": "700",
+   "ff": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 42,
+   "relY": 375
+  },
+  {
+   "tag": "SPAN",
+   "text": "21,50",
+   "fs": "16px",
+   "fw": "700",
+   "ff": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 41,
+   "relY": 374
+  },
+  {
+   "tag": "SPAN",
+   "text": "€",
+   "fs": "14px",
+   "fw": "700",
+   "ff": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 12,
+   "relY": 375
+  },
+  {
+   "tag": "DIV",
+   "text": "en compras de productos de esta categoría superiores a",
+   "fs": "14px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 80,
+   "w": 171,
+   "relY": 412
+  },
+  {
+   "tag": "STRONG",
+   "text": "- 15 %",
+   "fs": "14px",
+   "fw": "700",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 17,
+   "w": 39,
+   "relY": 413
+  },
+  {
+   "tag": "SPAN",
+   "text": "10,00 €",
+   "fs": "14px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(71, 71, 71)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 17,
+   "w": 46,
+   "relY": 473
+  },
+  {
+   "tag": "DIV",
+   "text": "Este producto está recomendado y patrocinado por nuestro socio comercial.",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "16px",
+   "clamp": "none",
+   "h": 100,
+   "w": 100,
+   "relY": 375
+  },
+  {
+   "tag": "DIV",
+   "text": "Patrocinado",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Roboto",
+   "color": "rgb(107, 107, 107)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "tt": "none",
+   "td": "none",
+   "ta": "start",
+   "lh": "20px",
+   "clamp": "none",
+   "h": 20,
+   "w": 83,
+   "relY": 500
+  }
+ ],
+ "cardButtons": [],
+ "ratingPresent": false,
+ "h1": {
+  "text": "Perfumes",
+  "ff": "Roboto",
+  "fs": "20px",
+  "fw": "500",
+  "tt": "none",
+  "x": 16,
+  "y": 125,
+  "w": 358,
+  "h": 24
+ },
+ "bodyFont": "Roboto, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+ "bodyFs": "16px",
+ "h2Font": "Roboto",
+ "header": {
+  "x": 0,
+  "y": 0,
+  "w": 390,
+  "h": 109,
+  "position": "static"
+ },
+ "chipRows": [
+  {
+   "x": 0,
+   "y": 564,
+   "w": 390,
+   "h": 32,
+   "sample": "Todo Perfumes para mujer Perfumes para hombre Perfumes unisex Lotes de regalo Cosméticos perfumados Perfumes para bebés ",
+   "chipH": 32,
+   "chipFs": "12px",
+   "chipRadius": "2px",
+   "chipBg": "rgb(255, 255, 255)",
+   "chipBorder": "1px solid rgb(0, 0, 0)"
+  },
+  {
+   "x": 0,
+   "y": 608,
+   "w": 390,
+   "h": 36,
+   "sample": "Filtros Precio Embalaje Marca Tipo de fragancia Regalos y ofertas Evaluación",
+   "chipH": null,
+   "chipFs": null,
+   "chipRadius": null,
+   "chipBg": null,
+   "chipBorder": null
+  },
+  {
+   "x": 16,
+   "y": 17937,
+   "w": 358,
+   "h": 78,
+   "sample": "Mejores perfumes mujer Mejores perfumes hombre Atomizador de perfume recargable Perfume para el pelo Perfume vainilla Pe",
+   "chipH": null,
+   "chipFs": null,
+   "chipRadius": null,
+   "chipBg": null,
+   "chipBorder": null
+  }
+ ],
+ "filterControls": [
+  {
+   "text": "Filtros",
+   "tag": "SPAN",
+   "x": 16,
+   "y": 608,
+   "w": 99,
+   "h": 36,
+   "fs": "14px"
+  }
+ ],
+ "productCount": [],
+ "longTexts": [
+  {
+   "len": 12713,
+   "x": 0,
+   "y": 8237,
+   "w": 390,
+   "h": 9924,
+   "start": "Descubre el mundo de los perfumes\n\nAdéntrate con nosotros en el mundo de las fragancias y ",
+   "hidden": false
+  },
+  {
+   "len": 12713,
+   "x": 0,
+   "y": 8237,
+   "w": 390,
+   "h": 9924,
+   "start": "Descubre el mundo de los perfumes\n\nAdéntrate con nosotros en el mundo de las fragancias y ",
+   "hidden": false
+  },
+  {
+   "len": 325,
+   "x": 16,
+   "y": 8707,
+   "w": 358,
+   "h": 196,
+   "start": "En Notino hacemos todo lo posible para facilitarte la elección de tu perfume ideal. Los fi",
+   "hidden": false
+  },
+  {
+   "len": 406,
+   "x": 16,
+   "y": 9422,
+   "w": 358,
+   "h": 252,
+   "start": "Las fragancias nos acompañan a lo largo de toda la vida. Son capaces de levantar nuestro e",
+   "hidden": false
+  }
+ ],
+ "docHeight": 19983,
+ "stickyAtTop": [
+  {
+   "tag": "DIV",
+   "cls": "ZoDYwQRQB3xhqwkNrFKA s11pXLLVABKaMVkuqF84",
+   "pos": "fixed",
+   "top": 0,
+   "h": 44,
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "m1m6lh4p",
+   "pos": "sticky",
+   "top": 548,
+   "h": 52,
+   "text": "Todo Perfumes para mujer Perfumes para hombre Perfumes unisex Lotes de regalo Cosméticos perfumados "
+  },
+  {
+   "tag": "DIV",
+   "cls": "s1xw71ld",
+   "pos": "sticky",
+   "top": 600,
+   "h": 57,
+   "text": "Filtros Precio Embalaje Marca Tipo de fragancia Regalos y ofertas Evaluación"
+  }
+ ],
+ "stickyAfterScroll1500": [
+  {
+   "tag": "DIV",
+   "cls": "ZoDYwQRQB3xhqwkNrFKA s11pXLLVABKaMVkuqF84",
+   "pos": "fixed",
+   "top": 0,
+   "h": 44,
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "m1m6lh4p",
+   "pos": "sticky",
+   "top": 45,
+   "h": 64,
+   "text": "Todo Perfumes para mujer Perfumes para hombre Perfumes unisex Lotes de regalo Cosméticos perfumados "
+  },
+  {
+   "tag": "DIV",
+   "cls": "s1xw71ld",
+   "pos": "sticky",
+   "top": 97,
+   "h": 56,
+   "text": "Filtros Precio Embalaje Marca Tipo de fragancia Regalos y ofertas Evaluación"
+  }
+ ],
+ "site": "notino",
+ "headless": true,
+ "viewport": "390x844 @2x"
+}

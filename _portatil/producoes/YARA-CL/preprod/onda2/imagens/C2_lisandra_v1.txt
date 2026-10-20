@@ -1,0 +1,4 @@
+node 56264f37-13a7-4153-897d-4a795725756b
+run run_m171ct0aa8tsdspgjj5m76m8158g09xm
+custo 0.273
+modelo is2i-gpt-image-2 1k high 9:16

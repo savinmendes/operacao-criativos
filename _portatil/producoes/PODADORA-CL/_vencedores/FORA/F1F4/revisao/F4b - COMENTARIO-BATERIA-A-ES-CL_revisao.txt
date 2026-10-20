@@ -1,0 +1,41 @@
+REVISÃO: F4b - COMENTARIO-BATERIA-A-ES-CL.mp4
+duração 53.40s | 720x1280 | 30/1 fps | áudio: sim | 25.2 MB
+decodificação: OK
+pts do áudio: 2502 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 52.61-53.40
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 929-1075, x 156-563 | no último quadro: sim | faixa escura do rodapé: 1136-1194
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PODADORA-CL\_vencedores\FORA\F1F4\revisao\F4b - COMENTARIO-BATERIA-A-ES-CL_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.00 ¿Cuánto dura la batería? Trae dos baterías. Si una se acaba, pones la otra y sigues.
+   6.00-  9.00 ¿Quién inventó esto? Merece un aumento.
+   9.00- 17.00 Si todavía andas arrastrando un cortapasto pesado o peleando con esas desbrosadoras que se traban, mira esto.
+  17.00- 21.00 Es cortapasto, orilladora y bordeadora en uno.
+  21.00- 27.00 Y ojo, pesa unos cuatro kilos y medio y tiene ruedas, así que la puedes usar con una sola mano.
+  27.00- 31.00 Olvídate de esos hilos de plástico que se cortan a cada rato.
+  31.00- 34.00 Esta usa una cuchilla de metal reforzada.
+  34.00- 40.00 Es inalámbrica, trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  40.00- 44.00 Rápida, fácil y mucho más práctica de lo que imaginaba.
+  44.00- 48.00 Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  48.00- 53.00 Toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== termos proibidos ===
+nenhum
+
+=== transcrição residual (en) ===
+   0.00-  6.00    Cuanto dura la batería? Trae dos baterías. Si una se acaba, pones la otra y sigues.
+   6.00-  9.00    Quien inventó esto merece un aumento.
+   9.00- 17.00    Si todavía andas arrastrando un cortapasto pesado o peleando con esas desbrosadoras que se traban, mira esto.
+  17.00- 21.00    Es cortapasto, orilladora y bordeadora en uno.
+  21.00- 27.00    Y, ojo, pesa unos cuatro kilos y medio y tiene ruedas, así que la puedes usar con una sola mano.
+  27.00- 31.00    Olvidate de esos hilos de plástico que se cortan a cada rato.
+  31.00- 34.00    Esta usa una cuchilla de metal reforzada.
+  34.00- 40.00    Es inalámbrica, trae dos baterías de 21 voltios y solo aprietas un botón y listo.
+  40.00- 44.00    Rápida, fácil y mucho más práctica de lo que imaginaba.
+  44.00- 48.00    Despacho gratis, pagas al recibir y tienes 90 días de garantía.
+  48.00- 53.00    Toca el botón de abajo y pide tu podadora inalámbrica de césped con ruedas.
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

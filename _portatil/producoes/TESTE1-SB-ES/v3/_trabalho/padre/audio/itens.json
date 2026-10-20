@@ -1,0 +1,1688 @@
+{
+ "P01": {
+  "arquivo": "P01.wav",
+  "texto": "Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido.",
+  "tts": null,
+  "dur": 3.953,
+  "palavras": [
+   {
+    "w": "Presten",
+    "ini": 0.058,
+    "fim": 0.36
+   },
+   {
+    "w": "mucha",
+    "ini": 0.406,
+    "fim": 0.615
+   },
+   {
+    "w": "atención,",
+    "ini": 0.639,
+    "fim": 1.091
+   },
+   {
+    "w": "porque",
+    "ini": 1.115,
+    "fim": 1.335
+   },
+   {
+    "w": "posiblemente",
+    "ini": 1.382,
+    "fim": 1.939
+   },
+   {
+    "w": "este",
+    "ini": 1.962,
+    "fim": 2.125
+   },
+   {
+    "w": "video",
+    "ini": 2.171,
+    "fim": 2.45
+   },
+   {
+    "w": "saldrá",
+    "ini": 2.496,
+    "fim": 2.786
+   },
+   {
+    "w": "del",
+    "ini": 2.821,
+    "fim": 2.914
+   },
+   {
+    "w": "aire",
+    "ini": 2.961,
+    "fim": 3.111
+   },
+   {
+    "w": "muy",
+    "ini": 3.158,
+    "fim": 3.274
+   },
+   {
+    "w": "rápido.",
+    "ini": 3.332,
+    "fim": 3.773
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.773,
+    3.953
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ },
+ "V01": {
+  "arquivo": "vo_V01.wav",
+  "texto": "No quieren que tengas acceso a esto, porque es una oración muy poderosa.",
+  "tts": null,
+  "dur": 4.162,
+  "palavras": [
+   {
+    "w": "No",
+    "ini": 0.035,
+    "fim": 0.197
+   },
+   {
+    "w": "quieren",
+    "ini": 0.279,
+    "fim": 0.569
+   },
+   {
+    "w": "que",
+    "ini": 0.615,
+    "fim": 0.685
+   },
+   {
+    "w": "tengas",
+    "ini": 0.731,
+    "fim": 0.987
+   },
+   {
+    "w": "acceso",
+    "ini": 1.033,
+    "fim": 1.382
+   },
+   {
+    "w": "a",
+    "ini": 1.428,
+    "fim": 1.451
+   },
+   {
+    "w": "esto,",
+    "ini": 1.509,
+    "fim": 1.892
+   },
+   {
+    "w": "porque",
+    "ini": 2.125,
+    "fim": 2.403
+   },
+   {
+    "w": "es",
+    "ini": 2.426,
+    "fim": 2.473
+   },
+   {
+    "w": "una",
+    "ini": 2.531,
+    "fim": 2.659
+   },
+   {
+    "w": "oración",
+    "ini": 2.694,
+    "fim": 3.053
+   },
+   {
+    "w": "muy",
+    "ini": 3.123,
+    "fim": 3.332
+   },
+   {
+    "w": "poderosa.",
+    "ini": 3.379,
+    "fim": 3.982
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    1.892,
+    2.125
+   ],
+   [
+    3.982,
+    4.162
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "P02": {
+  "arquivo": "P02.wav",
+  "texto": "Repitan conmigo.",
+  "tts": null,
+  "dur": 1.178,
+  "palavras": [
+   {
+    "w": "Repitan",
+    "ini": 0.07,
+    "fim": 0.453
+   },
+   {
+    "w": "conmigo.",
+    "ini": 0.499,
+    "fim": 0.998
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    0.998,
+    1.178
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ },
+ "P03": {
+  "arquivo": "P03.wav",
+  "texto": "Esta es la poderosísima oración de las doce palabras del Grimorio Sagrado y Secreto de San Benito.",
+  "tts": null,
+  "dur": 5.946,
+  "palavras": [
+   {
+    "w": "Esta",
+    "ini": 0.046,
+    "fim": 0.372
+   },
+   {
+    "w": "es",
+    "ini": 0.453,
+    "fim": 0.522
+   },
+   {
+    "w": "la",
+    "ini": 0.592,
+    "fim": 0.673
+   },
+   {
+    "w": "poderosísima",
+    "ini": 0.743,
+    "fim": 1.544
+   },
+   {
+    "w": "oración",
+    "ini": 1.579,
+    "fim": 1.939
+   },
+   {
+    "w": "de",
+    "ini": 1.974,
+    "fim": 2.02
+   },
+   {
+    "w": "las",
+    "ini": 2.067,
+    "fim": 2.194
+   },
+   {
+    "w": "doce",
+    "ini": 2.241,
+    "fim": 2.438
+   },
+   {
+    "w": "palabras",
+    "ini": 2.496,
+    "fim": 3.019
+   },
+   {
+    "w": "del",
+    "ini": 3.269,
+    "fim": 3.444
+   },
+   {
+    "w": "Grimorio",
+    "ini": 3.502,
+    "fim": 3.943
+   },
+   {
+    "w": "Sagrado",
+    "ini": 3.989,
+    "fim": 4.384
+   },
+   {
+    "w": "y",
+    "ini": 4.419,
+    "fim": 4.442
+   },
+   {
+    "w": "Secreto",
+    "ini": 4.489,
+    "fim": 4.895
+   },
+   {
+    "w": "de",
+    "ini": 4.941,
+    "fim": 4.999
+   },
+   {
+    "w": "San",
+    "ini": 5.034,
+    "fim": 5.173
+   },
+   {
+    "w": "Benito.",
+    "ini": 5.232,
+    "fim": 5.766
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    3.019,
+    3.269
+   ],
+   [
+    5.766,
+    5.946
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "V02": {
+  "arquivo": "vo_V02.wav",
+  "texto": "Están surgiendo relatos de bendiciones todos los días.",
+  "tts": null,
+  "dur": 3.013,
+  "palavras": [
+   {
+    "w": "Están",
+    "ini": 0.035,
+    "fim": 0.267
+   },
+   {
+    "w": "surgiendo",
+    "ini": 0.302,
+    "fim": 0.708
+   },
+   {
+    "w": "relatos",
+    "ini": 0.755,
+    "fim": 1.161
+   },
+   {
+    "w": "de",
+    "ini": 1.184,
+    "fim": 1.242
+   },
+   {
+    "w": "bendiciones",
+    "ini": 1.277,
+    "fim": 1.881
+   },
+   {
+    "w": "todos",
+    "ini": 1.974,
+    "fim": 2.264
+   },
+   {
+    "w": "los",
+    "ini": 2.287,
+    "fim": 2.426
+   },
+   {
+    "w": "días.",
+    "ini": 2.461,
+    "fim": 2.833
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.035
+   ],
+   [
+    2.833,
+    3.013
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "V03": {
+  "arquivo": "vo_V03.wav",
+  "texto": "Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.",
+  "tts": "Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante novecientos dieciocho años.",
+  "dur": 6.827,
+  "palavras": [
+   {
+    "w": "Fue",
+    "ini": 0.07,
+    "fim": 0.221
+   },
+   {
+    "w": "escrita",
+    "ini": 0.244,
+    "fim": 0.673
+   },
+   {
+    "w": "por",
+    "ini": 0.72,
+    "fim": 0.836
+   },
+   {
+    "w": "el",
+    "ini": 0.882,
+    "fim": 0.952
+   },
+   {
+    "w": "propio",
+    "ini": 1.033,
+    "fim": 1.428
+   },
+   {
+    "w": "San",
+    "ini": 1.486,
+    "fim": 1.649
+   },
+   {
+    "w": "Benito",
+    "ini": 1.707,
+    "fim": 2.09
+   },
+   {
+    "w": "en",
+    "ini": 2.125,
+    "fim": 2.171
+   },
+   {
+    "w": "su",
+    "ini": 2.218,
+    "fim": 2.31
+   },
+   {
+    "w": "regla",
+    "ini": 2.38,
+    "fim": 2.705
+   },
+   {
+    "w": "y",
+    "ini": 3.007,
+    "fim": 3.1
+   },
+   {
+    "w": "se",
+    "ini": 3.17,
+    "fim": 3.239
+   },
+   {
+    "w": "mantuvo",
+    "ini": 3.297,
+    "fim": 3.634
+   },
+   {
+    "w": "en",
+    "ini": 3.669,
+    "fim": 3.727
+   },
+   {
+    "w": "secreto",
+    "ini": 3.785,
+    "fim": 4.191
+   },
+   {
+    "w": "durante",
+    "ini": 4.226,
+    "fim": 4.609
+   },
+   {
+    "w": "novecientos",
+    "ini": 4.667,
+    "fim": 5.503
+   },
+   {
+    "w": "dieciocho",
+    "ini": 5.561,
+    "fim": 6.13
+   },
+   {
+    "w": "años.",
+    "ini": 6.188,
+    "fim": 6.664
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    2.705,
+    3.007
+   ],
+   [
+    6.664,
+    6.827
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "V04": {
+  "arquivo": "vo_V04.wav",
+  "texto": "Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes.",
+  "tts": null,
+  "dur": 8.591,
+  "palavras": [
+   {
+    "w": "Solo",
+    "ini": 0.046,
+    "fim": 0.279
+   },
+   {
+    "w": "un",
+    "ini": 0.313,
+    "fim": 0.36
+   },
+   {
+    "w": "grupo",
+    "ini": 0.418,
+    "fim": 0.731
+   },
+   {
+    "w": "de",
+    "ini": 0.766,
+    "fim": 0.836
+   },
+   {
+    "w": "monjes",
+    "ini": 0.906,
+    "fim": 1.289
+   },
+   {
+    "w": "tenía",
+    "ini": 1.347,
+    "fim": 1.649
+   },
+   {
+    "w": "acceso",
+    "ini": 1.672,
+    "fim": 2.113
+   },
+   {
+    "w": "a",
+    "ini": 2.194,
+    "fim": 2.287
+   },
+   {
+    "w": "esta",
+    "ini": 2.322,
+    "fim": 2.508
+   },
+   {
+    "w": "oración",
+    "ini": 2.531,
+    "fim": 2.868
+   },
+   {
+    "w": "completa;",
+    "ini": 2.926,
+    "fim": 3.541
+   },
+   {
+    "w": "la",
+    "ini": 3.843,
+    "fim": 3.936
+   },
+   {
+    "w": "traje",
+    "ini": 3.994,
+    "fim": 4.226
+   },
+   {
+    "w": "de",
+    "ini": 4.261,
+    "fim": 4.307
+   },
+   {
+    "w": "una",
+    "ini": 4.365,
+    "fim": 4.481
+   },
+   {
+    "w": "excursión",
+    "ini": 4.505,
+    "fim": 5.074
+   },
+   {
+    "w": "que",
+    "ini": 5.143,
+    "fim": 5.236
+   },
+   {
+    "w": "hice",
+    "ini": 5.271,
+    "fim": 5.457
+   },
+   {
+    "w": "a",
+    "ini": 5.503,
+    "fim": 5.526
+   },
+   {
+    "w": "Italia",
+    "ini": 5.561,
+    "fim": 6.037
+   },
+   {
+    "w": "y",
+    "ini": 6.339,
+    "fim": 6.42
+   },
+   {
+    "w": "decidí",
+    "ini": 6.502,
+    "fim": 6.827
+   },
+   {
+    "w": "compartirla",
+    "ini": 6.896,
+    "fim": 7.5
+   },
+   {
+    "w": "con",
+    "ini": 7.558,
+    "fim": 7.663
+   },
+   {
+    "w": "ustedes.",
+    "ini": 7.732,
+    "fim": 8.417
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    3.541,
+    3.843
+   ],
+   [
+    6.037,
+    6.339
+   ],
+   [
+    8.417,
+    8.591
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "V05": {
+  "arquivo": "vo_V05.wav",
+  "texto": "La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.",
+  "tts": "La última vez que enseñé esta oración en un congreso, recibí más de cuatrocientos noventa y siete relatos de bendiciones al día siguiente.",
+  "dur": 8.411,
+  "palavras": [
+   {
+    "w": "La",
+    "ini": 0.07,
+    "fim": 0.151
+   },
+   {
+    "w": "última",
+    "ini": 0.197,
+    "fim": 0.488
+   },
+   {
+    "w": "vez",
+    "ini": 0.511,
+    "fim": 0.604
+   },
+   {
+    "w": "que",
+    "ini": 0.662,
+    "fim": 0.731
+   },
+   {
+    "w": "enseñé",
+    "ini": 0.755,
+    "fim": 1.173
+   },
+   {
+    "w": "esta",
+    "ini": 1.207,
+    "fim": 1.44
+   },
+   {
+    "w": "oración",
+    "ini": 1.474,
+    "fim": 1.869
+   },
+   {
+    "w": "en",
+    "ini": 1.916,
+    "fim": 1.962
+   },
+   {
+    "w": "un",
+    "ini": 2.032,
+    "fim": 2.09
+   },
+   {
+    "w": "congreso,",
+    "ini": 2.148,
+    "fim": 2.798
+   },
+   {
+    "w": "recibí",
+    "ini": 3.1,
+    "fim": 3.448
+   },
+   {
+    "w": "más",
+    "ini": 3.506,
+    "fim": 3.692
+   },
+   {
+    "w": "de",
+    "ini": 3.727,
+    "fim": 3.785
+   },
+   {
+    "w": "cuatrocientos",
+    "ini": 3.831,
+    "fim": 4.714
+   },
+   {
+    "w": "noventa",
+    "ini": 4.772,
+    "fim": 5.12
+   },
+   {
+    "w": "y",
+    "ini": 5.155,
+    "fim": 5.178
+   },
+   {
+    "w": "siete",
+    "ini": 5.236,
+    "fim": 5.55
+   },
+   {
+    "w": "relatos",
+    "ini": 5.608,
+    "fim": 6.026
+   },
+   {
+    "w": "de",
+    "ini": 6.049,
+    "fim": 6.107
+   },
+   {
+    "w": "bendiciones",
+    "ini": 6.153,
+    "fim": 6.885
+   },
+   {
+    "w": "al",
+    "ini": 7.187,
+    "fim": 7.338
+   },
+   {
+    "w": "día",
+    "ini": 7.407,
+    "fim": 7.593
+   },
+   {
+    "w": "siguiente.",
+    "ini": 7.651,
+    "fim": 8.231
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    2.798,
+    3.1
+   ],
+   [
+    6.885,
+    7.187
+   ],
+   [
+    8.231,
+    8.411
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "P04": {
+  "arquivo": "P04.wav",
+  "texto": "Pero atención: tiene que hacerse de la forma correcta, según las instrucciones del Grimorio, porque no es una oración común.",
+  "tts": null,
+  "dur": 7.095,
+  "palavras": [
+   {
+    "w": "Pero",
+    "ini": 0.07,
+    "fim": 0.244
+   },
+   {
+    "w": "atención:",
+    "ini": 0.279,
+    "fim": 0.906
+   },
+   {
+    "w": "tiene",
+    "ini": 1.156,
+    "fim": 1.539
+   },
+   {
+    "w": "que",
+    "ini": 1.597,
+    "fim": 1.679
+   },
+   {
+    "w": "hacerse",
+    "ini": 1.713,
+    "fim": 2.131
+   },
+   {
+    "w": "de",
+    "ini": 2.178,
+    "fim": 2.224
+   },
+   {
+    "w": "la",
+    "ini": 2.271,
+    "fim": 2.329
+   },
+   {
+    "w": "forma",
+    "ini": 2.398,
+    "fim": 2.677
+   },
+   {
+    "w": "correcta,",
+    "ini": 2.724,
+    "fim": 3.327
+   },
+   {
+    "w": "según",
+    "ini": 3.525,
+    "fim": 3.815
+   },
+   {
+    "w": "las",
+    "ini": 3.85,
+    "fim": 3.954
+   },
+   {
+    "w": "instrucciones",
+    "ini": 4.024,
+    "fim": 4.523
+   },
+   {
+    "w": "del",
+    "ini": 4.558,
+    "fim": 4.651
+   },
+   {
+    "w": "Grimorio,",
+    "ini": 4.686,
+    "fim": 5.115
+   },
+   {
+    "w": "porque",
+    "ini": 5.138,
+    "fim": 5.429
+   },
+   {
+    "w": "no",
+    "ini": 5.533,
+    "fim": 5.672
+   },
+   {
+    "w": "es",
+    "ini": 5.742,
+    "fim": 5.835
+   },
+   {
+    "w": "una",
+    "ini": 5.928,
+    "fim": 6.056
+   },
+   {
+    "w": "oración",
+    "ini": 6.09,
+    "fim": 6.439
+   },
+   {
+    "w": "común.",
+    "ini": 6.497,
+    "fim": 6.915
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    0.906,
+    1.156
+   ],
+   [
+    3.327,
+    3.525
+   ],
+   [
+    6.915,
+    7.095
+   ]
+  ],
+  "avatar": true,
+  "cortes": 1
+ },
+ "V06": {
+  "arquivo": "vo_V06.wav",
+  "texto": "Tiene instrucciones y una manera correcta de hacerla y de escucharla.",
+  "tts": null,
+  "dur": 4.255,
+  "palavras": [
+   {
+    "w": "Tiene",
+    "ini": 0.07,
+    "fim": 0.279
+   },
+   {
+    "w": "instrucciones",
+    "ini": 0.302,
+    "fim": 1.022
+   },
+   {
+    "w": "y",
+    "ini": 1.08,
+    "fim": 1.103
+   },
+   {
+    "w": "una",
+    "ini": 1.149,
+    "fim": 1.277
+   },
+   {
+    "w": "manera",
+    "ini": 1.324,
+    "fim": 1.625
+   },
+   {
+    "w": "correcta",
+    "ini": 1.695,
+    "fim": 2.159
+   },
+   {
+    "w": "de",
+    "ini": 2.194,
+    "fim": 2.241
+   },
+   {
+    "w": "hacerla",
+    "ini": 2.264,
+    "fim": 2.763
+   },
+   {
+    "w": "y",
+    "ini": 3.123,
+    "fim": 3.204
+   },
+   {
+    "w": "de",
+    "ini": 3.274,
+    "fim": 3.355
+   },
+   {
+    "w": "escucharla.",
+    "ini": 3.379,
+    "fim": 4.075
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    2.763,
+    3.123
+   ],
+   [
+    4.075,
+    4.255
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "P05": {
+  "arquivo": "P05.wav",
+  "texto": "Voy a pedirle a la producción que deje el Grimorio Sagrado y Secreto de San Benito disponible en este sitio, para que puedan hacerla de la forma correcta,",
+  "tts": null,
+  "dur": 9.666,
+  "palavras": [
+   {
+    "w": "Voy",
+    "ini": 0.058,
+    "fim": 0.221
+   },
+   {
+    "w": "a",
+    "ini": 0.255,
+    "fim": 0.279
+   },
+   {
+    "w": "pedirle",
+    "ini": 0.325,
+    "fim": 0.766
+   },
+   {
+    "w": "a",
+    "ini": 0.848,
+    "fim": 0.906
+   },
+   {
+    "w": "la",
+    "ini": 0.964,
+    "fim": 1.033
+   },
+   {
+    "w": "producción",
+    "ini": 1.091,
+    "fim": 1.753
+   },
+   {
+    "w": "que",
+    "ini": 2.003,
+    "fim": 2.131
+   },
+   {
+    "w": "deje",
+    "ini": 2.189,
+    "fim": 2.398
+   },
+   {
+    "w": "el",
+    "ini": 2.421,
+    "fim": 2.467
+   },
+   {
+    "w": "Grimorio",
+    "ini": 2.525,
+    "fim": 3.036
+   },
+   {
+    "w": "Sagrado",
+    "ini": 3.083,
+    "fim": 3.594
+   },
+   {
+    "w": "y",
+    "ini": 3.675,
+    "fim": 3.745
+   },
+   {
+    "w": "Secreto",
+    "ini": 3.826,
+    "fim": 4.221
+   },
+   {
+    "w": "de",
+    "ini": 4.267,
+    "fim": 4.313
+   },
+   {
+    "w": "San",
+    "ini": 4.36,
+    "fim": 4.488
+   },
+   {
+    "w": "Benito",
+    "ini": 4.534,
+    "fim": 4.871
+   },
+   {
+    "w": "disponible",
+    "ini": 4.917,
+    "fim": 5.602
+   },
+   {
+    "w": "en",
+    "ini": 5.672,
+    "fim": 5.811
+   },
+   {
+    "w": "este",
+    "ini": 5.904,
+    "fim": 6.101
+   },
+   {
+    "w": "sitio,",
+    "ini": 6.159,
+    "fim": 6.624
+   },
+   {
+    "w": "para",
+    "ini": 6.874,
+    "fim": 7.048
+   },
+   {
+    "w": "que",
+    "ini": 7.094,
+    "fim": 7.187
+   },
+   {
+    "w": "puedan",
+    "ini": 7.234,
+    "fim": 7.466
+   },
+   {
+    "w": "hacerla",
+    "ini": 7.524,
+    "fim": 8.035
+   },
+   {
+    "w": "de",
+    "ini": 8.174,
+    "fim": 8.267
+   },
+   {
+    "w": "la",
+    "ini": 8.325,
+    "fim": 8.395
+   },
+   {
+    "w": "forma",
+    "ini": 8.499,
+    "fim": 8.801
+   },
+   {
+    "w": "correcta,",
+    "ini": 8.859,
+    "fim": 9.486
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    1.753,
+    2.003
+   ],
+   [
+    6.624,
+    6.874
+   ],
+   [
+    9.486,
+    9.666
+   ]
+  ],
+  "avatar": true,
+  "cortes": 2
+ },
+ "V07": {
+  "arquivo": "vo_V07.wav",
+  "texto": "pero no sé por cuánto tiempo va a estar disponible.",
+  "tts": null,
+  "dur": 2.978,
+  "palavras": [
+   {
+    "w": "pero",
+    "ini": 0.07,
+    "fim": 0.313
+   },
+   {
+    "w": "no",
+    "ini": 0.383,
+    "fim": 0.499
+   },
+   {
+    "w": "sé",
+    "ini": 0.557,
+    "fim": 0.685
+   },
+   {
+    "w": "por",
+    "ini": 0.743,
+    "fim": 0.871
+   },
+   {
+    "w": "cuánto",
+    "ini": 0.94,
+    "fim": 1.231
+   },
+   {
+    "w": "tiempo",
+    "ini": 1.277,
+    "fim": 1.625
+   },
+   {
+    "w": "va",
+    "ini": 1.649,
+    "fim": 1.707
+   },
+   {
+    "w": "a",
+    "ini": 1.73,
+    "fim": 1.753
+   },
+   {
+    "w": "estar",
+    "ini": 1.776,
+    "fim": 2.032
+   },
+   {
+    "w": "disponible.",
+    "ini": 2.09,
+    "fim": 2.798
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.07
+   ],
+   [
+    2.798,
+    2.978
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "P06": {
+  "arquivo": "P06.wav",
+  "texto": "Y quien obtenga el Grimorio hoy recibirá de regalo un collar de plata de San Benito, el mismo que se usaba en sus oraciones.",
+  "tts": null,
+  "dur": 8.191,
+  "palavras": [
+   {
+    "w": "Y",
+    "ini": 0.058,
+    "fim": 0.104
+   },
+   {
+    "w": "quien",
+    "ini": 0.186,
+    "fim": 0.313
+   },
+   {
+    "w": "obtenga",
+    "ini": 0.383,
+    "fim": 0.766
+   },
+   {
+    "w": "el",
+    "ini": 0.789,
+    "fim": 0.836
+   },
+   {
+    "w": "Grimorio",
+    "ini": 0.894,
+    "fim": 1.474
+   },
+   {
+    "w": "hoy",
+    "ini": 1.567,
+    "fim": 1.834
+   },
+   {
+    "w": "recibirá",
+    "ini": 1.916,
+    "fim": 2.403
+   },
+   {
+    "w": "de",
+    "ini": 2.461,
+    "fim": 2.508
+   },
+   {
+    "w": "regalo",
+    "ini": 2.577,
+    "fim": 3.03
+   },
+   {
+    "w": "un",
+    "ini": 3.28,
+    "fim": 3.431
+   },
+   {
+    "w": "collar",
+    "ini": 3.501,
+    "fim": 3.768
+   },
+   {
+    "w": "de",
+    "ini": 3.826,
+    "fim": 3.884
+   },
+   {
+    "w": "plata",
+    "ini": 3.93,
+    "fim": 4.232
+   },
+   {
+    "w": "de",
+    "ini": 4.255,
+    "fim": 4.313
+   },
+   {
+    "w": "San",
+    "ini": 4.36,
+    "fim": 4.499
+   },
+   {
+    "w": "Benito,",
+    "ini": 4.557,
+    "fim": 5.045
+   },
+   {
+    "w": "el",
+    "ini": 5.091,
+    "fim": 5.242
+   },
+   {
+    "w": "mismo",
+    "ini": 5.347,
+    "fim": 5.846
+   },
+   {
+    "w": "que",
+    "ini": 6.096,
+    "fim": 6.223
+   },
+   {
+    "w": "se",
+    "ini": 6.293,
+    "fim": 6.386
+   },
+   {
+    "w": "usaba",
+    "ini": 6.421,
+    "fim": 6.897
+   },
+   {
+    "w": "en",
+    "ini": 6.978,
+    "fim": 7.094
+   },
+   {
+    "w": "sus",
+    "ini": 7.141,
+    "fim": 7.28
+   },
+   {
+    "w": "oraciones.",
+    "ini": 7.326,
+    "fim": 8.011
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.03,
+    3.28
+   ],
+   [
+    5.846,
+    6.096
+   ],
+   [
+    8.011,
+    8.191
+   ]
+  ],
+  "avatar": true,
+  "cortes": 2
+ },
+ "P07": {
+  "arquivo": "P07.wav",
+  "texto": "Accede mientras todavía es posible.",
+  "tts": null,
+  "dur": 2.119,
+  "palavras": [
+   {
+    "w": "Accede",
+    "ini": 0.046,
+    "fim": 0.36
+   },
+   {
+    "w": "mientras",
+    "ini": 0.406,
+    "fim": 0.755
+   },
+   {
+    "w": "todavía",
+    "ini": 0.813,
+    "fim": 1.231
+   },
+   {
+    "w": "es",
+    "ini": 1.265,
+    "fim": 1.335
+   },
+   {
+    "w": "posible.",
+    "ini": 1.405,
+    "fim": 1.939
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    1.939,
+    2.119
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ },
+ "V08": {
+  "arquivo": "vo_V08.wav",
+  "texto": "A partir de hoy le darás la bienvenida a una vida próspera.",
+  "tts": null,
+  "dur": 3.361,
+  "palavras": [
+   {
+    "w": "A",
+    "ini": 0.058,
+    "fim": 0.093
+   },
+   {
+    "w": "partir",
+    "ini": 0.174,
+    "fim": 0.488
+   },
+   {
+    "w": "de",
+    "ini": 0.546,
+    "fim": 0.604
+   },
+   {
+    "w": "hoy",
+    "ini": 0.639,
+    "fim": 0.778
+   },
+   {
+    "w": "le",
+    "ini": 0.813,
+    "fim": 0.882
+   },
+   {
+    "w": "darás",
+    "ini": 0.917,
+    "fim": 1.138
+   },
+   {
+    "w": "la",
+    "ini": 1.173,
+    "fim": 1.242
+   },
+   {
+    "w": "bienvenida",
+    "ini": 1.277,
+    "fim": 1.811
+   },
+   {
+    "w": "a",
+    "ini": 1.916,
+    "fim": 1.985
+   },
+   {
+    "w": "una",
+    "ini": 2.055,
+    "fim": 2.206
+   },
+   {
+    "w": "vida",
+    "ini": 2.252,
+    "fim": 2.473
+   },
+   {
+    "w": "próspera.",
+    "ini": 2.543,
+    "fim": 3.181
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.058
+   ],
+   [
+    3.181,
+    3.361
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "V09": {
+  "arquivo": "vo_V09.wav",
+  "texto": "Vuelve aquí después de siete días para contar las bendiciones que llegaron a tu vida.",
+  "tts": null,
+  "dur": 4.174,
+  "palavras": [
+   {
+    "w": "Vuelve",
+    "ini": 0.046,
+    "fim": 0.325
+   },
+   {
+    "w": "aquí",
+    "ini": 0.348,
+    "fim": 0.511
+   },
+   {
+    "w": "después",
+    "ini": 0.569,
+    "fim": 0.871
+   },
+   {
+    "w": "de",
+    "ini": 0.906,
+    "fim": 0.964
+   },
+   {
+    "w": "siete",
+    "ini": 1.01,
+    "fim": 1.3
+   },
+   {
+    "w": "días",
+    "ini": 1.347,
+    "fim": 1.591
+   },
+   {
+    "w": "para",
+    "ini": 1.649,
+    "fim": 1.8
+   },
+   {
+    "w": "contar",
+    "ini": 1.846,
+    "fim": 2.148
+   },
+   {
+    "w": "las",
+    "ini": 2.183,
+    "fim": 2.287
+   },
+   {
+    "w": "bendiciones",
+    "ini": 2.334,
+    "fim": 2.868
+   },
+   {
+    "w": "que",
+    "ini": 2.902,
+    "fim": 2.984
+   },
+   {
+    "w": "llegaron",
+    "ini": 3.007,
+    "fim": 3.344
+   },
+   {
+    "w": "a",
+    "ini": 3.402,
+    "fim": 3.425
+   },
+   {
+    "w": "tu",
+    "ini": 3.471,
+    "fim": 3.576
+   },
+   {
+    "w": "vida.",
+    "ini": 3.622,
+    "fim": 3.994
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    3.994,
+    4.174
+   ]
+  ],
+  "avatar": false,
+  "cortes": 0
+ },
+ "P08": {
+  "arquivo": "P08.wav",
+  "texto": "Envía este video a quien amas y haz la oración de la forma correcta.",
+  "tts": null,
+  "dur": 3.698,
+  "palavras": [
+   {
+    "w": "Envía",
+    "ini": 0.046,
+    "fim": 0.313
+   },
+   {
+    "w": "este",
+    "ini": 0.337,
+    "fim": 0.499
+   },
+   {
+    "w": "video",
+    "ini": 0.534,
+    "fim": 0.859
+   },
+   {
+    "w": "a",
+    "ini": 0.917,
+    "fim": 0.94
+   },
+   {
+    "w": "quien",
+    "ini": 1.01,
+    "fim": 1.184
+   },
+   {
+    "w": "amas",
+    "ini": 1.254,
+    "fim": 1.509
+   },
+   {
+    "w": "y",
+    "ini": 1.567,
+    "fim": 1.602
+   },
+   {
+    "w": "haz",
+    "ini": 1.66,
+    "fim": 1.776
+   },
+   {
+    "w": "la",
+    "ini": 1.846,
+    "fim": 1.904
+   },
+   {
+    "w": "oración",
+    "ini": 1.939,
+    "fim": 2.368
+   },
+   {
+    "w": "de",
+    "ini": 2.415,
+    "fim": 2.473
+   },
+   {
+    "w": "la",
+    "ini": 2.519,
+    "fim": 2.589
+   },
+   {
+    "w": "forma",
+    "ini": 2.647,
+    "fim": 2.961
+   },
+   {
+    "w": "correcta.",
+    "ini": 3.007,
+    "fim": 3.518
+   }
+  ],
+  "pausas": [
+   [
+    0.0,
+    0.046
+   ],
+   [
+    3.518,
+    3.698
+   ]
+  ],
+  "avatar": true,
+  "cortes": 0
+ }
+}

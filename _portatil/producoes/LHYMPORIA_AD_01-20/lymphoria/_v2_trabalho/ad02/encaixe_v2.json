@@ -1,0 +1,95 @@
+{
+ "refeitos": {
+  "flora/t1_final.mp4": {
+   "args": [
+    "flora/t1.mp4",
+    "flora/t1_edit.mp4",
+    "1.767"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad02\\flora\\t1_final.mp4 | 53 quadros | editado tinha 89 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     53,
+     53
+    ],
+    "dif_media": 1.487,
+    "dif_media_max_quadro": 1.972,
+    "dentro_faixa_media": 1.805,
+    "fora_px40_max": 0,
+    "fora_px40_media": 0.0
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     53,
+     53
+    ],
+    "dif_media": 1.599,
+    "dif_media_max_quadro": 2.146,
+    "dentro_faixa_media": 1.818,
+    "fora_px40_max": 909,
+    "fora_px40_media": 191.4
+   }
+  },
+  "flora/t2_final.mp4": {
+   "args": [
+    "flora/t2.mp4",
+    "flora/t2_edit.mp4",
+    "1.067"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad02\\flora\\t2_final.mp4 | 32 quadros | editado tinha 73 @ 24 fps | saltos>2: 0",
+   "reproduz_antigo": {
+    "quadros": [
+     32,
+     32
+    ],
+    "dif_media": 1.421,
+    "dif_media_max_quadro": 1.798,
+    "dentro_faixa_media": 1.461,
+    "fora_px40_max": 2,
+    "fora_px40_media": 0.1
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     32,
+     32
+    ],
+    "dif_media": 1.741,
+    "dif_media_max_quadro": 2.188,
+    "dentro_faixa_media": 1.486,
+    "fora_px40_max": 2519,
+    "fora_px40_media": 1821.8
+   }
+  },
+  "flora/t3_final.mp4": {
+   "args": [
+    "flora/t3.mp4",
+    "flora/t3_edit.mp4",
+    "1.800"
+   ],
+   "log": "ok: C:\\Users\\PICHAU\\Downloads\\LHYMPORIA AD 01-20\\lymphoria\\_v2_trabalho\\ad02\\flora\\t3_final.mp4 | 54 quadros | editado tinha 81 @ 24 fps | saltos>2: 1",
+   "reproduz_antigo": {
+    "quadros": [
+     54,
+     54
+    ],
+    "dif_media": 1.557,
+    "dif_media_max_quadro": 1.953,
+    "dentro_faixa_media": 1.69,
+    "fora_px40_max": 1,
+    "fora_px40_media": 0.1
+   },
+   "v2_vs_entregue": {
+    "quadros": [
+     54,
+     54
+    ],
+    "dif_media": 1.667,
+    "dif_media_max_quadro": 2.09,
+    "dentro_faixa_media": 1.683,
+    "fora_px40_max": 1201,
+    "fora_px40_media": 398.7
+   }
+  }
+ },
+ "conferidos": {}
+}

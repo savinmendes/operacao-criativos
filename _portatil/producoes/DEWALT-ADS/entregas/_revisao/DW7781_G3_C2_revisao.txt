@@ -1,0 +1,29 @@
+REVISÃO: DW7781_G3_C2.mp4
+duração 41.57s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 15.4 MB
+decodificação: OK
+pts do áudio: 1950 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 16 | pares a <0,3 s: 37.20/37.33
+setas (vermelho) no fim: não achei vermelho saturado | no último quadro: NÃO | faixa escura do rodapé: 1055-1245
+folha de contato (1 q/2s): C:\Users\PICHAU\Downloads\DEWALT-ADS\entregas\_revisao\DW7781_G3_C2_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  5.84 Maestro de este taladro aguanta vega pesada, ponen el anillo en modo percutor y la broca
+   5.84- 13.60 entra en el muro sin pelear, en madera pasa limpiecita y para atornillar 15 posiciones
+  13.60- 19.44 de torque aprietas justo sin pasarte, el secreto, motor sin carbones.
+  19.44- 25.48 The wall dice que es 17% más eficiente que un motor con carbones, 2 velocidades,
+  25.48- 27.48 fuerza en la primera, rapidez en la segunda.
+  27.48- 31.48 Y trae dos baterías con indicador de carga, mientras una trabaja, la otra se carga.
+  32.48- 34.48 Compacto y liviano para trabajar todo el día.
+  35.48- 36.48 Aprovecha el PreBlack Friday.
+  37.48- 39.48 Fíjelo hoy y pagas recién cuando te llegue.
+  39.48- 40.48 En vivo a todo Chile.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+PROBLEMA: quadro solto? cortes em 37.20s e 37.33s (133 ms)
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+1 problema(s)

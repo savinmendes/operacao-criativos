@@ -1,0 +1,190 @@
+{
+ "total": 72.3333,
+ "segs": [
+  {
+   "id": "BRIGA",
+   "tipo": "briga",
+   "file": "takes/briga_final.mov",
+   "ini": 0.0,
+   "fim": 12.25,
+   "cy": 0.44,
+   "zoom_ini": 1.3,
+   "zoom_ate": 2.0,
+   "zc": [
+    400,
+    300
+   ],
+   "n": 368,
+   "T0": 0.0
+  },
+  {
+   "id": "MANOS",
+   "tipo": "video",
+   "file": "takes/k_manos.mp4",
+   "ini": 1.6,
+   "fim": 4.4,
+   "cy": 0.5,
+   "n": 84,
+   "T0": 12.266666666666667
+  },
+  {
+   "id": "PARADA",
+   "tipo": "img",
+   "file": "img/parada2.png",
+   "dur": 1.9,
+   "z": [
+    1.0,
+    1.06
+   ],
+   "cy": 0.55,
+   "n": 57,
+   "T0": 15.066666666666666
+  },
+  {
+   "id": "PLANOS",
+   "tipo": "img",
+   "file": "img/planos.png",
+   "dur": 1.8,
+   "z": [
+    1.07,
+    1.0
+   ],
+   "cy": 0.5,
+   "n": 54,
+   "T0": 16.966666666666665
+  },
+  {
+   "id": "EQUIPE",
+   "tipo": "img",
+   "file": "img/equipe.png",
+   "dur": 2.0,
+   "z": [
+    1.0,
+    1.07
+   ],
+   "cy": 0.45,
+   "n": 60,
+   "T0": 18.766666666666666
+  },
+  {
+   "id": "R01",
+   "tipo": "video",
+   "file": "takes/hg_R01.mp4",
+   "ini": 0.0,
+   "fim": 5.258021,
+   "voz": "R01",
+   "voz_ini": 0.0,
+   "z": 1.0,
+   "cy": 0.39,
+   "cx": 0.5,
+   "amb": true,
+   "n": 158,
+   "T0": 20.766666666666666
+  },
+  {
+   "id": "J1",
+   "tipo": "video",
+   "file": "takes/hg_J1.mp4",
+   "ini": 0.0,
+   "fim": 4.782,
+   "voz": "J1",
+   "voz_ini": 0.0,
+   "z": 1.0,
+   "cy": 0.41,
+   "cx": 0.5,
+   "amb": true,
+   "n": 143,
+   "T0": 26.03333333333333
+  },
+  {
+   "id": "NOITE",
+   "tipo": "img",
+   "file": "img/noite.png",
+   "dur": 5.432,
+   "voz": "J2",
+   "z": [
+    1.0,
+    1.08
+   ],
+   "cy": 0.45,
+   "n": 163,
+   "T0": 30.799999999999997
+  },
+  {
+   "id": "J3",
+   "tipo": "video",
+   "file": "takes/hg_J3.mp4",
+   "ini": 0.0,
+   "fim": 6.698,
+   "voz": "J3",
+   "voz_ini": 0.0,
+   "z": 1.12,
+   "cy": 0.37,
+   "cx": 0.48,
+   "amb": true,
+   "n": 201,
+   "T0": 36.233333333333334
+  },
+  {
+   "id": "P1",
+   "tipo": "video",
+   "file": "takes/hg_P1.mp4",
+   "ini": 0.0,
+   "fim": 6.917979,
+   "voz": "P1",
+   "voz_ini": 0.0,
+   "z": 1.0,
+   "cy": 0.41,
+   "cx": 0.5,
+   "amb": true,
+   "n": 208,
+   "T0": 42.93333333333334
+  },
+  {
+   "id": "P2",
+   "tipo": "video",
+   "file": "takes/hg_P2.mp4",
+   "ini": 0.0,
+   "fim": 9.366021,
+   "voz": "P2",
+   "voz_ini": 0.0,
+   "z": 1.12,
+   "cy": 0.37,
+   "cx": 0.48,
+   "amb": true,
+   "n": 281,
+   "T0": 49.866666666666674
+  },
+  {
+   "id": "P3",
+   "tipo": "video",
+   "file": "takes/hg_P3.mp4",
+   "ini": 0.0,
+   "fim": 6.221,
+   "voz": "P3",
+   "voz_ini": 0.0,
+   "z": 1.0,
+   "cy": 0.41,
+   "cx": 0.5,
+   "amb": true,
+   "n": 187,
+   "T0": 59.23333333333334
+  },
+  {
+   "id": "R02",
+   "tipo": "video",
+   "file": "takes/hg_R02.mp4",
+   "ini": 0.0,
+   "fim": 6.86,
+   "voz": "R02",
+   "voz_ini": 0.0,
+   "z": 1.06,
+   "cy": 0.38,
+   "cx": 0.5,
+   "amb": true,
+   "n": 206,
+   "T0": 65.46666666666667
+  }
+ ],
+ "cta": 65.46666666666667
+}

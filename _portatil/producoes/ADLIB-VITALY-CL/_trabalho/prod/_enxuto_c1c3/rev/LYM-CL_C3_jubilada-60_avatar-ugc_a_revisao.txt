@@ -1,0 +1,42 @@
+REVISÃO: LYM-CL_C3_jubilada-60_avatar-ugc_a.mp4
+duração 43.17s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 24.5 MB
+decodificação: OK
+pts do áudio: 2021 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 16 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1132-1197, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\ADLIB-VITALY-CL\_trabalho\prod\_enxuto_c1c3\rev\LYM-CL_C3_jubilada-60_avatar-ugc_a_revisao.jpg
+idioma detectado: es (0.99)
+
+=== transcrição (es) ===
+   0.00-  4.24 Mi anillo de matrimonio estuvo dos años guardado en un cajón.
+   4.32-  8.00 No me entraba. Tenía los dedos y los tobillos hinchados
+   8.08- 10.84 y los zapatos de salir me apretaban.
+  10.92- 13.04 Mi hija me trajo linforia.
+  13.12- 15.36 Son unas gotitas con cuatro hierbas.
+  15.44- 20.44 Galio, trebol rojo, raíz de estilingia y fresno espinoso.
+  20.52- 23.68 100% natural y sabe a miel.
+  23.76- 26.56 Unas gotas en mi agüita todos los días.
+  26.64- 28.84 Y mire, ya puedo usar mis anillos
+  28.84- 30.84 y mis zapatos de nuevo.
+  30.84- 32.34 Adiós, hinchazón.
+  32.34- 33.84 Se llama linforia.
+  33.84- 35.84 Compre uno y reciba dos,
+  35.84- 37.34 con envío gratis
+  37.34- 39.34 y pagas al recibir en tu casa.
+  39.34- 40.84 Toca el botón de abajo
+  40.84- 42.84 y pide el tuyo.
+
+=== termos proibidos ===
+nenhum
+
+=== lipsync ===
+LIPSYNC: av.mp4 (1061 quadros, rosto em 100%, rosto 221,350,306,365 [único rosto])
+  pausas da voz nova: índice de pausa 1.57 (156 quadros de pausa; <= 0.6 aprovado, <= 0.75 aviso)
+  boca x áudio: corr. novo -0.10 (atraso 200 ms) | corr. original -
+REPROVADO: a boca não acompanha o áudio novo: fica aberta nas pausas da voz (índice de pausa 1.57 > 0.75; sincronizado <= 0.6)
+
+=== RESULTADO ===
+PROBLEMA: lipsync av.mp4: a boca não acompanha o áudio novo: fica aberta nas pausas da voz (índice de pausa 1.57 > 0.75; sincronizado <= 0.6)
+aviso: lipsync av.mp4 checado sem o original (sem o teste 'a boca mudou')
+1 problema(s)

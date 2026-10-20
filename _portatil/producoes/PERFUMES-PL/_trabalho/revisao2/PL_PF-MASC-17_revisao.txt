@@ -1,0 +1,38 @@
+REVISÃO: PL_PF-MASC-17.mp4
+duração 61.03s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 28.5 MB
+decodificação: OK
+pts do áudio: 2862 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): 7.30-8.16
+cortes de cena: 15 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 760-822, x 147-602 | no último quadro: NÃO | faixa escura do rodapé: não detectada
+folha de contato (1 q/1s): C:\Users\PICHAU\Downloads\PERFUMES-PL\_trabalho\revisao2\PL_PF-MASC-17_revisao.jpg
+idioma detectado: pl (1.00)
+
+=== transcrição (pl) ===
+   0.00-  1.60 Zapamiętają Cię po zapachu.
+   1.80-  5.20 Trzy perfumy w cenie jednych, a każde wnętrze zachowa Twój ślad.
+   5.40-  7.96 100 sztuk. Teraz albo nigdy.
+   8.16- 12.56 Chcesz poznać perfumy, przez które kobiety oszaleją na Twoim punkcie?
+  12.76- 15.52 Uwaga, bo tej promocji nie możesz przegapić.
+  15.72- 19.84 Teraz zgarniesz trzy arabskie perfumy premium w jednej ofercie.
+  20.04- 23.68 Trzy różne zapachy, które zostawiają niezapomniane wrażenie.
+  23.88- 26.84 Armaf Club. Świeży, męski i mocny.
+  26.84- 29.80 Daje energię, pewność siebie i charyzmę.
+  29.80- 32.16 Robi wrażenie od pierwszej chwili.
+  32.16- 33.64 Lattafa Asad.
+  33.64- 37.20 Intensywny, wyrafinowany i uwodzicielski.
+  37.20- 41.36 Elegancka nuta, która przyciąga uwagę gdziekolwiek się pojawisz.
+  41.36- 44.36 Zapach z charakterem na wyjątkowe okazje.
+  44.36- 45.44 Afnan.
+  45.44- 48.04 Elegancki, nowoczesny i szlachetny.
+  48.04- 51.36 Dla tych, którzy chcą emanować stylem i klasą.
+  51.36- 54.04 Uniwersalny zapach na każdą okazję.
+  54.04- 55.20 A najlepsze?
+  55.20- 60.80 W tej promocji bierzesz wszystkie trzy perfumy premium, zamów teraz i zapłać dopiero przy odbiorze.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+aviso: não achei setas vermelhas no último quadro (CTA deve ficar até o fim)
+OK: nenhum problema encontrado

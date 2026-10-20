@@ -1,0 +1,24 @@
+REVISÃO: CESPED-CL_C9_RATON.mp4
+duração 37.10s | 720x1280 (9:16) | 30/1 fps | áudio: sim | 25.5 MB
+decodificação: OK
+pts do áudio: 1741 pacotes, passo mediano 21.3 ms, saltos: nenhum
+silêncios (>0,7 s): nenhum
+cortes de cena: 12 | pares a <0,3 s: nenhum
+setas (vermelho) no fim: y 1169-1234, x 232-503 | no último quadro: sim | faixa escura do rodapé: não detectada
+folha de contato (1 q/1.5s): C:\Users\PICHAU\Downloads\VENCEDORES-3-PRODUTOS\CESPED\PROD-C9-RATON\CESPED-CL_C9_RATON_revisao.jpg
+idioma detectado: es (1.00)
+
+=== transcrição (es) ===
+   0.00-  6.52 ¿Qué es eso? ¡Suéltalo! Ahí supe que el pastor ya ha llegado al límite.
+   6.52- 10.00 Mis hijos juegan ahí, ¿hasta qué provee ésta?
+  13.20- 19.28 Es cortapasto, orilladora y bordeadora en uno. Tiene ruedas, así que la usas con una sola
+  19.28- 25.44 mano, cuchilla de metal reforzada, olvídate de los hilos que se cortan y es inalámbrica con dos
+  25.44- 30.44 baterías.
+  30.44- 35.52 Despacho gratis a todo Chile. Pagas al recibir y tienes 90 días de garantía.
+  35.52- 37.08 Toca el botón y pídela.
+
+=== termos proibidos ===
+nenhum
+
+=== RESULTADO ===
+OK: nenhum problema encontrado

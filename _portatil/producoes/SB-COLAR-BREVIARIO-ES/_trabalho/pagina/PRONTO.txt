@@ -1,0 +1,14 @@
+Take da página https://pellorini.com/products/collar-san-benito-breviario
+Chrome headless (Playwright), mobile 360x640 @3x -> 1080x1920, H.264, 30 fps, yuv420p
+
+pagina_completa.mp4  12,2 s  (topo/galeria 0-3,7 | rolagem até o título 3,7-7,2 | descrição e imagens 7,2-12,2)
+topo.mp4             3,7 s   galeria: capa do breviário -> mãos com medalha -> colar -> volta ao breviário
+meio.mp4             3,5 s   rolagem até o título "Breviario de Protección de San Benito" + descrição
+fim.mp4              4,0 s   rolagem lenta: "Lo que encontrarás dentro", lista, foto da medalha, "La Medalla de San Benito en plata 925"
+folha.jpg            1 quadro por segundo
+
+SEM PREÇO VISÍVEL: conferido no texto visível depois do CSS (busca por "$" e "CLP" = 0 ocorrências, antes e depois da gravação) e na folha.
+Escondidos: bloco de preço (.nx-pr: $120 riscado, $60, -50%), valor da barra fixa de compra (.nx-stk), carrinho Releasit/rapi (drawer, $2.90, Checkout $0.00).
+O botão "QUIERO MI BREVIARIO" ficou (sem valor). Nenhum popup apareceu.
+Nada foi alterado na loja: CSS/JS injetado só no navegador da gravação.
+Scripts: gravar.py (captura), _frames/ (quadros JPEG da captura).

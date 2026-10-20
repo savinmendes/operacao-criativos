@@ -1,0 +1,30 @@
+NARRACIÓN COMPLETA — teste_fase1.mp4 (2:07)
+Tiempos = momento en que empieza cada frase en el video final. Texto = ROTEIRO_B (versión B: Oración de San Benito Completa -> VSL).
+Personajes ficticios: MUJER (react), AGRESOR, DON AURELIO (vendedor), REPORTERA y SACERDOTE (P. Andrés Molina, siempre dentro de la transmisión EN VIVO).
+Sello "VIDEO FICTICIO" arriba a la derecha durante todo el video. "(voz en off)" = narración sobre b-roll, sin rostro.
+Voces (ElevenLabs): mujer Karly · agresor Richard · don Aurelio Santiago · reportera Gabriela · sacerdote Pa Gabriel.
+B04–B06 sin voz (carrito vacío con música triste -> clientes llegando -> fila llena). Título 0–3 s: "LO HUMILLARON EN PLENA CALLE… AL DÍA SIGUIENTE PASÓ ESTO".
+CTA único al final (flechas TOCA «VER MÁS» desde P07B hasta el final); nada se dice después del CTA.
+
+[00:00] B01 MUJER (react): Gente, después dicen que Dios no existe.
+[00:03] B02 AGRESOR: ¿No crees en Dios? ¡Entonces llámalo ahora!
+[00:06] B03 DON AURELIO: Señor, yo no hice nada. Pare, por el amor de Dios.
+[00:18] R01 REPORTERA: Después de ser atacado por un cliente y volverse viral, el carrito de don Aurelio se convirtió en uno de los más pedidos del país.
+[00:26] A01 DON AURELIO: Sí, eso me pasó a mí.
+[00:26] A01 DON AURELIO: Sí, eso me pasó a mí.
+[00:29] A01B DON AURELIO (voz en off): Pero yo había aprendido la Oración de San Benito completa y decidí hacerla después de aquella situación.
+[00:38] A02 DON AURELIO: Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.
+[00:38] A02 DON AURELIO: Al día siguiente, a mi carrito empezaron a llover clientes. No lo podía creer.
+[00:44] A03 DON AURELIO: ¿Podemos poner aquí la transmisión en vivo que se cayó, la que enseña esta oración tan poderosa?
+[00:52] R02 REPORTERA: ¡Claro!
+[00:53] P01 SACERDOTE (EN VIVO): Presten mucha atención, porque posiblemente este video saldrá del aire muy rápido.
+[00:57] V01 SACERDOTE (voz en off): No quieren que tengas acceso a esto, porque es una oración muy poderosa.
+[01:01] P02 SACERDOTE (EN VIVO): Repitan conmigo.
+[01:03] O01 SACERDOTE (oración, voz en off): Oh poderoso San Benito, guardián de los misterios sagrados, que venciste a la serpiente con la señal de la cruz y callaste el rugido del abismo con tu fe inquebrantable. Invoco ahora las doce palabras selladas por tu mano: Crux, Lux, Fides, Ignes, Veritas, Silentium, Gladius, Fortitudo, Custodia, Sanctitas, Spiritus y Triumphus.
+[01:28] V02 SACERDOTE (voz en off): Están surgiendo relatos de bendiciones todos los días.
+[01:31] V03 SACERDOTE (voz en off): Fue escrita por el propio San Benito en su regla y se mantuvo en secreto durante 918 años.
+[01:38] V04 SACERDOTE (voz en off): Solo un grupo de monjes tenía acceso a esta oración completa; la traje de una excursión que hice a Italia y decidí compartirla con ustedes.
+[01:47] V05 SACERDOTE (voz en off): La última vez que enseñé esta oración en un congreso, recibí más de 497 relatos de bendiciones al día siguiente.
+[01:55] V06 SACERDOTE (voz en off): Tiene instrucciones y una manera correcta de hacerla y de escucharla.
+[02:00] V08 SACERDOTE (voz en off): A partir de hoy le darás la bienvenida a una vida próspera.
+[02:03] V07 SACERDOTE (voz en off): pero no sé por cuánto tiempo va a estar disponible.

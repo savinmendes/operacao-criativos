@@ -1,0 +1,98 @@
+[
+ {
+  "texto": "JUST ADD",
+  "conf": 0.97,
+  "caixa": [
+   99,
+   87,
+   623,
+   254
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "WATER.",
+  "conf": 0.99,
+  "caixa": [
+   107,
+   249,
+   506,
+   409
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "LETSTEAM DO",
+  "conf": 0.94,
+  "caixa": [
+   115,
+   448,
+   554,
+   515
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "THE CLEANING.",
+  "conf": 0.94,
+  "caixa": [
+   115,
+   527,
+   560,
+   602
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "H20X5",
+  "conf": 0.93,
+  "caixa": [
+   719,
+   942,
+   855,
+   998
+  ],
+  "marca_ou_alerta": true,
+  "remover": false
+ },
+ {
+  "texto": "★★",
+  "conf": 0.72,
+  "caixa": [
+   132,
+   1175,
+   255,
+   1210
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "★★",
+  "conf": 0.96,
+  "caixa": [
+   304,
+   1175,
+   414,
+   1213
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ },
+ {
+  "texto": "4,000+ 5-STAR REVIEWS",
+  "conf": 0.93,
+  "caixa": [
+   455,
+   1167,
+   1134,
+   1222
+  ],
+  "marca_ou_alerta": false,
+  "remover": false
+ }
+]

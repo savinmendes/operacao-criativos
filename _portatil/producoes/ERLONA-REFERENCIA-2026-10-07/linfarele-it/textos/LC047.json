@@ -1,0 +1,16 @@
+{
+  "conceito": "C047",
+  "ref_erlona": [
+    "047 AD"
+  ],
+  "angulo": "Osteopata que explica com um desenho que a barriga da menopausa (lisa de manhã, tensa à noite) não é gordura, é líquido parado.",
+  "prompt": "Realistic smartphone photo, UGC style, natural daylight, small Italian osteopathy studio with a treatment table and plants. A friendly 50-year-old male osteopath with salt-and-pepper beard, wearing a plain navy polo shirt (no stethoscope, no white coat), stands next to a simple wall poster and points at it while explaining to the camera. The poster shows only a minimal outline of an empty human body silhouette (no organs, no heart, nothing red inside) with a few soft light-blue flowing lines like gentle water streams. The ONLY text on the poster is a title at the top reading exactly: \"Non è grasso. È ristagno.\" No other words, no bullet list, no small captions. Candid, not stock photo. No products, no bottles, no logos.",
+  "flora_url": "https://app.flora.ai/projects/ns73srpqeednwwk30jzwzxfkgs8ftzsn",
+  "flora_run_id": "run_m1700bxvvwvkkh0rmz1c1xwj298ft51q",
+  "arquivo": "linfarele-it/imagens/LC047.jpg",
+  "titulo": "Lo spiego così nel mio studio",
+  "testo_principale": "Sono osteopata da 14 anni e questo disegno è appeso nel mio studio per un motivo preciso.\n\nTante donne in menopausa arrivano convinte di avere «grasso sulla pancia». Ma quello che mi raccontano è sempre lo stesso: pancia piatta la mattina, tesa e gonfia la sera.\n\nIl grasso non cambia in otto ore. I liquidi sì. Non è grasso, è ristagno linfatico: la linfa rallenta e i liquidi restano fermi nei tessuti.\n\nPer questo le rinunce a tavola, da sole, spesso non bastano: si lavora sul problema sbagliato.\n\nA chi mi chiede un aiuto quotidiano parlo di Linfarele: 4 erbe (galio, stillingia, trifoglio rosso e frassino spinoso) in gocce. Poche gocce sotto la lingua ogni mattina. E sa di miele. Un gesto di dieci secondi.\n\nQuello che mi raccontano dopo qualche settimana: pancia più sgonfia la sera e gambe più leggere a fine giornata.\n\nSpedizione gratuita e 90 giorni di garanzia: soddisfatti o rimborsati. 👇 Clicca su «Acquista ora».",
+  "descrizione": "Spedizione gratuita · 90 giorni di garanzia",
+  "qa": "ok",
+  "obs": "2ª geração: a 1ª (run_m1732gxh54yysv7hk3cscxdhys8fvcmy) foi reprovada por texto pequeno deformado no pôster e um coração vermelho dentro da silhueta."
+}

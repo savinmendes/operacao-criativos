@@ -1,0 +1,98 @@
+=== 04 es
+  0.00-  4.12  Esta es una cámara de seguridad que no tienes que cargar.
+  4.12-  7.76  Es una cámara solar con video 2 kappa
+  7.76- 12.36  y tiene un motorcito adentro que gira 360 grados.
+ 12.36- 14.20  Y también arriba y abajo,
+ 14.20- 16.60  siguiendo a las personas cuando se mueven.
+ 16.60- 19.20  Con solo una hora de sol directo al día
+ 19.20- 20.92  funciona continuo
+ 20.92- 24.72  y la batería la mantiene funcionando de noche y en días nublados.
+ 24.72- 27.92  Tiene ranura para tarjeta microSD
+ 27.96- 30.72  Así que si odias las suscripciones como yo,
+ 30.72- 33.44  grabas todo directo en tu propia tarjeta.
+ 33.44- 38.28  Pídela hoy, toca el botón de abajo y pide la tuya.
+=== 04 en
+  0.00-  4.12  This is a security camera that you don't have to charge.
+  4.12-  7.76  It's a solar camera with video 2K
+  7.76- 12.36  and it has a motor inside that rotates 360 degrees.
+ 12.36- 16.64  And also up and down, following people when they move.
+ 16.64- 20.92  With just one hour of direct sunlight, it works continuously
+ 20.92- 24.72  and the battery keeps it working at night and in cloudy days.
+ 24.72- 27.92  It has a microSD card slot
+ 27.96- 30.72  So if you hate subscriptions like me,
+ 30.72- 33.44  record everything directly in your own card.
+ 33.44- 34.84  Ask for it today.
+ 34.84- 38.28  Touch the button below and ask for yours.
+=== 04 no_vocals en
+  0.00  This is a security camera that never needs to be charged.
+  4.00  It's the last time I can be in it.
+  6.00  It's been a long time since I last saw a security camera in America right now.
+ 10.00  It's all out eight times since it launched.
+ 12.00  It's a little upgraded.
+ 14.00  It blocks and tracks ocean 360 degrees.
+ 17.00  It happens now.
+ 18.00  It only needs to explore the side.
+ 20.00  It's a 100% charge.
+ 21.00  And I've had it for nearly six months.
+ 23.00  And I've never charged it once.
+ 25.00  And it's not a pro SD card slot.
+ 27.00  So if you need subscriptions like me,
+ 29.00  you can just record footage with your SD card.
+ 32.00  I highly recommend you grab one before they sell out again.
+=== 05 es
+  0.00-  3.40  Sinceramente, esta cámara me sorprendió mucho.
+  3.40-  4.80  No lleva cables,
+  4.80-  6.40  gira en todas las direcciones
+  6.40-  9.40  y sigue a las personas cuando se mueven.
+  9.40- 10.60  Y lo mejor,
+ 10.60- 14.00  no paga suscripción mensual para usarla.
+ 14.00- 17.00  La instalación es facilísima.
+ 17.00- 18.60  Eliges un lugar firme,
+ 18.60- 19.90  pones dos tornillos,
+ 19.90- 22.50  la montas y listo.
+ 22.50- 24.30  Sin agujeros en las paredes,
+ 24.30- 26.90  sin cables de corriente.
+ 26.90- 29.20  Trae un panel solar con cable largo.
+ 29.30- 31.70  Así pones la cámara donde la necesitas,
+ 31.70- 33.60  como en la entrada o el garaje
+ 33.60- 36.80  y el panel donde da más sol.
+ 36.80- 40.50  Una vez instalada, simplemente funciona.
+ 40.50- 42.20  Y viene completísima,
+ 42.20- 44.50  audio bidireccional, reflector,
+ 44.50- 48.50  sirena y visión nocturna a color.
+ 48.50- 50.50  Pones una tarjeta microSD,
+ 50.50- 52.50  guarda las grabaciones ahí mismo
+ 52.50- 54.60  y ves todo desde tu celular.
+ 54.60- 57.40  Si quieres seguridad sencilla, sin cables,
+ 57.50- 59.50  esta es una recomendación fácil.
+ 59.50- 62.50  Toca el botón de abajo y pide la tuya.
+=== 05 en
+  0.00-  3.50  Honestly, this camera surprised me a lot.
+  3.50-  4.90  It doesn't have cables,
+  4.90-  6.40  it turns in all directions
+  6.40-  8.50  and follows people when they move.
+  9.50- 10.70  And the best?
+ 10.70- 13.30  Don't pay monthly subscription to use it.
+ 14.10- 16.10  The installation is very easy.
+ 17.10- 18.60  Choose a firm place,
+ 18.60- 20.00  put two screws,
+ 20.00- 21.60  mount it and that's it.
+ 22.60- 24.40  No holes in the walls,
+ 24.40- 26.00  no current cables.
+ 27.00- 29.20  Bring a solar panel with a long cable.
+ 29.20- 31.70  That's how you put the camera where you need it,
+ 31.70- 33.50  like in the entrance or the garage,
+ 33.50- 35.50  and the panel where the sun shines.
+ 36.80- 39.70  Once installed, it simply works.
+ 40.40- 42.10  And it comes complete,
+ 42.10- 43.50  audio bi-directional,
+ 43.50- 44.40  reflector,
+ 44.40- 47.00  siren and night vision in color.
+ 48.40- 50.50  Put a microSD card,
+ 50.50- 52.50  save the recordings right there
+ 52.50- 54.60  and you see everything from your cell phone.
+ 54.60- 56.30  If you want a simple security,
+ 56.30- 57.40  without cables,
+ 57.40- 59.40  this is an easy recommendation.
+ 59.40- 62.40  Touch the button below and ask for yours.
+=== 05 no_vocals en

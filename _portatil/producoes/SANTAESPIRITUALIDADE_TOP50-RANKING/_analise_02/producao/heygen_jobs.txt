@@ -1,0 +1,6 @@
+saldo HeyGen antes: 4760 premium (19/10)
+imagens: avatar/jm_a.png (Juan, cena do padre original) e mulher/m_a.png (selfie), gpt-image-2.5-sunburst, flow ElevenLabs W8qdyhKInweY4twvhLXA, 4 variacoes US$0,37
+lipsync speed P (patrao 0-7.1, recorte 300x533@195,240): 4db5d42a6583404ca774b0786961c168
+Avatar IV 720p medium: M (mulher) bfe273572859b1614403b356be73f918 | A (Juan J06-J09 30.9s) 792deff2e7aa14773ecffd86b61c4344 | B (Juan J10-J13 26.5s) ba6da6bcc9f14ee921fe0a8ff46c2cac
+lipsync P HeyGen: boca devolvida intacta (perfil não detectado; checar_lipsync: rosto em 2%). Refação 1x: veed-lipsync no flow ElevenLabs (US$0,05)
+veed-lipsync (ElevenLabs flow W8qdyhKInweY4twvhLXA, US$0,05): boca também intacta (perfil). Parado aqui (regra: 1 refação). Briga entra com o take original sem lipsync -> revisão manual.

@@ -1,0 +1,94 @@
+{
+ "padre": {
+  "nome_elevenlabs": "PADRE VSL LEAD2",
+  "voice_id": "Xx7D4CEXEeWrKGYs02h9",
+  "tipo": "instant voice clone",
+  "modelo_teste": "eleven_multilingual_v2",
+  "idioma": "de",
+  "criada_em": "2026-10-19",
+  "amostra": "C:\\Users\\PICHAU\\Downloads\\VSL-LEAD2-DE\\_trabalho\\base\\clone\\amostra_padre.mp3",
+  "amostra_origem": "demucs vocals de 14:07.5-15:19.0 + 21:30.5-22:52.0 (padre plano medio, so ele), 153 s, loudnorm -16",
+  "voice_settings_teste": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true
+  },
+  "testes": [
+   "C:\\Users\\PICHAU\\Downloads\\VSL-LEAD2-DE\\_trabalho\\base\\clone\\teste_de_1.mp3",
+   "C:\\Users\\PICHAU\\Downloads\\VSL-LEAD2-DE\\_trabalho\\base\\clone\\teste_de_2.mp3"
+  ],
+  "whisper": "de 0.99 / 0.985, transcricao identica ao texto; F0 mediana 109 Hz original x 112-124 Hz clone",
+  "voice_settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true,
+   "speed": 0.93
+  }
+ },
+ "apresentador": {
+  "nome_elevenlabs": "Bill - Wise, Mature, Balanced",
+  "voice_id": "pqHfZKP75CvOlQylNhV4",
+  "tipo": "premade (conta)",
+  "personagem": "apresentador da abertura (batina e solideu brancos, ~60 anos); on-camera nas cenas abertura_figura_branca, voz off nas abertura_broll",
+  "motivo": "homem maduro, calmo; F0 148 Hz (original 168); whisper de 0.995",
+  "voice_settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true,
+   "speed": 1.07
+  },
+  "modelo": "eleven_multilingual_v2",
+  "idioma": "de"
+ },
+ "depoente1": {
+  "nome_elevenlabs": "María Blanco | Warm Expressive Versatile",
+  "voice_id": "HRi5Prm2B3PevwpDmVLP",
+  "tipo": "professional (conta)",
+  "personagem": "depoimento 1: mulher ~55-60 anos, oculos, regata (Maria Fernandez), video 585.2-618.2 s",
+  "motivo": "mulher madura; F0 175 Hz (original 180); de-standard verificado",
+  "voice_settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true,
+   "speed": 1.1
+  },
+  "modelo": "eleven_multilingual_v2",
+  "idioma": "de"
+ },
+ "depoente2": {
+  "nome_elevenlabs": "Paweł – Polish Nonfiction Narrator",
+  "voice_id": "OyB9t957VxUtN0puqGPg",
+  "tipo": "professional (conta)",
+  "personagem": "depoimento 2: homem ~65 anos, cabelo branco, terno azul, video 618.2-659.1 s",
+  "motivo": "homem mais velho, calmo; F0 121 Hz (original 125); de-standard verificado",
+  "voice_settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true,
+   "speed": 1.15
+  },
+  "modelo": "eleven_multilingual_v2",
+  "idioma": "de"
+ },
+ "depoente3": {
+  "nome_elevenlabs": "Andrea Rabbit",
+  "voice_id": "prblQcKOdF08ozhxP2mk",
+  "tipo": "professional (conta)",
+  "personagem": "depoimento 3: mulher ~40 anos, oculos pretos, cabelo castanho, video 659.1-706.0 s",
+  "motivo": "mulher meia-idade; F0 210 Hz (original 220); whisper de 0.996",
+  "voice_settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.0,
+   "use_speaker_boost": true,
+   "speed": 1.1
+  },
+  "modelo": "eleven_multilingual_v2",
+  "idioma": "de"
+ }
+}

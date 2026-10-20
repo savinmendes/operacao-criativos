@@ -1,0 +1,1179 @@
+{
+ "comum": {
+  "produto": "DeWalt DCD7781D2-B2 · kit taladro percutor/atornillador 20V MAX brushless + 2 baterías 2Ah + cargador + maleta",
+  "mercado": "COD Chile · español chileno",
+  "tema": "Pre Black Friday (sin precio, sin escasez inventada)",
+  "cta": "Pídelo hoy y pagas recién cuando te llegue.",
+  "ficha": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\ficha_dcd7781.json",
+  "regras": [
+   "Nada de preço/desconto em valor",
+   "Sem 65 Nm, 29.750 gpm, 0-500 rpm, capacidade de furo em mm",
+   "'17% más eficiente' só com 'que un motor con carbones, según DeWalt'",
+   "Legenda pelo roteiro (texto) com o alinhamento do TTS; música -32 LUFS",
+   "Velocidade TTS <= 1,1x"
+  ],
+  "pendencias": [
+   "Confirmar com o fornecedor que o kit é o D2-B2 (2 baterias + maleta dura), não o D1 com bolsa de lona.",
+   "Base 37: cobrir os números '38mm'/'13mm' dos cards de perfuração (capacidade sem fonte oficial).",
+   "Ouvir a pronúncia de 'DeWalt' (whisper ouviu 'de Walt'/'de wall', aceito como 'de-uólt')."
+  ]
+ },
+ "voz_maestro": {
+  "id": "ZuuXsIgssLuaZ8Slz3yX",
+  "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+ },
+ "traducoes": [
+  {
+   "id": "trad_37",
+   "nome": "AD 37 · presentación técnica (estudio, solo manos)",
+   "base": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\37.mp4",
+   "duracao_base": 72.3,
+   "voz": {
+    "id": "aGSKUtsBUESN8lwpt9Zd",
+    "nome": "DEWALT AD37 narrador (clone, vocals demucs 0-72 s)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_37.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_37.alinhamento.json",
+   "duracao_audio": 75.81,
+   "fala_fim": 75.41,
+   "observacoes": [
+    "Fala original citava 1 batería, 0-500 rpm, 65 Nm, trava no gatilho, freio eletrônico, empunhadura emborrachada e capacidades 38/13/13 mm: tudo trocado por claims da ficha.",
+    "PENDÊNCIA MONTAGEM: a base_limpa/37 manteve os números '38mm' e '13mm' dos cards de perfuração (madeira/aço/alvenaria). A capacidade de furo NÃO tem fonte oficial (Paris diz madeira 25 mm): cobrir esses números com os títulos ES 'MADERA' / 'METAL' / 'MURO' nas mesmas posições. O '13 mm' do mandril (16-20 s) pode ficar.",
+    "Fim estendido com quadro congelado (~3 s) para caber o CTA Pre Black Friday."
+   ],
+   "segmentos": [
+    {
+     "texto": "Hola, maestros. Hoy les voy a presentar el kit de taladro percutor y atornillador inalámbrico DeWalt, de veinte volts MAX, con baterías de ion de litio. Vamos a verlo.",
+     "titulo_tela": "TALADRO PERCUTOR Y ATORNILLADOR",
+     "amarelo": [
+      "percutor",
+      "atornillador",
+      "DeWalt"
+     ],
+     "ini": 0.0,
+     "fim": 9.61,
+     "dur": 9.61,
+     "orig_fala": [
+      0.0,
+      10.66
+     ],
+     "razao_vs_original": 0.9
+    },
+    {
+     "texto": "Trae cargador, dos baterías de dos amperes hora y una maleta para guardar y llevar todo.",
+     "titulo_tela": "2 BATERÍAS 2Ah + CARGADOR + MALETA",
+     "amarelo": [
+      "dos baterías",
+      "maleta"
+     ],
+     "ini": 11.0,
+     "fim": 16.39,
+     "dur": 5.39,
+     "orig_fala": [
+      11.02,
+      16.54
+     ],
+     "razao_vs_original": 0.98
+    },
+    {
+     "texto": "Tiene mandril de ajuste rápido de media pulgada, trece milímetros.",
+     "titulo_tela": "MANDRIL 1/2\" · 13 mm",
+     "amarelo": [
+      "ajuste rápido"
+     ],
+     "ini": 16.51,
+     "fim": 20.64,
+     "dur": 4.13,
+     "orig_fala": [
+      16.7,
+      20.22
+     ],
+     "razao_vs_original": 1.17
+    },
+    {
+     "texto": "Así cambias brocas y puntas en segundos, sin necesidad de usar llave.",
+     "titulo_tela": null,
+     "amarelo": [
+      "en segundos"
+     ],
+     "ini": 20.76,
+     "fim": 24.94,
+     "dur": 4.18,
+     "orig_fala": [
+      20.48,
+      24.58
+     ],
+     "razao_vs_original": 1.02
+    },
+    {
+     "texto": "Es compacto y bien liviano en la mano.",
+     "titulo_tela": "COMPACTO Y LIVIANO",
+     "amarelo": [
+      "liviano"
+     ],
+     "ini": 25.06,
+     "fim": 26.96,
+     "dur": 1.9,
+     "orig_fala": [
+      24.8,
+      26.78
+     ],
+     "razao_vs_original": 0.96
+    },
+    {
+     "texto": "Viene con motor sin carbones, brushless.",
+     "titulo_tela": "MOTOR SIN CARBONES",
+     "amarelo": [
+      "sin carbones"
+     ],
+     "ini": 27.08,
+     "fim": 29.59,
+     "dur": 2.51,
+     "orig_fala": [
+      26.88,
+      29.56
+     ],
+     "razao_vs_original": 0.94
+    },
+    {
+     "texto": "Tiene dos velocidades mecánicas, con gatillo variable y reversa.",
+     "titulo_tela": "2 VELOCIDADES",
+     "amarelo": [
+      "dos velocidades"
+     ],
+     "ini": 29.71,
+     "fim": 33.8,
+     "dur": 4.09,
+     "orig_fala": [
+      29.56,
+      33.3
+     ],
+     "razao_vs_original": 1.09
+    },
+    {
+     "texto": "En la segunda velocidad llega hasta mil setecientas cincuenta revoluciones por minuto, para perforar rápido.",
+     "titulo_tela": "HASTA 1.750 RPM",
+     "amarelo": [
+      "mil setecientas cincuenta"
+     ],
+     "ini": 33.92,
+     "fim": 40.24,
+     "dur": 6.32,
+     "orig_fala": [
+      33.6,
+      40.52
+     ],
+     "razao_vs_original": 0.91
+    },
+    {
+     "texto": "Su anillo tiene quince posiciones de torque, para apretar justo cada tornillo sin dañar el material.",
+     "titulo_tela": "15 POSICIONES DE TORQUE",
+     "amarelo": [
+      "quince posiciones"
+     ],
+     "ini": 40.5,
+     "fim": 45.7,
+     "dur": 5.2,
+     "orig_fala": [
+      40.92,
+      47.04
+     ],
+     "razao_vs_original": 0.85
+    },
+    {
+     "texto": "Y cada batería tiene su indicador de carga incorporado.",
+     "titulo_tela": "INDICADOR DE CARGA",
+     "amarelo": [
+      "indicador de carga"
+     ],
+     "ini": 47.0,
+     "fim": 50.06,
+     "dur": 3.06,
+     "orig_fala": [
+      47.42,
+      50.54
+     ],
+     "razao_vs_original": 0.98
+    },
+    {
+     "texto": "Con él puedes perforar sin ningún problema en distintos tipos de madera,",
+     "titulo_tela": "MADERA",
+     "amarelo": [
+      "madera"
+     ],
+     "ini": 51.5,
+     "fim": 55.54,
+     "dur": 4.04,
+     "orig_fala": [
+      51.74,
+      55.62
+     ],
+     "razao_vs_original": 1.04
+    },
+    {
+     "texto": "y también en metal, para fierros y estructuras,",
+     "titulo_tela": "METAL",
+     "amarelo": [
+      "metal"
+     ],
+     "ini": 55.66,
+     "fim": 58.72,
+     "dur": 3.06,
+     "orig_fala": [
+      55.82,
+      59.02
+     ],
+     "razao_vs_original": 0.96
+    },
+    {
+     "texto": "y en muro o concreto, usando el modo percutor.",
+     "titulo_tela": "MURO Y CONCRETO (MODO PERCUTOR)",
+     "amarelo": [
+      "muro",
+      "percutor"
+     ],
+     "ini": 58.84,
+     "fim": 61.82,
+     "dur": 2.97,
+     "orig_fala": [
+      59.02,
+      61.72
+     ],
+     "razao_vs_original": 1.1
+    },
+    {
+     "texto": "Tiene luz LED para trabajar en lugares oscuros.",
+     "titulo_tela": "LUZ LED",
+     "amarelo": [
+      "luz LED"
+     ],
+     "ini": 61.94,
+     "fim": 64.72,
+     "dur": 2.79,
+     "orig_fala": [
+      61.72,
+      64.84
+     ],
+     "razao_vs_original": 0.89
+    },
+    {
+     "texto": "Ideal para atornillar, armar muebles, estructuras metálicas y para la mantención de la casa o de la obra.",
+     "titulo_tela": null,
+     "amarelo": [
+      "la casa",
+      "la obra"
+     ],
+     "ini": 64.84,
+     "fim": 71.02,
+     "dur": 6.18,
+     "orig_fala": [
+      65.16,
+      71.3
+     ],
+     "razao_vs_original": 1.01
+    },
+    {
+     "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+     "titulo_tela": "PRE BLACK FRIDAY · PAGAS AL RECIBIR",
+     "amarelo": [
+      "Pre Black Friday",
+      "pagas recién"
+     ],
+     "ini": 71.6,
+     "fim": 75.41,
+     "dur": 3.81,
+     "orig_fala": null,
+     "extensao_fim_congelado": true
+    }
+   ]
+  },
+  {
+   "id": "trad_21",
+   "nome": "AD 21 · versatilidad (kit en la tienda, manos)",
+   "base": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\21.mp4",
+   "duracao_base": 57.0,
+   "voz": {
+    "id": "FgZfF59PvtYIb1ZcysY1",
+    "nome": "DEWALT AD21 narradora (clone, vocals demucs 0-55 s)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_21.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_21.alinhamento.json",
+   "duracao_audio": 54.99,
+   "fala_fim": 54.59,
+   "observacoes": [
+    "'Torque de 65 Nm' trocado por 'motor sin carbones + 20V MAX'. 'Concreto' trocado por 'muro'.",
+    "Fecho 'Invista na qualidade' virou o CTA Pre Black Friday no mesmo tempo (47-54 s): não precisa estender o vídeo."
+   ],
+   "segmentos": [
+    {
+     "texto": "Si buscas versatilidad, potencia y libertad para perforar y atornillar sin cables, donde sea,",
+     "titulo_tela": null,
+     "amarelo": [
+      "versatilidad",
+      "potencia",
+      "sin cables"
+     ],
+     "ini": 0.27,
+     "fim": 6.21,
+     "dur": 5.94,
+     "orig_fala": [
+      0.27,
+      6.43
+     ],
+     "razao_vs_original": 0.96
+    },
+    {
+     "texto": "el kit de taladro percutor y atornillador DeWalt de veinte volts es la elección perfecta.",
+     "titulo_tela": null,
+     "amarelo": [
+      "DeWalt",
+      "kit"
+     ],
+     "ini": 6.77,
+     "fim": 12.11,
+     "dur": 5.34,
+     "orig_fala": [
+      6.93,
+      12.11
+     ],
+     "razao_vs_original": 1.03
+    },
+    {
+     "texto": "Como atornillador, regulas el torque con sus quince posiciones, para no dañar el material con el que trabajas",
+     "titulo_tela": null,
+     "amarelo": [
+      "quince posiciones"
+     ],
+     "ini": 12.27,
+     "fim": 17.94,
+     "dur": 5.67,
+     "orig_fala": [
+      12.65,
+      18.23
+     ],
+     "razao_vs_original": 1.02
+    },
+    {
+     "texto": "y dejar cada uno de tus tornillos bien apretado y firme.",
+     "titulo_tela": null,
+     "amarelo": [
+      "bien apretado"
+     ],
+     "ini": 18.27,
+     "fim": 21.75,
+     "dur": 3.48,
+     "orig_fala": [
+      18.23,
+      21.49
+     ],
+     "razao_vs_original": 1.07
+    },
+    {
+     "texto": "Su mandril de ajuste rápido te deja cambiar brocas y puntas en un dos por tres,",
+     "titulo_tela": null,
+     "amarelo": [
+      "ajuste rápido"
+     ],
+     "ini": 21.87,
+     "fim": 26.42,
+     "dur": 4.55,
+     "orig_fala": [
+      21.19,
+      25.91
+     ],
+     "razao_vs_original": 0.96
+    },
+    {
+     "texto": "y así ahorras harto tiempo en cada pega.",
+     "titulo_tela": null,
+     "amarelo": [
+      "harto tiempo"
+     ],
+     "ini": 26.54,
+     "fim": 28.82,
+     "dur": 2.28,
+     "orig_fala": [
+      26.27,
+      28.91
+     ],
+     "razao_vs_original": 0.86
+    },
+    {
+     "texto": "Con su motor sin carbones, brushless, y su batería de veinte volts MAX,",
+     "titulo_tela": null,
+     "amarelo": [
+      "sin carbones",
+      "veinte volts"
+     ],
+     "ini": 28.94,
+     "fim": 33.54,
+     "dur": 4.6,
+     "orig_fala": [
+      28.91,
+      33.51
+     ],
+     "razao_vs_original": 1.0
+    },
+    {
+     "texto": "este DeWalt te da la fuerza que necesitas, en la casa o en la obra, para perforar distintos materiales:",
+     "titulo_tela": null,
+     "amarelo": [
+      "fuerza"
+     ],
+     "ini": 33.66,
+     "fim": 40.11,
+     "dur": 6.46,
+     "orig_fala": [
+      33.87,
+      39.37
+     ],
+     "razao_vs_original": 1.17
+    },
+    {
+     "texto": "madera, metal y muro.",
+     "titulo_tela": null,
+     "amarelo": [
+      "madera",
+      "metal",
+      "muro"
+     ],
+     "ini": 40.23,
+     "fim": 42.28,
+     "dur": 2.04,
+     "orig_fala": [
+      39.73,
+      41.59
+     ],
+     "razao_vs_original": 1.1
+    },
+    {
+     "texto": "Y con sus dos velocidades mecánicas, ajustas la potencia según el trabajo que tengas en la mano.",
+     "titulo_tela": null,
+     "amarelo": [
+      "dos velocidades"
+     ],
+     "ini": 42.4,
+     "fim": 48.01,
+     "dur": 5.62,
+     "orig_fala": [
+      42.05,
+      47.31
+     ],
+     "razao_vs_original": 1.07
+    },
+    {
+     "texto": "Aprovecha el Pre Black Friday: pídelo hoy, con envío a todo Chile, y pagas recién cuando te llegue a la casa.",
+     "titulo_tela": "PRE BLACK FRIDAY",
+     "amarelo": [
+      "Pre Black Friday",
+      "pagas recién",
+      "todo Chile"
+     ],
+     "ini": 48.13,
+     "fim": 54.59,
+     "dur": 6.46,
+     "orig_fala": [
+      47.21,
+      54.49
+     ],
+     "razao_vs_original": 0.89
+    }
+   ]
+  },
+  {
+   "id": "trad_41",
+   "nome": "AD 41 · unboxing corto (tienda, guante)",
+   "base": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\41.mp4",
+   "duracao_base": 37.5,
+   "voz": {
+    "id": "IlvZL1ylCUSyCP1EAiAM",
+    "nome": "DEWALT AD41 narrador (clone, vocals demucs 0-34,5 s)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_41.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_41.alinhamento.json",
+   "duracao_audio": 33.07,
+   "fala_fim": 32.66,
+   "observacoes": [
+    "'Carregador bivolt' removido (sem fonte). 'Compre agora' virou o CTA Pre Black Friday.",
+    "A fala original de 11,6-22,4 s virou 2 frases: maleta (11,6 s) e bateria + LED (17 s), no tempo da fala original."
+   ],
+   "segmentos": [
+    {
+     "texto": "Taladro percutor y atornillador DeWalt.",
+     "titulo_tela": "TALADRO PERCUTOR Y ATORNILLADOR DEWALT",
+     "amarelo": [
+      "percutor",
+      "DeWalt"
+     ],
+     "ini": 0.0,
+     "fim": 2.65,
+     "dur": 2.65,
+     "orig_fala": [
+      0.0,
+      2.68
+     ],
+     "razao_vs_original": 0.99
+    },
+    {
+     "texto": "Trae dos baterías de veinte volts MAX, de dos amperes hora, y su cargador,",
+     "titulo_tela": "2 BATERÍAS 20V MAX + CARGADOR",
+     "amarelo": [
+      "dos baterías",
+      "cargador"
+     ],
+     "ini": 5.97,
+     "fim": 10.99,
+     "dur": 5.02,
+     "orig_fala": [
+      5.93,
+      10.95
+     ],
+     "razao_vs_original": 1.0
+    },
+    {
+     "texto": "y su maleta dura.",
+     "titulo_tela": "+ MALETA",
+     "amarelo": [
+      "maleta"
+     ],
+     "ini": 11.61,
+     "fim": 13.0,
+     "dur": 1.39,
+     "orig_fala": [
+      11.59,
+      13.01
+     ],
+     "razao_vs_original": 0.98
+    },
+    {
+     "texto": "La batería trae indicador de carga, y el taladro tiene luz LED para ver bien donde trabajas.",
+     "titulo_tela": "INDICADOR DE CARGA + LUZ LED",
+     "amarelo": [
+      "indicador de carga",
+      "luz LED"
+     ],
+     "ini": 17.0,
+     "fim": 22.76,
+     "dur": 5.76,
+     "orig_fala": [
+      16.91,
+      22.68
+     ],
+     "razao_vs_original": 1.0
+    },
+    {
+     "texto": "Quince posiciones de torque, y modo percutor para muro.",
+     "titulo_tela": "15 POSICIONES DE TORQUE",
+     "amarelo": [
+      "quince posiciones",
+      "percutor"
+     ],
+     "ini": 22.88,
+     "fim": 26.46,
+     "dur": 3.58,
+     "orig_fala": [
+      22.68,
+      26.9
+     ],
+     "razao_vs_original": 0.85
+    },
+    {
+     "texto": "Motor sin carbones.",
+     "titulo_tela": "MOTOR SIN CARBONES",
+     "amarelo": [
+      "sin carbones"
+     ],
+     "ini": 26.58,
+     "fim": 28.11,
+     "dur": 1.53,
+     "orig_fala": [
+      26.9,
+      27.62
+     ],
+     "razao_vs_original": 2.12
+    },
+    {
+     "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue.",
+     "titulo_tela": "PRE BLACK FRIDAY · PAGAS AL RECIBIR",
+     "amarelo": [
+      "Pre Black Friday",
+      "pagas recién"
+     ],
+     "ini": 28.3,
+     "fim": 32.66,
+     "dur": 4.37,
+     "orig_fala": [
+      32.78,
+      33.52
+     ],
+     "razao_vs_original": 5.91
+    }
+   ]
+  },
+  {
+   "id": "trad_38",
+   "nome": "AD 38 · closes en la mano (sin habla en el original)",
+   "base": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\base_limpa\\38.mp4",
+   "duracao_base": 15.0,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_38.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\trad_38.alinhamento.json",
+   "duracao_audio": 15.41,
+   "fala_fim": 15.01,
+   "observacoes": [
+    "Original sem fala: narração nova curta encaixada nos closes (voz maestro).",
+    "Evitar quadro da etiqueta DCD7781 (5-8 s) se ficar legível demais; é o modelo certo, então pode ficar."
+   ],
+   "segmentos": [
+    {
+     "texto": "Taladro DeWalt de veinte volts MAX, sin carbones.",
+     "titulo_tela": "DEWALT 20V MAX",
+     "amarelo": [
+      "sin carbones"
+     ],
+     "ini": 0.15,
+     "fim": 3.73,
+     "dur": 3.58,
+     "orig_fala": null,
+     "visual": "0,1-1,9 s close lateral 20V MAX BRUSHLESS"
+    },
+    {
+     "texto": "Gatillo de velocidad variable y luz LED.",
+     "titulo_tela": "LUZ LED",
+     "amarelo": [
+      "luz LED"
+     ],
+     "ini": 3.85,
+     "fim": 6.49,
+     "dur": 2.65,
+     "orig_fala": null,
+     "visual": "2,0-7,0 s gatilho + mandril girando com LED"
+    },
+    {
+     "texto": "Batería de dos amperes hora,",
+     "titulo_tela": "BATERÍA 2Ah",
+     "amarelo": [
+      "dos amperes"
+     ],
+     "ini": 6.61,
+     "fim": 8.05,
+     "dur": 1.44,
+     "orig_fala": null,
+     "visual": "5-8 s bateria 2Ah"
+    },
+    {
+     "texto": "motor brushless, compacto y liviano,",
+     "titulo_tela": "BRUSHLESS",
+     "amarelo": [
+      "brushless"
+     ],
+     "ini": 8.2,
+     "fim": 11.68,
+     "dur": 3.48,
+     "orig_fala": null,
+     "visual": "8-11,8 s traseira BRUSHLESS MOTOR"
+    },
+    {
+     "texto": "con indicador de carga. Pagas cuando lo recibes.",
+     "titulo_tela": "PAGAS AL RECIBIR",
+     "amarelo": [
+      "Pagas cuando lo recibes"
+     ],
+     "ini": 11.9,
+     "fim": 15.01,
+     "dur": 3.11,
+     "orig_fala": null,
+     "visual": "11,9-15 s bateria com indicador verde"
+    }
+   ]
+  }
+ ],
+ "corpos": [
+  {
+   "id": "corpo_1",
+   "nome": "Corpo 1 · todo lo que trae el kit",
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_1.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_1.alinhamento.json",
+   "duracao_audio": 45.34,
+   "fala_fim": 44.93,
+   "segmentos": [
+    {
+     "texto": "Mira todo lo que trae este kit DeWalt.",
+     "takes": [
+      "caixa_01.mp4",
+      "caixa_03.mp4"
+     ],
+     "takes_dur": 3.47,
+     "amarelo": [
+      "todo lo que trae"
+     ],
+     "ini": 0.0,
+     "fim": 2.65,
+     "dur": 2.65
+    },
+    {
+     "texto": "Viene en su maleta dura, para llevarlo a cualquier pega.",
+     "takes": [
+      "maleta_02.mp4",
+      "maleta_01.mp4"
+     ],
+     "takes_dur": 3.27,
+     "amarelo": [
+      "maleta"
+     ],
+     "ini": 2.87,
+     "fim": 5.7,
+     "dur": 2.83
+    },
+    {
+     "texto": "Adentro: el taladro percutor y atornillador,",
+     "takes": [
+      "kit_completo_05.mp4",
+      "kit_completo_09.mp4"
+     ],
+     "takes_dur": 3.57,
+     "amarelo": [
+      "percutor",
+      "atornillador"
+     ],
+     "ini": 5.92,
+     "fim": 9.63,
+     "dur": 3.71,
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "dos baterías de veinte volts, de dos amperes hora,",
+     "takes": [
+      "bateria_02.mp4"
+     ],
+     "takes_dur": 2.8,
+     "amarelo": [
+      "dos baterías"
+     ],
+     "ini": 9.86,
+     "fim": 12.36,
+     "dur": 2.51
+    },
+    {
+     "texto": "y su cargador.",
+     "takes": [
+      "kit_completo_06.mp4"
+     ],
+     "takes_dur": 2.2,
+     "amarelo": [
+      "cargador"
+     ],
+     "ini": 12.58,
+     "fim": 14.67,
+     "dur": 2.09
+    },
+    {
+     "texto": "Mandril de trece milímetros, de ajuste rápido.",
+     "takes": [
+      "mandril_02.mp4"
+     ],
+     "takes_dur": 3.9,
+     "amarelo": [
+      "ajuste rápido"
+     ],
+     "ini": 14.89,
+     "fim": 18.7,
+     "dur": 3.81
+    },
+    {
+     "texto": "Con el anillo eliges el modo:",
+     "takes": [
+      "anel_06.mp4"
+     ],
+     "takes_dur": 3.3,
+     "amarelo": [
+      "modo"
+     ],
+     "ini": 18.92,
+     "fim": 20.73,
+     "dur": 1.81
+    },
+    {
+     "texto": "taladro, para madera y metal;",
+     "takes": [
+      "furando_madeira_01.mp4",
+      "furando_madeira_02.mp4"
+     ],
+     "takes_dur": 3.46,
+     "amarelo": [
+      "taladro"
+     ],
+     "ini": 20.95,
+     "fim": 23.97,
+     "dur": 3.02
+    },
+    {
+     "texto": "percutor, para muro y concreto;",
+     "takes": [
+      "furando_concreto_01.mp4"
+     ],
+     "takes_dur": 3.5,
+     "amarelo": [
+      "percutor"
+     ],
+     "ini": 24.19,
+     "fim": 26.0,
+     "dur": 1.81
+    },
+    {
+     "texto": "y atornillador, con quince posiciones de torque.",
+     "takes": [
+      "parafusando_madeira_01.mp4",
+      "anel_02.mp4"
+     ],
+     "takes_dur": 4.6,
+     "amarelo": [
+      "atornillador",
+      "quince posiciones"
+     ],
+     "ini": 26.22,
+     "fim": 30.26,
+     "dur": 4.04
+    },
+    {
+     "texto": "Dos velocidades, hasta mil setecientas cincuenta revoluciones por minuto.",
+     "takes": [
+      "seletor_velocidade_01.mp4"
+     ],
+     "takes_dur": 3.8,
+     "amarelo": [
+      "dos velocidades"
+     ],
+     "ini": 30.48,
+     "fim": 34.43,
+     "dur": 3.95,
+     "titulo_tela": "HASTA 1.750 RPM",
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Y luz LED, para ver bien donde trabajas.",
+     "takes": [
+      "led_01.mp4"
+     ],
+     "takes_dur": 3.3,
+     "amarelo": [
+      "luz LED"
+     ],
+     "ini": 34.65,
+     "fim": 38.46,
+     "dur": 3.81,
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Todo esto, en un solo kit.",
+     "takes": [
+      "kit_completo_07.mp4"
+     ],
+     "takes_dur": 2.1,
+     "amarelo": [
+      "un solo kit"
+     ],
+     "ini": 38.68,
+     "fim": 40.53,
+     "dur": 1.86
+    },
+    {
+     "texto": "Pre Black Friday: Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+     "takes": [
+      "kit_completo_04.mp4"
+     ],
+     "takes_dur": 3.7,
+     "amarelo": [
+      "Pre Black Friday",
+      "pagas recién",
+      "todo Chile"
+     ],
+     "ini": 40.75,
+     "fim": 44.93,
+     "dur": 4.18,
+     "titulo_tela": "PRE BLACK FRIDAY · PAGAS AL RECIBIR",
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    }
+   ]
+  },
+  {
+   "id": "corpo_2",
+   "nome": "Corpo 2 · pega pesada",
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_2.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\corpo_2.alinhamento.json",
+   "duracao_audio": 38.79,
+   "fala_fim": 38.39,
+   "segmentos": [
+    {
+     "texto": "Pones el anillo en modo percutor,",
+     "takes": [
+      "anel_04.mp4"
+     ],
+     "takes_dur": 2.8,
+     "amarelo": [
+      "modo percutor"
+     ],
+     "ini": 0.0,
+     "fim": 2.69,
+     "dur": 2.69
+    },
+    {
+     "texto": "y la broca entra en el muro sin pelear.",
+     "takes": [
+      "furando_concreto_02.mp4"
+     ],
+     "takes_dur": 3.8,
+     "amarelo": [
+      "muro"
+     ],
+     "ini": 2.91,
+     "fim": 5.89,
+     "dur": 2.97
+    },
+    {
+     "texto": "En madera, pasa limpiecita.",
+     "takes": [
+      "furando_madeira_02.mp4"
+     ],
+     "takes_dur": 2.23,
+     "amarelo": [
+      "madera"
+     ],
+     "ini": 6.11,
+     "fim": 8.98,
+     "dur": 2.88,
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Y para atornillar, quince posiciones de torque: aprietas justo, sin pasarte.",
+     "takes": [
+      "parafusando_madeira_02.mp4",
+      "anel_03.mp4"
+     ],
+     "takes_dur": 4.2,
+     "amarelo": [
+      "quince posiciones"
+     ],
+     "ini": 9.21,
+     "fim": 13.38,
+     "dur": 4.18
+    },
+    {
+     "texto": "¿El secreto? Motor sin carbones.",
+     "takes": [
+      "lateral_brushless_01.mp4",
+      "motor_01.mp4"
+     ],
+     "takes_dur": 3.7,
+     "amarelo": [
+      "sin carbones"
+     ],
+     "ini": 13.61,
+     "fim": 17.18,
+     "dur": 3.58
+    },
+    {
+     "texto": "DeWalt dice que es diecisiete por ciento más eficiente que un motor con carbones.",
+     "takes": [
+      "motor_02.mp4",
+      "motor_03.mp4"
+     ],
+     "takes_dur": 3.5,
+     "amarelo": [
+      "diecisiete por ciento"
+     ],
+     "ini": 17.4,
+     "fim": 21.95,
+     "dur": 4.55,
+     "titulo_tela": "17% MÁS EFICIENTE*",
+     "rodape": "*vs. motor con carbones, según DeWalt",
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Dos velocidades: fuerza en la primera, rapidez en la segunda.",
+     "takes": [
+      "seletor_velocidade_02.mp4"
+     ],
+     "takes_dur": 2.4,
+     "amarelo": [
+      "dos velocidades"
+     ],
+     "ini": 22.17,
+     "fim": 24.82,
+     "dur": 2.65,
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Y trae dos baterías con indicador de carga: mientras una trabaja, la otra se carga.",
+     "takes": [
+      "bateria_04.mp4",
+      "bateria_05.mp4"
+     ],
+     "takes_dur": 4.63,
+     "amarelo": [
+      "dos baterías",
+      "indicador de carga"
+     ],
+     "ini": 25.04,
+     "fim": 29.82,
+     "dur": 4.78,
+     "atencao": "takes mais curtos que a frase: esticar o último take (slow 0,85x) ou somar outro take da mesma ação"
+    },
+    {
+     "texto": "Compacto y liviano, para trabajar todo el día.",
+     "takes": [
+      "gatilho_01.mp4",
+      "led_03.mp4"
+     ],
+     "takes_dur": 4.0,
+     "amarelo": [
+      "liviano"
+     ],
+     "ini": 30.04,
+     "fim": 32.69,
+     "dur": 2.65
+    },
+    {
+     "texto": "Aprovecha el Pre Black Friday. Pídelo hoy y pagas recién cuando te llegue. Envío a todo Chile.",
+     "takes": [
+      "kit_completo_02.mp4",
+      "kit_completo_04.mp4"
+     ],
+     "takes_dur": 5.6,
+     "amarelo": [
+      "Pre Black Friday",
+      "pagas recién",
+      "todo Chile"
+     ],
+     "ini": 32.91,
+     "fim": 38.39,
+     "dur": 5.48,
+     "titulo_tela": "PRE BLACK FRIDAY · PAGAS AL RECIBIR"
+    }
+   ]
+  }
+ ],
+ "ganchos": [
+  {
+   "id": "gancho_1_3b",
+   "inspiracao": "AD 19 · las 3B",
+   "texto": "¿Buscas un taladro bueno, bonito y barato?",
+   "titulo": "LAS 3B: BUENO, BONITO Y BARATO",
+   "amarelo": [
+    "bueno",
+    "bonito",
+    "barato"
+   ],
+   "take": "led_01.mp4",
+   "por_que_take": "mandril já girando com LED aceso no 1º quadro",
+   "par_sugerido": "corpo_2",
+   "palavras": 7,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_1_3b.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_1_3b.alinhamento.json",
+   "fala_s": 2.23,
+   "take_dur": 3.3,
+   "nota": "'barato' sem valor: não citar preço nem desconto."
+  },
+  {
+   "id": "gancho_2_debil",
+   "inspiracao": "AD 36 · taladro débil",
+   "texto": "¿Sigues peleando con un taladro débil?",
+   "titulo": "¿TU TALADRO NO DA MÁS?",
+   "amarelo": [
+    "taladro débil"
+   ],
+   "take": "furando_concreto_01.mp4",
+   "por_que_take": "broca entrando na parede desde o 1º quadro",
+   "par_sugerido": "corpo_1 (no corpo, trocar o take da frase 'percutor, para muro y concreto' de furando_concreto_01 para anel_04)",
+   "palavras": 6,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_2_debil.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_2_debil.alinhamento.json",
+   "fala_s": 2.0,
+   "take_dur": 3.5,
+   "nota": "Não usar furando_concreto_01 e _02 no mesmo vídeo (mesmo plano)."
+  },
+  {
+   "id": "gancho_3_pega",
+   "inspiracao": "AD 46 · pega pesada",
+   "texto": "Maestro, este taladro aguanta pega pesada.",
+   "titulo": "PARA PEGA PESADA",
+   "amarelo": [
+    "pega pesada"
+   ],
+   "take": "furando_madeira_01.mp4",
+   "por_que_take": "broca entrando na madeira com cavaco voando (câmera lenta)",
+   "par_sugerido": "corpo_2",
+   "palavras": 6,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_3_pega.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_3_pega.alinhamento.json",
+   "fala_s": 2.18,
+   "take_dur": 1.23
+  },
+  {
+   "id": "gancho_4_bf",
+   "inspiracao": "tema Pre Black Friday",
+   "texto": "¡Llegó el Pre Black Friday, maestro!",
+   "titulo": "PRE BLACK FRIDAY · DEWALT 20V",
+   "amarelo": [
+    "Pre Black Friday"
+   ],
+   "take": "maleta_01.mp4",
+   "por_que_take": "maleta abrindo rápido, mostra o kit no fim do take",
+   "par_sugerido": "corpo_2 (corpo_1 já abre a maleta com o mesmo take)",
+   "palavras": 6,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_4_bf.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_4_bf.alinhamento.json",
+   "fala_s": 2.23,
+   "take_dur": 1.17
+  },
+  {
+   "id": "gancho_5_kit",
+   "inspiracao": "AD 18 · todo lo que trae el kit",
+   "texto": "Dos baterías, cargador y maleta: todo incluido.",
+   "titulo": "KIT COMPLETO: 2 BATERÍAS + CARGADOR + MALETA",
+   "amarelo": [
+    "Todo incluido"
+   ],
+   "take": "kit_completo_08.mp4",
+   "por_que_take": "maleta aberta na obra com taladro + 2 baterias, câmera em movimento",
+   "par_sugerido": "corpo_1",
+   "palavras": 7,
+   "voz": {
+    "id": "ZuuXsIgssLuaZ8Slz3yX",
+    "nome": "Luis - voz natural latina Chile (catálogo ElevenLabs, masculina)"
+   },
+   "audio": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_5_kit.mp3",
+   "alinhamento": "C:\\Users\\PICHAU\\Downloads\\DEWALT-ADS\\voz\\gancho_5_kit.alinhamento.json",
+   "fala_s": 2.6,
+   "take_dur": 2.4,
+   "nota": "kit_completo_08 tem marcas de uso (obra): se preferir produto novo, usar bateria_02 (pan nas 2 baterias)."
+  }
+ ]
+}

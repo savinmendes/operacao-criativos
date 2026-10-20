@@ -1,0 +1,66 @@
+{
+ "config": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\A\\var.json",
+ "semente": 7,
+ "modo": "A",
+ "gancho": {
+  "Hd": 15.5,
+  "fala_s": 15.09,
+  "tomadas": [
+   {
+    "src": "h",
+    "ini": 12.092,
+    "dur": 2.0667
+   },
+   {
+    "src": "h",
+    "ini": 129.758,
+    "dur": 2.4333
+   },
+   {
+    "src": "h",
+    "ini": 160.0,
+    "dur": 2.5
+   },
+   {
+    "src": "h",
+    "ini": 172.058,
+    "dur": 2.7333
+   },
+   {
+    "src": "h",
+    "ini": 37.158,
+    "dur": 3.1333
+   },
+   {
+    "src": "h",
+    "ini": 197.983,
+    "dur": 2.6333
+   }
+  ],
+  "frases": [
+   [
+    "En el almuerzo familiar, mi suegra me tocó la guata delante de todos y me preguntó: ¿estás embarazada?",
+    0.035
+   ],
+   [
+    "No lo estaba.",
+    7.686
+   ],
+   [
+    "Todos se quedaron callados.",
+    9.044
+   ],
+   [
+    "Llegué a la casa, me miré en el espejo y por fin entendí.",
+    11.122
+   ]
+  ],
+  "ganho_db": -1.1
+ },
+ "corpo": {
+  "video": "C:\\Users\\PICHAU\\Downloads\\DRENAGEM-LATAM\\producao\\_trabalho\\ad30\\curto_p1c.mp4",
+  "corte": 29.0,
+  "fim": 57.667
+ },
+ "saida": "C:\\Users\\PICHAU\\Downloads\\ADLIB-VITALY-CL\\_trabalho\\prod\\C2\\A\\p1_final.mp4"
+}
